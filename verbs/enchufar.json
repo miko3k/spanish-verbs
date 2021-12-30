@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "enchufar",
+  "gerundio": "enchufando",
+  "participioPasado": "enchufado",
+  "indicativo": {
+    "presente": {
+      "yo": "enchufo",
+      "tu": "enchufas",
+      "ud": "enchufa",
+      "nosotros": "enchufamos",
+      "vosotros": "enchufáis",
+      "uds": "enchufan"
+    },
+    "futuro": {
+      "yo": "enchufaré",
+      "tu": "enchufarás",
+      "ud": "enchufará",
+      "nosotros": "enchufaremos",
+      "vosotros": "enchufaréis",
+      "uds": "enchufarán"
+    },
+    "imperfecto": {
+      "yo": "enchufaba",
+      "tu": "enchufabas",
+      "ud": "enchufaba",
+      "nosotros": "enchufábamos",
+      "vosotros": "enchufabais",
+      "uds": "enchufaban"
+    },
+    "preterito": {
+      "yo": "enchufé",
+      "tu": "enchufaste",
+      "ud": "enchufó",
+      "nosotros": "enchufamos",
+      "vosotros": "enchufasteis",
+      "uds": "enchufaron"
+    },
+    "condicional": {
+      "yo": "enchufaría",
+      "tu": "enchufarías",
+      "ud": "enchufaría",
+      "nosotros": "enchufaríamos",
+      "vosotros": "enchufaríais",
+      "uds": "enchufarían"
+    },
+    "presentePerfecto": {
+      "yo": "he enchufado",
+      "tu": "has enchufado",
+      "ud": "ha enchufado",
+      "nosotros": "hemos enchufado",
+      "vosotros": "habéis enchufado",
+      "uds": "han enchufado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré enchufado",
+      "tu": "habrás enchufado",
+      "ud": "habrá enchufado",
+      "nosotros": "habremos enchufado",
+      "vosotros": "habréis enchufado",
+      "uds": "habrán enchufado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había enchufado",
+      "tu": "habías enchufado",
+      "ud": "había enchufado",
+      "nosotros": "habíamos enchufado",
+      "vosotros": "habíais enchufado",
+      "uds": "habían enchufado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube enchufado",
+      "tu": "hubiste enchufado",
+      "ud": "hubo enchufado",
+      "nosotros": "hubimos enchufado",
+      "vosotros": "hubisteis enchufado",
+      "uds": "hubieron enchufado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría enchufado",
+      "tu": "habrías enchufado",
+      "ud": "habría enchufado",
+      "nosotros": "habríamos enchufado",
+      "vosotros": "habríais enchufado",
+      "uds": "habrían enchufado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "enchufe",
+      "tu": "enchufes",
+      "ud": "enchufe",
+      "nosotros": "enchufemos",
+      "vosotros": "enchuféis",
+      "uds": "enchufen"
+    },
+    "imperfecto": {
+      "yo": "enchufara",
+      "tu": "enchufaras",
+      "ud": "enchufara",
+      "nosotros": "enchufáramos",
+      "vosotros": "enchufarais",
+      "uds": "enchufaran"
+    },
+    "futuro": {
+      "yo": "enchufare",
+      "tu": "enchufares",
+      "ud": "enchufare",
+      "nosotros": "enchufáremos",
+      "vosotros": "enchufareis",
+      "uds": "enchufaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya enchufado",
+      "tu": "hayas enchufado",
+      "ud": "haya enchufado",
+      "nosotros": "hayamos enchufado",
+      "vosotros": "hayáis enchufado",
+      "uds": "hayan enchufado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere enchufado",
+      "tu": "hubieres enchufado",
+      "ud": "hubiere enchufado",
+      "nosotros": "hubiéremos enchufado",
+      "vosotros": "hubiereis enchufado",
+      "uds": "hubieren enchufado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera enchufado",
+      "tu": "hubieras enchufado",
+      "ud": "hubiera enchufado",
+      "nosotros": "hubiéramos enchufado",
+      "vosotros": "hubierais enchufado",
+      "uds": "hubieran enchufado"
+    },
+    "imperfectoAlt": {
+      "yo": "enchufase",
+      "tu": "enchufases",
+      "ud": "enchufase",
+      "nosotros": "enchufásemos",
+      "vosotros": "enchufaseis",
+      "uds": "enchufasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese enchufado",
+      "tu": "hubieses enchufado",
+      "ud": "hubiese enchufado",
+      "nosotros": "hubiésemos enchufado",
+      "vosotros": "hubieseis enchufado",
+      "uds": "hubiesen enchufado"
+    }
+  },
+  "afirmativo": {
+    "tu": "advierte",
+    "vosotros": "advertid",
+    "ud": "advierta",
+    "uds": "adviertan"
+  },
+  "negativo": {
+    "tu": "no adviertas",
+    "vosotros": "no advirtáis",
+    "ud": "no advierta",
+    "uds": "no adviertan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "plug in",
+    "gerundio": "plugging in",
+    "participioPasado": "plugged in",
+    "indicativo": {
+      "presente": "I plug in, am plugging in",
+      "futuro": "I will plug in",
+      "imperfecto": "I was plugging in, used to plug in, plugged in",
+      "preterito": "I plugged in",
+      "condicional": "I would plug in",
+      "presentePerfecto": "I have plugged in",
+      "futuroPerfecto": "I will have plugged in",
+      "pluscuamperfecto": "I had plugged in",
+      "preteritoAnterior": "I had plugged in",
+      "condicionalPerfecto": "I would have plugged in"
+    },
+    "subjuntivo": {
+      "presente": "I plug in, am plugging in",
+      "imperfecto": "I plugged in, was plugging in",
+      "futuro": "I will plug in",
+      "presentePerfecto": "I have plugged in, plugged in",
+      "futuroPerfecto": "I will have plugged in",
+      "pluscuamperfecto": "I had plugged in"
+    },
+    "afirmativo": "Plug in!",
+    "negativo": "Don't plug in!"
+  },
+  "attribution": "wiktionary.org"
+}
