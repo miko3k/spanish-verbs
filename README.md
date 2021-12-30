@@ -1,6 +1,6 @@
 # Improved version of Fred Jehle's Conjugated Spanish Verb Database
 
-PostgreSQL and CSV databases of 600+ conjugated Spanish verbs forming 11,000+ combinations of moods and tenses. Original work by Fred Jehle and database orignally compiled by @ghidinelli. 
+JSON databases of 600+ conjugated Spanish verbs forming 11,000+ combinations of moods and tenses. Original work by Fred Jehle and database orignally compiled by @ghidinelli. 
 
 This repository is a total convertsion into JSON format. It also fixes plenty of issues and adds some additional information from the original source. Also contains one file per verb.
 
