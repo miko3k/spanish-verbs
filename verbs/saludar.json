@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "saludar",
+  "gerundio": "saludando",
+  "participioPasado": "saludado",
+  "indicativo": {
+    "presente": {
+      "yo": "saludo",
+      "tu": "saludas",
+      "ud": "saluda",
+      "nosotros": "saludamos",
+      "vosotros": "saludáis",
+      "uds": "saludan"
+    },
+    "futuro": {
+      "yo": "saludaré",
+      "tu": "saludarás",
+      "ud": "saludará",
+      "nosotros": "saludaremos",
+      "vosotros": "saludaréis",
+      "uds": "saludarán"
+    },
+    "imperfecto": {
+      "yo": "saludaba",
+      "tu": "saludabas",
+      "ud": "saludaba",
+      "nosotros": "saludábamos",
+      "vosotros": "saludabais",
+      "uds": "saludaban"
+    },
+    "preterito": {
+      "yo": "saludé",
+      "tu": "saludaste",
+      "ud": "saludó",
+      "nosotros": "saludamos",
+      "vosotros": "saludasteis",
+      "uds": "saludaron"
+    },
+    "condicional": {
+      "yo": "saludaría",
+      "tu": "saludarías",
+      "ud": "saludaría",
+      "nosotros": "saludaríamos",
+      "vosotros": "saludaríais",
+      "uds": "saludarían"
+    },
+    "presentePerfecto": {
+      "yo": "he saludado",
+      "tu": "has saludado",
+      "ud": "ha saludado",
+      "nosotros": "hemos saludado",
+      "vosotros": "habéis saludado",
+      "uds": "han saludado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré saludado",
+      "tu": "habrás saludado",
+      "ud": "habrá saludado",
+      "nosotros": "habremos saludado",
+      "vosotros": "habréis saludado",
+      "uds": "habrán saludado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había saludado",
+      "tu": "habías saludado",
+      "ud": "había saludado",
+      "nosotros": "habíamos saludado",
+      "vosotros": "habíais saludado",
+      "uds": "habían saludado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube saludado",
+      "tu": "hubiste saludado",
+      "ud": "hubo saludado",
+      "nosotros": "hubimos saludado",
+      "vosotros": "hubisteis saludado",
+      "uds": "hubieron saludado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría saludado",
+      "tu": "habrías saludado",
+      "ud": "habría saludado",
+      "nosotros": "habríamos saludado",
+      "vosotros": "habríais saludado",
+      "uds": "habrían saludado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "salude",
+      "tu": "saludes",
+      "ud": "salude",
+      "nosotros": "saludemos",
+      "vosotros": "saludéis",
+      "uds": "saluden"
+    },
+    "imperfecto": {
+      "yo": "saludara",
+      "tu": "saludaras",
+      "ud": "saludara",
+      "nosotros": "saludáramos",
+      "vosotros": "saludarais",
+      "uds": "saludaran"
+    },
+    "futuro": {
+      "yo": "saludare",
+      "tu": "saludares",
+      "ud": "saludare",
+      "nosotros": "saludáremos",
+      "vosotros": "saludareis",
+      "uds": "saludaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya saludado",
+      "tu": "hayas saludado",
+      "ud": "haya saludado",
+      "nosotros": "hayamos saludado",
+      "vosotros": "hayáis saludado",
+      "uds": "hayan saludado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere saludado",
+      "tu": "hubieres saludado",
+      "ud": "hubiere saludado",
+      "nosotros": "hubiéremos saludado",
+      "vosotros": "hubiereis saludado",
+      "uds": "hubieren saludado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera saludado",
+      "tu": "hubieras saludado",
+      "ud": "hubiera saludado",
+      "nosotros": "hubiéramos saludado",
+      "vosotros": "hubierais saludado",
+      "uds": "hubieran saludado"
+    },
+    "imperfectoAlt": {
+      "yo": "saludase",
+      "tu": "saludases",
+      "ud": "saludase",
+      "nosotros": "saludásemos",
+      "vosotros": "saludaseis",
+      "uds": "saludasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese saludado",
+      "tu": "hubieses saludado",
+      "ud": "hubiese saludado",
+      "nosotros": "hubiésemos saludado",
+      "vosotros": "hubieseis saludado",
+      "uds": "hubiesen saludado"
+    }
+  },
+  "afirmativo": {
+    "tu": "saluda",
+    "vosotros": "saludad",
+    "ud": "salude",
+    "uds": "saluden"
+  },
+  "negativo": {
+    "tu": "no saludes",
+    "vosotros": "no saludéis",
+    "ud": "no salude",
+    "uds": "no saluden"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to greet, salute, hail, welcome",
+    "gerundio": "greeting",
+    "participioPasado": "greeted",
+    "indicativo": {
+      "presente": "I greet, am greeting",
+      "futuro": "I will greet",
+      "imperfecto": "I was greeting, used to greet, greeted",
+      "preterito": "I greeted",
+      "condicional": "I would greet",
+      "presentePerfecto": "I have greeted",
+      "futuroPerfecto": "I will have greeted",
+      "pluscuamperfecto": "I had greeted",
+      "preteritoAnterior": "I had greeted",
+      "condicionalPerfecto": "I would have greeted"
+    },
+    "subjuntivo": {
+      "presente": "I greet, am greeting",
+      "imperfecto": "I greeted, was greeting",
+      "futuro": "I will greet",
+      "presentePerfecto": "I have greeted, greeted",
+      "futuroPerfecto": "I will have greeted",
+      "pluscuamperfecto": "I had greeted"
+    },
+    "afirmativo": "Greet!",
+    "negativo": "Don't greet!"
+  },
+  "attribution": "Fred Jehle"
+}

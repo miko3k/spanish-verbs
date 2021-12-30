@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "tragar",
+  "gerundio": "tragando",
+  "participioPasado": "tragado",
+  "indicativo": {
+    "presente": {
+      "yo": "trago",
+      "tu": "tragas",
+      "ud": "traga",
+      "nosotros": "tragamos",
+      "vosotros": "tragáis",
+      "uds": "tragan"
+    },
+    "futuro": {
+      "yo": "tragaré",
+      "tu": "tragarás",
+      "ud": "tragará",
+      "nosotros": "tragaremos",
+      "vosotros": "tragaréis",
+      "uds": "tragarán"
+    },
+    "imperfecto": {
+      "yo": "tragaba",
+      "tu": "tragabas",
+      "ud": "tragaba",
+      "nosotros": "tragábamos",
+      "vosotros": "tragabais",
+      "uds": "tragaban"
+    },
+    "preterito": {
+      "yo": "tragué",
+      "tu": "tragaste",
+      "ud": "tragó",
+      "nosotros": "tragamos",
+      "vosotros": "tragasteis",
+      "uds": "tragaron"
+    },
+    "condicional": {
+      "yo": "tragaría",
+      "tu": "tragarías",
+      "ud": "tragaría",
+      "nosotros": "tragaríamos",
+      "vosotros": "tragaríais",
+      "uds": "tragarían"
+    },
+    "presentePerfecto": {
+      "yo": "he tragado",
+      "tu": "has tragado",
+      "ud": "ha tragado",
+      "nosotros": "hemos tragado",
+      "vosotros": "habéis tragado",
+      "uds": "han tragado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré tragado",
+      "tu": "habrás tragado",
+      "ud": "habrá tragado",
+      "nosotros": "habremos tragado",
+      "vosotros": "habréis tragado",
+      "uds": "habrán tragado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había tragado",
+      "tu": "habías tragado",
+      "ud": "había tragado",
+      "nosotros": "habíamos tragado",
+      "vosotros": "habíais tragado",
+      "uds": "habían tragado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube tragado",
+      "tu": "hubiste tragado",
+      "ud": "hubo tragado",
+      "nosotros": "hubimos tragado",
+      "vosotros": "hubisteis tragado",
+      "uds": "hubieron tragado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría tragado",
+      "tu": "habrías tragado",
+      "ud": "habría tragado",
+      "nosotros": "habríamos tragado",
+      "vosotros": "habríais tragado",
+      "uds": "habrían tragado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "trague",
+      "tu": "tragues",
+      "ud": "trague",
+      "nosotros": "traguemos",
+      "vosotros": "traguéis",
+      "uds": "traguen"
+    },
+    "imperfecto": {
+      "yo": "tragara",
+      "tu": "tragaras",
+      "ud": "tragara",
+      "nosotros": "tragáramos",
+      "vosotros": "tragarais",
+      "uds": "tragaran"
+    },
+    "futuro": {
+      "yo": "tragare",
+      "tu": "tragares",
+      "ud": "tragare",
+      "nosotros": "tragáremos",
+      "vosotros": "tragareis",
+      "uds": "tragaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya tragado",
+      "tu": "hayas tragado",
+      "ud": "haya tragado",
+      "nosotros": "hayamos tragado",
+      "vosotros": "hayáis tragado",
+      "uds": "hayan tragado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere tragado",
+      "tu": "hubieres tragado",
+      "ud": "hubiere tragado",
+      "nosotros": "hubiéremos tragado",
+      "vosotros": "hubiereis tragado",
+      "uds": "hubieren tragado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera tragado",
+      "tu": "hubieras tragado",
+      "ud": "hubiera tragado",
+      "nosotros": "hubiéramos tragado",
+      "vosotros": "hubierais tragado",
+      "uds": "hubieran tragado"
+    },
+    "imperfectoAlt": {
+      "yo": "tragase",
+      "tu": "tragases",
+      "ud": "tragase",
+      "nosotros": "tragásemos",
+      "vosotros": "tragaseis",
+      "uds": "tragasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese tragado",
+      "tu": "hubieses tragado",
+      "ud": "hubiese tragado",
+      "nosotros": "hubiésemos tragado",
+      "vosotros": "hubieseis tragado",
+      "uds": "hubiesen tragado"
+    }
+  },
+  "afirmativo": {
+    "tu": "traga",
+    "vosotros": "tragad",
+    "ud": "trague",
+    "uds": "traguen"
+  },
+  "negativo": {
+    "tu": "no tragues",
+    "vosotros": "no traguéis",
+    "ud": "no trague",
+    "uds": "no traguen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to swallow, drink up, gulp down; to absorb, soak up; to put up with",
+    "gerundio": "swallowing",
+    "participioPasado": "swallowed",
+    "indicativo": {
+      "presente": "I swallow, am swallowing",
+      "futuro": "I will swallow",
+      "imperfecto": "I was swallowing, used to swallow, swallowed",
+      "preterito": "I swallowed",
+      "condicional": "I would swallow",
+      "presentePerfecto": "I have swallowed",
+      "futuroPerfecto": "I will have swallowed",
+      "pluscuamperfecto": "I had swallowed",
+      "preteritoAnterior": "I had swallowed",
+      "condicionalPerfecto": "I would have swallowed"
+    },
+    "subjuntivo": {
+      "presente": "I swallow, am swallowing",
+      "imperfecto": "I swallowed, was swallowing",
+      "futuro": "I will swallow",
+      "presentePerfecto": "I have swallowed, swallowed",
+      "futuroPerfecto": "I will have swallowed",
+      "pluscuamperfecto": "I had swallowed"
+    },
+    "afirmativo": "Swallow!",
+    "negativo": "Don't swallow!"
+  },
+  "attribution": "Fred Jehle"
+}

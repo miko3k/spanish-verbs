@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "adivinar",
+  "gerundio": "adivinando",
+  "participioPasado": "adivinado",
+  "indicativo": {
+    "presente": {
+      "yo": "adivino",
+      "tu": "adivinas",
+      "ud": "adivina",
+      "nosotros": "adivinamos",
+      "vosotros": "adivináis",
+      "uds": "adivinan"
+    },
+    "futuro": {
+      "yo": "adivinaré",
+      "tu": "adivinarás",
+      "ud": "adivinará",
+      "nosotros": "adivinaremos",
+      "vosotros": "adivinaréis",
+      "uds": "adivinarán"
+    },
+    "imperfecto": {
+      "yo": "adivinaba",
+      "tu": "adivinabas",
+      "ud": "adivinaba",
+      "nosotros": "adivinábamos",
+      "vosotros": "adivinabais",
+      "uds": "adivinaban"
+    },
+    "preterito": {
+      "yo": "adiviné",
+      "tu": "adivinaste",
+      "ud": "adivinó",
+      "nosotros": "adivinamos",
+      "vosotros": "adivinasteis",
+      "uds": "adivinaron"
+    },
+    "condicional": {
+      "yo": "adivinaría",
+      "tu": "adivinarías",
+      "ud": "adivinaría",
+      "nosotros": "adivinaríamos",
+      "vosotros": "adivinaríais",
+      "uds": "adivinarían"
+    },
+    "presentePerfecto": {
+      "yo": "he adivinado",
+      "tu": "has adivinado",
+      "ud": "ha adivinado",
+      "nosotros": "hemos adivinado",
+      "vosotros": "habéis adivinado",
+      "uds": "han adivinado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré adivinado",
+      "tu": "habrás adivinado",
+      "ud": "habrá adivinado",
+      "nosotros": "habremos adivinado",
+      "vosotros": "habréis adivinado",
+      "uds": "habrán adivinado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había adivinado",
+      "tu": "habías adivinado",
+      "ud": "había adivinado",
+      "nosotros": "habíamos adivinado",
+      "vosotros": "habíais adivinado",
+      "uds": "habían adivinado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube adivinado",
+      "tu": "hubiste adivinado",
+      "ud": "hubo adivinado",
+      "nosotros": "hubimos adivinado",
+      "vosotros": "hubisteis adivinado",
+      "uds": "hubieron adivinado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría adivinado",
+      "tu": "habrías adivinado",
+      "ud": "habría adivinado",
+      "nosotros": "habríamos adivinado",
+      "vosotros": "habríais adivinado",
+      "uds": "habrían adivinado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "adivine",
+      "tu": "adivines",
+      "ud": "adivine",
+      "nosotros": "adivinemos",
+      "vosotros": "adivinéis",
+      "uds": "adivinen"
+    },
+    "imperfecto": {
+      "yo": "adivinara",
+      "tu": "adivinaras",
+      "ud": "adivinara",
+      "nosotros": "adivináramos",
+      "vosotros": "adivinarais",
+      "uds": "adivinaran"
+    },
+    "futuro": {
+      "yo": "adivinare",
+      "tu": "adivinares",
+      "ud": "adivinare",
+      "nosotros": "adivináremos",
+      "vosotros": "adivinareis",
+      "uds": "adivinaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya adivinado",
+      "tu": "hayas adivinado",
+      "ud": "haya adivinado",
+      "nosotros": "hayamos adivinado",
+      "vosotros": "hayáis adivinado",
+      "uds": "hayan adivinado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere adivinado",
+      "tu": "hubieres adivinado",
+      "ud": "hubiere adivinado",
+      "nosotros": "hubiéremos adivinado",
+      "vosotros": "hubiereis adivinado",
+      "uds": "hubieren adivinado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera adivinado",
+      "tu": "hubieras adivinado",
+      "ud": "hubiera adivinado",
+      "nosotros": "hubiéramos adivinado",
+      "vosotros": "hubierais adivinado",
+      "uds": "hubieran adivinado"
+    },
+    "imperfectoAlt": {
+      "yo": "adivinase",
+      "tu": "adivinases",
+      "ud": "adivinase",
+      "nosotros": "adivinásemos",
+      "vosotros": "adivinaseis",
+      "uds": "adivinasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese adivinado",
+      "tu": "hubieses adivinado",
+      "ud": "hubiese adivinado",
+      "nosotros": "hubiésemos adivinado",
+      "vosotros": "hubieseis adivinado",
+      "uds": "hubiesen adivinado"
+    }
+  },
+  "afirmativo": {
+    "tu": "adivina",
+    "vosotros": "adivinad",
+    "ud": "adivine",
+    "uds": "adivinen"
+  },
+  "negativo": {
+    "tu": "no adivines",
+    "vosotros": "no adivinéis",
+    "ud": "no adivine",
+    "uds": "no adivinen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to guess, fortell, prophesy; to guess correctly",
+    "gerundio": "guessing",
+    "participioPasado": "guessed",
+    "indicativo": {
+      "presente": "I guess, am guessing",
+      "futuro": "I will guess",
+      "imperfecto": "I was guessing, used to guess, guessed",
+      "preterito": "I guessed",
+      "condicional": "I would guess",
+      "presentePerfecto": "I have guessed",
+      "futuroPerfecto": "I will have guessed",
+      "pluscuamperfecto": "I had guessed",
+      "preteritoAnterior": "I had guessed",
+      "condicionalPerfecto": "I would have guessed"
+    },
+    "subjuntivo": {
+      "presente": "I guess, am guessing",
+      "imperfecto": "I guessed, was guessing",
+      "futuro": "I will guess",
+      "presentePerfecto": "I have guessed, guessed",
+      "futuroPerfecto": "I will have guessed",
+      "pluscuamperfecto": "I had guessed"
+    },
+    "afirmativo": "Guess!",
+    "negativo": "Don't guess!"
+  },
+  "attribution": "Fred Jehle"
+}

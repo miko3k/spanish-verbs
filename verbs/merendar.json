@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "merendar",
+  "gerundio": "merendando",
+  "participioPasado": "merendado",
+  "indicativo": {
+    "presente": {
+      "yo": "meriendo",
+      "tu": "meriendas",
+      "ud": "merienda",
+      "nosotros": "merendamos",
+      "vosotros": "merendáis",
+      "uds": "meriendan"
+    },
+    "futuro": {
+      "yo": "merendaré",
+      "tu": "merendarás",
+      "ud": "merendará",
+      "nosotros": "merendaremos",
+      "vosotros": "merendaréis",
+      "uds": "merendarán"
+    },
+    "imperfecto": {
+      "yo": "merendaba",
+      "tu": "merendabas",
+      "ud": "merendaba",
+      "nosotros": "merendábamos",
+      "vosotros": "merendabais",
+      "uds": "merendaban"
+    },
+    "preterito": {
+      "yo": "merendé",
+      "tu": "merendaste",
+      "ud": "merendó",
+      "nosotros": "merendamos",
+      "vosotros": "merendasteis",
+      "uds": "merendaron"
+    },
+    "condicional": {
+      "yo": "merendaría",
+      "tu": "merendarías",
+      "ud": "merendaría",
+      "nosotros": "merendaríamos",
+      "vosotros": "merendaríais",
+      "uds": "merendarían"
+    },
+    "presentePerfecto": {
+      "yo": "he merendado",
+      "tu": "has merendado",
+      "ud": "ha merendado",
+      "nosotros": "hemos merendado",
+      "vosotros": "habéis merendado",
+      "uds": "han merendado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré merendado",
+      "tu": "habrás merendado",
+      "ud": "habrá merendado",
+      "nosotros": "habremos merendado",
+      "vosotros": "habréis merendado",
+      "uds": "habrán merendado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había merendado",
+      "tu": "habías merendado",
+      "ud": "había merendado",
+      "nosotros": "habíamos merendado",
+      "vosotros": "habíais merendado",
+      "uds": "habían merendado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube merendado",
+      "tu": "hubiste merendado",
+      "ud": "hubo merendado",
+      "nosotros": "hubimos merendado",
+      "vosotros": "hubisteis merendado",
+      "uds": "hubieron merendado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría merendado",
+      "tu": "habrías merendado",
+      "ud": "habría merendado",
+      "nosotros": "habríamos merendado",
+      "vosotros": "habríais merendado",
+      "uds": "habrían merendado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "meriende",
+      "tu": "meriendes",
+      "ud": "meriende",
+      "nosotros": "merendemos",
+      "vosotros": "merendéis",
+      "uds": "merienden"
+    },
+    "imperfecto": {
+      "yo": "merendara",
+      "tu": "merendaras",
+      "ud": "merendara",
+      "nosotros": "merendáramos",
+      "vosotros": "merendarais",
+      "uds": "merendaran"
+    },
+    "futuro": {
+      "yo": "merendare",
+      "tu": "merendares",
+      "ud": "merendare",
+      "nosotros": "merendáremos",
+      "vosotros": "merendareis",
+      "uds": "merendaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya merendado",
+      "tu": "hayas merendado",
+      "ud": "haya merendado",
+      "nosotros": "hayamos merendado",
+      "vosotros": "hayáis merendado",
+      "uds": "hayan merendado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere merendado",
+      "tu": "hubieres merendado",
+      "ud": "hubiere merendado",
+      "nosotros": "hubiéremos merendado",
+      "vosotros": "hubiereis merendado",
+      "uds": "hubieren merendado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera merendado",
+      "tu": "hubieras merendado",
+      "ud": "hubiera merendado",
+      "nosotros": "hubiéramos merendado",
+      "vosotros": "hubierais merendado",
+      "uds": "hubieran merendado"
+    },
+    "imperfectoAlt": {
+      "yo": "merendase",
+      "tu": "merendases",
+      "ud": "merendase",
+      "nosotros": "merendásemos",
+      "vosotros": "merendaseis",
+      "uds": "merendasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese merendado",
+      "tu": "hubieses merendado",
+      "ud": "hubiese merendado",
+      "nosotros": "hubiésemos merendado",
+      "vosotros": "hubieseis merendado",
+      "uds": "hubiesen merendado"
+    }
+  },
+  "afirmativo": {
+    "tu": "merienda",
+    "vosotros": "merendad",
+    "ud": "meriende",
+    "uds": "merienden"
+  },
+  "negativo": {
+    "tu": "no meriendes",
+    "vosotros": "no merendéis",
+    "ud": "no meriende",
+    "uds": "no merienden"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie.",
+    "infinitivo": "to have a(n afternoon) snack, have as a snack",
+    "gerundio": "having a snack",
+    "participioPasado": "had a snack",
+    "indicativo": {
+      "presente": "I have a snack, am having a snack",
+      "futuro": "I will have a snack",
+      "imperfecto": "I was having a snack, used to have a snack, had a snack",
+      "preterito": "I had a snack",
+      "condicional": "I would have a snack",
+      "presentePerfecto": "I have had a snack",
+      "futuroPerfecto": "I will have had a snack",
+      "pluscuamperfecto": "I had had a snack",
+      "preteritoAnterior": "I had had a snack",
+      "condicionalPerfecto": "I would have had a snack"
+    },
+    "subjuntivo": {
+      "presente": "I have a snack, am having a snack",
+      "imperfecto": "I had a snack, was having a snack",
+      "futuro": "I will have a snack",
+      "presentePerfecto": "I have had a snack, had a snack",
+      "futuroPerfecto": "I will have had a snack",
+      "pluscuamperfecto": "I had had a snack"
+    },
+    "afirmativo": "Have a snack!",
+    "negativo": "Don't have a snack!"
+  },
+  "attribution": "Fred Jehle"
+}

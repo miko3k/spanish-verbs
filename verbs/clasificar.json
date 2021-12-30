@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "clasificar",
+  "gerundio": "clasificando",
+  "participioPasado": "clasificado",
+  "indicativo": {
+    "presente": {
+      "yo": "clasifico",
+      "tu": "clasificas",
+      "ud": "clasifica",
+      "nosotros": "clasificamos",
+      "vosotros": "clasificáis",
+      "uds": "clasifican"
+    },
+    "futuro": {
+      "yo": "clasificaré",
+      "tu": "clasificarás",
+      "ud": "clasificará",
+      "nosotros": "clasificaremos",
+      "vosotros": "clasificaréis",
+      "uds": "clasificarán"
+    },
+    "imperfecto": {
+      "yo": "clasificaba",
+      "tu": "clasificabas",
+      "ud": "clasificaba",
+      "nosotros": "clasificábamos",
+      "vosotros": "clasificabais",
+      "uds": "clasificaban"
+    },
+    "preterito": {
+      "yo": "clasifiqué",
+      "tu": "clasificaste",
+      "ud": "clasificó",
+      "nosotros": "clasificamos",
+      "vosotros": "clasificasteis",
+      "uds": "clasificaron"
+    },
+    "condicional": {
+      "yo": "clasificaría",
+      "tu": "clasificarías",
+      "ud": "clasificaría",
+      "nosotros": "clasificaríamos",
+      "vosotros": "clasificaríais",
+      "uds": "clasificarían"
+    },
+    "presentePerfecto": {
+      "yo": "he clasificado",
+      "tu": "has clasificado",
+      "ud": "ha clasificado",
+      "nosotros": "hemos clasificado",
+      "vosotros": "habéis clasificado",
+      "uds": "han clasificado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré clasificado",
+      "tu": "habrás clasificado",
+      "ud": "habrá clasificado",
+      "nosotros": "habremos clasificado",
+      "vosotros": "habréis clasificado",
+      "uds": "habrán clasificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había clasificado",
+      "tu": "habías clasificado",
+      "ud": "había clasificado",
+      "nosotros": "habíamos clasificado",
+      "vosotros": "habíais clasificado",
+      "uds": "habían clasificado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube clasificado",
+      "tu": "hubiste clasificado",
+      "ud": "hubo clasificado",
+      "nosotros": "hubimos clasificado",
+      "vosotros": "hubisteis clasificado",
+      "uds": "hubieron clasificado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría clasificado",
+      "tu": "habrías clasificado",
+      "ud": "habría clasificado",
+      "nosotros": "habríamos clasificado",
+      "vosotros": "habríais clasificado",
+      "uds": "habrían clasificado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "clasifique",
+      "tu": "clasifiques",
+      "ud": "clasifique",
+      "nosotros": "clasifiquemos",
+      "vosotros": "clasifiquéis",
+      "uds": "clasifiquen"
+    },
+    "imperfecto": {
+      "yo": "clasificara",
+      "tu": "clasificaras",
+      "ud": "clasificara",
+      "nosotros": "clasificáramos",
+      "vosotros": "clasificarais",
+      "uds": "clasificaran"
+    },
+    "futuro": {
+      "yo": "clasificare",
+      "tu": "clasificares",
+      "ud": "clasificare",
+      "nosotros": "clasificáremos",
+      "vosotros": "clasificareis",
+      "uds": "clasificaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya clasificado",
+      "tu": "hayas clasificado",
+      "ud": "haya clasificado",
+      "nosotros": "hayamos clasificado",
+      "vosotros": "hayáis clasificado",
+      "uds": "hayan clasificado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere clasificado",
+      "tu": "hubieres clasificado",
+      "ud": "hubiere clasificado",
+      "nosotros": "hubiéremos clasificado",
+      "vosotros": "hubiereis clasificado",
+      "uds": "hubieren clasificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera clasificado",
+      "tu": "hubieras clasificado",
+      "ud": "hubiera clasificado",
+      "nosotros": "hubiéramos clasificado",
+      "vosotros": "hubierais clasificado",
+      "uds": "hubieran clasificado"
+    },
+    "imperfectoAlt": {
+      "yo": "clasificase",
+      "tu": "clasificases",
+      "ud": "clasificase",
+      "nosotros": "clasificásemos",
+      "vosotros": "clasificaseis",
+      "uds": "clasificasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese clasificado",
+      "tu": "hubieses clasificado",
+      "ud": "hubiese clasificado",
+      "nosotros": "hubiésemos clasificado",
+      "vosotros": "hubieseis clasificado",
+      "uds": "hubiesen clasificado"
+    }
+  },
+  "afirmativo": {
+    "tu": "clasifica",
+    "vosotros": "clasificad",
+    "ud": "clasifique",
+    "uds": "clasifiquen"
+  },
+  "negativo": {
+    "tu": "no clasifiques",
+    "vosotros": "no clasifiquéis",
+    "ud": "no clasifique",
+    "uds": "no clasifiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to classify, grade, rate, sort",
+    "gerundio": "classifying",
+    "participioPasado": "classified",
+    "indicativo": {
+      "presente": "I classify, am classifying",
+      "futuro": "I will classify",
+      "imperfecto": "I was classifying, used to classify, classified",
+      "preterito": "I classified",
+      "condicional": "I would classify",
+      "presentePerfecto": "I have classified",
+      "futuroPerfecto": "I will have classified",
+      "pluscuamperfecto": "I had classified",
+      "preteritoAnterior": "I had classified",
+      "condicionalPerfecto": "I would have classified"
+    },
+    "subjuntivo": {
+      "presente": "I classify, am classifying",
+      "imperfecto": "I classified, was classifying",
+      "futuro": "I will classify",
+      "presentePerfecto": "I have classified, classified",
+      "futuroPerfecto": "I will have classified",
+      "pluscuamperfecto": "I had classified"
+    },
+    "afirmativo": "Classify!",
+    "negativo": "Don't classify!"
+  },
+  "attribution": "Fred Jehle"
+}

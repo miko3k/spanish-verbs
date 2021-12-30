@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "abusar",
+  "gerundio": "abusando",
+  "participioPasado": "abusado",
+  "indicativo": {
+    "presente": {
+      "yo": "abuso",
+      "tu": "abusas",
+      "ud": "abusa",
+      "nosotros": "abusamos",
+      "vosotros": "abusáis",
+      "uds": "abusan"
+    },
+    "futuro": {
+      "yo": "abusaré",
+      "tu": "abusarás",
+      "ud": "abusará",
+      "nosotros": "abusaremos",
+      "vosotros": "abusaréis",
+      "uds": "abusarán"
+    },
+    "imperfecto": {
+      "yo": "abusaba",
+      "tu": "abusabas",
+      "ud": "abusaba",
+      "nosotros": "abusábamos",
+      "vosotros": "abusabais",
+      "uds": "abusaban"
+    },
+    "preterito": {
+      "yo": "abusé",
+      "tu": "abusaste",
+      "ud": "abusó",
+      "nosotros": "abusamos",
+      "vosotros": "abusasteis",
+      "uds": "abusaron"
+    },
+    "condicional": {
+      "yo": "abusaría",
+      "tu": "abusarías",
+      "ud": "abusaría",
+      "nosotros": "abusaríamos",
+      "vosotros": "abusaríais",
+      "uds": "abusarían"
+    },
+    "presentePerfecto": {
+      "yo": "he abusado",
+      "tu": "has abusado",
+      "ud": "ha abusado",
+      "nosotros": "hemos abusado",
+      "vosotros": "habéis abusado",
+      "uds": "han abusado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré abusado",
+      "tu": "habrás abusado",
+      "ud": "habrá abusado",
+      "nosotros": "habremos abusado",
+      "vosotros": "habréis abusado",
+      "uds": "habrán abusado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había abusado",
+      "tu": "habías abusado",
+      "ud": "había abusado",
+      "nosotros": "habíamos abusado",
+      "vosotros": "habíais abusado",
+      "uds": "habían abusado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube abusado",
+      "tu": "hubiste abusado",
+      "ud": "hubo abusado",
+      "nosotros": "hubimos abusado",
+      "vosotros": "hubisteis abusado",
+      "uds": "hubieron abusado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría abusado",
+      "tu": "habrías abusado",
+      "ud": "habría abusado",
+      "nosotros": "habríamos abusado",
+      "vosotros": "habríais abusado",
+      "uds": "habrían abusado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "abuse",
+      "tu": "abuses",
+      "ud": "abuse",
+      "nosotros": "abusemos",
+      "vosotros": "abuséis",
+      "uds": "abusen"
+    },
+    "imperfecto": {
+      "yo": "abusara",
+      "tu": "abusaras",
+      "ud": "abusara",
+      "nosotros": "abusáramos",
+      "vosotros": "abusarais",
+      "uds": "abusaran"
+    },
+    "futuro": {
+      "yo": "abusare",
+      "tu": "abusares",
+      "ud": "abusare",
+      "nosotros": "abusáremos",
+      "vosotros": "abusareis",
+      "uds": "abusaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya abusado",
+      "tu": "hayas abusado",
+      "ud": "haya abusado",
+      "nosotros": "hayamos abusado",
+      "vosotros": "hayáis abusado",
+      "uds": "hayan abusado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere abusado",
+      "tu": "hubieres abusado",
+      "ud": "hubiere abusado",
+      "nosotros": "hubiéremos abusado",
+      "vosotros": "hubiereis abusado",
+      "uds": "hubieren abusado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera abusado",
+      "tu": "hubieras abusado",
+      "ud": "hubiera abusado",
+      "nosotros": "hubiéramos abusado",
+      "vosotros": "hubierais abusado",
+      "uds": "hubieran abusado"
+    },
+    "imperfectoAlt": {
+      "yo": "abusase",
+      "tu": "abusases",
+      "ud": "abusase",
+      "nosotros": "abusásemos",
+      "vosotros": "abusaseis",
+      "uds": "abusasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese abusado",
+      "tu": "hubieses abusado",
+      "ud": "hubiese abusado",
+      "nosotros": "hubiésemos abusado",
+      "vosotros": "hubieseis abusado",
+      "uds": "hubiesen abusado"
+    }
+  },
+  "afirmativo": {
+    "tu": "abusa",
+    "vosotros": "abusad",
+    "ud": "abuse",
+    "uds": "abusen"
+  },
+  "negativo": {
+    "tu": "no abuses",
+    "vosotros": "no abuséis",
+    "ud": "no abuse",
+    "uds": "no abusen"
+  },
+  "english": {
+    "note": "Note: This is an intransitive verb; that is, it does not take a direct object; however, abusar de (alguien/algo) is used as to abuse (someone/something), to presume upon, take unfair advantage of.",
+    "infinitivo": "to go too far, take advantage",
+    "gerundio": "going too far",
+    "participioPasado": "gone too far, abused",
+    "indicativo": {
+      "presente": "I go too far, am going too far",
+      "futuro": "I will go too far",
+      "imperfecto": "I was going too far, used to go too far, went too far",
+      "preterito": "I went too far",
+      "condicional": "I would go too far",
+      "presentePerfecto": "I have gone too far",
+      "futuroPerfecto": "I will have gone too far",
+      "pluscuamperfecto": "I had gone too far",
+      "preteritoAnterior": "I had gone too far",
+      "condicionalPerfecto": "I would have gone too far"
+    },
+    "subjuntivo": {
+      "presente": "I go too far, am going too far",
+      "imperfecto": "I went too far, was going too far",
+      "futuro": "I will go too far",
+      "presentePerfecto": "I have gone too far, went too far",
+      "futuroPerfecto": "I will have gone too far",
+      "pluscuamperfecto": "I had gone too far"
+    },
+    "afirmativo": "Go too far!",
+    "negativo": "Don't go too far!"
+  },
+  "attribution": "Fred Jehle"
+}

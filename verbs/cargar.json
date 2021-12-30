@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "cargar",
+  "gerundio": "cargando",
+  "participioPasado": "cargado",
+  "indicativo": {
+    "presente": {
+      "yo": "cargo",
+      "tu": "cargas",
+      "ud": "carga",
+      "nosotros": "cargamos",
+      "vosotros": "cargáis",
+      "uds": "cargan"
+    },
+    "futuro": {
+      "yo": "cargaré",
+      "tu": "cargarás",
+      "ud": "cargará",
+      "nosotros": "cargaremos",
+      "vosotros": "cargaréis",
+      "uds": "cargarán"
+    },
+    "imperfecto": {
+      "yo": "cargaba",
+      "tu": "cargabas",
+      "ud": "cargaba",
+      "nosotros": "cargábamos",
+      "vosotros": "cargabais",
+      "uds": "cargaban"
+    },
+    "preterito": {
+      "yo": "cargué",
+      "tu": "cargaste",
+      "ud": "cargó",
+      "nosotros": "cargamos",
+      "vosotros": "cargasteis",
+      "uds": "cargaron"
+    },
+    "condicional": {
+      "yo": "cargaría",
+      "tu": "cargarías",
+      "ud": "cargaría",
+      "nosotros": "cargaríamos",
+      "vosotros": "cargaríais",
+      "uds": "cargarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cargado",
+      "tu": "has cargado",
+      "ud": "ha cargado",
+      "nosotros": "hemos cargado",
+      "vosotros": "habéis cargado",
+      "uds": "han cargado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cargado",
+      "tu": "habrás cargado",
+      "ud": "habrá cargado",
+      "nosotros": "habremos cargado",
+      "vosotros": "habréis cargado",
+      "uds": "habrán cargado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cargado",
+      "tu": "habías cargado",
+      "ud": "había cargado",
+      "nosotros": "habíamos cargado",
+      "vosotros": "habíais cargado",
+      "uds": "habían cargado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cargado",
+      "tu": "hubiste cargado",
+      "ud": "hubo cargado",
+      "nosotros": "hubimos cargado",
+      "vosotros": "hubisteis cargado",
+      "uds": "hubieron cargado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cargado",
+      "tu": "habrías cargado",
+      "ud": "habría cargado",
+      "nosotros": "habríamos cargado",
+      "vosotros": "habríais cargado",
+      "uds": "habrían cargado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cargue",
+      "tu": "cargues",
+      "ud": "cargue",
+      "nosotros": "carguemos",
+      "vosotros": "carguéis",
+      "uds": "carguen"
+    },
+    "imperfecto": {
+      "yo": "cargara",
+      "tu": "cargaras",
+      "ud": "cargara",
+      "nosotros": "cargáramos",
+      "vosotros": "cargarais",
+      "uds": "cargaran"
+    },
+    "futuro": {
+      "yo": "cargare",
+      "tu": "cargares",
+      "ud": "cargare",
+      "nosotros": "cargáremos",
+      "vosotros": "cargareis",
+      "uds": "cargaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cargado",
+      "tu": "hayas cargado",
+      "ud": "haya cargado",
+      "nosotros": "hayamos cargado",
+      "vosotros": "hayáis cargado",
+      "uds": "hayan cargado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cargado",
+      "tu": "hubieres cargado",
+      "ud": "hubiere cargado",
+      "nosotros": "hubiéremos cargado",
+      "vosotros": "hubiereis cargado",
+      "uds": "hubieren cargado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cargado",
+      "tu": "hubieras cargado",
+      "ud": "hubiera cargado",
+      "nosotros": "hubiéramos cargado",
+      "vosotros": "hubierais cargado",
+      "uds": "hubieran cargado"
+    },
+    "imperfectoAlt": {
+      "yo": "cargase",
+      "tu": "cargases",
+      "ud": "cargase",
+      "nosotros": "cargásemos",
+      "vosotros": "cargaseis",
+      "uds": "cargasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cargado",
+      "tu": "hubieses cargado",
+      "ud": "hubiese cargado",
+      "nosotros": "hubiésemos cargado",
+      "vosotros": "hubieseis cargado",
+      "uds": "hubiesen cargado"
+    }
+  },
+  "afirmativo": {
+    "tu": "carga",
+    "vosotros": "cargad",
+    "ud": "cargue",
+    "uds": "carguen"
+  },
+  "negativo": {
+    "tu": "no cargues",
+    "vosotros": "no carguéis",
+    "ud": "no cargue",
+    "uds": "no carguen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to load, load up; to charge",
+    "gerundio": "loading",
+    "participioPasado": "loaded",
+    "indicativo": {
+      "presente": "I load, am loading",
+      "futuro": "I will load",
+      "imperfecto": "I was loading, used to load, loaded",
+      "preterito": "I loaded",
+      "condicional": "I would load",
+      "presentePerfecto": "I have loaded",
+      "futuroPerfecto": "I will have loaded",
+      "pluscuamperfecto": "I had loaded",
+      "preteritoAnterior": "I had loaded",
+      "condicionalPerfecto": "I would have loaded"
+    },
+    "subjuntivo": {
+      "presente": "I load, am loading",
+      "imperfecto": "I loaded, was loading",
+      "futuro": "I will load",
+      "presentePerfecto": "I have loaded, loaded",
+      "futuroPerfecto": "I will have loaded",
+      "pluscuamperfecto": "I had loaded"
+    },
+    "afirmativo": "Load!",
+    "negativo": "Don't load!"
+  },
+  "attribution": "Fred Jehle"
+}

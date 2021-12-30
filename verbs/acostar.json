@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "acostar",
+  "gerundio": "acostando",
+  "participioPasado": "acostado",
+  "indicativo": {
+    "presente": {
+      "yo": "acuesto",
+      "tu": "acuestas",
+      "ud": "acuesta",
+      "nosotros": "acostamos",
+      "vosotros": "acostáis",
+      "uds": "acuestan"
+    },
+    "futuro": {
+      "yo": "acostaré",
+      "tu": "acostarás",
+      "ud": "acostará",
+      "nosotros": "acostaremos",
+      "vosotros": "acostaréis",
+      "uds": "acostarán"
+    },
+    "imperfecto": {
+      "yo": "acostaba",
+      "tu": "acostabas",
+      "ud": "acostaba",
+      "nosotros": "acostábamos",
+      "vosotros": "acostabais",
+      "uds": "acostaban"
+    },
+    "preterito": {
+      "yo": "acosté",
+      "tu": "acostaste",
+      "ud": "acostó",
+      "nosotros": "acostamos",
+      "vosotros": "acostasteis",
+      "uds": "acostaron"
+    },
+    "condicional": {
+      "yo": "acostaría",
+      "tu": "acostarías",
+      "ud": "acostaría",
+      "nosotros": "acostaríamos",
+      "vosotros": "acostaríais",
+      "uds": "acostarían"
+    },
+    "presentePerfecto": {
+      "yo": "he acostado",
+      "tu": "has acostado",
+      "ud": "ha acostado",
+      "nosotros": "hemos acostado",
+      "vosotros": "habéis acostado",
+      "uds": "han acostado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré acostado",
+      "tu": "habrás acostado",
+      "ud": "habrá acostado",
+      "nosotros": "habremos acostado",
+      "vosotros": "habréis acostado",
+      "uds": "habrán acostado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había acostado",
+      "tu": "habías acostado",
+      "ud": "había acostado",
+      "nosotros": "habíamos acostado",
+      "vosotros": "habíais acostado",
+      "uds": "habían acostado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube acostado",
+      "tu": "hubiste acostado",
+      "ud": "hubo acostado",
+      "nosotros": "hubimos acostado",
+      "vosotros": "hubisteis acostado",
+      "uds": "hubieron acostado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría acostado",
+      "tu": "habrías acostado",
+      "ud": "habría acostado",
+      "nosotros": "habríamos acostado",
+      "vosotros": "habríais acostado",
+      "uds": "habrían acostado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "acueste",
+      "tu": "acuestes",
+      "ud": "acueste",
+      "nosotros": "acostemos",
+      "vosotros": "acostéis",
+      "uds": "acuesten"
+    },
+    "imperfecto": {
+      "yo": "acostara",
+      "tu": "acostaras",
+      "ud": "acostara",
+      "nosotros": "acostáramos",
+      "vosotros": "acostarais",
+      "uds": "acostaran"
+    },
+    "futuro": {
+      "yo": "acostare",
+      "tu": "acostares",
+      "ud": "acostare",
+      "nosotros": "acostáremos",
+      "vosotros": "acostareis",
+      "uds": "acostaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya acostado",
+      "tu": "hayas acostado",
+      "ud": "haya acostado",
+      "nosotros": "hayamos acostado",
+      "vosotros": "hayáis acostado",
+      "uds": "hayan acostado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere acostado",
+      "tu": "hubieres acostado",
+      "ud": "hubiere acostado",
+      "nosotros": "hubiéremos acostado",
+      "vosotros": "hubiereis acostado",
+      "uds": "hubieren acostado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera acostado",
+      "tu": "hubieras acostado",
+      "ud": "hubiera acostado",
+      "nosotros": "hubiéramos acostado",
+      "vosotros": "hubierais acostado",
+      "uds": "hubieran acostado"
+    },
+    "imperfectoAlt": {
+      "yo": "acostase",
+      "tu": "acostases",
+      "ud": "acostase",
+      "nosotros": "acostásemos",
+      "vosotros": "acostaseis",
+      "uds": "acostasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese acostado",
+      "tu": "hubieses acostado",
+      "ud": "hubiese acostado",
+      "nosotros": "hubiésemos acostado",
+      "vosotros": "hubieseis acostado",
+      "uds": "hubiesen acostado"
+    }
+  },
+  "afirmativo": {
+    "tu": "acuesta",
+    "vosotros": "acostad",
+    "ud": "acueste",
+    "uds": "acuesten"
+  },
+  "negativo": {
+    "tu": "no acuestes",
+    "vosotros": "no acostéis",
+    "ud": "no acueste",
+    "uds": "no acuesten"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Note: the reflexive form acostarse = to go to bed.",
+    "infinitivo": "to put to bed",
+    "gerundio": "putting to bed",
+    "participioPasado": "put to bed",
+    "indicativo": {
+      "presente": "I put to bed, am putting to bed",
+      "futuro": "I will put to bed",
+      "imperfecto": "I was putting to bed, used to put to bed, put to bed",
+      "preterito": "I put to bed",
+      "condicional": "I would put to bed",
+      "presentePerfecto": "I have put to bed",
+      "futuroPerfecto": "I will have put to bed",
+      "pluscuamperfecto": "I had put to bed",
+      "preteritoAnterior": "I had put to bed",
+      "condicionalPerfecto": "I would have put to bed"
+    },
+    "subjuntivo": {
+      "presente": "I put to bed, am putting to bed",
+      "imperfecto": "I put to bed, was putting to bed",
+      "futuro": "I will put to bed",
+      "presentePerfecto": "I have put to bed, put to bed",
+      "futuroPerfecto": "I will have put to bed",
+      "pluscuamperfecto": "I had put to bed"
+    },
+    "afirmativo": "Put to bed!",
+    "negativo": "Don't put to bed!"
+  },
+  "attribution": "Fred Jehle"
+}

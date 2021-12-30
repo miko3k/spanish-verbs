@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "planchar",
+  "gerundio": "planchando",
+  "participioPasado": "planchado",
+  "indicativo": {
+    "presente": {
+      "yo": "plancho",
+      "tu": "planchas",
+      "ud": "plancha",
+      "nosotros": "planchamos",
+      "vosotros": "plancháis",
+      "uds": "planchan"
+    },
+    "futuro": {
+      "yo": "plancharé",
+      "tu": "plancharás",
+      "ud": "planchará",
+      "nosotros": "plancharemos",
+      "vosotros": "plancharéis",
+      "uds": "plancharán"
+    },
+    "imperfecto": {
+      "yo": "planchaba",
+      "tu": "planchabas",
+      "ud": "planchaba",
+      "nosotros": "planchábamos",
+      "vosotros": "planchabais",
+      "uds": "planchaban"
+    },
+    "preterito": {
+      "yo": "planché",
+      "tu": "planchaste",
+      "ud": "planchó",
+      "nosotros": "planchamos",
+      "vosotros": "planchasteis",
+      "uds": "plancharon"
+    },
+    "condicional": {
+      "yo": "plancharía",
+      "tu": "plancharías",
+      "ud": "plancharía",
+      "nosotros": "plancharíamos",
+      "vosotros": "plancharíais",
+      "uds": "plancharían"
+    },
+    "presentePerfecto": {
+      "yo": "he planchado",
+      "tu": "has planchado",
+      "ud": "ha planchado",
+      "nosotros": "hemos planchado",
+      "vosotros": "habéis planchado",
+      "uds": "han planchado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré planchado",
+      "tu": "habrás planchado",
+      "ud": "habrá planchado",
+      "nosotros": "habremos planchado",
+      "vosotros": "habréis planchado",
+      "uds": "habrán planchado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había planchado",
+      "tu": "habías planchado",
+      "ud": "había planchado",
+      "nosotros": "habíamos planchado",
+      "vosotros": "habíais planchado",
+      "uds": "habían planchado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube planchado",
+      "tu": "hubiste planchado",
+      "ud": "hubo planchado",
+      "nosotros": "hubimos planchado",
+      "vosotros": "hubisteis planchado",
+      "uds": "hubieron planchado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría planchado",
+      "tu": "habrías planchado",
+      "ud": "habría planchado",
+      "nosotros": "habríamos planchado",
+      "vosotros": "habríais planchado",
+      "uds": "habrían planchado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "planche",
+      "tu": "planches",
+      "ud": "planche",
+      "nosotros": "planchemos",
+      "vosotros": "planchéis",
+      "uds": "planchen"
+    },
+    "imperfecto": {
+      "yo": "planchara",
+      "tu": "plancharas",
+      "ud": "planchara",
+      "nosotros": "plancháramos",
+      "vosotros": "plancharais",
+      "uds": "plancharan"
+    },
+    "futuro": {
+      "yo": "planchare",
+      "tu": "planchares",
+      "ud": "planchare",
+      "nosotros": "plancháremos",
+      "vosotros": "planchareis",
+      "uds": "plancharen"
+    },
+    "presentePerfecto": {
+      "yo": "haya planchado",
+      "tu": "hayas planchado",
+      "ud": "haya planchado",
+      "nosotros": "hayamos planchado",
+      "vosotros": "hayáis planchado",
+      "uds": "hayan planchado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere planchado",
+      "tu": "hubieres planchado",
+      "ud": "hubiere planchado",
+      "nosotros": "hubiéremos planchado",
+      "vosotros": "hubiereis planchado",
+      "uds": "hubieren planchado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera planchado",
+      "tu": "hubieras planchado",
+      "ud": "hubiera planchado",
+      "nosotros": "hubiéramos planchado",
+      "vosotros": "hubierais planchado",
+      "uds": "hubieran planchado"
+    },
+    "imperfectoAlt": {
+      "yo": "planchase",
+      "tu": "planchases",
+      "ud": "planchase",
+      "nosotros": "planchásemos",
+      "vosotros": "planchaseis",
+      "uds": "planchasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese planchado",
+      "tu": "hubieses planchado",
+      "ud": "hubiese planchado",
+      "nosotros": "hubiésemos planchado",
+      "vosotros": "hubieseis planchado",
+      "uds": "hubiesen planchado"
+    }
+  },
+  "afirmativo": {
+    "tu": "plancha",
+    "vosotros": "planchad",
+    "ud": "planche",
+    "uds": "planchen"
+  },
+  "negativo": {
+    "tu": "no planches",
+    "vosotros": "no planchéis",
+    "ud": "no planche",
+    "uds": "no planchen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to iron, press; to do the ironing",
+    "gerundio": "ironing",
+    "participioPasado": "ironed",
+    "indicativo": {
+      "presente": "I iron, am ironing",
+      "futuro": "I will iron",
+      "imperfecto": "I was ironing, used to iron, ironed",
+      "preterito": "I ironed",
+      "condicional": "I would iron",
+      "presentePerfecto": "I have ironed",
+      "futuroPerfecto": "I will have ironed",
+      "pluscuamperfecto": "I had ironed",
+      "preteritoAnterior": "I had ironed",
+      "condicionalPerfecto": "I would have ironed"
+    },
+    "subjuntivo": {
+      "presente": "I iron, am ironing",
+      "imperfecto": "I ironed, was ironing",
+      "futuro": "I will iron",
+      "presentePerfecto": "I have ironed, ironed",
+      "futuroPerfecto": "I will have ironed",
+      "pluscuamperfecto": "I had ironed"
+    },
+    "afirmativo": "iron!",
+    "negativo": "Don't iron!"
+  },
+  "attribution": "Fred Jehle"
+}

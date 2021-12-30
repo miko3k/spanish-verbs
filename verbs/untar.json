@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "untar",
+  "gerundio": "untando",
+  "participioPasado": "untado",
+  "indicativo": {
+    "presente": {
+      "yo": "unto",
+      "tu": "untas",
+      "ud": "unta",
+      "nosotros": "untamos",
+      "vosotros": "untáis",
+      "uds": "untan"
+    },
+    "futuro": {
+      "yo": "untaré",
+      "tu": "untarás",
+      "ud": "untará",
+      "nosotros": "untaremos",
+      "vosotros": "untaréis",
+      "uds": "untarán"
+    },
+    "imperfecto": {
+      "yo": "untaba",
+      "tu": "untabas",
+      "ud": "untaba",
+      "nosotros": "untábamos",
+      "vosotros": "untabais",
+      "uds": "untaban"
+    },
+    "preterito": {
+      "yo": "unté",
+      "tu": "untaste",
+      "ud": "untó",
+      "nosotros": "untamos",
+      "vosotros": "untasteis",
+      "uds": "untaron"
+    },
+    "condicional": {
+      "yo": "untaría",
+      "tu": "untarías",
+      "ud": "untaría",
+      "nosotros": "untaríamos",
+      "vosotros": "untaríais",
+      "uds": "untarían"
+    },
+    "presentePerfecto": {
+      "yo": "he untado",
+      "tu": "has untado",
+      "ud": "ha untado",
+      "nosotros": "hemos untado",
+      "vosotros": "habéis untado",
+      "uds": "han untado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré untado",
+      "tu": "habrás untado",
+      "ud": "habrá untado",
+      "nosotros": "habremos untado",
+      "vosotros": "habréis untado",
+      "uds": "habrán untado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había untado",
+      "tu": "habías untado",
+      "ud": "había untado",
+      "nosotros": "habíamos untado",
+      "vosotros": "habíais untado",
+      "uds": "habían untado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube untado",
+      "tu": "hubiste untado",
+      "ud": "hubo untado",
+      "nosotros": "hubimos untado",
+      "vosotros": "hubisteis untado",
+      "uds": "hubieron untado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría untado",
+      "tu": "habrías untado",
+      "ud": "habría untado",
+      "nosotros": "habríamos untado",
+      "vosotros": "habríais untado",
+      "uds": "habrían untado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "unte",
+      "tu": "untes",
+      "ud": "unte",
+      "nosotros": "untemos",
+      "vosotros": "untéis",
+      "uds": "unten"
+    },
+    "imperfecto": {
+      "yo": "untara",
+      "tu": "untaras",
+      "ud": "untara",
+      "nosotros": "untáramos",
+      "vosotros": "untarais",
+      "uds": "untaran"
+    },
+    "futuro": {
+      "yo": "untare",
+      "tu": "untares",
+      "ud": "untare",
+      "nosotros": "untáremos",
+      "vosotros": "untareis",
+      "uds": "untaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya untado",
+      "tu": "hayas untado",
+      "ud": "haya untado",
+      "nosotros": "hayamos untado",
+      "vosotros": "hayáis untado",
+      "uds": "hayan untado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere untado",
+      "tu": "hubieres untado",
+      "ud": "hubiere untado",
+      "nosotros": "hubiéremos untado",
+      "vosotros": "hubiereis untado",
+      "uds": "hubieren untado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera untado",
+      "tu": "hubieras untado",
+      "ud": "hubiera untado",
+      "nosotros": "hubiéramos untado",
+      "vosotros": "hubierais untado",
+      "uds": "hubieran untado"
+    },
+    "imperfectoAlt": {
+      "yo": "untase",
+      "tu": "untases",
+      "ud": "untase",
+      "nosotros": "untásemos",
+      "vosotros": "untaseis",
+      "uds": "untasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese untado",
+      "tu": "hubieses untado",
+      "ud": "hubiese untado",
+      "nosotros": "hubiésemos untado",
+      "vosotros": "hubieseis untado",
+      "uds": "hubiesen untado"
+    }
+  },
+  "afirmativo": {
+    "tu": "unta",
+    "vosotros": "untad",
+    "ud": "unte",
+    "uds": "unten"
+  },
+  "negativo": {
+    "tu": "no untes",
+    "vosotros": "no untéis",
+    "ud": "no unte",
+    "uds": "no unten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to anoint; to smear, rub",
+    "gerundio": "anointing",
+    "participioPasado": "anointed",
+    "indicativo": {
+      "presente": "I anoint, am anointing",
+      "futuro": "I will anoint",
+      "imperfecto": "I was anointing, used to anoint, anointed",
+      "preterito": "I anointed",
+      "condicional": "I would anoint",
+      "presentePerfecto": "I have anointed",
+      "futuroPerfecto": "I will have anointed",
+      "pluscuamperfecto": "I had anointed",
+      "preteritoAnterior": "I had anointed",
+      "condicionalPerfecto": "I would have anointed"
+    },
+    "subjuntivo": {
+      "presente": "I anoint, am anointing",
+      "imperfecto": "I anointed, was anointing",
+      "futuro": "I will anoint",
+      "presentePerfecto": "I have anointed, anointed",
+      "futuroPerfecto": "I will have anointed",
+      "pluscuamperfecto": "I had anointed"
+    },
+    "afirmativo": "Anoint!",
+    "negativo": "Don't anoint!"
+  },
+  "attribution": "Fred Jehle"
+}

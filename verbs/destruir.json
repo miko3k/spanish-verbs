@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "destruir",
+  "gerundio": "destruyendo",
+  "participioPasado": "destruido",
+  "indicativo": {
+    "presente": {
+      "yo": "destruyo",
+      "tu": "destruyes",
+      "ud": "destruye",
+      "nosotros": "destruimos",
+      "vosotros": "destruís",
+      "uds": "destruyen"
+    },
+    "futuro": {
+      "yo": "destruiré",
+      "tu": "destruirás",
+      "ud": "destruirá",
+      "nosotros": "destruiremos",
+      "vosotros": "destruiréis",
+      "uds": "destruirán"
+    },
+    "imperfecto": {
+      "yo": "destruía",
+      "tu": "destruías",
+      "ud": "destruía",
+      "nosotros": "destruíamos",
+      "vosotros": "destruíais",
+      "uds": "destruían"
+    },
+    "preterito": {
+      "yo": "destruí",
+      "tu": "destruiste",
+      "ud": "destruyó",
+      "nosotros": "destruimos",
+      "vosotros": "destruisteis",
+      "uds": "destruyeron"
+    },
+    "condicional": {
+      "yo": "destruiría",
+      "tu": "destruirías",
+      "ud": "destruiría",
+      "nosotros": "destruiríamos",
+      "vosotros": "destruiríais",
+      "uds": "destruirían"
+    },
+    "presentePerfecto": {
+      "yo": "he destruido",
+      "tu": "has destruido",
+      "ud": "ha destruido",
+      "nosotros": "hemos destruido",
+      "vosotros": "habéis destruido",
+      "uds": "han destruido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré destruido",
+      "tu": "habrás destruido",
+      "ud": "habrá destruido",
+      "nosotros": "habremos destruido",
+      "vosotros": "habréis destruido",
+      "uds": "habrán destruido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había destruido",
+      "tu": "habías destruido",
+      "ud": "había destruido",
+      "nosotros": "habíamos destruido",
+      "vosotros": "habíais destruido",
+      "uds": "habían destruido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube destruido",
+      "tu": "hubiste destruido",
+      "ud": "hubo destruido",
+      "nosotros": "hubimos destruido",
+      "vosotros": "hubisteis destruido",
+      "uds": "hubieron destruido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría destruido",
+      "tu": "habrías destruido",
+      "ud": "habría destruido",
+      "nosotros": "habríamos destruido",
+      "vosotros": "habríais destruido",
+      "uds": "habrían destruido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "destruya",
+      "tu": "destruyas",
+      "ud": "destruya",
+      "nosotros": "destruyamos",
+      "vosotros": "destruyáis",
+      "uds": "destruyan"
+    },
+    "imperfecto": {
+      "yo": "destruyera",
+      "tu": "destruyeras",
+      "ud": "destruyera",
+      "nosotros": "destruyéramos",
+      "vosotros": "destruyerais",
+      "uds": "destruyeran"
+    },
+    "futuro": {
+      "yo": "destruyere",
+      "tu": "destruyeres",
+      "ud": "destruyere",
+      "nosotros": "destruyéremos",
+      "vosotros": "destruyereis",
+      "uds": "destruyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya destruido",
+      "tu": "hayas destruido",
+      "ud": "haya destruido",
+      "nosotros": "hayamos destruido",
+      "vosotros": "hayáis destruido",
+      "uds": "hayan destruido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere destruido",
+      "tu": "hubieres destruido",
+      "ud": "hubiere destruido",
+      "nosotros": "hubiéremos destruido",
+      "vosotros": "hubiereis destruido",
+      "uds": "hubieren destruido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera destruido",
+      "tu": "hubieras destruido",
+      "ud": "hubiera destruido",
+      "nosotros": "hubiéramos destruido",
+      "vosotros": "hubierais destruido",
+      "uds": "hubieran destruido"
+    },
+    "imperfectoAlt": {
+      "yo": "destruyese",
+      "tu": "destruyeses",
+      "ud": "destruyese",
+      "nosotros": "destruyésemos",
+      "vosotros": "destruyeseis",
+      "uds": "destruyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese destruido",
+      "tu": "hubieses destruido",
+      "ud": "hubiese destruido",
+      "nosotros": "hubiésemos destruido",
+      "vosotros": "hubieseis destruido",
+      "uds": "hubiesen destruido"
+    }
+  },
+  "afirmativo": {
+    "tu": "destruye",
+    "vosotros": "destruid",
+    "ud": "destruya",
+    "uds": "destruyan"
+  },
+  "negativo": {
+    "tu": "no destruyas",
+    "vosotros": "no destruyáis",
+    "ud": "no destruya",
+    "uds": "no destruyan"
+  },
+  "english": {
+    "note": "Cambios: u > uy delante a, o y e; la i intervocálica (y sin acento escrito) > y.",
+    "infinitivo": "to destroy",
+    "gerundio": "destroying",
+    "participioPasado": "destroyed",
+    "indicativo": {
+      "presente": "I destroy, am destroying",
+      "futuro": "I will destroy",
+      "imperfecto": "I was destroying, used to destroy, destroyed",
+      "preterito": "I destroyed",
+      "condicional": "I would destroy",
+      "presentePerfecto": "I have destroyed",
+      "futuroPerfecto": "I will have destroyed",
+      "pluscuamperfecto": "I had destroyed",
+      "preteritoAnterior": "I had destroyed",
+      "condicionalPerfecto": "I would have destroyed"
+    },
+    "subjuntivo": {
+      "presente": "I destroy, am destroying",
+      "imperfecto": "I destroyed, was destroying",
+      "futuro": "I will destroy",
+      "presentePerfecto": "I have destroyed, destroyed",
+      "futuroPerfecto": "I will have destroyed",
+      "pluscuamperfecto": "I had destroyed"
+    },
+    "afirmativo": "Destroy!",
+    "negativo": "Don't destroy!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "consumir",
+  "gerundio": "consumiendo",
+  "participioPasado": "consumido",
+  "indicativo": {
+    "presente": {
+      "yo": "consumo",
+      "tu": "consumes",
+      "ud": "consume",
+      "nosotros": "consumimos",
+      "vosotros": "consumís",
+      "uds": "consumen"
+    },
+    "futuro": {
+      "yo": "consumiré",
+      "tu": "consumirás",
+      "ud": "consumirá",
+      "nosotros": "consumiremos",
+      "vosotros": "consumiréis",
+      "uds": "consumirán"
+    },
+    "imperfecto": {
+      "yo": "consumía",
+      "tu": "consumías",
+      "ud": "consumía",
+      "nosotros": "consumíamos",
+      "vosotros": "consumíais",
+      "uds": "consumían"
+    },
+    "preterito": {
+      "yo": "consumí",
+      "tu": "consumiste",
+      "ud": "consumió",
+      "nosotros": "consumimos",
+      "vosotros": "consumisteis",
+      "uds": "consumieron"
+    },
+    "condicional": {
+      "yo": "consumiría",
+      "tu": "consumirías",
+      "ud": "consumiría",
+      "nosotros": "consumiríamos",
+      "vosotros": "consumiríais",
+      "uds": "consumirían"
+    },
+    "presentePerfecto": {
+      "yo": "he consumido",
+      "tu": "has consumido",
+      "ud": "ha consumido",
+      "nosotros": "hemos consumido",
+      "vosotros": "habéis consumido",
+      "uds": "han consumido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré consumido",
+      "tu": "habrás consumido",
+      "ud": "habrá consumido",
+      "nosotros": "habremos consumido",
+      "vosotros": "habréis consumido",
+      "uds": "habrán consumido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había consumido",
+      "tu": "habías consumido",
+      "ud": "había consumido",
+      "nosotros": "habíamos consumido",
+      "vosotros": "habíais consumido",
+      "uds": "habían consumido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube consumido",
+      "tu": "hubiste consumido",
+      "ud": "hubo consumido",
+      "nosotros": "hubimos consumido",
+      "vosotros": "hubisteis consumido",
+      "uds": "hubieron consumido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría consumido",
+      "tu": "habrías consumido",
+      "ud": "habría consumido",
+      "nosotros": "habríamos consumido",
+      "vosotros": "habríais consumido",
+      "uds": "habrían consumido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "consuma",
+      "tu": "consumas",
+      "ud": "consuma",
+      "nosotros": "consumamos",
+      "vosotros": "consumáis",
+      "uds": "consuman"
+    },
+    "imperfecto": {
+      "yo": "consumiera",
+      "tu": "consumieras",
+      "ud": "consumiera",
+      "nosotros": "consumiéramos",
+      "vosotros": "consumierais",
+      "uds": "consumieran"
+    },
+    "futuro": {
+      "yo": "consumiere",
+      "tu": "consumieres",
+      "ud": "consumiere",
+      "nosotros": "consumiéremos",
+      "vosotros": "consumiereis",
+      "uds": "consumieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya consumido",
+      "tu": "hayas consumido",
+      "ud": "haya consumido",
+      "nosotros": "hayamos consumido",
+      "vosotros": "hayáis consumido",
+      "uds": "hayan consumido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere consumido",
+      "tu": "hubieres consumido",
+      "ud": "hubiere consumido",
+      "nosotros": "hubiéremos consumido",
+      "vosotros": "hubiereis consumido",
+      "uds": "hubieren consumido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera consumido",
+      "tu": "hubieras consumido",
+      "ud": "hubiera consumido",
+      "nosotros": "hubiéramos consumido",
+      "vosotros": "hubierais consumido",
+      "uds": "hubieran consumido"
+    },
+    "imperfectoAlt": {
+      "yo": "consumiese",
+      "tu": "consumieses",
+      "ud": "consumiese",
+      "nosotros": "consumiésemos",
+      "vosotros": "consumieseis",
+      "uds": "consumiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese consumido",
+      "tu": "hubieses consumido",
+      "ud": "hubiese consumido",
+      "nosotros": "hubiésemos consumido",
+      "vosotros": "hubieseis consumido",
+      "uds": "hubiesen consumido"
+    }
+  },
+  "afirmativo": {
+    "tu": "consume",
+    "vosotros": "consumid",
+    "ud": "consuma",
+    "uds": "consuman"
+  },
+  "negativo": {
+    "tu": "no consumas",
+    "vosotros": "no consumáis",
+    "ud": "no consuma",
+    "uds": "no consuman"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to consume, eat, use upe",
+    "gerundio": "consuming",
+    "participioPasado": "consumed",
+    "indicativo": {
+      "presente": "I consume, am consuming",
+      "futuro": "I will consume",
+      "imperfecto": "I was consuming, used to consume, consumed",
+      "preterito": "I consumed",
+      "condicional": "I would consume",
+      "presentePerfecto": "I have consumed",
+      "futuroPerfecto": "I will have consumed",
+      "pluscuamperfecto": "I had consumed",
+      "preteritoAnterior": "I had consumed",
+      "condicionalPerfecto": "I would have consumed"
+    },
+    "subjuntivo": {
+      "presente": "I consume, am consuming",
+      "imperfecto": "I consumed, was consuming",
+      "futuro": "I will consume",
+      "presentePerfecto": "I have consumed, consumed",
+      "futuroPerfecto": "I will have consumed",
+      "pluscuamperfecto": "I had consumed"
+    },
+    "afirmativo": "Consume!",
+    "negativo": "Don't consume!"
+  },
+  "attribution": "Fred Jehle"
+}

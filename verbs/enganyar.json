@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "engañar",
+  "gerundio": "engañando",
+  "participioPasado": "engañado",
+  "indicativo": {
+    "presente": {
+      "yo": "engaño",
+      "tu": "engañas",
+      "ud": "engaña",
+      "nosotros": "engañamos",
+      "vosotros": "engañáis",
+      "uds": "engañan"
+    },
+    "futuro": {
+      "yo": "engañaré",
+      "tu": "engañarás",
+      "ud": "engañará",
+      "nosotros": "engañaremos",
+      "vosotros": "engañaréis",
+      "uds": "engañarán"
+    },
+    "imperfecto": {
+      "yo": "engañaba",
+      "tu": "engañabas",
+      "ud": "engañaba",
+      "nosotros": "engañábamos",
+      "vosotros": "engañabais",
+      "uds": "engañaban"
+    },
+    "preterito": {
+      "yo": "engañé",
+      "tu": "engañaste",
+      "ud": "engañó",
+      "nosotros": "engañamos",
+      "vosotros": "engañasteis",
+      "uds": "engañaron"
+    },
+    "condicional": {
+      "yo": "engañaría",
+      "tu": "engañarías",
+      "ud": "engañaría",
+      "nosotros": "engañaríamos",
+      "vosotros": "engañaríais",
+      "uds": "engañarían"
+    },
+    "presentePerfecto": {
+      "yo": "he engañado",
+      "tu": "has engañado",
+      "ud": "ha engañado",
+      "nosotros": "hemos engañado",
+      "vosotros": "habéis engañado",
+      "uds": "han engañado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré engañado",
+      "tu": "habrás engañado",
+      "ud": "habrá engañado",
+      "nosotros": "habremos engañado",
+      "vosotros": "habréis engañado",
+      "uds": "habrán engañado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había engañado",
+      "tu": "habías engañado",
+      "ud": "había engañado",
+      "nosotros": "habíamos engañado",
+      "vosotros": "habíais engañado",
+      "uds": "habían engañado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube engañado",
+      "tu": "hubiste engañado",
+      "ud": "hubo engañado",
+      "nosotros": "hubimos engañado",
+      "vosotros": "hubisteis engañado",
+      "uds": "hubieron engañado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría engañado",
+      "tu": "habrías engañado",
+      "ud": "habría engañado",
+      "nosotros": "habríamos engañado",
+      "vosotros": "habríais engañado",
+      "uds": "habrían engañado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "engañe",
+      "tu": "engañes",
+      "ud": "engañe",
+      "nosotros": "engañemos",
+      "vosotros": "engañéis",
+      "uds": "engañen"
+    },
+    "imperfecto": {
+      "yo": "engañara",
+      "tu": "engañaras",
+      "ud": "engañara",
+      "nosotros": "engañáramos",
+      "vosotros": "engañarais",
+      "uds": "engañaran"
+    },
+    "futuro": {
+      "yo": "engañare",
+      "tu": "engañares",
+      "ud": "engañare",
+      "nosotros": "engañáremos",
+      "vosotros": "engañareis",
+      "uds": "engañaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya engañado",
+      "tu": "hayas engañado",
+      "ud": "haya engañado",
+      "nosotros": "hayamos engañado",
+      "vosotros": "hayáis engañado",
+      "uds": "hayan engañado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere engañado",
+      "tu": "hubieres engañado",
+      "ud": "hubiere engañado",
+      "nosotros": "hubiéremos engañado",
+      "vosotros": "hubiereis engañado",
+      "uds": "hubieren engañado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera engañado",
+      "tu": "hubieras engañado",
+      "ud": "hubiera engañado",
+      "nosotros": "hubiéramos engañado",
+      "vosotros": "hubierais engañado",
+      "uds": "hubieran engañado"
+    },
+    "imperfectoAlt": {
+      "yo": "engañase",
+      "tu": "engañases",
+      "ud": "engañase",
+      "nosotros": "engañásemos",
+      "vosotros": "engañaseis",
+      "uds": "engañasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese engañado",
+      "tu": "hubieses engañado",
+      "ud": "hubiese engañado",
+      "nosotros": "hubiésemos engañado",
+      "vosotros": "hubieseis engañado",
+      "uds": "hubiesen engañado"
+    }
+  },
+  "afirmativo": {
+    "tu": "engaña",
+    "vosotros": "engañad",
+    "ud": "engañe",
+    "uds": "engañen"
+  },
+  "negativo": {
+    "tu": "no engañes",
+    "vosotros": "no engañéis",
+    "ud": "no engañe",
+    "uds": "no engañen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to deceive, cheat, trick, swindle",
+    "gerundio": "deceiving",
+    "participioPasado": "deceived",
+    "indicativo": {
+      "presente": "I deceive, am deceiving",
+      "futuro": "I will deceive",
+      "imperfecto": "I was deceiving, used to deceive, deceived",
+      "preterito": "I deceived",
+      "condicional": "I would deceive",
+      "presentePerfecto": "I have deceived",
+      "futuroPerfecto": "I will have deceived",
+      "pluscuamperfecto": "I had deceived",
+      "preteritoAnterior": "I had deceived",
+      "condicionalPerfecto": "I would have deceived"
+    },
+    "subjuntivo": {
+      "presente": "I deceive, am deceiving",
+      "imperfecto": "I deceived, was deceiving",
+      "futuro": "I will deceive",
+      "presentePerfecto": "I have deceived, deceived",
+      "futuroPerfecto": "I will have deceived",
+      "pluscuamperfecto": "I had deceived"
+    },
+    "afirmativo": "Deceive!",
+    "negativo": "Don't deceive!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "diseñar",
+  "gerundio": "diseñando",
+  "participioPasado": "diseñado",
+  "indicativo": {
+    "presente": {
+      "yo": "diseño",
+      "tu": "diseñas",
+      "ud": "diseña",
+      "nosotros": "diseñamos",
+      "vosotros": "diseñáis",
+      "uds": "diseñan"
+    },
+    "futuro": {
+      "yo": "diseñaré",
+      "tu": "diseñarás",
+      "ud": "diseñará",
+      "nosotros": "diseñaremos",
+      "vosotros": "diseñaréis",
+      "uds": "diseñarán"
+    },
+    "imperfecto": {
+      "yo": "diseñaba",
+      "tu": "diseñabas",
+      "ud": "diseñaba",
+      "nosotros": "diseñábamos",
+      "vosotros": "diseñabais",
+      "uds": "diseñaban"
+    },
+    "preterito": {
+      "yo": "diseñé",
+      "tu": "diseñaste",
+      "ud": "diseñó",
+      "nosotros": "diseñamos",
+      "vosotros": "diseñasteis",
+      "uds": "diseñaron"
+    },
+    "condicional": {
+      "yo": "diseñaría",
+      "tu": "diseñarías",
+      "ud": "diseñaría",
+      "nosotros": "diseñaríamos",
+      "vosotros": "diseñaríais",
+      "uds": "diseñarían"
+    },
+    "presentePerfecto": {
+      "yo": "he diseñado",
+      "tu": "has diseñado",
+      "ud": "ha diseñado",
+      "nosotros": "hemos diseñado",
+      "vosotros": "habéis diseñado",
+      "uds": "han diseñado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré diseñado",
+      "tu": "habrás diseñado",
+      "ud": "habrá diseñado",
+      "nosotros": "habremos diseñado",
+      "vosotros": "habréis diseñado",
+      "uds": "habrán diseñado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había diseñado",
+      "tu": "habías diseñado",
+      "ud": "había diseñado",
+      "nosotros": "habíamos diseñado",
+      "vosotros": "habíais diseñado",
+      "uds": "habían diseñado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube diseñado",
+      "tu": "hubiste diseñado",
+      "ud": "hubo diseñado",
+      "nosotros": "hubimos diseñado",
+      "vosotros": "hubisteis diseñado",
+      "uds": "hubieron diseñado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría diseñado",
+      "tu": "habrías diseñado",
+      "ud": "habría diseñado",
+      "nosotros": "habríamos diseñado",
+      "vosotros": "habríais diseñado",
+      "uds": "habrían diseñado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "diseñe",
+      "tu": "diseñes",
+      "ud": "diseñe",
+      "nosotros": "diseñemos",
+      "vosotros": "diseñéis",
+      "uds": "diseñen"
+    },
+    "imperfecto": {
+      "yo": "diseñara",
+      "tu": "diseñaras",
+      "ud": "diseñara",
+      "nosotros": "diseñáramos",
+      "vosotros": "diseñarais",
+      "uds": "diseñaran"
+    },
+    "futuro": {
+      "yo": "diseñare",
+      "tu": "diseñares",
+      "ud": "diseñare",
+      "nosotros": "diseñáremos",
+      "vosotros": "diseñareis",
+      "uds": "diseñaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya diseñado",
+      "tu": "hayas diseñado",
+      "ud": "haya diseñado",
+      "nosotros": "hayamos diseñado",
+      "vosotros": "hayáis diseñado",
+      "uds": "hayan diseñado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere diseñado",
+      "tu": "hubieres diseñado",
+      "ud": "hubiere diseñado",
+      "nosotros": "hubiéremos diseñado",
+      "vosotros": "hubiereis diseñado",
+      "uds": "hubieren diseñado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera diseñado",
+      "tu": "hubieras diseñado",
+      "ud": "hubiera diseñado",
+      "nosotros": "hubiéramos diseñado",
+      "vosotros": "hubierais diseñado",
+      "uds": "hubieran diseñado"
+    },
+    "imperfectoAlt": {
+      "yo": "diseñase",
+      "tu": "diseñases",
+      "ud": "diseñase",
+      "nosotros": "diseñásemos",
+      "vosotros": "diseñaseis",
+      "uds": "diseñasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese diseñado",
+      "tu": "hubieses diseñado",
+      "ud": "hubiese diseñado",
+      "nosotros": "hubiésemos diseñado",
+      "vosotros": "hubieseis diseñado",
+      "uds": "hubiesen diseñado"
+    }
+  },
+  "afirmativo": {
+    "tu": "diseña",
+    "vosotros": "diseñad",
+    "ud": "diseñe",
+    "uds": "diseñen"
+  },
+  "negativo": {
+    "tu": "no diseñes",
+    "vosotros": "no diseñéis",
+    "ud": "no diseñe",
+    "uds": "no diseñen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to design",
+    "gerundio": "designing",
+    "participioPasado": "designed",
+    "indicativo": {
+      "presente": "I design, am designing",
+      "futuro": "I will design",
+      "imperfecto": "I was designing, used to design, designed",
+      "preterito": "I designed",
+      "condicional": "I would design",
+      "presentePerfecto": "I have designed",
+      "futuroPerfecto": "I will have designed",
+      "pluscuamperfecto": "I had designed",
+      "preteritoAnterior": "I had designed",
+      "condicionalPerfecto": "I would have designed"
+    },
+    "subjuntivo": {
+      "presente": "I design, am designing",
+      "imperfecto": "I designed, was designing",
+      "futuro": "I will design",
+      "presentePerfecto": "I have designed, designed",
+      "futuroPerfecto": "I will have designed",
+      "pluscuamperfecto": "I had designed"
+    },
+    "afirmativo": "Design!",
+    "negativo": "Don't design!"
+  },
+  "attribution": "Fred Jehle"
+}

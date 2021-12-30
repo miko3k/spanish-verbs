@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "guardar",
+  "gerundio": "guardando",
+  "participioPasado": "guardado",
+  "indicativo": {
+    "presente": {
+      "yo": "guardo",
+      "tu": "guardas",
+      "ud": "guarda",
+      "nosotros": "guardamos",
+      "vosotros": "guardáis",
+      "uds": "guardan"
+    },
+    "futuro": {
+      "yo": "guardaré",
+      "tu": "guardarás",
+      "ud": "guardará",
+      "nosotros": "guardaremos",
+      "vosotros": "guardaréis",
+      "uds": "guardarán"
+    },
+    "imperfecto": {
+      "yo": "guardaba",
+      "tu": "guardabas",
+      "ud": "guardaba",
+      "nosotros": "guardábamos",
+      "vosotros": "guardabais",
+      "uds": "guardaban"
+    },
+    "preterito": {
+      "yo": "guardé",
+      "tu": "guardaste",
+      "ud": "guardó",
+      "nosotros": "guardamos",
+      "vosotros": "guardasteis",
+      "uds": "guardaron"
+    },
+    "condicional": {
+      "yo": "guardaría",
+      "tu": "guardarías",
+      "ud": "guardaría",
+      "nosotros": "guardaríamos",
+      "vosotros": "guardaríais",
+      "uds": "guardarían"
+    },
+    "presentePerfecto": {
+      "yo": "he guardado",
+      "tu": "has guardado",
+      "ud": "ha guardado",
+      "nosotros": "hemos guardado",
+      "vosotros": "habéis guardado",
+      "uds": "han guardado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré guardado",
+      "tu": "habrás guardado",
+      "ud": "habrá guardado",
+      "nosotros": "habremos guardado",
+      "vosotros": "habréis guardado",
+      "uds": "habrán guardado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había guardado",
+      "tu": "habías guardado",
+      "ud": "había guardado",
+      "nosotros": "habíamos guardado",
+      "vosotros": "habíais guardado",
+      "uds": "habían guardado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube guardado",
+      "tu": "hubiste guardado",
+      "ud": "hubo guardado",
+      "nosotros": "hubimos guardado",
+      "vosotros": "hubisteis guardado",
+      "uds": "hubieron guardado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría guardado",
+      "tu": "habrías guardado",
+      "ud": "habría guardado",
+      "nosotros": "habríamos guardado",
+      "vosotros": "habríais guardado",
+      "uds": "habrían guardado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "guarde",
+      "tu": "guardes",
+      "ud": "guarde",
+      "nosotros": "guardemos",
+      "vosotros": "guardéis",
+      "uds": "guarden"
+    },
+    "imperfecto": {
+      "yo": "guardara",
+      "tu": "guardaras",
+      "ud": "guardara",
+      "nosotros": "guardáramos",
+      "vosotros": "guardarais",
+      "uds": "guardaran"
+    },
+    "futuro": {
+      "yo": "guardare",
+      "tu": "guardares",
+      "ud": "guardare",
+      "nosotros": "guardáremos",
+      "vosotros": "guardareis",
+      "uds": "guardaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya guardado",
+      "tu": "hayas guardado",
+      "ud": "haya guardado",
+      "nosotros": "hayamos guardado",
+      "vosotros": "hayáis guardado",
+      "uds": "hayan guardado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere guardado",
+      "tu": "hubieres guardado",
+      "ud": "hubiere guardado",
+      "nosotros": "hubiéremos guardado",
+      "vosotros": "hubiereis guardado",
+      "uds": "hubieren guardado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera guardado",
+      "tu": "hubieras guardado",
+      "ud": "hubiera guardado",
+      "nosotros": "hubiéramos guardado",
+      "vosotros": "hubierais guardado",
+      "uds": "hubieran guardado"
+    },
+    "imperfectoAlt": {
+      "yo": "guardase",
+      "tu": "guardases",
+      "ud": "guardase",
+      "nosotros": "guardásemos",
+      "vosotros": "guardaseis",
+      "uds": "guardasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese guardado",
+      "tu": "hubieses guardado",
+      "ud": "hubiese guardado",
+      "nosotros": "hubiésemos guardado",
+      "vosotros": "hubieseis guardado",
+      "uds": "hubiesen guardado"
+    }
+  },
+  "afirmativo": {
+    "tu": "guarda",
+    "vosotros": "guardad",
+    "ud": "guarde",
+    "uds": "guarden"
+  },
+  "negativo": {
+    "tu": "no guardes",
+    "vosotros": "no guardéis",
+    "ud": "no guarde",
+    "uds": "no guarden"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to guard, watch over, protect, take care of; to keep, hold on to; to put away, store away",
+    "gerundio": "guarding",
+    "participioPasado": "guarded",
+    "indicativo": {
+      "presente": "I guard, am guarding",
+      "futuro": "I will guard",
+      "imperfecto": "I was guarding, used to guard, guarded",
+      "preterito": "I guarded",
+      "condicional": "I would guard",
+      "presentePerfecto": "I have guarded",
+      "futuroPerfecto": "I will have guarded",
+      "pluscuamperfecto": "I had guarded",
+      "preteritoAnterior": "I had guarded",
+      "condicionalPerfecto": "I would have guarded"
+    },
+    "subjuntivo": {
+      "presente": "I guard, am guarding",
+      "imperfecto": "I guarded, was guarding",
+      "futuro": "I will guard",
+      "presentePerfecto": "I have guarded, guarded",
+      "futuroPerfecto": "I will have guarded",
+      "pluscuamperfecto": "I had guarded"
+    },
+    "afirmativo": "Guard!",
+    "negativo": "Don't guard!"
+  },
+  "attribution": "Fred Jehle"
+}

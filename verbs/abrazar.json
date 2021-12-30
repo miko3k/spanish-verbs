@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "abrazar",
+  "gerundio": "abrazando",
+  "participioPasado": "abrazado",
+  "indicativo": {
+    "presente": {
+      "yo": "abrazo",
+      "tu": "abrazas",
+      "ud": "abraza",
+      "nosotros": "abrazamos",
+      "vosotros": "abrazáis",
+      "uds": "abrazan"
+    },
+    "futuro": {
+      "yo": "abrazaré",
+      "tu": "abrazarás",
+      "ud": "abrazará",
+      "nosotros": "abrazaremos",
+      "vosotros": "abrazaréis",
+      "uds": "abrazarán"
+    },
+    "imperfecto": {
+      "yo": "abrazaba",
+      "tu": "abrazabas",
+      "ud": "abrazaba",
+      "nosotros": "abrazábamos",
+      "vosotros": "abrazabais",
+      "uds": "abrazaban"
+    },
+    "preterito": {
+      "yo": "abracé",
+      "tu": "abrazaste",
+      "ud": "abrazó",
+      "nosotros": "abrazamos",
+      "vosotros": "abrazasteis",
+      "uds": "abrazaron"
+    },
+    "condicional": {
+      "yo": "abrazaría",
+      "tu": "abrazarías",
+      "ud": "abrazaría",
+      "nosotros": "abrazaríamos",
+      "vosotros": "abrazaríais",
+      "uds": "abrazarían"
+    },
+    "presentePerfecto": {
+      "yo": "he abrazado",
+      "tu": "has abrazado",
+      "ud": "ha abrazado",
+      "nosotros": "hemos abrazado",
+      "vosotros": "habéis abrazado",
+      "uds": "han abrazado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré abrazado",
+      "tu": "habrás abrazado",
+      "ud": "habrá abrazado",
+      "nosotros": "habremos abrazado",
+      "vosotros": "habréis abrazado",
+      "uds": "habrán abrazado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había abrazado",
+      "tu": "habías abrazado",
+      "ud": "había abrazado",
+      "nosotros": "habíamos abrazado",
+      "vosotros": "habíais abrazado",
+      "uds": "habían abrazado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube abrazado",
+      "tu": "hubiste abrazado",
+      "ud": "hubo abrazado",
+      "nosotros": "hubimos abrazado",
+      "vosotros": "hubisteis abrazado",
+      "uds": "hubieron abrazado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría abrazado",
+      "tu": "habrías abrazado",
+      "ud": "habría abrazado",
+      "nosotros": "habríamos abrazado",
+      "vosotros": "habríais abrazado",
+      "uds": "habrían abrazado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "abrace",
+      "tu": "abraces",
+      "ud": "abrace",
+      "nosotros": "abracemos",
+      "vosotros": "abracéis",
+      "uds": "abracen"
+    },
+    "imperfecto": {
+      "yo": "abrazara",
+      "tu": "abrazaras",
+      "ud": "abrazara",
+      "nosotros": "abrazáramos",
+      "vosotros": "abrazarais",
+      "uds": "abrazaran"
+    },
+    "futuro": {
+      "yo": "abrazare",
+      "tu": "abrazares",
+      "ud": "abrazare",
+      "nosotros": "abrazáremos",
+      "vosotros": "abrazareis",
+      "uds": "abrazaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya abrazado",
+      "tu": "hayas abrazado",
+      "ud": "haya abrazado",
+      "nosotros": "hayamos abrazado",
+      "vosotros": "hayáis abrazado",
+      "uds": "hayan abrazado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere abrazado",
+      "tu": "hubieres abrazado",
+      "ud": "hubiere abrazado",
+      "nosotros": "hubiéremos abrazado",
+      "vosotros": "hubiereis abrazado",
+      "uds": "hubieren abrazado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera abrazado",
+      "tu": "hubieras abrazado",
+      "ud": "hubiera abrazado",
+      "nosotros": "hubiéramos abrazado",
+      "vosotros": "hubierais abrazado",
+      "uds": "hubieran abrazado"
+    },
+    "imperfectoAlt": {
+      "yo": "abrazase",
+      "tu": "abrazases",
+      "ud": "abrazase",
+      "nosotros": "abrazásemos",
+      "vosotros": "abrazaseis",
+      "uds": "abrazasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese abrazado",
+      "tu": "hubieses abrazado",
+      "ud": "hubiese abrazado",
+      "nosotros": "hubiésemos abrazado",
+      "vosotros": "hubieseis abrazado",
+      "uds": "hubiesen abrazado"
+    }
+  },
+  "afirmativo": {
+    "tu": "abraza",
+    "vosotros": "abrazad",
+    "ud": "abrace",
+    "uds": "abracen"
+  },
+  "negativo": {
+    "tu": "no abraces",
+    "vosotros": "no abracéis",
+    "ud": "no abrace",
+    "uds": "no abracen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to hug, embrace",
+    "gerundio": "hugging",
+    "participioPasado": "hugged",
+    "indicativo": {
+      "presente": "I hug, am hugging",
+      "futuro": "I will hug",
+      "imperfecto": "I was hugging, used to hug, hugged",
+      "preterito": "I hugged",
+      "condicional": "I would hug",
+      "presentePerfecto": "I have hugged",
+      "futuroPerfecto": "I will have hugged",
+      "pluscuamperfecto": "I had hugged",
+      "preteritoAnterior": "I had hugged",
+      "condicionalPerfecto": "I would have hugged"
+    },
+    "subjuntivo": {
+      "presente": "I hug, am hugging",
+      "imperfecto": "I hugged, was hugging",
+      "futuro": "I will hug",
+      "presentePerfecto": "I have hugged, hugged",
+      "futuroPerfecto": "I will have hugged",
+      "pluscuamperfecto": "I had hugged"
+    },
+    "afirmativo": "Hug!",
+    "negativo": "Don't hug!"
+  },
+  "attribution": "Fred Jehle"
+}

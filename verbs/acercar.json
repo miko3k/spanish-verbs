@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "acercar",
+  "gerundio": "acercando",
+  "participioPasado": "acercado",
+  "indicativo": {
+    "presente": {
+      "yo": "acerco",
+      "tu": "acercas",
+      "ud": "acerca",
+      "nosotros": "acercamos",
+      "vosotros": "acercáis",
+      "uds": "acercan"
+    },
+    "futuro": {
+      "yo": "acercaré",
+      "tu": "acercarás",
+      "ud": "acercará",
+      "nosotros": "acercaremos",
+      "vosotros": "acercaréis",
+      "uds": "acercarán"
+    },
+    "imperfecto": {
+      "yo": "acercaba",
+      "tu": "acercabas",
+      "ud": "acercaba",
+      "nosotros": "acercábamos",
+      "vosotros": "acercabais",
+      "uds": "acercaban"
+    },
+    "preterito": {
+      "yo": "acerqué",
+      "tu": "acercaste",
+      "ud": "acercó",
+      "nosotros": "acercamos",
+      "vosotros": "acercasteis",
+      "uds": "acercaron"
+    },
+    "condicional": {
+      "yo": "acercaría",
+      "tu": "acercarías",
+      "ud": "acercaría",
+      "nosotros": "acercaríamos",
+      "vosotros": "acercaríais",
+      "uds": "acercarían"
+    },
+    "presentePerfecto": {
+      "yo": "he acercado",
+      "tu": "has acercado",
+      "ud": "ha acercado",
+      "nosotros": "hemos acercado",
+      "vosotros": "habéis acercado",
+      "uds": "han acercado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré acercado",
+      "tu": "habrás acercado",
+      "ud": "habrá acercado",
+      "nosotros": "habremos acercado",
+      "vosotros": "habréis acercado",
+      "uds": "habrán acercado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había acercado",
+      "tu": "habías acercado",
+      "ud": "había acercado",
+      "nosotros": "habíamos acercado",
+      "vosotros": "habíais acercado",
+      "uds": "habían acercado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube acercado",
+      "tu": "hubiste acercado",
+      "ud": "hubo acercado",
+      "nosotros": "hubimos acercado",
+      "vosotros": "hubisteis acercado",
+      "uds": "hubieron acercado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría acercado",
+      "tu": "habrías acercado",
+      "ud": "habría acercado",
+      "nosotros": "habríamos acercado",
+      "vosotros": "habríais acercado",
+      "uds": "habrían acercado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "acerque",
+      "tu": "acerques",
+      "ud": "acerque",
+      "nosotros": "acerquemos",
+      "vosotros": "acerquéis",
+      "uds": "acerquen"
+    },
+    "imperfecto": {
+      "yo": "acercara",
+      "tu": "acercaras",
+      "ud": "acercara",
+      "nosotros": "acercáramos",
+      "vosotros": "acercarais",
+      "uds": "acercaran"
+    },
+    "futuro": {
+      "yo": "acercare",
+      "tu": "acercares",
+      "ud": "acercare",
+      "nosotros": "acercáremos",
+      "vosotros": "acercareis",
+      "uds": "acercaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya acercado",
+      "tu": "hayas acercado",
+      "ud": "haya acercado",
+      "nosotros": "hayamos acercado",
+      "vosotros": "hayáis acercado",
+      "uds": "hayan acercado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere acercado",
+      "tu": "hubieres acercado",
+      "ud": "hubiere acercado",
+      "nosotros": "hubiéremos acercado",
+      "vosotros": "hubiereis acercado",
+      "uds": "hubieren acercado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera acercado",
+      "tu": "hubieras acercado",
+      "ud": "hubiera acercado",
+      "nosotros": "hubiéramos acercado",
+      "vosotros": "hubierais acercado",
+      "uds": "hubieran acercado"
+    },
+    "imperfectoAlt": {
+      "yo": "acercase",
+      "tu": "acercases",
+      "ud": "acercase",
+      "nosotros": "acercásemos",
+      "vosotros": "acercaseis",
+      "uds": "acercasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese acercado",
+      "tu": "hubieses acercado",
+      "ud": "hubiese acercado",
+      "nosotros": "hubiésemos acercado",
+      "vosotros": "hubieseis acercado",
+      "uds": "hubiesen acercado"
+    }
+  },
+  "afirmativo": {
+    "tu": "acerca",
+    "vosotros": "acercad",
+    "ud": "acerque",
+    "uds": "acerquen"
+  },
+  "negativo": {
+    "tu": "no acerques",
+    "vosotros": "no acerquéis",
+    "ud": "no acerque",
+    "uds": "no acerquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e. Note: Acercar is a transitive verb; that is, it must be used with a direct object; for to approach, draw near(er), use the reflexive form, acercarse.",
+    "infinitivo": "to bring near(er), move (something) nearer",
+    "gerundio": "bringing near(er)",
+    "participioPasado": "brought near(er)",
+    "indicativo": {
+      "presente": "I bring near(er), am bringing near(er)",
+      "futuro": "I will bring near(er)",
+      "imperfecto": "I was bringing near(er), used to bring near(er), brought near(er)",
+      "preterito": "I brought near(er)",
+      "condicional": "I would bring near(er)",
+      "presentePerfecto": "I have brought near(er)",
+      "futuroPerfecto": "I will have brought near(er)",
+      "pluscuamperfecto": "I had brought near(er)",
+      "preteritoAnterior": "I had brought near(er)",
+      "condicionalPerfecto": "I would have brought near(er)"
+    },
+    "subjuntivo": {
+      "presente": "I bring near(er), am bringing near(er)",
+      "imperfecto": "I brought near(er), was bringing near(er)",
+      "futuro": "I will bring near(er)",
+      "presentePerfecto": "I have brought near(er), brought near(er)",
+      "futuroPerfecto": "I will have brought near(er)",
+      "pluscuamperfecto": "I had brought near(er)"
+    },
+    "afirmativo": "Bring near(er)!",
+    "negativo": "Don't bring near(er)!"
+  },
+  "attribution": "Fred Jehle"
+}

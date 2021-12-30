@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "errar",
+  "gerundio": "errando",
+  "participioPasado": "errado",
+  "indicativo": {
+    "presente": {
+      "yo": "yerro",
+      "tu": "yerras",
+      "ud": "yerra",
+      "nosotros": "erramos",
+      "vosotros": "erráis",
+      "uds": "yerran"
+    },
+    "futuro": {
+      "yo": "erraré",
+      "tu": "errarás",
+      "ud": "errará",
+      "nosotros": "erraremos",
+      "vosotros": "erraréis",
+      "uds": "errarán"
+    },
+    "imperfecto": {
+      "yo": "erraba",
+      "tu": "errabas",
+      "ud": "erraba",
+      "nosotros": "errábamos",
+      "vosotros": "errabais",
+      "uds": "erraban"
+    },
+    "preterito": {
+      "yo": "erré",
+      "tu": "erraste",
+      "ud": "erró",
+      "nosotros": "erramos",
+      "vosotros": "errasteis",
+      "uds": "erraron"
+    },
+    "condicional": {
+      "yo": "erraría",
+      "tu": "errarías",
+      "ud": "erraría",
+      "nosotros": "erraríamos",
+      "vosotros": "erraríais",
+      "uds": "errarían"
+    },
+    "presentePerfecto": {
+      "yo": "he errado",
+      "tu": "has errado",
+      "ud": "ha errado",
+      "nosotros": "hemos errado",
+      "vosotros": "habéis errado",
+      "uds": "han errado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré errado",
+      "tu": "habrás errado",
+      "ud": "habrá errado",
+      "nosotros": "habremos errado",
+      "vosotros": "habréis errado",
+      "uds": "habrán errado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había errado",
+      "tu": "habías errado",
+      "ud": "había errado",
+      "nosotros": "habíamos errado",
+      "vosotros": "habíais errado",
+      "uds": "habían errado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube errado",
+      "tu": "hubiste errado",
+      "ud": "hubo errado",
+      "nosotros": "hubimos errado",
+      "vosotros": "hubisteis errado",
+      "uds": "hubieron errado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría errado",
+      "tu": "habrías errado",
+      "ud": "habría errado",
+      "nosotros": "habríamos errado",
+      "vosotros": "habríais errado",
+      "uds": "habrían errado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "yerre",
+      "tu": "yerres",
+      "ud": "yerre",
+      "nosotros": "erremos",
+      "vosotros": "erréis",
+      "uds": "yerren"
+    },
+    "imperfecto": {
+      "yo": "errara",
+      "tu": "erraras",
+      "ud": "errara",
+      "nosotros": "erráramos",
+      "vosotros": "errarais",
+      "uds": "erraran"
+    },
+    "futuro": {
+      "yo": "errare",
+      "tu": "errares",
+      "ud": "errare",
+      "nosotros": "erráremos",
+      "vosotros": "errareis",
+      "uds": "erraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya errado",
+      "tu": "hayas errado",
+      "ud": "haya errado",
+      "nosotros": "hayamos errado",
+      "vosotros": "hayáis errado",
+      "uds": "hayan errado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere errado",
+      "tu": "hubieres errado",
+      "ud": "hubiere errado",
+      "nosotros": "hubiéremos errado",
+      "vosotros": "hubiereis errado",
+      "uds": "hubieren errado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera errado",
+      "tu": "hubieras errado",
+      "ud": "hubiera errado",
+      "nosotros": "hubiéramos errado",
+      "vosotros": "hubierais errado",
+      "uds": "hubieran errado"
+    },
+    "imperfectoAlt": {
+      "yo": "errase",
+      "tu": "errases",
+      "ud": "errase",
+      "nosotros": "errásemos",
+      "vosotros": "erraseis",
+      "uds": "errasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese errado",
+      "tu": "hubieses errado",
+      "ud": "hubiese errado",
+      "nosotros": "hubiésemos errado",
+      "vosotros": "hubieseis errado",
+      "uds": "hubiesen errado"
+    }
+  },
+  "afirmativo": {
+    "tu": "yerra",
+    "vosotros": "errad",
+    "ud": "yerre",
+    "uds": "yerren"
+  },
+  "negativo": {
+    "tu": "no yerres",
+    "vosotros": "no erréis",
+    "ud": "no yerre",
+    "uds": "no yerren"
+  },
+  "english": {
+    "note": "Cambio radical y ortográfico: e > ye cuando se acentúa.",
+    "infinitivo": "to err, make an error",
+    "gerundio": "erring",
+    "participioPasado": "erred",
+    "indicativo": {
+      "presente": "I err, am erring",
+      "futuro": "I will err",
+      "imperfecto": "I was erring, used to err, erred",
+      "preterito": "I erred",
+      "condicional": "I would err",
+      "presentePerfecto": "I have erred",
+      "futuroPerfecto": "I will have erred",
+      "pluscuamperfecto": "I had erred",
+      "preteritoAnterior": "I had erred",
+      "condicionalPerfecto": "I would have erred"
+    },
+    "subjuntivo": {
+      "presente": "I err, am erring",
+      "imperfecto": "I erred, was erring",
+      "futuro": "I will err",
+      "presentePerfecto": "I have erred, erred",
+      "futuroPerfecto": "I will have erred",
+      "pluscuamperfecto": "I had erred"
+    },
+    "afirmativo": "Err!",
+    "negativo": "Don't err!"
+  },
+  "attribution": "Fred Jehle"
+}

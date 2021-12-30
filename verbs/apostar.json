@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "apostar",
+  "gerundio": "apostando",
+  "participioPasado": "apostado",
+  "indicativo": {
+    "presente": {
+      "yo": "apuesto",
+      "tu": "apuestas",
+      "ud": "apuesta",
+      "nosotros": "apostamos",
+      "vosotros": "apostáis",
+      "uds": "apuestan"
+    },
+    "futuro": {
+      "yo": "apostaré",
+      "tu": "apostarás",
+      "ud": "apostará",
+      "nosotros": "apostaremos",
+      "vosotros": "apostaréis",
+      "uds": "apostarán"
+    },
+    "imperfecto": {
+      "yo": "apostaba",
+      "tu": "apostabas",
+      "ud": "apostaba",
+      "nosotros": "apostábamos",
+      "vosotros": "apostabais",
+      "uds": "apostaban"
+    },
+    "preterito": {
+      "yo": "aposté",
+      "tu": "apostaste",
+      "ud": "apostó",
+      "nosotros": "apostamos",
+      "vosotros": "apostasteis",
+      "uds": "apostaron"
+    },
+    "condicional": {
+      "yo": "apostaría",
+      "tu": "apostarías",
+      "ud": "apostaría",
+      "nosotros": "apostaríamos",
+      "vosotros": "apostaríais",
+      "uds": "apostarían"
+    },
+    "presentePerfecto": {
+      "yo": "he apostado",
+      "tu": "has apostado",
+      "ud": "ha apostado",
+      "nosotros": "hemos apostado",
+      "vosotros": "habéis apostado",
+      "uds": "han apostado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré apostado",
+      "tu": "habrás apostado",
+      "ud": "habrá apostado",
+      "nosotros": "habremos apostado",
+      "vosotros": "habréis apostado",
+      "uds": "habrán apostado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había apostado",
+      "tu": "habías apostado",
+      "ud": "había apostado",
+      "nosotros": "habíamos apostado",
+      "vosotros": "habíais apostado",
+      "uds": "habían apostado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube apostado",
+      "tu": "hubiste apostado",
+      "ud": "hubo apostado",
+      "nosotros": "hubimos apostado",
+      "vosotros": "hubisteis apostado",
+      "uds": "hubieron apostado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría apostado",
+      "tu": "habrías apostado",
+      "ud": "habría apostado",
+      "nosotros": "habríamos apostado",
+      "vosotros": "habríais apostado",
+      "uds": "habrían apostado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "apueste",
+      "tu": "apuestes",
+      "ud": "apueste",
+      "nosotros": "apostemos",
+      "vosotros": "apostéis",
+      "uds": "apuesten"
+    },
+    "imperfecto": {
+      "yo": "apostara",
+      "tu": "apostaras",
+      "ud": "apostara",
+      "nosotros": "apostáramos",
+      "vosotros": "apostarais",
+      "uds": "apostaran"
+    },
+    "futuro": {
+      "yo": "apostare",
+      "tu": "apostares",
+      "ud": "apostare",
+      "nosotros": "apostáremos",
+      "vosotros": "apostareis",
+      "uds": "apostaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya apostado",
+      "tu": "hayas apostado",
+      "ud": "haya apostado",
+      "nosotros": "hayamos apostado",
+      "vosotros": "hayáis apostado",
+      "uds": "hayan apostado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere apostado",
+      "tu": "hubieres apostado",
+      "ud": "hubiere apostado",
+      "nosotros": "hubiéremos apostado",
+      "vosotros": "hubiereis apostado",
+      "uds": "hubieren apostado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera apostado",
+      "tu": "hubieras apostado",
+      "ud": "hubiera apostado",
+      "nosotros": "hubiéramos apostado",
+      "vosotros": "hubierais apostado",
+      "uds": "hubieran apostado"
+    },
+    "imperfectoAlt": {
+      "yo": "apostase",
+      "tu": "apostases",
+      "ud": "apostase",
+      "nosotros": "apostásemos",
+      "vosotros": "apostaseis",
+      "uds": "apostasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese apostado",
+      "tu": "hubieses apostado",
+      "ud": "hubiese apostado",
+      "nosotros": "hubiésemos apostado",
+      "vosotros": "hubieseis apostado",
+      "uds": "hubiesen apostado"
+    }
+  },
+  "afirmativo": {
+    "tu": "apuesta",
+    "vosotros": "apostad",
+    "ud": "apueste",
+    "uds": "apuesten"
+  },
+  "negativo": {
+    "tu": "no apuestes",
+    "vosotros": "no apostéis",
+    "ud": "no apueste",
+    "uds": "no apuesten"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa.",
+    "infinitivo": "to bet, wager",
+    "gerundio": "betting",
+    "participioPasado": "bet",
+    "indicativo": {
+      "presente": "I bet, am betting",
+      "futuro": "I will bet",
+      "imperfecto": "I was betting, used to bet, bet",
+      "preterito": "I bet",
+      "condicional": "I would bet",
+      "presentePerfecto": "I have bet",
+      "futuroPerfecto": "I will have bet",
+      "pluscuamperfecto": "I had bet",
+      "preteritoAnterior": "I had bet",
+      "condicionalPerfecto": "I would have bet"
+    },
+    "subjuntivo": {
+      "presente": "I bet, am betting",
+      "imperfecto": "I bet, was betting",
+      "futuro": "I will bet",
+      "presentePerfecto": "I have bet, bet",
+      "futuroPerfecto": "I will have bet",
+      "pluscuamperfecto": "I had bet"
+    },
+    "afirmativo": "Bet!",
+    "negativo": "Don't bet!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "entusiasmar",
+  "gerundio": "entusiasmando",
+  "participioPasado": "entusiasmado",
+  "indicativo": {
+    "presente": {
+      "yo": "entusiasmo",
+      "tu": "entusiasmas",
+      "ud": "entusiasma",
+      "nosotros": "entusiasmamos",
+      "vosotros": "entusiasmáis",
+      "uds": "entusiasman"
+    },
+    "futuro": {
+      "yo": "entusiasmaré",
+      "tu": "entusiasmarás",
+      "ud": "entusiasmará",
+      "nosotros": "entusiasmaremos",
+      "vosotros": "entusiasmaréis",
+      "uds": "entusiasmarán"
+    },
+    "imperfecto": {
+      "yo": "entusiasmaba",
+      "tu": "entusiasmabas",
+      "ud": "entusiasmaba",
+      "nosotros": "entusiasmábamos",
+      "vosotros": "entusiasmabais",
+      "uds": "entusiasmaban"
+    },
+    "preterito": {
+      "yo": "entusiasmé",
+      "tu": "entusiasmaste",
+      "ud": "entusiasmó",
+      "nosotros": "entusiasmamos",
+      "vosotros": "entusiasmasteis",
+      "uds": "entusiasmaron"
+    },
+    "condicional": {
+      "yo": "entusiasmaría",
+      "tu": "entusiasmarías",
+      "ud": "entusiasmaría",
+      "nosotros": "entusiasmaríamos",
+      "vosotros": "entusiasmaríais",
+      "uds": "entusiasmarían"
+    },
+    "presentePerfecto": {
+      "yo": "he entusiasmado",
+      "tu": "has entusiasmado",
+      "ud": "ha entusiasmado",
+      "nosotros": "hemos entusiasmado",
+      "vosotros": "habéis entusiasmado",
+      "uds": "han entusiasmado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré entusiasmado",
+      "tu": "habrás entusiasmado",
+      "ud": "habrá entusiasmado",
+      "nosotros": "habremos entusiasmado",
+      "vosotros": "habréis entusiasmado",
+      "uds": "habrán entusiasmado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había entusiasmado",
+      "tu": "habías entusiasmado",
+      "ud": "había entusiasmado",
+      "nosotros": "habíamos entusiasmado",
+      "vosotros": "habíais entusiasmado",
+      "uds": "habían entusiasmado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube entusiasmado",
+      "tu": "hubiste entusiasmado",
+      "ud": "hubo entusiasmado",
+      "nosotros": "hubimos entusiasmado",
+      "vosotros": "hubisteis entusiasmado",
+      "uds": "hubieron entusiasmado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría entusiasmado",
+      "tu": "habrías entusiasmado",
+      "ud": "habría entusiasmado",
+      "nosotros": "habríamos entusiasmado",
+      "vosotros": "habríais entusiasmado",
+      "uds": "habrían entusiasmado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "entusiasme",
+      "tu": "entusiasmes",
+      "ud": "entusiasme",
+      "nosotros": "entusiasmemos",
+      "vosotros": "entusiasméis",
+      "uds": "entusiasmen"
+    },
+    "imperfecto": {
+      "yo": "entusiasmara",
+      "tu": "entusiasmaras",
+      "ud": "entusiasmara",
+      "nosotros": "entusiasmáramos",
+      "vosotros": "entusiasmarais",
+      "uds": "entusiasmaran"
+    },
+    "futuro": {
+      "yo": "entusiasmare",
+      "tu": "entusiasmares",
+      "ud": "entusiasmare",
+      "nosotros": "entusiasmáremos",
+      "vosotros": "entusiasmareis",
+      "uds": "entusiasmaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya entusiasmado",
+      "tu": "hayas entusiasmado",
+      "ud": "haya entusiasmado",
+      "nosotros": "hayamos entusiasmado",
+      "vosotros": "hayáis entusiasmado",
+      "uds": "hayan entusiasmado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere entusiasmado",
+      "tu": "hubieres entusiasmado",
+      "ud": "hubiere entusiasmado",
+      "nosotros": "hubiéremos entusiasmado",
+      "vosotros": "hubiereis entusiasmado",
+      "uds": "hubieren entusiasmado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera entusiasmado",
+      "tu": "hubieras entusiasmado",
+      "ud": "hubiera entusiasmado",
+      "nosotros": "hubiéramos entusiasmado",
+      "vosotros": "hubierais entusiasmado",
+      "uds": "hubieran entusiasmado"
+    },
+    "imperfectoAlt": {
+      "yo": "entusiasmase",
+      "tu": "entusiasmases",
+      "ud": "entusiasmase",
+      "nosotros": "entusiasmásemos",
+      "vosotros": "entusiasmaseis",
+      "uds": "entusiasmasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese entusiasmado",
+      "tu": "hubieses entusiasmado",
+      "ud": "hubiese entusiasmado",
+      "nosotros": "hubiésemos entusiasmado",
+      "vosotros": "hubieseis entusiasmado",
+      "uds": "hubiesen entusiasmado"
+    }
+  },
+  "afirmativo": {
+    "tu": "entusiasma",
+    "vosotros": "entusiasmad",
+    "ud": "entusiasme",
+    "uds": "entusiasmen"
+  },
+  "negativo": {
+    "tu": "no entusiasmes",
+    "vosotros": "no entusiasméis",
+    "ud": "no entusiasme",
+    "uds": "no entusiasmen"
+  },
+  "english": {
+    "note": "Note: Use the reflexive form entusiasmarse for to get excited, become excited.",
+    "infinitivo": "to excite; to fill with excitement (or enthusiasm)",
+    "gerundio": "exciting",
+    "participioPasado": "excited",
+    "indicativo": {
+      "presente": "I excite, am exciting",
+      "futuro": "I will excite",
+      "imperfecto": "I was exciting, used to excite, excited",
+      "preterito": "I excited",
+      "condicional": "I would excite",
+      "presentePerfecto": "I have excited",
+      "futuroPerfecto": "I will have excited",
+      "pluscuamperfecto": "I had excited",
+      "preteritoAnterior": "I had excited",
+      "condicionalPerfecto": "I would have excited"
+    },
+    "subjuntivo": {
+      "presente": "I excite, am exciting",
+      "imperfecto": "I excited, was exciting",
+      "futuro": "I will excite",
+      "presentePerfecto": "I have excited, excited",
+      "futuroPerfecto": "I will have excited",
+      "pluscuamperfecto": "I had excited"
+    },
+    "afirmativo": "Excite!",
+    "negativo": "Don't excite!"
+  },
+  "attribution": "Fred Jehle"
+}

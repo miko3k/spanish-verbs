@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "irse",
+  "gerundio": "yéndose",
+  "participioPasado": "ido",
+  "indicativo": {
+    "presente": {
+      "yo": "me voy",
+      "tu": "te vas",
+      "ud": "se va",
+      "nosotros": "nos vamos",
+      "vosotros": "os vais",
+      "uds": "se van"
+    },
+    "futuro": {
+      "yo": "me iré",
+      "tu": "te irás",
+      "ud": "se irá",
+      "nosotros": "nos iremos",
+      "vosotros": "os iréis",
+      "uds": "se irán"
+    },
+    "imperfecto": {
+      "yo": "me iba",
+      "tu": "te ibas",
+      "ud": "se iba",
+      "nosotros": "nos íbamos",
+      "vosotros": "os ibais",
+      "uds": "se iban"
+    },
+    "preterito": {
+      "yo": "me fui",
+      "tu": "te fuiste",
+      "ud": "se fue",
+      "nosotros": "nos fuimos",
+      "vosotros": "os fuisteis",
+      "uds": "se fueron"
+    },
+    "condicional": {
+      "yo": "me iría",
+      "tu": "te irías",
+      "ud": "se iría",
+      "nosotros": "nos iríamos",
+      "vosotros": "os iríais",
+      "uds": "se irían"
+    },
+    "presentePerfecto": {
+      "yo": "me he ido",
+      "tu": "te has ido",
+      "ud": "se ha ido",
+      "nosotros": "nos hemos ido",
+      "vosotros": "os habéis ido",
+      "uds": "se han ido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré ido",
+      "tu": "te habrás ido",
+      "ud": "se habrá ido",
+      "nosotros": "nos habremos ido",
+      "vosotros": "os habréis ido",
+      "uds": "se habrán ido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había ido",
+      "tu": "te habías ido",
+      "ud": "se había ido",
+      "nosotros": "nos habíamos ido",
+      "vosotros": "os habíais ido",
+      "uds": "se habían ido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube ido",
+      "tu": "te hubiste ido",
+      "ud": "se hubo ido",
+      "nosotros": "nos hubimos ido",
+      "vosotros": "os hubisteis ido",
+      "uds": "se hubieron ido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría ido",
+      "tu": "te habrías ido",
+      "ud": "se habría ido",
+      "nosotros": "nos habríamos ido",
+      "vosotros": "os habríais ido",
+      "uds": "se habrían ido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me vaya",
+      "tu": "te vayas",
+      "ud": "se vaya",
+      "nosotros": "nos vayamos",
+      "vosotros": "os vayáis",
+      "uds": "se vayan"
+    },
+    "imperfecto": {
+      "yo": "me fuera",
+      "tu": "te fueras",
+      "ud": "se fuera",
+      "nosotros": "nos fuéramos",
+      "vosotros": "os fuerais",
+      "uds": "se fueran"
+    },
+    "futuro": {
+      "yo": "me fuere",
+      "tu": "te fueres",
+      "ud": "se fuere",
+      "nosotros": "nos fuéremos",
+      "vosotros": "os fuereis",
+      "uds": "se fueren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya ido",
+      "tu": "te hayas ido",
+      "ud": "se haya ido",
+      "nosotros": "nos hayamos ido",
+      "vosotros": "os hayáis ido",
+      "uds": "se hayan ido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere ido",
+      "tu": "te hubieres ido",
+      "ud": "se hubiere ido",
+      "nosotros": "nos hubiéremos ido",
+      "vosotros": "os hubiereis ido",
+      "uds": "se hubieren ido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera ido",
+      "tu": "te hubieras ido",
+      "ud": "se hubiera ido",
+      "nosotros": "nos hubiéramos ido",
+      "vosotros": "os hubierais ido",
+      "uds": "se hubieran ido"
+    },
+    "imperfectoAlt": {
+      "yo": "me fuese",
+      "tu": "te fueses",
+      "ud": "se fuese",
+      "nosotros": "nos fuésemos",
+      "vosotros": "os fueseis",
+      "uds": "se fuesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese ido",
+      "tu": "te hubieses ido",
+      "ud": "se hubiese ido",
+      "nosotros": "nos hubiésemos ido",
+      "vosotros": "os hubieseis ido",
+      "uds": "se hubiesen ido"
+    }
+  },
+  "afirmativo": {
+    "tu": "vete",
+    "vosotros": "idos",
+    "ud": "váyase",
+    "uds": "váyanse"
+  },
+  "negativo": {
+    "tu": "no te vayas",
+    "vosotros": "no os vayáis",
+    "ud": "no se vaya",
+    "uds": "no se vayan"
+  },
+  "english": {
+    "note": "Irregular en el presente de indicativo (me voy, te vas, etc.), en el presente de subjuntivo (me vaya, te vayas, etc.) y en el pretérito (me fui, te fuiste, etc.). Mandato familiar singular irregular: vete. Gerundio: yéndose.",
+    "infinitivo": "to go away, leave, depart",
+    "gerundio": "going away",
+    "participioPasado": "gone away",
+    "indicativo": {
+      "presente": "I go away, am going away",
+      "futuro": "I will go away",
+      "imperfecto": "I was going away, used to go away, went away",
+      "preterito": "I went away",
+      "condicional": "I would go away",
+      "presentePerfecto": "I have gone away",
+      "futuroPerfecto": "I will have gone away",
+      "pluscuamperfecto": "I had gone away",
+      "preteritoAnterior": "I had gone away",
+      "condicionalPerfecto": "I would have gone away"
+    },
+    "subjuntivo": {
+      "presente": "I go away, am going away",
+      "imperfecto": "I went away, was going away",
+      "futuro": "I will go away",
+      "presentePerfecto": "I have gone away, went away",
+      "futuroPerfecto": "I will have gone away",
+      "pluscuamperfecto": "I had gone away"
+    },
+    "afirmativo": "Go away!",
+    "negativo": "Don't go away!"
+  },
+  "attribution": "Fred Jehle"
+}

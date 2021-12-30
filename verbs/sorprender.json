@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "sorprender",
+  "gerundio": "sorprendiendo",
+  "participioPasado": "sorprendido",
+  "indicativo": {
+    "presente": {
+      "yo": "sorprendo",
+      "tu": "sorprendes",
+      "ud": "sorprende",
+      "nosotros": "sorprendemos",
+      "vosotros": "sorprendéis",
+      "uds": "sorprenden"
+    },
+    "futuro": {
+      "yo": "sorprenderé",
+      "tu": "sorprenderás",
+      "ud": "sorprenderá",
+      "nosotros": "sorprenderemos",
+      "vosotros": "sorprenderéis",
+      "uds": "sorprenderán"
+    },
+    "imperfecto": {
+      "yo": "sorprendía",
+      "tu": "sorprendías",
+      "ud": "sorprendía",
+      "nosotros": "sorprendíamos",
+      "vosotros": "sorprendíais",
+      "uds": "sorprendían"
+    },
+    "preterito": {
+      "yo": "sorprendí",
+      "tu": "sorprendiste",
+      "ud": "sorprendió",
+      "nosotros": "sorprendimos",
+      "vosotros": "sorprendisteis",
+      "uds": "sorprendieron"
+    },
+    "condicional": {
+      "yo": "sorprendería",
+      "tu": "sorprenderías",
+      "ud": "sorprendería",
+      "nosotros": "sorprenderíamos",
+      "vosotros": "sorprenderíais",
+      "uds": "sorprenderían"
+    },
+    "presentePerfecto": {
+      "yo": "he sorprendido",
+      "tu": "has sorprendido",
+      "ud": "ha sorprendido",
+      "nosotros": "hemos sorprendido",
+      "vosotros": "habéis sorprendido",
+      "uds": "han sorprendido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sorprendido",
+      "tu": "habrás sorprendido",
+      "ud": "habrá sorprendido",
+      "nosotros": "habremos sorprendido",
+      "vosotros": "habréis sorprendido",
+      "uds": "habrán sorprendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sorprendido",
+      "tu": "habías sorprendido",
+      "ud": "había sorprendido",
+      "nosotros": "habíamos sorprendido",
+      "vosotros": "habíais sorprendido",
+      "uds": "habían sorprendido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sorprendido",
+      "tu": "hubiste sorprendido",
+      "ud": "hubo sorprendido",
+      "nosotros": "hubimos sorprendido",
+      "vosotros": "hubisteis sorprendido",
+      "uds": "hubieron sorprendido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sorprendido",
+      "tu": "habrías sorprendido",
+      "ud": "habría sorprendido",
+      "nosotros": "habríamos sorprendido",
+      "vosotros": "habríais sorprendido",
+      "uds": "habrían sorprendido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sorprenda",
+      "tu": "sorprendas",
+      "ud": "sorprenda",
+      "nosotros": "sorprendamos",
+      "vosotros": "sorprendáis",
+      "uds": "sorprendan"
+    },
+    "imperfecto": {
+      "yo": "sorprendiera",
+      "tu": "sorprendieras",
+      "ud": "sorprendiera",
+      "nosotros": "sorprendiéramos",
+      "vosotros": "sorprendierais",
+      "uds": "sorprendieran"
+    },
+    "futuro": {
+      "yo": "sorprendiere",
+      "tu": "sorprendieres",
+      "ud": "sorprendiere",
+      "nosotros": "sorprendiéremos",
+      "vosotros": "sorprendiereis",
+      "uds": "sorprendieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sorprendido",
+      "tu": "hayas sorprendido",
+      "ud": "haya sorprendido",
+      "nosotros": "hayamos sorprendido",
+      "vosotros": "hayáis sorprendido",
+      "uds": "hayan sorprendido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sorprendido",
+      "tu": "hubieres sorprendido",
+      "ud": "hubiere sorprendido",
+      "nosotros": "hubiéremos sorprendido",
+      "vosotros": "hubiereis sorprendido",
+      "uds": "hubieren sorprendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sorprendido",
+      "tu": "hubieras sorprendido",
+      "ud": "hubiera sorprendido",
+      "nosotros": "hubiéramos sorprendido",
+      "vosotros": "hubierais sorprendido",
+      "uds": "hubieran sorprendido"
+    },
+    "imperfectoAlt": {
+      "yo": "sorprendiese",
+      "tu": "sorprendieses",
+      "ud": "sorprendiese",
+      "nosotros": "sorprendiésemos",
+      "vosotros": "sorprendieseis",
+      "uds": "sorprendiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sorprendido",
+      "tu": "hubieses sorprendido",
+      "ud": "hubiese sorprendido",
+      "nosotros": "hubiésemos sorprendido",
+      "vosotros": "hubieseis sorprendido",
+      "uds": "hubiesen sorprendido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sorprende",
+    "vosotros": "sorprended",
+    "ud": "sorprenda",
+    "uds": "sorprendan"
+  },
+  "negativo": {
+    "tu": "no sorprendas",
+    "vosotros": "no sorprendáis",
+    "ud": "no sorprenda",
+    "uds": "no sorprendan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to surprise, take by surprise, startle, amaze",
+    "gerundio": "surprising",
+    "participioPasado": "surprised",
+    "indicativo": {
+      "presente": "I surprise, am surprising",
+      "futuro": "I will surprise",
+      "imperfecto": "I was surprising, used to surprise, surprised",
+      "preterito": "I surprised",
+      "condicional": "I would surprise",
+      "presentePerfecto": "I have surprised",
+      "futuroPerfecto": "I will have surprised",
+      "pluscuamperfecto": "I had surprised",
+      "preteritoAnterior": "I had surprised",
+      "condicionalPerfecto": "I would have surprised"
+    },
+    "subjuntivo": {
+      "presente": "I surprise, am surprising",
+      "imperfecto": "I surprised, was surprising",
+      "futuro": "I will surprise",
+      "presentePerfecto": "I have surprised, surprised",
+      "futuroPerfecto": "I will have surprised",
+      "pluscuamperfecto": "I had surprised"
+    },
+    "afirmativo": "Surprise!",
+    "negativo": "Don't surprise!"
+  },
+  "attribution": "Fred Jehle"
+}

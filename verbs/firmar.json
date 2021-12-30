@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "firmar",
+  "gerundio": "firmando",
+  "participioPasado": "firmado",
+  "indicativo": {
+    "presente": {
+      "yo": "firmo",
+      "tu": "firmas",
+      "ud": "firma",
+      "nosotros": "firmamos",
+      "vosotros": "firmáis",
+      "uds": "firman"
+    },
+    "futuro": {
+      "yo": "firmaré",
+      "tu": "firmarás",
+      "ud": "firmará",
+      "nosotros": "firmaremos",
+      "vosotros": "firmaréis",
+      "uds": "firmarán"
+    },
+    "imperfecto": {
+      "yo": "firmaba",
+      "tu": "firmabas",
+      "ud": "firmaba",
+      "nosotros": "firmábamos",
+      "vosotros": "firmabais",
+      "uds": "firmaban"
+    },
+    "preterito": {
+      "yo": "firmé",
+      "tu": "firmaste",
+      "ud": "firmó",
+      "nosotros": "firmamos",
+      "vosotros": "firmasteis",
+      "uds": "firmaron"
+    },
+    "condicional": {
+      "yo": "firmaría",
+      "tu": "firmarías",
+      "ud": "firmaría",
+      "nosotros": "firmaríamos",
+      "vosotros": "firmaríais",
+      "uds": "firmarían"
+    },
+    "presentePerfecto": {
+      "yo": "he firmado",
+      "tu": "has firmado",
+      "ud": "ha firmado",
+      "nosotros": "hemos firmado",
+      "vosotros": "habéis firmado",
+      "uds": "han firmado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré firmado",
+      "tu": "habrás firmado",
+      "ud": "habrá firmado",
+      "nosotros": "habremos firmado",
+      "vosotros": "habréis firmado",
+      "uds": "habrán firmado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había firmado",
+      "tu": "habías firmado",
+      "ud": "había firmado",
+      "nosotros": "habíamos firmado",
+      "vosotros": "habíais firmado",
+      "uds": "habían firmado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube firmado",
+      "tu": "hubiste firmado",
+      "ud": "hubo firmado",
+      "nosotros": "hubimos firmado",
+      "vosotros": "hubisteis firmado",
+      "uds": "hubieron firmado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría firmado",
+      "tu": "habrías firmado",
+      "ud": "habría firmado",
+      "nosotros": "habríamos firmado",
+      "vosotros": "habríais firmado",
+      "uds": "habrían firmado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "firme",
+      "tu": "firmes",
+      "ud": "firme",
+      "nosotros": "firmemos",
+      "vosotros": "firméis",
+      "uds": "firmen"
+    },
+    "imperfecto": {
+      "yo": "firmara",
+      "tu": "firmaras",
+      "ud": "firmara",
+      "nosotros": "firmáramos",
+      "vosotros": "firmarais",
+      "uds": "firmaran"
+    },
+    "futuro": {
+      "yo": "firmare",
+      "tu": "firmares",
+      "ud": "firmare",
+      "nosotros": "firmáremos",
+      "vosotros": "firmareis",
+      "uds": "firmaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya firmado",
+      "tu": "hayas firmado",
+      "ud": "haya firmado",
+      "nosotros": "hayamos firmado",
+      "vosotros": "hayáis firmado",
+      "uds": "hayan firmado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere firmado",
+      "tu": "hubieres firmado",
+      "ud": "hubiere firmado",
+      "nosotros": "hubiéremos firmado",
+      "vosotros": "hubiereis firmado",
+      "uds": "hubieren firmado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera firmado",
+      "tu": "hubieras firmado",
+      "ud": "hubiera firmado",
+      "nosotros": "hubiéramos firmado",
+      "vosotros": "hubierais firmado",
+      "uds": "hubieran firmado"
+    },
+    "imperfectoAlt": {
+      "yo": "firmase",
+      "tu": "firmases",
+      "ud": "firmase",
+      "nosotros": "firmásemos",
+      "vosotros": "firmaseis",
+      "uds": "firmasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese firmado",
+      "tu": "hubieses firmado",
+      "ud": "hubiese firmado",
+      "nosotros": "hubiésemos firmado",
+      "vosotros": "hubieseis firmado",
+      "uds": "hubiesen firmado"
+    }
+  },
+  "afirmativo": {
+    "tu": "firma",
+    "vosotros": "firmad",
+    "ud": "firme",
+    "uds": "firmen"
+  },
+  "negativo": {
+    "tu": "no firmes",
+    "vosotros": "no firméis",
+    "ud": "no firme",
+    "uds": "no firmen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to sign",
+    "gerundio": "signing",
+    "participioPasado": "signed",
+    "indicativo": {
+      "presente": "I sign, am signing",
+      "futuro": "I will sign",
+      "imperfecto": "I was signing, used to sign, signed",
+      "preterito": "I signed",
+      "condicional": "I would sign",
+      "presentePerfecto": "I have signed",
+      "futuroPerfecto": "I will have signed",
+      "pluscuamperfecto": "I had signed",
+      "preteritoAnterior": "I had signed",
+      "condicionalPerfecto": "I would have signed"
+    },
+    "subjuntivo": {
+      "presente": "I sign, am signing",
+      "imperfecto": "I signed, was signing",
+      "futuro": "I will sign",
+      "presentePerfecto": "I have signed, signed",
+      "futuroPerfecto": "I will have signed",
+      "pluscuamperfecto": "I had signed"
+    },
+    "afirmativo": "Sign!",
+    "negativo": "Don't sign!"
+  },
+  "attribution": "Fred Jehle"
+}

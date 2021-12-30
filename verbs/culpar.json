@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "culpar",
+  "gerundio": "culpando",
+  "participioPasado": "culpado",
+  "indicativo": {
+    "presente": {
+      "yo": "culpo",
+      "tu": "culpas",
+      "ud": "culpa",
+      "nosotros": "culpamos",
+      "vosotros": "culpáis",
+      "uds": "culpan"
+    },
+    "futuro": {
+      "yo": "culparé",
+      "tu": "culparás",
+      "ud": "culpará",
+      "nosotros": "culparemos",
+      "vosotros": "culparéis",
+      "uds": "culparán"
+    },
+    "imperfecto": {
+      "yo": "culpaba",
+      "tu": "culpabas",
+      "ud": "culpaba",
+      "nosotros": "culpábamos",
+      "vosotros": "culpabais",
+      "uds": "culpaban"
+    },
+    "preterito": {
+      "yo": "culpé",
+      "tu": "culpaste",
+      "ud": "culpó",
+      "nosotros": "culpamos",
+      "vosotros": "culpasteis",
+      "uds": "culparon"
+    },
+    "condicional": {
+      "yo": "culparía",
+      "tu": "culparías",
+      "ud": "culparía",
+      "nosotros": "culparíamos",
+      "vosotros": "culparíais",
+      "uds": "culparían"
+    },
+    "presentePerfecto": {
+      "yo": "he culpado",
+      "tu": "has culpado",
+      "ud": "ha culpado",
+      "nosotros": "hemos culpado",
+      "vosotros": "habéis culpado",
+      "uds": "han culpado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré culpado",
+      "tu": "habrás culpado",
+      "ud": "habrá culpado",
+      "nosotros": "habremos culpado",
+      "vosotros": "habréis culpado",
+      "uds": "habrán culpado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había culpado",
+      "tu": "habías culpado",
+      "ud": "había culpado",
+      "nosotros": "habíamos culpado",
+      "vosotros": "habíais culpado",
+      "uds": "habían culpado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube culpado",
+      "tu": "hubiste culpado",
+      "ud": "hubo culpado",
+      "nosotros": "hubimos culpado",
+      "vosotros": "hubisteis culpado",
+      "uds": "hubieron culpado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría culpado",
+      "tu": "habrías culpado",
+      "ud": "habría culpado",
+      "nosotros": "habríamos culpado",
+      "vosotros": "habríais culpado",
+      "uds": "habrían culpado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "culpe",
+      "tu": "culpes",
+      "ud": "culpe",
+      "nosotros": "culpemos",
+      "vosotros": "culpéis",
+      "uds": "culpen"
+    },
+    "imperfecto": {
+      "yo": "culpara",
+      "tu": "culparas",
+      "ud": "culpara",
+      "nosotros": "culpáramos",
+      "vosotros": "culparais",
+      "uds": "culparan"
+    },
+    "futuro": {
+      "yo": "culpare",
+      "tu": "culpares",
+      "ud": "culpare",
+      "nosotros": "culpáremos",
+      "vosotros": "culpareis",
+      "uds": "culparen"
+    },
+    "presentePerfecto": {
+      "yo": "haya culpado",
+      "tu": "hayas culpado",
+      "ud": "haya culpado",
+      "nosotros": "hayamos culpado",
+      "vosotros": "hayáis culpado",
+      "uds": "hayan culpado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere culpado",
+      "tu": "hubieres culpado",
+      "ud": "hubiere culpado",
+      "nosotros": "hubiéremos culpado",
+      "vosotros": "hubiereis culpado",
+      "uds": "hubieren culpado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera culpado",
+      "tu": "hubieras culpado",
+      "ud": "hubiera culpado",
+      "nosotros": "hubiéramos culpado",
+      "vosotros": "hubierais culpado",
+      "uds": "hubieran culpado"
+    },
+    "imperfectoAlt": {
+      "yo": "culpase",
+      "tu": "culpases",
+      "ud": "culpase",
+      "nosotros": "culpásemos",
+      "vosotros": "culpaseis",
+      "uds": "culpasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese culpado",
+      "tu": "hubieses culpado",
+      "ud": "hubiese culpado",
+      "nosotros": "hubiésemos culpado",
+      "vosotros": "hubieseis culpado",
+      "uds": "hubiesen culpado"
+    }
+  },
+  "afirmativo": {
+    "tu": "culpa",
+    "vosotros": "culpad",
+    "ud": "culpe",
+    "uds": "culpen"
+  },
+  "negativo": {
+    "tu": "no culpes",
+    "vosotros": "no culpéis",
+    "ud": "no culpe",
+    "uds": "no culpen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to blame, accuse; to condemn",
+    "gerundio": "blaming",
+    "participioPasado": "blamed",
+    "indicativo": {
+      "presente": "I blame, am blaming",
+      "futuro": "I will blame",
+      "imperfecto": "I was blaming, used to blame, blamed",
+      "preterito": "I blamed",
+      "condicional": "I would blame",
+      "presentePerfecto": "I have blamed",
+      "futuroPerfecto": "I will have blamed",
+      "pluscuamperfecto": "I had blamed",
+      "preteritoAnterior": "I had blamed",
+      "condicionalPerfecto": "I would have blamed"
+    },
+    "subjuntivo": {
+      "presente": "I blame, am blaming",
+      "imperfecto": "I blamed, was blaming",
+      "futuro": "I will blame",
+      "presentePerfecto": "I have blamed, blamed",
+      "futuroPerfecto": "I will have blamed",
+      "pluscuamperfecto": "I had blamed"
+    },
+    "afirmativo": "Blame!",
+    "negativo": "Don't blame!"
+  },
+  "attribution": "Fred Jehle"
+}

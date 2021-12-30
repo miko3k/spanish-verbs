@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "aburrirse",
+  "gerundio": "aburriéndose",
+  "participioPasado": "aburrido",
+  "indicativo": {
+    "presente": {
+      "yo": "me aburro",
+      "tu": "te aburres",
+      "ud": "se aburre",
+      "nosotros": "nos aburrimos",
+      "vosotros": "os aburrís",
+      "uds": "se aburren"
+    },
+    "futuro": {
+      "yo": "me aburriré",
+      "tu": "te aburrirás",
+      "ud": "se aburrirá",
+      "nosotros": "nos aburriremos",
+      "vosotros": "os aburriréis",
+      "uds": "se aburrirán"
+    },
+    "imperfecto": {
+      "yo": "me aburría",
+      "tu": "te aburrías",
+      "ud": "se aburría",
+      "nosotros": "nos aburríamos",
+      "vosotros": "os aburríais",
+      "uds": "se aburrían"
+    },
+    "preterito": {
+      "yo": "me aburrí",
+      "tu": "te aburriste",
+      "ud": "se aburrió",
+      "nosotros": "nos aburrimos",
+      "vosotros": "os aburristeis",
+      "uds": "se aburrieron"
+    },
+    "condicional": {
+      "yo": "me aburriría",
+      "tu": "te aburrirías",
+      "ud": "se aburriría",
+      "nosotros": "nos aburriríamos",
+      "vosotros": "os aburriríais",
+      "uds": "se aburrirían"
+    },
+    "presentePerfecto": {
+      "yo": "me he aburrido",
+      "tu": "te has aburrido",
+      "ud": "se ha aburrido",
+      "nosotros": "nos hemos aburrido",
+      "vosotros": "os habéis aburrido",
+      "uds": "se han aburrido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré aburrido",
+      "tu": "te habrás aburrido",
+      "ud": "se habrá aburrido",
+      "nosotros": "nos habremos aburrido",
+      "vosotros": "os habréis aburrido",
+      "uds": "se habrán aburrido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había aburrido",
+      "tu": "te habías aburrido",
+      "ud": "se había aburrido",
+      "nosotros": "nos habíamos aburrido",
+      "vosotros": "os habíais aburrido",
+      "uds": "se habían aburrido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube aburrido",
+      "tu": "te hubiste aburrido",
+      "ud": "se hubo aburrido",
+      "nosotros": "nos hubimos aburrido",
+      "vosotros": "os hubisteis aburrido",
+      "uds": "se hubieron aburrido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría aburrido",
+      "tu": "te habrías aburrido",
+      "ud": "se habría aburrido",
+      "nosotros": "nos habríamos aburrido",
+      "vosotros": "os habríais aburrido",
+      "uds": "se habrían aburrido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me aburra",
+      "tu": "te aburras",
+      "ud": "se aburra",
+      "nosotros": "nos aburramos",
+      "vosotros": "os aburráis",
+      "uds": "se aburran"
+    },
+    "imperfecto": {
+      "yo": "me aburriera",
+      "tu": "te aburrieras",
+      "ud": "se aburriera",
+      "nosotros": "nos aburriéramos",
+      "vosotros": "os aburrierais",
+      "uds": "se aburrieran"
+    },
+    "futuro": {
+      "yo": "me aburriere",
+      "tu": "te aburrieres",
+      "ud": "se aburriere",
+      "nosotros": "nos aburriéremos",
+      "vosotros": "os aburriereis",
+      "uds": "se aburrieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya aburrido",
+      "tu": "te hayas aburrido",
+      "ud": "se haya aburrido",
+      "nosotros": "nos hayamos aburrido",
+      "vosotros": "os hayáis aburrido",
+      "uds": "se hayan aburrido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere aburrido",
+      "tu": "te hubieres aburrido",
+      "ud": "se hubiere aburrido",
+      "nosotros": "nos hubiéremos aburrido",
+      "vosotros": "os hubiereis aburrido",
+      "uds": "se hubieren aburrido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera aburrido",
+      "tu": "te hubieras aburrido",
+      "ud": "se hubiera aburrido",
+      "nosotros": "nos hubiéramos aburrido",
+      "vosotros": "os hubierais aburrido",
+      "uds": "se hubieran aburrido"
+    },
+    "imperfectoAlt": {
+      "yo": "me aburriese",
+      "tu": "te aburrieses",
+      "ud": "se aburriese",
+      "nosotros": "nos aburriésemos",
+      "vosotros": "os aburrieseis",
+      "uds": "se aburriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese aburrido",
+      "tu": "te hubieses aburrido",
+      "ud": "se hubiese aburrido",
+      "nosotros": "nos hubiésemos aburrido",
+      "vosotros": "os hubieseis aburrido",
+      "uds": "se hubiesen aburrido"
+    }
+  },
+  "afirmativo": {
+    "tu": "abúrrete",
+    "vosotros": "aburríos",
+    "ud": "abúrrase",
+    "uds": "abúrranse"
+  },
+  "negativo": {
+    "tu": "no te aburras",
+    "vosotros": "no os aburráis",
+    "ud": "no se aburra",
+    "uds": "no se aburran"
+  },
+  "english": {
+    "note": "Note: The nonreflexive form of this verb, aburrir, means to bore.",
+    "infinitivo": "to get bored, become bored, be bored",
+    "gerundio": "getting bored",
+    "participioPasado": "bored",
+    "indicativo": {
+      "presente": "I get bored, am getting bored",
+      "futuro": "I will get bored",
+      "imperfecto": "I was getting bored, used to get bored, got bored",
+      "preterito": "I got bored",
+      "condicional": "I would get bored",
+      "presentePerfecto": "I have gotten bored",
+      "futuroPerfecto": "I will have gotten bored",
+      "pluscuamperfecto": "I had gotten bored",
+      "preteritoAnterior": "I had gotten bored",
+      "condicionalPerfecto": "I would have gotten bored"
+    },
+    "subjuntivo": {
+      "presente": "I get bored, am getting bored",
+      "imperfecto": "I got bored, was getting bored",
+      "futuro": "I will get bored",
+      "presentePerfecto": "I have gotten bored, got bored",
+      "futuroPerfecto": "I will have gotten bored",
+      "pluscuamperfecto": "I had gotten bored"
+    },
+    "afirmativo": "Get bored!",
+    "negativo": "Don't get bored!"
+  },
+  "attribution": "Fred Jehle"
+}

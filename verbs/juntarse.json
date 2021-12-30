@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "juntarse",
+  "gerundio": "juntándose",
+  "participioPasado": "juntado",
+  "indicativo": {
+    "presente": {
+      "yo": "me junto",
+      "tu": "te juntas",
+      "ud": "se junta",
+      "nosotros": "nos juntamos",
+      "vosotros": "os juntáis",
+      "uds": "se juntan"
+    },
+    "futuro": {
+      "yo": "me juntaré",
+      "tu": "te juntarás",
+      "ud": "se juntará",
+      "nosotros": "nos juntaremos",
+      "vosotros": "os juntaréis",
+      "uds": "se juntarán"
+    },
+    "imperfecto": {
+      "yo": "me juntaba",
+      "tu": "te juntabas",
+      "ud": "se juntaba",
+      "nosotros": "nos juntábamos",
+      "vosotros": "os juntabais",
+      "uds": "se juntaban"
+    },
+    "preterito": {
+      "yo": "me junté",
+      "tu": "te juntaste",
+      "ud": "se juntó",
+      "nosotros": "nos juntamos",
+      "vosotros": "os juntasteis",
+      "uds": "se juntaron"
+    },
+    "condicional": {
+      "yo": "me juntaría",
+      "tu": "te juntarías",
+      "ud": "se juntaría",
+      "nosotros": "nos juntaríamos",
+      "vosotros": "os juntaríais",
+      "uds": "se juntarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he juntado",
+      "tu": "te has juntado",
+      "ud": "se ha juntado",
+      "nosotros": "nos hemos juntado",
+      "vosotros": "os habéis juntado",
+      "uds": "se han juntado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré juntado",
+      "tu": "te habrás juntado",
+      "ud": "se habrá juntado",
+      "nosotros": "nos habremos juntado",
+      "vosotros": "os habréis juntado",
+      "uds": "se habrán juntado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había juntado",
+      "tu": "te habías juntado",
+      "ud": "se había juntado",
+      "nosotros": "nos habíamos juntado",
+      "vosotros": "os habíais juntado",
+      "uds": "se habían juntado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube juntado",
+      "tu": "te hubiste juntado",
+      "ud": "se hubo juntado",
+      "nosotros": "nos hubimos juntado",
+      "vosotros": "os hubisteis juntado",
+      "uds": "se hubieron juntado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría juntado",
+      "tu": "te habrías juntado",
+      "ud": "se habría juntado",
+      "nosotros": "nos habríamos juntado",
+      "vosotros": "os habríais juntado",
+      "uds": "se habrían juntado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me junte",
+      "tu": "te juntes",
+      "ud": "se junte",
+      "nosotros": "nos juntemos",
+      "vosotros": "os juntéis",
+      "uds": "se junten"
+    },
+    "imperfecto": {
+      "yo": "me juntara",
+      "tu": "te juntaras",
+      "ud": "se juntara",
+      "nosotros": "nos juntáramos",
+      "vosotros": "os juntarais",
+      "uds": "se juntaran"
+    },
+    "futuro": {
+      "yo": "me juntare",
+      "tu": "te juntares",
+      "ud": "se juntare",
+      "nosotros": "nos juntáremos",
+      "vosotros": "os juntareis",
+      "uds": "se juntaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya juntado",
+      "tu": "te hayas juntado",
+      "ud": "se haya juntado",
+      "nosotros": "nos hayamos juntado",
+      "vosotros": "os hayáis juntado",
+      "uds": "se hayan juntado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere juntado",
+      "tu": "te hubieres juntado",
+      "ud": "se hubiere juntado",
+      "nosotros": "nos hubiéremos juntado",
+      "vosotros": "os hubiereis juntado",
+      "uds": "se hubieren juntado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera juntado",
+      "tu": "te hubieras juntado",
+      "ud": "se hubiera juntado",
+      "nosotros": "nos hubiéramos juntado",
+      "vosotros": "os hubierais juntado",
+      "uds": "se hubieran juntado"
+    },
+    "imperfectoAlt": {
+      "yo": "me juntase",
+      "tu": "te juntases",
+      "ud": "se juntase",
+      "nosotros": "nos juntásemos",
+      "vosotros": "os juntaseis",
+      "uds": "se juntasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese juntado",
+      "tu": "te hubieses juntado",
+      "ud": "se hubiese juntado",
+      "nosotros": "nos hubiésemos juntado",
+      "vosotros": "os hubieseis juntado",
+      "uds": "se hubiesen juntado"
+    }
+  },
+  "afirmativo": {
+    "tu": "júntate",
+    "vosotros": "juntaos",
+    "ud": "júntese",
+    "uds": "júntense"
+  },
+  "negativo": {
+    "tu": "no te juntes",
+    "vosotros": "no os juntéis",
+    "ud": "no se junte",
+    "uds": "no se junten"
+  },
+  "english": {
+    "note": "Note: This reflexive form is more frequently used in the plural (as when peope gather together); it can also be used in the singular in the sense of meet or become a part of a group: Me junté con ellos en el parque = I joined them in the park. For to join meaning to unite (things), put (things) together, use the nonreflexive form juntar.",
+    "infinitivo": "to join, come together, gather together, meet",
+    "gerundio": "joining",
+    "participioPasado": "joined",
+    "indicativo": {
+      "presente": "I join, am joining",
+      "futuro": "I will join",
+      "imperfecto": "I was joining, used to join, joined",
+      "preterito": "I joined",
+      "condicional": "I would join",
+      "presentePerfecto": "I have joined",
+      "futuroPerfecto": "I will have joined",
+      "pluscuamperfecto": "I had joined",
+      "preteritoAnterior": "I had joined",
+      "condicionalPerfecto": "I would have joined"
+    },
+    "subjuntivo": {
+      "presente": "I join, am joining",
+      "imperfecto": "I joined, was joining",
+      "futuro": "I will join",
+      "presentePerfecto": "I have joined, joined",
+      "futuroPerfecto": "I will have joined",
+      "pluscuamperfecto": "I had joined"
+    },
+    "afirmativo": "Join!",
+    "negativo": "Don't join!"
+  },
+  "attribution": "Fred Jehle"
+}

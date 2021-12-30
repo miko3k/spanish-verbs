@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "calentarse",
+  "gerundio": "calentándose",
+  "participioPasado": "calentado",
+  "indicativo": {
+    "presente": {
+      "yo": "me caliento",
+      "tu": "te calientas",
+      "ud": "se calienta",
+      "nosotros": "nos calentamos",
+      "vosotros": "os calentáis",
+      "uds": "se calientan"
+    },
+    "futuro": {
+      "yo": "me calentaré",
+      "tu": "te calentarás",
+      "ud": "se calentará",
+      "nosotros": "nos calentaremos",
+      "vosotros": "os calentaréis",
+      "uds": "se calentarán"
+    },
+    "imperfecto": {
+      "yo": "me calentaba",
+      "tu": "te calentabas",
+      "ud": "se calentaba",
+      "nosotros": "nos calentábamos",
+      "vosotros": "os calentabais",
+      "uds": "se calentaban"
+    },
+    "preterito": {
+      "yo": "me calenté",
+      "tu": "te calentaste",
+      "ud": "se calentó",
+      "nosotros": "nos calentamos",
+      "vosotros": "os calentasteis",
+      "uds": "se calentaron"
+    },
+    "condicional": {
+      "yo": "me calentaría",
+      "tu": "te calentarías",
+      "ud": "se calentaría",
+      "nosotros": "nos calentaríamos",
+      "vosotros": "os calentaríais",
+      "uds": "se calentarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he calentado",
+      "tu": "te has calentado",
+      "ud": "se ha calentado",
+      "nosotros": "nos hemos calentado",
+      "vosotros": "os habéis calentado",
+      "uds": "se han calentado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré calentado",
+      "tu": "te habrás calentado",
+      "ud": "se habrá calentado",
+      "nosotros": "nos habremos calentado",
+      "vosotros": "os habréis calentado",
+      "uds": "se habrán calentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había calentado",
+      "tu": "te habías calentado",
+      "ud": "se había calentado",
+      "nosotros": "nos habíamos calentado",
+      "vosotros": "os habíais calentado",
+      "uds": "se habían calentado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube calentado",
+      "tu": "te hubiste calentado",
+      "ud": "se hubo calentado",
+      "nosotros": "nos hubimos calentado",
+      "vosotros": "os hubisteis calentado",
+      "uds": "se hubieron calentado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría calentado",
+      "tu": "te habrías calentado",
+      "ud": "se habría calentado",
+      "nosotros": "nos habríamos calentado",
+      "vosotros": "os habríais calentado",
+      "uds": "se habrían calentado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me caliente",
+      "tu": "te calientes",
+      "ud": "se caliente",
+      "nosotros": "nos calentemos",
+      "vosotros": "os calentéis",
+      "uds": "se calienten"
+    },
+    "imperfecto": {
+      "yo": "me calentara",
+      "tu": "te calentaras",
+      "ud": "se calentara",
+      "nosotros": "nos calentáramos",
+      "vosotros": "os calentarais",
+      "uds": "se calentaran"
+    },
+    "futuro": {
+      "yo": "me calentare",
+      "tu": "te calentares",
+      "ud": "se calentare",
+      "nosotros": "nos calentáremos",
+      "vosotros": "os calentareis",
+      "uds": "se calentaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya calentado",
+      "tu": "te hayas calentado",
+      "ud": "se haya calentado",
+      "nosotros": "nos hayamos calentado",
+      "vosotros": "os hayáis calentado",
+      "uds": "se hayan calentado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere calentado",
+      "tu": "te hubieres calentado",
+      "ud": "se hubiere calentado",
+      "nosotros": "nos hubiéremos calentado",
+      "vosotros": "os hubiereis calentado",
+      "uds": "se hubieren calentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera calentado",
+      "tu": "te hubieras calentado",
+      "ud": "se hubiera calentado",
+      "nosotros": "nos hubiéramos calentado",
+      "vosotros": "os hubierais calentado",
+      "uds": "se hubieran calentado"
+    },
+    "imperfectoAlt": {
+      "yo": "me calentase",
+      "tu": "te calentases",
+      "ud": "se calentase",
+      "nosotros": "nos calentásemos",
+      "vosotros": "os calentaseis",
+      "uds": "se calentasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese calentado",
+      "tu": "te hubieses calentado",
+      "ud": "se hubiese calentado",
+      "nosotros": "nos hubiésemos calentado",
+      "vosotros": "os hubieseis calentado",
+      "uds": "se hubiesen calentado"
+    }
+  },
+  "afirmativo": {
+    "tu": "caliéntate",
+    "vosotros": "calentaos",
+    "ud": "caliéntese",
+    "uds": "caliéntense"
+  },
+  "negativo": {
+    "tu": "no te calientes",
+    "vosotros": "no os calentéis",
+    "ud": "no se caliente",
+    "uds": "no se calienten"
+  },
+  "english": {
+    "note": "Cambio radical: i > ie cuando se acentúa. Note: The nonreflexive form calentar means to heat (up) (something), warm (up) (something).",
+    "infinitivo": "to heat up, warm up (intrans.); to become heated/warmed, to get heated/warmed",
+    "gerundio": "getting heated",
+    "participioPasado": "heated",
+    "indicativo": {
+      "presente": "I get heated, am getting heated",
+      "futuro": "I will get heated",
+      "imperfecto": "I was getting heated, used to get heated, got heated",
+      "preterito": "I got heated",
+      "condicional": "I would get heated",
+      "presentePerfecto": "I have gotten heated",
+      "futuroPerfecto": "I will have gotten heated",
+      "pluscuamperfecto": "I had gotten heated",
+      "preteritoAnterior": "I had gotten heated",
+      "condicionalPerfecto": "I would have gotten heated"
+    },
+    "subjuntivo": {
+      "presente": "I get heated, am getting heated",
+      "imperfecto": "I got heated, was getting heated",
+      "futuro": "I will get heated",
+      "presentePerfecto": "I have gotten heated, got heated",
+      "futuroPerfecto": "I will have gotten heated",
+      "pluscuamperfecto": "I had gotten heated"
+    },
+    "afirmativo": "Get heated!",
+    "negativo": "Don't get heated!"
+  },
+  "attribution": "Fred Jehle"
+}

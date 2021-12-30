@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "fascinar",
+  "gerundio": "fascinando",
+  "participioPasado": "fascinado",
+  "indicativo": {
+    "presente": {
+      "yo": "fascino",
+      "tu": "fascinas",
+      "ud": "fascina",
+      "nosotros": "fascinamos",
+      "vosotros": "fascináis",
+      "uds": "fascinan"
+    },
+    "futuro": {
+      "yo": "fascinaré",
+      "tu": "fascinarás",
+      "ud": "fascinará",
+      "nosotros": "fascinaremos",
+      "vosotros": "fascinaréis",
+      "uds": "fascinarán"
+    },
+    "imperfecto": {
+      "yo": "fascinaba",
+      "tu": "fascinabas",
+      "ud": "fascinaba",
+      "nosotros": "fascinábamos",
+      "vosotros": "fascinabais",
+      "uds": "fascinaban"
+    },
+    "preterito": {
+      "yo": "fasciné",
+      "tu": "fascinaste",
+      "ud": "fascinó",
+      "nosotros": "fascinamos",
+      "vosotros": "fascinasteis",
+      "uds": "fascinaron"
+    },
+    "condicional": {
+      "yo": "fascinaría",
+      "tu": "fascinarías",
+      "ud": "fascinaría",
+      "nosotros": "fascinaríamos",
+      "vosotros": "fascinaríais",
+      "uds": "fascinarían"
+    },
+    "presentePerfecto": {
+      "yo": "he fascinado",
+      "tu": "has fascinado",
+      "ud": "ha fascinado",
+      "nosotros": "hemos fascinado",
+      "vosotros": "habéis fascinado",
+      "uds": "han fascinado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré fascinado",
+      "tu": "habrás fascinado",
+      "ud": "habrá fascinado",
+      "nosotros": "habremos fascinado",
+      "vosotros": "habréis fascinado",
+      "uds": "habrán fascinado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había fascinado",
+      "tu": "habías fascinado",
+      "ud": "había fascinado",
+      "nosotros": "habíamos fascinado",
+      "vosotros": "habíais fascinado",
+      "uds": "habían fascinado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube fascinado",
+      "tu": "hubiste fascinado",
+      "ud": "hubo fascinado",
+      "nosotros": "hubimos fascinado",
+      "vosotros": "hubisteis fascinado",
+      "uds": "hubieron fascinado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría fascinado",
+      "tu": "habrías fascinado",
+      "ud": "habría fascinado",
+      "nosotros": "habríamos fascinado",
+      "vosotros": "habríais fascinado",
+      "uds": "habrían fascinado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "fascine",
+      "tu": "fascines",
+      "ud": "fascine",
+      "nosotros": "fascinemos",
+      "vosotros": "fascinéis",
+      "uds": "fascinen"
+    },
+    "imperfecto": {
+      "yo": "fascinara",
+      "tu": "fascinaras",
+      "ud": "fascinara",
+      "nosotros": "fascináramos",
+      "vosotros": "fascinarais",
+      "uds": "fascinaran"
+    },
+    "futuro": {
+      "yo": "fascinare",
+      "tu": "fascinares",
+      "ud": "fascinare",
+      "nosotros": "fascináremos",
+      "vosotros": "fascinareis",
+      "uds": "fascinaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya fascinado",
+      "tu": "hayas fascinado",
+      "ud": "haya fascinado",
+      "nosotros": "hayamos fascinado",
+      "vosotros": "hayáis fascinado",
+      "uds": "hayan fascinado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere fascinado",
+      "tu": "hubieres fascinado",
+      "ud": "hubiere fascinado",
+      "nosotros": "hubiéremos fascinado",
+      "vosotros": "hubiereis fascinado",
+      "uds": "hubieren fascinado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera fascinado",
+      "tu": "hubieras fascinado",
+      "ud": "hubiera fascinado",
+      "nosotros": "hubiéramos fascinado",
+      "vosotros": "hubierais fascinado",
+      "uds": "hubieran fascinado"
+    },
+    "imperfectoAlt": {
+      "yo": "fascinase",
+      "tu": "fascinases",
+      "ud": "fascinase",
+      "nosotros": "fascinásemos",
+      "vosotros": "fascinaseis",
+      "uds": "fascinasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese fascinado",
+      "tu": "hubieses fascinado",
+      "ud": "hubiese fascinado",
+      "nosotros": "hubiésemos fascinado",
+      "vosotros": "hubieseis fascinado",
+      "uds": "hubiesen fascinado"
+    }
+  },
+  "afirmativo": {
+    "tu": "fascina",
+    "vosotros": "fascinad",
+    "ud": "fascine",
+    "uds": "fascinen"
+  },
+  "negativo": {
+    "tu": "no fascines",
+    "vosotros": "no fascinéis",
+    "ud": "no fascine",
+    "uds": "no fascinen"
+  },
+  "english": {
+    "note": "Note: The verb may be used in the normal way with the meaning fascinate. It is also used similarly to the construction used with gustar: Me fascina el libro = The book fascinates me (= I am fascinated by the book); Me fascinan los libros = The books fascinate me (= I am fascinated by the books). In this construction the verb is most frequently used in the third person singular or plural, although other persons are possible, and the subject usually follows the verb.",
+    "infinitivo": "to fascinate, captivate",
+    "gerundio": "fascinating",
+    "participioPasado": "fascinated",
+    "indicativo": {
+      "presente": "I fascinate, am fascinating",
+      "futuro": "I will fascinate",
+      "imperfecto": "I was fascinating, used to fascinate, fascinated",
+      "preterito": "I fascinated",
+      "condicional": "I would fascinate",
+      "presentePerfecto": "I have fascinated",
+      "futuroPerfecto": "I will have fascinated",
+      "pluscuamperfecto": "I had fascinated",
+      "preteritoAnterior": "I had fascinated",
+      "condicionalPerfecto": "I would have fascinated"
+    },
+    "subjuntivo": {
+      "presente": "I fascinate, am fascinating",
+      "imperfecto": "I fascinated, was fascinating",
+      "futuro": "I will fascinate",
+      "presentePerfecto": "I have fascinated, fascinated",
+      "futuroPerfecto": "I will have fascinated",
+      "pluscuamperfecto": "I had fascinated"
+    },
+    "afirmativo": "Fascinate!",
+    "negativo": "Don't fascinate!"
+  },
+  "attribution": "Fred Jehle"
+}

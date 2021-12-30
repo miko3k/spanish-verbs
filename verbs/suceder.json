@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "suceder",
+  "gerundio": "sucediendo",
+  "participioPasado": "sucedido",
+  "indicativo": {
+    "presente": {
+      "yo": "sucedo",
+      "tu": "sucedes",
+      "ud": "sucede",
+      "nosotros": "sucedemos",
+      "vosotros": "sucedéis",
+      "uds": "suceden"
+    },
+    "futuro": {
+      "yo": "sucederé",
+      "tu": "sucederás",
+      "ud": "sucederá",
+      "nosotros": "sucederemos",
+      "vosotros": "sucederéis",
+      "uds": "sucederán"
+    },
+    "imperfecto": {
+      "yo": "sucedía",
+      "tu": "sucedías",
+      "ud": "sucedía",
+      "nosotros": "sucedíamos",
+      "vosotros": "sucedíais",
+      "uds": "sucedían"
+    },
+    "preterito": {
+      "yo": "sucedí",
+      "tu": "sucediste",
+      "ud": "sucedió",
+      "nosotros": "sucedimos",
+      "vosotros": "sucedisteis",
+      "uds": "sucedieron"
+    },
+    "condicional": {
+      "yo": "sucedería",
+      "tu": "sucederías",
+      "ud": "sucedería",
+      "nosotros": "sucederíamos",
+      "vosotros": "sucederíais",
+      "uds": "sucederían"
+    },
+    "presentePerfecto": {
+      "yo": "he sucedido",
+      "tu": "has sucedido",
+      "ud": "ha sucedido",
+      "nosotros": "hemos sucedido",
+      "vosotros": "habéis sucedido",
+      "uds": "han sucedido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sucedido",
+      "tu": "habrás sucedido",
+      "ud": "habrá sucedido",
+      "nosotros": "habremos sucedido",
+      "vosotros": "habréis sucedido",
+      "uds": "habrán sucedido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sucedido",
+      "tu": "habías sucedido",
+      "ud": "había sucedido",
+      "nosotros": "habíamos sucedido",
+      "vosotros": "habíais sucedido",
+      "uds": "habían sucedido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sucedido",
+      "tu": "hubiste sucedido",
+      "ud": "hubo sucedido",
+      "nosotros": "hubimos sucedido",
+      "vosotros": "hubisteis sucedido",
+      "uds": "hubieron sucedido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sucedido",
+      "tu": "habrías sucedido",
+      "ud": "habría sucedido",
+      "nosotros": "habríamos sucedido",
+      "vosotros": "habríais sucedido",
+      "uds": "habrían sucedido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "suceda",
+      "tu": "sucedas",
+      "ud": "suceda",
+      "nosotros": "sucedamos",
+      "vosotros": "sucedáis",
+      "uds": "sucedan"
+    },
+    "imperfecto": {
+      "yo": "sucediera",
+      "tu": "sucedieras",
+      "ud": "sucediera",
+      "nosotros": "sucediéramos",
+      "vosotros": "sucedierais",
+      "uds": "sucedieran"
+    },
+    "futuro": {
+      "yo": "sucediere",
+      "tu": "sucedieres",
+      "ud": "sucediere",
+      "nosotros": "sucediéremos",
+      "vosotros": "sucediereis",
+      "uds": "sucedieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sucedido",
+      "tu": "hayas sucedido",
+      "ud": "haya sucedido",
+      "nosotros": "hayamos sucedido",
+      "vosotros": "hayáis sucedido",
+      "uds": "hayan sucedido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sucedido",
+      "tu": "hubieres sucedido",
+      "ud": "hubiere sucedido",
+      "nosotros": "hubiéremos sucedido",
+      "vosotros": "hubiereis sucedido",
+      "uds": "hubieren sucedido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sucedido",
+      "tu": "hubieras sucedido",
+      "ud": "hubiera sucedido",
+      "nosotros": "hubiéramos sucedido",
+      "vosotros": "hubierais sucedido",
+      "uds": "hubieran sucedido"
+    },
+    "imperfectoAlt": {
+      "yo": "sucediese",
+      "tu": "sucedieses",
+      "ud": "sucediese",
+      "nosotros": "sucediésemos",
+      "vosotros": "sucedieseis",
+      "uds": "sucediesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sucedido",
+      "tu": "hubieses sucedido",
+      "ud": "hubiese sucedido",
+      "nosotros": "hubiésemos sucedido",
+      "vosotros": "hubieseis sucedido",
+      "uds": "hubiesen sucedido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sucede",
+    "vosotros": "suceded",
+    "ud": "suceda",
+    "uds": "sucedan"
+  },
+  "negativo": {
+    "tu": "no sucedas",
+    "vosotros": "no sucedáis",
+    "ud": "no suceda",
+    "uds": "no sucedan"
+  },
+  "english": {
+    "note": "Note; When used as to happen, normally suceder is used only in the third person, and most the forms below would be quite strange. Suceder does not mean to succeed in the sense of to be successful; instead use tener éxito.",
+    "infinitivo": "to happen; to succeed, follow",
+    "gerundio": "happening",
+    "participioPasado": "happened",
+    "indicativo": {
+      "presente": "I happen, am happening",
+      "futuro": "I will happen",
+      "imperfecto": "I was happening, used to happen, happened",
+      "preterito": "I happened",
+      "condicional": "I would happen",
+      "presentePerfecto": "I have happened",
+      "futuroPerfecto": "I will have happened",
+      "pluscuamperfecto": "I had happened",
+      "preteritoAnterior": "I had happened",
+      "condicionalPerfecto": "I would have happened"
+    },
+    "subjuntivo": {
+      "presente": "I happen, am happening",
+      "imperfecto": "I happened, was happening",
+      "futuro": "I will happen",
+      "presentePerfecto": "I have happened, happened",
+      "futuroPerfecto": "I will have happened",
+      "pluscuamperfecto": "I had happened"
+    },
+    "afirmativo": "Happen!",
+    "negativo": "Don't happen!"
+  },
+  "attribution": "Fred Jehle"
+}

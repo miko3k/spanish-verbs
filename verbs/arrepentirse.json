@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "arrepentirse",
+  "gerundio": "arrepintiéndose",
+  "participioPasado": "arrepentido",
+  "indicativo": {
+    "presente": {
+      "yo": "me arrepiento",
+      "tu": "te arrepientes",
+      "ud": "se arrepiente",
+      "nosotros": "nos arrepentimos",
+      "vosotros": "os arrepentís",
+      "uds": "se arrepienten"
+    },
+    "futuro": {
+      "yo": "me arrepentiré",
+      "tu": "te arrepentirás",
+      "ud": "se arrepentirá",
+      "nosotros": "nos arrepentiremos",
+      "vosotros": "os arrepentiréis",
+      "uds": "se arrepentirán"
+    },
+    "imperfecto": {
+      "yo": "me arrepentía",
+      "tu": "te arrepentías",
+      "ud": "se arrepentía",
+      "nosotros": "nos arrepentíamos",
+      "vosotros": "os arrepentíais",
+      "uds": "se arrepentían"
+    },
+    "preterito": {
+      "yo": "me arrepentí",
+      "tu": "te arrepentiste",
+      "ud": "se arrepintió",
+      "nosotros": "nos arrepentimos",
+      "vosotros": "os arrepentisteis",
+      "uds": "se arrepintieron"
+    },
+    "condicional": {
+      "yo": "me arrepentiría",
+      "tu": "te arrepentirías",
+      "ud": "se arrepentiría",
+      "nosotros": "nos arrepentiríamos",
+      "vosotros": "os arrepentiríais",
+      "uds": "se arrepentirían"
+    },
+    "presentePerfecto": {
+      "yo": "me he arrepentido",
+      "tu": "te has arrepentido",
+      "ud": "se ha arrepentido",
+      "nosotros": "nos hemos arrepentido",
+      "vosotros": "os habéis arrepentido",
+      "uds": "se han arrepentido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré arrepentido",
+      "tu": "te habrás arrepentido",
+      "ud": "se habrá arrepentido",
+      "nosotros": "nos habremos arrepentido",
+      "vosotros": "os habréis arrepentido",
+      "uds": "se habrán arrepentido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había arrepentido",
+      "tu": "te habías arrepentido",
+      "ud": "se había arrepentido",
+      "nosotros": "nos habíamos arrepentido",
+      "vosotros": "os habíais arrepentido",
+      "uds": "se habían arrepentido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube arrepentido",
+      "tu": "te hubiste arrepentido",
+      "ud": "se hubo arrepentido",
+      "nosotros": "nos hubimos arrepentido",
+      "vosotros": "os hubisteis arrepentido",
+      "uds": "se hubieron arrepentido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría arrepentido",
+      "tu": "te habrías arrepentido",
+      "ud": "se habría arrepentido",
+      "nosotros": "nos habríamos arrepentido",
+      "vosotros": "os habríais arrepentido",
+      "uds": "se habrían arrepentido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me arrepienta",
+      "tu": "te arrepientas",
+      "ud": "se arrepienta",
+      "nosotros": "nos arrepintamos",
+      "vosotros": "os arrepintáis",
+      "uds": "se arrepientan"
+    },
+    "imperfecto": {
+      "yo": "me arrepintiera",
+      "tu": "te arrepintieras",
+      "ud": "se arrepintiera",
+      "nosotros": "nos arrepintiéramos",
+      "vosotros": "os arrepintierais",
+      "uds": "se arrepintieran"
+    },
+    "futuro": {
+      "yo": "me arrepintiere",
+      "tu": "te arrepintieres",
+      "ud": "se arrepintiere",
+      "nosotros": "nos arrepintiéremos",
+      "vosotros": "os arrepintiereis",
+      "uds": "se arrepintieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya arrepentido",
+      "tu": "te hayas arrepentido",
+      "ud": "se haya arrepentido",
+      "nosotros": "nos hayamos arrepentido",
+      "vosotros": "os hayáis arrepentido",
+      "uds": "se hayan arrepentido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere arrepentido",
+      "tu": "te hubieres arrepentido",
+      "ud": "se hubiere arrepentido",
+      "nosotros": "nos hubiéremos arrepentido",
+      "vosotros": "os hubiereis arrepentido",
+      "uds": "se hubieren arrepentido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera arrepentido",
+      "tu": "te hubieras arrepentido",
+      "ud": "se hubiera arrepentido",
+      "nosotros": "nos hubiéramos arrepentido",
+      "vosotros": "os hubierais arrepentido",
+      "uds": "se hubieran arrepentido"
+    },
+    "imperfectoAlt": {
+      "yo": "me arrepintiese",
+      "tu": "te arrepintieses",
+      "ud": "se arrepintiese",
+      "nosotros": "nos arrepintiésemos",
+      "vosotros": "os arrepintieseis",
+      "uds": "se arrepintiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese arrepentido",
+      "tu": "te hubieses arrepentido",
+      "ud": "se hubiese arrepentido",
+      "nosotros": "nos hubiésemos arrepentido",
+      "vosotros": "os hubieseis arrepentido",
+      "uds": "se hubiesen arrepentido"
+    }
+  },
+  "afirmativo": {
+    "tu": "arrepiéntete",
+    "vosotros": "arrepentíos",
+    "ud": "arrepiéntase",
+    "uds": "arrepiéntanse"
+  },
+  "negativo": {
+    "tu": "no te arrepientas",
+    "vosotros": "no os arrepentáis",
+    "ud": "no se arrepienta",
+    "uds": "no se arrepientan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i. Note: Use arrepentir de (algo/hacer algo), to repent of/regret (something/doing something)",
+    "infinitivo": "to repent, be repentant, regret",
+    "gerundio": "repenting",
+    "participioPasado": "repented",
+    "indicativo": {
+      "presente": "I repent, am repenting",
+      "futuro": "I will repent",
+      "imperfecto": "I was repenting, used to repent, repented",
+      "preterito": "I repented",
+      "condicional": "I would repent",
+      "presentePerfecto": "I have repented",
+      "futuroPerfecto": "I will have repented",
+      "pluscuamperfecto": "I had repented",
+      "preteritoAnterior": "I had repented",
+      "condicionalPerfecto": "I would have repented"
+    },
+    "subjuntivo": {
+      "presente": "I repent, am repenting",
+      "imperfecto": "I repented, was repenting",
+      "futuro": "I will repent",
+      "presentePerfecto": "I have repented, repented",
+      "futuroPerfecto": "I will have repented",
+      "pluscuamperfecto": "I had repented"
+    },
+    "afirmativo": "Repent!",
+    "negativo": "Don't repent!"
+  },
+  "attribution": "Fred Jehle"
+}

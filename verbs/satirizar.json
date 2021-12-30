@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "satirizar",
+  "gerundio": "satirizando",
+  "participioPasado": "satirizado",
+  "indicativo": {
+    "presente": {
+      "yo": "satirizo",
+      "tu": "satirizas",
+      "ud": "satiriza",
+      "nosotros": "satirizamos",
+      "vosotros": "satirizáis",
+      "uds": "satirizan"
+    },
+    "futuro": {
+      "yo": "satirizaré",
+      "tu": "satirizarás",
+      "ud": "satirizará",
+      "nosotros": "satirizaremos",
+      "vosotros": "satirizaréis",
+      "uds": "satirizarán"
+    },
+    "imperfecto": {
+      "yo": "satirizaba",
+      "tu": "satirizabas",
+      "ud": "satirizaba",
+      "nosotros": "satirizábamos",
+      "vosotros": "satirizabais",
+      "uds": "satirizaban"
+    },
+    "preterito": {
+      "yo": "satiricé",
+      "tu": "satirizaste",
+      "ud": "satirizó",
+      "nosotros": "satirizamos",
+      "vosotros": "satirizasteis",
+      "uds": "satirizaron"
+    },
+    "condicional": {
+      "yo": "satirizaría",
+      "tu": "satirizarías",
+      "ud": "satirizaría",
+      "nosotros": "satirizaríamos",
+      "vosotros": "satirizaríais",
+      "uds": "satirizarían"
+    },
+    "presentePerfecto": {
+      "yo": "he satirizado",
+      "tu": "has satirizado",
+      "ud": "ha satirizado",
+      "nosotros": "hemos satirizado",
+      "vosotros": "habéis satirizado",
+      "uds": "han satirizado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré satirizado",
+      "tu": "habrás satirizado",
+      "ud": "habrá satirizado",
+      "nosotros": "habremos satirizado",
+      "vosotros": "habréis satirizado",
+      "uds": "habrán satirizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había satirizado",
+      "tu": "habías satirizado",
+      "ud": "había satirizado",
+      "nosotros": "habíamos satirizado",
+      "vosotros": "habíais satirizado",
+      "uds": "habían satirizado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube satirizado",
+      "tu": "hubiste satirizado",
+      "ud": "hubo satirizado",
+      "nosotros": "hubimos satirizado",
+      "vosotros": "hubisteis satirizado",
+      "uds": "hubieron satirizado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría satirizado",
+      "tu": "habrías satirizado",
+      "ud": "habría satirizado",
+      "nosotros": "habríamos satirizado",
+      "vosotros": "habríais satirizado",
+      "uds": "habrían satirizado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "satirice",
+      "tu": "satirices",
+      "ud": "satirice",
+      "nosotros": "satiricemos",
+      "vosotros": "satiricéis",
+      "uds": "satiricen"
+    },
+    "imperfecto": {
+      "yo": "satirizara",
+      "tu": "satirizaras",
+      "ud": "satirizara",
+      "nosotros": "satirizáramos",
+      "vosotros": "satirizarais",
+      "uds": "satirizaran"
+    },
+    "futuro": {
+      "yo": "satirizare",
+      "tu": "satirizares",
+      "ud": "satirizare",
+      "nosotros": "satirizáremos",
+      "vosotros": "satirizareis",
+      "uds": "satirizaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya satirizado",
+      "tu": "hayas satirizado",
+      "ud": "haya satirizado",
+      "nosotros": "hayamos satirizado",
+      "vosotros": "hayáis satirizado",
+      "uds": "hayan satirizado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere satirizado",
+      "tu": "hubieres satirizado",
+      "ud": "hubiere satirizado",
+      "nosotros": "hubiéremos satirizado",
+      "vosotros": "hubiereis satirizado",
+      "uds": "hubieren satirizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera satirizado",
+      "tu": "hubieras satirizado",
+      "ud": "hubiera satirizado",
+      "nosotros": "hubiéramos satirizado",
+      "vosotros": "hubierais satirizado",
+      "uds": "hubieran satirizado"
+    },
+    "imperfectoAlt": {
+      "yo": "satirizase",
+      "tu": "satirizases",
+      "ud": "satirizase",
+      "nosotros": "satirizásemos",
+      "vosotros": "satirizaseis",
+      "uds": "satirizasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese satirizado",
+      "tu": "hubieses satirizado",
+      "ud": "hubiese satirizado",
+      "nosotros": "hubiésemos satirizado",
+      "vosotros": "hubieseis satirizado",
+      "uds": "hubiesen satirizado"
+    }
+  },
+  "afirmativo": {
+    "tu": "satiriza",
+    "vosotros": "satirizad",
+    "ud": "satirice",
+    "uds": "satiricen"
+  },
+  "negativo": {
+    "tu": "no satirices",
+    "vosotros": "no satiricéis",
+    "ud": "no satirice",
+    "uds": "no satiricen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to satirize",
+    "gerundio": "satirizing",
+    "participioPasado": "satirized",
+    "indicativo": {
+      "presente": "I satirize, am satirizing",
+      "futuro": "I will satirize",
+      "imperfecto": "I was satirizing, used to satirize, satirized",
+      "preterito": "I satirized",
+      "condicional": "I would satirize",
+      "presentePerfecto": "I have satirized, satirized",
+      "futuroPerfecto": "I will have satirized",
+      "pluscuamperfecto": "I had satirized",
+      "preteritoAnterior": "I had satirized",
+      "condicionalPerfecto": "I would have satirized"
+    },
+    "subjuntivo": {
+      "presente": "I satirize, am satirizing",
+      "imperfecto": "I satirized, was satirizing",
+      "futuro": "I will satirize",
+      "presentePerfecto": "I have satirized, satirized",
+      "futuroPerfecto": "I will have satirized",
+      "pluscuamperfecto": "I had satirized"
+    },
+    "afirmativo": "Satirize!",
+    "negativo": "Don't satirize!"
+  },
+  "attribution": "Fred Jehle"
+}

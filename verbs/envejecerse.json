@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "envejecerse",
+  "gerundio": "envejeciéndose",
+  "participioPasado": "envejecido",
+  "indicativo": {
+    "presente": {
+      "yo": "me envejezco",
+      "tu": "te envejeces",
+      "ud": "se envejece",
+      "nosotros": "nos envejecemos",
+      "vosotros": "os envejecéis",
+      "uds": "se envejecen"
+    },
+    "futuro": {
+      "yo": "me envejeceré",
+      "tu": "te envejecerás",
+      "ud": "se envejecerá",
+      "nosotros": "nos envejeceremos",
+      "vosotros": "os envejeceréis",
+      "uds": "se envejecerán"
+    },
+    "imperfecto": {
+      "yo": "me envejecía",
+      "tu": "te envejecías",
+      "ud": "se envejecía",
+      "nosotros": "nos envejecíamos",
+      "vosotros": "os envejecíais",
+      "uds": "se envejecían"
+    },
+    "preterito": {
+      "yo": "me envejecí",
+      "tu": "te envejeciste",
+      "ud": "se envejeció",
+      "nosotros": "nos envejecimos",
+      "vosotros": "os envejecisteis",
+      "uds": "se envejecieron"
+    },
+    "condicional": {
+      "yo": "me envejecería",
+      "tu": "te envejecerías",
+      "ud": "se envejecería",
+      "nosotros": "nos envejeceríamos",
+      "vosotros": "os envejeceríais",
+      "uds": "se envejecerían"
+    },
+    "presentePerfecto": {
+      "yo": "me he envejecido",
+      "tu": "te has envejecido",
+      "ud": "se ha envejecido",
+      "nosotros": "nos hemos envejecido",
+      "vosotros": "os habéis envejecido",
+      "uds": "se han envejecido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré envejecido",
+      "tu": "te habrás envejecido",
+      "ud": "se habrá envejecido",
+      "nosotros": "nos habremos envejecido",
+      "vosotros": "os habréis envejecido",
+      "uds": "se habrán envejecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había envejecido",
+      "tu": "te habías envejecido",
+      "ud": "se había envejecido",
+      "nosotros": "nos habíamos envejecido",
+      "vosotros": "os habíais envejecido",
+      "uds": "se habían envejecido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube envejecido",
+      "tu": "te hubiste envejecido",
+      "ud": "se hubo envejecido",
+      "nosotros": "nos hubimos envejecido",
+      "vosotros": "os hubisteis envejecido",
+      "uds": "se hubieron envejecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría envejecido",
+      "tu": "te habrías envejecido",
+      "ud": "se habría envejecido",
+      "nosotros": "nos habríamos envejecido",
+      "vosotros": "os habríais envejecido",
+      "uds": "se habrían envejecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me envejezca",
+      "tu": "te envejezcas",
+      "ud": "se envejezca",
+      "nosotros": "nos envejezcamos",
+      "vosotros": "os envejezcáis",
+      "uds": "se envejezcan"
+    },
+    "imperfecto": {
+      "yo": "me envejeciera",
+      "tu": "te envejecieras",
+      "ud": "se envejeciera",
+      "nosotros": "nos envejeciéramos",
+      "vosotros": "os envejecierais",
+      "uds": "se envejecieran"
+    },
+    "futuro": {
+      "yo": "me envejeciere",
+      "tu": "te envejecieres",
+      "ud": "se envejeciere",
+      "nosotros": "nos envejeciéremos",
+      "vosotros": "os envejeciereis",
+      "uds": "se envejecieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya envejecido",
+      "tu": "te hayas envejecido",
+      "ud": "se haya envejecido",
+      "nosotros": "nos hayamos envejecido",
+      "vosotros": "os hayáis envejecido",
+      "uds": "se hayan envejecido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere envejecido",
+      "tu": "te hubieres envejecido",
+      "ud": "se hubiere envejecido",
+      "nosotros": "nos hubiéremos envejecido",
+      "vosotros": "os hubiereis envejecido",
+      "uds": "se hubieren envejecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera envejecido",
+      "tu": "te hubieras envejecido",
+      "ud": "se hubiera envejecido",
+      "nosotros": "nos hubiéramos envejecido",
+      "vosotros": "os hubierais envejecido",
+      "uds": "se hubieran envejecido"
+    },
+    "imperfectoAlt": {
+      "yo": "me envejeciese",
+      "tu": "te envejecieses",
+      "ud": "se envejeciese",
+      "nosotros": "nos envejeciésemos",
+      "vosotros": "os envejecieseis",
+      "uds": "se envejeciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese envejecido",
+      "tu": "te hubieses envejecido",
+      "ud": "se hubiese envejecido",
+      "nosotros": "nos hubiésemos envejecido",
+      "vosotros": "os hubieseis envejecido",
+      "uds": "se hubiesen envejecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "envejécete",
+    "vosotros": "envejeceos",
+    "ud": "envejézcase",
+    "uds": "envejézcanse"
+  },
+  "negativo": {
+    "tu": "no te envejezcas",
+    "vosotros": "no os envejezcáis",
+    "ud": "no se envejezca",
+    "uds": "no se envejezcan"
+  },
+  "english": {
+    "note": "Note: Use the nonreflexive form of this verb, envejecer, for to make old or cause to appear old.",
+    "infinitivo": "to get old, age",
+    "gerundio": "getting old",
+    "participioPasado": "old, gotten old",
+    "indicativo": {
+      "presente": "I get old, am getting old",
+      "futuro": "I will get old",
+      "imperfecto": "I was getting old, used to get old, got old",
+      "preterito": "I got old",
+      "condicional": "I would get old",
+      "presentePerfecto": "I have gotten old",
+      "futuroPerfecto": "I will have gotten old",
+      "pluscuamperfecto": "I had gotten old",
+      "preteritoAnterior": "I had gotten old",
+      "condicionalPerfecto": "I would have gotten old"
+    },
+    "subjuntivo": {
+      "presente": "I get old, am getting old",
+      "imperfecto": "I got old, was getting old",
+      "futuro": "I will get old",
+      "presentePerfecto": "I have gotten old, gotten old",
+      "futuroPerfecto": "I will have gotten old",
+      "pluscuamperfecto": "I had gotten old"
+    },
+    "afirmativo": "Get old!",
+    "negativo": "Don't get old!"
+  },
+  "attribution": "Fred Jehle"
+}

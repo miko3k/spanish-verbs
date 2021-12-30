@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "curar",
+  "gerundio": "curando",
+  "participioPasado": "curado",
+  "indicativo": {
+    "presente": {
+      "yo": "curo",
+      "tu": "curas",
+      "ud": "cura",
+      "nosotros": "curamos",
+      "vosotros": "curáis",
+      "uds": "curan"
+    },
+    "futuro": {
+      "yo": "curaré",
+      "tu": "curarás",
+      "ud": "curará",
+      "nosotros": "curaremos",
+      "vosotros": "curaréis",
+      "uds": "curarán"
+    },
+    "imperfecto": {
+      "yo": "curaba",
+      "tu": "curabas",
+      "ud": "curaba",
+      "nosotros": "curábamos",
+      "vosotros": "curabais",
+      "uds": "curaban"
+    },
+    "preterito": {
+      "yo": "curé",
+      "tu": "curaste",
+      "ud": "curó",
+      "nosotros": "curamos",
+      "vosotros": "curasteis",
+      "uds": "curaron"
+    },
+    "condicional": {
+      "yo": "curaría",
+      "tu": "curarías",
+      "ud": "curaría",
+      "nosotros": "curaríamos",
+      "vosotros": "curaríais",
+      "uds": "curarían"
+    },
+    "presentePerfecto": {
+      "yo": "he curado",
+      "tu": "has curado",
+      "ud": "ha curado",
+      "nosotros": "hemos curado",
+      "vosotros": "habéis curado",
+      "uds": "han curado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré curado",
+      "tu": "habrás curado",
+      "ud": "habrá curado",
+      "nosotros": "habremos curado",
+      "vosotros": "habréis curado",
+      "uds": "habrán curado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había curado",
+      "tu": "habías curado",
+      "ud": "había curado",
+      "nosotros": "habíamos curado",
+      "vosotros": "habíais curado",
+      "uds": "habían curado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube curado",
+      "tu": "hubiste curado",
+      "ud": "hubo curado",
+      "nosotros": "hubimos curado",
+      "vosotros": "hubisteis curado",
+      "uds": "hubieron curado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría curado",
+      "tu": "habrías curado",
+      "ud": "habría curado",
+      "nosotros": "habríamos curado",
+      "vosotros": "habríais curado",
+      "uds": "habrían curado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cure",
+      "tu": "cures",
+      "ud": "cure",
+      "nosotros": "curemos",
+      "vosotros": "curéis",
+      "uds": "curen"
+    },
+    "imperfecto": {
+      "yo": "curara",
+      "tu": "curaras",
+      "ud": "curara",
+      "nosotros": "curáramos",
+      "vosotros": "curarais",
+      "uds": "curaran"
+    },
+    "futuro": {
+      "yo": "curare",
+      "tu": "curares",
+      "ud": "curare",
+      "nosotros": "curáremos",
+      "vosotros": "curareis",
+      "uds": "curaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya curado",
+      "tu": "hayas curado",
+      "ud": "haya curado",
+      "nosotros": "hayamos curado",
+      "vosotros": "hayáis curado",
+      "uds": "hayan curado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere curado",
+      "tu": "hubieres curado",
+      "ud": "hubiere curado",
+      "nosotros": "hubiéremos curado",
+      "vosotros": "hubiereis curado",
+      "uds": "hubieren curado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera curado",
+      "tu": "hubieras curado",
+      "ud": "hubiera curado",
+      "nosotros": "hubiéramos curado",
+      "vosotros": "hubierais curado",
+      "uds": "hubieran curado"
+    },
+    "imperfectoAlt": {
+      "yo": "curase",
+      "tu": "curases",
+      "ud": "curase",
+      "nosotros": "curásemos",
+      "vosotros": "curaseis",
+      "uds": "curasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese curado",
+      "tu": "hubieses curado",
+      "ud": "hubiese curado",
+      "nosotros": "hubiésemos curado",
+      "vosotros": "hubieseis curado",
+      "uds": "hubiesen curado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cura",
+    "vosotros": "curad",
+    "ud": "cure",
+    "uds": "curen"
+  },
+  "negativo": {
+    "tu": "no cures",
+    "vosotros": "no curéis",
+    "ud": "no cure",
+    "uds": "no curen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to cure; to treat, dress (a wound)",
+    "gerundio": "curing",
+    "participioPasado": "cured",
+    "indicativo": {
+      "presente": "I cure, am curing",
+      "futuro": "I will cure",
+      "imperfecto": "I was curing, used to cure, cured",
+      "preterito": "I cured",
+      "condicional": "I would cure",
+      "presentePerfecto": "I have cured",
+      "futuroPerfecto": "I will have cured",
+      "pluscuamperfecto": "I had cured",
+      "preteritoAnterior": "I had cured",
+      "condicionalPerfecto": "I would have cured"
+    },
+    "subjuntivo": {
+      "presente": "I cure, am curing",
+      "imperfecto": "I cured, was curing",
+      "futuro": "I will cure",
+      "presentePerfecto": "I have cured, cured",
+      "futuroPerfecto": "I will have cured",
+      "pluscuamperfecto": "I had cured"
+    },
+    "afirmativo": "Cure!",
+    "negativo": "Don't cure!"
+  },
+  "attribution": "Fred Jehle"
+}

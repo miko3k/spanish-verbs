@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "terminar",
+  "gerundio": "terminando",
+  "participioPasado": "terminado",
+  "indicativo": {
+    "presente": {
+      "yo": "termino",
+      "tu": "terminas",
+      "ud": "termina",
+      "nosotros": "terminamos",
+      "vosotros": "termináis",
+      "uds": "terminan"
+    },
+    "futuro": {
+      "yo": "terminaré",
+      "tu": "terminarás",
+      "ud": "terminará",
+      "nosotros": "terminaremos",
+      "vosotros": "terminaréis",
+      "uds": "terminarán"
+    },
+    "imperfecto": {
+      "yo": "terminaba",
+      "tu": "terminabas",
+      "ud": "terminaba",
+      "nosotros": "terminábamos",
+      "vosotros": "terminabais",
+      "uds": "terminaban"
+    },
+    "preterito": {
+      "yo": "terminé",
+      "tu": "terminaste",
+      "ud": "terminó",
+      "nosotros": "terminamos",
+      "vosotros": "terminasteis",
+      "uds": "terminaron"
+    },
+    "condicional": {
+      "yo": "terminaría",
+      "tu": "terminarías",
+      "ud": "terminaría",
+      "nosotros": "terminaríamos",
+      "vosotros": "terminaríais",
+      "uds": "terminarían"
+    },
+    "presentePerfecto": {
+      "yo": "he terminado",
+      "tu": "has terminado",
+      "ud": "ha terminado",
+      "nosotros": "hemos terminado",
+      "vosotros": "habéis terminado",
+      "uds": "han terminado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré terminado",
+      "tu": "habrás terminado",
+      "ud": "habrá terminado",
+      "nosotros": "habremos terminado",
+      "vosotros": "habréis terminado",
+      "uds": "habrán terminado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había terminado",
+      "tu": "habías terminado",
+      "ud": "había terminado",
+      "nosotros": "habíamos terminado",
+      "vosotros": "habíais terminado",
+      "uds": "habían terminado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube terminado",
+      "tu": "hubiste terminado",
+      "ud": "hubo terminado",
+      "nosotros": "hubimos terminado",
+      "vosotros": "hubisteis terminado",
+      "uds": "hubieron terminado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría terminado",
+      "tu": "habrías terminado",
+      "ud": "habría terminado",
+      "nosotros": "habríamos terminado",
+      "vosotros": "habríais terminado",
+      "uds": "habrían terminado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "termine",
+      "tu": "termines",
+      "ud": "termine",
+      "nosotros": "terminemos",
+      "vosotros": "terminéis",
+      "uds": "terminen"
+    },
+    "imperfecto": {
+      "yo": "terminara",
+      "tu": "terminaras",
+      "ud": "terminara",
+      "nosotros": "termináramos",
+      "vosotros": "terminarais",
+      "uds": "terminaran"
+    },
+    "futuro": {
+      "yo": "terminare",
+      "tu": "terminares",
+      "ud": "terminare",
+      "nosotros": "termináremos",
+      "vosotros": "terminareis",
+      "uds": "terminaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya terminado",
+      "tu": "hayas terminado",
+      "ud": "haya terminado",
+      "nosotros": "hayamos terminado",
+      "vosotros": "hayáis terminado",
+      "uds": "hayan terminado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere terminado",
+      "tu": "hubieres terminado",
+      "ud": "hubiere terminado",
+      "nosotros": "hubiéremos terminado",
+      "vosotros": "hubiereis terminado",
+      "uds": "hubieren terminado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera terminado",
+      "tu": "hubieras terminado",
+      "ud": "hubiera terminado",
+      "nosotros": "hubiéramos terminado",
+      "vosotros": "hubierais terminado",
+      "uds": "hubieran terminado"
+    },
+    "imperfectoAlt": {
+      "yo": "terminase",
+      "tu": "terminases",
+      "ud": "terminase",
+      "nosotros": "terminásemos",
+      "vosotros": "terminaseis",
+      "uds": "terminasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese terminado",
+      "tu": "hubieses terminado",
+      "ud": "hubiese terminado",
+      "nosotros": "hubiésemos terminado",
+      "vosotros": "hubieseis terminado",
+      "uds": "hubiesen terminado"
+    }
+  },
+  "afirmativo": {
+    "tu": "termina",
+    "vosotros": "terminad",
+    "ud": "termine",
+    "uds": "terminen"
+  },
+  "negativo": {
+    "tu": "no termines",
+    "vosotros": "no terminéis",
+    "ud": "no termine",
+    "uds": "no terminen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to finish, end",
+    "gerundio": "finishing",
+    "participioPasado": "finished",
+    "indicativo": {
+      "presente": "I finish, am finishing",
+      "futuro": "I will finish",
+      "imperfecto": "I was finishing, used to finish, finished",
+      "preterito": "I finished",
+      "condicional": "I would finish",
+      "presentePerfecto": "I have finished",
+      "futuroPerfecto": "I will have finished",
+      "pluscuamperfecto": "I had finished",
+      "preteritoAnterior": "I had finished",
+      "condicionalPerfecto": "I would have finished"
+    },
+    "subjuntivo": {
+      "presente": "I finish, am finishing",
+      "imperfecto": "I finished, was finishing",
+      "futuro": "I will finish",
+      "presentePerfecto": "I have finished, finished",
+      "futuroPerfecto": "I will have finished",
+      "pluscuamperfecto": "I had finished"
+    },
+    "afirmativo": "Finish!",
+    "negativo": "Don't finish!"
+  },
+  "attribution": "Fred Jehle"
+}

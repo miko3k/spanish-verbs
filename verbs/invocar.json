@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "invocar",
+  "gerundio": "invocando",
+  "participioPasado": "invocado",
+  "indicativo": {
+    "presente": {
+      "yo": "invoco",
+      "tu": "invocas",
+      "ud": "invoca",
+      "nosotros": "invocamos",
+      "vosotros": "invocáis",
+      "uds": "invocan"
+    },
+    "futuro": {
+      "yo": "invocaré",
+      "tu": "invocarás",
+      "ud": "invocará",
+      "nosotros": "invocaremos",
+      "vosotros": "invocaréis",
+      "uds": "invocarán"
+    },
+    "imperfecto": {
+      "yo": "invocaba",
+      "tu": "invocabas",
+      "ud": "invocaba",
+      "nosotros": "invocábamos",
+      "vosotros": "invocabais",
+      "uds": "invocaban"
+    },
+    "preterito": {
+      "yo": "invoqué",
+      "tu": "invocaste",
+      "ud": "invocó",
+      "nosotros": "invocamos",
+      "vosotros": "invocasteis",
+      "uds": "invocaron"
+    },
+    "condicional": {
+      "yo": "invocaría",
+      "tu": "invocarías",
+      "ud": "invocaría",
+      "nosotros": "invocaríamos",
+      "vosotros": "invocaríais",
+      "uds": "invocarían"
+    },
+    "presentePerfecto": {
+      "yo": "he invocado",
+      "tu": "has invocado",
+      "ud": "ha invocado",
+      "nosotros": "hemos invocado",
+      "vosotros": "habéis invocado",
+      "uds": "han invocado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré invocado",
+      "tu": "habrás invocado",
+      "ud": "habrá invocado",
+      "nosotros": "habremos invocado",
+      "vosotros": "habréis invocado",
+      "uds": "habrán invocado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había invocado",
+      "tu": "habías invocado",
+      "ud": "había invocado",
+      "nosotros": "habíamos invocado",
+      "vosotros": "habíais invocado",
+      "uds": "habían invocado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube invocado",
+      "tu": "hubiste invocado",
+      "ud": "hubo invocado",
+      "nosotros": "hubimos invocado",
+      "vosotros": "hubisteis invocado",
+      "uds": "hubieron invocado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría invocado",
+      "tu": "habrías invocado",
+      "ud": "habría invocado",
+      "nosotros": "habríamos invocado",
+      "vosotros": "habríais invocado",
+      "uds": "habrían invocado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "invoque",
+      "tu": "invoques",
+      "ud": "invoque",
+      "nosotros": "invoquemos",
+      "vosotros": "invoquéis",
+      "uds": "invoquen"
+    },
+    "imperfecto": {
+      "yo": "invocara",
+      "tu": "invocaras",
+      "ud": "invocara",
+      "nosotros": "invocáramos",
+      "vosotros": "invocarais",
+      "uds": "invocaran"
+    },
+    "futuro": {
+      "yo": "invocare",
+      "tu": "invocares",
+      "ud": "invocare",
+      "nosotros": "invocáremos",
+      "vosotros": "invocareis",
+      "uds": "invocaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya invocado",
+      "tu": "hayas invocado",
+      "ud": "haya invocado",
+      "nosotros": "hayamos invocado",
+      "vosotros": "hayáis invocado",
+      "uds": "hayan invocado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere invocado",
+      "tu": "hubieres invocado",
+      "ud": "hubiere invocado",
+      "nosotros": "hubiéremos invocado",
+      "vosotros": "hubiereis invocado",
+      "uds": "hubieren invocado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera invocado",
+      "tu": "hubieras invocado",
+      "ud": "hubiera invocado",
+      "nosotros": "hubiéramos invocado",
+      "vosotros": "hubierais invocado",
+      "uds": "hubieran invocado"
+    },
+    "imperfectoAlt": {
+      "yo": "invocase",
+      "tu": "invocases",
+      "ud": "invocase",
+      "nosotros": "invocásemos",
+      "vosotros": "invocaseis",
+      "uds": "invocasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese invocado",
+      "tu": "hubieses invocado",
+      "ud": "hubiese invocado",
+      "nosotros": "hubiésemos invocado",
+      "vosotros": "hubieseis invocado",
+      "uds": "hubiesen invocado"
+    }
+  },
+  "afirmativo": {
+    "tu": "invoca",
+    "vosotros": "invocad",
+    "ud": "invoque",
+    "uds": "invoquen"
+  },
+  "negativo": {
+    "tu": "no invoques",
+    "vosotros": "no invoquéis",
+    "ud": "no invoque",
+    "uds": "no invoquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to invoke",
+    "gerundio": "invoking",
+    "participioPasado": "invoked",
+    "indicativo": {
+      "presente": "I invoke, am invoking",
+      "futuro": "I will invoke",
+      "imperfecto": "I was invoking, used to invoke, invoked",
+      "preterito": "I invoked",
+      "condicional": "I would invoke",
+      "presentePerfecto": "I have invoked",
+      "futuroPerfecto": "I will have invoked",
+      "pluscuamperfecto": "I had invoked",
+      "preteritoAnterior": "I had invoked",
+      "condicionalPerfecto": "I would have invoked"
+    },
+    "subjuntivo": {
+      "presente": "I invoke, am invoking",
+      "imperfecto": "I invoked, was invoking",
+      "futuro": "I will invoke",
+      "presentePerfecto": "I have invoked, invoked",
+      "futuroPerfecto": "I will have invoked",
+      "pluscuamperfecto": "I had invoked"
+    },
+    "afirmativo": "Invoke!",
+    "negativo": "Don't invoke!"
+  },
+  "attribution": "Fred Jehle"
+}

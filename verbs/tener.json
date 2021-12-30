@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "tener",
+  "gerundio": "teniendo",
+  "participioPasado": "tenido",
+  "indicativo": {
+    "presente": {
+      "yo": "tengo",
+      "tu": "tienes",
+      "ud": "tiene",
+      "nosotros": "tenemos",
+      "vosotros": "tenéis",
+      "uds": "tienen"
+    },
+    "futuro": {
+      "yo": "tendré",
+      "tu": "tendrás",
+      "ud": "tendrá",
+      "nosotros": "tendremos",
+      "vosotros": "tendréis",
+      "uds": "tendrán"
+    },
+    "imperfecto": {
+      "yo": "tenía",
+      "tu": "tenías",
+      "ud": "tenía",
+      "nosotros": "teníamos",
+      "vosotros": "teníais",
+      "uds": "tenían"
+    },
+    "preterito": {
+      "yo": "tuve",
+      "tu": "tuviste",
+      "ud": "tuvo",
+      "nosotros": "tuvimos",
+      "vosotros": "tuvisteis",
+      "uds": "tuvieron"
+    },
+    "condicional": {
+      "yo": "tendría",
+      "tu": "tendrías",
+      "ud": "tendría",
+      "nosotros": "tendríamos",
+      "vosotros": "tendríais",
+      "uds": "tendrían"
+    },
+    "presentePerfecto": {
+      "yo": "he tenido",
+      "tu": "has tenido",
+      "ud": "ha tenido",
+      "nosotros": "hemos tenido",
+      "vosotros": "habéis tenido",
+      "uds": "han tenido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré tenido",
+      "tu": "habrás tenido",
+      "ud": "habrá tenido",
+      "nosotros": "habremos tenido",
+      "vosotros": "habréis tenido",
+      "uds": "habrán tenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había tenido",
+      "tu": "habías tenido",
+      "ud": "había tenido",
+      "nosotros": "habíamos tenido",
+      "vosotros": "habíais tenido",
+      "uds": "habían tenido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube tenido",
+      "tu": "hubiste tenido",
+      "ud": "hubo tenido",
+      "nosotros": "hubimos tenido",
+      "vosotros": "hubisteis tenido",
+      "uds": "hubieron tenido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría tenido",
+      "tu": "habrías tenido",
+      "ud": "habría tenido",
+      "nosotros": "habríamos tenido",
+      "vosotros": "habríais tenido",
+      "uds": "habrían tenido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "tenga",
+      "tu": "tengas",
+      "ud": "tenga",
+      "nosotros": "tengamos",
+      "vosotros": "tengáis",
+      "uds": "tengan"
+    },
+    "imperfecto": {
+      "yo": "tuviera",
+      "tu": "tuvieras",
+      "ud": "tuviera",
+      "nosotros": "tuviéramos",
+      "vosotros": "tuvierais",
+      "uds": "tuvieran"
+    },
+    "futuro": {
+      "yo": "tuviere",
+      "tu": "tuvieres",
+      "ud": "tuviere",
+      "nosotros": "tuviéremos",
+      "vosotros": "tuviereis",
+      "uds": "tuvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya tenido",
+      "tu": "hayas tenido",
+      "ud": "haya tenido",
+      "nosotros": "hayamos tenido",
+      "vosotros": "hayáis tenido",
+      "uds": "hayan tenido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere tenido",
+      "tu": "hubieres tenido",
+      "ud": "hubiere tenido",
+      "nosotros": "hubiéremos tenido",
+      "vosotros": "hubiereis tenido",
+      "uds": "hubieren tenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera tenido",
+      "tu": "hubieras tenido",
+      "ud": "hubiera tenido",
+      "nosotros": "hubiéramos tenido",
+      "vosotros": "hubierais tenido",
+      "uds": "hubieran tenido"
+    },
+    "imperfectoAlt": {
+      "yo": "tuviese",
+      "tu": "tuvieses",
+      "ud": "tuviese",
+      "nosotros": "tuviésemos",
+      "vosotros": "tuvieseis",
+      "uds": "tuviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese tenido",
+      "tu": "hubieses tenido",
+      "ud": "hubiese tenido",
+      "nosotros": "hubiésemos tenido",
+      "vosotros": "hubieseis tenido",
+      "uds": "hubiesen tenido"
+    }
+  },
+  "afirmativo": {
+    "tu": "ten",
+    "vosotros": "tened",
+    "ud": "tenga",
+    "uds": "tengan"
+  },
+  "negativo": {
+    "tu": "no tengas",
+    "vosotros": "no tengáis",
+    "ud": "no tenga",
+    "uds": "no tengan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie. Formas irregulares: tengo, tenga, tengas, etc. Radical irregular en el futuro y condicional: tendr-. Radical fuerte en el pretérito: tuv-. Mandato familiar singular irregular: ten.",
+    "infinitivo": "to have",
+    "gerundio": "having",
+    "participioPasado": "had",
+    "indicativo": {
+      "presente": "I have, am having",
+      "futuro": "I will have",
+      "imperfecto": "I was having, used to have, had",
+      "preterito": "I had",
+      "condicional": "I would have",
+      "presentePerfecto": "I have had",
+      "futuroPerfecto": "I will have had",
+      "pluscuamperfecto": "I had had",
+      "preteritoAnterior": "I had had",
+      "condicionalPerfecto": "I would have had"
+    },
+    "subjuntivo": {
+      "presente": "I have, am having",
+      "imperfecto": "I had, was having",
+      "futuro": "I will have",
+      "presentePerfecto": "I have had, had",
+      "futuroPerfecto": "I will have had",
+      "pluscuamperfecto": "I had had"
+    },
+    "afirmativo": "Have!",
+    "negativo": "Don't have!"
+  },
+  "attribution": "Fred Jehle"
+}

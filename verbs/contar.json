@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "contar",
+  "gerundio": "contando",
+  "participioPasado": "contado",
+  "indicativo": {
+    "presente": {
+      "yo": "cuento",
+      "tu": "cuentas",
+      "ud": "cuenta",
+      "nosotros": "contamos",
+      "vosotros": "contáis",
+      "uds": "cuentan"
+    },
+    "futuro": {
+      "yo": "contaré",
+      "tu": "contarás",
+      "ud": "contará",
+      "nosotros": "contaremos",
+      "vosotros": "contaréis",
+      "uds": "contarán"
+    },
+    "imperfecto": {
+      "yo": "contaba",
+      "tu": "contabas",
+      "ud": "contaba",
+      "nosotros": "contábamos",
+      "vosotros": "contabais",
+      "uds": "contaban"
+    },
+    "preterito": {
+      "yo": "conté",
+      "tu": "contaste",
+      "ud": "contó",
+      "nosotros": "contamos",
+      "vosotros": "contasteis",
+      "uds": "contaron"
+    },
+    "condicional": {
+      "yo": "contaría",
+      "tu": "contarías",
+      "ud": "contaría",
+      "nosotros": "contaríamos",
+      "vosotros": "contaríais",
+      "uds": "contarían"
+    },
+    "presentePerfecto": {
+      "yo": "he contado",
+      "tu": "has contado",
+      "ud": "ha contado",
+      "nosotros": "hemos contado",
+      "vosotros": "habéis contado",
+      "uds": "han contado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré contado",
+      "tu": "habrás contado",
+      "ud": "habrá contado",
+      "nosotros": "habremos contado",
+      "vosotros": "habréis contado",
+      "uds": "habrán contado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había contado",
+      "tu": "habías contado",
+      "ud": "había contado",
+      "nosotros": "habíamos contado",
+      "vosotros": "habíais contado",
+      "uds": "habían contado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube contado",
+      "tu": "hubiste contado",
+      "ud": "hubo contado",
+      "nosotros": "hubimos contado",
+      "vosotros": "hubisteis contado",
+      "uds": "hubieron contado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría contado",
+      "tu": "habrías contado",
+      "ud": "habría contado",
+      "nosotros": "habríamos contado",
+      "vosotros": "habríais contado",
+      "uds": "habrían contado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cuente",
+      "tu": "cuentes",
+      "ud": "cuente",
+      "nosotros": "contemos",
+      "vosotros": "contéis",
+      "uds": "cuenten"
+    },
+    "imperfecto": {
+      "yo": "contara",
+      "tu": "contaras",
+      "ud": "contara",
+      "nosotros": "contáramos",
+      "vosotros": "contarais",
+      "uds": "contaran"
+    },
+    "futuro": {
+      "yo": "contare",
+      "tu": "contares",
+      "ud": "contare",
+      "nosotros": "contáremos",
+      "vosotros": "contareis",
+      "uds": "contaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya contado",
+      "tu": "hayas contado",
+      "ud": "haya contado",
+      "nosotros": "hayamos contado",
+      "vosotros": "hayáis contado",
+      "uds": "hayan contado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere contado",
+      "tu": "hubieres contado",
+      "ud": "hubiere contado",
+      "nosotros": "hubiéremos contado",
+      "vosotros": "hubiereis contado",
+      "uds": "hubieren contado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera contado",
+      "tu": "hubieras contado",
+      "ud": "hubiera contado",
+      "nosotros": "hubiéramos contado",
+      "vosotros": "hubierais contado",
+      "uds": "hubieran contado"
+    },
+    "imperfectoAlt": {
+      "yo": "contase",
+      "tu": "contases",
+      "ud": "contase",
+      "nosotros": "contásemos",
+      "vosotros": "contaseis",
+      "uds": "contasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese contado",
+      "tu": "hubieses contado",
+      "ud": "hubiese contado",
+      "nosotros": "hubiésemos contado",
+      "vosotros": "hubieseis contado",
+      "uds": "hubiesen contado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cuenta",
+    "vosotros": "contad",
+    "ud": "cuente",
+    "uds": "cuenten"
+  },
+  "negativo": {
+    "tu": "no cuentes",
+    "vosotros": "no contéis",
+    "ud": "no cuente",
+    "uds": "no cuenten"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa.",
+    "infinitivo": "to count, relate, tell",
+    "gerundio": "counting",
+    "participioPasado": "counted",
+    "indicativo": {
+      "presente": "I count, am counting",
+      "futuro": "I will count",
+      "imperfecto": "I was counting, used to count, counted",
+      "preterito": "I counted",
+      "condicional": "I would count",
+      "presentePerfecto": "I have counted",
+      "futuroPerfecto": "I will have counted",
+      "pluscuamperfecto": "I had counted",
+      "preteritoAnterior": "I had counted",
+      "condicionalPerfecto": "I would have counted"
+    },
+    "subjuntivo": {
+      "presente": "I count, am counting",
+      "imperfecto": "I counted, was counting",
+      "futuro": "I will count",
+      "presentePerfecto": "I have counted, counted",
+      "futuroPerfecto": "I will have counted",
+      "pluscuamperfecto": "I had counted"
+    },
+    "afirmativo": "Count!",
+    "negativo": "Don't count!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "corregir",
+  "gerundio": "corrigiendo",
+  "participioPasado": "corregido",
+  "indicativo": {
+    "presente": {
+      "yo": "corrijo",
+      "tu": "corriges",
+      "ud": "corrige",
+      "nosotros": "corregimos",
+      "vosotros": "corregís",
+      "uds": "corrigen"
+    },
+    "futuro": {
+      "yo": "corregiré",
+      "tu": "corregirás",
+      "ud": "corregirá",
+      "nosotros": "corregiremos",
+      "vosotros": "corregiréis",
+      "uds": "corregirán"
+    },
+    "imperfecto": {
+      "yo": "corregía",
+      "tu": "corregías",
+      "ud": "corregía",
+      "nosotros": "corregíamos",
+      "vosotros": "corregíais",
+      "uds": "corregían"
+    },
+    "preterito": {
+      "yo": "corregí",
+      "tu": "corregiste",
+      "ud": "corrigió",
+      "nosotros": "corregimos",
+      "vosotros": "corregisteis",
+      "uds": "corrigieron"
+    },
+    "condicional": {
+      "yo": "corregiría",
+      "tu": "corregirías",
+      "ud": "corregiría",
+      "nosotros": "corregiríamos",
+      "vosotros": "corregiríais",
+      "uds": "corregirían"
+    },
+    "presentePerfecto": {
+      "yo": "he corregido",
+      "tu": "has corregido",
+      "ud": "ha corregido",
+      "nosotros": "hemos corregido",
+      "vosotros": "habéis corregido",
+      "uds": "han corregido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré corregido",
+      "tu": "habrás corregido",
+      "ud": "habrá corregido",
+      "nosotros": "habremos corregido",
+      "vosotros": "habréis corregido",
+      "uds": "habrán corregido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había corregido",
+      "tu": "habías corregido",
+      "ud": "había corregido",
+      "nosotros": "habíamos corregido",
+      "vosotros": "habíais corregido",
+      "uds": "habían corregido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube corregido",
+      "tu": "hubiste corregido",
+      "ud": "hubo corregido",
+      "nosotros": "hubimos corregido",
+      "vosotros": "hubisteis corregido",
+      "uds": "hubieron corregido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría corregido",
+      "tu": "habrías corregido",
+      "ud": "habría corregido",
+      "nosotros": "habríamos corregido",
+      "vosotros": "habríais corregido",
+      "uds": "habrían corregido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "corrija",
+      "tu": "corrijas",
+      "ud": "corrija",
+      "nosotros": "corrijamos",
+      "vosotros": "corrijáis",
+      "uds": "corrijan"
+    },
+    "imperfecto": {
+      "yo": "corrigiera",
+      "tu": "corrigieras",
+      "ud": "corrigiera",
+      "nosotros": "corrigiéramos",
+      "vosotros": "corrigierais",
+      "uds": "corrigieran"
+    },
+    "futuro": {
+      "yo": "corrigiere",
+      "tu": "corrigieres",
+      "ud": "corrigiere",
+      "nosotros": "corrigiéremos",
+      "vosotros": "corrigiereis",
+      "uds": "corrigieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya corregido",
+      "tu": "hayas corregido",
+      "ud": "haya corregido",
+      "nosotros": "hayamos corregido",
+      "vosotros": "hayáis corregido",
+      "uds": "hayan corregido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere corregido",
+      "tu": "hubieres corregido",
+      "ud": "hubiere corregido",
+      "nosotros": "hubiéremos corregido",
+      "vosotros": "hubiereis corregido",
+      "uds": "hubieren corregido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera corregido",
+      "tu": "hubieras corregido",
+      "ud": "hubiera corregido",
+      "nosotros": "hubiéramos corregido",
+      "vosotros": "hubierais corregido",
+      "uds": "hubieran corregido"
+    },
+    "imperfectoAlt": {
+      "yo": "corrigiese",
+      "tu": "corrigieses",
+      "ud": "corrigiese",
+      "nosotros": "corrigiésemos",
+      "vosotros": "corrigieseis",
+      "uds": "corrigiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese corregido",
+      "tu": "hubieses corregido",
+      "ud": "hubiese corregido",
+      "nosotros": "hubiésemos corregido",
+      "vosotros": "hubieseis corregido",
+      "uds": "hubiesen corregido"
+    }
+  },
+  "afirmativo": {
+    "tu": "corrige",
+    "vosotros": "corregid",
+    "ud": "corrija",
+    "uds": "corrijan"
+  },
+  "negativo": {
+    "tu": "no corrijas",
+    "vosotros": "no corrijáis",
+    "ud": "no corrija",
+    "uds": "no corrijan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i cuando se acentúa. Cambio ortográfico: g > j delante de o y a.",
+    "infinitivo": "to correct",
+    "gerundio": "correcting",
+    "participioPasado": "corrected",
+    "indicativo": {
+      "presente": "I correct, am correcting",
+      "futuro": "I will correct",
+      "imperfecto": "I was correcting, used to correct, corrected",
+      "preterito": "I corrected",
+      "condicional": "I would correct",
+      "presentePerfecto": "I have corrected",
+      "futuroPerfecto": "I will have corrected",
+      "pluscuamperfecto": "I had corrected",
+      "preteritoAnterior": "I had corrected",
+      "condicionalPerfecto": "I would have corrected"
+    },
+    "subjuntivo": {
+      "presente": "I correct, am correcting",
+      "imperfecto": "I corrected, was correcting",
+      "futuro": "I will correct",
+      "presentePerfecto": "I have corrected, corrected",
+      "futuroPerfecto": "I will have corrected",
+      "pluscuamperfecto": "I had corrected"
+    },
+    "afirmativo": "Correct!",
+    "negativo": "Don't correct!"
+  },
+  "attribution": "Fred Jehle"
+}

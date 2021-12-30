@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "fregar",
+  "gerundio": "fregando",
+  "participioPasado": "fregado",
+  "indicativo": {
+    "presente": {
+      "yo": "friego",
+      "tu": "friegas",
+      "ud": "friega",
+      "nosotros": "fregamos",
+      "vosotros": "fregáis",
+      "uds": "friegan"
+    },
+    "futuro": {
+      "yo": "fregaré",
+      "tu": "fregarás",
+      "ud": "fregará",
+      "nosotros": "fregaremos",
+      "vosotros": "fregaréis",
+      "uds": "fregarán"
+    },
+    "imperfecto": {
+      "yo": "fregaba",
+      "tu": "fregabas",
+      "ud": "fregaba",
+      "nosotros": "fregábamos",
+      "vosotros": "fregabais",
+      "uds": "fregaban"
+    },
+    "preterito": {
+      "yo": "fregué",
+      "tu": "fregaste",
+      "ud": "fregó",
+      "nosotros": "fregamos",
+      "vosotros": "fregasteis",
+      "uds": "fregaron"
+    },
+    "condicional": {
+      "yo": "fregaría",
+      "tu": "fregarías",
+      "ud": "fregaría",
+      "nosotros": "fregaríamos",
+      "vosotros": "fregaríais",
+      "uds": "fregarían"
+    },
+    "presentePerfecto": {
+      "yo": "he fregado",
+      "tu": "has fregado",
+      "ud": "ha fregado",
+      "nosotros": "hemos fregado",
+      "vosotros": "habéis fregado",
+      "uds": "han fregado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré fregado",
+      "tu": "habrás fregado",
+      "ud": "habrá fregado",
+      "nosotros": "habremos fregado",
+      "vosotros": "habréis fregado",
+      "uds": "habrán fregado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había fregado",
+      "tu": "habías fregado",
+      "ud": "había fregado",
+      "nosotros": "habíamos fregado",
+      "vosotros": "habíais fregado",
+      "uds": "habían fregado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube fregado",
+      "tu": "hubiste fregado",
+      "ud": "hubo fregado",
+      "nosotros": "hubimos fregado",
+      "vosotros": "hubisteis fregado",
+      "uds": "hubieron fregado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría fregado",
+      "tu": "habrías fregado",
+      "ud": "habría fregado",
+      "nosotros": "habríamos fregado",
+      "vosotros": "habríais fregado",
+      "uds": "habrían fregado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "friegue",
+      "tu": "friegues",
+      "ud": "friegue",
+      "nosotros": "freguemos",
+      "vosotros": "freguéis",
+      "uds": "frieguen"
+    },
+    "imperfecto": {
+      "yo": "fregara",
+      "tu": "fregaras",
+      "ud": "fregara",
+      "nosotros": "fregáramos",
+      "vosotros": "fregarais",
+      "uds": "fregaran"
+    },
+    "futuro": {
+      "yo": "fregare",
+      "tu": "fregares",
+      "ud": "fregare",
+      "nosotros": "fregáremos",
+      "vosotros": "fregareis",
+      "uds": "fregaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya fregado",
+      "tu": "hayas fregado",
+      "ud": "haya fregado",
+      "nosotros": "hayamos fregado",
+      "vosotros": "hayáis fregado",
+      "uds": "hayan fregado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere fregado",
+      "tu": "hubieres fregado",
+      "ud": "hubiere fregado",
+      "nosotros": "hubiéremos fregado",
+      "vosotros": "hubiereis fregado",
+      "uds": "hubieren fregado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera fregado",
+      "tu": "hubieras fregado",
+      "ud": "hubiera fregado",
+      "nosotros": "hubiéramos fregado",
+      "vosotros": "hubierais fregado",
+      "uds": "hubieran fregado"
+    },
+    "imperfectoAlt": {
+      "yo": "fregase",
+      "tu": "fregases",
+      "ud": "fregase",
+      "nosotros": "fregásemos",
+      "vosotros": "fregaseis",
+      "uds": "fregasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese fregado",
+      "tu": "hubieses fregado",
+      "ud": "hubiese fregado",
+      "nosotros": "hubiésemos fregado",
+      "vosotros": "hubieseis fregado",
+      "uds": "hubiesen fregado"
+    }
+  },
+  "afirmativo": {
+    "tu": "friega",
+    "vosotros": "fregad",
+    "ud": "friegue",
+    "uds": "frieguen"
+  },
+  "negativo": {
+    "tu": "no friegues",
+    "vosotros": "no freguéis",
+    "ud": "no friegue",
+    "uds": "no frieguen"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to rub, scrub, scour; to wash (dishes)",
+    "gerundio": "rubbing",
+    "participioPasado": "rubbed",
+    "indicativo": {
+      "presente": "I rub, am rubbing",
+      "futuro": "I will rub",
+      "imperfecto": "I was rubbing, used to rub, rubbed",
+      "preterito": "I rubbed",
+      "condicional": "I would rub",
+      "presentePerfecto": "I have rubbed",
+      "futuroPerfecto": "I will have rubbed",
+      "pluscuamperfecto": "I had rubbed",
+      "preteritoAnterior": "I had rubbed",
+      "condicionalPerfecto": "I would have rubbed"
+    },
+    "subjuntivo": {
+      "presente": "I rub, am rubbing",
+      "imperfecto": "I rubbed, was rubbing",
+      "futuro": "I will rub",
+      "presentePerfecto": "I have rubbed, rubbed",
+      "futuroPerfecto": "I will have rubbed",
+      "pluscuamperfecto": "I had rubbed"
+    },
+    "afirmativo": "rub!",
+    "negativo": "Don't rub!"
+  },
+  "attribution": "Fred Jehle"
+}

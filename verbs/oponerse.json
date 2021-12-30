@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "oponerse",
+  "gerundio": "oponiéndose",
+  "participioPasado": "opuesto",
+  "indicativo": {
+    "presente": {
+      "yo": "me opongo",
+      "tu": "te opones",
+      "ud": "se opone",
+      "nosotros": "nos oponemos",
+      "vosotros": "os oponéis",
+      "uds": "se oponen"
+    },
+    "futuro": {
+      "yo": "me opondré",
+      "tu": "te opondrás",
+      "ud": "se opondrá",
+      "nosotros": "nos opondremos",
+      "vosotros": "os opondréis",
+      "uds": "se opondrán"
+    },
+    "imperfecto": {
+      "yo": "me oponía",
+      "tu": "te oponías",
+      "ud": "se oponía",
+      "nosotros": "nos oponíamos",
+      "vosotros": "os oponíais",
+      "uds": "se oponían"
+    },
+    "preterito": {
+      "yo": "me opuse",
+      "tu": "te opusiste",
+      "ud": "se opuso",
+      "nosotros": "nos opusimos",
+      "vosotros": "os opusisteis",
+      "uds": "se opusieron"
+    },
+    "condicional": {
+      "yo": "me opondría",
+      "tu": "te opondrías",
+      "ud": "se opondría",
+      "nosotros": "nos opondríamos",
+      "vosotros": "os opondríais",
+      "uds": "se opondrían"
+    },
+    "presentePerfecto": {
+      "yo": "me he opuesto",
+      "tu": "te has opuesto",
+      "ud": "se ha opuesto",
+      "nosotros": "nos hemos opuesto",
+      "vosotros": "os habéis opuesto",
+      "uds": "se han opuesto"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré opuesto",
+      "tu": "te habrás opuesto",
+      "ud": "se habrá opuesto",
+      "nosotros": "nos habremos opuesto",
+      "vosotros": "os habréis opuesto",
+      "uds": "se habrán opuesto"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había opuesto",
+      "tu": "te habías opuesto",
+      "ud": "se había opuesto",
+      "nosotros": "nos habíamos opuesto",
+      "vosotros": "os habíais opuesto",
+      "uds": "se habían opuesto"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube opuesto",
+      "tu": "te hubiste opuesto",
+      "ud": "se hubo opuesto",
+      "nosotros": "nos hubimos opuesto",
+      "vosotros": "os hubisteis opuesto",
+      "uds": "se hubieron opuesto"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría opuesto",
+      "tu": "te habrías opuesto",
+      "ud": "se habría opuesto",
+      "nosotros": "nos habríamos opuesto",
+      "vosotros": "os habríais opuesto",
+      "uds": "se habrían opuesto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me oponga",
+      "tu": "te opongas",
+      "ud": "se oponga",
+      "nosotros": "nos opongamos",
+      "vosotros": "os opongáis",
+      "uds": "se opongan"
+    },
+    "imperfecto": {
+      "yo": "me opusiera",
+      "tu": "te opusieras",
+      "ud": "se opusiera",
+      "nosotros": "nos opusiéramos",
+      "vosotros": "os opusierais",
+      "uds": "se opusieran"
+    },
+    "futuro": {
+      "yo": "me opusiere",
+      "tu": "te opusieres",
+      "ud": "se opusiere",
+      "nosotros": "nos opusiéremos",
+      "vosotros": "os opusiereis",
+      "uds": "se opusieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya opuesto",
+      "tu": "te hayas opuesto",
+      "ud": "se haya opuesto",
+      "nosotros": "nos hayamos opuesto",
+      "vosotros": "os hayáis opuesto",
+      "uds": "se hayan opuesto"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere opuesto",
+      "tu": "te hubieres opuesto",
+      "ud": "se hubiere opuesto",
+      "nosotros": "nos hubiéremos opuesto",
+      "vosotros": "os hubiereis opuesto",
+      "uds": "se hubieren opuesto"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera opuesto",
+      "tu": "te hubieras opuesto",
+      "ud": "se hubiera opuesto",
+      "nosotros": "nos hubiéramos opuesto",
+      "vosotros": "os hubierais opuesto",
+      "uds": "se hubieran opuesto"
+    },
+    "imperfectoAlt": {
+      "yo": "me opusiese",
+      "tu": "te opusieses",
+      "ud": "se opusiese",
+      "nosotros": "nos opusiésemos",
+      "vosotros": "os opusieseis",
+      "uds": "se opusiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese opuesto",
+      "tu": "te hubieses opuesto",
+      "ud": "se hubiese opuesto",
+      "nosotros": "nos hubiésemos opuesto",
+      "vosotros": "os hubieseis opuesto",
+      "uds": "se hubiesen opuesto"
+    }
+  },
+  "afirmativo": {
+    "tu": "oponte",
+    "vosotros": "oponeos",
+    "ud": "opóngase",
+    "uds": "opónganse"
+  },
+  "negativo": {
+    "tu": "no te opongas",
+    "vosotros": "no os opongáis",
+    "ud": "no se oponga",
+    "uds": "no se opongan"
+  },
+  "english": {
+    "note": "Formas irregulares: opongo, opongas, oponga, etc. Radical irregular en el futuro y condicional: opondr-. Radical fuerte en el pretérito: opus-. Participio pasado irregular: oopuesto. Mandato familiar singular irregular: opón. Note: Oponerse a (algo) = to be opposed to (something). Use oponer A a B (without the reflexive) for to pit A against B.",
+    "infinitivo": "to put on (clothing); to put/place (oneself); to turn/get/become (+ adjective of physical/mental state)",
+    "gerundio": "putting on",
+    "participioPasado": "put on",
+    "indicativo": {
+      "presente": "I put on, am putting on",
+      "futuro": "I will put on",
+      "imperfecto": "I was putting on, used to put on, put on",
+      "preterito": "I put on",
+      "condicional": "I would put on",
+      "presentePerfecto": "I have put on",
+      "futuroPerfecto": "I will have put on",
+      "pluscuamperfecto": "I had put on",
+      "preteritoAnterior": "I had put on",
+      "condicionalPerfecto": "I would have put on"
+    },
+    "subjuntivo": {
+      "presente": "I put on, am putting on",
+      "imperfecto": "I put on, was putting on",
+      "futuro": "I will put on",
+      "presentePerfecto": "I have put on, put on",
+      "futuroPerfecto": "I will have put on",
+      "pluscuamperfecto": "I had put on"
+    },
+    "afirmativo": "Put on!",
+    "negativo": "Don't put on!"
+  },
+  "attribution": "Fred Jehle"
+}

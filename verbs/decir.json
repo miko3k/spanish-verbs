@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "decir",
+  "gerundio": "diciendo",
+  "participioPasado": "dicho",
+  "indicativo": {
+    "presente": {
+      "yo": "digo",
+      "tu": "dices",
+      "ud": "dice",
+      "nosotros": "decimos",
+      "vosotros": "decís",
+      "uds": "dicen"
+    },
+    "futuro": {
+      "yo": "diré",
+      "tu": "dirás",
+      "ud": "dirá",
+      "nosotros": "diremos",
+      "vosotros": "diréis",
+      "uds": "dirán"
+    },
+    "imperfecto": {
+      "yo": "decía",
+      "tu": "decías",
+      "ud": "decía",
+      "nosotros": "decíamos",
+      "vosotros": "decíais",
+      "uds": "decían"
+    },
+    "preterito": {
+      "yo": "dije",
+      "tu": "dijiste",
+      "ud": "dijo",
+      "nosotros": "dijimos",
+      "vosotros": "dijisteis",
+      "uds": "dijeron"
+    },
+    "condicional": {
+      "yo": "diría",
+      "tu": "dirías",
+      "ud": "diría",
+      "nosotros": "diríamos",
+      "vosotros": "diríais",
+      "uds": "dirían"
+    },
+    "presentePerfecto": {
+      "yo": "he dicho",
+      "tu": "has dicho",
+      "ud": "ha dicho",
+      "nosotros": "hemos dicho",
+      "vosotros": "habéis dicho",
+      "uds": "han dicho"
+    },
+    "futuroPerfecto": {
+      "yo": "habré dicho",
+      "tu": "habrás dicho",
+      "ud": "habrá dicho",
+      "nosotros": "habremos dicho",
+      "vosotros": "habréis dicho",
+      "uds": "habrán dicho"
+    },
+    "pluscuamperfecto": {
+      "yo": "había dicho",
+      "tu": "habías dicho",
+      "ud": "había dicho",
+      "nosotros": "habíamos dicho",
+      "vosotros": "habíais dicho",
+      "uds": "habían dicho"
+    },
+    "preteritoAnterior": {
+      "yo": "hube dicho",
+      "tu": "hubiste dicho",
+      "ud": "hubo dicho",
+      "nosotros": "hubimos dicho",
+      "vosotros": "hubisteis dicho",
+      "uds": "hubieron dicho"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría dicho",
+      "tu": "habrías dicho",
+      "ud": "habría dicho",
+      "nosotros": "habríamos dicho",
+      "vosotros": "habríais dicho",
+      "uds": "habrían dicho"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "diga",
+      "tu": "digas",
+      "ud": "diga",
+      "nosotros": "digamos",
+      "vosotros": "digáis",
+      "uds": "digan"
+    },
+    "imperfecto": {
+      "yo": "dijera",
+      "tu": "dijeras",
+      "ud": "dijera",
+      "nosotros": "dijéramos",
+      "vosotros": "dijerais",
+      "uds": "dijeran"
+    },
+    "futuro": {
+      "yo": "dijere",
+      "tu": "dijeres",
+      "ud": "dijere",
+      "nosotros": "dijéremos",
+      "vosotros": "dijereis",
+      "uds": "dijeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya dicho",
+      "tu": "hayas dicho",
+      "ud": "haya dicho",
+      "nosotros": "hayamos dicho",
+      "vosotros": "hayáis dicho",
+      "uds": "hayan dicho"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere dicho",
+      "tu": "hubieres dicho",
+      "ud": "hubiere dicho",
+      "nosotros": "hubiéremos dicho",
+      "vosotros": "hubiereis dicho",
+      "uds": "hubieren dicho"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera dicho",
+      "tu": "hubieras dicho",
+      "ud": "hubiera dicho",
+      "nosotros": "hubiéramos dicho",
+      "vosotros": "hubierais dicho",
+      "uds": "hubieran dicho"
+    },
+    "imperfectoAlt": {
+      "yo": "dijese",
+      "tu": "dijeses",
+      "ud": "dijese",
+      "nosotros": "dijésemos",
+      "vosotros": "dijeseis",
+      "uds": "dijesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese dicho",
+      "tu": "hubieses dicho",
+      "ud": "hubiese dicho",
+      "nosotros": "hubiésemos dicho",
+      "vosotros": "hubieseis dicho",
+      "uds": "hubiesen dicho"
+    }
+  },
+  "afirmativo": {
+    "tu": "di",
+    "vosotros": "decid",
+    "ud": "diga",
+    "uds": "digan"
+  },
+  "negativo": {
+    "tu": "no digas",
+    "vosotros": "no digáis",
+    "ud": "no diga",
+    "uds": "no digan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Formas irregulares: digo, diga, digas, etc. Radical irregular en el futuro y condicional: dir-. Radical fuerte en el pretérito: dij-. Participio pasado irregular: dicho. Mandato familiar singular irregular: di.",
+    "infinitivo": "to say, tell",
+    "gerundio": "saying",
+    "participioPasado": "said",
+    "indicativo": {
+      "presente": "I say, am saying",
+      "futuro": "I will say",
+      "imperfecto": "I was saying, used to say, said",
+      "preterito": "I said",
+      "condicional": "I would say",
+      "presentePerfecto": "I have said",
+      "futuroPerfecto": "I will have said",
+      "pluscuamperfecto": "I had said",
+      "preteritoAnterior": "I had said",
+      "condicionalPerfecto": "I would have said"
+    },
+    "subjuntivo": {
+      "presente": "I say, am saying",
+      "imperfecto": "I said, was saying",
+      "futuro": "I will say",
+      "presentePerfecto": "I have said, said",
+      "futuroPerfecto": "I will have said",
+      "pluscuamperfecto": "I had said"
+    },
+    "afirmativo": "Say!",
+    "negativo": "Don't say!"
+  },
+  "attribution": "Fred Jehle"
+}

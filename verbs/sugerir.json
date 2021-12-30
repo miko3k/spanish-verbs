@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "sugerir",
+  "gerundio": "sugiriendo",
+  "participioPasado": "sugerido",
+  "indicativo": {
+    "presente": {
+      "yo": "sugiero",
+      "tu": "sugieres",
+      "ud": "sugiere",
+      "nosotros": "sugerimos",
+      "vosotros": "sugerís",
+      "uds": "sugieren"
+    },
+    "futuro": {
+      "yo": "sugeriré",
+      "tu": "sugerirás",
+      "ud": "sugerirá",
+      "nosotros": "sugeriremos",
+      "vosotros": "sugeriréis",
+      "uds": "sugerirán"
+    },
+    "imperfecto": {
+      "yo": "sugería",
+      "tu": "sugerías",
+      "ud": "sugería",
+      "nosotros": "sugeríamos",
+      "vosotros": "sugeríais",
+      "uds": "sugerían"
+    },
+    "preterito": {
+      "yo": "sugerí",
+      "tu": "sugeriste",
+      "ud": "sugirió",
+      "nosotros": "sugerimos",
+      "vosotros": "sugeristeis",
+      "uds": "sugirieron"
+    },
+    "condicional": {
+      "yo": "sugeriría",
+      "tu": "sugerirías",
+      "ud": "sugeriría",
+      "nosotros": "sugeriríamos",
+      "vosotros": "sugeriríais",
+      "uds": "sugerirían"
+    },
+    "presentePerfecto": {
+      "yo": "he sugerido",
+      "tu": "has sugerido",
+      "ud": "ha sugerido",
+      "nosotros": "hemos sugerido",
+      "vosotros": "habéis sugerido",
+      "uds": "han sugerido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sugerido",
+      "tu": "habrás sugerido",
+      "ud": "habrá sugerido",
+      "nosotros": "habremos sugerido",
+      "vosotros": "habréis sugerido",
+      "uds": "habrán sugerido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sugerido",
+      "tu": "habías sugerido",
+      "ud": "había sugerido",
+      "nosotros": "habíamos sugerido",
+      "vosotros": "habíais sugerido",
+      "uds": "habían sugerido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sugerido",
+      "tu": "hubiste sugerido",
+      "ud": "hubo sugerido",
+      "nosotros": "hubimos sugerido",
+      "vosotros": "hubisteis sugerido",
+      "uds": "hubieron sugerido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sugerido",
+      "tu": "habrías sugerido",
+      "ud": "habría sugerido",
+      "nosotros": "habríamos sugerido",
+      "vosotros": "habríais sugerido",
+      "uds": "habrían sugerido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sugiera",
+      "tu": "sugieras",
+      "ud": "sugiera",
+      "nosotros": "sugiramos",
+      "vosotros": "sugiráis",
+      "uds": "sugieran"
+    },
+    "imperfecto": {
+      "yo": "sugiriera",
+      "tu": "sugirieras",
+      "ud": "sugiriera",
+      "nosotros": "sugiriéramos",
+      "vosotros": "sugirierais",
+      "uds": "sugirieran"
+    },
+    "futuro": {
+      "yo": "sugiriere",
+      "tu": "sugirieres",
+      "ud": "sugiriere",
+      "nosotros": "sugiriéremos",
+      "vosotros": "sugiriereis",
+      "uds": "sugirieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sugerido",
+      "tu": "hayas sugerido",
+      "ud": "haya sugerido",
+      "nosotros": "hayamos sugerido",
+      "vosotros": "hayáis sugerido",
+      "uds": "hayan sugerido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sugerido",
+      "tu": "hubieres sugerido",
+      "ud": "hubiere sugerido",
+      "nosotros": "hubiéremos sugerido",
+      "vosotros": "hubiereis sugerido",
+      "uds": "hubieren sugerido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sugerido",
+      "tu": "hubieras sugerido",
+      "ud": "hubiera sugerido",
+      "nosotros": "hubiéramos sugerido",
+      "vosotros": "hubierais sugerido",
+      "uds": "hubieran sugerido"
+    },
+    "imperfectoAlt": {
+      "yo": "sugiriese",
+      "tu": "sugirieses",
+      "ud": "sugiriese",
+      "nosotros": "sugiriésemos",
+      "vosotros": "sugirieseis",
+      "uds": "sugiriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sugerido",
+      "tu": "hubieses sugerido",
+      "ud": "hubiese sugerido",
+      "nosotros": "hubiésemos sugerido",
+      "vosotros": "hubieseis sugerido",
+      "uds": "hubiesen sugerido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sugiere",
+    "vosotros": "sugerid",
+    "ud": "sugiera",
+    "uds": "sugieran"
+  },
+  "negativo": {
+    "tu": "no sugieras",
+    "vosotros": "no sugiráis",
+    "ud": "no sugiera",
+    "uds": "no sugieran"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i.",
+    "infinitivo": "to suggest",
+    "gerundio": "suggesting",
+    "participioPasado": "suggested",
+    "indicativo": {
+      "presente": "I suggest, am suggesting",
+      "futuro": "I will suggest",
+      "imperfecto": "I was suggesting, used to suggest, suggested",
+      "preterito": "I suggested",
+      "condicional": "I would suggest",
+      "presentePerfecto": "I have suggested",
+      "futuroPerfecto": "I will have suggested",
+      "pluscuamperfecto": "I had suggested",
+      "preteritoAnterior": "I had suggested",
+      "condicionalPerfecto": "I would have suggested"
+    },
+    "subjuntivo": {
+      "presente": "I suggest, am suggesting",
+      "imperfecto": "I suggested, was suggesting",
+      "futuro": "I will suggest",
+      "presentePerfecto": "I have suggested, suggested",
+      "futuroPerfecto": "I will have suggested",
+      "pluscuamperfecto": "I had suggested"
+    },
+    "afirmativo": "Suggest!",
+    "negativo": "Don't suggest!"
+  },
+  "attribution": "Fred Jehle"
+}

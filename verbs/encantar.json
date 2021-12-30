@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "encantar",
+  "gerundio": "encantando",
+  "participioPasado": "encantado",
+  "indicativo": {
+    "presente": {
+      "yo": "encanto",
+      "tu": "encantas",
+      "ud": "encanta",
+      "nosotros": "encantamos",
+      "vosotros": "encantáis",
+      "uds": "encantan"
+    },
+    "futuro": {
+      "yo": "encantaré",
+      "tu": "encantarás",
+      "ud": "encantará",
+      "nosotros": "encantaremos",
+      "vosotros": "encantaréis",
+      "uds": "encantarán"
+    },
+    "imperfecto": {
+      "yo": "encantaba",
+      "tu": "encantabas",
+      "ud": "encantaba",
+      "nosotros": "encantábamos",
+      "vosotros": "encantabais",
+      "uds": "encantaban"
+    },
+    "preterito": {
+      "yo": "encanté",
+      "tu": "encantaste",
+      "ud": "encantó",
+      "nosotros": "encantamos",
+      "vosotros": "encantasteis",
+      "uds": "encantaron"
+    },
+    "condicional": {
+      "yo": "encantaría",
+      "tu": "encantarías",
+      "ud": "encantaría",
+      "nosotros": "encantaríamos",
+      "vosotros": "encantaríais",
+      "uds": "encantarían"
+    },
+    "presentePerfecto": {
+      "yo": "he encantado",
+      "tu": "has encantado",
+      "ud": "ha encantado",
+      "nosotros": "hemos encantado",
+      "vosotros": "habéis encantado",
+      "uds": "han encantado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré encantado",
+      "tu": "habrás encantado",
+      "ud": "habrá encantado",
+      "nosotros": "habremos encantado",
+      "vosotros": "habréis encantado",
+      "uds": "habrán encantado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había encantado",
+      "tu": "habías encantado",
+      "ud": "había encantado",
+      "nosotros": "habíamos encantado",
+      "vosotros": "habíais encantado",
+      "uds": "habían encantado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube encantado",
+      "tu": "hubiste encantado",
+      "ud": "hubo encantado",
+      "nosotros": "hubimos encantado",
+      "vosotros": "hubisteis encantado",
+      "uds": "hubieron encantado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría encantado",
+      "tu": "habrías encantado",
+      "ud": "habría encantado",
+      "nosotros": "habríamos encantado",
+      "vosotros": "habríais encantado",
+      "uds": "habrían encantado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "encante",
+      "tu": "encantes",
+      "ud": "encante",
+      "nosotros": "encantemos",
+      "vosotros": "encantéis",
+      "uds": "encanten"
+    },
+    "imperfecto": {
+      "yo": "encantara",
+      "tu": "encantaras",
+      "ud": "encantara",
+      "nosotros": "encantáramos",
+      "vosotros": "encantarais",
+      "uds": "encantaran"
+    },
+    "futuro": {
+      "yo": "encantare",
+      "tu": "encantares",
+      "ud": "encantare",
+      "nosotros": "encantáremos",
+      "vosotros": "encantareis",
+      "uds": "encantaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya encantado",
+      "tu": "hayas encantado",
+      "ud": "haya encantado",
+      "nosotros": "hayamos encantado",
+      "vosotros": "hayáis encantado",
+      "uds": "hayan encantado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere encantado",
+      "tu": "hubieres encantado",
+      "ud": "hubiere encantado",
+      "nosotros": "hubiéremos encantado",
+      "vosotros": "hubiereis encantado",
+      "uds": "hubieren encantado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera encantado",
+      "tu": "hubieras encantado",
+      "ud": "hubiera encantado",
+      "nosotros": "hubiéramos encantado",
+      "vosotros": "hubierais encantado",
+      "uds": "hubieran encantado"
+    },
+    "imperfectoAlt": {
+      "yo": "encantase",
+      "tu": "encantases",
+      "ud": "encantase",
+      "nosotros": "encantásemos",
+      "vosotros": "encantaseis",
+      "uds": "encantasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese encantado",
+      "tu": "hubieses encantado",
+      "ud": "hubiese encantado",
+      "nosotros": "hubiésemos encantado",
+      "vosotros": "hubieseis encantado",
+      "uds": "hubiesen encantado"
+    }
+  },
+  "afirmativo": {
+    "tu": "encanta",
+    "vosotros": "encantad",
+    "ud": "encante",
+    "uds": "encanten"
+  },
+  "negativo": {
+    "tu": "no encantes",
+    "vosotros": "no encantéis",
+    "ud": "no encante",
+    "uds": "no encanten"
+  },
+  "english": {
+    "note": "Note: The verb may be used in the normal way with the meaning bewitch or enchant. More frequently it is used similar to gustar in a special type of construction to express to like very much: Me encanta el libro = The book delights me (= I love the book); Me encantan los libros = The books delight me (= I really like the books). In this construction the verb is most frequently used in the third person singular or plural, although other persons are possible, and the subject usually follows the verb.",
+    "infinitivo": "to delight, be delighting, charm, enchant",
+    "gerundio": "delighting",
+    "participioPasado": "delighted",
+    "indicativo": {
+      "presente": "I delight, am delighting",
+      "futuro": "I will delight",
+      "imperfecto": "I was delighting, used to delight, delighted",
+      "preterito": "I delighted",
+      "condicional": "I would delight",
+      "presentePerfecto": "I have delighted",
+      "futuroPerfecto": "I will have delighted",
+      "pluscuamperfecto": "I had delighted",
+      "preteritoAnterior": "I had delighted",
+      "condicionalPerfecto": "I would have delighted"
+    },
+    "subjuntivo": {
+      "presente": "I delight, am delighting",
+      "imperfecto": "I delighted, was delighting",
+      "futuro": "I will delight",
+      "presentePerfecto": "I have delighted, delighted",
+      "futuroPerfecto": "I will have delighted",
+      "pluscuamperfecto": "I had delighted"
+    },
+    "afirmativo": "Delight!",
+    "negativo": "Don't delight!"
+  },
+  "attribution": "Fred Jehle"
+}

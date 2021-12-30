@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "odiar",
+  "gerundio": "odiando",
+  "participioPasado": "odiado",
+  "indicativo": {
+    "presente": {
+      "yo": "odio",
+      "tu": "odias",
+      "ud": "odia",
+      "nosotros": "odiamos",
+      "vosotros": "odiáis",
+      "uds": "odian"
+    },
+    "futuro": {
+      "yo": "odiaré",
+      "tu": "odiarás",
+      "ud": "odiará",
+      "nosotros": "odiaremos",
+      "vosotros": "odiaréis",
+      "uds": "odiarán"
+    },
+    "imperfecto": {
+      "yo": "odiaba",
+      "tu": "odiabas",
+      "ud": "odiaba",
+      "nosotros": "odiábamos",
+      "vosotros": "odiabais",
+      "uds": "odiaban"
+    },
+    "preterito": {
+      "yo": "odié",
+      "tu": "odiaste",
+      "ud": "odió",
+      "nosotros": "odiamos",
+      "vosotros": "odiasteis",
+      "uds": "odiaron"
+    },
+    "condicional": {
+      "yo": "odiaría",
+      "tu": "odiarías",
+      "ud": "odiaría",
+      "nosotros": "odiaríamos",
+      "vosotros": "odiaríais",
+      "uds": "odiarían"
+    },
+    "presentePerfecto": {
+      "yo": "he odiado",
+      "tu": "has odiado",
+      "ud": "ha odiado",
+      "nosotros": "hemos odiado",
+      "vosotros": "habéis odiado",
+      "uds": "han odiado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré odiado",
+      "tu": "habrás odiado",
+      "ud": "habrá odiado",
+      "nosotros": "habremos odiado",
+      "vosotros": "habréis odiado",
+      "uds": "habrán odiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había odiado",
+      "tu": "habías odiado",
+      "ud": "había odiado",
+      "nosotros": "habíamos odiado",
+      "vosotros": "habíais odiado",
+      "uds": "habían odiado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube odiado",
+      "tu": "hubiste odiado",
+      "ud": "hubo odiado",
+      "nosotros": "hubimos odiado",
+      "vosotros": "hubisteis odiado",
+      "uds": "hubieron odiado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría odiado",
+      "tu": "habrías odiado",
+      "ud": "habría odiado",
+      "nosotros": "habríamos odiado",
+      "vosotros": "habríais odiado",
+      "uds": "habrían odiado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "odie",
+      "tu": "odies",
+      "ud": "odie",
+      "nosotros": "odiemos",
+      "vosotros": "odiéis",
+      "uds": "odien"
+    },
+    "imperfecto": {
+      "yo": "odiara",
+      "tu": "odiaras",
+      "ud": "odiara",
+      "nosotros": "odiáramos",
+      "vosotros": "odiarais",
+      "uds": "odiaran"
+    },
+    "futuro": {
+      "yo": "odiare",
+      "tu": "odiares",
+      "ud": "odiare",
+      "nosotros": "odiáremos",
+      "vosotros": "odiareis",
+      "uds": "odiaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya odiado",
+      "tu": "hayas odiado",
+      "ud": "haya odiado",
+      "nosotros": "hayamos odiado",
+      "vosotros": "hayáis odiado",
+      "uds": "hayan odiado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere odiado",
+      "tu": "hubieres odiado",
+      "ud": "hubiere odiado",
+      "nosotros": "hubiéremos odiado",
+      "vosotros": "hubiereis odiado",
+      "uds": "hubieren odiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera odiado",
+      "tu": "hubieras odiado",
+      "ud": "hubiera odiado",
+      "nosotros": "hubiéramos odiado",
+      "vosotros": "hubierais odiado",
+      "uds": "hubieran odiado"
+    },
+    "imperfectoAlt": {
+      "yo": "odiase",
+      "tu": "odiases",
+      "ud": "odiase",
+      "nosotros": "odiásemos",
+      "vosotros": "odiaseis",
+      "uds": "odiasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese odiado",
+      "tu": "hubieses odiado",
+      "ud": "hubiese odiado",
+      "nosotros": "hubiésemos odiado",
+      "vosotros": "hubieseis odiado",
+      "uds": "hubiesen odiado"
+    }
+  },
+  "afirmativo": {
+    "tu": "odia",
+    "vosotros": "odiad",
+    "ud": "odie",
+    "uds": "odien"
+  },
+  "negativo": {
+    "tu": "no odies",
+    "vosotros": "no odiéis",
+    "ud": "no odie",
+    "uds": "no odien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to hate",
+    "gerundio": "hating",
+    "participioPasado": "hated",
+    "indicativo": {
+      "presente": "I hate, am hating",
+      "futuro": "I will hate",
+      "imperfecto": "I was hating, used to hate, hated",
+      "preterito": "I hated",
+      "condicional": "I would hate",
+      "presentePerfecto": "I have hated",
+      "futuroPerfecto": "I will have hated",
+      "pluscuamperfecto": "I had hated",
+      "preteritoAnterior": "I had hated",
+      "condicionalPerfecto": "I would have hated"
+    },
+    "subjuntivo": {
+      "presente": "I hate, am hating",
+      "imperfecto": "I hated, was hating",
+      "futuro": "I will hate",
+      "presentePerfecto": "I have hated, hated",
+      "futuroPerfecto": "I will have hated",
+      "pluscuamperfecto": "I had hated"
+    },
+    "afirmativo": "Hate!",
+    "negativo": "Don't hate!"
+  },
+  "attribution": "Fred Jehle"
+}

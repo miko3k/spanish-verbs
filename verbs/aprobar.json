@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "aprobar",
+  "gerundio": "aprobando",
+  "participioPasado": "aprobado",
+  "indicativo": {
+    "presente": {
+      "yo": "apruebo",
+      "tu": "apruebas",
+      "ud": "aprueba",
+      "nosotros": "aprobamos",
+      "vosotros": "aprobáis",
+      "uds": "aprueban"
+    },
+    "futuro": {
+      "yo": "aprobaré",
+      "tu": "aprobarás",
+      "ud": "aprobará",
+      "nosotros": "aprobaremos",
+      "vosotros": "aprobaréis",
+      "uds": "aprobarán"
+    },
+    "imperfecto": {
+      "yo": "aprobaba",
+      "tu": "aprobabas",
+      "ud": "aprobaba",
+      "nosotros": "aprobábamos",
+      "vosotros": "aprobabais",
+      "uds": "aprobaban"
+    },
+    "preterito": {
+      "yo": "aprobé",
+      "tu": "aprobaste",
+      "ud": "aprobó",
+      "nosotros": "aprobamos",
+      "vosotros": "aprobasteis",
+      "uds": "aprobaron"
+    },
+    "condicional": {
+      "yo": "aprobaría",
+      "tu": "aprobarías",
+      "ud": "aprobaría",
+      "nosotros": "aprobaríamos",
+      "vosotros": "aprobaríais",
+      "uds": "aprobarían"
+    },
+    "presentePerfecto": {
+      "yo": "he aprobado",
+      "tu": "has aprobado",
+      "ud": "ha aprobado",
+      "nosotros": "hemos aprobado",
+      "vosotros": "habéis aprobado",
+      "uds": "han aprobado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré aprobado",
+      "tu": "habrás aprobado",
+      "ud": "habrá aprobado",
+      "nosotros": "habremos aprobado",
+      "vosotros": "habréis aprobado",
+      "uds": "habrán aprobado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había aprobado",
+      "tu": "habías aprobado",
+      "ud": "había aprobado",
+      "nosotros": "habíamos aprobado",
+      "vosotros": "habíais aprobado",
+      "uds": "habían aprobado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube aprobado",
+      "tu": "hubiste aprobado",
+      "ud": "hubo aprobado",
+      "nosotros": "hubimos aprobado",
+      "vosotros": "hubisteis aprobado",
+      "uds": "hubieron aprobado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría aprobado",
+      "tu": "habrías aprobado",
+      "ud": "habría aprobado",
+      "nosotros": "habríamos aprobado",
+      "vosotros": "habríais aprobado",
+      "uds": "habrían aprobado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "apruebe",
+      "tu": "apruebes",
+      "ud": "apruebe",
+      "nosotros": "aprobemos",
+      "vosotros": "aprobéis",
+      "uds": "aprueben"
+    },
+    "imperfecto": {
+      "yo": "aprobara",
+      "tu": "aprobaras",
+      "ud": "aprobara",
+      "nosotros": "aprobáramos",
+      "vosotros": "aprobarais",
+      "uds": "aprobaran"
+    },
+    "futuro": {
+      "yo": "aprobare",
+      "tu": "aprobares",
+      "ud": "aprobare",
+      "nosotros": "aprobáremos",
+      "vosotros": "aprobareis",
+      "uds": "aprobaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya aprobado",
+      "tu": "hayas aprobado",
+      "ud": "haya aprobado",
+      "nosotros": "hayamos aprobado",
+      "vosotros": "hayáis aprobado",
+      "uds": "hayan aprobado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere aprobado",
+      "tu": "hubieres aprobado",
+      "ud": "hubiere aprobado",
+      "nosotros": "hubiéremos aprobado",
+      "vosotros": "hubiereis aprobado",
+      "uds": "hubieren aprobado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera aprobado",
+      "tu": "hubieras aprobado",
+      "ud": "hubiera aprobado",
+      "nosotros": "hubiéramos aprobado",
+      "vosotros": "hubierais aprobado",
+      "uds": "hubieran aprobado"
+    },
+    "imperfectoAlt": {
+      "yo": "aprobase",
+      "tu": "aprobases",
+      "ud": "aprobase",
+      "nosotros": "aprobásemos",
+      "vosotros": "aprobaseis",
+      "uds": "aprobasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese aprobado",
+      "tu": "hubieses aprobado",
+      "ud": "hubiese aprobado",
+      "nosotros": "hubiésemos aprobado",
+      "vosotros": "hubieseis aprobado",
+      "uds": "hubiesen aprobado"
+    }
+  },
+  "afirmativo": {
+    "tu": "aprueba",
+    "vosotros": "aprobad",
+    "ud": "apruebe",
+    "uds": "aprueben"
+  },
+  "negativo": {
+    "tu": "no apruebes",
+    "vosotros": "no aprobéis",
+    "ud": "no apruebe",
+    "uds": "no aprueben"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa.",
+    "infinitivo": "to pass (an exam, course); to approve",
+    "gerundio": "passing",
+    "participioPasado": "passed",
+    "indicativo": {
+      "presente": "I pass, am passing",
+      "futuro": "I will pass",
+      "imperfecto": "I was passing, used to pass, passed",
+      "preterito": "I passed",
+      "condicional": "I would pass",
+      "presentePerfecto": "I have passed",
+      "futuroPerfecto": "I will have passed",
+      "pluscuamperfecto": "I had passed",
+      "preteritoAnterior": "I had passed",
+      "condicionalPerfecto": "I would have passed"
+    },
+    "subjuntivo": {
+      "presente": "I pass, am passing",
+      "imperfecto": "I passed, was passing",
+      "futuro": "I will pass",
+      "presentePerfecto": "I have passed, passed",
+      "futuroPerfecto": "I will have passed",
+      "pluscuamperfecto": "I had passed"
+    },
+    "afirmativo": "Pass!",
+    "negativo": "Don't pass!"
+  },
+  "attribution": "Fred Jehle"
+}

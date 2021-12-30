@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "regular",
+  "gerundio": "regulando",
+  "participioPasado": "regulado",
+  "indicativo": {
+    "presente": {
+      "yo": "regulo",
+      "tu": "regulas",
+      "ud": "regula",
+      "nosotros": "regulamos",
+      "vosotros": "reguláis",
+      "uds": "regulan"
+    },
+    "futuro": {
+      "yo": "regularé",
+      "tu": "regularás",
+      "ud": "regulará",
+      "nosotros": "regularemos",
+      "vosotros": "regularéis",
+      "uds": "regularán"
+    },
+    "imperfecto": {
+      "yo": "regulaba",
+      "tu": "regulabas",
+      "ud": "regulaba",
+      "nosotros": "regulábamos",
+      "vosotros": "regulabais",
+      "uds": "regulaban"
+    },
+    "preterito": {
+      "yo": "regulé",
+      "tu": "regulaste",
+      "ud": "reguló",
+      "nosotros": "regulamos",
+      "vosotros": "regulasteis",
+      "uds": "regularon"
+    },
+    "condicional": {
+      "yo": "regularía",
+      "tu": "regularías",
+      "ud": "regularía",
+      "nosotros": "regularíamos",
+      "vosotros": "regularíais",
+      "uds": "regularían"
+    },
+    "presentePerfecto": {
+      "yo": "he regulado",
+      "tu": "has regulado",
+      "ud": "ha regulado",
+      "nosotros": "hemos regulado",
+      "vosotros": "habéis regulado",
+      "uds": "han regulado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré regulado",
+      "tu": "habrás regulado",
+      "ud": "habrá regulado",
+      "nosotros": "habremos regulado",
+      "vosotros": "habréis regulado",
+      "uds": "habrán regulado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había regulado",
+      "tu": "habías regulado",
+      "ud": "había regulado",
+      "nosotros": "habíamos regulado",
+      "vosotros": "habíais regulado",
+      "uds": "habían regulado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube regulado",
+      "tu": "hubiste regulado",
+      "ud": "hubo regulado",
+      "nosotros": "hubimos regulado",
+      "vosotros": "hubisteis regulado",
+      "uds": "hubieron regulado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría regulado",
+      "tu": "habrías regulado",
+      "ud": "habría regulado",
+      "nosotros": "habríamos regulado",
+      "vosotros": "habríais regulado",
+      "uds": "habrían regulado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "regule",
+      "tu": "regules",
+      "ud": "regule",
+      "nosotros": "regulemos",
+      "vosotros": "reguléis",
+      "uds": "regulen"
+    },
+    "imperfecto": {
+      "yo": "regulara",
+      "tu": "regularas",
+      "ud": "regulara",
+      "nosotros": "reguláramos",
+      "vosotros": "regularais",
+      "uds": "regularan"
+    },
+    "futuro": {
+      "yo": "regulare",
+      "tu": "regulares",
+      "ud": "regulare",
+      "nosotros": "reguláremos",
+      "vosotros": "regulareis",
+      "uds": "regularen"
+    },
+    "presentePerfecto": {
+      "yo": "haya regulado",
+      "tu": "hayas regulado",
+      "ud": "haya regulado",
+      "nosotros": "hayamos regulado",
+      "vosotros": "hayáis regulado",
+      "uds": "hayan regulado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere regulado",
+      "tu": "hubieres regulado",
+      "ud": "hubiere regulado",
+      "nosotros": "hubiéremos regulado",
+      "vosotros": "hubiereis regulado",
+      "uds": "hubieren regulado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera regulado",
+      "tu": "hubieras regulado",
+      "ud": "hubiera regulado",
+      "nosotros": "hubiéramos regulado",
+      "vosotros": "hubierais regulado",
+      "uds": "hubieran regulado"
+    },
+    "imperfectoAlt": {
+      "yo": "regulase",
+      "tu": "regulases",
+      "ud": "regulase",
+      "nosotros": "regulásemos",
+      "vosotros": "regulaseis",
+      "uds": "regulasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese regulado",
+      "tu": "hubieses regulado",
+      "ud": "hubiese regulado",
+      "nosotros": "hubiésemos regulado",
+      "vosotros": "hubieseis regulado",
+      "uds": "hubiesen regulado"
+    }
+  },
+  "afirmativo": {
+    "tu": "regula",
+    "vosotros": "regulad",
+    "ud": "regule",
+    "uds": "regulen"
+  },
+  "negativo": {
+    "tu": "no regules",
+    "vosotros": "no reguléis",
+    "ud": "no regule",
+    "uds": "no regulen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to regulate, adjust, control",
+    "gerundio": "regulating",
+    "participioPasado": "regulated",
+    "indicativo": {
+      "presente": "I regulate, am regulating",
+      "futuro": "I will regulate",
+      "imperfecto": "I was regulating, used to regulate, regulated",
+      "preterito": "I regulated",
+      "condicional": "I would regulate",
+      "presentePerfecto": "I have regulated",
+      "futuroPerfecto": "I will have regulated",
+      "pluscuamperfecto": "I had regulated",
+      "preteritoAnterior": "I had regulated",
+      "condicionalPerfecto": "I would have regulated"
+    },
+    "subjuntivo": {
+      "presente": "I regulate, am regulating",
+      "imperfecto": "I regulated, was regulating",
+      "futuro": "I will regulate",
+      "presentePerfecto": "I have regulated, regulated",
+      "futuroPerfecto": "I will have regulated",
+      "pluscuamperfecto": "I had regulated"
+    },
+    "afirmativo": "Regulate!",
+    "negativo": "Don't regulate!"
+  },
+  "attribution": "Fred Jehle"
+}

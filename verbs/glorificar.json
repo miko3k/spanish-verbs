@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "glorificar",
+  "gerundio": "glorificando",
+  "participioPasado": "glorificado",
+  "indicativo": {
+    "presente": {
+      "yo": "glorifico",
+      "tu": "glorificas",
+      "ud": "glorifica",
+      "nosotros": "glorificamos",
+      "vosotros": "glorificáis",
+      "uds": "glorifican"
+    },
+    "futuro": {
+      "yo": "glorificaré",
+      "tu": "glorificarás",
+      "ud": "glorificará",
+      "nosotros": "glorificaremos",
+      "vosotros": "glorificaréis",
+      "uds": "glorificarán"
+    },
+    "imperfecto": {
+      "yo": "glorificaba",
+      "tu": "glorificabas",
+      "ud": "glorificaba",
+      "nosotros": "glorificábamos",
+      "vosotros": "glorificabais",
+      "uds": "glorificaban"
+    },
+    "preterito": {
+      "yo": "glorifiqué",
+      "tu": "glorificaste",
+      "ud": "glorificó",
+      "nosotros": "glorificamos",
+      "vosotros": "glorificasteis",
+      "uds": "glorificaron"
+    },
+    "condicional": {
+      "yo": "glorificaría",
+      "tu": "glorificarías",
+      "ud": "glorificaría",
+      "nosotros": "glorificaríamos",
+      "vosotros": "glorificaríais",
+      "uds": "glorificarían"
+    },
+    "presentePerfecto": {
+      "yo": "he glorificado",
+      "tu": "has glorificado",
+      "ud": "ha glorificado",
+      "nosotros": "hemos glorificado",
+      "vosotros": "habéis glorificado",
+      "uds": "han glorificado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré glorificado",
+      "tu": "habrás glorificado",
+      "ud": "habrá glorificado",
+      "nosotros": "habremos glorificado",
+      "vosotros": "habréis glorificado",
+      "uds": "habrán glorificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había glorificado",
+      "tu": "habías glorificado",
+      "ud": "había glorificado",
+      "nosotros": "habíamos glorificado",
+      "vosotros": "habíais glorificado",
+      "uds": "habían glorificado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube glorificado",
+      "tu": "hubiste glorificado",
+      "ud": "hubo glorificado",
+      "nosotros": "hubimos glorificado",
+      "vosotros": "hubisteis glorificado",
+      "uds": "hubieron glorificado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría glorificado",
+      "tu": "habrías glorificado",
+      "ud": "habría glorificado",
+      "nosotros": "habríamos glorificado",
+      "vosotros": "habríais glorificado",
+      "uds": "habrían glorificado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "glorifique",
+      "tu": "glorifiques",
+      "ud": "glorifique",
+      "nosotros": "glorifiquemos",
+      "vosotros": "glorifiquéis",
+      "uds": "glorifiquen"
+    },
+    "imperfecto": {
+      "yo": "glorificara",
+      "tu": "glorificaras",
+      "ud": "glorificara",
+      "nosotros": "glorificáramos",
+      "vosotros": "glorificarais",
+      "uds": "glorificaran"
+    },
+    "futuro": {
+      "yo": "glorificare",
+      "tu": "glorificares",
+      "ud": "glorificare",
+      "nosotros": "glorificáremos",
+      "vosotros": "glorificareis",
+      "uds": "glorificaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya glorificado",
+      "tu": "hayas glorificado",
+      "ud": "haya glorificado",
+      "nosotros": "hayamos glorificado",
+      "vosotros": "hayáis glorificado",
+      "uds": "hayan glorificado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere glorificado",
+      "tu": "hubieres glorificado",
+      "ud": "hubiere glorificado",
+      "nosotros": "hubiéremos glorificado",
+      "vosotros": "hubiereis glorificado",
+      "uds": "hubieren glorificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera glorificado",
+      "tu": "hubieras glorificado",
+      "ud": "hubiera glorificado",
+      "nosotros": "hubiéramos glorificado",
+      "vosotros": "hubierais glorificado",
+      "uds": "hubieran glorificado"
+    },
+    "imperfectoAlt": {
+      "yo": "glorificase",
+      "tu": "glorificases",
+      "ud": "glorificase",
+      "nosotros": "glorificásemos",
+      "vosotros": "glorificaseis",
+      "uds": "glorificasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese glorificado",
+      "tu": "hubieses glorificado",
+      "ud": "hubiese glorificado",
+      "nosotros": "hubiésemos glorificado",
+      "vosotros": "hubieseis glorificado",
+      "uds": "hubiesen glorificado"
+    }
+  },
+  "afirmativo": {
+    "tu": "glorifica",
+    "vosotros": "glorificad",
+    "ud": "glorifique",
+    "uds": "glorifiquen"
+  },
+  "negativo": {
+    "tu": "no glorifiques",
+    "vosotros": "no glorifiquéis",
+    "ud": "no glorifique",
+    "uds": "no glorifiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to glorify, praise",
+    "gerundio": "glorifying",
+    "participioPasado": "glorified",
+    "indicativo": {
+      "presente": "I glorify, am glorifying",
+      "futuro": "I will glorify",
+      "imperfecto": "I was glorifying, used to glorify, glorified",
+      "preterito": "I glorified",
+      "condicional": "I would glorify",
+      "presentePerfecto": "I have glorified",
+      "futuroPerfecto": "I will have glorified",
+      "pluscuamperfecto": "I had glorified",
+      "preteritoAnterior": "I had glorified",
+      "condicionalPerfecto": "I would have glorified"
+    },
+    "subjuntivo": {
+      "presente": "I glorify, am glorifying",
+      "imperfecto": "I glorified, was glorifying",
+      "futuro": "I will glorify",
+      "presentePerfecto": "I have glorified, glorified",
+      "futuroPerfecto": "I will have glorified",
+      "pluscuamperfecto": "I had glorified"
+    },
+    "afirmativo": "Glorify!",
+    "negativo": "Don't glorify!"
+  },
+  "attribution": "Fred Jehle"
+}

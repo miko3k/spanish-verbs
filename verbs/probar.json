@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "probar",
+  "gerundio": "probando",
+  "participioPasado": "probado",
+  "indicativo": {
+    "presente": {
+      "yo": "pruebo",
+      "tu": "pruebas",
+      "ud": "prueba",
+      "nosotros": "probamos",
+      "vosotros": "probáis",
+      "uds": "prueban"
+    },
+    "futuro": {
+      "yo": "probaré",
+      "tu": "probarás",
+      "ud": "probará",
+      "nosotros": "probaremos",
+      "vosotros": "probaréis",
+      "uds": "probarán"
+    },
+    "imperfecto": {
+      "yo": "probaba",
+      "tu": "probabas",
+      "ud": "probaba",
+      "nosotros": "probábamos",
+      "vosotros": "probabais",
+      "uds": "probaban"
+    },
+    "preterito": {
+      "yo": "probé",
+      "tu": "probaste",
+      "ud": "probó",
+      "nosotros": "probamos",
+      "vosotros": "probasteis",
+      "uds": "probaron"
+    },
+    "condicional": {
+      "yo": "probaría",
+      "tu": "probarías",
+      "ud": "probaría",
+      "nosotros": "probaríamos",
+      "vosotros": "probaríais",
+      "uds": "probarían"
+    },
+    "presentePerfecto": {
+      "yo": "he probado",
+      "tu": "has probado",
+      "ud": "ha probado",
+      "nosotros": "hemos probado",
+      "vosotros": "habéis probado",
+      "uds": "han probado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré probado",
+      "tu": "habrás probado",
+      "ud": "habrá probado",
+      "nosotros": "habremos probado",
+      "vosotros": "habréis probado",
+      "uds": "habrán probado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había probado",
+      "tu": "habías probado",
+      "ud": "había probado",
+      "nosotros": "habíamos probado",
+      "vosotros": "habíais probado",
+      "uds": "habían probado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube probado",
+      "tu": "hubiste probado",
+      "ud": "hubo probado",
+      "nosotros": "hubimos probado",
+      "vosotros": "hubisteis probado",
+      "uds": "hubieron probado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría probado",
+      "tu": "habrías probado",
+      "ud": "habría probado",
+      "nosotros": "habríamos probado",
+      "vosotros": "habríais probado",
+      "uds": "habrían probado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pruebe",
+      "tu": "pruebes",
+      "ud": "pruebe",
+      "nosotros": "probemos",
+      "vosotros": "probéis",
+      "uds": "prueben"
+    },
+    "imperfecto": {
+      "yo": "probara",
+      "tu": "probaras",
+      "ud": "probara",
+      "nosotros": "probáramos",
+      "vosotros": "probarais",
+      "uds": "probaran"
+    },
+    "futuro": {
+      "yo": "probare",
+      "tu": "probares",
+      "ud": "probare",
+      "nosotros": "probáremos",
+      "vosotros": "probareis",
+      "uds": "probaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya probado",
+      "tu": "hayas probado",
+      "ud": "haya probado",
+      "nosotros": "hayamos probado",
+      "vosotros": "hayáis probado",
+      "uds": "hayan probado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere probado",
+      "tu": "hubieres probado",
+      "ud": "hubiere probado",
+      "nosotros": "hubiéremos probado",
+      "vosotros": "hubiereis probado",
+      "uds": "hubieren probado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera probado",
+      "tu": "hubieras probado",
+      "ud": "hubiera probado",
+      "nosotros": "hubiéramos probado",
+      "vosotros": "hubierais probado",
+      "uds": "hubieran probado"
+    },
+    "imperfectoAlt": {
+      "yo": "probase",
+      "tu": "probases",
+      "ud": "probase",
+      "nosotros": "probásemos",
+      "vosotros": "probaseis",
+      "uds": "probasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese probado",
+      "tu": "hubieses probado",
+      "ud": "hubiese probado",
+      "nosotros": "hubiésemos probado",
+      "vosotros": "hubieseis probado",
+      "uds": "hubiesen probado"
+    }
+  },
+  "afirmativo": {
+    "tu": "prueba",
+    "vosotros": "probad",
+    "ud": "pruebe",
+    "uds": "prueben"
+  },
+  "negativo": {
+    "tu": "no pruebes",
+    "vosotros": "no probéis",
+    "ud": "no pruebe",
+    "uds": "no prueben"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Note: For try in the sense of to attempt, use tratar de or intentar.",
+    "infinitivo": "to taste, try, test",
+    "gerundio": "tasting",
+    "participioPasado": "tasted",
+    "indicativo": {
+      "presente": "I taste, am tasting",
+      "futuro": "I will taste",
+      "imperfecto": "I was tasting, used to taste, tasted",
+      "preterito": "I tasted",
+      "condicional": "I would taste",
+      "presentePerfecto": "I have tasted",
+      "futuroPerfecto": "I will have tasted",
+      "pluscuamperfecto": "I had tasted",
+      "preteritoAnterior": "I had tasted",
+      "condicionalPerfecto": "I would have tasted"
+    },
+    "subjuntivo": {
+      "presente": "I taste, am tasting",
+      "imperfecto": "I tasted, was tasting",
+      "futuro": "I will taste",
+      "presentePerfecto": "I have tasted, tasted",
+      "futuroPerfecto": "I will have tasted",
+      "pluscuamperfecto": "I had tasted"
+    },
+    "afirmativo": "Taste!",
+    "negativo": "Don't taste!"
+  },
+  "attribution": "Fred Jehle"
+}

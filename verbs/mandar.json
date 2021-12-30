@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "mandar",
+  "gerundio": "mandando",
+  "participioPasado": "mandado",
+  "indicativo": {
+    "presente": {
+      "yo": "mando",
+      "tu": "mandas",
+      "ud": "manda",
+      "nosotros": "mandamos",
+      "vosotros": "mandáis",
+      "uds": "mandan"
+    },
+    "futuro": {
+      "yo": "mandaré",
+      "tu": "mandarás",
+      "ud": "mandará",
+      "nosotros": "mandaremos",
+      "vosotros": "mandaréis",
+      "uds": "mandarán"
+    },
+    "imperfecto": {
+      "yo": "mandaba",
+      "tu": "mandabas",
+      "ud": "mandaba",
+      "nosotros": "mandábamos",
+      "vosotros": "mandabais",
+      "uds": "mandaban"
+    },
+    "preterito": {
+      "yo": "mandé",
+      "tu": "mandaste",
+      "ud": "mandó",
+      "nosotros": "mandamos",
+      "vosotros": "mandasteis",
+      "uds": "mandaron"
+    },
+    "condicional": {
+      "yo": "mandaría",
+      "tu": "mandarías",
+      "ud": "mandaría",
+      "nosotros": "mandaríamos",
+      "vosotros": "mandaríais",
+      "uds": "mandarían"
+    },
+    "presentePerfecto": {
+      "yo": "he mandado",
+      "tu": "has mandado",
+      "ud": "ha mandado",
+      "nosotros": "hemos mandado",
+      "vosotros": "habéis mandado",
+      "uds": "han mandado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré mandado",
+      "tu": "habrás mandado",
+      "ud": "habrá mandado",
+      "nosotros": "habremos mandado",
+      "vosotros": "habréis mandado",
+      "uds": "habrán mandado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había mandado",
+      "tu": "habías mandado",
+      "ud": "había mandado",
+      "nosotros": "habíamos mandado",
+      "vosotros": "habíais mandado",
+      "uds": "habían mandado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube mandado",
+      "tu": "hubiste mandado",
+      "ud": "hubo mandado",
+      "nosotros": "hubimos mandado",
+      "vosotros": "hubisteis mandado",
+      "uds": "hubieron mandado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría mandado",
+      "tu": "habrías mandado",
+      "ud": "habría mandado",
+      "nosotros": "habríamos mandado",
+      "vosotros": "habríais mandado",
+      "uds": "habrían mandado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "mande",
+      "tu": "mandes",
+      "ud": "mande",
+      "nosotros": "mandemos",
+      "vosotros": "mandéis",
+      "uds": "manden"
+    },
+    "imperfecto": {
+      "yo": "mandara",
+      "tu": "mandaras",
+      "ud": "mandara",
+      "nosotros": "mandáramos",
+      "vosotros": "mandarais",
+      "uds": "mandaran"
+    },
+    "futuro": {
+      "yo": "mandare",
+      "tu": "mandares",
+      "ud": "mandare",
+      "nosotros": "mandáremos",
+      "vosotros": "mandareis",
+      "uds": "mandaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya mandado",
+      "tu": "hayas mandado",
+      "ud": "haya mandado",
+      "nosotros": "hayamos mandado",
+      "vosotros": "hayáis mandado",
+      "uds": "hayan mandado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere mandado",
+      "tu": "hubieres mandado",
+      "ud": "hubiere mandado",
+      "nosotros": "hubiéremos mandado",
+      "vosotros": "hubiereis mandado",
+      "uds": "hubieren mandado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera mandado",
+      "tu": "hubieras mandado",
+      "ud": "hubiera mandado",
+      "nosotros": "hubiéramos mandado",
+      "vosotros": "hubierais mandado",
+      "uds": "hubieran mandado"
+    },
+    "imperfectoAlt": {
+      "yo": "mandase",
+      "tu": "mandases",
+      "ud": "mandase",
+      "nosotros": "mandásemos",
+      "vosotros": "mandaseis",
+      "uds": "mandasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese mandado",
+      "tu": "hubieses mandado",
+      "ud": "hubiese mandado",
+      "nosotros": "hubiésemos mandado",
+      "vosotros": "hubieseis mandado",
+      "uds": "hubiesen mandado"
+    }
+  },
+  "afirmativo": {
+    "tu": "manda",
+    "vosotros": "mandad",
+    "ud": "mande",
+    "uds": "manden"
+  },
+  "negativo": {
+    "tu": "no mandes",
+    "vosotros": "no mandéis",
+    "ud": "no mande",
+    "uds": "no manden"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to order (give an order); to send",
+    "gerundio": "ordering",
+    "participioPasado": "ordered",
+    "indicativo": {
+      "presente": "I order, am ordering",
+      "futuro": "I will order",
+      "imperfecto": "I was ordering, used to order, ordered",
+      "preterito": "I ordered",
+      "condicional": "I would order",
+      "presentePerfecto": "I have ordered",
+      "futuroPerfecto": "I will have ordered",
+      "pluscuamperfecto": "I had ordered",
+      "preteritoAnterior": "I had ordered",
+      "condicionalPerfecto": "I would have ordered"
+    },
+    "subjuntivo": {
+      "presente": "I order, am ordering",
+      "imperfecto": "I ordered, was ordering",
+      "futuro": "I will order",
+      "presentePerfecto": "I have ordered, ordered",
+      "futuroPerfecto": "I will have ordered",
+      "pluscuamperfecto": "I had ordered"
+    },
+    "afirmativo": "Order!",
+    "negativo": "Don't order!"
+  },
+  "attribution": "Fred Jehle"
+}

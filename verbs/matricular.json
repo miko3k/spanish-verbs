@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "matricular",
+  "gerundio": "matriculando",
+  "participioPasado": "matriculado",
+  "indicativo": {
+    "presente": {
+      "yo": "matriculo",
+      "tu": "matriculas",
+      "ud": "matricula",
+      "nosotros": "matriculamos",
+      "vosotros": "matriculáis",
+      "uds": "matriculan"
+    },
+    "futuro": {
+      "yo": "matricularé",
+      "tu": "matricularás",
+      "ud": "matriculará",
+      "nosotros": "matricularemos",
+      "vosotros": "matricularéis",
+      "uds": "matricularán"
+    },
+    "imperfecto": {
+      "yo": "matriculaba",
+      "tu": "matriculabas",
+      "ud": "matriculaba",
+      "nosotros": "matriculábamos",
+      "vosotros": "matriculabais",
+      "uds": "matriculaban"
+    },
+    "preterito": {
+      "yo": "matriculé",
+      "tu": "matriculaste",
+      "ud": "matriculó",
+      "nosotros": "matriculamos",
+      "vosotros": "matriculasteis",
+      "uds": "matricularon"
+    },
+    "condicional": {
+      "yo": "matricularía",
+      "tu": "matricularías",
+      "ud": "matricularía",
+      "nosotros": "matricularíamos",
+      "vosotros": "matricularíais",
+      "uds": "matricularían"
+    },
+    "presentePerfecto": {
+      "yo": "he matriculado",
+      "tu": "has matriculado",
+      "ud": "ha matriculado",
+      "nosotros": "hemos matriculado",
+      "vosotros": "habéis matriculado",
+      "uds": "han matriculado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré matriculado",
+      "tu": "habrás matriculado",
+      "ud": "habrá matriculado",
+      "nosotros": "habremos matriculado",
+      "vosotros": "habréis matriculado",
+      "uds": "habrán matriculado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había matriculado",
+      "tu": "habías matriculado",
+      "ud": "había matriculado",
+      "nosotros": "habíamos matriculado",
+      "vosotros": "habíais matriculado",
+      "uds": "habían matriculado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube matriculado",
+      "tu": "hubiste matriculado",
+      "ud": "hubo matriculado",
+      "nosotros": "hubimos matriculado",
+      "vosotros": "hubisteis matriculado",
+      "uds": "hubieron matriculado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría matriculado",
+      "tu": "habrías matriculado",
+      "ud": "habría matriculado",
+      "nosotros": "habríamos matriculado",
+      "vosotros": "habríais matriculado",
+      "uds": "habrían matriculado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "matricule",
+      "tu": "matricules",
+      "ud": "matricule",
+      "nosotros": "matriculemos",
+      "vosotros": "matriculéis",
+      "uds": "matriculen"
+    },
+    "imperfecto": {
+      "yo": "matriculara",
+      "tu": "matricularas",
+      "ud": "matriculara",
+      "nosotros": "matriculáramos",
+      "vosotros": "matricularais",
+      "uds": "matricularan"
+    },
+    "futuro": {
+      "yo": "matriculare",
+      "tu": "matriculares",
+      "ud": "matriculare",
+      "nosotros": "matriculáremos",
+      "vosotros": "matriculareis",
+      "uds": "matricularen"
+    },
+    "presentePerfecto": {
+      "yo": "haya matriculado",
+      "tu": "hayas matriculado",
+      "ud": "haya matriculado",
+      "nosotros": "hayamos matriculado",
+      "vosotros": "hayáis matriculado",
+      "uds": "hayan matriculado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere matriculado",
+      "tu": "hubieres matriculado",
+      "ud": "hubiere matriculado",
+      "nosotros": "hubiéremos matriculado",
+      "vosotros": "hubiereis matriculado",
+      "uds": "hubieren matriculado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera matriculado",
+      "tu": "hubieras matriculado",
+      "ud": "hubiera matriculado",
+      "nosotros": "hubiéramos matriculado",
+      "vosotros": "hubierais matriculado",
+      "uds": "hubieran matriculado"
+    },
+    "imperfectoAlt": {
+      "yo": "matriculase",
+      "tu": "matriculases",
+      "ud": "matriculase",
+      "nosotros": "matriculásemos",
+      "vosotros": "matriculaseis",
+      "uds": "matriculasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese matriculado",
+      "tu": "hubieses matriculado",
+      "ud": "hubiese matriculado",
+      "nosotros": "hubiésemos matriculado",
+      "vosotros": "hubieseis matriculado",
+      "uds": "hubiesen matriculado"
+    }
+  },
+  "afirmativo": {
+    "tu": "matricula",
+    "vosotros": "matriculad",
+    "ud": "matricule",
+    "uds": "matriculen"
+  },
+  "negativo": {
+    "tu": "no matricules",
+    "vosotros": "no matriculéis",
+    "ud": "no matricule",
+    "uds": "no matriculen"
+  },
+  "english": {
+    "note": "Use the reflexive form matricularse for to register/enroll (oneself) at a school; use registrarse for to register (oneself) at a hotel.",
+    "infinitivo": "to register, enroll",
+    "gerundio": "registering",
+    "participioPasado": "registered",
+    "indicativo": {
+      "presente": "I register, am registering",
+      "futuro": "I will register",
+      "imperfecto": "I was registering, used to register, registered",
+      "preterito": "I registered",
+      "condicional": "I would register",
+      "presentePerfecto": "I have registered",
+      "futuroPerfecto": "I will have registered",
+      "pluscuamperfecto": "I had registered",
+      "preteritoAnterior": "I had registered",
+      "condicionalPerfecto": "I would have registered"
+    },
+    "subjuntivo": {
+      "presente": "I register, am registering",
+      "imperfecto": "I registered, was registering",
+      "futuro": "I will register",
+      "presentePerfecto": "I have registered, registered",
+      "futuroPerfecto": "I will have registered",
+      "pluscuamperfecto": "I had registered"
+    },
+    "afirmativo": "Register!",
+    "negativo": "Don't register!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "recordar",
+  "gerundio": "recordando",
+  "participioPasado": "recordado",
+  "indicativo": {
+    "presente": {
+      "yo": "recuerdo",
+      "tu": "recuerdas",
+      "ud": "recuerda",
+      "nosotros": "recordamos",
+      "vosotros": "recordáis",
+      "uds": "recuerdan"
+    },
+    "futuro": {
+      "yo": "recordaré",
+      "tu": "recordarás",
+      "ud": "recordará",
+      "nosotros": "recordaremos",
+      "vosotros": "recordaréis",
+      "uds": "recordarán"
+    },
+    "imperfecto": {
+      "yo": "recordaba",
+      "tu": "recordabas",
+      "ud": "recordaba",
+      "nosotros": "recordábamos",
+      "vosotros": "recordabais",
+      "uds": "recordaban"
+    },
+    "preterito": {
+      "yo": "recordé",
+      "tu": "recordaste",
+      "ud": "recordó",
+      "nosotros": "recordamos",
+      "vosotros": "recordasteis",
+      "uds": "recordaron"
+    },
+    "condicional": {
+      "yo": "recordaría",
+      "tu": "recordarías",
+      "ud": "recordaría",
+      "nosotros": "recordaríamos",
+      "vosotros": "recordaríais",
+      "uds": "recordarían"
+    },
+    "presentePerfecto": {
+      "yo": "he recordado",
+      "tu": "has recordado",
+      "ud": "ha recordado",
+      "nosotros": "hemos recordado",
+      "vosotros": "habéis recordado",
+      "uds": "han recordado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré recordado",
+      "tu": "habrás recordado",
+      "ud": "habrá recordado",
+      "nosotros": "habremos recordado",
+      "vosotros": "habréis recordado",
+      "uds": "habrán recordado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había recordado",
+      "tu": "habías recordado",
+      "ud": "había recordado",
+      "nosotros": "habíamos recordado",
+      "vosotros": "habíais recordado",
+      "uds": "habían recordado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube recordado",
+      "tu": "hubiste recordado",
+      "ud": "hubo recordado",
+      "nosotros": "hubimos recordado",
+      "vosotros": "hubisteis recordado",
+      "uds": "hubieron recordado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría recordado",
+      "tu": "habrías recordado",
+      "ud": "habría recordado",
+      "nosotros": "habríamos recordado",
+      "vosotros": "habríais recordado",
+      "uds": "habrían recordado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "recuerde",
+      "tu": "recuerdes",
+      "ud": "recuerde",
+      "nosotros": "recordemos",
+      "vosotros": "recordéis",
+      "uds": "recuerden"
+    },
+    "imperfecto": {
+      "yo": "recordara",
+      "tu": "recordaras",
+      "ud": "recordara",
+      "nosotros": "recordáramos",
+      "vosotros": "recordarais",
+      "uds": "recordaran"
+    },
+    "futuro": {
+      "yo": "recordare",
+      "tu": "recordares",
+      "ud": "recordare",
+      "nosotros": "recordáremos",
+      "vosotros": "recordareis",
+      "uds": "recordaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya recordado",
+      "tu": "hayas recordado",
+      "ud": "haya recordado",
+      "nosotros": "hayamos recordado",
+      "vosotros": "hayáis recordado",
+      "uds": "hayan recordado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere recordado",
+      "tu": "hubieres recordado",
+      "ud": "hubiere recordado",
+      "nosotros": "hubiéremos recordado",
+      "vosotros": "hubiereis recordado",
+      "uds": "hubieren recordado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera recordado",
+      "tu": "hubieras recordado",
+      "ud": "hubiera recordado",
+      "nosotros": "hubiéramos recordado",
+      "vosotros": "hubierais recordado",
+      "uds": "hubieran recordado"
+    },
+    "imperfectoAlt": {
+      "yo": "recordase",
+      "tu": "recordases",
+      "ud": "recordase",
+      "nosotros": "recordásemos",
+      "vosotros": "recordaseis",
+      "uds": "recordasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese recordado",
+      "tu": "hubieses recordado",
+      "ud": "hubiese recordado",
+      "nosotros": "hubiésemos recordado",
+      "vosotros": "hubieseis recordado",
+      "uds": "hubiesen recordado"
+    }
+  },
+  "afirmativo": {
+    "tu": "recuerda",
+    "vosotros": "recordad",
+    "ud": "recuerde",
+    "uds": "recuerden"
+  },
+  "negativo": {
+    "tu": "no recuerdes",
+    "vosotros": "no recordéis",
+    "ud": "no recuerde",
+    "uds": "no recuerden"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa.",
+    "infinitivo": "to remember, remind",
+    "gerundio": "remembering",
+    "participioPasado": "remembered",
+    "indicativo": {
+      "presente": "I remember, am remembering",
+      "futuro": "I will remember",
+      "imperfecto": "I was remembering, used to remember, remembered",
+      "preterito": "I remembered",
+      "condicional": "I would remember",
+      "presentePerfecto": "I have remembered",
+      "futuroPerfecto": "I will have remembered",
+      "pluscuamperfecto": "I had remembered",
+      "preteritoAnterior": "I had remembered",
+      "condicionalPerfecto": "I would have remembered"
+    },
+    "subjuntivo": {
+      "presente": "I remember, am remembering",
+      "imperfecto": "I remembered, was remembering",
+      "futuro": "I will remember",
+      "presentePerfecto": "I have remembered, remembered",
+      "futuroPerfecto": "I will have remembered",
+      "pluscuamperfecto": "I had remembered"
+    },
+    "afirmativo": "Remember!",
+    "negativo": "Don't remember!"
+  },
+  "attribution": "Fred Jehle"
+}

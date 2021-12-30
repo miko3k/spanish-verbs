@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "comunicar",
+  "gerundio": "comunicando",
+  "participioPasado": "comunicado",
+  "indicativo": {
+    "presente": {
+      "yo": "comunico",
+      "tu": "comunicas",
+      "ud": "comunica",
+      "nosotros": "comunicamos",
+      "vosotros": "comunicáis",
+      "uds": "comunican"
+    },
+    "futuro": {
+      "yo": "comunicaré",
+      "tu": "comunicarás",
+      "ud": "comunicará",
+      "nosotros": "comunicaremos",
+      "vosotros": "comunicaréis",
+      "uds": "comunicarán"
+    },
+    "imperfecto": {
+      "yo": "comunicaba",
+      "tu": "comunicabas",
+      "ud": "comunicaba",
+      "nosotros": "comunicábamos",
+      "vosotros": "comunicabais",
+      "uds": "comunicaban"
+    },
+    "preterito": {
+      "yo": "comuniqué",
+      "tu": "comunicaste",
+      "ud": "comunicó",
+      "nosotros": "comunicamos",
+      "vosotros": "comunicasteis",
+      "uds": "comunicaron"
+    },
+    "condicional": {
+      "yo": "comunicaría",
+      "tu": "comunicarías",
+      "ud": "comunicaría",
+      "nosotros": "comunicaríamos",
+      "vosotros": "comunicaríais",
+      "uds": "comunicarían"
+    },
+    "presentePerfecto": {
+      "yo": "he comunicado",
+      "tu": "has comunicado",
+      "ud": "ha comunicado",
+      "nosotros": "hemos comunicado",
+      "vosotros": "habéis comunicado",
+      "uds": "han comunicado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré comunicado",
+      "tu": "habrás comunicado",
+      "ud": "habrá comunicado",
+      "nosotros": "habremos comunicado",
+      "vosotros": "habréis comunicado",
+      "uds": "habrán comunicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había comunicado",
+      "tu": "habías comunicado",
+      "ud": "había comunicado",
+      "nosotros": "habíamos comunicado",
+      "vosotros": "habíais comunicado",
+      "uds": "habían comunicado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube comunicado",
+      "tu": "hubiste comunicado",
+      "ud": "hubo comunicado",
+      "nosotros": "hubimos comunicado",
+      "vosotros": "hubisteis comunicado",
+      "uds": "hubieron comunicado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría comunicado",
+      "tu": "habrías comunicado",
+      "ud": "habría comunicado",
+      "nosotros": "habríamos comunicado",
+      "vosotros": "habríais comunicado",
+      "uds": "habrían comunicado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "comunique",
+      "tu": "comuniques",
+      "ud": "comunique",
+      "nosotros": "comuniquemos",
+      "vosotros": "comuniquéis",
+      "uds": "comuniquen"
+    },
+    "imperfecto": {
+      "yo": "comunicara",
+      "tu": "comunicaras",
+      "ud": "comunicara",
+      "nosotros": "comunicáramos",
+      "vosotros": "comunicarais",
+      "uds": "comunicaran"
+    },
+    "futuro": {
+      "yo": "comunicare",
+      "tu": "comunicares",
+      "ud": "comunicare",
+      "nosotros": "comunicáremos",
+      "vosotros": "comunicareis",
+      "uds": "comunicaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya comunicado",
+      "tu": "hayas comunicado",
+      "ud": "haya comunicado",
+      "nosotros": "hayamos comunicado",
+      "vosotros": "hayáis comunicado",
+      "uds": "hayan comunicado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere comunicado",
+      "tu": "hubieres comunicado",
+      "ud": "hubiere comunicado",
+      "nosotros": "hubiéremos comunicado",
+      "vosotros": "hubiereis comunicado",
+      "uds": "hubieren comunicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera comunicado",
+      "tu": "hubieras comunicado",
+      "ud": "hubiera comunicado",
+      "nosotros": "hubiéramos comunicado",
+      "vosotros": "hubierais comunicado",
+      "uds": "hubieran comunicado"
+    },
+    "imperfectoAlt": {
+      "yo": "comunicase",
+      "tu": "comunicases",
+      "ud": "comunicase",
+      "nosotros": "comunicásemos",
+      "vosotros": "comunicaseis",
+      "uds": "comunicasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese comunicado",
+      "tu": "hubieses comunicado",
+      "ud": "hubiese comunicado",
+      "nosotros": "hubiésemos comunicado",
+      "vosotros": "hubieseis comunicado",
+      "uds": "hubiesen comunicado"
+    }
+  },
+  "afirmativo": {
+    "tu": "comunica",
+    "vosotros": "comunicad",
+    "ud": "comunique",
+    "uds": "comuniquen"
+  },
+  "negativo": {
+    "tu": "no comuniques",
+    "vosotros": "no comuniquéis",
+    "ud": "no comunique",
+    "uds": "no comuniquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e. Note: To express to communicate as an intransitive verb (without a direct object), the reflexive form comunicarse is normally used.",
+    "infinitivo": "to communicate, transmit, tell, pass on",
+    "gerundio": "communicating",
+    "participioPasado": "communicated",
+    "indicativo": {
+      "presente": "I communicate, am communicating",
+      "futuro": "I will communicate",
+      "imperfecto": "I was communicating, used to communicate, communicated",
+      "preterito": "I communicated",
+      "condicional": "I would communicate",
+      "presentePerfecto": "I have communicated",
+      "futuroPerfecto": "I will have communicated",
+      "pluscuamperfecto": "I had communicated",
+      "preteritoAnterior": "I had communicated",
+      "condicionalPerfecto": "I would have communicated"
+    },
+    "subjuntivo": {
+      "presente": "I communicate, am communicating",
+      "imperfecto": "I communicated, was communicating",
+      "futuro": "I will communicate",
+      "presentePerfecto": "I have communicated, communicated",
+      "futuroPerfecto": "I will have communicated",
+      "pluscuamperfecto": "I had communicated"
+    },
+    "afirmativo": "communicate!",
+    "negativo": "Don't communicate!"
+  },
+  "attribution": "Fred Jehle"
+}

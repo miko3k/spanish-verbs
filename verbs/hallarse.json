@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "hallarse",
+  "gerundio": "hallándose",
+  "participioPasado": "hallado",
+  "indicativo": {
+    "presente": {
+      "yo": "me hallo",
+      "tu": "te hallas",
+      "ud": "se halla",
+      "nosotros": "nos hallamos",
+      "vosotros": "os halláis",
+      "uds": "se hallan"
+    },
+    "futuro": {
+      "yo": "me hallaré",
+      "tu": "te hallarás",
+      "ud": "se hallará",
+      "nosotros": "nos hallaremos",
+      "vosotros": "os hallaréis",
+      "uds": "se hallarán"
+    },
+    "imperfecto": {
+      "yo": "me hallaba",
+      "tu": "te hallabas",
+      "ud": "se hallaba",
+      "nosotros": "nos hallábamos",
+      "vosotros": "os hallabais",
+      "uds": "se hallaban"
+    },
+    "preterito": {
+      "yo": "me hallé",
+      "tu": "te hallaste",
+      "ud": "se halló",
+      "nosotros": "nos hallamos",
+      "vosotros": "os hallasteis",
+      "uds": "se hallaron"
+    },
+    "condicional": {
+      "yo": "me hallaría",
+      "tu": "te hallarías",
+      "ud": "se hallaría",
+      "nosotros": "nos hallaríamos",
+      "vosotros": "os hallaríais",
+      "uds": "se hallarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he hallado",
+      "tu": "te has hallado",
+      "ud": "se ha hallado",
+      "nosotros": "nos hemos hallado",
+      "vosotros": "os habéis hallado",
+      "uds": "se han hallado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré hallado",
+      "tu": "te habrás hallado",
+      "ud": "se habrá hallado",
+      "nosotros": "nos habremos hallado",
+      "vosotros": "os habréis hallado",
+      "uds": "se habrán hallado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había hallado",
+      "tu": "te habías hallado",
+      "ud": "se había hallado",
+      "nosotros": "nos habíamos hallado",
+      "vosotros": "os habíais hallado",
+      "uds": "se habían hallado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube hallado",
+      "tu": "te hubiste hallado",
+      "ud": "se hubo hallado",
+      "nosotros": "nos hubimos hallado",
+      "vosotros": "os hubisteis hallado",
+      "uds": "se hubieron hallado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría hallado",
+      "tu": "te habrías hallado",
+      "ud": "se habría hallado",
+      "nosotros": "nos habríamos hallado",
+      "vosotros": "os habríais hallado",
+      "uds": "se habrían hallado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me halle",
+      "tu": "te halles",
+      "ud": "se halle",
+      "nosotros": "nos hallemos",
+      "vosotros": "os halléis",
+      "uds": "se hallen"
+    },
+    "imperfecto": {
+      "yo": "me hallara",
+      "tu": "te hallaras",
+      "ud": "se hallara",
+      "nosotros": "nos halláramos",
+      "vosotros": "os hallarais",
+      "uds": "se hallaran"
+    },
+    "futuro": {
+      "yo": "me hallare",
+      "tu": "te hallares",
+      "ud": "se hallare",
+      "nosotros": "nos halláremos",
+      "vosotros": "os hallareis",
+      "uds": "se hallaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya hallado",
+      "tu": "te hayas hallado",
+      "ud": "se haya hallado",
+      "nosotros": "nos hayamos hallado",
+      "vosotros": "os hayáis hallado",
+      "uds": "se hayan hallado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere hallado",
+      "tu": "te hubieres hallado",
+      "ud": "se hubiere hallado",
+      "nosotros": "nos hubiéremos hallado",
+      "vosotros": "os hubiereis hallado",
+      "uds": "se hubieren hallado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera hallado",
+      "tu": "te hubieras hallado",
+      "ud": "se hubiera hallado",
+      "nosotros": "nos hubiéramos hallado",
+      "vosotros": "os hubierais hallado",
+      "uds": "se hubieran hallado"
+    },
+    "imperfectoAlt": {
+      "yo": "me hallase",
+      "tu": "te hallases",
+      "ud": "se hallase",
+      "nosotros": "nos hallásemos",
+      "vosotros": "os hallaseis",
+      "uds": "se hallasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese hallado",
+      "tu": "te hubieses hallado",
+      "ud": "se hubiese hallado",
+      "nosotros": "nos hubiésemos hallado",
+      "vosotros": "os hubieseis hallado",
+      "uds": "se hubiesen hallado"
+    }
+  },
+  "afirmativo": {
+    "tu": "hállate",
+    "vosotros": "hallaos",
+    "ud": "hállese",
+    "uds": "hállense"
+  },
+  "negativo": {
+    "tu": "no te halles",
+    "vosotros": "no os halléis",
+    "ud": "no se halle",
+    "uds": "no se hallen"
+  },
+  "english": {
+    "note": "Note: The nonreflexive form hallar means to find. This reflexive form hallarse literally means to find oneself, and is used as a synonym for estar: to be located or found in a place or state or situation.",
+    "infinitivo": "to be, to find oneself; to be located, found",
+    "gerundio": "being",
+    "participioPasado": "been, found",
+    "indicativo": {
+      "presente": "I am, am being",
+      "futuro": "I will be",
+      "imperfecto": "I was being, used to be, was",
+      "preterito": "I was",
+      "condicional": "I would be",
+      "presentePerfecto": "I have been",
+      "futuroPerfecto": "I will have been",
+      "pluscuamperfecto": "I had been",
+      "preteritoAnterior": "I had been",
+      "condicionalPerfecto": "I would have been"
+    },
+    "subjuntivo": {
+      "presente": "I am, am being",
+      "imperfecto": "I was, was being",
+      "futuro": "I will be",
+      "presentePerfecto": "I have been, was",
+      "futuroPerfecto": "I will have been",
+      "pluscuamperfecto": "I had been"
+    },
+    "afirmativo": "Be!",
+    "negativo": "Don't be!"
+  },
+  "attribution": "Fred Jehle"
+}

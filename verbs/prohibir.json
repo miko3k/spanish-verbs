@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "prohibir",
+  "gerundio": "prohibiendo",
+  "participioPasado": "prohibido",
+  "indicativo": {
+    "presente": {
+      "yo": "prohíbo",
+      "tu": "prohíbes",
+      "ud": "prohíbe",
+      "nosotros": "prohibimos",
+      "vosotros": "prohibís",
+      "uds": "prohíben"
+    },
+    "futuro": {
+      "yo": "prohibiré",
+      "tu": "prohibirás",
+      "ud": "prohibirá",
+      "nosotros": "prohibiremos",
+      "vosotros": "prohibiréis",
+      "uds": "prohibirán"
+    },
+    "imperfecto": {
+      "yo": "prohibía",
+      "tu": "prohibías",
+      "ud": "prohibía",
+      "nosotros": "prohibíamos",
+      "vosotros": "prohibíais",
+      "uds": "prohibían"
+    },
+    "preterito": {
+      "yo": "prohibí",
+      "tu": "prohibiste",
+      "ud": "prohibió",
+      "nosotros": "prohibimos",
+      "vosotros": "prohibisteis",
+      "uds": "prohibieron"
+    },
+    "condicional": {
+      "yo": "prohibiría",
+      "tu": "prohibirías",
+      "ud": "prohibiría",
+      "nosotros": "prohibiríamos",
+      "vosotros": "prohibiríais",
+      "uds": "prohibirían"
+    },
+    "presentePerfecto": {
+      "yo": "he prohibido",
+      "tu": "has prohibido",
+      "ud": "ha prohibido",
+      "nosotros": "hemos prohibido",
+      "vosotros": "habéis prohibido",
+      "uds": "han prohibido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré prohibido",
+      "tu": "habrás prohibido",
+      "ud": "habrá prohibido",
+      "nosotros": "habremos prohibido",
+      "vosotros": "habréis prohibido",
+      "uds": "habrán prohibido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había prohibido",
+      "tu": "habías prohibido",
+      "ud": "había prohibido",
+      "nosotros": "habíamos prohibido",
+      "vosotros": "habíais prohibido",
+      "uds": "habían prohibido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube prohibido",
+      "tu": "hubiste prohibido",
+      "ud": "hubo prohibido",
+      "nosotros": "hubimos prohibido",
+      "vosotros": "hubisteis prohibido",
+      "uds": "hubieron prohibido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría prohibido",
+      "tu": "habrías prohibido",
+      "ud": "habría prohibido",
+      "nosotros": "habríamos prohibido",
+      "vosotros": "habríais prohibido",
+      "uds": "habrían prohibido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "prohíba",
+      "tu": "prohíbas",
+      "ud": "prohíba",
+      "nosotros": "prohibamos",
+      "vosotros": "prohibáis",
+      "uds": "prohíban"
+    },
+    "imperfecto": {
+      "yo": "prohibiera",
+      "tu": "prohibieras",
+      "ud": "prohibiera",
+      "nosotros": "prohibiéramos",
+      "vosotros": "prohibierais",
+      "uds": "prohibieran"
+    },
+    "futuro": {
+      "yo": "prohibiere",
+      "tu": "prohibieres",
+      "ud": "prohibiere",
+      "nosotros": "prohibiéremos",
+      "vosotros": "prohibiereis",
+      "uds": "prohibieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya prohibido",
+      "tu": "hayas prohibido",
+      "ud": "haya prohibido",
+      "nosotros": "hayamos prohibido",
+      "vosotros": "hayáis prohibido",
+      "uds": "hayan prohibido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere prohibido",
+      "tu": "hubieres prohibido",
+      "ud": "hubiere prohibido",
+      "nosotros": "hubiéremos prohibido",
+      "vosotros": "hubiereis prohibido",
+      "uds": "hubieren prohibido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera prohibido",
+      "tu": "hubieras prohibido",
+      "ud": "hubiera prohibido",
+      "nosotros": "hubiéramos prohibido",
+      "vosotros": "hubierais prohibido",
+      "uds": "hubieran prohibido"
+    },
+    "imperfectoAlt": {
+      "yo": "prohibiese",
+      "tu": "prohibieses",
+      "ud": "prohibiese",
+      "nosotros": "prohibiésemos",
+      "vosotros": "prohibieseis",
+      "uds": "prohibiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese prohibido",
+      "tu": "hubieses prohibido",
+      "ud": "hubiese prohibido",
+      "nosotros": "hubiésemos prohibido",
+      "vosotros": "hubieseis prohibido",
+      "uds": "hubiesen prohibido"
+    }
+  },
+  "afirmativo": {
+    "tu": "prohíbe",
+    "vosotros": "prohibid",
+    "ud": "prohíba",
+    "uds": "prohíban"
+  },
+  "negativo": {
+    "tu": "no prohíbas",
+    "vosotros": "no prohibáis",
+    "ud": "no prohíba",
+    "uds": "no prohíban"
+  },
+  "english": {
+    "note": "Cambio: i > í cuando esta vocal radical se acentúa.",
+    "infinitivo": "to prohibit, forbid",
+    "gerundio": "prohibiting",
+    "participioPasado": "prohibited",
+    "indicativo": {
+      "presente": "I prohibit, am prohibiting",
+      "futuro": "I will prohibit",
+      "imperfecto": "I was prohibiting, used to prohibit, prohibited",
+      "preterito": "I prohibited",
+      "condicional": "I would prohibit",
+      "presentePerfecto": "I have prohibited",
+      "futuroPerfecto": "I will have prohibited",
+      "pluscuamperfecto": "I had prohibited",
+      "preteritoAnterior": "I had prohibited",
+      "condicionalPerfecto": "I would have prohibited"
+    },
+    "subjuntivo": {
+      "presente": "I prohibit, am prohibiting",
+      "imperfecto": "I prohibited, was prohibiting",
+      "futuro": "I will prohibit",
+      "presentePerfecto": "I have prohibited, prohibited",
+      "futuroPerfecto": "I will have prohibited",
+      "pluscuamperfecto": "I had prohibited"
+    },
+    "afirmativo": "Prohibit!",
+    "negativo": "Don't prohibit!"
+  },
+  "attribution": "Fred Jehle"
+}

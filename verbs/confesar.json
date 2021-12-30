@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "confesar",
+  "gerundio": "confesando",
+  "participioPasado": "confesado",
+  "indicativo": {
+    "presente": {
+      "yo": "confieso",
+      "tu": "confiesas",
+      "ud": "confiesa",
+      "nosotros": "confesamos",
+      "vosotros": "confesáis",
+      "uds": "confiesan"
+    },
+    "futuro": {
+      "yo": "confesaré",
+      "tu": "confesarás",
+      "ud": "confesará",
+      "nosotros": "confesaremos",
+      "vosotros": "confesaréis",
+      "uds": "confesarán"
+    },
+    "imperfecto": {
+      "yo": "confesaba",
+      "tu": "confesabas",
+      "ud": "confesaba",
+      "nosotros": "confesábamos",
+      "vosotros": "confesabais",
+      "uds": "confesaban"
+    },
+    "preterito": {
+      "yo": "confesé",
+      "tu": "confesaste",
+      "ud": "confesó",
+      "nosotros": "confesamos",
+      "vosotros": "confesasteis",
+      "uds": "confesaron"
+    },
+    "condicional": {
+      "yo": "confesaría",
+      "tu": "confesarías",
+      "ud": "confesaría",
+      "nosotros": "confesaríamos",
+      "vosotros": "confesaríais",
+      "uds": "confesarían"
+    },
+    "presentePerfecto": {
+      "yo": "he confesado",
+      "tu": "has confesado",
+      "ud": "ha confesado",
+      "nosotros": "hemos confesado",
+      "vosotros": "habéis confesado",
+      "uds": "han confesado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré confesado",
+      "tu": "habrás confesado",
+      "ud": "habrá confesado",
+      "nosotros": "habremos confesado",
+      "vosotros": "habréis confesado",
+      "uds": "habrán confesado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había confesado",
+      "tu": "habías confesado",
+      "ud": "había confesado",
+      "nosotros": "habíamos confesado",
+      "vosotros": "habíais confesado",
+      "uds": "habían confesado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube confesado",
+      "tu": "hubiste confesado",
+      "ud": "hubo confesado",
+      "nosotros": "hubimos confesado",
+      "vosotros": "hubisteis confesado",
+      "uds": "hubieron confesado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría confesado",
+      "tu": "habrías confesado",
+      "ud": "habría confesado",
+      "nosotros": "habríamos confesado",
+      "vosotros": "habríais confesado",
+      "uds": "habrían confesado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "confiese",
+      "tu": "confieses",
+      "ud": "confiese",
+      "nosotros": "confesemos",
+      "vosotros": "confeséis",
+      "uds": "confiesen"
+    },
+    "imperfecto": {
+      "yo": "confesara",
+      "tu": "confesaras",
+      "ud": "confesara",
+      "nosotros": "confesáramos",
+      "vosotros": "confesarais",
+      "uds": "confesaran"
+    },
+    "futuro": {
+      "yo": "confesare",
+      "tu": "confesares",
+      "ud": "confesare",
+      "nosotros": "confesáremos",
+      "vosotros": "confesareis",
+      "uds": "confesaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya confesado",
+      "tu": "hayas confesado",
+      "ud": "haya confesado",
+      "nosotros": "hayamos confesado",
+      "vosotros": "hayáis confesado",
+      "uds": "hayan confesado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere confesado",
+      "tu": "hubieres confesado",
+      "ud": "hubiere confesado",
+      "nosotros": "hubiéremos confesado",
+      "vosotros": "hubiereis confesado",
+      "uds": "hubieren confesado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera confesado",
+      "tu": "hubieras confesado",
+      "ud": "hubiera confesado",
+      "nosotros": "hubiéramos confesado",
+      "vosotros": "hubierais confesado",
+      "uds": "hubieran confesado"
+    },
+    "imperfectoAlt": {
+      "yo": "confesase",
+      "tu": "confesases",
+      "ud": "confesase",
+      "nosotros": "confesásemos",
+      "vosotros": "confesaseis",
+      "uds": "confesasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese confesado",
+      "tu": "hubieses confesado",
+      "ud": "hubiese confesado",
+      "nosotros": "hubiésemos confesado",
+      "vosotros": "hubieseis confesado",
+      "uds": "hubiesen confesado"
+    }
+  },
+  "afirmativo": {
+    "tu": "confiesa",
+    "vosotros": "confesad",
+    "ud": "confiese",
+    "uds": "confiesen"
+  },
+  "negativo": {
+    "tu": "no confieses",
+    "vosotros": "no confeséis",
+    "ud": "no confiese",
+    "uds": "no confiesen"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie.",
+    "infinitivo": "to confess",
+    "gerundio": "confessing",
+    "participioPasado": "confessed",
+    "indicativo": {
+      "presente": "I confess, am confessing",
+      "futuro": "I will confess",
+      "imperfecto": "I was confessing, used to confess, confessed",
+      "preterito": "I confessed",
+      "condicional": "I would confess",
+      "presentePerfecto": "I have confessed",
+      "futuroPerfecto": "I will have confessed",
+      "pluscuamperfecto": "I had confessed",
+      "preteritoAnterior": "I had confessed",
+      "condicionalPerfecto": "I would have confessed"
+    },
+    "subjuntivo": {
+      "presente": "I confess, am confessing",
+      "imperfecto": "I confessed, was confessing",
+      "futuro": "I will confess",
+      "presentePerfecto": "I have confessed, confessed",
+      "futuroPerfecto": "I will have confessed",
+      "pluscuamperfecto": "I had confessed"
+    },
+    "afirmativo": "Confess!",
+    "negativo": "Don't confess!"
+  },
+  "attribution": "Fred Jehle"
+}

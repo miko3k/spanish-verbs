@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "comer",
+  "gerundio": "comiendo",
+  "participioPasado": "comido",
+  "indicativo": {
+    "presente": {
+      "yo": "como",
+      "tu": "comes",
+      "ud": "come",
+      "nosotros": "comemos",
+      "vosotros": "coméis",
+      "uds": "comen"
+    },
+    "futuro": {
+      "yo": "comeré",
+      "tu": "comerás",
+      "ud": "comerá",
+      "nosotros": "comeremos",
+      "vosotros": "comeréis",
+      "uds": "comerán"
+    },
+    "imperfecto": {
+      "yo": "comía",
+      "tu": "comías",
+      "ud": "comía",
+      "nosotros": "comíamos",
+      "vosotros": "comíais",
+      "uds": "comían"
+    },
+    "preterito": {
+      "yo": "comí",
+      "tu": "comiste",
+      "ud": "comió",
+      "nosotros": "comimos",
+      "vosotros": "comisteis",
+      "uds": "comieron"
+    },
+    "condicional": {
+      "yo": "comería",
+      "tu": "comerías",
+      "ud": "comería",
+      "nosotros": "comeríamos",
+      "vosotros": "comeríais",
+      "uds": "comerían"
+    },
+    "presentePerfecto": {
+      "yo": "he comido",
+      "tu": "has comido",
+      "ud": "ha comido",
+      "nosotros": "hemos comido",
+      "vosotros": "habéis comido",
+      "uds": "han comido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré comido",
+      "tu": "habrás comido",
+      "ud": "habrá comido",
+      "nosotros": "habremos comido",
+      "vosotros": "habréis comido",
+      "uds": "habrán comido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había comido",
+      "tu": "habías comido",
+      "ud": "había comido",
+      "nosotros": "habíamos comido",
+      "vosotros": "habíais comido",
+      "uds": "habían comido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube comido",
+      "tu": "hubiste comido",
+      "ud": "hubo comido",
+      "nosotros": "hubimos comido",
+      "vosotros": "hubisteis comido",
+      "uds": "hubieron comido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría comido",
+      "tu": "habrías comido",
+      "ud": "habría comido",
+      "nosotros": "habríamos comido",
+      "vosotros": "habríais comido",
+      "uds": "habrían comido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "coma",
+      "tu": "comas",
+      "ud": "coma",
+      "nosotros": "comamos",
+      "vosotros": "comáis",
+      "uds": "coman"
+    },
+    "imperfecto": {
+      "yo": "comiera",
+      "tu": "comieras",
+      "ud": "comiera",
+      "nosotros": "comiéramos",
+      "vosotros": "comierais",
+      "uds": "comieran"
+    },
+    "futuro": {
+      "yo": "comiere",
+      "tu": "comieres",
+      "ud": "comiere",
+      "nosotros": "comiéremos",
+      "vosotros": "comiereis",
+      "uds": "comieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya comido",
+      "tu": "hayas comido",
+      "ud": "haya comido",
+      "nosotros": "hayamos comido",
+      "vosotros": "hayáis comido",
+      "uds": "hayan comido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere comido",
+      "tu": "hubieres comido",
+      "ud": "hubiere comido",
+      "nosotros": "hubiéremos comido",
+      "vosotros": "hubiereis comido",
+      "uds": "hubieren comido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera comido",
+      "tu": "hubieras comido",
+      "ud": "hubiera comido",
+      "nosotros": "hubiéramos comido",
+      "vosotros": "hubierais comido",
+      "uds": "hubieran comido"
+    },
+    "imperfectoAlt": {
+      "yo": "comiese",
+      "tu": "comieses",
+      "ud": "comiese",
+      "nosotros": "comiésemos",
+      "vosotros": "comieseis",
+      "uds": "comiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese comido",
+      "tu": "hubieses comido",
+      "ud": "hubiese comido",
+      "nosotros": "hubiésemos comido",
+      "vosotros": "hubieseis comido",
+      "uds": "hubiesen comido"
+    }
+  },
+  "afirmativo": {
+    "tu": "come",
+    "vosotros": "comed",
+    "ud": "coma",
+    "uds": "coman"
+  },
+  "negativo": {
+    "tu": "no comas",
+    "vosotros": "no comáis",
+    "ud": "no coma",
+    "uds": "no coman"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to eat",
+    "gerundio": "eating",
+    "participioPasado": "eaten",
+    "indicativo": {
+      "presente": "I eat, am eating",
+      "futuro": "I will eat",
+      "imperfecto": "I was eating, used to eat, ate",
+      "preterito": "I ate",
+      "condicional": "I would eat",
+      "presentePerfecto": "I have eaten",
+      "futuroPerfecto": "I will have eaten",
+      "pluscuamperfecto": "I had eaten",
+      "preteritoAnterior": "I had eaten",
+      "condicionalPerfecto": "I would have eaten"
+    },
+    "subjuntivo": {
+      "presente": "I eat, am eating",
+      "imperfecto": "I ate, was eating",
+      "futuro": "I will eat",
+      "presentePerfecto": "I have eaten, ate",
+      "futuroPerfecto": "I will have eaten",
+      "pluscuamperfecto": "I had eaten"
+    },
+    "afirmativo": "Eat!",
+    "negativo": "Don't eat!"
+  },
+  "attribution": "Fred Jehle"
+}

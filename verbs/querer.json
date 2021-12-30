@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "querer",
+  "gerundio": "queriendo",
+  "participioPasado": "querido",
+  "indicativo": {
+    "presente": {
+      "yo": "quiero",
+      "tu": "quieres",
+      "ud": "quiere",
+      "nosotros": "queremos",
+      "vosotros": "queréis",
+      "uds": "quieren"
+    },
+    "futuro": {
+      "yo": "querré",
+      "tu": "querrás",
+      "ud": "querrá",
+      "nosotros": "querremos",
+      "vosotros": "querréis",
+      "uds": "querrán"
+    },
+    "imperfecto": {
+      "yo": "quería",
+      "tu": "querías",
+      "ud": "quería",
+      "nosotros": "queríamos",
+      "vosotros": "queríais",
+      "uds": "querían"
+    },
+    "preterito": {
+      "yo": "quise",
+      "tu": "quisiste",
+      "ud": "quiso",
+      "nosotros": "quisimos",
+      "vosotros": "quisisteis",
+      "uds": "quisieron"
+    },
+    "condicional": {
+      "yo": "querría",
+      "tu": "querrías",
+      "ud": "querría",
+      "nosotros": "querríamos",
+      "vosotros": "querríais",
+      "uds": "querrían"
+    },
+    "presentePerfecto": {
+      "yo": "he querido",
+      "tu": "has querido",
+      "ud": "ha querido",
+      "nosotros": "hemos querido",
+      "vosotros": "habéis querido",
+      "uds": "han querido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré querido",
+      "tu": "habrás querido",
+      "ud": "habrá querido",
+      "nosotros": "habremos querido",
+      "vosotros": "habréis querido",
+      "uds": "habrán querido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había querido",
+      "tu": "habías querido",
+      "ud": "había querido",
+      "nosotros": "habíamos querido",
+      "vosotros": "habíais querido",
+      "uds": "habían querido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube querido",
+      "tu": "hubiste querido",
+      "ud": "hubo querido",
+      "nosotros": "hubimos querido",
+      "vosotros": "hubisteis querido",
+      "uds": "hubieron querido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría querido",
+      "tu": "habrías querido",
+      "ud": "habría querido",
+      "nosotros": "habríamos querido",
+      "vosotros": "habríais querido",
+      "uds": "habrían querido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "quiera",
+      "tu": "quieras",
+      "ud": "quiera",
+      "nosotros": "queramos",
+      "vosotros": "queráis",
+      "uds": "quieran"
+    },
+    "imperfecto": {
+      "yo": "quisiera",
+      "tu": "quisieras",
+      "ud": "quisiera",
+      "nosotros": "quisiéramos",
+      "vosotros": "quisierais",
+      "uds": "quisieran"
+    },
+    "futuro": {
+      "yo": "quisiere",
+      "tu": "quisieres",
+      "ud": "quisiere",
+      "nosotros": "quisiéremos",
+      "vosotros": "quisiereis",
+      "uds": "quisieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya querido",
+      "tu": "hayas querido",
+      "ud": "haya querido",
+      "nosotros": "hayamos querido",
+      "vosotros": "hayáis querido",
+      "uds": "hayan querido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere querido",
+      "tu": "hubieres querido",
+      "ud": "hubiere querido",
+      "nosotros": "hubiéremos querido",
+      "vosotros": "hubiereis querido",
+      "uds": "hubieren querido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera querido",
+      "tu": "hubieras querido",
+      "ud": "hubiera querido",
+      "nosotros": "hubiéramos querido",
+      "vosotros": "hubierais querido",
+      "uds": "hubieran querido"
+    },
+    "imperfectoAlt": {
+      "yo": "quisiese",
+      "tu": "quisieses",
+      "ud": "quisiese",
+      "nosotros": "quisiésemos",
+      "vosotros": "quisieseis",
+      "uds": "quisiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese querido",
+      "tu": "hubieses querido",
+      "ud": "hubiese querido",
+      "nosotros": "hubiésemos querido",
+      "vosotros": "hubieseis querido",
+      "uds": "hubiesen querido"
+    }
+  },
+  "afirmativo": {
+    "tu": "quiere",
+    "vosotros": "quered",
+    "ud": "quiera",
+    "uds": "quieran"
+  },
+  "negativo": {
+    "tu": "no quieras",
+    "vosotros": "no queráis",
+    "ud": "no quiera",
+    "uds": "no quieran"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa. Radical fuerte en el pretérito: quis-. Radical irregular en el futuro y condicional: querr-.",
+    "infinitivo": "to want, love",
+    "gerundio": "wanting",
+    "participioPasado": "wanted",
+    "indicativo": {
+      "presente": "I want, am wanting",
+      "futuro": "I will want",
+      "imperfecto": "I was wanting, used to want, wanted",
+      "preterito": "I wanted",
+      "condicional": "I would want",
+      "presentePerfecto": "I have wanted",
+      "futuroPerfecto": "I will have wanted",
+      "pluscuamperfecto": "I had wanted",
+      "preteritoAnterior": "I had wanted",
+      "condicionalPerfecto": "I would have wanted"
+    },
+    "subjuntivo": {
+      "presente": "I want, am wanting",
+      "imperfecto": "I wanted, was wanting",
+      "futuro": "I will want",
+      "presentePerfecto": "I have wanted, wanted",
+      "futuroPerfecto": "I will have wanted",
+      "pluscuamperfecto": "I had wanted"
+    },
+    "afirmativo": "Want!",
+    "negativo": "Don't want!"
+  },
+  "attribution": "Fred Jehle"
+}

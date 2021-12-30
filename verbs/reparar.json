@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "reparar",
+  "gerundio": "reparando",
+  "participioPasado": "reparado",
+  "indicativo": {
+    "presente": {
+      "yo": "reparo",
+      "tu": "reparas",
+      "ud": "repara",
+      "nosotros": "reparamos",
+      "vosotros": "reparáis",
+      "uds": "reparan"
+    },
+    "futuro": {
+      "yo": "repararé",
+      "tu": "repararás",
+      "ud": "reparará",
+      "nosotros": "repararemos",
+      "vosotros": "repararéis",
+      "uds": "repararán"
+    },
+    "imperfecto": {
+      "yo": "reparaba",
+      "tu": "reparabas",
+      "ud": "reparaba",
+      "nosotros": "reparábamos",
+      "vosotros": "reparabais",
+      "uds": "reparaban"
+    },
+    "preterito": {
+      "yo": "reparé",
+      "tu": "reparaste",
+      "ud": "reparó",
+      "nosotros": "reparamos",
+      "vosotros": "reparasteis",
+      "uds": "repararon"
+    },
+    "condicional": {
+      "yo": "repararía",
+      "tu": "repararías",
+      "ud": "repararía",
+      "nosotros": "repararíamos",
+      "vosotros": "repararíais",
+      "uds": "repararían"
+    },
+    "presentePerfecto": {
+      "yo": "he reparado",
+      "tu": "has reparado",
+      "ud": "ha reparado",
+      "nosotros": "hemos reparado",
+      "vosotros": "habéis reparado",
+      "uds": "han reparado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré reparado",
+      "tu": "habrás reparado",
+      "ud": "habrá reparado",
+      "nosotros": "habremos reparado",
+      "vosotros": "habréis reparado",
+      "uds": "habrán reparado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había reparado",
+      "tu": "habías reparado",
+      "ud": "había reparado",
+      "nosotros": "habíamos reparado",
+      "vosotros": "habíais reparado",
+      "uds": "habían reparado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube reparado",
+      "tu": "hubiste reparado",
+      "ud": "hubo reparado",
+      "nosotros": "hubimos reparado",
+      "vosotros": "hubisteis reparado",
+      "uds": "hubieron reparado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría reparado",
+      "tu": "habrías reparado",
+      "ud": "habría reparado",
+      "nosotros": "habríamos reparado",
+      "vosotros": "habríais reparado",
+      "uds": "habrían reparado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "repare",
+      "tu": "repares",
+      "ud": "repare",
+      "nosotros": "reparemos",
+      "vosotros": "reparéis",
+      "uds": "reparen"
+    },
+    "imperfecto": {
+      "yo": "reparara",
+      "tu": "repararas",
+      "ud": "reparara",
+      "nosotros": "reparáramos",
+      "vosotros": "repararais",
+      "uds": "repararan"
+    },
+    "futuro": {
+      "yo": "reparare",
+      "tu": "reparares",
+      "ud": "reparare",
+      "nosotros": "reparáremos",
+      "vosotros": "reparareis",
+      "uds": "repararen"
+    },
+    "presentePerfecto": {
+      "yo": "haya reparado",
+      "tu": "hayas reparado",
+      "ud": "haya reparado",
+      "nosotros": "hayamos reparado",
+      "vosotros": "hayáis reparado",
+      "uds": "hayan reparado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere reparado",
+      "tu": "hubieres reparado",
+      "ud": "hubiere reparado",
+      "nosotros": "hubiéremos reparado",
+      "vosotros": "hubiereis reparado",
+      "uds": "hubieren reparado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera reparado",
+      "tu": "hubieras reparado",
+      "ud": "hubiera reparado",
+      "nosotros": "hubiéramos reparado",
+      "vosotros": "hubierais reparado",
+      "uds": "hubieran reparado"
+    },
+    "imperfectoAlt": {
+      "yo": "reparase",
+      "tu": "reparases",
+      "ud": "reparase",
+      "nosotros": "reparásemos",
+      "vosotros": "reparaseis",
+      "uds": "reparasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese reparado",
+      "tu": "hubieses reparado",
+      "ud": "hubiese reparado",
+      "nosotros": "hubiésemos reparado",
+      "vosotros": "hubieseis reparado",
+      "uds": "hubiesen reparado"
+    }
+  },
+  "afirmativo": {
+    "tu": "repara",
+    "vosotros": "reparad",
+    "ud": "repare",
+    "uds": "reparen"
+  },
+  "negativo": {
+    "tu": "no repares",
+    "vosotros": "no reparéis",
+    "ud": "no repare",
+    "uds": "no reparen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to repair, mend, restore",
+    "gerundio": "repairing",
+    "participioPasado": "repaired",
+    "indicativo": {
+      "presente": "I repair, am repairing",
+      "futuro": "I will repair",
+      "imperfecto": "I was repairing, used to repair, repaired",
+      "preterito": "I repaired",
+      "condicional": "I would repair",
+      "presentePerfecto": "I have repaired",
+      "futuroPerfecto": "I will have repaired",
+      "pluscuamperfecto": "I had repaired",
+      "preteritoAnterior": "I had repaired",
+      "condicionalPerfecto": "I would have repaired"
+    },
+    "subjuntivo": {
+      "presente": "I repair, am repairing",
+      "imperfecto": "I repaired, was repairing",
+      "futuro": "I will repair",
+      "presentePerfecto": "I have repaired, repaired",
+      "futuroPerfecto": "I will have repaired",
+      "pluscuamperfecto": "I had repaired"
+    },
+    "afirmativo": "Repair!",
+    "negativo": "Don't repair!"
+  },
+  "attribution": "Fred Jehle"
+}

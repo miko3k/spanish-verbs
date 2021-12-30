@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "perseguir",
+  "gerundio": "persiguiendo",
+  "participioPasado": "perseguido",
+  "indicativo": {
+    "presente": {
+      "yo": "persigo",
+      "tu": "persigues",
+      "ud": "persigue",
+      "nosotros": "perseguimos",
+      "vosotros": "perseguís",
+      "uds": "persiguen"
+    },
+    "futuro": {
+      "yo": "perseguiré",
+      "tu": "perseguirás",
+      "ud": "perseguirá",
+      "nosotros": "perseguiremos",
+      "vosotros": "perseguiréis",
+      "uds": "perseguirán"
+    },
+    "imperfecto": {
+      "yo": "perseguía",
+      "tu": "perseguías",
+      "ud": "perseguía",
+      "nosotros": "perseguíamos",
+      "vosotros": "perseguíais",
+      "uds": "perseguían"
+    },
+    "preterito": {
+      "yo": "perseguí",
+      "tu": "perseguiste",
+      "ud": "persiguió",
+      "nosotros": "perseguimos",
+      "vosotros": "perseguisteis",
+      "uds": "persiguieron"
+    },
+    "condicional": {
+      "yo": "perseguiría",
+      "tu": "perseguirías",
+      "ud": "perseguiría",
+      "nosotros": "perseguiríamos",
+      "vosotros": "perseguiríais",
+      "uds": "perseguirían"
+    },
+    "presentePerfecto": {
+      "yo": "he perseguido",
+      "tu": "has perseguido",
+      "ud": "ha perseguido",
+      "nosotros": "hemos perseguido",
+      "vosotros": "habéis perseguido",
+      "uds": "han perseguido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré perseguido",
+      "tu": "habrás perseguido",
+      "ud": "habrá perseguido",
+      "nosotros": "habremos perseguido",
+      "vosotros": "habréis perseguido",
+      "uds": "habrán perseguido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había perseguido",
+      "tu": "habías perseguido",
+      "ud": "había perseguido",
+      "nosotros": "habíamos perseguido",
+      "vosotros": "habíais perseguido",
+      "uds": "habían perseguido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube perseguido",
+      "tu": "hubiste perseguido",
+      "ud": "hubo perseguido",
+      "nosotros": "hubimos perseguido",
+      "vosotros": "hubisteis perseguido",
+      "uds": "hubieron perseguido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría perseguido",
+      "tu": "habrías perseguido",
+      "ud": "habría perseguido",
+      "nosotros": "habríamos perseguido",
+      "vosotros": "habríais perseguido",
+      "uds": "habrían perseguido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "persiga",
+      "tu": "persigas",
+      "ud": "persiga",
+      "nosotros": "persigamos",
+      "vosotros": "persigáis",
+      "uds": "persigan"
+    },
+    "imperfecto": {
+      "yo": "persiguiera",
+      "tu": "persiguieras",
+      "ud": "persiguiera",
+      "nosotros": "persiguiéramos",
+      "vosotros": "persiguierais",
+      "uds": "persiguieran"
+    },
+    "futuro": {
+      "yo": "persiguiere",
+      "tu": "persiguieres",
+      "ud": "persiguiere",
+      "nosotros": "persiguiéremos",
+      "vosotros": "persiguiereis",
+      "uds": "persiguieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya perseguido",
+      "tu": "hayas perseguido",
+      "ud": "haya perseguido",
+      "nosotros": "hayamos perseguido",
+      "vosotros": "hayáis perseguido",
+      "uds": "hayan perseguido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere perseguido",
+      "tu": "hubieres perseguido",
+      "ud": "hubiere perseguido",
+      "nosotros": "hubiéremos perseguido",
+      "vosotros": "hubiereis perseguido",
+      "uds": "hubieren perseguido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera perseguido",
+      "tu": "hubieras perseguido",
+      "ud": "hubiera perseguido",
+      "nosotros": "hubiéramos perseguido",
+      "vosotros": "hubierais perseguido",
+      "uds": "hubieran perseguido"
+    },
+    "imperfectoAlt": {
+      "yo": "persiguiese",
+      "tu": "persiguieses",
+      "ud": "persiguiese",
+      "nosotros": "persiguiésemos",
+      "vosotros": "persiguieseis",
+      "uds": "persiguiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese perseguido",
+      "tu": "hubieses perseguido",
+      "ud": "hubiese perseguido",
+      "nosotros": "hubiésemos perseguido",
+      "vosotros": "hubieseis perseguido",
+      "uds": "hubiesen perseguido"
+    }
+  },
+  "afirmativo": {
+    "tu": "persigue",
+    "vosotros": "perseguid",
+    "ud": "persiga",
+    "uds": "persigan"
+  },
+  "negativo": {
+    "tu": "no persigas",
+    "vosotros": "no persigáis",
+    "ud": "no persiga",
+    "uds": "no persigan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Cambio ortográfico: gu > g delante de o y a.",
+    "infinitivo": "to pursue, chase, hunt down",
+    "gerundio": "pursuing",
+    "participioPasado": "pursued",
+    "indicativo": {
+      "presente": "I pursue, am pursuing",
+      "futuro": "I will pursue",
+      "imperfecto": "I was pursuing, used to pursue, pursued",
+      "preterito": "I pursued",
+      "condicional": "I would pursue",
+      "presentePerfecto": "I have pursued",
+      "futuroPerfecto": "I will have pursued",
+      "pluscuamperfecto": "I had pursued",
+      "preteritoAnterior": "I had pursued",
+      "condicionalPerfecto": "I would have pursued"
+    },
+    "subjuntivo": {
+      "presente": "I pursue, am pursuing",
+      "imperfecto": "I pursued, was pursuing",
+      "futuro": "I will pursue",
+      "presentePerfecto": "I have pursued, pursued",
+      "futuroPerfecto": "I will have pursued",
+      "pluscuamperfecto": "I had pursued"
+    },
+    "afirmativo": "Pursue!",
+    "negativo": "Don't pursue!"
+  },
+  "attribution": "Fred Jehle"
+}

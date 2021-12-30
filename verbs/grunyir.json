@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "gruñir",
+  "gerundio": "gruñendo",
+  "participioPasado": "gruñido",
+  "indicativo": {
+    "presente": {
+      "yo": "gruño",
+      "tu": "gruñes",
+      "ud": "gruñe",
+      "nosotros": "gruñimos",
+      "vosotros": "gruñís",
+      "uds": "gruñen"
+    },
+    "futuro": {
+      "yo": "gruñiré",
+      "tu": "gruñirás",
+      "ud": "gruñirá",
+      "nosotros": "gruñiremos",
+      "vosotros": "gruñiréis",
+      "uds": "gruñirán"
+    },
+    "imperfecto": {
+      "yo": "gruñía",
+      "tu": "gruñías",
+      "ud": "gruñía",
+      "nosotros": "gruñíamos",
+      "vosotros": "gruñíais",
+      "uds": "gruñían"
+    },
+    "preterito": {
+      "yo": "gruñí",
+      "tu": "gruñiste",
+      "ud": "gruñó",
+      "nosotros": "gruñimos",
+      "vosotros": "gruñisteis",
+      "uds": "gruñeron"
+    },
+    "condicional": {
+      "yo": "gruñiría",
+      "tu": "gruñirías",
+      "ud": "gruñiría",
+      "nosotros": "gruñiríamos",
+      "vosotros": "gruñiríais",
+      "uds": "gruñirían"
+    },
+    "presentePerfecto": {
+      "yo": "he gruñido",
+      "tu": "has gruñido",
+      "ud": "ha gruñido",
+      "nosotros": "hemos gruñido",
+      "vosotros": "habéis gruñido",
+      "uds": "han gruñido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré gruñido",
+      "tu": "habrás gruñido",
+      "ud": "habrá gruñido",
+      "nosotros": "habremos gruñido",
+      "vosotros": "habréis gruñido",
+      "uds": "habrán gruñido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había gruñido",
+      "tu": "habías gruñido",
+      "ud": "había gruñido",
+      "nosotros": "habíamos gruñido",
+      "vosotros": "habíais gruñido",
+      "uds": "habían gruñido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube gruñido",
+      "tu": "hubiste gruñido",
+      "ud": "hubo gruñido",
+      "nosotros": "hubimos gruñido",
+      "vosotros": "hubisteis gruñido",
+      "uds": "hubieron gruñido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría gruñido",
+      "tu": "habrías gruñido",
+      "ud": "habría gruñido",
+      "nosotros": "habríamos gruñido",
+      "vosotros": "habríais gruñido",
+      "uds": "habrían gruñido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "gruña",
+      "tu": "gruñas",
+      "ud": "gruña",
+      "nosotros": "gruñamos",
+      "vosotros": "gruñáis",
+      "uds": "gruñan"
+    },
+    "imperfecto": {
+      "yo": "gruñera",
+      "tu": "gruñeras",
+      "ud": "gruñera",
+      "nosotros": "gruñéramos",
+      "vosotros": "gruñerais",
+      "uds": "gruñeran"
+    },
+    "futuro": {
+      "yo": "gruñere",
+      "tu": "gruñeres",
+      "ud": "gruñere",
+      "nosotros": "gruñéremos",
+      "vosotros": "gruñereis",
+      "uds": "gruñeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya gruñido",
+      "tu": "hayas gruñido",
+      "ud": "haya gruñido",
+      "nosotros": "hayamos gruñido",
+      "vosotros": "hayáis gruñido",
+      "uds": "hayan gruñido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere gruñido",
+      "tu": "hubieres gruñido",
+      "ud": "hubiere gruñido",
+      "nosotros": "hubiéremos gruñido",
+      "vosotros": "hubiereis gruñido",
+      "uds": "hubieren gruñido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera gruñido",
+      "tu": "hubieras gruñido",
+      "ud": "hubiera gruñido",
+      "nosotros": "hubiéramos gruñido",
+      "vosotros": "hubierais gruñido",
+      "uds": "hubieran gruñido"
+    },
+    "imperfectoAlt": {
+      "yo": "gruñese",
+      "tu": "gruñeses",
+      "ud": "gruñese",
+      "nosotros": "gruñésemos",
+      "vosotros": "gruñeseis",
+      "uds": "gruñesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese gruñido",
+      "tu": "hubieses gruñido",
+      "ud": "hubiese gruñido",
+      "nosotros": "hubiésemos gruñido",
+      "vosotros": "hubieseis gruñido",
+      "uds": "hubiesen gruñido"
+    }
+  },
+  "afirmativo": {
+    "tu": "gruñe",
+    "vosotros": "gruñed",
+    "ud": "gruña",
+    "uds": "gruñan"
+  },
+  "negativo": {
+    "tu": "no gruñas",
+    "vosotros": "no gruñáis",
+    "ud": "no gruña",
+    "uds": "no gruñan"
+  },
+  "english": {
+    "note": "La i (cuando no se acentúa) detrás de ñ desaparece delante de otra vocal, por ejemplo: gruñó, gruñeron, gruñendo.",
+    "infinitivo": "to grunt, growl",
+    "gerundio": "grunting",
+    "participioPasado": "grunted",
+    "indicativo": {
+      "presente": "I grunt, am grunting",
+      "futuro": "I will grunt",
+      "imperfecto": "I was grunting, used to grunt, grunted",
+      "preterito": "I grunted",
+      "condicional": "I would grunt",
+      "presentePerfecto": "I have grunted",
+      "futuroPerfecto": "I will have grunted",
+      "pluscuamperfecto": "I had grunted",
+      "preteritoAnterior": "I had grunted",
+      "condicionalPerfecto": "I would have grunted"
+    },
+    "subjuntivo": {
+      "presente": "I grunt, am grunting",
+      "imperfecto": "I grunted, was grunting",
+      "futuro": "I will grunt",
+      "presentePerfecto": "I have grunted, grunted",
+      "futuroPerfecto": "I will have grunted",
+      "pluscuamperfecto": "I had grunted"
+    },
+    "afirmativo": "Grunt!",
+    "negativo": "Don't grunt!"
+  },
+  "attribution": "Fred Jehle"
+}

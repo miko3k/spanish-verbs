@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "correr",
+  "gerundio": "corriendo",
+  "participioPasado": "corrido",
+  "indicativo": {
+    "presente": {
+      "yo": "corro",
+      "tu": "corres",
+      "ud": "corre",
+      "nosotros": "corremos",
+      "vosotros": "corréis",
+      "uds": "corren"
+    },
+    "futuro": {
+      "yo": "correré",
+      "tu": "correrás",
+      "ud": "correrá",
+      "nosotros": "correremos",
+      "vosotros": "correréis",
+      "uds": "correrán"
+    },
+    "imperfecto": {
+      "yo": "corría",
+      "tu": "corrías",
+      "ud": "corría",
+      "nosotros": "corríamos",
+      "vosotros": "corríais",
+      "uds": "corrían"
+    },
+    "preterito": {
+      "yo": "corrí",
+      "tu": "corriste",
+      "ud": "corrió",
+      "nosotros": "corrimos",
+      "vosotros": "corristeis",
+      "uds": "corrieron"
+    },
+    "condicional": {
+      "yo": "correría",
+      "tu": "correrías",
+      "ud": "correría",
+      "nosotros": "correríamos",
+      "vosotros": "correríais",
+      "uds": "correrían"
+    },
+    "presentePerfecto": {
+      "yo": "he corrido",
+      "tu": "has corrido",
+      "ud": "ha corrido",
+      "nosotros": "hemos corrido",
+      "vosotros": "habéis corrido",
+      "uds": "han corrido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré corrido",
+      "tu": "habrás corrido",
+      "ud": "habrá corrido",
+      "nosotros": "habremos corrido",
+      "vosotros": "habréis corrido",
+      "uds": "habrán corrido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había corrido",
+      "tu": "habías corrido",
+      "ud": "había corrido",
+      "nosotros": "habíamos corrido",
+      "vosotros": "habíais corrido",
+      "uds": "habían corrido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube corrido",
+      "tu": "hubiste corrido",
+      "ud": "hubo corrido",
+      "nosotros": "hubimos corrido",
+      "vosotros": "hubisteis corrido",
+      "uds": "hubieron corrido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría corrido",
+      "tu": "habrías corrido",
+      "ud": "habría corrido",
+      "nosotros": "habríamos corrido",
+      "vosotros": "habríais corrido",
+      "uds": "habrían corrido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "corra",
+      "tu": "corras",
+      "ud": "corra",
+      "nosotros": "corramos",
+      "vosotros": "corráis",
+      "uds": "corran"
+    },
+    "imperfecto": {
+      "yo": "corriera",
+      "tu": "corrieras",
+      "ud": "corriera",
+      "nosotros": "corriéramos",
+      "vosotros": "corrierais",
+      "uds": "corrieran"
+    },
+    "futuro": {
+      "yo": "corriere",
+      "tu": "corrieres",
+      "ud": "corriere",
+      "nosotros": "corriéremos",
+      "vosotros": "corriereis",
+      "uds": "corrieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya corrido",
+      "tu": "hayas corrido",
+      "ud": "haya corrido",
+      "nosotros": "hayamos corrido",
+      "vosotros": "hayáis corrido",
+      "uds": "hayan corrido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere corrido",
+      "tu": "hubieres corrido",
+      "ud": "hubiere corrido",
+      "nosotros": "hubiéremos corrido",
+      "vosotros": "hubiereis corrido",
+      "uds": "hubieren corrido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera corrido",
+      "tu": "hubieras corrido",
+      "ud": "hubiera corrido",
+      "nosotros": "hubiéramos corrido",
+      "vosotros": "hubierais corrido",
+      "uds": "hubieran corrido"
+    },
+    "imperfectoAlt": {
+      "yo": "corriese",
+      "tu": "corrieses",
+      "ud": "corriese",
+      "nosotros": "corriésemos",
+      "vosotros": "corrieseis",
+      "uds": "corriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese corrido",
+      "tu": "hubieses corrido",
+      "ud": "hubiese corrido",
+      "nosotros": "hubiésemos corrido",
+      "vosotros": "hubieseis corrido",
+      "uds": "hubiesen corrido"
+    }
+  },
+  "afirmativo": {
+    "tu": "corre",
+    "vosotros": "corred",
+    "ud": "corra",
+    "uds": "corran"
+  },
+  "negativo": {
+    "tu": "no corras",
+    "vosotros": "no corráis",
+    "ud": "no corra",
+    "uds": "no corran"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to run",
+    "gerundio": "running",
+    "participioPasado": "run",
+    "indicativo": {
+      "presente": "I run, am running",
+      "futuro": "I will run",
+      "imperfecto": "I was running, used to run, ran",
+      "preterito": "I ran",
+      "condicional": "I would run",
+      "presentePerfecto": "I have run",
+      "futuroPerfecto": "I will have run",
+      "pluscuamperfecto": "I had run",
+      "preteritoAnterior": "I had run",
+      "condicionalPerfecto": "I would have run"
+    },
+    "subjuntivo": {
+      "presente": "I run, am running",
+      "imperfecto": "I ran, was running",
+      "futuro": "I will run",
+      "presentePerfecto": "I have run, ran",
+      "futuroPerfecto": "I will have run",
+      "pluscuamperfecto": "I had run"
+    },
+    "afirmativo": "Run!",
+    "negativo": "Don't run!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "faltar",
+  "gerundio": "faltando",
+  "participioPasado": "faltado",
+  "indicativo": {
+    "presente": {
+      "yo": "falto",
+      "tu": "faltas",
+      "ud": "falta",
+      "nosotros": "faltamos",
+      "vosotros": "faltáis",
+      "uds": "faltan"
+    },
+    "futuro": {
+      "yo": "faltaré",
+      "tu": "faltarás",
+      "ud": "faltará",
+      "nosotros": "faltaremos",
+      "vosotros": "faltaréis",
+      "uds": "faltarán"
+    },
+    "imperfecto": {
+      "yo": "faltaba",
+      "tu": "faltabas",
+      "ud": "faltaba",
+      "nosotros": "faltábamos",
+      "vosotros": "faltabais",
+      "uds": "faltaban"
+    },
+    "preterito": {
+      "yo": "falté",
+      "tu": "faltaste",
+      "ud": "faltó",
+      "nosotros": "faltamos",
+      "vosotros": "faltasteis",
+      "uds": "faltaron"
+    },
+    "condicional": {
+      "yo": "faltaría",
+      "tu": "faltarías",
+      "ud": "faltaría",
+      "nosotros": "faltaríamos",
+      "vosotros": "faltaríais",
+      "uds": "faltarían"
+    },
+    "presentePerfecto": {
+      "yo": "he faltado",
+      "tu": "has faltado",
+      "ud": "ha faltado",
+      "nosotros": "hemos faltado",
+      "vosotros": "habéis faltado",
+      "uds": "han faltado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré faltado",
+      "tu": "habrás faltado",
+      "ud": "habrá faltado",
+      "nosotros": "habremos faltado",
+      "vosotros": "habréis faltado",
+      "uds": "habrán faltado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había faltado",
+      "tu": "habías faltado",
+      "ud": "había faltado",
+      "nosotros": "habíamos faltado",
+      "vosotros": "habíais faltado",
+      "uds": "habían faltado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube faltado",
+      "tu": "hubiste faltado",
+      "ud": "hubo faltado",
+      "nosotros": "hubimos faltado",
+      "vosotros": "hubisteis faltado",
+      "uds": "hubieron faltado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría faltado",
+      "tu": "habrías faltado",
+      "ud": "habría faltado",
+      "nosotros": "habríamos faltado",
+      "vosotros": "habríais faltado",
+      "uds": "habrían faltado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "falte",
+      "tu": "faltes",
+      "ud": "falte",
+      "nosotros": "faltemos",
+      "vosotros": "faltéis",
+      "uds": "falten"
+    },
+    "imperfecto": {
+      "yo": "faltara",
+      "tu": "faltaras",
+      "ud": "faltara",
+      "nosotros": "faltáramos",
+      "vosotros": "faltarais",
+      "uds": "faltaran"
+    },
+    "futuro": {
+      "yo": "faltare",
+      "tu": "faltares",
+      "ud": "faltare",
+      "nosotros": "faltáremos",
+      "vosotros": "faltareis",
+      "uds": "faltaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya faltado",
+      "tu": "hayas faltado",
+      "ud": "haya faltado",
+      "nosotros": "hayamos faltado",
+      "vosotros": "hayáis faltado",
+      "uds": "hayan faltado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere faltado",
+      "tu": "hubieres faltado",
+      "ud": "hubiere faltado",
+      "nosotros": "hubiéremos faltado",
+      "vosotros": "hubiereis faltado",
+      "uds": "hubieren faltado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera faltado",
+      "tu": "hubieras faltado",
+      "ud": "hubiera faltado",
+      "nosotros": "hubiéramos faltado",
+      "vosotros": "hubierais faltado",
+      "uds": "hubieran faltado"
+    },
+    "imperfectoAlt": {
+      "yo": "faltase",
+      "tu": "faltases",
+      "ud": "faltase",
+      "nosotros": "faltásemos",
+      "vosotros": "faltaseis",
+      "uds": "faltasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese faltado",
+      "tu": "hubieses faltado",
+      "ud": "hubiese faltado",
+      "nosotros": "hubiésemos faltado",
+      "vosotros": "hubieseis faltado",
+      "uds": "hubiesen faltado"
+    }
+  },
+  "afirmativo": {
+    "tu": "falta",
+    "vosotros": "faltad",
+    "ud": "falte",
+    "uds": "falten"
+  },
+  "negativo": {
+    "tu": "no faltes",
+    "vosotros": "no faltéis",
+    "ud": "no falte",
+    "uds": "no falten"
+  },
+  "english": {
+    "note": "Faltar is frequently used in a gustar-type construction: Les falta dinero = They lack (or need) money. Faltan tres estudiantes = Three students are missing.",
+    "infinitivo": "to lack, be lacking, be missing, be absent",
+    "gerundio": "lacking",
+    "participioPasado": "lacked",
+    "indicativo": {
+      "presente": "I lack, am lacking",
+      "futuro": "I will lack",
+      "imperfecto": "I was lacking, used to lack, lacked",
+      "preterito": "I lacked",
+      "condicional": "I would lack",
+      "presentePerfecto": "I have lacked",
+      "futuroPerfecto": "I will have lacked",
+      "pluscuamperfecto": "I had lacked",
+      "preteritoAnterior": "I had lacked",
+      "condicionalPerfecto": "I would have lacked"
+    },
+    "subjuntivo": {
+      "presente": "I lack, am lacking",
+      "imperfecto": "I lacked, was lacking",
+      "futuro": "I will lack",
+      "presentePerfecto": "I have lacked, lacked",
+      "futuroPerfecto": "I will have lacked",
+      "pluscuamperfecto": "I had lacked"
+    },
+    "afirmativo": "Lack!",
+    "negativo": "Don't lack!"
+  },
+  "attribution": "Fred Jehle"
+}

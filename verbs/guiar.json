@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "guiar",
+  "gerundio": "guiando",
+  "participioPasado": "guiado",
+  "indicativo": {
+    "presente": {
+      "yo": "guío",
+      "tu": "guías",
+      "ud": "guía",
+      "nosotros": "guiamos",
+      "vosotros": "guiáis",
+      "uds": "guían"
+    },
+    "futuro": {
+      "yo": "guiaré",
+      "tu": "guiarás",
+      "ud": "guiará",
+      "nosotros": "guiaremos",
+      "vosotros": "guiaréis",
+      "uds": "guiarán"
+    },
+    "imperfecto": {
+      "yo": "guiaba",
+      "tu": "guiabas",
+      "ud": "guiaba",
+      "nosotros": "guiábamos",
+      "vosotros": "guiabais",
+      "uds": "guiaban"
+    },
+    "preterito": {
+      "yo": "guie",
+      "tu": "guiaste",
+      "ud": "guio",
+      "nosotros": "guiamos",
+      "vosotros": "guiasteis",
+      "uds": "guiaron"
+    },
+    "condicional": {
+      "yo": "guiaría",
+      "tu": "guiarías",
+      "ud": "guiaría",
+      "nosotros": "guiaríamos",
+      "vosotros": "guiaríais",
+      "uds": "guiarían"
+    },
+    "presentePerfecto": {
+      "yo": "he guiado",
+      "tu": "has guiado",
+      "ud": "ha guiado",
+      "nosotros": "hemos guiado",
+      "vosotros": "habéis guiado",
+      "uds": "han guiado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré guiado",
+      "tu": "habrás guiado",
+      "ud": "habrá guiado",
+      "nosotros": "habremos guiado",
+      "vosotros": "habréis guiado",
+      "uds": "habrán guiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había guiado",
+      "tu": "habías guiado",
+      "ud": "había guiado",
+      "nosotros": "habíamos guiado",
+      "vosotros": "habíais guiado",
+      "uds": "habían guiado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube guiado",
+      "tu": "hubiste guiado",
+      "ud": "hubo guiado",
+      "nosotros": "hubimos guiado",
+      "vosotros": "hubisteis guiado",
+      "uds": "hubieron guiado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría guiado",
+      "tu": "habrías guiado",
+      "ud": "habría guiado",
+      "nosotros": "habríamos guiado",
+      "vosotros": "habríais guiado",
+      "uds": "habrían guiado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "guíe",
+      "tu": "guíes",
+      "ud": "guíe",
+      "nosotros": "guiemos",
+      "vosotros": "guiéis",
+      "uds": "guíen"
+    },
+    "imperfecto": {
+      "yo": "guiara",
+      "tu": "guiaras",
+      "ud": "guiara",
+      "nosotros": "guiáramos",
+      "vosotros": "guiarais",
+      "uds": "guiaran"
+    },
+    "futuro": {
+      "yo": "guiare",
+      "tu": "guiares",
+      "ud": "guiare",
+      "nosotros": "guiáremos",
+      "vosotros": "guiareis",
+      "uds": "guiaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya guiado",
+      "tu": "hayas guiado",
+      "ud": "haya guiado",
+      "nosotros": "hayamos guiado",
+      "vosotros": "hayáis guiado",
+      "uds": "hayan guiado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere guiado",
+      "tu": "hubieres guiado",
+      "ud": "hubiere guiado",
+      "nosotros": "hubiéremos guiado",
+      "vosotros": "hubiereis guiado",
+      "uds": "hubieren guiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera guiado",
+      "tu": "hubieras guiado",
+      "ud": "hubiera guiado",
+      "nosotros": "hubiéramos guiado",
+      "vosotros": "hubierais guiado",
+      "uds": "hubieran guiado"
+    },
+    "imperfectoAlt": {
+      "yo": "guiase",
+      "tu": "guiases",
+      "ud": "guiase",
+      "nosotros": "guiásemos",
+      "vosotros": "guiaseis",
+      "uds": "guiasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese guiado",
+      "tu": "hubieses guiado",
+      "ud": "hubiese guiado",
+      "nosotros": "hubiésemos guiado",
+      "vosotros": "hubieseis guiado",
+      "uds": "hubiesen guiado"
+    }
+  },
+  "afirmativo": {
+    "tu": "guía",
+    "vosotros": "guiad",
+    "ud": "guíe",
+    "uds": "guíen"
+  },
+  "negativo": {
+    "tu": "no guíes",
+    "vosotros": "no guiéis",
+    "ud": "no guíe",
+    "uds": "no guíen"
+  },
+  "english": {
+    "note": "Cambio: i > í cuando la radical tiene el acento tónico.",
+    "infinitivo": "to guide",
+    "gerundio": "guiding",
+    "participioPasado": "guided",
+    "indicativo": {
+      "presente": "I guide, am guiding",
+      "futuro": "I will guide",
+      "imperfecto": "I was guiding, used to guide, guided",
+      "preterito": "I guided",
+      "condicional": "I would guide",
+      "presentePerfecto": "I have guided",
+      "futuroPerfecto": "I will have guided",
+      "pluscuamperfecto": "I had guided",
+      "preteritoAnterior": "I had guided",
+      "condicionalPerfecto": "I would have guided"
+    },
+    "subjuntivo": {
+      "presente": "I guide, am guiding",
+      "imperfecto": "I guided, was guiding",
+      "futuro": "I will guide",
+      "presentePerfecto": "I have guided, guided",
+      "futuroPerfecto": "I will have guided",
+      "pluscuamperfecto": "I had guided"
+    },
+    "afirmativo": "Guide!",
+    "negativo": "Don't guide!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "acortar",
+  "gerundio": "acortando",
+  "participioPasado": "acortado",
+  "indicativo": {
+    "presente": {
+      "yo": "acorto",
+      "tu": "acortas",
+      "ud": "acorta",
+      "nosotros": "acortamos",
+      "vosotros": "acortáis",
+      "uds": "acortan"
+    },
+    "futuro": {
+      "yo": "acortaré",
+      "tu": "acortarás",
+      "ud": "acortará",
+      "nosotros": "acortaremos",
+      "vosotros": "acortaréis",
+      "uds": "acortarán"
+    },
+    "imperfecto": {
+      "yo": "acortaba",
+      "tu": "acortabas",
+      "ud": "acortaba",
+      "nosotros": "acortábamos",
+      "vosotros": "acortabais",
+      "uds": "acortaban"
+    },
+    "preterito": {
+      "yo": "acorté",
+      "tu": "acortaste",
+      "ud": "acortó",
+      "nosotros": "acortamos",
+      "vosotros": "acortasteis",
+      "uds": "acortaron"
+    },
+    "condicional": {
+      "yo": "acortaría",
+      "tu": "acortarías",
+      "ud": "acortaría",
+      "nosotros": "acortaríamos",
+      "vosotros": "acortaríais",
+      "uds": "acortarían"
+    },
+    "presentePerfecto": {
+      "yo": "he acortado",
+      "tu": "has acortado",
+      "ud": "ha acortado",
+      "nosotros": "hemos acortado",
+      "vosotros": "habéis acortado",
+      "uds": "han acortado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré acortado",
+      "tu": "habrás acortado",
+      "ud": "habrá acortado",
+      "nosotros": "habremos acortado",
+      "vosotros": "habréis acortado",
+      "uds": "habrán acortado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había acortado",
+      "tu": "habías acortado",
+      "ud": "había acortado",
+      "nosotros": "habíamos acortado",
+      "vosotros": "habíais acortado",
+      "uds": "habían acortado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube acortado",
+      "tu": "hubiste acortado",
+      "ud": "hubo acortado",
+      "nosotros": "hubimos acortado",
+      "vosotros": "hubisteis acortado",
+      "uds": "hubieron acortado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría acortado",
+      "tu": "habrías acortado",
+      "ud": "habría acortado",
+      "nosotros": "habríamos acortado",
+      "vosotros": "habríais acortado",
+      "uds": "habrían acortado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "acorte",
+      "tu": "acortes",
+      "ud": "acorte",
+      "nosotros": "acortemos",
+      "vosotros": "acortéis",
+      "uds": "acorten"
+    },
+    "imperfecto": {
+      "yo": "acortara",
+      "tu": "acortaras",
+      "ud": "acortara",
+      "nosotros": "acortáramos",
+      "vosotros": "acortarais",
+      "uds": "acortaran"
+    },
+    "futuro": {
+      "yo": "acortare",
+      "tu": "acortares",
+      "ud": "acortare",
+      "nosotros": "acortáremos",
+      "vosotros": "acortareis",
+      "uds": "acortaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya acortado",
+      "tu": "hayas acortado",
+      "ud": "haya acortado",
+      "nosotros": "hayamos acortado",
+      "vosotros": "hayáis acortado",
+      "uds": "hayan acortado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere acortado",
+      "tu": "hubieres acortado",
+      "ud": "hubiere acortado",
+      "nosotros": "hubiéremos acortado",
+      "vosotros": "hubiereis acortado",
+      "uds": "hubieren acortado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera acortado",
+      "tu": "hubieras acortado",
+      "ud": "hubiera acortado",
+      "nosotros": "hubiéramos acortado",
+      "vosotros": "hubierais acortado",
+      "uds": "hubieran acortado"
+    },
+    "imperfectoAlt": {
+      "yo": "acortase",
+      "tu": "acortases",
+      "ud": "acortase",
+      "nosotros": "acortásemos",
+      "vosotros": "acortaseis",
+      "uds": "acortasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese acortado",
+      "tu": "hubieses acortado",
+      "ud": "hubiese acortado",
+      "nosotros": "hubiésemos acortado",
+      "vosotros": "hubieseis acortado",
+      "uds": "hubiesen acortado"
+    }
+  },
+  "afirmativo": {
+    "tu": "acorta",
+    "vosotros": "acortad",
+    "ud": "acorte",
+    "uds": "acorten"
+  },
+  "negativo": {
+    "tu": "no acortes",
+    "vosotros": "no acortéis",
+    "ud": "no acorte",
+    "uds": "no acorten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to shorten",
+    "gerundio": "shortening",
+    "participioPasado": "shortened",
+    "indicativo": {
+      "presente": "I shorten, am shortening",
+      "futuro": "I will shorten",
+      "imperfecto": "I was shortening, used to shorten, shortened",
+      "preterito": "I shortened",
+      "condicional": "I would shorten",
+      "presentePerfecto": "I have shortened",
+      "futuroPerfecto": "I will have shortened",
+      "pluscuamperfecto": "I had shortened",
+      "preteritoAnterior": "I had shortened",
+      "condicionalPerfecto": "I would have shortened"
+    },
+    "subjuntivo": {
+      "presente": "I shorten, am shortening",
+      "imperfecto": "I shortened, was shortening",
+      "futuro": "I will shorten",
+      "presentePerfecto": "I have shortened, shortened",
+      "futuroPerfecto": "I will have shortened",
+      "pluscuamperfecto": "I had shortened"
+    },
+    "afirmativo": "Shorten!",
+    "negativo": "Don't shorten!"
+  },
+  "attribution": "Fred Jehle"
+}

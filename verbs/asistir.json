@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "asistir",
+  "gerundio": "asistiendo",
+  "participioPasado": "asistido",
+  "indicativo": {
+    "presente": {
+      "yo": "asisto",
+      "tu": "asistes",
+      "ud": "asiste",
+      "nosotros": "asistimos",
+      "vosotros": "asistís",
+      "uds": "asisten"
+    },
+    "futuro": {
+      "yo": "asistiré",
+      "tu": "asistirás",
+      "ud": "asistirá",
+      "nosotros": "asistiremos",
+      "vosotros": "asistiréis",
+      "uds": "asistirán"
+    },
+    "imperfecto": {
+      "yo": "asistía",
+      "tu": "asistías",
+      "ud": "asistía",
+      "nosotros": "asistíamos",
+      "vosotros": "asistíais",
+      "uds": "asistían"
+    },
+    "preterito": {
+      "yo": "asistí",
+      "tu": "asististe",
+      "ud": "asistió",
+      "nosotros": "asistimos",
+      "vosotros": "asististeis",
+      "uds": "asistieron"
+    },
+    "condicional": {
+      "yo": "asistiría",
+      "tu": "asistirías",
+      "ud": "asistiría",
+      "nosotros": "asistiríamos",
+      "vosotros": "asistiríais",
+      "uds": "asistirían"
+    },
+    "presentePerfecto": {
+      "yo": "he asistido",
+      "tu": "has asistido",
+      "ud": "ha asistido",
+      "nosotros": "hemos asistido",
+      "vosotros": "habéis asistido",
+      "uds": "han asistido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré asistido",
+      "tu": "habrás asistido",
+      "ud": "habrá asistido",
+      "nosotros": "habremos asistido",
+      "vosotros": "habréis asistido",
+      "uds": "habrán asistido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había asistido",
+      "tu": "habías asistido",
+      "ud": "había asistido",
+      "nosotros": "habíamos asistido",
+      "vosotros": "habíais asistido",
+      "uds": "habían asistido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube asistido",
+      "tu": "hubiste asistido",
+      "ud": "hubo asistido",
+      "nosotros": "hubimos asistido",
+      "vosotros": "hubisteis asistido",
+      "uds": "hubieron asistido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría asistido",
+      "tu": "habrías asistido",
+      "ud": "habría asistido",
+      "nosotros": "habríamos asistido",
+      "vosotros": "habríais asistido",
+      "uds": "habrían asistido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "asista",
+      "tu": "asistas",
+      "ud": "asista",
+      "nosotros": "asistamos",
+      "vosotros": "asistáis",
+      "uds": "asistan"
+    },
+    "imperfecto": {
+      "yo": "asistiera",
+      "tu": "asistieras",
+      "ud": "asistiera",
+      "nosotros": "asistiéramos",
+      "vosotros": "asistierais",
+      "uds": "asistieran"
+    },
+    "futuro": {
+      "yo": "asistiere",
+      "tu": "asistieres",
+      "ud": "asistiere",
+      "nosotros": "asistiéremos",
+      "vosotros": "asistiereis",
+      "uds": "asistieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya asistido",
+      "tu": "hayas asistido",
+      "ud": "haya asistido",
+      "nosotros": "hayamos asistido",
+      "vosotros": "hayáis asistido",
+      "uds": "hayan asistido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere asistido",
+      "tu": "hubieres asistido",
+      "ud": "hubiere asistido",
+      "nosotros": "hubiéremos asistido",
+      "vosotros": "hubiereis asistido",
+      "uds": "hubieren asistido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera asistido",
+      "tu": "hubieras asistido",
+      "ud": "hubiera asistido",
+      "nosotros": "hubiéramos asistido",
+      "vosotros": "hubierais asistido",
+      "uds": "hubieran asistido"
+    },
+    "imperfectoAlt": {
+      "yo": "asistiese",
+      "tu": "asistieses",
+      "ud": "asistiese",
+      "nosotros": "asistiésemos",
+      "vosotros": "asistieseis",
+      "uds": "asistiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese asistido",
+      "tu": "hubieses asistido",
+      "ud": "hubiese asistido",
+      "nosotros": "hubiésemos asistido",
+      "vosotros": "hubieseis asistido",
+      "uds": "hubiesen asistido"
+    }
+  },
+  "afirmativo": {
+    "tu": "asiste",
+    "vosotros": "asistid",
+    "ud": "asista",
+    "uds": "asistan"
+  },
+  "negativo": {
+    "tu": "no asistas",
+    "vosotros": "no asistáis",
+    "ud": "no asista",
+    "uds": "no asistan"
+  },
+  "english": {
+    "note": "Note: Asistir means to attend in the sense of going to an event such as a meeting or class and is normally followed by the preposition a: Asisto a todas mis clases = I attend all of my classes. Use the verb atender for to attend (to the needs of someone).",
+    "infinitivo": "to attend",
+    "gerundio": "attending",
+    "participioPasado": "attended",
+    "indicativo": {
+      "presente": "I attend, am attending",
+      "futuro": "I will attend",
+      "imperfecto": "I was attending, used to attend, attended",
+      "preterito": "I attended",
+      "condicional": "I would attend",
+      "presentePerfecto": "I have attended",
+      "futuroPerfecto": "I will have attended",
+      "pluscuamperfecto": "I had attended",
+      "preteritoAnterior": "I had attended",
+      "condicionalPerfecto": "I would have attended"
+    },
+    "subjuntivo": {
+      "presente": "I attend, am attending",
+      "imperfecto": "I attended, was attending",
+      "futuro": "I will attend",
+      "presentePerfecto": "I have attended, attended",
+      "futuroPerfecto": "I will have attended",
+      "pluscuamperfecto": "I had attended"
+    },
+    "afirmativo": "Attend!",
+    "negativo": "Don't attend!"
+  },
+  "attribution": "Fred Jehle"
+}

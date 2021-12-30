@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "merecer",
+  "gerundio": "mereciendo",
+  "participioPasado": "merecido",
+  "indicativo": {
+    "presente": {
+      "yo": "merezco",
+      "tu": "mereces",
+      "ud": "merece",
+      "nosotros": "merecemos",
+      "vosotros": "merecéis",
+      "uds": "merecen"
+    },
+    "futuro": {
+      "yo": "mereceré",
+      "tu": "merecerás",
+      "ud": "merecerá",
+      "nosotros": "mereceremos",
+      "vosotros": "mereceréis",
+      "uds": "merecerán"
+    },
+    "imperfecto": {
+      "yo": "merecía",
+      "tu": "merecías",
+      "ud": "merecía",
+      "nosotros": "merecíamos",
+      "vosotros": "merecíais",
+      "uds": "merecían"
+    },
+    "preterito": {
+      "yo": "merecí",
+      "tu": "mereciste",
+      "ud": "mereció",
+      "nosotros": "merecimos",
+      "vosotros": "merecisteis",
+      "uds": "merecieron"
+    },
+    "condicional": {
+      "yo": "merecería",
+      "tu": "merecerías",
+      "ud": "merecería",
+      "nosotros": "mereceríamos",
+      "vosotros": "mereceríais",
+      "uds": "merecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he merecido",
+      "tu": "has merecido",
+      "ud": "ha merecido",
+      "nosotros": "hemos merecido",
+      "vosotros": "habéis merecido",
+      "uds": "han merecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré merecido",
+      "tu": "habrás merecido",
+      "ud": "habrá merecido",
+      "nosotros": "habremos merecido",
+      "vosotros": "habréis merecido",
+      "uds": "habrán merecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había merecido",
+      "tu": "habías merecido",
+      "ud": "había merecido",
+      "nosotros": "habíamos merecido",
+      "vosotros": "habíais merecido",
+      "uds": "habían merecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube merecido",
+      "tu": "hubiste merecido",
+      "ud": "hubo merecido",
+      "nosotros": "hubimos merecido",
+      "vosotros": "hubisteis merecido",
+      "uds": "hubieron merecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría merecido",
+      "tu": "habrías merecido",
+      "ud": "habría merecido",
+      "nosotros": "habríamos merecido",
+      "vosotros": "habríais merecido",
+      "uds": "habrían merecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "merezca",
+      "tu": "merezcas",
+      "ud": "merezca",
+      "nosotros": "merezcamos",
+      "vosotros": "merezcáis",
+      "uds": "merezcan"
+    },
+    "imperfecto": {
+      "yo": "mereciera",
+      "tu": "merecieras",
+      "ud": "mereciera",
+      "nosotros": "mereciéramos",
+      "vosotros": "merecierais",
+      "uds": "merecieran"
+    },
+    "futuro": {
+      "yo": "mereciere",
+      "tu": "merecieres",
+      "ud": "mereciere",
+      "nosotros": "mereciéremos",
+      "vosotros": "mereciereis",
+      "uds": "merecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya merecido",
+      "tu": "hayas merecido",
+      "ud": "haya merecido",
+      "nosotros": "hayamos merecido",
+      "vosotros": "hayáis merecido",
+      "uds": "hayan merecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere merecido",
+      "tu": "hubieres merecido",
+      "ud": "hubiere merecido",
+      "nosotros": "hubiéremos merecido",
+      "vosotros": "hubiereis merecido",
+      "uds": "hubieren merecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera merecido",
+      "tu": "hubieras merecido",
+      "ud": "hubiera merecido",
+      "nosotros": "hubiéramos merecido",
+      "vosotros": "hubierais merecido",
+      "uds": "hubieran merecido"
+    },
+    "imperfectoAlt": {
+      "yo": "mereciese",
+      "tu": "merecieses",
+      "ud": "mereciese",
+      "nosotros": "mereciésemos",
+      "vosotros": "merecieseis",
+      "uds": "mereciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese merecido",
+      "tu": "hubieses merecido",
+      "ud": "hubiese merecido",
+      "nosotros": "hubiésemos merecido",
+      "vosotros": "hubieseis merecido",
+      "uds": "hubiesen merecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "merece",
+    "vosotros": "mereced",
+    "ud": "merezca",
+    "uds": "merezcan"
+  },
+  "negativo": {
+    "tu": "no merezcas",
+    "vosotros": "no merezcáis",
+    "ud": "no merezca",
+    "uds": "no merezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: merezco, merezca, merezcas, etc.",
+    "infinitivo": "to deserve, merit",
+    "gerundio": "deserving",
+    "participioPasado": "deserved",
+    "indicativo": {
+      "presente": "I deserve, am deserving",
+      "futuro": "I will deserve",
+      "imperfecto": "I was deserving, used to deserve, deserved",
+      "preterito": "I deserved",
+      "condicional": "I would deserve",
+      "presentePerfecto": "I have deserved",
+      "futuroPerfecto": "I will have deserved",
+      "pluscuamperfecto": "I had deserved",
+      "preteritoAnterior": "I had deserved",
+      "condicionalPerfecto": "I would have deserved"
+    },
+    "subjuntivo": {
+      "presente": "I deserve, am deserving",
+      "imperfecto": "I deserved, was deserving",
+      "futuro": "I will deserve",
+      "presentePerfecto": "I have deserved, deserved",
+      "futuroPerfecto": "I will have deserved",
+      "pluscuamperfecto": "I had deserved"
+    },
+    "afirmativo": "Deserve!",
+    "negativo": "Don't deserve!"
+  },
+  "attribution": "Fred Jehle"
+}

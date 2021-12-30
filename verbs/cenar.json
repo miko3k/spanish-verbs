@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cenar",
+  "gerundio": "cenando",
+  "participioPasado": "cenado",
+  "indicativo": {
+    "presente": {
+      "yo": "ceno",
+      "tu": "cenas",
+      "ud": "cena",
+      "nosotros": "cenamos",
+      "vosotros": "cenáis",
+      "uds": "cenan"
+    },
+    "futuro": {
+      "yo": "cenaré",
+      "tu": "cenarás",
+      "ud": "cenará",
+      "nosotros": "cenaremos",
+      "vosotros": "cenaréis",
+      "uds": "cenarán"
+    },
+    "imperfecto": {
+      "yo": "cenaba",
+      "tu": "cenabas",
+      "ud": "cenaba",
+      "nosotros": "cenábamos",
+      "vosotros": "cenabais",
+      "uds": "cenaban"
+    },
+    "preterito": {
+      "yo": "cené",
+      "tu": "cenaste",
+      "ud": "cenó",
+      "nosotros": "cenamos",
+      "vosotros": "cenasteis",
+      "uds": "cenaron"
+    },
+    "condicional": {
+      "yo": "cenaría",
+      "tu": "cenarías",
+      "ud": "cenaría",
+      "nosotros": "cenaríamos",
+      "vosotros": "cenaríais",
+      "uds": "cenarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cenado",
+      "tu": "has cenado",
+      "ud": "ha cenado",
+      "nosotros": "hemos cenado",
+      "vosotros": "habéis cenado",
+      "uds": "han cenado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cenado",
+      "tu": "habrás cenado",
+      "ud": "habrá cenado",
+      "nosotros": "habremos cenado",
+      "vosotros": "habréis cenado",
+      "uds": "habrán cenado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cenado",
+      "tu": "habías cenado",
+      "ud": "había cenado",
+      "nosotros": "habíamos cenado",
+      "vosotros": "habíais cenado",
+      "uds": "habían cenado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cenado",
+      "tu": "hubiste cenado",
+      "ud": "hubo cenado",
+      "nosotros": "hubimos cenado",
+      "vosotros": "hubisteis cenado",
+      "uds": "hubieron cenado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cenado",
+      "tu": "habrías cenado",
+      "ud": "habría cenado",
+      "nosotros": "habríamos cenado",
+      "vosotros": "habríais cenado",
+      "uds": "habrían cenado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cene",
+      "tu": "cenes",
+      "ud": "cene",
+      "nosotros": "cenemos",
+      "vosotros": "cenéis",
+      "uds": "cenen"
+    },
+    "imperfecto": {
+      "yo": "cenara",
+      "tu": "cenaras",
+      "ud": "cenara",
+      "nosotros": "cenáramos",
+      "vosotros": "cenarais",
+      "uds": "cenaran"
+    },
+    "futuro": {
+      "yo": "cenare",
+      "tu": "cenares",
+      "ud": "cenare",
+      "nosotros": "cenáremos",
+      "vosotros": "cenareis",
+      "uds": "cenaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cenado",
+      "tu": "hayas cenado",
+      "ud": "haya cenado",
+      "nosotros": "hayamos cenado",
+      "vosotros": "hayáis cenado",
+      "uds": "hayan cenado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cenado",
+      "tu": "hubieres cenado",
+      "ud": "hubiere cenado",
+      "nosotros": "hubiéremos cenado",
+      "vosotros": "hubiereis cenado",
+      "uds": "hubieren cenado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cenado",
+      "tu": "hubieras cenado",
+      "ud": "hubiera cenado",
+      "nosotros": "hubiéramos cenado",
+      "vosotros": "hubierais cenado",
+      "uds": "hubieran cenado"
+    },
+    "imperfectoAlt": {
+      "yo": "cenase",
+      "tu": "cenases",
+      "ud": "cenase",
+      "nosotros": "cenásemos",
+      "vosotros": "cenaseis",
+      "uds": "cenasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cenado",
+      "tu": "hubieses cenado",
+      "ud": "hubiese cenado",
+      "nosotros": "hubiésemos cenado",
+      "vosotros": "hubieseis cenado",
+      "uds": "hubiesen cenado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cena",
+    "vosotros": "cenad",
+    "ud": "cene",
+    "uds": "cenen"
+  },
+  "negativo": {
+    "tu": "no cenes",
+    "vosotros": "no cenéis",
+    "ud": "no cene",
+    "uds": "no cenen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to eat supper, have supper; to eat dinner, have dinner; to dine; to have for supper (or dinner)",
+    "gerundio": "eating supper",
+    "participioPasado": "eaten supper",
+    "indicativo": {
+      "presente": "I eat supper, am eating supper",
+      "futuro": "I will eat supper",
+      "imperfecto": "I was eating supper, used to eat supper, ate supper",
+      "preterito": "I ate supper",
+      "condicional": "I would eat supper",
+      "presentePerfecto": "I have eaten supper",
+      "futuroPerfecto": "I will have eaten supper",
+      "pluscuamperfecto": "I had eaten supper",
+      "preteritoAnterior": "I had eaten supper",
+      "condicionalPerfecto": "I would have eaten supper"
+    },
+    "subjuntivo": {
+      "presente": "I eat supper, am eating supper",
+      "imperfecto": "I ate supper, was eating supper",
+      "futuro": "I will eat supper",
+      "presentePerfecto": "I have eaten supper, ate supper",
+      "futuroPerfecto": "I will have eaten supper",
+      "pluscuamperfecto": "I had eaten supper"
+    },
+    "afirmativo": "Eat supper!",
+    "negativo": "Don't eat supper!"
+  },
+  "attribution": "Fred Jehle"
+}

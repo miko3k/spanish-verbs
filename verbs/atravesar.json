@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "atravesar",
+  "gerundio": "atravesando",
+  "participioPasado": "atravesado",
+  "indicativo": {
+    "presente": {
+      "yo": "atravieso",
+      "tu": "atraviesas",
+      "ud": "atraviesa",
+      "nosotros": "atravesamos",
+      "vosotros": "atravesáis",
+      "uds": "atraviesan"
+    },
+    "futuro": {
+      "yo": "atravesaré",
+      "tu": "atravesarás",
+      "ud": "atravesará",
+      "nosotros": "atravesaremos",
+      "vosotros": "atravesaréis",
+      "uds": "atravesarán"
+    },
+    "imperfecto": {
+      "yo": "atravesaba",
+      "tu": "atravesabas",
+      "ud": "atravesaba",
+      "nosotros": "atravesábamos",
+      "vosotros": "atravesabais",
+      "uds": "atravesaban"
+    },
+    "preterito": {
+      "yo": "atravesé",
+      "tu": "atravesaste",
+      "ud": "atravesó",
+      "nosotros": "atravesamos",
+      "vosotros": "atravesasteis",
+      "uds": "atravesaron"
+    },
+    "condicional": {
+      "yo": "atravesaría",
+      "tu": "atravesarías",
+      "ud": "atravesaría",
+      "nosotros": "atravesaríamos",
+      "vosotros": "atravesaríais",
+      "uds": "atravesarían"
+    },
+    "presentePerfecto": {
+      "yo": "he atravesado",
+      "tu": "has atravesado",
+      "ud": "ha atravesado",
+      "nosotros": "hemos atravesado",
+      "vosotros": "habéis atravesado",
+      "uds": "han atravesado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré atravesado",
+      "tu": "habrás atravesado",
+      "ud": "habrá atravesado",
+      "nosotros": "habremos atravesado",
+      "vosotros": "habréis atravesado",
+      "uds": "habrán atravesado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había atravesado",
+      "tu": "habías atravesado",
+      "ud": "había atravesado",
+      "nosotros": "habíamos atravesado",
+      "vosotros": "habíais atravesado",
+      "uds": "habían atravesado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube atravesado",
+      "tu": "hubiste atravesado",
+      "ud": "hubo atravesado",
+      "nosotros": "hubimos atravesado",
+      "vosotros": "hubisteis atravesado",
+      "uds": "hubieron atravesado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría atravesado",
+      "tu": "habrías atravesado",
+      "ud": "habría atravesado",
+      "nosotros": "habríamos atravesado",
+      "vosotros": "habríais atravesado",
+      "uds": "habrían atravesado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "atraviese",
+      "tu": "atravieses",
+      "ud": "atraviese",
+      "nosotros": "atravesemos",
+      "vosotros": "atraveséis",
+      "uds": "atraviesen"
+    },
+    "imperfecto": {
+      "yo": "atravesara",
+      "tu": "atravesaras",
+      "ud": "atravesara",
+      "nosotros": "atravesáramos",
+      "vosotros": "atravesarais",
+      "uds": "atravesaran"
+    },
+    "futuro": {
+      "yo": "atravesare",
+      "tu": "atravesares",
+      "ud": "atravesare",
+      "nosotros": "atravesáremos",
+      "vosotros": "atravesareis",
+      "uds": "atravesaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya atravesado",
+      "tu": "hayas atravesado",
+      "ud": "haya atravesado",
+      "nosotros": "hayamos atravesado",
+      "vosotros": "hayáis atravesado",
+      "uds": "hayan atravesado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere atravesado",
+      "tu": "hubieres atravesado",
+      "ud": "hubiere atravesado",
+      "nosotros": "hubiéremos atravesado",
+      "vosotros": "hubiereis atravesado",
+      "uds": "hubieren atravesado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera atravesado",
+      "tu": "hubieras atravesado",
+      "ud": "hubiera atravesado",
+      "nosotros": "hubiéramos atravesado",
+      "vosotros": "hubierais atravesado",
+      "uds": "hubieran atravesado"
+    },
+    "imperfectoAlt": {
+      "yo": "atravesase",
+      "tu": "atravesases",
+      "ud": "atravesase",
+      "nosotros": "atravesásemos",
+      "vosotros": "atravesaseis",
+      "uds": "atravesasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese atravesado",
+      "tu": "hubieses atravesado",
+      "ud": "hubiese atravesado",
+      "nosotros": "hubiésemos atravesado",
+      "vosotros": "hubieseis atravesado",
+      "uds": "hubiesen atravesado"
+    }
+  },
+  "afirmativo": {
+    "tu": "atraviesa",
+    "vosotros": "atravesad",
+    "ud": "atraviese",
+    "uds": "atraviesen"
+  },
+  "negativo": {
+    "tu": "no atravieses",
+    "vosotros": "no atraveséis",
+    "ud": "no atraviese",
+    "uds": "no atraviesen"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie.",
+    "infinitivo": "to cross, cross over, go across, go over, pass through",
+    "gerundio": "crossing",
+    "participioPasado": "crossed",
+    "indicativo": {
+      "presente": "I cross, am crossing",
+      "futuro": "I will cross",
+      "imperfecto": "I was crossing, used to cross, crossed",
+      "preterito": "I crossed",
+      "condicional": "I would cross",
+      "presentePerfecto": "I have crossed",
+      "futuroPerfecto": "I will have crossed",
+      "pluscuamperfecto": "I had crossed",
+      "preteritoAnterior": "I had crossed",
+      "condicionalPerfecto": "I would have crossed"
+    },
+    "subjuntivo": {
+      "presente": "I cross, am crossing",
+      "imperfecto": "I crossed, was crossing",
+      "futuro": "I will cross",
+      "presentePerfecto": "I have crossed, crossed",
+      "futuroPerfecto": "I will have crossed",
+      "pluscuamperfecto": "I had crossed"
+    },
+    "afirmativo": "Cross!",
+    "negativo": "Don't cross!"
+  },
+  "attribution": "Fred Jehle"
+}

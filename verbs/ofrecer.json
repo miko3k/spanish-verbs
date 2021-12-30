@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "ofrecer",
+  "gerundio": "ofreciendo",
+  "participioPasado": "ofrecido",
+  "indicativo": {
+    "presente": {
+      "yo": "ofrezco",
+      "tu": "ofreces",
+      "ud": "ofrece",
+      "nosotros": "ofrecemos",
+      "vosotros": "ofrecéis",
+      "uds": "ofrecen"
+    },
+    "futuro": {
+      "yo": "ofreceré",
+      "tu": "ofrecerás",
+      "ud": "ofrecerá",
+      "nosotros": "ofreceremos",
+      "vosotros": "ofreceréis",
+      "uds": "ofrecerán"
+    },
+    "imperfecto": {
+      "yo": "ofrecía",
+      "tu": "ofrecías",
+      "ud": "ofrecía",
+      "nosotros": "ofrecíamos",
+      "vosotros": "ofrecíais",
+      "uds": "ofrecían"
+    },
+    "preterito": {
+      "yo": "ofrecí",
+      "tu": "ofreciste",
+      "ud": "ofreció",
+      "nosotros": "ofrecimos",
+      "vosotros": "ofrecisteis",
+      "uds": "ofrecieron"
+    },
+    "condicional": {
+      "yo": "ofrecería",
+      "tu": "ofrecerías",
+      "ud": "ofrecería",
+      "nosotros": "ofreceríamos",
+      "vosotros": "ofreceríais",
+      "uds": "ofrecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he ofrecido",
+      "tu": "has ofrecido",
+      "ud": "ha ofrecido",
+      "nosotros": "hemos ofrecido",
+      "vosotros": "habéis ofrecido",
+      "uds": "han ofrecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ofrecido",
+      "tu": "habrás ofrecido",
+      "ud": "habrá ofrecido",
+      "nosotros": "habremos ofrecido",
+      "vosotros": "habréis ofrecido",
+      "uds": "habrán ofrecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ofrecido",
+      "tu": "habías ofrecido",
+      "ud": "había ofrecido",
+      "nosotros": "habíamos ofrecido",
+      "vosotros": "habíais ofrecido",
+      "uds": "habían ofrecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ofrecido",
+      "tu": "hubiste ofrecido",
+      "ud": "hubo ofrecido",
+      "nosotros": "hubimos ofrecido",
+      "vosotros": "hubisteis ofrecido",
+      "uds": "hubieron ofrecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ofrecido",
+      "tu": "habrías ofrecido",
+      "ud": "habría ofrecido",
+      "nosotros": "habríamos ofrecido",
+      "vosotros": "habríais ofrecido",
+      "uds": "habrían ofrecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ofrezca",
+      "tu": "ofrezcas",
+      "ud": "ofrezca",
+      "nosotros": "ofrezcamos",
+      "vosotros": "ofrezcáis",
+      "uds": "ofrezcan"
+    },
+    "imperfecto": {
+      "yo": "ofreciera",
+      "tu": "ofrecieras",
+      "ud": "ofreciera",
+      "nosotros": "ofreciéramos",
+      "vosotros": "ofrecierais",
+      "uds": "ofrecieran"
+    },
+    "futuro": {
+      "yo": "ofreciere",
+      "tu": "ofrecieres",
+      "ud": "ofreciere",
+      "nosotros": "ofreciéremos",
+      "vosotros": "ofreciereis",
+      "uds": "ofrecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ofrecido",
+      "tu": "hayas ofrecido",
+      "ud": "haya ofrecido",
+      "nosotros": "hayamos ofrecido",
+      "vosotros": "hayáis ofrecido",
+      "uds": "hayan ofrecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ofrecido",
+      "tu": "hubieres ofrecido",
+      "ud": "hubiere ofrecido",
+      "nosotros": "hubiéremos ofrecido",
+      "vosotros": "hubiereis ofrecido",
+      "uds": "hubieren ofrecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ofrecido",
+      "tu": "hubieras ofrecido",
+      "ud": "hubiera ofrecido",
+      "nosotros": "hubiéramos ofrecido",
+      "vosotros": "hubierais ofrecido",
+      "uds": "hubieran ofrecido"
+    },
+    "imperfectoAlt": {
+      "yo": "ofreciese",
+      "tu": "ofrecieses",
+      "ud": "ofreciese",
+      "nosotros": "ofreciésemos",
+      "vosotros": "ofrecieseis",
+      "uds": "ofreciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ofrecido",
+      "tu": "hubieses ofrecido",
+      "ud": "hubiese ofrecido",
+      "nosotros": "hubiésemos ofrecido",
+      "vosotros": "hubieseis ofrecido",
+      "uds": "hubiesen ofrecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "ofrece",
+    "vosotros": "ofreced",
+    "ud": "ofrezca",
+    "uds": "ofrezcan"
+  },
+  "negativo": {
+    "tu": "no ofrezcas",
+    "vosotros": "no ofrezcáis",
+    "ud": "no ofrezca",
+    "uds": "no ofrezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: ofrezco, ofrezca, ofrezcas, etc.",
+    "infinitivo": "to offer",
+    "gerundio": "offering",
+    "participioPasado": "offered",
+    "indicativo": {
+      "presente": "I offer, am offering",
+      "futuro": "I will offer",
+      "imperfecto": "I was offering, used to offer, offered",
+      "preterito": "I offered",
+      "condicional": "I would offer",
+      "presentePerfecto": "I have offered",
+      "futuroPerfecto": "I will have offered",
+      "pluscuamperfecto": "I had offered",
+      "preteritoAnterior": "I had offered",
+      "condicionalPerfecto": "I would have offered"
+    },
+    "subjuntivo": {
+      "presente": "I offer, am offering",
+      "imperfecto": "I offered, was offering",
+      "futuro": "I will offer",
+      "presentePerfecto": "I have offered, offered",
+      "futuroPerfecto": "I will have offered",
+      "pluscuamperfecto": "I had offered"
+    },
+    "afirmativo": "Offer!",
+    "negativo": "Don't offer!"
+  },
+  "attribution": "Fred Jehle"
+}

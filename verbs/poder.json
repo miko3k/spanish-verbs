@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "poder",
+  "gerundio": "pudiendo",
+  "participioPasado": "podido",
+  "indicativo": {
+    "presente": {
+      "yo": "puedo",
+      "tu": "puedes",
+      "ud": "puede",
+      "nosotros": "podemos",
+      "vosotros": "podéis",
+      "uds": "pueden"
+    },
+    "futuro": {
+      "yo": "podré",
+      "tu": "podrás",
+      "ud": "podrá",
+      "nosotros": "podremos",
+      "vosotros": "podréis",
+      "uds": "podrán"
+    },
+    "imperfecto": {
+      "yo": "podía",
+      "tu": "podías",
+      "ud": "podía",
+      "nosotros": "podíamos",
+      "vosotros": "podíais",
+      "uds": "podían"
+    },
+    "preterito": {
+      "yo": "pude",
+      "tu": "pudiste",
+      "ud": "pudo",
+      "nosotros": "pudimos",
+      "vosotros": "pudisteis",
+      "uds": "pudieron"
+    },
+    "condicional": {
+      "yo": "podría",
+      "tu": "podrías",
+      "ud": "podría",
+      "nosotros": "podríamos",
+      "vosotros": "podríais",
+      "uds": "podrían"
+    },
+    "presentePerfecto": {
+      "yo": "he podido",
+      "tu": "has podido",
+      "ud": "ha podido",
+      "nosotros": "hemos podido",
+      "vosotros": "habéis podido",
+      "uds": "han podido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré podido",
+      "tu": "habrás podido",
+      "ud": "habrá podido",
+      "nosotros": "habremos podido",
+      "vosotros": "habréis podido",
+      "uds": "habrán podido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había podido",
+      "tu": "habías podido",
+      "ud": "había podido",
+      "nosotros": "habíamos podido",
+      "vosotros": "habíais podido",
+      "uds": "habían podido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube podido",
+      "tu": "hubiste podido",
+      "ud": "hubo podido",
+      "nosotros": "hubimos podido",
+      "vosotros": "hubisteis podido",
+      "uds": "hubieron podido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría podido",
+      "tu": "habrías podido",
+      "ud": "habría podido",
+      "nosotros": "habríamos podido",
+      "vosotros": "habríais podido",
+      "uds": "habrían podido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pueda",
+      "tu": "puedas",
+      "ud": "pueda",
+      "nosotros": "podamos",
+      "vosotros": "podáis",
+      "uds": "puedan"
+    },
+    "imperfecto": {
+      "yo": "pudiera",
+      "tu": "pudieras",
+      "ud": "pudiera",
+      "nosotros": "pudiéramos",
+      "vosotros": "pudierais",
+      "uds": "pudieran"
+    },
+    "futuro": {
+      "yo": "pudiere",
+      "tu": "pudieres",
+      "ud": "pudiere",
+      "nosotros": "pudiéremos",
+      "vosotros": "pudiereis",
+      "uds": "pudieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya podido",
+      "tu": "hayas podido",
+      "ud": "haya podido",
+      "nosotros": "hayamos podido",
+      "vosotros": "hayáis podido",
+      "uds": "hayan podido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere podido",
+      "tu": "hubieres podido",
+      "ud": "hubiere podido",
+      "nosotros": "hubiéremos podido",
+      "vosotros": "hubiereis podido",
+      "uds": "hubieren podido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera podido",
+      "tu": "hubieras podido",
+      "ud": "hubiera podido",
+      "nosotros": "hubiéramos podido",
+      "vosotros": "hubierais podido",
+      "uds": "hubieran podido"
+    },
+    "imperfectoAlt": {
+      "yo": "pudiese",
+      "tu": "pudieses",
+      "ud": "pudiese",
+      "nosotros": "pudiésemos",
+      "vosotros": "pudieseis",
+      "uds": "pudiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese podido",
+      "tu": "hubieses podido",
+      "ud": "hubiese podido",
+      "nosotros": "hubiésemos podido",
+      "vosotros": "hubieseis podido",
+      "uds": "hubiesen podido"
+    }
+  },
+  "afirmativo": {
+    "tu": "puede",
+    "vosotros": "poded",
+    "ud": "pueda",
+    "uds": "puedan"
+  },
+  "negativo": {
+    "tu": "no puedas",
+    "vosotros": "no podáis",
+    "ud": "no pueda",
+    "uds": "no puedan"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Radical irregular para el futuro y condicional: podr-. Radical fuerte para el pretérito: pud-. Gerundio irregular: pudiendo.",
+    "infinitivo": "to be able, can",
+    "gerundio": "being able",
+    "participioPasado": "been able",
+    "indicativo": {
+      "presente": "I am able, can",
+      "futuro": "I will be able",
+      "imperfecto": "I used to be able, was able, could",
+      "preterito": "I was able, could",
+      "condicional": "I would be able",
+      "presentePerfecto": "I have been able",
+      "futuroPerfecto": "I will have been able",
+      "pluscuamperfecto": "I had been able",
+      "preteritoAnterior": "I had been able",
+      "condicionalPerfecto": "I would have been able"
+    },
+    "subjuntivo": {
+      "presente": "I am able, can",
+      "imperfecto": "I was able, could",
+      "futuro": "I will be able",
+      "presentePerfecto": "I have been able, was able",
+      "futuroPerfecto": "I will have been able",
+      "pluscuamperfecto": "I had been able"
+    },
+    "afirmativo": "Be able!",
+    "negativo": "Don't be able!"
+  },
+  "attribution": "Fred Jehle"
+}

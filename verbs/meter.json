@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "meter",
+  "gerundio": "metiendo",
+  "participioPasado": "metido",
+  "indicativo": {
+    "presente": {
+      "yo": "meto",
+      "tu": "metes",
+      "ud": "mete",
+      "nosotros": "metemos",
+      "vosotros": "metéis",
+      "uds": "meten"
+    },
+    "futuro": {
+      "yo": "meteré",
+      "tu": "meterás",
+      "ud": "meterá",
+      "nosotros": "meteremos",
+      "vosotros": "meteréis",
+      "uds": "meterán"
+    },
+    "imperfecto": {
+      "yo": "metía",
+      "tu": "metías",
+      "ud": "metía",
+      "nosotros": "metíamos",
+      "vosotros": "metíais",
+      "uds": "metían"
+    },
+    "preterito": {
+      "yo": "metí",
+      "tu": "metiste",
+      "ud": "metió",
+      "nosotros": "metimos",
+      "vosotros": "metisteis",
+      "uds": "metieron"
+    },
+    "condicional": {
+      "yo": "metería",
+      "tu": "meterías",
+      "ud": "metería",
+      "nosotros": "meteríamos",
+      "vosotros": "meteríais",
+      "uds": "meterían"
+    },
+    "presentePerfecto": {
+      "yo": "he metido",
+      "tu": "has metido",
+      "ud": "ha metido",
+      "nosotros": "hemos metido",
+      "vosotros": "habéis metido",
+      "uds": "han metido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré metido",
+      "tu": "habrás metido",
+      "ud": "habrá metido",
+      "nosotros": "habremos metido",
+      "vosotros": "habréis metido",
+      "uds": "habrán metido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había metido",
+      "tu": "habías metido",
+      "ud": "había metido",
+      "nosotros": "habíamos metido",
+      "vosotros": "habíais metido",
+      "uds": "habían metido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube metido",
+      "tu": "hubiste metido",
+      "ud": "hubo metido",
+      "nosotros": "hubimos metido",
+      "vosotros": "hubisteis metido",
+      "uds": "hubieron metido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría metido",
+      "tu": "habrías metido",
+      "ud": "habría metido",
+      "nosotros": "habríamos metido",
+      "vosotros": "habríais metido",
+      "uds": "habrían metido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "meta",
+      "tu": "metas",
+      "ud": "meta",
+      "nosotros": "metamos",
+      "vosotros": "metáis",
+      "uds": "metan"
+    },
+    "imperfecto": {
+      "yo": "metiera",
+      "tu": "metieras",
+      "ud": "metiera",
+      "nosotros": "metiéramos",
+      "vosotros": "metierais",
+      "uds": "metieran"
+    },
+    "futuro": {
+      "yo": "metiere",
+      "tu": "metieres",
+      "ud": "metiere",
+      "nosotros": "metiéremos",
+      "vosotros": "metiereis",
+      "uds": "metieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya metido",
+      "tu": "hayas metido",
+      "ud": "haya metido",
+      "nosotros": "hayamos metido",
+      "vosotros": "hayáis metido",
+      "uds": "hayan metido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere metido",
+      "tu": "hubieres metido",
+      "ud": "hubiere metido",
+      "nosotros": "hubiéremos metido",
+      "vosotros": "hubiereis metido",
+      "uds": "hubieren metido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera metido",
+      "tu": "hubieras metido",
+      "ud": "hubiera metido",
+      "nosotros": "hubiéramos metido",
+      "vosotros": "hubierais metido",
+      "uds": "hubieran metido"
+    },
+    "imperfectoAlt": {
+      "yo": "metiese",
+      "tu": "metieses",
+      "ud": "metiese",
+      "nosotros": "metiésemos",
+      "vosotros": "metieseis",
+      "uds": "metiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese metido",
+      "tu": "hubieses metido",
+      "ud": "hubiese metido",
+      "nosotros": "hubiésemos metido",
+      "vosotros": "hubieseis metido",
+      "uds": "hubiesen metido"
+    }
+  },
+  "afirmativo": {
+    "tu": "mete",
+    "vosotros": "meted",
+    "ud": "meta",
+    "uds": "metan"
+  },
+  "negativo": {
+    "tu": "no metas",
+    "vosotros": "no metáis",
+    "ud": "no meta",
+    "uds": "no metan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to put (in), place, insert",
+    "gerundio": "putting",
+    "participioPasado": "put",
+    "indicativo": {
+      "presente": "I put, am putting",
+      "futuro": "I will put",
+      "imperfecto": "I was putting, used to put, put",
+      "preterito": "I put",
+      "condicional": "I would put",
+      "presentePerfecto": "I have put",
+      "futuroPerfecto": "I will have put",
+      "pluscuamperfecto": "I had put",
+      "preteritoAnterior": "I had put",
+      "condicionalPerfecto": "I would have put"
+    },
+    "subjuntivo": {
+      "presente": "I put, am putting",
+      "imperfecto": "I put, was putting",
+      "futuro": "I will put",
+      "presentePerfecto": "I have put, put",
+      "futuroPerfecto": "I will have put",
+      "pluscuamperfecto": "I had put"
+    },
+    "afirmativo": "Put!",
+    "negativo": "Don't put!"
+  },
+  "attribution": "Fred Jehle"
+}

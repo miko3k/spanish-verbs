@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "renovar",
+  "gerundio": "renovando",
+  "participioPasado": "renovado",
+  "indicativo": {
+    "presente": {
+      "yo": "renuevo",
+      "tu": "renuevas",
+      "ud": "renueva",
+      "nosotros": "renovamos",
+      "vosotros": "renováis",
+      "uds": "renuevan"
+    },
+    "futuro": {
+      "yo": "renovaré",
+      "tu": "renovarás",
+      "ud": "renovará",
+      "nosotros": "renovaremos",
+      "vosotros": "renovaréis",
+      "uds": "renovarán"
+    },
+    "imperfecto": {
+      "yo": "renovaba",
+      "tu": "renovabas",
+      "ud": "renovaba",
+      "nosotros": "renovábamos",
+      "vosotros": "renovabais",
+      "uds": "renovaban"
+    },
+    "preterito": {
+      "yo": "renové",
+      "tu": "renovaste",
+      "ud": "renovó",
+      "nosotros": "renovamos",
+      "vosotros": "renovasteis",
+      "uds": "renovaron"
+    },
+    "condicional": {
+      "yo": "renovaría",
+      "tu": "renovarías",
+      "ud": "renovaría",
+      "nosotros": "renovaríamos",
+      "vosotros": "renovaríais",
+      "uds": "renovarían"
+    },
+    "presentePerfecto": {
+      "yo": "he renovado",
+      "tu": "has renovado",
+      "ud": "ha renovado",
+      "nosotros": "hemos renovado",
+      "vosotros": "habéis renovado",
+      "uds": "han renovado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré renovado",
+      "tu": "habrás renovado",
+      "ud": "habrá renovado",
+      "nosotros": "habremos renovado",
+      "vosotros": "habréis renovado",
+      "uds": "habrán renovado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había renovado",
+      "tu": "habías renovado",
+      "ud": "había renovado",
+      "nosotros": "habíamos renovado",
+      "vosotros": "habíais renovado",
+      "uds": "habían renovado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube renovado",
+      "tu": "hubiste renovado",
+      "ud": "hubo renovado",
+      "nosotros": "hubimos renovado",
+      "vosotros": "hubisteis renovado",
+      "uds": "hubieron renovado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría renovado",
+      "tu": "habrías renovado",
+      "ud": "habría renovado",
+      "nosotros": "habríamos renovado",
+      "vosotros": "habríais renovado",
+      "uds": "habrían renovado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "renueve",
+      "tu": "renueves",
+      "ud": "renueve",
+      "nosotros": "renovemos",
+      "vosotros": "renovéis",
+      "uds": "renueven"
+    },
+    "imperfecto": {
+      "yo": "renovara",
+      "tu": "renovaras",
+      "ud": "renovara",
+      "nosotros": "renováramos",
+      "vosotros": "renovarais",
+      "uds": "renovaran"
+    },
+    "futuro": {
+      "yo": "renovare",
+      "tu": "renovares",
+      "ud": "renovare",
+      "nosotros": "renováremos",
+      "vosotros": "renovareis",
+      "uds": "renovaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya renovado",
+      "tu": "hayas renovado",
+      "ud": "haya renovado",
+      "nosotros": "hayamos renovado",
+      "vosotros": "hayáis renovado",
+      "uds": "hayan renovado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere renovado",
+      "tu": "hubieres renovado",
+      "ud": "hubiere renovado",
+      "nosotros": "hubiéremos renovado",
+      "vosotros": "hubiereis renovado",
+      "uds": "hubieren renovado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera renovado",
+      "tu": "hubieras renovado",
+      "ud": "hubiera renovado",
+      "nosotros": "hubiéramos renovado",
+      "vosotros": "hubierais renovado",
+      "uds": "hubieran renovado"
+    },
+    "imperfectoAlt": {
+      "yo": "renovase",
+      "tu": "renovases",
+      "ud": "renovase",
+      "nosotros": "renovásemos",
+      "vosotros": "renovaseis",
+      "uds": "renovasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese renovado",
+      "tu": "hubieses renovado",
+      "ud": "hubiese renovado",
+      "nosotros": "hubiésemos renovado",
+      "vosotros": "hubieseis renovado",
+      "uds": "hubiesen renovado"
+    }
+  },
+  "afirmativo": {
+    "tu": "renueva",
+    "vosotros": "renovad",
+    "ud": "renueve",
+    "uds": "renueven"
+  },
+  "negativo": {
+    "tu": "no renueves",
+    "vosotros": "no renovéis",
+    "ud": "no renueve",
+    "uds": "no renueven"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa.",
+    "infinitivo": "to renew; to renovate",
+    "gerundio": "renewing",
+    "participioPasado": "renewed",
+    "indicativo": {
+      "presente": "I renew, am renewing",
+      "futuro": "I will renew",
+      "imperfecto": "I was renewing, used to renew, renewed",
+      "preterito": "I renewed",
+      "condicional": "I would renew",
+      "presentePerfecto": "I have renewed",
+      "futuroPerfecto": "I will have renewed",
+      "pluscuamperfecto": "I had renewed",
+      "preteritoAnterior": "I had renewed",
+      "condicionalPerfecto": "I would have renewed"
+    },
+    "subjuntivo": {
+      "presente": "I renew, am renewing",
+      "imperfecto": "I renew, was renewing",
+      "futuro": "I will renew",
+      "presentePerfecto": "I have renewed, renewed",
+      "futuroPerfecto": "I will have renewed",
+      "pluscuamperfecto": "I had renewed"
+    },
+    "afirmativo": "Renew!",
+    "negativo": "Don't renew!"
+  },
+  "attribution": "Fred Jehle"
+}

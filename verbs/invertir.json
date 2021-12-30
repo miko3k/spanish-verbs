@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "invertir",
+  "gerundio": "invirtiendo",
+  "participioPasado": "invertido",
+  "indicativo": {
+    "presente": {
+      "yo": "invierto",
+      "tu": "inviertes",
+      "ud": "invierte",
+      "nosotros": "invertimos",
+      "vosotros": "invertís",
+      "uds": "invierten"
+    },
+    "futuro": {
+      "yo": "invertiré",
+      "tu": "invertirás",
+      "ud": "invertirá",
+      "nosotros": "invertiremos",
+      "vosotros": "invertiréis",
+      "uds": "invertirán"
+    },
+    "imperfecto": {
+      "yo": "invertía",
+      "tu": "invertías",
+      "ud": "invertía",
+      "nosotros": "invertíamos",
+      "vosotros": "invertíais",
+      "uds": "invertían"
+    },
+    "preterito": {
+      "yo": "invertí",
+      "tu": "invertiste",
+      "ud": "invirtió",
+      "nosotros": "invertimos",
+      "vosotros": "invertisteis",
+      "uds": "invirtieron"
+    },
+    "condicional": {
+      "yo": "invertiría",
+      "tu": "invertirías",
+      "ud": "invertiría",
+      "nosotros": "invertiríamos",
+      "vosotros": "invertiríais",
+      "uds": "invertirían"
+    },
+    "presentePerfecto": {
+      "yo": "he invertido",
+      "tu": "has invertido",
+      "ud": "ha invertido",
+      "nosotros": "hemos invertido",
+      "vosotros": "habéis invertido",
+      "uds": "han invertido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré invertido",
+      "tu": "habrás invertido",
+      "ud": "habrá invertido",
+      "nosotros": "habremos invertido",
+      "vosotros": "habréis invertido",
+      "uds": "habrán invertido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había invertido",
+      "tu": "habías invertido",
+      "ud": "había invertido",
+      "nosotros": "habíamos invertido",
+      "vosotros": "habíais invertido",
+      "uds": "habían invertido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube invertido",
+      "tu": "hubiste invertido",
+      "ud": "hubo invertido",
+      "nosotros": "hubimos invertido",
+      "vosotros": "hubisteis invertido",
+      "uds": "hubieron invertido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría invertido",
+      "tu": "habrías invertido",
+      "ud": "habría invertido",
+      "nosotros": "habríamos invertido",
+      "vosotros": "habríais invertido",
+      "uds": "habrían invertido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "invierta",
+      "tu": "inviertas",
+      "ud": "invierta",
+      "nosotros": "invirtamos",
+      "vosotros": "invirtáis",
+      "uds": "inviertan"
+    },
+    "imperfecto": {
+      "yo": "invirtiera",
+      "tu": "invirtieras",
+      "ud": "invirtiera",
+      "nosotros": "invirtéramos",
+      "vosotros": "invirtierais",
+      "uds": "invirtieran"
+    },
+    "futuro": {
+      "yo": "invirtiere",
+      "tu": "invirtieres",
+      "ud": "invirtiere",
+      "nosotros": "invirtiéremos",
+      "vosotros": "invirtiereis",
+      "uds": "invirtieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya invertido",
+      "tu": "hayas invertido",
+      "ud": "haya invertido",
+      "nosotros": "hayamos invertido",
+      "vosotros": "hayáis invertido",
+      "uds": "hayan invertido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere invertido",
+      "tu": "hubieres invertido",
+      "ud": "hubiere invertido",
+      "nosotros": "hubiéremos invertido",
+      "vosotros": "hubiereis invertido",
+      "uds": "hubieren invertido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera invertido",
+      "tu": "hubieras invertido",
+      "ud": "hubiera invertido",
+      "nosotros": "hubiéramos invertido",
+      "vosotros": "hubierais invertido",
+      "uds": "hubieran invertido"
+    },
+    "imperfectoAlt": {
+      "yo": "invirtiese",
+      "tu": "invirtieses",
+      "ud": "invirtiese",
+      "nosotros": "invirtiésemos",
+      "vosotros": "invirtieseis",
+      "uds": "invirtiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese invertido",
+      "tu": "hubieses invertido",
+      "ud": "hubiese invertido",
+      "nosotros": "hubiésemos invertido",
+      "vosotros": "hubieseis invertido",
+      "uds": "hubiesen invertido"
+    }
+  },
+  "afirmativo": {
+    "tu": "invierte",
+    "vosotros": "invertid",
+    "ud": "invierta",
+    "uds": "inviertan"
+  },
+  "negativo": {
+    "tu": "no inviertas",
+    "vosotros": "no invirtáis",
+    "ud": "no invierta",
+    "uds": "no inviertan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i.",
+    "infinitivo": "to invest",
+    "gerundio": "investing",
+    "participioPasado": "invested",
+    "indicativo": {
+      "presente": "I invest, am investing",
+      "futuro": "I will invest",
+      "imperfecto": "I was investing, used to invest, invested",
+      "preterito": "I invested",
+      "condicional": "I would invest",
+      "presentePerfecto": "I have invested",
+      "futuroPerfecto": "I will have invested",
+      "pluscuamperfecto": "I had invested",
+      "preteritoAnterior": "I had invested",
+      "condicionalPerfecto": "I would have invested"
+    },
+    "subjuntivo": {
+      "presente": "I invest, am investing",
+      "imperfecto": "I invested, was investing",
+      "futuro": "I will invest",
+      "presentePerfecto": "I have invested, invested",
+      "futuroPerfecto": "I will have invested",
+      "pluscuamperfecto": "I had invested"
+    },
+    "afirmativo": "Invest!",
+    "negativo": "Don't invest!"
+  },
+  "attribution": "Fred Jehle"
+}

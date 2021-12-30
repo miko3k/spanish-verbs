@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "continuar",
+  "gerundio": "continuando",
+  "participioPasado": "continuado",
+  "indicativo": {
+    "presente": {
+      "yo": "continúo",
+      "tu": "continúas",
+      "ud": "continúa",
+      "nosotros": "continuamos",
+      "vosotros": "continuáis",
+      "uds": "continúan"
+    },
+    "futuro": {
+      "yo": "continuaré",
+      "tu": "continuarás",
+      "ud": "continuará",
+      "nosotros": "continuaremos",
+      "vosotros": "continuaréis",
+      "uds": "continuarán"
+    },
+    "imperfecto": {
+      "yo": "continuaba",
+      "tu": "continuabas",
+      "ud": "continuaba",
+      "nosotros": "continuábamos",
+      "vosotros": "continuabais",
+      "uds": "continuaban"
+    },
+    "preterito": {
+      "yo": "continué",
+      "tu": "continuaste",
+      "ud": "continuó",
+      "nosotros": "continuamos",
+      "vosotros": "continuasteis",
+      "uds": "continuaron"
+    },
+    "condicional": {
+      "yo": "continuaría",
+      "tu": "continuarías",
+      "ud": "continuaría",
+      "nosotros": "continuaríamos",
+      "vosotros": "continuaríais",
+      "uds": "continuarían"
+    },
+    "presentePerfecto": {
+      "yo": "he continuado",
+      "tu": "has continuado",
+      "ud": "ha continuado",
+      "nosotros": "hemos continuado",
+      "vosotros": "habéis continuado",
+      "uds": "han continuado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré continuado",
+      "tu": "habrás continuado",
+      "ud": "habrá continuado",
+      "nosotros": "habremos continuado",
+      "vosotros": "habréis continuado",
+      "uds": "habrán continuado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había continuado",
+      "tu": "habías continuado",
+      "ud": "había continuado",
+      "nosotros": "habíamos continuado",
+      "vosotros": "habíais continuado",
+      "uds": "habían continuado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube continuado",
+      "tu": "hubiste continuado",
+      "ud": "hubo continuado",
+      "nosotros": "hubimos continuado",
+      "vosotros": "hubisteis continuado",
+      "uds": "hubieron continuado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría continuado",
+      "tu": "habrías continuado",
+      "ud": "habría continuado",
+      "nosotros": "habríamos continuado",
+      "vosotros": "habríais continuado",
+      "uds": "habrían continuado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "continúe",
+      "tu": "continúes",
+      "ud": "continúe",
+      "nosotros": "continuemos",
+      "vosotros": "continuéis",
+      "uds": "continúen"
+    },
+    "imperfecto": {
+      "yo": "continuara",
+      "tu": "continuaras",
+      "ud": "continuara",
+      "nosotros": "continuáramos",
+      "vosotros": "continuarais",
+      "uds": "continuaran"
+    },
+    "futuro": {
+      "yo": "continuare",
+      "tu": "continuares",
+      "ud": "continuare",
+      "nosotros": "continuáremos",
+      "vosotros": "continuareis",
+      "uds": "continuaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya continuado",
+      "tu": "hayas continuado",
+      "ud": "haya continuado",
+      "nosotros": "hayamos continuado",
+      "vosotros": "hayáis continuado",
+      "uds": "hayan continuado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere continuado",
+      "tu": "hubieres continuado",
+      "ud": "hubiere continuado",
+      "nosotros": "hubiéremos continuado",
+      "vosotros": "hubiereis continuado",
+      "uds": "hubieren continuado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera continuado",
+      "tu": "hubieras continuado",
+      "ud": "hubiera continuado",
+      "nosotros": "hubiéramos continuado",
+      "vosotros": "hubierais continuado",
+      "uds": "hubieran continuado"
+    },
+    "imperfectoAlt": {
+      "yo": "continuase",
+      "tu": "continuases",
+      "ud": "continuase",
+      "nosotros": "continuásemos",
+      "vosotros": "continuaseis",
+      "uds": "continuasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese continuado",
+      "tu": "hubieses continuado",
+      "ud": "hubiese continuado",
+      "nosotros": "hubiésemos continuado",
+      "vosotros": "hubieseis continuado",
+      "uds": "hubiesen continuado"
+    }
+  },
+  "afirmativo": {
+    "tu": "continúa",
+    "vosotros": "continuad",
+    "ud": "continúe",
+    "uds": "continúen"
+  },
+  "negativo": {
+    "tu": "no continúes",
+    "vosotros": "no continuéis",
+    "ud": "no continúe",
+    "uds": "no continúen"
+  },
+  "english": {
+    "note": "Cambio: u > ú cuando la radical tiene el acento tónico.",
+    "infinitivo": "to continue",
+    "gerundio": "continuing",
+    "participioPasado": "continued",
+    "indicativo": {
+      "presente": "I continue, am continuing",
+      "futuro": "I will continue",
+      "imperfecto": "I was continuing, used to continue, continued",
+      "preterito": "I continued",
+      "condicional": "I would continue",
+      "presentePerfecto": "I have continued",
+      "futuroPerfecto": "I will have continued",
+      "pluscuamperfecto": "I had continued",
+      "preteritoAnterior": "I had continued",
+      "condicionalPerfecto": "I would have continued"
+    },
+    "subjuntivo": {
+      "presente": "I continue, am continuing",
+      "imperfecto": "I continued, was continuing",
+      "futuro": "I will continue",
+      "presentePerfecto": "I have continued, continued",
+      "futuroPerfecto": "I will have continued",
+      "pluscuamperfecto": "I had continued"
+    },
+    "afirmativo": "Continue!",
+    "negativo": "Don't continue!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "distinguir",
+  "gerundio": "distinguiendo",
+  "participioPasado": "distinguido",
+  "indicativo": {
+    "presente": {
+      "yo": "distingo",
+      "tu": "distingues",
+      "ud": "distingue",
+      "nosotros": "distinguimos",
+      "vosotros": "distinguís",
+      "uds": "distinguen"
+    },
+    "futuro": {
+      "yo": "distinguiré",
+      "tu": "distinguirás",
+      "ud": "distinguirá",
+      "nosotros": "distinguiremos",
+      "vosotros": "distinguiréis",
+      "uds": "distinguirán"
+    },
+    "imperfecto": {
+      "yo": "distinguía",
+      "tu": "distinguías",
+      "ud": "distinguía",
+      "nosotros": "distinguíamos",
+      "vosotros": "distinguíais",
+      "uds": "distinguían"
+    },
+    "preterito": {
+      "yo": "distinguí",
+      "tu": "distinguiste",
+      "ud": "distinguió",
+      "nosotros": "distinguimos",
+      "vosotros": "distinguisteis",
+      "uds": "distinguieron"
+    },
+    "condicional": {
+      "yo": "distinguiría",
+      "tu": "distinguirías",
+      "ud": "distinguiría",
+      "nosotros": "distinguiríamos",
+      "vosotros": "distinguiríais",
+      "uds": "distinguirían"
+    },
+    "presentePerfecto": {
+      "yo": "he distinguido",
+      "tu": "has distinguido",
+      "ud": "ha distinguido",
+      "nosotros": "hemos distinguido",
+      "vosotros": "habéis distinguido",
+      "uds": "han distinguido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré distinguido",
+      "tu": "habrás distinguido",
+      "ud": "habrá distinguido",
+      "nosotros": "habremos distinguido",
+      "vosotros": "habréis distinguido",
+      "uds": "habrán distinguido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había distinguido",
+      "tu": "habías distinguido",
+      "ud": "había distinguido",
+      "nosotros": "habíamos distinguido",
+      "vosotros": "habíais distinguido",
+      "uds": "habían distinguido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube distinguido",
+      "tu": "hubiste distinguido",
+      "ud": "hubo distinguido",
+      "nosotros": "hubimos distinguido",
+      "vosotros": "hubisteis distinguido",
+      "uds": "hubieron distinguido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría distinguido",
+      "tu": "habrías distinguido",
+      "ud": "habría distinguido",
+      "nosotros": "habríamos distinguido",
+      "vosotros": "habríais distinguido",
+      "uds": "habrían distinguido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "distinga",
+      "tu": "distingas",
+      "ud": "distinga",
+      "nosotros": "distingamos",
+      "vosotros": "distingáis",
+      "uds": "distingan"
+    },
+    "imperfecto": {
+      "yo": "distinguiera",
+      "tu": "distinguieras",
+      "ud": "distinguiera",
+      "nosotros": "distinguiéramos",
+      "vosotros": "distinguierais",
+      "uds": "distinguieran"
+    },
+    "futuro": {
+      "yo": "distinguiere",
+      "tu": "distinguieres",
+      "ud": "distinguiere",
+      "nosotros": "distinguiéremos",
+      "vosotros": "distinguiereis",
+      "uds": "distinguieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya distinguido",
+      "tu": "hayas distinguido",
+      "ud": "haya distinguido",
+      "nosotros": "hayamos distinguido",
+      "vosotros": "hayáis distinguido",
+      "uds": "hayan distinguido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere distinguido",
+      "tu": "hubieres distinguido",
+      "ud": "hubiere distinguido",
+      "nosotros": "hubiéremos distinguido",
+      "vosotros": "hubiereis distinguido",
+      "uds": "hubieren distinguido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera distinguido",
+      "tu": "hubieras distinguido",
+      "ud": "hubiera distinguido",
+      "nosotros": "hubiéramos distinguido",
+      "vosotros": "hubierais distinguido",
+      "uds": "hubieran distinguido"
+    },
+    "imperfectoAlt": {
+      "yo": "distinguiese",
+      "tu": "distinguieses",
+      "ud": "distinguiese",
+      "nosotros": "distinguiésemos",
+      "vosotros": "distinguieseis",
+      "uds": "distinguiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese distinguido",
+      "tu": "hubieses distinguido",
+      "ud": "hubiese distinguido",
+      "nosotros": "hubiésemos distinguido",
+      "vosotros": "hubieseis distinguido",
+      "uds": "hubiesen distinguido"
+    }
+  },
+  "afirmativo": {
+    "tu": "distingue",
+    "vosotros": "distinguid",
+    "ud": "distinga",
+    "uds": "distingan"
+  },
+  "negativo": {
+    "tu": "no distingas",
+    "vosotros": "no distingáis",
+    "ud": "no distinga",
+    "uds": "no distingan"
+  },
+  "english": {
+    "note": "Cambios: gu > g delante a y o: distingo, distinga, distingas...",
+    "infinitivo": "to distinguish, discern, make out, recognize, single out",
+    "gerundio": "distinguishing",
+    "participioPasado": "distinguished",
+    "indicativo": {
+      "presente": "I distinguish, am distinguishing",
+      "futuro": "I will distinguish",
+      "imperfecto": "I was distinguishing, used to distinguish, distinguished",
+      "preterito": "I distinguished",
+      "condicional": "I would distinguish",
+      "presentePerfecto": "I have distinguished",
+      "futuroPerfecto": "I will have distinguished",
+      "pluscuamperfecto": "I had distinguished",
+      "preteritoAnterior": "I had distinguished",
+      "condicionalPerfecto": "I would have distinguished"
+    },
+    "subjuntivo": {
+      "presente": "I distinguish, am distinguishing",
+      "imperfecto": "I distinguished, was distinguishing",
+      "futuro": "I will distinguish",
+      "presentePerfecto": "I have distinguished, distinguished",
+      "futuroPerfecto": "I will have distinguished",
+      "pluscuamperfecto": "I had distinguished"
+    },
+    "afirmativo": "Distinguish!",
+    "negativo": "Don't distinguish!"
+  },
+  "attribution": "Fred Jehle"
+}

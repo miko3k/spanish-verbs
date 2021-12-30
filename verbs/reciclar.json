@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "reciclar",
+  "gerundio": "reciclando",
+  "participioPasado": "reciclado",
+  "indicativo": {
+    "presente": {
+      "yo": "reciclo",
+      "tu": "reciclas",
+      "ud": "recicla",
+      "nosotros": "reciclamos",
+      "vosotros": "recicláis",
+      "uds": "reciclan"
+    },
+    "futuro": {
+      "yo": "reciclaré",
+      "tu": "reciclarás",
+      "ud": "reciclará",
+      "nosotros": "reciclaremos",
+      "vosotros": "reciclaréis",
+      "uds": "reciclarán"
+    },
+    "imperfecto": {
+      "yo": "reciclaba",
+      "tu": "reciclabas",
+      "ud": "reciclaba",
+      "nosotros": "reciclábamos",
+      "vosotros": "reciclabais",
+      "uds": "reciclaban"
+    },
+    "preterito": {
+      "yo": "reciclé",
+      "tu": "reciclaste",
+      "ud": "recicló",
+      "nosotros": "reciclamos",
+      "vosotros": "reciclasteis",
+      "uds": "reciclaron"
+    },
+    "condicional": {
+      "yo": "reciclaría",
+      "tu": "reciclarías",
+      "ud": "reciclaría",
+      "nosotros": "reciclaríamos",
+      "vosotros": "reciclaríais",
+      "uds": "reciclarían"
+    },
+    "presentePerfecto": {
+      "yo": "he reciclado",
+      "tu": "has reciclado",
+      "ud": "ha reciclado",
+      "nosotros": "hemos reciclado",
+      "vosotros": "habéis reciclado",
+      "uds": "han reciclado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré reciclado",
+      "tu": "habrás reciclado",
+      "ud": "habrá reciclado",
+      "nosotros": "habremos reciclado",
+      "vosotros": "habréis reciclado",
+      "uds": "habrán reciclado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había reciclado",
+      "tu": "habías reciclado",
+      "ud": "había reciclado",
+      "nosotros": "habíamos reciclado",
+      "vosotros": "habíais reciclado",
+      "uds": "habían reciclado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube reciclado",
+      "tu": "hubiste reciclado",
+      "ud": "hubo reciclado",
+      "nosotros": "hubimos reciclado",
+      "vosotros": "hubisteis reciclado",
+      "uds": "hubieron reciclado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría reciclado",
+      "tu": "habrías reciclado",
+      "ud": "habría reciclado",
+      "nosotros": "habríamos reciclado",
+      "vosotros": "habríais reciclado",
+      "uds": "habrían reciclado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "recicle",
+      "tu": "recicles",
+      "ud": "recicle",
+      "nosotros": "reciclemos",
+      "vosotros": "recicléis",
+      "uds": "reciclen"
+    },
+    "imperfecto": {
+      "yo": "reciclara",
+      "tu": "reciclaras",
+      "ud": "reciclara",
+      "nosotros": "recicláramos",
+      "vosotros": "reciclarais",
+      "uds": "reciclaran"
+    },
+    "futuro": {
+      "yo": "reciclare",
+      "tu": "reciclares",
+      "ud": "reciclare",
+      "nosotros": "recicláremos",
+      "vosotros": "reciclareis",
+      "uds": "reciclaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya reciclado",
+      "tu": "hayas reciclado",
+      "ud": "haya reciclado",
+      "nosotros": "hayamos reciclado",
+      "vosotros": "hayáis reciclado",
+      "uds": "hayan reciclado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere reciclado",
+      "tu": "hubieres reciclado",
+      "ud": "hubiere reciclado",
+      "nosotros": "hubiéremos reciclado",
+      "vosotros": "hubiereis reciclado",
+      "uds": "hubieren reciclado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera reciclado",
+      "tu": "hubieras reciclado",
+      "ud": "hubiera reciclado",
+      "nosotros": "hubiéramos reciclado",
+      "vosotros": "hubierais reciclado",
+      "uds": "hubieran reciclado"
+    },
+    "imperfectoAlt": {
+      "yo": "reciclase",
+      "tu": "reciclases",
+      "ud": "reciclase",
+      "nosotros": "reciclásemos",
+      "vosotros": "reciclaseis",
+      "uds": "reciclasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese reciclado",
+      "tu": "hubieses reciclado",
+      "ud": "hubiese reciclado",
+      "nosotros": "hubiésemos reciclado",
+      "vosotros": "hubieseis reciclado",
+      "uds": "hubiesen reciclado"
+    }
+  },
+  "afirmativo": {
+    "tu": "recicla",
+    "vosotros": "reciclad",
+    "ud": "recicle",
+    "uds": "reciclen"
+  },
+  "negativo": {
+    "tu": "no recicles",
+    "vosotros": "no recicléis",
+    "ud": "no recicle",
+    "uds": "no reciclen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to recycle; to retrain (a person)",
+    "gerundio": "recycling",
+    "participioPasado": "recycled",
+    "indicativo": {
+      "presente": "I recycle, am recycling",
+      "futuro": "I will recycle",
+      "imperfecto": "I was recycling, used to recycle, recycled",
+      "preterito": "I recycled",
+      "condicional": "I would recycle",
+      "presentePerfecto": "I have recycled",
+      "futuroPerfecto": "I will have recycled",
+      "pluscuamperfecto": "I had recycled",
+      "preteritoAnterior": "I had recycled",
+      "condicionalPerfecto": "I would have recycled"
+    },
+    "subjuntivo": {
+      "presente": "I recycle, am recycling",
+      "imperfecto": "I recycled, was recycling",
+      "futuro": "I will recycle",
+      "presentePerfecto": "I have recycled, recycled",
+      "futuroPerfecto": "I will have recycled",
+      "pluscuamperfecto": "I had recycled"
+    },
+    "afirmativo": "Recycle!",
+    "negativo": "Don't recycle!"
+  },
+  "attribution": "Fred Jehle"
+}

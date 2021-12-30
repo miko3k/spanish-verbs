@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "civilizar",
+  "gerundio": "civilizando",
+  "participioPasado": "civilizado",
+  "indicativo": {
+    "presente": {
+      "yo": "civilizo",
+      "tu": "civilizas",
+      "ud": "civiliza",
+      "nosotros": "civilizamos",
+      "vosotros": "civilizáis",
+      "uds": "civilizan"
+    },
+    "futuro": {
+      "yo": "civilizaré",
+      "tu": "civilizarás",
+      "ud": "civilizará",
+      "nosotros": "civilizaremos",
+      "vosotros": "civilizaréis",
+      "uds": "civilizarán"
+    },
+    "imperfecto": {
+      "yo": "civilizaba",
+      "tu": "civilizabas",
+      "ud": "civilizaba",
+      "nosotros": "civilizábamos",
+      "vosotros": "civilizabais",
+      "uds": "civilizaban"
+    },
+    "preterito": {
+      "yo": "civilicé",
+      "tu": "civilizaste",
+      "ud": "civilizó",
+      "nosotros": "civilizamos",
+      "vosotros": "civilizasteis",
+      "uds": "civilizaron"
+    },
+    "condicional": {
+      "yo": "civilizaría",
+      "tu": "civilizarías",
+      "ud": "civilizaría",
+      "nosotros": "civilizaríamos",
+      "vosotros": "civilizaríais",
+      "uds": "civilizarían"
+    },
+    "presentePerfecto": {
+      "yo": "he civilizado",
+      "tu": "has civilizado",
+      "ud": "ha civilizado",
+      "nosotros": "hemos civilizado",
+      "vosotros": "habéis civilizado",
+      "uds": "han civilizado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré civilizado",
+      "tu": "habrás civilizado",
+      "ud": "habrá civilizado",
+      "nosotros": "habremos civilizado",
+      "vosotros": "habréis civilizado",
+      "uds": "habrán civilizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había civilizado",
+      "tu": "habías civilizado",
+      "ud": "había civilizado",
+      "nosotros": "habíamos civilizado",
+      "vosotros": "habíais civilizado",
+      "uds": "habían civilizado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube civilizado",
+      "tu": "hubiste civilizado",
+      "ud": "hubo civilizado",
+      "nosotros": "hubimos civilizado",
+      "vosotros": "hubisteis civilizado",
+      "uds": "hubieron civilizado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría civilizado",
+      "tu": "habrías civilizado",
+      "ud": "habría civilizado",
+      "nosotros": "habríamos civilizado",
+      "vosotros": "habríais civilizado",
+      "uds": "habrían civilizado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "civilice",
+      "tu": "civilices",
+      "ud": "civilice",
+      "nosotros": "civilicemos",
+      "vosotros": "civilicéis",
+      "uds": "civilicen"
+    },
+    "imperfecto": {
+      "yo": "civilizara",
+      "tu": "civilizaras",
+      "ud": "civilizara",
+      "nosotros": "civilizáramos",
+      "vosotros": "civilizarais",
+      "uds": "civilizaran"
+    },
+    "futuro": {
+      "yo": "civilizare",
+      "tu": "civilizares",
+      "ud": "civilizare",
+      "nosotros": "civilizáremos",
+      "vosotros": "civilizareis",
+      "uds": "civilizaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya civilizado",
+      "tu": "hayas civilizado",
+      "ud": "haya civilizado",
+      "nosotros": "hayamos civilizado",
+      "vosotros": "hayáis civilizado",
+      "uds": "hayan civilizado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere civilizado",
+      "tu": "hubieres civilizado",
+      "ud": "hubiere civilizado",
+      "nosotros": "hubiéremos civilizado",
+      "vosotros": "hubiereis civilizado",
+      "uds": "hubieren civilizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera civilizado",
+      "tu": "hubieras civilizado",
+      "ud": "hubiera civilizado",
+      "nosotros": "hubiéramos civilizado",
+      "vosotros": "hubierais civilizado",
+      "uds": "hubieran civilizado"
+    },
+    "imperfectoAlt": {
+      "yo": "civilizase",
+      "tu": "civilizases",
+      "ud": "civilizase",
+      "nosotros": "civilizásemos",
+      "vosotros": "civilizaseis",
+      "uds": "civilizasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese civilizado",
+      "tu": "hubieses civilizado",
+      "ud": "hubiese civilizado",
+      "nosotros": "hubiésemos civilizado",
+      "vosotros": "hubieseis civilizado",
+      "uds": "hubiesen civilizado"
+    }
+  },
+  "afirmativo": {
+    "tu": "civiliza",
+    "vosotros": "civilizad",
+    "ud": "civilice",
+    "uds": "civilicen"
+  },
+  "negativo": {
+    "tu": "no civilices",
+    "vosotros": "no civilicéis",
+    "ud": "no civilice",
+    "uds": "no civilicen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to civilize",
+    "gerundio": "civilizing",
+    "participioPasado": "civilized",
+    "indicativo": {
+      "presente": "I civilize, am civilizing",
+      "futuro": "I will civilize",
+      "imperfecto": "I was civilizing, used to civilize, civilized",
+      "preterito": "I civilized",
+      "condicional": "I would civilize",
+      "presentePerfecto": "I have civilized",
+      "futuroPerfecto": "I will have civilized",
+      "pluscuamperfecto": "I had civilized",
+      "preteritoAnterior": "I had civilized",
+      "condicionalPerfecto": "I would have civilized"
+    },
+    "subjuntivo": {
+      "presente": "I civilize, am civilizing",
+      "imperfecto": "I civilized, was civilizing",
+      "futuro": "I will civilize",
+      "presentePerfecto": "I have civilized, civilized",
+      "futuroPerfecto": "I will have civilized",
+      "pluscuamperfecto": "I had civilized"
+    },
+    "afirmativo": "Civilize!",
+    "negativo": "Don't civilize!"
+  },
+  "attribution": "Fred Jehle"
+}

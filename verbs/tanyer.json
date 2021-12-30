@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "tañer",
+  "gerundio": "tañendo",
+  "participioPasado": "tañido",
+  "indicativo": {
+    "presente": {
+      "yo": "taño",
+      "tu": "tañes",
+      "ud": "tañe",
+      "nosotros": "tañemos",
+      "vosotros": "tañéis",
+      "uds": "tañen"
+    },
+    "futuro": {
+      "yo": "tañeré",
+      "tu": "tañerás",
+      "ud": "tañerá",
+      "nosotros": "tañeremos",
+      "vosotros": "tañeréis",
+      "uds": "tañerán"
+    },
+    "imperfecto": {
+      "yo": "tañía",
+      "tu": "tañías",
+      "ud": "tañía",
+      "nosotros": "tañíamos",
+      "vosotros": "tañíais",
+      "uds": "tañían"
+    },
+    "preterito": {
+      "yo": "tañí",
+      "tu": "tañiste",
+      "ud": "tañó",
+      "nosotros": "tañimos",
+      "vosotros": "tañisteis",
+      "uds": "tañeron"
+    },
+    "condicional": {
+      "yo": "tañería",
+      "tu": "tañerías",
+      "ud": "tañería",
+      "nosotros": "tañeríamos",
+      "vosotros": "tañeríais",
+      "uds": "tañerían"
+    },
+    "presentePerfecto": {
+      "yo": "he tañido",
+      "tu": "has tañido",
+      "ud": "ha tañido",
+      "nosotros": "hemos tañido",
+      "vosotros": "habéis tañido",
+      "uds": "han tañido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré tañido",
+      "tu": "habrás tañido",
+      "ud": "habrá tañido",
+      "nosotros": "habremos tañido",
+      "vosotros": "habréis tañido",
+      "uds": "habrán tañido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había tañido",
+      "tu": "habías tañido",
+      "ud": "había tañido",
+      "nosotros": "habíamos tañido",
+      "vosotros": "habíais tañido",
+      "uds": "habían tañido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube tañido",
+      "tu": "hubiste tañido",
+      "ud": "hubo tañido",
+      "nosotros": "hubimos tañido",
+      "vosotros": "hubisteis tañido",
+      "uds": "hubieron tañido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría tañido",
+      "tu": "habrías tañido",
+      "ud": "habría tañido",
+      "nosotros": "habríamos tañido",
+      "vosotros": "habríais tañido",
+      "uds": "habrían tañido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "taña",
+      "tu": "tañas",
+      "ud": "taña",
+      "nosotros": "tañamos",
+      "vosotros": "tañáis",
+      "uds": "tañan"
+    },
+    "imperfecto": {
+      "yo": "tañera",
+      "tu": "tañeras",
+      "ud": "tañera",
+      "nosotros": "tañéramos",
+      "vosotros": "tañerais",
+      "uds": "tañeran"
+    },
+    "futuro": {
+      "yo": "tañere",
+      "tu": "tañeres",
+      "ud": "tañere",
+      "nosotros": "tañéremos",
+      "vosotros": "tañereis",
+      "uds": "tañeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya tañido",
+      "tu": "hayas tañido",
+      "ud": "haya tañido",
+      "nosotros": "hayamos tañido",
+      "vosotros": "hayáis tañido",
+      "uds": "hayan tañido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere tañido",
+      "tu": "hubieres tañido",
+      "ud": "hubiere tañido",
+      "nosotros": "hubiéremos tañido",
+      "vosotros": "hubiereis tañido",
+      "uds": "hubieren tañido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera tañido",
+      "tu": "hubieras tañido",
+      "ud": "hubiera tañido",
+      "nosotros": "hubiéramos tañido",
+      "vosotros": "hubierais tañido",
+      "uds": "hubieran tañido"
+    },
+    "imperfectoAlt": {
+      "yo": "tañese",
+      "tu": "tañeses",
+      "ud": "tañese",
+      "nosotros": "tañésemos",
+      "vosotros": "tañeseis",
+      "uds": "tañesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese tañido",
+      "tu": "hubieses tañido",
+      "ud": "hubiese tañido",
+      "nosotros": "hubiésemos tañido",
+      "vosotros": "hubieseis tañido",
+      "uds": "hubiesen tañido"
+    }
+  },
+  "afirmativo": {
+    "tu": "tañe",
+    "vosotros": "tañed",
+    "ud": "taña",
+    "uds": "tañan"
+  },
+  "negativo": {
+    "tu": "no tañas",
+    "vosotros": "no tañáis",
+    "ud": "no taña",
+    "uds": "no tañan"
+  },
+  "english": {
+    "note": "La i (cuando no se acentúa) detrás de ñ desaparece delante de otra vocal, por ejemplo: tañó, tañeron, tañendo.",
+    "infinitivo": "to play (music)",
+    "gerundio": "playing",
+    "participioPasado": "played",
+    "indicativo": {
+      "presente": "I play, am playing",
+      "futuro": "I will play",
+      "imperfecto": "I was playing, used to play, played",
+      "preterito": "I played",
+      "condicional": "I would play",
+      "presentePerfecto": "I have played",
+      "futuroPerfecto": "I will have played",
+      "pluscuamperfecto": "I had played",
+      "preteritoAnterior": "I had played",
+      "condicionalPerfecto": "I would have played"
+    },
+    "subjuntivo": {
+      "presente": "I play, am playing",
+      "imperfecto": "I played, was playing",
+      "futuro": "I will play",
+      "presentePerfecto": "I have played, played",
+      "futuroPerfecto": "I will have played",
+      "pluscuamperfecto": "I had played"
+    },
+    "afirmativo": "Play!",
+    "negativo": "Don't play!"
+  },
+  "attribution": "Fred Jehle"
+}

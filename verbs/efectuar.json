@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "efectuar",
+  "gerundio": "efectuando",
+  "participioPasado": "efectuado",
+  "indicativo": {
+    "presente": {
+      "yo": "efectúo",
+      "tu": "efectúas",
+      "ud": "efectúa",
+      "nosotros": "efectuamos",
+      "vosotros": "efectuáis",
+      "uds": "efectúan"
+    },
+    "futuro": {
+      "yo": "efectuaré",
+      "tu": "efectuarás",
+      "ud": "efectuará",
+      "nosotros": "efectuaremos",
+      "vosotros": "efectuaréis",
+      "uds": "efectuarán"
+    },
+    "imperfecto": {
+      "yo": "efectuaba",
+      "tu": "efectuabas",
+      "ud": "efectuaba",
+      "nosotros": "efectuábamos",
+      "vosotros": "efectuabais",
+      "uds": "efectuaban"
+    },
+    "preterito": {
+      "yo": "efectué",
+      "tu": "efectuaste",
+      "ud": "efectuó",
+      "nosotros": "efectuamos",
+      "vosotros": "efectuasteis",
+      "uds": "efectuaron"
+    },
+    "condicional": {
+      "yo": "efectuaría",
+      "tu": "efectuarías",
+      "ud": "efectuaría",
+      "nosotros": "efectuaríamos",
+      "vosotros": "efectuaríais",
+      "uds": "efectuarían"
+    },
+    "presentePerfecto": {
+      "yo": "he efectuado",
+      "tu": "has efectuado",
+      "ud": "ha efectuado",
+      "nosotros": "hemos efectuado",
+      "vosotros": "habéis efectuado",
+      "uds": "han efectuado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré efectuado",
+      "tu": "habrás efectuado",
+      "ud": "habrá efectuado",
+      "nosotros": "habremos efectuado",
+      "vosotros": "habréis efectuado",
+      "uds": "habrán efectuado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había efectuado",
+      "tu": "habías efectuado",
+      "ud": "había efectuado",
+      "nosotros": "habíamos efectuado",
+      "vosotros": "habíais efectuado",
+      "uds": "habían efectuado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube efectuado",
+      "tu": "hubiste efectuado",
+      "ud": "hubo efectuado",
+      "nosotros": "hubimos efectuado",
+      "vosotros": "hubisteis efectuado",
+      "uds": "hubieron efectuado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría efectuado",
+      "tu": "habrías efectuado",
+      "ud": "habría efectuado",
+      "nosotros": "habríamos efectuado",
+      "vosotros": "habríais efectuado",
+      "uds": "habrían efectuado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "efectúe",
+      "tu": "efectúes",
+      "ud": "efectúe",
+      "nosotros": "efectuemos",
+      "vosotros": "efectuéis",
+      "uds": "efectúen"
+    },
+    "imperfecto": {
+      "yo": "efectuara",
+      "tu": "efectuaras",
+      "ud": "efectuara",
+      "nosotros": "efectuáramos",
+      "vosotros": "efectuarais",
+      "uds": "efectuaran"
+    },
+    "futuro": {
+      "yo": "efectuare",
+      "tu": "efectuares",
+      "ud": "efectuare",
+      "nosotros": "efectuáremos",
+      "vosotros": "efectuareis",
+      "uds": "efectuaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya efectuado",
+      "tu": "hayas efectuado",
+      "ud": "haya efectuado",
+      "nosotros": "hayamos efectuado",
+      "vosotros": "hayáis efectuado",
+      "uds": "hayan efectuado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere efectuado",
+      "tu": "hubieres efectuado",
+      "ud": "hubiere efectuado",
+      "nosotros": "hubiéremos efectuado",
+      "vosotros": "hubiereis efectuado",
+      "uds": "hubieren efectuado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera efectuado",
+      "tu": "hubieras efectuado",
+      "ud": "hubiera efectuado",
+      "nosotros": "hubiéramos efectuado",
+      "vosotros": "hubierais efectuado",
+      "uds": "hubieran efectuado"
+    },
+    "imperfectoAlt": {
+      "yo": "efectuase",
+      "tu": "efectuases",
+      "ud": "efectuase",
+      "nosotros": "efectuásemos",
+      "vosotros": "efectuaseis",
+      "uds": "efectuasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese efectuado",
+      "tu": "hubieses efectuado",
+      "ud": "hubiese efectuado",
+      "nosotros": "hubiésemos efectuado",
+      "vosotros": "hubieseis efectuado",
+      "uds": "hubiesen efectuado"
+    }
+  },
+  "afirmativo": {
+    "tu": "efectúa",
+    "vosotros": "efectuad",
+    "ud": "efectúe",
+    "uds": "efectúen"
+  },
+  "negativo": {
+    "tu": "no efectúes",
+    "vosotros": "no efectuéis",
+    "ud": "no efectúe",
+    "uds": "no efectúen"
+  },
+  "english": {
+    "note": "Cambio: u > ú cuando la radical tiene el acento tónico.",
+    "infinitivo": "to effect, carry out, bring about",
+    "gerundio": "effecting",
+    "participioPasado": "effected",
+    "indicativo": {
+      "presente": "I effect, am effecting",
+      "futuro": "I will effect",
+      "imperfecto": "I was effecting, used to effect, effected",
+      "preterito": "I effected",
+      "condicional": "I would effect",
+      "presentePerfecto": "I have effected",
+      "futuroPerfecto": "I will have effected",
+      "pluscuamperfecto": "I had effected",
+      "preteritoAnterior": "I had effected",
+      "condicionalPerfecto": "I would have effected"
+    },
+    "subjuntivo": {
+      "presente": "I effect, am effecting",
+      "imperfecto": "I effected, was effecting",
+      "futuro": "I will effect",
+      "presentePerfecto": "I have effected, effected",
+      "futuroPerfecto": "I will have effected",
+      "pluscuamperfecto": "I had effected"
+    },
+    "afirmativo": "Effect!",
+    "negativo": "Don't effect!"
+  },
+  "attribution": "Fred Jehle"
+}

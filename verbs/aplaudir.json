@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "aplaudir",
+  "gerundio": "aplaudiendo",
+  "participioPasado": "aplaudido",
+  "indicativo": {
+    "presente": {
+      "yo": "aplaudo",
+      "tu": "aplaudes",
+      "ud": "aplaude",
+      "nosotros": "aplaudimos",
+      "vosotros": "aplaudís",
+      "uds": "aplauden"
+    },
+    "futuro": {
+      "yo": "aplaudiré",
+      "tu": "aplaudirás",
+      "ud": "aplaudirá",
+      "nosotros": "aplaudiremos",
+      "vosotros": "aplaudiréis",
+      "uds": "aplaudirán"
+    },
+    "imperfecto": {
+      "yo": "aplaudía",
+      "tu": "aplaudías",
+      "ud": "aplaudía",
+      "nosotros": "aplaudíamos",
+      "vosotros": "aplaudíais",
+      "uds": "aplaudían"
+    },
+    "preterito": {
+      "yo": "aplaudí",
+      "tu": "aplaudiste",
+      "ud": "aplaudió",
+      "nosotros": "aplaudimos",
+      "vosotros": "aplaudisteis",
+      "uds": "aplaudieron"
+    },
+    "condicional": {
+      "yo": "aplaudiría",
+      "tu": "aplaudirías",
+      "ud": "aplaudiría",
+      "nosotros": "aplaudiríamos",
+      "vosotros": "aplaudiríais",
+      "uds": "aplaudirían"
+    },
+    "presentePerfecto": {
+      "yo": "he aplaudido",
+      "tu": "has aplaudido",
+      "ud": "ha aplaudido",
+      "nosotros": "hemos aplaudido",
+      "vosotros": "habéis aplaudido",
+      "uds": "han aplaudido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré aplaudido",
+      "tu": "habrás aplaudido",
+      "ud": "habrá aplaudido",
+      "nosotros": "habremos aplaudido",
+      "vosotros": "habréis aplaudido",
+      "uds": "habrán aplaudido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había aplaudido",
+      "tu": "habías aplaudido",
+      "ud": "había aplaudido",
+      "nosotros": "habíamos aplaudido",
+      "vosotros": "habíais aplaudido",
+      "uds": "habían aplaudido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube aplaudido",
+      "tu": "hubiste aplaudido",
+      "ud": "hubo aplaudido",
+      "nosotros": "hubimos aplaudido",
+      "vosotros": "hubisteis aplaudido",
+      "uds": "hubieron aplaudido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría aplaudido",
+      "tu": "habrías aplaudido",
+      "ud": "habría aplaudido",
+      "nosotros": "habríamos aplaudido",
+      "vosotros": "habríais aplaudido",
+      "uds": "habrían aplaudido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aplauda",
+      "tu": "aplaudas",
+      "ud": "aplauda",
+      "nosotros": "aplaudamos",
+      "vosotros": "aplaudáis",
+      "uds": "aplaudan"
+    },
+    "imperfecto": {
+      "yo": "aplaudiera",
+      "tu": "aplaudieras",
+      "ud": "aplaudiera",
+      "nosotros": "aplaudiéramos",
+      "vosotros": "aplaudierais",
+      "uds": "aplaudieran"
+    },
+    "futuro": {
+      "yo": "aplaudiere",
+      "tu": "aplaudieres",
+      "ud": "aplaudiere",
+      "nosotros": "aplaudiéremos",
+      "vosotros": "aplaudiereis",
+      "uds": "aplaudieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya aplaudido",
+      "tu": "hayas aplaudido",
+      "ud": "haya aplaudido",
+      "nosotros": "hayamos aplaudido",
+      "vosotros": "hayáis aplaudido",
+      "uds": "hayan aplaudido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere aplaudido",
+      "tu": "hubieres aplaudido",
+      "ud": "hubiere aplaudido",
+      "nosotros": "hubiéremos aplaudido",
+      "vosotros": "hubiereis aplaudido",
+      "uds": "hubieren aplaudido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera aplaudido",
+      "tu": "hubieras aplaudido",
+      "ud": "hubiera aplaudido",
+      "nosotros": "hubiéramos aplaudido",
+      "vosotros": "hubierais aplaudido",
+      "uds": "hubieran aplaudido"
+    },
+    "imperfectoAlt": {
+      "yo": "aplaudiese",
+      "tu": "aplaudieses",
+      "ud": "aplaudiese",
+      "nosotros": "aplaudiésemos",
+      "vosotros": "aplaudieseis",
+      "uds": "aplaudiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese aplaudido",
+      "tu": "hubieses aplaudido",
+      "ud": "hubiese aplaudido",
+      "nosotros": "hubiésemos aplaudido",
+      "vosotros": "hubieseis aplaudido",
+      "uds": "hubiesen aplaudido"
+    }
+  },
+  "afirmativo": {
+    "tu": "aplaude",
+    "vosotros": "aplaudid",
+    "ud": "aplauda",
+    "uds": "aplaudan"
+  },
+  "negativo": {
+    "tu": "no aplaudas",
+    "vosotros": "no aplaudáis",
+    "ud": "no aplauda",
+    "uds": "no aplaudan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to applaud, cheer, clap",
+    "gerundio": "applauding",
+    "participioPasado": "applauded",
+    "indicativo": {
+      "presente": "I applaud, am applauding",
+      "futuro": "I will applaud",
+      "imperfecto": "I was applauding, used to applaud, applauded",
+      "preterito": "I applauded",
+      "condicional": "I would applaud",
+      "presentePerfecto": "I have applauded",
+      "futuroPerfecto": "I will have applauded",
+      "pluscuamperfecto": "I had applauded",
+      "preteritoAnterior": "I had applauded",
+      "condicionalPerfecto": "I would have applauded"
+    },
+    "subjuntivo": {
+      "presente": "I applaud, am applauding",
+      "imperfecto": "I applauded, was applauding",
+      "futuro": "I will applaud",
+      "presentePerfecto": "I have applauded, applauded",
+      "futuroPerfecto": "I will have applauded",
+      "pluscuamperfecto": "I had applauded"
+    },
+    "afirmativo": "Applaud!",
+    "negativo": "Don't applaud!"
+  },
+  "attribution": "Fred Jehle"
+}

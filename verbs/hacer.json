@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "hacer",
+  "gerundio": "haciendo",
+  "participioPasado": "hecho",
+  "indicativo": {
+    "presente": {
+      "yo": "hago",
+      "tu": "haces",
+      "ud": "hace",
+      "nosotros": "hacemos",
+      "vosotros": "hacéis",
+      "uds": "hacen"
+    },
+    "futuro": {
+      "yo": "haré",
+      "tu": "harás",
+      "ud": "hará",
+      "nosotros": "haremos",
+      "vosotros": "haréis",
+      "uds": "harán"
+    },
+    "imperfecto": {
+      "yo": "hacía",
+      "tu": "hacías",
+      "ud": "hacía",
+      "nosotros": "hacíamos",
+      "vosotros": "hacíais",
+      "uds": "hacían"
+    },
+    "preterito": {
+      "yo": "hice",
+      "tu": "hiciste",
+      "ud": "hizo",
+      "nosotros": "hicimos",
+      "vosotros": "hicisteis",
+      "uds": "hicieron"
+    },
+    "condicional": {
+      "yo": "haría",
+      "tu": "harías",
+      "ud": "haría",
+      "nosotros": "haríamos",
+      "vosotros": "haríais",
+      "uds": "harían"
+    },
+    "presentePerfecto": {
+      "yo": "he hecho",
+      "tu": "has hecho",
+      "ud": "ha hecho",
+      "nosotros": "hemos hecho",
+      "vosotros": "habéis hecho",
+      "uds": "han hecho"
+    },
+    "futuroPerfecto": {
+      "yo": "habré hecho",
+      "tu": "habrás hecho",
+      "ud": "habrá hecho",
+      "nosotros": "habremos hecho",
+      "vosotros": "habréis hecho",
+      "uds": "habrán hecho"
+    },
+    "pluscuamperfecto": {
+      "yo": "había hecho",
+      "tu": "habías hecho",
+      "ud": "había hecho",
+      "nosotros": "habíamos hecho",
+      "vosotros": "habíais hecho",
+      "uds": "habían hecho"
+    },
+    "preteritoAnterior": {
+      "yo": "hube hecho",
+      "tu": "hubiste hecho",
+      "ud": "hubo hecho",
+      "nosotros": "hubimos hecho",
+      "vosotros": "hubisteis hecho",
+      "uds": "hubieron hecho"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría hecho",
+      "tu": "habrías hecho",
+      "ud": "habría hecho",
+      "nosotros": "habríamos hecho",
+      "vosotros": "habríais hecho",
+      "uds": "habrían hecho"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "haga",
+      "tu": "hagas",
+      "ud": "haga",
+      "nosotros": "hagamos",
+      "vosotros": "hagáis",
+      "uds": "hagan"
+    },
+    "imperfecto": {
+      "yo": "hiciera",
+      "tu": "hicieras",
+      "ud": "hiciera",
+      "nosotros": "hiciéramos",
+      "vosotros": "hicierais",
+      "uds": "hicieran"
+    },
+    "futuro": {
+      "yo": "hiciere",
+      "tu": "hicieres",
+      "ud": "hiciere",
+      "nosotros": "hiciéremos",
+      "vosotros": "hiciereis",
+      "uds": "hicieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya hecho",
+      "tu": "hayas hecho",
+      "ud": "haya hecho",
+      "nosotros": "hayamos hecho",
+      "vosotros": "hayáis hecho",
+      "uds": "hayan hecho"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere hecho",
+      "tu": "hubieres hecho",
+      "ud": "hubiere hecho",
+      "nosotros": "hubiéremos hecho",
+      "vosotros": "hubiereis hecho",
+      "uds": "hubieren hecho"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera hecho",
+      "tu": "hubieras hecho",
+      "ud": "hubiera hecho",
+      "nosotros": "hubiéramos hecho",
+      "vosotros": "hubierais hecho",
+      "uds": "hubieran hecho"
+    },
+    "imperfectoAlt": {
+      "yo": "hiciese",
+      "tu": "hicieses",
+      "ud": "hiciese",
+      "nosotros": "hiciésemos",
+      "vosotros": "hicieseis",
+      "uds": "hiciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese hecho",
+      "tu": "hubieses hecho",
+      "ud": "hubiese hecho",
+      "nosotros": "hubiésemos hecho",
+      "vosotros": "hubieseis hecho",
+      "uds": "hubiesen hecho"
+    }
+  },
+  "afirmativo": {
+    "tu": "haz",
+    "vosotros": "haced",
+    "ud": "haga",
+    "uds": "hagan"
+  },
+  "negativo": {
+    "tu": "no hagas",
+    "vosotros": "no hagáis",
+    "ud": "no haga",
+    "uds": "no hagan"
+  },
+  "english": {
+    "note": "Formas irregulares: hago, haga, hagas, etc. Radical irregular en el futuro y condicional: har-. Radical fuerte en el pretérito, con cambio ortográfico: hic-/hiz-. Participio pasado irregular: hecho. Mandato familiar singular irregular: haz.",
+    "infinitivo": "to do, make",
+    "gerundio": "doing",
+    "participioPasado": "done",
+    "indicativo": {
+      "presente": "I do, am doing",
+      "futuro": "I will do",
+      "imperfecto": "I was doing, used to do, did",
+      "preterito": "I did",
+      "condicional": "I would do",
+      "presentePerfecto": "I have done",
+      "futuroPerfecto": "I will have done",
+      "pluscuamperfecto": "I had done",
+      "preteritoAnterior": "I had done",
+      "condicionalPerfecto": "I would have done"
+    },
+    "subjuntivo": {
+      "presente": "I do, am doing",
+      "imperfecto": "I did, was doing",
+      "futuro": "I will do",
+      "presentePerfecto": "I have done, did",
+      "futuroPerfecto": "I will have done",
+      "pluscuamperfecto": "I had done"
+    },
+    "afirmativo": "Do!",
+    "negativo": "Don't do!"
+  },
+  "attribution": "Fred Jehle"
+}

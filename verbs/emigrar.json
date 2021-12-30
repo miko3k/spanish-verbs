@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "emigrar",
+  "gerundio": "emigrando",
+  "participioPasado": "emigrado",
+  "indicativo": {
+    "presente": {
+      "yo": "emigro",
+      "tu": "emigras",
+      "ud": "emigra",
+      "nosotros": "emigramos",
+      "vosotros": "emigráis",
+      "uds": "emigran"
+    },
+    "futuro": {
+      "yo": "emigraré",
+      "tu": "emigrarás",
+      "ud": "emigrará",
+      "nosotros": "emigraremos",
+      "vosotros": "emigraréis",
+      "uds": "emigrarán"
+    },
+    "imperfecto": {
+      "yo": "emigraba",
+      "tu": "emigrabas",
+      "ud": "emigraba",
+      "nosotros": "emigrábamos",
+      "vosotros": "emigrabais",
+      "uds": "emigraban"
+    },
+    "preterito": {
+      "yo": "emigré",
+      "tu": "emigraste",
+      "ud": "emigró",
+      "nosotros": "emigramos",
+      "vosotros": "emigrasteis",
+      "uds": "emigraron"
+    },
+    "condicional": {
+      "yo": "emigraría",
+      "tu": "emigrarías",
+      "ud": "emigraría",
+      "nosotros": "emigraríamos",
+      "vosotros": "emigraríais",
+      "uds": "emigrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he emigrado",
+      "tu": "has emigrado",
+      "ud": "ha emigrado",
+      "nosotros": "hemos emigrado",
+      "vosotros": "habéis emigrado",
+      "uds": "han emigrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré emigrado",
+      "tu": "habrás emigrado",
+      "ud": "habrá emigrado",
+      "nosotros": "habremos emigrado",
+      "vosotros": "habréis emigrado",
+      "uds": "habrán emigrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había emigrado",
+      "tu": "habías emigrado",
+      "ud": "había emigrado",
+      "nosotros": "habíamos emigrado",
+      "vosotros": "habíais emigrado",
+      "uds": "habían emigrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube emigrado",
+      "tu": "hubiste emigrado",
+      "ud": "hubo emigrado",
+      "nosotros": "hubimos emigrado",
+      "vosotros": "hubisteis emigrado",
+      "uds": "hubieron emigrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría emigrado",
+      "tu": "habrías emigrado",
+      "ud": "habría emigrado",
+      "nosotros": "habríamos emigrado",
+      "vosotros": "habríais emigrado",
+      "uds": "habrían emigrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "emigre",
+      "tu": "emigres",
+      "ud": "emigre",
+      "nosotros": "emigremos",
+      "vosotros": "emigréis",
+      "uds": "emigren"
+    },
+    "imperfecto": {
+      "yo": "emigrara",
+      "tu": "emigraras",
+      "ud": "emigrara",
+      "nosotros": "emigráramos",
+      "vosotros": "emigrarais",
+      "uds": "emigraran"
+    },
+    "futuro": {
+      "yo": "emigrare",
+      "tu": "emigrares",
+      "ud": "emigrare",
+      "nosotros": "emigráremos",
+      "vosotros": "emigrareis",
+      "uds": "emigraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya emigrado",
+      "tu": "hayas emigrado",
+      "ud": "haya emigrado",
+      "nosotros": "hayamos emigrado",
+      "vosotros": "hayáis emigrado",
+      "uds": "hayan emigrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere emigrado",
+      "tu": "hubieres emigrado",
+      "ud": "hubiere emigrado",
+      "nosotros": "hubiéremos emigrado",
+      "vosotros": "hubiereis emigrado",
+      "uds": "hubieren emigrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera emigrado",
+      "tu": "hubieras emigrado",
+      "ud": "hubiera emigrado",
+      "nosotros": "hubiéramos emigrado",
+      "vosotros": "hubierais emigrado",
+      "uds": "hubieran emigrado"
+    },
+    "imperfectoAlt": {
+      "yo": "emigrase",
+      "tu": "emigrases",
+      "ud": "emigrase",
+      "nosotros": "emigrásemos",
+      "vosotros": "emigraseis",
+      "uds": "emigrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese emigrado",
+      "tu": "hubieses emigrado",
+      "ud": "hubiese emigrado",
+      "nosotros": "hubiésemos emigrado",
+      "vosotros": "hubieseis emigrado",
+      "uds": "hubiesen emigrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "emigra",
+    "vosotros": "emigrad",
+    "ud": "emigre",
+    "uds": "emigren"
+  },
+  "negativo": {
+    "tu": "no emigres",
+    "vosotros": "no emigréis",
+    "ud": "no emigre",
+    "uds": "no emigren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to emigrate; to migrate",
+    "gerundio": "emigrating",
+    "participioPasado": "emigrated",
+    "indicativo": {
+      "presente": "I emigrate, am emigrating",
+      "futuro": "I will emigrate",
+      "imperfecto": "I was emigrating, used to emigrate, emigrated",
+      "preterito": "I emigrated",
+      "condicional": "I would emigrate",
+      "presentePerfecto": "I have emigrated",
+      "futuroPerfecto": "I will have emigrated",
+      "pluscuamperfecto": "I had emigrated",
+      "preteritoAnterior": "I had emigrated",
+      "condicionalPerfecto": "I would have emigrated"
+    },
+    "subjuntivo": {
+      "presente": "I emigrate, am emigrating",
+      "imperfecto": "I emigrated, was emigrating",
+      "futuro": "I will emigrate",
+      "presentePerfecto": "I have emigrated, emigrated",
+      "futuroPerfecto": "I will have emigrated",
+      "pluscuamperfecto": "I had emigrated"
+    },
+    "afirmativo": "Emigrate!",
+    "negativo": "Don't emigrate!"
+  },
+  "attribution": "Fred Jehle"
+}

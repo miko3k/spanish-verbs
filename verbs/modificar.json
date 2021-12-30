@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "modificar",
+  "gerundio": "modificando",
+  "participioPasado": "modificado",
+  "indicativo": {
+    "presente": {
+      "yo": "modifico",
+      "tu": "modificas",
+      "ud": "modifica",
+      "nosotros": "modificamos",
+      "vosotros": "modificáis",
+      "uds": "modifican"
+    },
+    "futuro": {
+      "yo": "modificaré",
+      "tu": "modificarás",
+      "ud": "modificará",
+      "nosotros": "modificaremos",
+      "vosotros": "modificaréis",
+      "uds": "modificarán"
+    },
+    "imperfecto": {
+      "yo": "modificaba",
+      "tu": "modificabas",
+      "ud": "modificaba",
+      "nosotros": "modificábamos",
+      "vosotros": "modificabais",
+      "uds": "modificaban"
+    },
+    "preterito": {
+      "yo": "modifiqué",
+      "tu": "modificaste",
+      "ud": "modificó",
+      "nosotros": "modificamos",
+      "vosotros": "modificasteis",
+      "uds": "modificaron"
+    },
+    "condicional": {
+      "yo": "modificaría",
+      "tu": "modificarías",
+      "ud": "modificaría",
+      "nosotros": "modificaríamos",
+      "vosotros": "modificaríais",
+      "uds": "modificarían"
+    },
+    "presentePerfecto": {
+      "yo": "he modificado",
+      "tu": "has modificado",
+      "ud": "ha modificado",
+      "nosotros": "hemos modificado",
+      "vosotros": "habéis modificado",
+      "uds": "han modificado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré modificado",
+      "tu": "habrás modificado",
+      "ud": "habrá modificado",
+      "nosotros": "habremos modificado",
+      "vosotros": "habréis modificado",
+      "uds": "habrán modificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había modificado",
+      "tu": "habías modificado",
+      "ud": "había modificado",
+      "nosotros": "habíamos modificado",
+      "vosotros": "habíais modificado",
+      "uds": "habían modificado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube modificado",
+      "tu": "hubiste modificado",
+      "ud": "hubo modificado",
+      "nosotros": "hubimos modificado",
+      "vosotros": "hubisteis modificado",
+      "uds": "hubieron modificado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría modificado",
+      "tu": "habrías modificado",
+      "ud": "habría modificado",
+      "nosotros": "habríamos modificado",
+      "vosotros": "habríais modificado",
+      "uds": "habrían modificado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "modifique",
+      "tu": "modifiques",
+      "ud": "modifique",
+      "nosotros": "modifiquemos",
+      "vosotros": "modifiquéis",
+      "uds": "modifiquen"
+    },
+    "imperfecto": {
+      "yo": "modificara",
+      "tu": "modificaras",
+      "ud": "modificara",
+      "nosotros": "modificáramos",
+      "vosotros": "modificarais",
+      "uds": "modificaran"
+    },
+    "futuro": {
+      "yo": "modificare",
+      "tu": "modificares",
+      "ud": "modificare",
+      "nosotros": "modificáremos",
+      "vosotros": "modificareis",
+      "uds": "modificaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya modificado",
+      "tu": "hayas modificado",
+      "ud": "haya modificado",
+      "nosotros": "hayamos modificado",
+      "vosotros": "hayáis modificado",
+      "uds": "hayan modificado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere modificado",
+      "tu": "hubieres modificado",
+      "ud": "hubiere modificado",
+      "nosotros": "hubiéremos modificado",
+      "vosotros": "hubiereis modificado",
+      "uds": "hubieren modificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera modificado",
+      "tu": "hubieras modificado",
+      "ud": "hubiera modificado",
+      "nosotros": "hubiéramos modificado",
+      "vosotros": "hubierais modificado",
+      "uds": "hubieran modificado"
+    },
+    "imperfectoAlt": {
+      "yo": "modificase",
+      "tu": "modificases",
+      "ud": "modificase",
+      "nosotros": "modificásemos",
+      "vosotros": "modificaseis",
+      "uds": "modificasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese modificado",
+      "tu": "hubieses modificado",
+      "ud": "hubiese modificado",
+      "nosotros": "hubiésemos modificado",
+      "vosotros": "hubieseis modificado",
+      "uds": "hubiesen modificado"
+    }
+  },
+  "afirmativo": {
+    "tu": "modifica",
+    "vosotros": "modificad",
+    "ud": "modifique",
+    "uds": "modifiquen"
+  },
+  "negativo": {
+    "tu": "no modifiques",
+    "vosotros": "no modifiquéis",
+    "ud": "no modifique",
+    "uds": "no modifiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to modify, change",
+    "gerundio": "modifying",
+    "participioPasado": "modified",
+    "indicativo": {
+      "presente": "I modify, am modifying",
+      "futuro": "I will modify",
+      "imperfecto": "I was modifying, used to modify, modified",
+      "preterito": "I modified",
+      "condicional": "I would modify",
+      "presentePerfecto": "I have modified",
+      "futuroPerfecto": "I will have modified",
+      "pluscuamperfecto": "I had modified",
+      "preteritoAnterior": "I had modified",
+      "condicionalPerfecto": "I would have modified"
+    },
+    "subjuntivo": {
+      "presente": "I modify, am modifying",
+      "imperfecto": "I modified, was modifying",
+      "futuro": "I will modify",
+      "presentePerfecto": "I have modified, modified",
+      "futuroPerfecto": "I will have modified",
+      "pluscuamperfecto": "I had modified"
+    },
+    "afirmativo": "Modify!",
+    "negativo": "Don't modify!"
+  },
+  "attribution": "Fred Jehle"
+}

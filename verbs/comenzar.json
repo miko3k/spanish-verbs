@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "comenzar",
+  "gerundio": "comenzando",
+  "participioPasado": "comenzado",
+  "indicativo": {
+    "presente": {
+      "yo": "comienzo",
+      "tu": "comienzas",
+      "ud": "comienza",
+      "nosotros": "comenzamos",
+      "vosotros": "comenzáis",
+      "uds": "comienzan"
+    },
+    "futuro": {
+      "yo": "comenzaré",
+      "tu": "comenzarás",
+      "ud": "comenzará",
+      "nosotros": "comenzaremos",
+      "vosotros": "comenzaréis",
+      "uds": "comenzarán"
+    },
+    "imperfecto": {
+      "yo": "comenzaba",
+      "tu": "comenzabas",
+      "ud": "comenzaba",
+      "nosotros": "comenzábamos",
+      "vosotros": "comenzabais",
+      "uds": "comenzaban"
+    },
+    "preterito": {
+      "yo": "comencé",
+      "tu": "comenzaste",
+      "ud": "comenzó",
+      "nosotros": "comenzamos",
+      "vosotros": "comenzasteis",
+      "uds": "comenzaron"
+    },
+    "condicional": {
+      "yo": "comenzaría",
+      "tu": "comenzarías",
+      "ud": "comenzaría",
+      "nosotros": "comenzaríamos",
+      "vosotros": "comenzaríais",
+      "uds": "comenzarían"
+    },
+    "presentePerfecto": {
+      "yo": "he comenzado",
+      "tu": "has comenzado",
+      "ud": "ha comenzado",
+      "nosotros": "hemos comenzado",
+      "vosotros": "habéis comenzado",
+      "uds": "han comenzado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré comenzado",
+      "tu": "habrás comenzado",
+      "ud": "habrá comenzado",
+      "nosotros": "habremos comenzado",
+      "vosotros": "habréis comenzado",
+      "uds": "habrán comenzado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había comenzado",
+      "tu": "habías comenzado",
+      "ud": "había comenzado",
+      "nosotros": "habíamos comenzado",
+      "vosotros": "habíais comenzado",
+      "uds": "habían comenzado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube comenzado",
+      "tu": "hubiste comenzado",
+      "ud": "hubo comenzado",
+      "nosotros": "hubimos comenzado",
+      "vosotros": "hubisteis comenzado",
+      "uds": "hubieron comenzado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría comenzado",
+      "tu": "habrías comenzado",
+      "ud": "habría comenzado",
+      "nosotros": "habríamos comenzado",
+      "vosotros": "habríais comenzado",
+      "uds": "habrían comenzado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "comience",
+      "tu": "comiences",
+      "ud": "comience",
+      "nosotros": "comencemos",
+      "vosotros": "comencéis",
+      "uds": "comiencen"
+    },
+    "imperfecto": {
+      "yo": "comenzara",
+      "tu": "comenzaras",
+      "ud": "comenzara",
+      "nosotros": "comenzáramos",
+      "vosotros": "comenzarais",
+      "uds": "comenzaran"
+    },
+    "futuro": {
+      "yo": "comenzare",
+      "tu": "comenzares",
+      "ud": "comenzare",
+      "nosotros": "comenzáremos",
+      "vosotros": "comenzareis",
+      "uds": "comenzaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya comenzado",
+      "tu": "hayas comenzado",
+      "ud": "haya comenzado",
+      "nosotros": "hayamos comenzado",
+      "vosotros": "hayáis comenzado",
+      "uds": "hayan comenzado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere comenzado",
+      "tu": "hubieres comenzado",
+      "ud": "hubiere comenzado",
+      "nosotros": "hubiéremos comenzado",
+      "vosotros": "hubiereis comenzado",
+      "uds": "hubieren comenzado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera comenzado",
+      "tu": "hubieras comenzado",
+      "ud": "hubiera comenzado",
+      "nosotros": "hubiéramos comenzado",
+      "vosotros": "hubierais comenzado",
+      "uds": "hubieran comenzado"
+    },
+    "imperfectoAlt": {
+      "yo": "comenzase",
+      "tu": "comenzases",
+      "ud": "comenzase",
+      "nosotros": "comenzásemos",
+      "vosotros": "comenzaseis",
+      "uds": "comenzasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese comenzado",
+      "tu": "hubieses comenzado",
+      "ud": "hubiese comenzado",
+      "nosotros": "hubiésemos comenzado",
+      "vosotros": "hubieseis comenzado",
+      "uds": "hubiesen comenzado"
+    }
+  },
+  "afirmativo": {
+    "tu": "comienza",
+    "vosotros": "comenzad",
+    "ud": "comience",
+    "uds": "comiencen"
+  },
+  "negativo": {
+    "tu": "no comiences",
+    "vosotros": "no comencéis",
+    "ud": "no comience",
+    "uds": "no comiencen"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa. Cambio otográfico: z > c delante de e.",
+    "infinitivo": "to begin, start, commence",
+    "gerundio": "beginning",
+    "participioPasado": "begun",
+    "indicativo": {
+      "presente": "I begin, am beginning",
+      "futuro": "I will begin",
+      "imperfecto": "I was beginning, used to begin, began",
+      "preterito": "I began",
+      "condicional": "I would begin",
+      "presentePerfecto": "I have begun",
+      "futuroPerfecto": "I will have begun",
+      "pluscuamperfecto": "I had begun",
+      "preteritoAnterior": "I had begun",
+      "condicionalPerfecto": "I would have begun"
+    },
+    "subjuntivo": {
+      "presente": "I begin, am beginning",
+      "imperfecto": "I began, was beginning",
+      "futuro": "I will begin",
+      "presentePerfecto": "I have begun, began",
+      "futuroPerfecto": "I will have begun",
+      "pluscuamperfecto": "I had begun"
+    },
+    "afirmativo": "Begin!",
+    "negativo": "Don't begin!"
+  },
+  "attribution": "Fred Jehle"
+}

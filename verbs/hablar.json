@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "hablar",
+  "gerundio": "hablando",
+  "participioPasado": "hablado",
+  "indicativo": {
+    "presente": {
+      "yo": "hablo",
+      "tu": "hablas",
+      "ud": "habla",
+      "nosotros": "hablamos",
+      "vosotros": "habláis",
+      "uds": "hablan"
+    },
+    "futuro": {
+      "yo": "hablaré",
+      "tu": "hablarás",
+      "ud": "hablará",
+      "nosotros": "hablaremos",
+      "vosotros": "hablaréis",
+      "uds": "hablarán"
+    },
+    "imperfecto": {
+      "yo": "hablaba",
+      "tu": "hablabas",
+      "ud": "hablaba",
+      "nosotros": "hablábamos",
+      "vosotros": "hablabais",
+      "uds": "hablaban"
+    },
+    "preterito": {
+      "yo": "hablé",
+      "tu": "hablaste",
+      "ud": "habló",
+      "nosotros": "hablamos",
+      "vosotros": "hablasteis",
+      "uds": "hablaron"
+    },
+    "condicional": {
+      "yo": "hablaría",
+      "tu": "hablarías",
+      "ud": "hablaría",
+      "nosotros": "hablaríamos",
+      "vosotros": "hablaríais",
+      "uds": "hablarían"
+    },
+    "presentePerfecto": {
+      "yo": "he hablado",
+      "tu": "has hablado",
+      "ud": "ha hablado",
+      "nosotros": "hemos hablado",
+      "vosotros": "habéis hablado",
+      "uds": "han hablado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré hablado",
+      "tu": "habrás hablado",
+      "ud": "habrá hablado",
+      "nosotros": "habremos hablado",
+      "vosotros": "habréis hablado",
+      "uds": "habrán hablado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había hablado",
+      "tu": "habías hablado",
+      "ud": "había hablado",
+      "nosotros": "habíamos hablado",
+      "vosotros": "habíais hablado",
+      "uds": "habían hablado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube hablado",
+      "tu": "hubiste hablado",
+      "ud": "hubo hablado",
+      "nosotros": "hubimos hablado",
+      "vosotros": "hubisteis hablado",
+      "uds": "hubieron hablado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría hablado",
+      "tu": "habrías hablado",
+      "ud": "habría hablado",
+      "nosotros": "habríamos hablado",
+      "vosotros": "habríais hablado",
+      "uds": "habrían hablado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "hable",
+      "tu": "hables",
+      "ud": "hable",
+      "nosotros": "hablemos",
+      "vosotros": "habléis",
+      "uds": "hablen"
+    },
+    "imperfecto": {
+      "yo": "hablara",
+      "tu": "hablaras",
+      "ud": "hablara",
+      "nosotros": "habláramos",
+      "vosotros": "hablarais",
+      "uds": "hablaran"
+    },
+    "futuro": {
+      "yo": "hablare",
+      "tu": "hablares",
+      "ud": "hablare",
+      "nosotros": "habláremos",
+      "vosotros": "hablareis",
+      "uds": "hablaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya hablado",
+      "tu": "hayas hablado",
+      "ud": "haya hablado",
+      "nosotros": "hayamos hablado",
+      "vosotros": "hayáis hablado",
+      "uds": "hayan hablado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere hablado",
+      "tu": "hubieres hablado",
+      "ud": "hubiere hablado",
+      "nosotros": "hubiéremos hablado",
+      "vosotros": "hubiereis hablado",
+      "uds": "hubieren hablado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera hablado",
+      "tu": "hubieras hablado",
+      "ud": "hubiera hablado",
+      "nosotros": "hubiéramos hablado",
+      "vosotros": "hubierais hablado",
+      "uds": "hubieran hablado"
+    },
+    "imperfectoAlt": {
+      "yo": "hablase",
+      "tu": "hablases",
+      "ud": "hablase",
+      "nosotros": "hablásemos",
+      "vosotros": "hablaseis",
+      "uds": "hablasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese hablado",
+      "tu": "hubieses hablado",
+      "ud": "hubiese hablado",
+      "nosotros": "hubiésemos hablado",
+      "vosotros": "hubieseis hablado",
+      "uds": "hubiesen hablado"
+    }
+  },
+  "afirmativo": {
+    "tu": "habla",
+    "vosotros": "hablad",
+    "ud": "hable",
+    "uds": "hablen"
+  },
+  "negativo": {
+    "tu": "no hables",
+    "vosotros": "no habléis",
+    "ud": "no hable",
+    "uds": "no hablen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to speak",
+    "gerundio": "speaking",
+    "participioPasado": "spoken",
+    "indicativo": {
+      "presente": "I speak, am speaking",
+      "futuro": "I will speak",
+      "imperfecto": "I was speaking, used to speak, spoke",
+      "preterito": "I spoke",
+      "condicional": "I would speak",
+      "presentePerfecto": "I have spoken",
+      "futuroPerfecto": "I will have spoken",
+      "pluscuamperfecto": "I had spoken",
+      "preteritoAnterior": "I had spoken",
+      "condicionalPerfecto": "I would have spoken"
+    },
+    "subjuntivo": {
+      "presente": "I speak, am speaking",
+      "imperfecto": "I spoke, was speaking",
+      "futuro": "I will speak",
+      "presentePerfecto": "I have spoken, spoke",
+      "futuroPerfecto": "I will have spoken",
+      "pluscuamperfecto": "I had spoken"
+    },
+    "afirmativo": "Speak!",
+    "negativo": "Don't speak!"
+  },
+  "attribution": "Fred Jehle"
+}

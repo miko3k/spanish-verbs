@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "sustituir",
+  "gerundio": "sustituyendo",
+  "participioPasado": "sustituido",
+  "indicativo": {
+    "presente": {
+      "yo": "sustituyo",
+      "tu": "sustituyes",
+      "ud": "sustituye",
+      "nosotros": "sustituimos",
+      "vosotros": "sustituís",
+      "uds": "sustituyen"
+    },
+    "futuro": {
+      "yo": "sustituiré",
+      "tu": "sustituirás",
+      "ud": "sustituirá",
+      "nosotros": "sustituiremos",
+      "vosotros": "sustituiréis",
+      "uds": "sustituirán"
+    },
+    "imperfecto": {
+      "yo": "sustituía",
+      "tu": "sustituías",
+      "ud": "sustituía",
+      "nosotros": "sustituíamos",
+      "vosotros": "sustituíais",
+      "uds": "sustituían"
+    },
+    "preterito": {
+      "yo": "sustituí",
+      "tu": "sustituiste",
+      "ud": "sustituyó",
+      "nosotros": "sustituimos",
+      "vosotros": "sustituisteis",
+      "uds": "sustituyeron"
+    },
+    "condicional": {
+      "yo": "sustituiría",
+      "tu": "sustituirías",
+      "ud": "sustituiría",
+      "nosotros": "sustituiríamos",
+      "vosotros": "sustituiríais",
+      "uds": "sustituirían"
+    },
+    "presentePerfecto": {
+      "yo": "he sustituido",
+      "tu": "has sustituido",
+      "ud": "ha sustituido",
+      "nosotros": "hemos sustituido",
+      "vosotros": "habéis sustituido",
+      "uds": "han sustituido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sustituido",
+      "tu": "habrás sustituido",
+      "ud": "habrá sustituido",
+      "nosotros": "habremos sustituido",
+      "vosotros": "habréis sustituido",
+      "uds": "habrán sustituido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sustituido",
+      "tu": "habías sustituido",
+      "ud": "había sustituido",
+      "nosotros": "habíamos sustituido",
+      "vosotros": "habíais sustituido",
+      "uds": "habían sustituido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sustituido",
+      "tu": "hubiste sustituido",
+      "ud": "hubo sustituido",
+      "nosotros": "hubimos sustituido",
+      "vosotros": "hubisteis sustituido",
+      "uds": "hubieron sustituido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sustituido",
+      "tu": "habrías sustituido",
+      "ud": "habría sustituido",
+      "nosotros": "habríamos sustituido",
+      "vosotros": "habríais sustituido",
+      "uds": "habrían sustituido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sustituya",
+      "tu": "sustituyas",
+      "ud": "sustituya",
+      "nosotros": "sustituyamos",
+      "vosotros": "sustituyáis",
+      "uds": "sustituyan"
+    },
+    "imperfecto": {
+      "yo": "sustituyera",
+      "tu": "sustituyeras",
+      "ud": "sustituyera",
+      "nosotros": "sustituyéramos",
+      "vosotros": "sustituyerais",
+      "uds": "sustituyeran"
+    },
+    "futuro": {
+      "yo": "sustituyere",
+      "tu": "sustituyeres",
+      "ud": "sustituyere",
+      "nosotros": "sustituyéremos",
+      "vosotros": "sustituyereis",
+      "uds": "sustituyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sustituido",
+      "tu": "hayas sustituido",
+      "ud": "haya sustituido",
+      "nosotros": "hayamos sustituido",
+      "vosotros": "hayáis sustituido",
+      "uds": "hayan sustituido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sustituido",
+      "tu": "hubieres sustituido",
+      "ud": "hubiere sustituido",
+      "nosotros": "hubiéremos sustituido",
+      "vosotros": "hubiereis sustituido",
+      "uds": "hubieren sustituido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sustituido",
+      "tu": "hubieras sustituido",
+      "ud": "hubiera sustituido",
+      "nosotros": "hubiéramos sustituido",
+      "vosotros": "hubierais sustituido",
+      "uds": "hubieran sustituido"
+    },
+    "imperfectoAlt": {
+      "yo": "sustituyese",
+      "tu": "sustituyeses",
+      "ud": "sustituyese",
+      "nosotros": "sustituyésemos",
+      "vosotros": "sustituyeseis",
+      "uds": "sustituyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sustituido",
+      "tu": "hubieses sustituido",
+      "ud": "hubiese sustituido",
+      "nosotros": "hubiésemos sustituido",
+      "vosotros": "hubieseis sustituido",
+      "uds": "hubiesen sustituido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sustituye",
+    "vosotros": "sustituid",
+    "ud": "sustituya",
+    "uds": "sustituyan"
+  },
+  "negativo": {
+    "tu": "no sustituyas",
+    "vosotros": "no sustituyáis",
+    "ud": "no sustituya",
+    "uds": "no sustituyan"
+  },
+  "english": {
+    "note": "Cambios: u > uy delante a, o y e; la i intervocálica (y sin acento escrito) > y.",
+    "infinitivo": "to substitute, replace",
+    "gerundio": "substituting",
+    "participioPasado": "substituted",
+    "indicativo": {
+      "presente": "I substitute, am substituting",
+      "futuro": "I will substitute",
+      "imperfecto": "I was substituting, used to substitute, substituted",
+      "preterito": "I substituted",
+      "condicional": "I would substitute",
+      "presentePerfecto": "I have substituted",
+      "futuroPerfecto": "I will have substituted",
+      "pluscuamperfecto": "I had substituted",
+      "preteritoAnterior": "I had substituted",
+      "condicionalPerfecto": "I would have substituted"
+    },
+    "subjuntivo": {
+      "presente": "I substitute, am substituting",
+      "imperfecto": "I substituted, was substituting",
+      "futuro": "I will substitute",
+      "presentePerfecto": "I have substituted, substituted",
+      "futuroPerfecto": "I will have substituted",
+      "pluscuamperfecto": "I had substituted"
+    },
+    "afirmativo": "Substitute!",
+    "negativo": "Don't substitute!"
+  },
+  "attribution": "Fred Jehle"
+}

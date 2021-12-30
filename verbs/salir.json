@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "salir",
+  "gerundio": "saliendo",
+  "participioPasado": "salido",
+  "indicativo": {
+    "presente": {
+      "yo": "salgo",
+      "tu": "sales",
+      "ud": "sale",
+      "nosotros": "salimos",
+      "vosotros": "salís",
+      "uds": "salen"
+    },
+    "futuro": {
+      "yo": "saldré",
+      "tu": "saldrás",
+      "ud": "saldrá",
+      "nosotros": "saldremos",
+      "vosotros": "saldréis",
+      "uds": "saldrán"
+    },
+    "imperfecto": {
+      "yo": "salía",
+      "tu": "salías",
+      "ud": "salía",
+      "nosotros": "salíamos",
+      "vosotros": "salíais",
+      "uds": "salían"
+    },
+    "preterito": {
+      "yo": "salí",
+      "tu": "saliste",
+      "ud": "salió",
+      "nosotros": "salimos",
+      "vosotros": "salisteis",
+      "uds": "salieron"
+    },
+    "condicional": {
+      "yo": "saldría",
+      "tu": "saldrías",
+      "ud": "saldría",
+      "nosotros": "saldríamos",
+      "vosotros": "saldríais",
+      "uds": "saldrían"
+    },
+    "presentePerfecto": {
+      "yo": "he salido",
+      "tu": "has salido",
+      "ud": "ha salido",
+      "nosotros": "hemos salido",
+      "vosotros": "habéis salido",
+      "uds": "han salido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré salido",
+      "tu": "habrás salido",
+      "ud": "habrá salido",
+      "nosotros": "habremos salido",
+      "vosotros": "habréis salido",
+      "uds": "habrán salido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había salido",
+      "tu": "habías salido",
+      "ud": "había salido",
+      "nosotros": "habíamos salido",
+      "vosotros": "habíais salido",
+      "uds": "habían salido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube salido",
+      "tu": "hubiste salido",
+      "ud": "hubo salido",
+      "nosotros": "hubimos salido",
+      "vosotros": "hubisteis salido",
+      "uds": "hubieron salido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría salido",
+      "tu": "habrías salido",
+      "ud": "habría salido",
+      "nosotros": "habríamos salido",
+      "vosotros": "habríais salido",
+      "uds": "habrían salido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "salga",
+      "tu": "salgas",
+      "ud": "salga",
+      "nosotros": "salgamos",
+      "vosotros": "salgáis",
+      "uds": "salgan"
+    },
+    "imperfecto": {
+      "yo": "saliera",
+      "tu": "salieras",
+      "ud": "saliera",
+      "nosotros": "saliéramos",
+      "vosotros": "salierais",
+      "uds": "salieran"
+    },
+    "futuro": {
+      "yo": "saliere",
+      "tu": "salieres",
+      "ud": "saliere",
+      "nosotros": "saliéremos",
+      "vosotros": "saliereis",
+      "uds": "salieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya salido",
+      "tu": "hayas salido",
+      "ud": "haya salido",
+      "nosotros": "hayamos salido",
+      "vosotros": "hayáis salido",
+      "uds": "hayan salido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere salido",
+      "tu": "hubieres salido",
+      "ud": "hubiere salido",
+      "nosotros": "hubiéremos salido",
+      "vosotros": "hubiereis salido",
+      "uds": "hubieren salido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera salido",
+      "tu": "hubieras salido",
+      "ud": "hubiera salido",
+      "nosotros": "hubiéramos salido",
+      "vosotros": "hubierais salido",
+      "uds": "hubieran salido"
+    },
+    "imperfectoAlt": {
+      "yo": "saliese",
+      "tu": "salieses",
+      "ud": "saliese",
+      "nosotros": "saliésemos",
+      "vosotros": "salieseis",
+      "uds": "saliesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese salido",
+      "tu": "hubieses salido",
+      "ud": "hubiese salido",
+      "nosotros": "hubiésemos salido",
+      "vosotros": "hubieseis salido",
+      "uds": "hubiesen salido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sal",
+    "vosotros": "salid",
+    "ud": "salga",
+    "uds": "salgan"
+  },
+  "negativo": {
+    "tu": "no salgas",
+    "vosotros": "no salgáis",
+    "ud": "no salga",
+    "uds": "no salgan"
+  },
+  "english": {
+    "note": "Formas irregulares: salgo, salga, salgas, etc. Radical irregular en el futuro y condicional: saldr-. Mandato familiar singular irregular: sal.",
+    "infinitivo": "to leave, go out",
+    "gerundio": "leaving",
+    "participioPasado": "left",
+    "indicativo": {
+      "presente": "I leave, am leaving",
+      "futuro": "I will leave",
+      "imperfecto": "I was leaving, used to leave, left",
+      "preterito": "I left",
+      "condicional": "I would leave",
+      "presentePerfecto": "I have left, left",
+      "futuroPerfecto": "I will have left",
+      "pluscuamperfecto": "I had left",
+      "preteritoAnterior": "I had left",
+      "condicionalPerfecto": "I would have left"
+    },
+    "subjuntivo": {
+      "presente": "I leave, am leaving",
+      "imperfecto": "I left, was leaving",
+      "futuro": "I will leave",
+      "presentePerfecto": "I have left, left",
+      "futuroPerfecto": "I will have left",
+      "pluscuamperfecto": "I had left"
+    },
+    "afirmativo": "Leave!",
+    "negativo": "Don't leave!"
+  },
+  "attribution": "Fred Jehle"
+}

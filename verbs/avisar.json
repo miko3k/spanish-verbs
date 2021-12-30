@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "avisar",
+  "gerundio": "avisando",
+  "participioPasado": "avisado",
+  "indicativo": {
+    "presente": {
+      "yo": "aviso",
+      "tu": "avisas",
+      "ud": "avisa",
+      "nosotros": "avisamos",
+      "vosotros": "avisáis",
+      "uds": "avisan"
+    },
+    "futuro": {
+      "yo": "avisaré",
+      "tu": "avisarás",
+      "ud": "avisará",
+      "nosotros": "avisaremos",
+      "vosotros": "avisaréis",
+      "uds": "avisarán"
+    },
+    "imperfecto": {
+      "yo": "avisaba",
+      "tu": "avisabas",
+      "ud": "avisaba",
+      "nosotros": "avisábamos",
+      "vosotros": "avisabais",
+      "uds": "avisaban"
+    },
+    "preterito": {
+      "yo": "avisé",
+      "tu": "avisaste",
+      "ud": "avisó",
+      "nosotros": "avisamos",
+      "vosotros": "avisasteis",
+      "uds": "avisaron"
+    },
+    "condicional": {
+      "yo": "avisaría",
+      "tu": "avisarías",
+      "ud": "avisaría",
+      "nosotros": "avisaríamos",
+      "vosotros": "avisaríais",
+      "uds": "avisarían"
+    },
+    "presentePerfecto": {
+      "yo": "he avisado",
+      "tu": "has avisado",
+      "ud": "ha avisado",
+      "nosotros": "hemos avisado",
+      "vosotros": "habéis avisado",
+      "uds": "han avisado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré avisado",
+      "tu": "habrás avisado",
+      "ud": "habrá avisado",
+      "nosotros": "habremos avisado",
+      "vosotros": "habréis avisado",
+      "uds": "habrán avisado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había avisado",
+      "tu": "habías avisado",
+      "ud": "había avisado",
+      "nosotros": "habíamos avisado",
+      "vosotros": "habíais avisado",
+      "uds": "habían avisado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube avisado",
+      "tu": "hubiste avisado",
+      "ud": "hubo avisado",
+      "nosotros": "hubimos avisado",
+      "vosotros": "hubisteis avisado",
+      "uds": "hubieron avisado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría avisado",
+      "tu": "habrías avisado",
+      "ud": "habría avisado",
+      "nosotros": "habríamos avisado",
+      "vosotros": "habríais avisado",
+      "uds": "habrían avisado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "avise",
+      "tu": "avises",
+      "ud": "avise",
+      "nosotros": "avisemos",
+      "vosotros": "aviséis",
+      "uds": "avisen"
+    },
+    "imperfecto": {
+      "yo": "avisara",
+      "tu": "avisaras",
+      "ud": "avisara",
+      "nosotros": "avisáramos",
+      "vosotros": "avisarais",
+      "uds": "avisaran"
+    },
+    "futuro": {
+      "yo": "avisare",
+      "tu": "avisares",
+      "ud": "avisare",
+      "nosotros": "avisáremos",
+      "vosotros": "avisareis",
+      "uds": "avisaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya avisado",
+      "tu": "hayas avisado",
+      "ud": "haya avisado",
+      "nosotros": "hayamos avisado",
+      "vosotros": "hayáis avisado",
+      "uds": "hayan avisado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere avisado",
+      "tu": "hubieres avisado",
+      "ud": "hubiere avisado",
+      "nosotros": "hubiéremos avisado",
+      "vosotros": "hubiereis avisado",
+      "uds": "hubieren avisado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera avisado",
+      "tu": "hubieras avisado",
+      "ud": "hubiera avisado",
+      "nosotros": "hubiéramos avisado",
+      "vosotros": "hubierais avisado",
+      "uds": "hubieran avisado"
+    },
+    "imperfectoAlt": {
+      "yo": "avisase",
+      "tu": "avisases",
+      "ud": "avisase",
+      "nosotros": "avisásemos",
+      "vosotros": "avisaseis",
+      "uds": "avisasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese avisado",
+      "tu": "hubieses avisado",
+      "ud": "hubiese avisado",
+      "nosotros": "hubiésemos avisado",
+      "vosotros": "hubieseis avisado",
+      "uds": "hubiesen avisado"
+    }
+  },
+  "afirmativo": {
+    "tu": "avisa",
+    "vosotros": "avisad",
+    "ud": "avise",
+    "uds": "avisen"
+  },
+  "negativo": {
+    "tu": "no avises",
+    "vosotros": "no aviséis",
+    "ud": "no avise",
+    "uds": "no avisen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to warn, inform, notify",
+    "gerundio": "warning",
+    "participioPasado": "warned",
+    "indicativo": {
+      "presente": "I warn, am warning",
+      "futuro": "I will warn",
+      "imperfecto": "I was warning, used to warn, warned",
+      "preterito": "I warned",
+      "condicional": "I would warn",
+      "presentePerfecto": "I have warned",
+      "futuroPerfecto": "I will have warned",
+      "pluscuamperfecto": "I had warned",
+      "preteritoAnterior": "I had warned",
+      "condicionalPerfecto": "I would have warned"
+    },
+    "subjuntivo": {
+      "presente": "I warn, am warning",
+      "imperfecto": "I warned, was warning",
+      "futuro": "I will warn",
+      "presentePerfecto": "I have warned, warned",
+      "futuroPerfecto": "I will have warned",
+      "pluscuamperfecto": "I had warned"
+    },
+    "afirmativo": "Warn!",
+    "negativo": "Don't warn!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "recibir",
+  "gerundio": "recibiendo",
+  "participioPasado": "recibido",
+  "indicativo": {
+    "presente": {
+      "yo": "recibo",
+      "tu": "recibes",
+      "ud": "recibe",
+      "nosotros": "recibimos",
+      "vosotros": "recibís",
+      "uds": "reciben"
+    },
+    "futuro": {
+      "yo": "recibiré",
+      "tu": "recibirás",
+      "ud": "recibirá",
+      "nosotros": "recibiremos",
+      "vosotros": "recibiréis",
+      "uds": "recibirán"
+    },
+    "imperfecto": {
+      "yo": "recibía",
+      "tu": "recibías",
+      "ud": "recibía",
+      "nosotros": "recibíamos",
+      "vosotros": "recibíais",
+      "uds": "recibían"
+    },
+    "preterito": {
+      "yo": "recibí",
+      "tu": "recibiste",
+      "ud": "recibió",
+      "nosotros": "recibimos",
+      "vosotros": "recibisteis",
+      "uds": "recibieron"
+    },
+    "condicional": {
+      "yo": "recibiría",
+      "tu": "recibirías",
+      "ud": "recibiría",
+      "nosotros": "recibiríamos",
+      "vosotros": "recibiríais",
+      "uds": "recibirían"
+    },
+    "presentePerfecto": {
+      "yo": "he recibido",
+      "tu": "has recibido",
+      "ud": "ha recibido",
+      "nosotros": "hemos recibido",
+      "vosotros": "habéis recibido",
+      "uds": "han recibido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré recibido",
+      "tu": "habrás recibido",
+      "ud": "habrá recibido",
+      "nosotros": "habremos recibido",
+      "vosotros": "habréis recibido",
+      "uds": "habrán recibido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había recibido",
+      "tu": "habías recibido",
+      "ud": "había recibido",
+      "nosotros": "habíamos recibido",
+      "vosotros": "habíais recibido",
+      "uds": "habían recibido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube recibido",
+      "tu": "hubiste recibido",
+      "ud": "hubo recibido",
+      "nosotros": "hubimos recibido",
+      "vosotros": "hubisteis recibido",
+      "uds": "hubieron recibido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría recibido",
+      "tu": "habrías recibido",
+      "ud": "habría recibido",
+      "nosotros": "habríamos recibido",
+      "vosotros": "habríais recibido",
+      "uds": "habrían recibido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "reciba",
+      "tu": "recibas",
+      "ud": "reciba",
+      "nosotros": "recibamos",
+      "vosotros": "recibáis",
+      "uds": "reciban"
+    },
+    "imperfecto": {
+      "yo": "recibiera",
+      "tu": "recibieras",
+      "ud": "recibiera",
+      "nosotros": "recibiéramos",
+      "vosotros": "recibierais",
+      "uds": "recibieran"
+    },
+    "futuro": {
+      "yo": "recibiere",
+      "tu": "recibieres",
+      "ud": "recibiere",
+      "nosotros": "recibiéremos",
+      "vosotros": "recibiereis",
+      "uds": "recibieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya recibido",
+      "tu": "hayas recibido",
+      "ud": "haya recibido",
+      "nosotros": "hayamos recibido",
+      "vosotros": "hayáis recibido",
+      "uds": "hayan recibido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere recibido",
+      "tu": "hubieres recibido",
+      "ud": "hubiere recibido",
+      "nosotros": "hubiéremos recibido",
+      "vosotros": "hubiereis recibido",
+      "uds": "hubieren recibido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera recibido",
+      "tu": "hubieras recibido",
+      "ud": "hubiera recibido",
+      "nosotros": "hubiéramos recibido",
+      "vosotros": "hubierais recibido",
+      "uds": "hubieran recibido"
+    },
+    "imperfectoAlt": {
+      "yo": "recibiese",
+      "tu": "recibieses",
+      "ud": "recibiese",
+      "nosotros": "recibiésemos",
+      "vosotros": "recibieseis",
+      "uds": "recibiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese recibido",
+      "tu": "hubieses recibido",
+      "ud": "hubiese recibido",
+      "nosotros": "hubiésemos recibido",
+      "vosotros": "hubieseis recibido",
+      "uds": "hubiesen recibido"
+    }
+  },
+  "afirmativo": {
+    "tu": "recibe",
+    "vosotros": "recibid",
+    "ud": "reciba",
+    "uds": "reciban"
+  },
+  "negativo": {
+    "tu": "no recibas",
+    "vosotros": "no recibáis",
+    "ud": "no reciba",
+    "uds": "no reciban"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to receive; to welcome, greet",
+    "gerundio": "receiving",
+    "participioPasado": "received",
+    "indicativo": {
+      "presente": "I receive, am receiving",
+      "futuro": "I will receive",
+      "imperfecto": "I was receiving, used to receive, received",
+      "preterito": "I received",
+      "condicional": "I would receive",
+      "presentePerfecto": "I have received",
+      "futuroPerfecto": "I will have received",
+      "pluscuamperfecto": "I had received",
+      "preteritoAnterior": "I had received",
+      "condicionalPerfecto": "I would have received"
+    },
+    "subjuntivo": {
+      "presente": "I receive, am receiving",
+      "imperfecto": "I received, was receiving",
+      "futuro": "I will receive",
+      "presentePerfecto": "I have received, received",
+      "futuroPerfecto": "I will have received",
+      "pluscuamperfecto": "I had received"
+    },
+    "afirmativo": "Receive!",
+    "negativo": "Don't receive!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "temer",
+  "gerundio": "temiendo",
+  "participioPasado": "temido",
+  "indicativo": {
+    "presente": {
+      "yo": "temo",
+      "tu": "temes",
+      "ud": "teme",
+      "nosotros": "tememos",
+      "vosotros": "teméis",
+      "uds": "temen"
+    },
+    "futuro": {
+      "yo": "temeré",
+      "tu": "temerás",
+      "ud": "temerá",
+      "nosotros": "temeremos",
+      "vosotros": "temeréis",
+      "uds": "temerán"
+    },
+    "imperfecto": {
+      "yo": "temía",
+      "tu": "temías",
+      "ud": "temía",
+      "nosotros": "temíamos",
+      "vosotros": "temíais",
+      "uds": "temían"
+    },
+    "preterito": {
+      "yo": "temí",
+      "tu": "temiste",
+      "ud": "temió",
+      "nosotros": "temimos",
+      "vosotros": "temisteis",
+      "uds": "temieron"
+    },
+    "condicional": {
+      "yo": "temería",
+      "tu": "temerías",
+      "ud": "temería",
+      "nosotros": "temeríamos",
+      "vosotros": "temeríais",
+      "uds": "temerían"
+    },
+    "presentePerfecto": {
+      "yo": "he temido",
+      "tu": "has temido",
+      "ud": "ha temido",
+      "nosotros": "hemos temido",
+      "vosotros": "habéis temido",
+      "uds": "han temido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré temido",
+      "tu": "habrás temido",
+      "ud": "habrá temido",
+      "nosotros": "habremos temido",
+      "vosotros": "habréis temido",
+      "uds": "habrán temido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había temido",
+      "tu": "habías temido",
+      "ud": "había temido",
+      "nosotros": "habíamos temido",
+      "vosotros": "habíais temido",
+      "uds": "habían temido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube temido",
+      "tu": "hubiste temido",
+      "ud": "hubo temido",
+      "nosotros": "hubimos temido",
+      "vosotros": "hubisteis temido",
+      "uds": "hubieron temido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría temido",
+      "tu": "habrías temido",
+      "ud": "habría temido",
+      "nosotros": "habríamos temido",
+      "vosotros": "habríais temido",
+      "uds": "habrían temido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "tema",
+      "tu": "temas",
+      "ud": "tema",
+      "nosotros": "temamos",
+      "vosotros": "temáis",
+      "uds": "teman"
+    },
+    "imperfecto": {
+      "yo": "temiera",
+      "tu": "temieras",
+      "ud": "temiera",
+      "nosotros": "temiéramos",
+      "vosotros": "temierais",
+      "uds": "temieran"
+    },
+    "futuro": {
+      "yo": "temiere",
+      "tu": "temieres",
+      "ud": "temiere",
+      "nosotros": "temiéremos",
+      "vosotros": "temiereis",
+      "uds": "temieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya temido",
+      "tu": "hayas temido",
+      "ud": "haya temido",
+      "nosotros": "hayamos temido",
+      "vosotros": "hayáis temido",
+      "uds": "hayan temido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere temido",
+      "tu": "hubieres temido",
+      "ud": "hubiere temido",
+      "nosotros": "hubiéremos temido",
+      "vosotros": "hubiereis temido",
+      "uds": "hubieren temido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera temido",
+      "tu": "hubieras temido",
+      "ud": "hubiera temido",
+      "nosotros": "hubiéramos temido",
+      "vosotros": "hubierais temido",
+      "uds": "hubieran temido"
+    },
+    "imperfectoAlt": {
+      "yo": "temiese",
+      "tu": "temieses",
+      "ud": "temiese",
+      "nosotros": "temiésemos",
+      "vosotros": "temieseis",
+      "uds": "temiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese temido",
+      "tu": "hubieses temido",
+      "ud": "hubiese temido",
+      "nosotros": "hubiésemos temido",
+      "vosotros": "hubieseis temido",
+      "uds": "hubiesen temido"
+    }
+  },
+  "afirmativo": {
+    "tu": "teme",
+    "vosotros": "temed",
+    "ud": "tema",
+    "uds": "teman"
+  },
+  "negativo": {
+    "tu": "no temas",
+    "vosotros": "no temáis",
+    "ud": "no tema",
+    "uds": "no teman"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to fear",
+    "gerundio": "fearing",
+    "participioPasado": "feared",
+    "indicativo": {
+      "presente": "I fear, am fearing",
+      "futuro": "I will fear",
+      "imperfecto": "I was fearing, used to fear, feared",
+      "preterito": "I feared",
+      "condicional": "I would fear",
+      "presentePerfecto": "I have feared",
+      "futuroPerfecto": "I will have feared",
+      "pluscuamperfecto": "I had feared",
+      "preteritoAnterior": "I had feared",
+      "condicionalPerfecto": "I would have feared"
+    },
+    "subjuntivo": {
+      "presente": "I fear, am fearing",
+      "imperfecto": "I feared, was fearing",
+      "futuro": "I will fear",
+      "presentePerfecto": "I have feared, feared",
+      "futuroPerfecto": "I will have feared",
+      "pluscuamperfecto": "I had feared"
+    },
+    "afirmativo": "Fear!",
+    "negativo": "Don't fear!"
+  },
+  "attribution": "Fred Jehle"
+}

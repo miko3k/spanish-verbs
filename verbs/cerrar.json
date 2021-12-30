@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "cerrar",
+  "gerundio": "cerrando",
+  "participioPasado": "cerrado",
+  "indicativo": {
+    "presente": {
+      "yo": "cierro",
+      "tu": "cierras",
+      "ud": "cierra",
+      "nosotros": "cerramos",
+      "vosotros": "cerráis",
+      "uds": "cierran"
+    },
+    "futuro": {
+      "yo": "cerraré",
+      "tu": "cerrarás",
+      "ud": "cerrará",
+      "nosotros": "cerraremos",
+      "vosotros": "cerraréis",
+      "uds": "cerrarán"
+    },
+    "imperfecto": {
+      "yo": "cerraba",
+      "tu": "cerrabas",
+      "ud": "cerraba",
+      "nosotros": "cerrábamos",
+      "vosotros": "cerrabais",
+      "uds": "cerraban"
+    },
+    "preterito": {
+      "yo": "cerré",
+      "tu": "cerraste",
+      "ud": "cerró",
+      "nosotros": "cerramos",
+      "vosotros": "cerrasteis",
+      "uds": "cerraron"
+    },
+    "condicional": {
+      "yo": "cerraría",
+      "tu": "cerrarías",
+      "ud": "cerraría",
+      "nosotros": "cerraríamos",
+      "vosotros": "cerraríais",
+      "uds": "cerrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cerrado",
+      "tu": "has cerrado",
+      "ud": "ha cerrado",
+      "nosotros": "hemos cerrado",
+      "vosotros": "habéis cerrado",
+      "uds": "han cerrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cerrado",
+      "tu": "habrás cerrado",
+      "ud": "habrá cerrado",
+      "nosotros": "habremos cerrado",
+      "vosotros": "habréis cerrado",
+      "uds": "habrán cerrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cerrado",
+      "tu": "habías cerrado",
+      "ud": "había cerrado",
+      "nosotros": "habíamos cerrado",
+      "vosotros": "habíais cerrado",
+      "uds": "habían cerrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cerrado",
+      "tu": "hubiste cerrado",
+      "ud": "hubo cerrado",
+      "nosotros": "hubimos cerrado",
+      "vosotros": "hubisteis cerrado",
+      "uds": "hubieron cerrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cerrado",
+      "tu": "habrías cerrado",
+      "ud": "habría cerrado",
+      "nosotros": "habríamos cerrado",
+      "vosotros": "habríais cerrado",
+      "uds": "habrían cerrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cierre",
+      "tu": "cierres",
+      "ud": "cierre",
+      "nosotros": "cerremos",
+      "vosotros": "cerréis",
+      "uds": "cierren"
+    },
+    "imperfecto": {
+      "yo": "cerrara",
+      "tu": "cerraras",
+      "ud": "cerrara",
+      "nosotros": "cerráramos",
+      "vosotros": "cerrarais",
+      "uds": "cerraran"
+    },
+    "futuro": {
+      "yo": "cerrare",
+      "tu": "cerrares",
+      "ud": "cerrare",
+      "nosotros": "cerráremos",
+      "vosotros": "cerrareis",
+      "uds": "cerraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cerrado",
+      "tu": "hayas cerrado",
+      "ud": "haya cerrado",
+      "nosotros": "hayamos cerrado",
+      "vosotros": "hayáis cerrado",
+      "uds": "hayan cerrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cerrado",
+      "tu": "hubieres cerrado",
+      "ud": "hubiere cerrado",
+      "nosotros": "hubiéremos cerrado",
+      "vosotros": "hubiereis cerrado",
+      "uds": "hubieren cerrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cerrado",
+      "tu": "hubieras cerrado",
+      "ud": "hubiera cerrado",
+      "nosotros": "hubiéramos cerrado",
+      "vosotros": "hubierais cerrado",
+      "uds": "hubieran cerrado"
+    },
+    "imperfectoAlt": {
+      "yo": "cerrase",
+      "tu": "cerrases",
+      "ud": "cerrase",
+      "nosotros": "cerrásemos",
+      "vosotros": "cerraseis",
+      "uds": "cerrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cerrado",
+      "tu": "hubieses cerrado",
+      "ud": "hubiese cerrado",
+      "nosotros": "hubiésemos cerrado",
+      "vosotros": "hubieseis cerrado",
+      "uds": "hubiesen cerrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cierra",
+    "vosotros": "cerrad",
+    "ud": "cierre",
+    "uds": "cierren"
+  },
+  "negativo": {
+    "tu": "no cierres",
+    "vosotros": "no cerréis",
+    "ud": "no cierre",
+    "uds": "no cierren"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie.",
+    "infinitivo": "to close, shut",
+    "gerundio": "closing",
+    "participioPasado": "closed",
+    "indicativo": {
+      "presente": "I close, am closing",
+      "futuro": "I will close",
+      "imperfecto": "I was closing, used to close, closed",
+      "preterito": "I closed",
+      "condicional": "I would close",
+      "presentePerfecto": "I have closed",
+      "futuroPerfecto": "I will have closed",
+      "pluscuamperfecto": "I had closed",
+      "preteritoAnterior": "I had closed",
+      "condicionalPerfecto": "I would have closed"
+    },
+    "subjuntivo": {
+      "presente": "I close, am closing",
+      "imperfecto": "I closed, was closing",
+      "futuro": "I will close",
+      "presentePerfecto": "I have closed, closed",
+      "futuroPerfecto": "I will have closed",
+      "pluscuamperfecto": "I had closed"
+    },
+    "afirmativo": "Close!",
+    "negativo": "Don't close!"
+  },
+  "attribution": "Fred Jehle"
+}

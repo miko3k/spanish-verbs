@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "besar",
+  "gerundio": "besando",
+  "participioPasado": "besado",
+  "indicativo": {
+    "presente": {
+      "yo": "beso",
+      "tu": "besas",
+      "ud": "besa",
+      "nosotros": "besamos",
+      "vosotros": "besáis",
+      "uds": "besan"
+    },
+    "futuro": {
+      "yo": "besaré",
+      "tu": "besarás",
+      "ud": "besará",
+      "nosotros": "besaremos",
+      "vosotros": "besaréis",
+      "uds": "besarán"
+    },
+    "imperfecto": {
+      "yo": "besaba",
+      "tu": "besabas",
+      "ud": "besaba",
+      "nosotros": "besábamos",
+      "vosotros": "besabais",
+      "uds": "besaban"
+    },
+    "preterito": {
+      "yo": "besé",
+      "tu": "besaste",
+      "ud": "besó",
+      "nosotros": "besamos",
+      "vosotros": "besasteis",
+      "uds": "besaron"
+    },
+    "condicional": {
+      "yo": "besaría",
+      "tu": "besarías",
+      "ud": "besaría",
+      "nosotros": "besaríamos",
+      "vosotros": "besaríais",
+      "uds": "besarían"
+    },
+    "presentePerfecto": {
+      "yo": "he besado",
+      "tu": "has besado",
+      "ud": "ha besado",
+      "nosotros": "hemos besado",
+      "vosotros": "habéis besado",
+      "uds": "han besado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré besado",
+      "tu": "habrás besado",
+      "ud": "habrá besado",
+      "nosotros": "habremos besado",
+      "vosotros": "habréis besado",
+      "uds": "habrán besado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había besado",
+      "tu": "habías besado",
+      "ud": "había besado",
+      "nosotros": "habíamos besado",
+      "vosotros": "habíais besado",
+      "uds": "habían besado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube besado",
+      "tu": "hubiste besado",
+      "ud": "hubo besado",
+      "nosotros": "hubimos besado",
+      "vosotros": "hubisteis besado",
+      "uds": "hubieron besado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría besado",
+      "tu": "habrías besado",
+      "ud": "habría besado",
+      "nosotros": "habríamos besado",
+      "vosotros": "habríais besado",
+      "uds": "habrían besado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "bese",
+      "tu": "beses",
+      "ud": "bese",
+      "nosotros": "besemos",
+      "vosotros": "beséis",
+      "uds": "besen"
+    },
+    "imperfecto": {
+      "yo": "besara",
+      "tu": "besaras",
+      "ud": "besara",
+      "nosotros": "besáramos",
+      "vosotros": "besarais",
+      "uds": "besaran"
+    },
+    "futuro": {
+      "yo": "besare",
+      "tu": "besares",
+      "ud": "besare",
+      "nosotros": "besáremos",
+      "vosotros": "besareis",
+      "uds": "besaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya besado",
+      "tu": "hayas besado",
+      "ud": "haya besado",
+      "nosotros": "hayamos besado",
+      "vosotros": "hayáis besado",
+      "uds": "hayan besado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere besado",
+      "tu": "hubieres besado",
+      "ud": "hubiere besado",
+      "nosotros": "hubiéremos besado",
+      "vosotros": "hubiereis besado",
+      "uds": "hubieren besado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera besado",
+      "tu": "hubieras besado",
+      "ud": "hubiera besado",
+      "nosotros": "hubiéramos besado",
+      "vosotros": "hubierais besado",
+      "uds": "hubieran besado"
+    },
+    "imperfectoAlt": {
+      "yo": "besase",
+      "tu": "besases",
+      "ud": "besase",
+      "nosotros": "besásemos",
+      "vosotros": "besaseis",
+      "uds": "besasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese besado",
+      "tu": "hubieses besado",
+      "ud": "hubiese besado",
+      "nosotros": "hubiésemos besado",
+      "vosotros": "hubieseis besado",
+      "uds": "hubiesen besado"
+    }
+  },
+  "afirmativo": {
+    "tu": "besa",
+    "vosotros": "besad",
+    "ud": "bese",
+    "uds": "besen"
+  },
+  "negativo": {
+    "tu": "no beses",
+    "vosotros": "no beséis",
+    "ud": "no bese",
+    "uds": "no besen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to kiss",
+    "gerundio": "kissing",
+    "participioPasado": "kissed",
+    "indicativo": {
+      "presente": "I kiss, am kissing",
+      "futuro": "I will kiss",
+      "imperfecto": "I was kissing, used to kiss, kissed",
+      "preterito": "I kissed",
+      "condicional": "I would kiss",
+      "presentePerfecto": "I have kissed",
+      "futuroPerfecto": "I will have kissed",
+      "pluscuamperfecto": "I had kissed",
+      "preteritoAnterior": "I had kissed",
+      "condicionalPerfecto": "I would have kissed"
+    },
+    "subjuntivo": {
+      "presente": "I kiss, am kissing",
+      "imperfecto": "I kissed, was kissing",
+      "futuro": "I will kiss",
+      "presentePerfecto": "I have kissed, kissed",
+      "futuroPerfecto": "I will have kissed",
+      "pluscuamperfecto": "I had kissed"
+    },
+    "afirmativo": "Kiss!",
+    "negativo": "Don't kiss!"
+  },
+  "attribution": "Fred Jehle"
+}

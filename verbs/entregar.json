@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "entregar",
+  "gerundio": "entregando",
+  "participioPasado": "entregado",
+  "indicativo": {
+    "presente": {
+      "yo": "entrego",
+      "tu": "entregas",
+      "ud": "entrega",
+      "nosotros": "entregamos",
+      "vosotros": "entregáis",
+      "uds": "entregan"
+    },
+    "futuro": {
+      "yo": "entregaré",
+      "tu": "entregarás",
+      "ud": "entregará",
+      "nosotros": "entregaremos",
+      "vosotros": "entregaréis",
+      "uds": "entregarán"
+    },
+    "imperfecto": {
+      "yo": "entregaba",
+      "tu": "entregabas",
+      "ud": "entregaba",
+      "nosotros": "entregábamos",
+      "vosotros": "entregabais",
+      "uds": "entregaban"
+    },
+    "preterito": {
+      "yo": "entregué",
+      "tu": "entregaste",
+      "ud": "entregó",
+      "nosotros": "entregamos",
+      "vosotros": "entregasteis",
+      "uds": "entregaron"
+    },
+    "condicional": {
+      "yo": "entregaría",
+      "tu": "entregarías",
+      "ud": "entregaría",
+      "nosotros": "entregaríamos",
+      "vosotros": "entregaríais",
+      "uds": "entregarían"
+    },
+    "presentePerfecto": {
+      "yo": "he entregado",
+      "tu": "has entregado",
+      "ud": "ha entregado",
+      "nosotros": "hemos entregado",
+      "vosotros": "habéis entregado",
+      "uds": "han entregado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré entregado",
+      "tu": "habrás entregado",
+      "ud": "habrá entregado",
+      "nosotros": "habremos entregado",
+      "vosotros": "habréis entregado",
+      "uds": "habrán entregado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había entregado",
+      "tu": "habías entregado",
+      "ud": "había entregado",
+      "nosotros": "habíamos entregado",
+      "vosotros": "habíais entregado",
+      "uds": "habían entregado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube entregado",
+      "tu": "hubiste entregado",
+      "ud": "hubo entregado",
+      "nosotros": "hubimos entregado",
+      "vosotros": "hubisteis entregado",
+      "uds": "hubieron entregado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría entregado",
+      "tu": "habrías entregado",
+      "ud": "habría entregado",
+      "nosotros": "habríamos entregado",
+      "vosotros": "habríais entregado",
+      "uds": "habrían entregado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "entregue",
+      "tu": "entregues",
+      "ud": "entregue",
+      "nosotros": "entreguemos",
+      "vosotros": "entreguéis",
+      "uds": "entreguen"
+    },
+    "imperfecto": {
+      "yo": "entregara",
+      "tu": "entregaras",
+      "ud": "entregara",
+      "nosotros": "entregáramos",
+      "vosotros": "entregarais",
+      "uds": "entregaran"
+    },
+    "futuro": {
+      "yo": "entregare",
+      "tu": "entregares",
+      "ud": "entregare",
+      "nosotros": "entregáremos",
+      "vosotros": "entregareis",
+      "uds": "entregaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya entregado",
+      "tu": "hayas entregado",
+      "ud": "haya entregado",
+      "nosotros": "hayamos entregado",
+      "vosotros": "hayáis entregado",
+      "uds": "hayan entregado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere entregado",
+      "tu": "hubieres entregado",
+      "ud": "hubiere entregado",
+      "nosotros": "hubiéremos entregado",
+      "vosotros": "hubiereis entregado",
+      "uds": "hubieren entregado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera entregado",
+      "tu": "hubieras entregado",
+      "ud": "hubiera entregado",
+      "nosotros": "hubiéramos entregado",
+      "vosotros": "hubierais entregado",
+      "uds": "hubieran entregado"
+    },
+    "imperfectoAlt": {
+      "yo": "entregase",
+      "tu": "entregases",
+      "ud": "entregase",
+      "nosotros": "entregásemos",
+      "vosotros": "entregaseis",
+      "uds": "entregasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese entregado",
+      "tu": "hubieses entregado",
+      "ud": "hubiese entregado",
+      "nosotros": "hubiésemos entregado",
+      "vosotros": "hubieseis entregado",
+      "uds": "hubiesen entregado"
+    }
+  },
+  "afirmativo": {
+    "tu": "entrega",
+    "vosotros": "entregad",
+    "ud": "entregue",
+    "uds": "entreguen"
+  },
+  "negativo": {
+    "tu": "no entregues",
+    "vosotros": "no entreguéis",
+    "ud": "no entregue",
+    "uds": "no entreguen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to deliver, hand over",
+    "gerundio": "delivering",
+    "participioPasado": "delivered",
+    "indicativo": {
+      "presente": "I deliver, am delivering",
+      "futuro": "I will deliver",
+      "imperfecto": "I was delivering, used to deliver, delivered",
+      "preterito": "I delivered",
+      "condicional": "I would deliver",
+      "presentePerfecto": "I have delivered",
+      "futuroPerfecto": "I will have delivered",
+      "pluscuamperfecto": "I had delivered",
+      "preteritoAnterior": "I had delivered",
+      "condicionalPerfecto": "I would have delivered"
+    },
+    "subjuntivo": {
+      "presente": "I deliver, am delivering",
+      "imperfecto": "I delivered, was delivering",
+      "futuro": "I will deliver",
+      "presentePerfecto": "I have delivered, delivered",
+      "futuroPerfecto": "I will have delivered",
+      "pluscuamperfecto": "I had delivered"
+    },
+    "afirmativo": "Deliver!",
+    "negativo": "Don't deliver!"
+  },
+  "attribution": "Fred Jehle"
+}

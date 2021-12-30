@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "publicar",
+  "gerundio": "publicando",
+  "participioPasado": "publicado",
+  "indicativo": {
+    "presente": {
+      "yo": "publico",
+      "tu": "publicas",
+      "ud": "publica",
+      "nosotros": "publicamos",
+      "vosotros": "publicáis",
+      "uds": "publican"
+    },
+    "futuro": {
+      "yo": "publicaré",
+      "tu": "publicarás",
+      "ud": "publicará",
+      "nosotros": "publicaremos",
+      "vosotros": "publicaréis",
+      "uds": "publicarán"
+    },
+    "imperfecto": {
+      "yo": "publicaba",
+      "tu": "publicabas",
+      "ud": "publicaba",
+      "nosotros": "publicábamos",
+      "vosotros": "publicabais",
+      "uds": "publicaban"
+    },
+    "preterito": {
+      "yo": "publiqué",
+      "tu": "publicaste",
+      "ud": "publicó",
+      "nosotros": "publicamos",
+      "vosotros": "publicasteis",
+      "uds": "publicaron"
+    },
+    "condicional": {
+      "yo": "publicaría",
+      "tu": "publicarías",
+      "ud": "publicaría",
+      "nosotros": "publicaríamos",
+      "vosotros": "publicaríais",
+      "uds": "publicarían"
+    },
+    "presentePerfecto": {
+      "yo": "he publicado",
+      "tu": "has publicado",
+      "ud": "ha publicado",
+      "nosotros": "hemos publicado",
+      "vosotros": "habéis publicado",
+      "uds": "han publicado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré publicado",
+      "tu": "habrás publicado",
+      "ud": "habrá publicado",
+      "nosotros": "habremos publicado",
+      "vosotros": "habréis publicado",
+      "uds": "habrán publicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había publicado",
+      "tu": "habías publicado",
+      "ud": "había publicado",
+      "nosotros": "habíamos publicado",
+      "vosotros": "habíais publicado",
+      "uds": "habían publicado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube publicado",
+      "tu": "hubiste publicado",
+      "ud": "hubo publicado",
+      "nosotros": "hubimos publicado",
+      "vosotros": "hubisteis publicado",
+      "uds": "hubieron publicado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría publicado",
+      "tu": "habrías publicado",
+      "ud": "habría publicado",
+      "nosotros": "habríamos publicado",
+      "vosotros": "habríais publicado",
+      "uds": "habrían publicado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "publique",
+      "tu": "publiques",
+      "ud": "publique",
+      "nosotros": "publiquemos",
+      "vosotros": "publiquéis",
+      "uds": "publiquen"
+    },
+    "imperfecto": {
+      "yo": "publicara",
+      "tu": "publicaras",
+      "ud": "publicara",
+      "nosotros": "publicáramos",
+      "vosotros": "publicarais",
+      "uds": "publicaran"
+    },
+    "futuro": {
+      "yo": "publicare",
+      "tu": "publicares",
+      "ud": "publicare",
+      "nosotros": "publicáremos",
+      "vosotros": "publicareis",
+      "uds": "publicaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya publicado",
+      "tu": "hayas publicado",
+      "ud": "haya publicado",
+      "nosotros": "hayamos publicado",
+      "vosotros": "hayáis publicado",
+      "uds": "hayan publicado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere publicado",
+      "tu": "hubieres publicado",
+      "ud": "hubiere publicado",
+      "nosotros": "hubiéremos publicado",
+      "vosotros": "hubiereis publicado",
+      "uds": "hubieren publicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera publicado",
+      "tu": "hubieras publicado",
+      "ud": "hubiera publicado",
+      "nosotros": "hubiéramos publicado",
+      "vosotros": "hubierais publicado",
+      "uds": "hubieran publicado"
+    },
+    "imperfectoAlt": {
+      "yo": "publicase",
+      "tu": "publicases",
+      "ud": "publicase",
+      "nosotros": "publicásemos",
+      "vosotros": "publicaseis",
+      "uds": "publicasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese publicado",
+      "tu": "hubieses publicado",
+      "ud": "hubiese publicado",
+      "nosotros": "hubiésemos publicado",
+      "vosotros": "hubieseis publicado",
+      "uds": "hubiesen publicado"
+    }
+  },
+  "afirmativo": {
+    "tu": "publica",
+    "vosotros": "publicad",
+    "ud": "publique",
+    "uds": "publiquen"
+  },
+  "negativo": {
+    "tu": "no publiques",
+    "vosotros": "no publiquéis",
+    "ud": "no publique",
+    "uds": "no publiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to publish",
+    "gerundio": "publishing",
+    "participioPasado": "published",
+    "indicativo": {
+      "presente": "I publish, am publishing",
+      "futuro": "I will publish",
+      "imperfecto": "I was publishing, used to publish, published",
+      "preterito": "I published",
+      "condicional": "I would publish",
+      "presentePerfecto": "I have published",
+      "futuroPerfecto": "I will have published",
+      "pluscuamperfecto": "I had published",
+      "preteritoAnterior": "I had published",
+      "condicionalPerfecto": "I would have published"
+    },
+    "subjuntivo": {
+      "presente": "I publish, am publishing",
+      "imperfecto": "I published, was publishing",
+      "futuro": "I will publish",
+      "presentePerfecto": "I have published, published",
+      "futuroPerfecto": "I will have published",
+      "pluscuamperfecto": "I had published"
+    },
+    "afirmativo": "Publish!",
+    "negativo": "Don't publish!"
+  },
+  "attribution": "Fred Jehle"
+}

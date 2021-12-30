@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "controlar",
+  "gerundio": "controlando",
+  "participioPasado": "controlado",
+  "indicativo": {
+    "presente": {
+      "yo": "controlo",
+      "tu": "controlas",
+      "ud": "controla",
+      "nosotros": "controlamos",
+      "vosotros": "controláis",
+      "uds": "controlan"
+    },
+    "futuro": {
+      "yo": "controlaré",
+      "tu": "controlarás",
+      "ud": "controlará",
+      "nosotros": "controlaremos",
+      "vosotros": "controlaréis",
+      "uds": "controlarán"
+    },
+    "imperfecto": {
+      "yo": "controlaba",
+      "tu": "controlabas",
+      "ud": "controlaba",
+      "nosotros": "controlábamos",
+      "vosotros": "controlabais",
+      "uds": "controlaban"
+    },
+    "preterito": {
+      "yo": "controlé",
+      "tu": "controlaste",
+      "ud": "controló",
+      "nosotros": "controlamos",
+      "vosotros": "controlasteis",
+      "uds": "controlaron"
+    },
+    "condicional": {
+      "yo": "controlaría",
+      "tu": "controlarías",
+      "ud": "controlaría",
+      "nosotros": "controlaríamos",
+      "vosotros": "controlaríais",
+      "uds": "controlarían"
+    },
+    "presentePerfecto": {
+      "yo": "he controlado",
+      "tu": "has controlado",
+      "ud": "ha controlado",
+      "nosotros": "hemos controlado",
+      "vosotros": "habéis controlado",
+      "uds": "han controlado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré controlado",
+      "tu": "habrás controlado",
+      "ud": "habrá controlado",
+      "nosotros": "habremos controlado",
+      "vosotros": "habréis controlado",
+      "uds": "habrán controlado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había controlado",
+      "tu": "habías controlado",
+      "ud": "había controlado",
+      "nosotros": "habíamos controlado",
+      "vosotros": "habíais controlado",
+      "uds": "habían controlado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube controlado",
+      "tu": "hubiste controlado",
+      "ud": "hubo controlado",
+      "nosotros": "hubimos controlado",
+      "vosotros": "hubisteis controlado",
+      "uds": "hubieron controlado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría controlado",
+      "tu": "habrías controlado",
+      "ud": "habría controlado",
+      "nosotros": "habríamos controlado",
+      "vosotros": "habríais controlado",
+      "uds": "habrían controlado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "controle",
+      "tu": "controles",
+      "ud": "controle",
+      "nosotros": "controlemos",
+      "vosotros": "controléis",
+      "uds": "controlen"
+    },
+    "imperfecto": {
+      "yo": "controlara",
+      "tu": "controlaras",
+      "ud": "controlara",
+      "nosotros": "controláramos",
+      "vosotros": "controlarais",
+      "uds": "controlaran"
+    },
+    "futuro": {
+      "yo": "controlare",
+      "tu": "controlares",
+      "ud": "controlare",
+      "nosotros": "controláremos",
+      "vosotros": "controlareis",
+      "uds": "controlaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya controlado",
+      "tu": "hayas controlado",
+      "ud": "haya controlado",
+      "nosotros": "hayamos controlado",
+      "vosotros": "hayáis controlado",
+      "uds": "hayan controlado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere controlado",
+      "tu": "hubieres controlado",
+      "ud": "hubiere controlado",
+      "nosotros": "hubiéremos controlado",
+      "vosotros": "hubiereis controlado",
+      "uds": "hubieren controlado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera controlado",
+      "tu": "hubieras controlado",
+      "ud": "hubiera controlado",
+      "nosotros": "hubiéramos controlado",
+      "vosotros": "hubierais controlado",
+      "uds": "hubieran controlado"
+    },
+    "imperfectoAlt": {
+      "yo": "controlase",
+      "tu": "controlases",
+      "ud": "controlase",
+      "nosotros": "controlásemos",
+      "vosotros": "controlaseis",
+      "uds": "controlasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese controlado",
+      "tu": "hubieses controlado",
+      "ud": "hubiese controlado",
+      "nosotros": "hubiésemos controlado",
+      "vosotros": "hubieseis controlado",
+      "uds": "hubiesen controlado"
+    }
+  },
+  "afirmativo": {
+    "tu": "controla",
+    "vosotros": "controlad",
+    "ud": "controle",
+    "uds": "controlen"
+  },
+  "negativo": {
+    "tu": "no controles",
+    "vosotros": "no controléis",
+    "ud": "no controle",
+    "uds": "no controlen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to control; to inspect, check",
+    "gerundio": "controlling",
+    "participioPasado": "controlled",
+    "indicativo": {
+      "presente": "I control, am controlling",
+      "futuro": "I will control",
+      "imperfecto": "I was controlling, used to control, controlled",
+      "preterito": "I controlled",
+      "condicional": "I would control",
+      "presentePerfecto": "I have controlled",
+      "futuroPerfecto": "I will have controlled",
+      "pluscuamperfecto": "I had controlled",
+      "preteritoAnterior": "I had controlled",
+      "condicionalPerfecto": "I would have controlled"
+    },
+    "subjuntivo": {
+      "presente": "I control, am controlling",
+      "imperfecto": "I controlled, was controlling",
+      "futuro": "I will control",
+      "presentePerfecto": "I have controlled, controlled",
+      "futuroPerfecto": "I will have controlled",
+      "pluscuamperfecto": "I had controlled"
+    },
+    "afirmativo": "Control!",
+    "negativo": "Don't control!"
+  },
+  "attribution": "Fred Jehle"
+}

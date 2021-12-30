@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "escoger",
+  "gerundio": "escogiendo",
+  "participioPasado": "escogido",
+  "indicativo": {
+    "presente": {
+      "yo": "escojo",
+      "tu": "escoges",
+      "ud": "escoge",
+      "nosotros": "escogemos",
+      "vosotros": "escogéis",
+      "uds": "escogen"
+    },
+    "futuro": {
+      "yo": "escogeré",
+      "tu": "escogerás",
+      "ud": "escogerá",
+      "nosotros": "escogeremos",
+      "vosotros": "escogeréis",
+      "uds": "escogerán"
+    },
+    "imperfecto": {
+      "yo": "escogía",
+      "tu": "escogías",
+      "ud": "escogía",
+      "nosotros": "escogíamos",
+      "vosotros": "escogíais",
+      "uds": "escogían"
+    },
+    "preterito": {
+      "yo": "escogí",
+      "tu": "escogiste",
+      "ud": "escogió",
+      "nosotros": "escogimos",
+      "vosotros": "escogisteis",
+      "uds": "escogieron"
+    },
+    "condicional": {
+      "yo": "escogería",
+      "tu": "escogerías",
+      "ud": "escogería",
+      "nosotros": "escogeríamos",
+      "vosotros": "escogeríais",
+      "uds": "escogerían"
+    },
+    "presentePerfecto": {
+      "yo": "he escogido",
+      "tu": "has escogido",
+      "ud": "ha escogido",
+      "nosotros": "hemos escogido",
+      "vosotros": "habéis escogido",
+      "uds": "han escogido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré escogido",
+      "tu": "habrás escogido",
+      "ud": "habrá escogido",
+      "nosotros": "habremos escogido",
+      "vosotros": "habréis escogido",
+      "uds": "habrán escogido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había escogido",
+      "tu": "habías escogido",
+      "ud": "había escogido",
+      "nosotros": "habíamos escogido",
+      "vosotros": "habíais escogido",
+      "uds": "habían escogido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube escogido",
+      "tu": "hubiste escogido",
+      "ud": "hubo escogido",
+      "nosotros": "hubimos escogido",
+      "vosotros": "hubisteis escogido",
+      "uds": "hubieron escogido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría escogido",
+      "tu": "habrías escogido",
+      "ud": "habría escogido",
+      "nosotros": "habríamos escogido",
+      "vosotros": "habríais escogido",
+      "uds": "habrían escogido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "escoja",
+      "tu": "escojas",
+      "ud": "escoja",
+      "nosotros": "escojamos",
+      "vosotros": "escojáis",
+      "uds": "escojan"
+    },
+    "imperfecto": {
+      "yo": "escogiera",
+      "tu": "escogieras",
+      "ud": "escogiera",
+      "nosotros": "escogiéramos",
+      "vosotros": "escogierais",
+      "uds": "escogieran"
+    },
+    "futuro": {
+      "yo": "escogiere",
+      "tu": "escogieres",
+      "ud": "escogiere",
+      "nosotros": "escogiéremos",
+      "vosotros": "escogiereis",
+      "uds": "escogieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya escogido",
+      "tu": "hayas escogido",
+      "ud": "haya escogido",
+      "nosotros": "hayamos escogido",
+      "vosotros": "hayáis escogido",
+      "uds": "hayan escogido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere escogido",
+      "tu": "hubieres escogido",
+      "ud": "hubiere escogido",
+      "nosotros": "hubiéremos escogido",
+      "vosotros": "hubiereis escogido",
+      "uds": "hubieren escogido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera escogido",
+      "tu": "hubieras escogido",
+      "ud": "hubiera escogido",
+      "nosotros": "hubiéramos escogido",
+      "vosotros": "hubierais escogido",
+      "uds": "hubieran escogido"
+    },
+    "imperfectoAlt": {
+      "yo": "escogiese",
+      "tu": "escogieses",
+      "ud": "escogiese",
+      "nosotros": "escogiésemos",
+      "vosotros": "escogieseis",
+      "uds": "escogiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese escogido",
+      "tu": "hubieses escogido",
+      "ud": "hubiese escogido",
+      "nosotros": "hubiésemos escogido",
+      "vosotros": "hubieseis escogido",
+      "uds": "hubiesen escogido"
+    }
+  },
+  "afirmativo": {
+    "tu": "escoge",
+    "vosotros": "escoged",
+    "ud": "escoja",
+    "uds": "escojan"
+  },
+  "negativo": {
+    "tu": "no escojas",
+    "vosotros": "no escojáis",
+    "ud": "no escoja",
+    "uds": "no escojan"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > j delante de a y o.",
+    "infinitivo": "to choose, select, pick",
+    "gerundio": "choosing",
+    "participioPasado": "chosen",
+    "indicativo": {
+      "presente": "I choose, am choosing",
+      "futuro": "I will choose",
+      "imperfecto": "I was choosing, used to choose, chose",
+      "preterito": "I chose",
+      "condicional": "I would choose",
+      "presentePerfecto": "I have chosen",
+      "futuroPerfecto": "I will have chosen",
+      "pluscuamperfecto": "I had chosen",
+      "preteritoAnterior": "I had chosen",
+      "condicionalPerfecto": "I would have chosen"
+    },
+    "subjuntivo": {
+      "presente": "I choose, am choosing",
+      "imperfecto": "I chose, was choosing",
+      "futuro": "I will choose",
+      "presentePerfecto": "I have chosen, chose",
+      "futuroPerfecto": "I will have chosen",
+      "pluscuamperfecto": "I had chosen"
+    },
+    "afirmativo": "Choose!",
+    "negativo": "Don't choose!"
+  },
+  "attribution": "Fred Jehle"
+}

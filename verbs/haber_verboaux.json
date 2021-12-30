@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "haber",
+  "gerundio": "habiendo",
+  "participioPasado": "habido",
+  "indicativo": {
+    "presente": {
+      "yo": "he",
+      "tu": "has",
+      "ud": "ha",
+      "nosotros": "hemos",
+      "vosotros": "habéis",
+      "uds": "han"
+    },
+    "futuro": {
+      "yo": "habré",
+      "tu": "habrás",
+      "ud": "habrá",
+      "nosotros": "habremos",
+      "vosotros": "habréis",
+      "uds": "habrán"
+    },
+    "imperfecto": {
+      "yo": "había",
+      "tu": "habías",
+      "ud": "había",
+      "nosotros": "habíamos",
+      "vosotros": "habíais",
+      "uds": "habían"
+    },
+    "preterito": {
+      "yo": "hube",
+      "tu": "hubiste",
+      "ud": "hubo",
+      "nosotros": "hubimos",
+      "vosotros": "hubisteis",
+      "uds": "hubieron"
+    },
+    "condicional": {
+      "yo": "habría",
+      "tu": "habrías",
+      "ud": "habría",
+      "nosotros": "habríamos",
+      "vosotros": "habríais",
+      "uds": "habrían"
+    },
+    "presentePerfecto": {
+      "yo": "he",
+      "tu": "has",
+      "ud": "ha",
+      "nosotros": "hemos",
+      "vosotros": "habéis",
+      "uds": "han"
+    },
+    "futuroPerfecto": {
+      "yo": "habré",
+      "tu": "habrás",
+      "ud": "habrá",
+      "nosotros": "habremos",
+      "vosotros": "habréis",
+      "uds": "habrán"
+    },
+    "pluscuamperfecto": {
+      "yo": "había",
+      "tu": "habías",
+      "ud": "había",
+      "nosotros": "habíamos",
+      "vosotros": "habíais",
+      "uds": "habían"
+    },
+    "preteritoAnterior": {
+      "yo": "hube",
+      "tu": "hubiste",
+      "ud": "hubo",
+      "nosotros": "hubimos",
+      "vosotros": "hubisteis",
+      "uds": "hubieron"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría",
+      "tu": "habrías",
+      "ud": "habría",
+      "nosotros": "habríamos",
+      "vosotros": "habríais",
+      "uds": "habrían"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "haya",
+      "tu": "hayas",
+      "ud": "haya",
+      "nosotros": "hayamos",
+      "vosotros": "hayáis",
+      "uds": "hayan"
+    },
+    "imperfecto": {
+      "yo": "hubiera",
+      "tu": "hubieras",
+      "ud": "hubiera",
+      "nosotros": "hubiéramos",
+      "vosotros": "hubierais",
+      "uds": "hubieran"
+    },
+    "futuro": {
+      "yo": "hubiere",
+      "tu": "hubieres",
+      "ud": "hubiere",
+      "nosotros": "hubiéremos",
+      "vosotros": "hubiereis",
+      "uds": "hubieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya",
+      "tu": "hayas",
+      "ud": "haya",
+      "nosotros": "hayamos",
+      "vosotros": "hayáis",
+      "uds": "hayan"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere",
+      "tu": "hubieres",
+      "ud": "hubiere",
+      "nosotros": "hubiéremos",
+      "vosotros": "hubiereis",
+      "uds": "hubieren"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera",
+      "tu": "hubieras",
+      "ud": "hubiera",
+      "nosotros": "hubiéramos",
+      "vosotros": "hubierais",
+      "uds": "hubieran"
+    },
+    "imperfectoAlt": {
+      "yo": "hubiese (de hablar)",
+      "tu": "hubieses (de hablar)",
+      "ud": "hubiese (de hablar)",
+      "nosotros": "hubiésemos (de hablar)",
+      "vosotros": "hubieseis (de hablar)",
+      "uds": "hubiesen (de hablar)"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese (hablado)",
+      "tu": "hubieses (hablado)",
+      "ud": "hubiese (hablado)",
+      "nosotros": "hubiésemos (hablado)",
+      "vosotros": "hubieseis (hablado)",
+      "uds": "hubiesen (hablado)"
+    }
+  },
+  "afirmativo": {
+    "tu": "",
+    "vosotros": "",
+    "ud": "",
+    "uds": ""
+  },
+  "negativo": {
+    "tu": "",
+    "vosotros": "",
+    "ud": "",
+    "uds": ""
+  },
+  "english": {
+    "note": "Irregular en casi todas las formas menos el imperfecto de indicativo.",
+    "infinitivo": "to have",
+    "gerundio": "",
+    "participioPasado": "",
+    "indicativo": {
+      "presente": "I have",
+      "futuro": "I will have",
+      "imperfecto": "I had",
+      "preterito": "I had",
+      "condicional": "I would have",
+      "presentePerfecto": "I have",
+      "futuroPerfecto": "I will have",
+      "pluscuamperfecto": "I had",
+      "preteritoAnterior": "I had",
+      "condicionalPerfecto": "I would have"
+    },
+    "subjuntivo": {
+      "presente": "I have",
+      "imperfecto": "I had",
+      "futuro": "I will have",
+      "presentePerfecto": "I have",
+      "futuroPerfecto": "I will have",
+      "pluscuamperfecto": "I had"
+    },
+    "afirmativo": "",
+    "negativo": ""
+  },
+  "attribution": "Fred Jehle"
+}

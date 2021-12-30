@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cuidar",
+  "gerundio": "cuidando",
+  "participioPasado": "cuidado",
+  "indicativo": {
+    "presente": {
+      "yo": "cuido",
+      "tu": "cuidas",
+      "ud": "cuida",
+      "nosotros": "cuidamos",
+      "vosotros": "cuidáis",
+      "uds": "cuidan"
+    },
+    "futuro": {
+      "yo": "cuidaré",
+      "tu": "cuidarás",
+      "ud": "cuidará",
+      "nosotros": "cuidaremos",
+      "vosotros": "cuidaréis",
+      "uds": "cuidarán"
+    },
+    "imperfecto": {
+      "yo": "cuidaba",
+      "tu": "cuidabas",
+      "ud": "cuidaba",
+      "nosotros": "cuidábamos",
+      "vosotros": "cuidabais",
+      "uds": "cuidaban"
+    },
+    "preterito": {
+      "yo": "cuidé",
+      "tu": "cuidaste",
+      "ud": "cuidó",
+      "nosotros": "cuidamos",
+      "vosotros": "cuidasteis",
+      "uds": "cuidaron"
+    },
+    "condicional": {
+      "yo": "cuidaría",
+      "tu": "cuidarías",
+      "ud": "cuidaría",
+      "nosotros": "cuidaríamos",
+      "vosotros": "cuidaríais",
+      "uds": "cuidarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cuidado",
+      "tu": "has cuidado",
+      "ud": "ha cuidado",
+      "nosotros": "hemos cuidado",
+      "vosotros": "habéis cuidado",
+      "uds": "han cuidado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cuidado",
+      "tu": "habrás cuidado",
+      "ud": "habrá cuidado",
+      "nosotros": "habremos cuidado",
+      "vosotros": "habréis cuidado",
+      "uds": "habrán cuidado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cuidado",
+      "tu": "habías cuidado",
+      "ud": "había cuidado",
+      "nosotros": "habíamos cuidado",
+      "vosotros": "habíais cuidado",
+      "uds": "habían cuidado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cuidado",
+      "tu": "hubiste cuidado",
+      "ud": "hubo cuidado",
+      "nosotros": "hubimos cuidado",
+      "vosotros": "hubisteis cuidado",
+      "uds": "hubieron cuidado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cuidado",
+      "tu": "habrías cuidado",
+      "ud": "habría cuidado",
+      "nosotros": "habríamos cuidado",
+      "vosotros": "habríais cuidado",
+      "uds": "habrían cuidado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cuide",
+      "tu": "cuides",
+      "ud": "cuide",
+      "nosotros": "cuidemos",
+      "vosotros": "cuidéis",
+      "uds": "cuiden"
+    },
+    "imperfecto": {
+      "yo": "cuidara",
+      "tu": "cuidaras",
+      "ud": "cuidara",
+      "nosotros": "cuidáramos",
+      "vosotros": "cuidarais",
+      "uds": "cuidaran"
+    },
+    "futuro": {
+      "yo": "cuidare",
+      "tu": "cuidares",
+      "ud": "cuidare",
+      "nosotros": "cuidáremos",
+      "vosotros": "cuidareis",
+      "uds": "cuidaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cuidado",
+      "tu": "hayas cuidado",
+      "ud": "haya cuidado",
+      "nosotros": "hayamos cuidado",
+      "vosotros": "hayáis cuidado",
+      "uds": "hayan cuidado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cuidado",
+      "tu": "hubieres cuidado",
+      "ud": "hubiere cuidado",
+      "nosotros": "hubiéremos cuidado",
+      "vosotros": "hubiereis cuidado",
+      "uds": "hubieren cuidado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cuidado",
+      "tu": "hubieras cuidado",
+      "ud": "hubiera cuidado",
+      "nosotros": "hubiéramos cuidado",
+      "vosotros": "hubierais cuidado",
+      "uds": "hubieran cuidado"
+    },
+    "imperfectoAlt": {
+      "yo": "cuidase",
+      "tu": "cuidases",
+      "ud": "cuidase",
+      "nosotros": "cuidásemos",
+      "vosotros": "cuidaseis",
+      "uds": "cuidasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cuidado",
+      "tu": "hubieses cuidado",
+      "ud": "hubiese cuidado",
+      "nosotros": "hubiésemos cuidado",
+      "vosotros": "hubieseis cuidado",
+      "uds": "hubiesen cuidado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cuida",
+    "vosotros": "cuidad",
+    "ud": "cuide",
+    "uds": "cuiden"
+  },
+  "negativo": {
+    "tu": "no cuides",
+    "vosotros": "no cuidéis",
+    "ud": "no cuide",
+    "uds": "no cuiden"
+  },
+  "english": {
+    "note": "Note: Cuidar can be used: 1) as a transitive verb without de, for example Yo cuidé a los niños, I took care of the children; 2) as an intransitive verb with de, for example Cuido de no hacer ese error, I take care not to make that mistake.",
+    "infinitivo": "to take care of, look after",
+    "gerundio": "taking care of",
+    "participioPasado": "taken care of",
+    "indicativo": {
+      "presente": "I take care of, am taking care of",
+      "futuro": "I will take care of",
+      "imperfecto": "I was taking care of, used to take care of, took care of",
+      "preterito": "I took care of",
+      "condicional": "I would take care of",
+      "presentePerfecto": "I have taken care of",
+      "futuroPerfecto": "I will have taken care of",
+      "pluscuamperfecto": "I had taken care of",
+      "preteritoAnterior": "I had taken care of",
+      "condicionalPerfecto": "I would have taken care of"
+    },
+    "subjuntivo": {
+      "presente": "I take care of, am taking care of",
+      "imperfecto": "I took care of, was taking care of",
+      "futuro": "I will take care of",
+      "presentePerfecto": "I have taken care of, took care of",
+      "futuroPerfecto": "I will have taken care of",
+      "pluscuamperfecto": "I had taken care of"
+    },
+    "afirmativo": "Take care of!",
+    "negativo": "Don't take care of!"
+  },
+  "attribution": "Fred Jehle"
+}

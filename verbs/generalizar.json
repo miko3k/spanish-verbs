@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "generalizar",
+  "gerundio": "generalizando",
+  "participioPasado": "generalizado",
+  "indicativo": {
+    "presente": {
+      "yo": "generalizo",
+      "tu": "generalizas",
+      "ud": "generaliza",
+      "nosotros": "generalizamos",
+      "vosotros": "generalizáis",
+      "uds": "generalizan"
+    },
+    "futuro": {
+      "yo": "generalizaré",
+      "tu": "generalizarás",
+      "ud": "generalizará",
+      "nosotros": "generalizaremos",
+      "vosotros": "generalizaréis",
+      "uds": "generalizarán"
+    },
+    "imperfecto": {
+      "yo": "generalizaba",
+      "tu": "generalizabas",
+      "ud": "generalizaba",
+      "nosotros": "generalizábamos",
+      "vosotros": "generalizabais",
+      "uds": "generalizaban"
+    },
+    "preterito": {
+      "yo": "generalicé",
+      "tu": "generalizaste",
+      "ud": "generalizó",
+      "nosotros": "generalizamos",
+      "vosotros": "generalizasteis",
+      "uds": "generalizaron"
+    },
+    "condicional": {
+      "yo": "generalizaría",
+      "tu": "generalizarías",
+      "ud": "generalizaría",
+      "nosotros": "generalizaríamos",
+      "vosotros": "generalizaríais",
+      "uds": "generalizarían"
+    },
+    "presentePerfecto": {
+      "yo": "he generalizado",
+      "tu": "has generalizado",
+      "ud": "ha generalizado",
+      "nosotros": "hemos generalizado",
+      "vosotros": "habéis generalizado",
+      "uds": "han generalizado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré generalizado",
+      "tu": "habrás generalizado",
+      "ud": "habrá generalizado",
+      "nosotros": "habremos generalizado",
+      "vosotros": "habréis generalizado",
+      "uds": "habrán generalizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había generalizado",
+      "tu": "habías generalizado",
+      "ud": "había generalizado",
+      "nosotros": "habíamos generalizado",
+      "vosotros": "habíais generalizado",
+      "uds": "habían generalizado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube generalizado",
+      "tu": "hubiste generalizado",
+      "ud": "hubo generalizado",
+      "nosotros": "hubimos generalizado",
+      "vosotros": "hubisteis generalizado",
+      "uds": "hubieron generalizado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría generalizado",
+      "tu": "habrías generalizado",
+      "ud": "habría generalizado",
+      "nosotros": "habríamos generalizado",
+      "vosotros": "habríais generalizado",
+      "uds": "habrían generalizado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "generalice",
+      "tu": "generalices",
+      "ud": "generalice",
+      "nosotros": "generalicemos",
+      "vosotros": "generalicéis",
+      "uds": "generalicen"
+    },
+    "imperfecto": {
+      "yo": "generalizara",
+      "tu": "generalizaras",
+      "ud": "generalizara",
+      "nosotros": "generalizáramos",
+      "vosotros": "generalizarais",
+      "uds": "generalizaran"
+    },
+    "futuro": {
+      "yo": "generalizare",
+      "tu": "generalizares",
+      "ud": "generalizare",
+      "nosotros": "generalizáremos",
+      "vosotros": "generalizareis",
+      "uds": "generalizaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya generalizado",
+      "tu": "hayas generalizado",
+      "ud": "haya generalizado",
+      "nosotros": "hayamos generalizado",
+      "vosotros": "hayáis generalizado",
+      "uds": "hayan generalizado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere generalizado",
+      "tu": "hubieres generalizado",
+      "ud": "hubiere generalizado",
+      "nosotros": "hubiéremos generalizado",
+      "vosotros": "hubiereis generalizado",
+      "uds": "hubieren generalizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera generalizado",
+      "tu": "hubieras generalizado",
+      "ud": "hubiera generalizado",
+      "nosotros": "hubiéramos generalizado",
+      "vosotros": "hubierais generalizado",
+      "uds": "hubieran generalizado"
+    },
+    "imperfectoAlt": {
+      "yo": "generalizase",
+      "tu": "generalizases",
+      "ud": "generalizase",
+      "nosotros": "generalizásemos",
+      "vosotros": "generalizaseis",
+      "uds": "generalizasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese generalizado",
+      "tu": "hubieses generalizado",
+      "ud": "hubiese generalizado",
+      "nosotros": "hubiésemos generalizado",
+      "vosotros": "hubieseis generalizado",
+      "uds": "hubiesen generalizado"
+    }
+  },
+  "afirmativo": {
+    "tu": "generaliza",
+    "vosotros": "generalizad",
+    "ud": "generalice",
+    "uds": "generalicen"
+  },
+  "negativo": {
+    "tu": "no generalices",
+    "vosotros": "no generalicéis",
+    "ud": "no generalice",
+    "uds": "no generalicen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to generalize",
+    "gerundio": "generalizing",
+    "participioPasado": "generalized",
+    "indicativo": {
+      "presente": "I generalize, am generalizing",
+      "futuro": "I will generalize",
+      "imperfecto": "I was generalizing, used to generalize, generalized",
+      "preterito": "I generalized",
+      "condicional": "I would generalize",
+      "presentePerfecto": "I have generalized",
+      "futuroPerfecto": "I will have generalized",
+      "pluscuamperfecto": "I had generalized",
+      "preteritoAnterior": "I had generalized",
+      "condicionalPerfecto": "I would have generalized"
+    },
+    "subjuntivo": {
+      "presente": "I generalize, am generalizing",
+      "imperfecto": "I generalized, was generalizing",
+      "futuro": "I will generalize",
+      "presentePerfecto": "I have generalized, generalized",
+      "futuroPerfecto": "I will have generalized",
+      "pluscuamperfecto": "I had generalized"
+    },
+    "afirmativo": "Generalize!",
+    "negativo": "Don't generalize!"
+  },
+  "attribution": "Fred Jehle"
+}

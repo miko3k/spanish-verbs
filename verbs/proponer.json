@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "proponer",
+  "gerundio": "proponiendo",
+  "participioPasado": "propuesto",
+  "indicativo": {
+    "presente": {
+      "yo": "propongo",
+      "tu": "propones",
+      "ud": "propone",
+      "nosotros": "proponemos",
+      "vosotros": "proponéis",
+      "uds": "proponen"
+    },
+    "futuro": {
+      "yo": "propondré",
+      "tu": "propondrás",
+      "ud": "propondrá",
+      "nosotros": "propondremos",
+      "vosotros": "propondréis",
+      "uds": "propondrán"
+    },
+    "imperfecto": {
+      "yo": "proponía",
+      "tu": "proponías",
+      "ud": "proponía",
+      "nosotros": "proponíamos",
+      "vosotros": "proponíais",
+      "uds": "proponían"
+    },
+    "preterito": {
+      "yo": "propuse",
+      "tu": "propusiste",
+      "ud": "propuso",
+      "nosotros": "propusimos",
+      "vosotros": "propusisteis",
+      "uds": "propusieron"
+    },
+    "condicional": {
+      "yo": "propondría",
+      "tu": "propondrías",
+      "ud": "propondría",
+      "nosotros": "propondríamos",
+      "vosotros": "propondríais",
+      "uds": "propondrían"
+    },
+    "presentePerfecto": {
+      "yo": "he propuesto",
+      "tu": "has propuesto",
+      "ud": "ha propuesto",
+      "nosotros": "hemos propuesto",
+      "vosotros": "habéis propuesto",
+      "uds": "han propuesto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré propuesto",
+      "tu": "habrás propuesto",
+      "ud": "habrá propuesto",
+      "nosotros": "habremos propuesto",
+      "vosotros": "habréis propuesto",
+      "uds": "habrán propuesto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había propuesto",
+      "tu": "habías propuesto",
+      "ud": "había propuesto",
+      "nosotros": "habíamos propuesto",
+      "vosotros": "habíais propuesto",
+      "uds": "habían propuesto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube propuesto",
+      "tu": "hubiste propuesto",
+      "ud": "hubo propuesto",
+      "nosotros": "hubimos propuesto",
+      "vosotros": "hubisteis propuesto",
+      "uds": "hubieron propuesto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría propuesto",
+      "tu": "habrías propuesto",
+      "ud": "habría propuesto",
+      "nosotros": "habríamos propuesto",
+      "vosotros": "habríais propuesto",
+      "uds": "habrían propuesto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "proponga",
+      "tu": "propongas",
+      "ud": "proponga",
+      "nosotros": "propongamos",
+      "vosotros": "propongáis",
+      "uds": "propongan"
+    },
+    "imperfecto": {
+      "yo": "propusiera",
+      "tu": "propusieras",
+      "ud": "propusiera",
+      "nosotros": "propusiéramos",
+      "vosotros": "propusierais",
+      "uds": "propusieran"
+    },
+    "futuro": {
+      "yo": "propusiere",
+      "tu": "propusieres",
+      "ud": "propusiere",
+      "nosotros": "propusiéremos",
+      "vosotros": "propusiereis",
+      "uds": "propusieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya propuesto",
+      "tu": "hayas propuesto",
+      "ud": "haya propuesto",
+      "nosotros": "hayamos propuesto",
+      "vosotros": "hayáis propuesto",
+      "uds": "hayan propuesto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere propuesto",
+      "tu": "hubieres propuesto",
+      "ud": "hubiere propuesto",
+      "nosotros": "hubiéremos propuesto",
+      "vosotros": "hubiereis propuesto",
+      "uds": "hubieren propuesto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera propuesto",
+      "tu": "hubieras propuesto",
+      "ud": "hubiera propuesto",
+      "nosotros": "hubiéramos propuesto",
+      "vosotros": "hubierais propuesto",
+      "uds": "hubieran propuesto"
+    },
+    "imperfectoAlt": {
+      "yo": "propusiese",
+      "tu": "propusieses",
+      "ud": "propusiese",
+      "nosotros": "propusiésemos",
+      "vosotros": "propusieseis",
+      "uds": "propusiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese propuesto",
+      "tu": "hubieses propuesto",
+      "ud": "hubiese propuesto",
+      "nosotros": "hubiésemos propuesto",
+      "vosotros": "hubieseis propuesto",
+      "uds": "hubiesen propuesto"
+    }
+  },
+  "afirmativo": {
+    "tu": "propón",
+    "vosotros": "proponed",
+    "ud": "proponga",
+    "uds": "propongan"
+  },
+  "negativo": {
+    "tu": "no propongas",
+    "vosotros": "no propongáis",
+    "ud": "no proponga",
+    "uds": "no propongan"
+  },
+  "english": {
+    "note": "Formas irregulares: propongo, propongas, proponga, etc. Radical irregular en el futuro y condicional: propondr-. Radical fuerte en el pretérito: propus-. Participio pasado irregular: propuesto. Mandato familiar singular irregular: propón.",
+    "infinitivo": "to propose",
+    "gerundio": "proposing",
+    "participioPasado": "proposed",
+    "indicativo": {
+      "presente": "I propose, am proposing",
+      "futuro": "I will propose",
+      "imperfecto": "I was proposing, used to propose, proposed",
+      "preterito": "I proposed",
+      "condicional": "I would propose",
+      "presentePerfecto": "I have proposed",
+      "futuroPerfecto": "I will have proposed",
+      "pluscuamperfecto": "I had proposed",
+      "preteritoAnterior": "I had proposed",
+      "condicionalPerfecto": "I would have proposed"
+    },
+    "subjuntivo": {
+      "presente": "I propose, am proposing",
+      "imperfecto": "I proposed, was proposing",
+      "futuro": "I will propose",
+      "presentePerfecto": "I have proposed, proposed",
+      "futuroPerfecto": "I will have proposed",
+      "pluscuamperfecto": "I had proposed"
+    },
+    "afirmativo": "Propose!",
+    "negativo": "Don't propose!"
+  },
+  "attribution": "Fred Jehle"
+}

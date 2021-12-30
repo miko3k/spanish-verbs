@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "afeitar",
+  "gerundio": "afeitando",
+  "participioPasado": "afeitado",
+  "indicativo": {
+    "presente": {
+      "yo": "afeito",
+      "tu": "afeitas",
+      "ud": "afeita",
+      "nosotros": "afeitamos",
+      "vosotros": "afeitáis",
+      "uds": "afeitan"
+    },
+    "futuro": {
+      "yo": "afeitaré",
+      "tu": "afeitarás",
+      "ud": "afeitará",
+      "nosotros": "afeitaremos",
+      "vosotros": "afeitaréis",
+      "uds": "afeitarán"
+    },
+    "imperfecto": {
+      "yo": "afeitaba",
+      "tu": "afeitabas",
+      "ud": "afeitaba",
+      "nosotros": "afeitábamos",
+      "vosotros": "afeitabais",
+      "uds": "afeitaban"
+    },
+    "preterito": {
+      "yo": "afeité",
+      "tu": "afeitaste",
+      "ud": "afeitó",
+      "nosotros": "afeitamos",
+      "vosotros": "afeitasteis",
+      "uds": "afeitaron"
+    },
+    "condicional": {
+      "yo": "afeitaría",
+      "tu": "afeitarías",
+      "ud": "afeitaría",
+      "nosotros": "afeitaríamos",
+      "vosotros": "afeitaríais",
+      "uds": "afeitarían"
+    },
+    "presentePerfecto": {
+      "yo": "he afeitado",
+      "tu": "has afeitado",
+      "ud": "ha afeitado",
+      "nosotros": "hemos afeitado",
+      "vosotros": "habéis afeitado",
+      "uds": "han afeitado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré afeitado",
+      "tu": "habrás afeitado",
+      "ud": "habrá afeitado",
+      "nosotros": "habremos afeitado",
+      "vosotros": "habréis afeitado",
+      "uds": "habrán afeitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había afeitado",
+      "tu": "habías afeitado",
+      "ud": "había afeitado",
+      "nosotros": "habíamos afeitado",
+      "vosotros": "habíais afeitado",
+      "uds": "habían afeitado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube afeitado",
+      "tu": "hubiste afeitado",
+      "ud": "hubo afeitado",
+      "nosotros": "hubimos afeitado",
+      "vosotros": "hubisteis afeitado",
+      "uds": "hubieron afeitado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría afeitado",
+      "tu": "habrías afeitado",
+      "ud": "habría afeitado",
+      "nosotros": "habríamos afeitado",
+      "vosotros": "habríais afeitado",
+      "uds": "habrían afeitado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "afeite",
+      "tu": "afeites",
+      "ud": "afeite",
+      "nosotros": "afeitemos",
+      "vosotros": "afeitéis",
+      "uds": "afeiten"
+    },
+    "imperfecto": {
+      "yo": "afeitara",
+      "tu": "afeitaras",
+      "ud": "afeitara",
+      "nosotros": "afeitáramos",
+      "vosotros": "afeitarais",
+      "uds": "afeitaran"
+    },
+    "futuro": {
+      "yo": "afeitare",
+      "tu": "afeitares",
+      "ud": "afeitare",
+      "nosotros": "afeitáremos",
+      "vosotros": "afeitareis",
+      "uds": "afeitaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya afeitado",
+      "tu": "hayas afeitado",
+      "ud": "haya afeitado",
+      "nosotros": "hayamos afeitado",
+      "vosotros": "hayáis afeitado",
+      "uds": "hayan afeitado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere afeitado",
+      "tu": "hubieres afeitado",
+      "ud": "hubiere afeitado",
+      "nosotros": "hubiéremos afeitado",
+      "vosotros": "hubiereis afeitado",
+      "uds": "hubieren afeitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera afeitado",
+      "tu": "hubieras afeitado",
+      "ud": "hubiera afeitado",
+      "nosotros": "hubiéramos afeitado",
+      "vosotros": "hubierais afeitado",
+      "uds": "hubieran afeitado"
+    },
+    "imperfectoAlt": {
+      "yo": "afeitase",
+      "tu": "afeitases",
+      "ud": "afeitase",
+      "nosotros": "afeitásemos",
+      "vosotros": "afeitaseis",
+      "uds": "afeitasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese afeitado",
+      "tu": "hubieses afeitado",
+      "ud": "hubiese afeitado",
+      "nosotros": "hubiésemos afeitado",
+      "vosotros": "hubieseis afeitado",
+      "uds": "hubiesen afeitado"
+    }
+  },
+  "afirmativo": {
+    "tu": "afeita",
+    "vosotros": "afeitad",
+    "ud": "afeite",
+    "uds": "afeiten"
+  },
+  "negativo": {
+    "tu": "no afeites",
+    "vosotros": "no afeitéis",
+    "ud": "no afeite",
+    "uds": "no afeiten"
+  },
+  "english": {
+    "note": "Note: Afeitar is a transitive verb and needs a direct object; that is, it means to shave (someone); use the reflexive form afeitarse to mean to shave (intransitively) or to shave oneself.",
+    "infinitivo": "to shave",
+    "gerundio": "shaving",
+    "participioPasado": "shaved",
+    "indicativo": {
+      "presente": "I shave, am shaving",
+      "futuro": "I will shave",
+      "imperfecto": "I was shaving, used to shave, shaved",
+      "preterito": "I shaved",
+      "condicional": "I would shave",
+      "presentePerfecto": "I have shaved",
+      "futuroPerfecto": "I will have shaved",
+      "pluscuamperfecto": "I had shaved",
+      "preteritoAnterior": "I had shaved",
+      "condicionalPerfecto": "I would have shaved"
+    },
+    "subjuntivo": {
+      "presente": "I shave, am shaving",
+      "imperfecto": "I shaved, was shaving",
+      "futuro": "I will shave",
+      "presentePerfecto": "I have shaved, shaved",
+      "futuroPerfecto": "I will have shaved",
+      "pluscuamperfecto": "I had shaved"
+    },
+    "afirmativo": "Shave!",
+    "negativo": "Don't shave!"
+  },
+  "attribution": "Fred Jehle"
+}

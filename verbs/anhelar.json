@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "anhelar",
+  "gerundio": "anhelando",
+  "participioPasado": "anhelado",
+  "indicativo": {
+    "presente": {
+      "yo": "anhelo",
+      "tu": "anhelas",
+      "ud": "anhela",
+      "nosotros": "anhelamos",
+      "vosotros": "anheláis",
+      "uds": "anhelan"
+    },
+    "futuro": {
+      "yo": "anhelaré",
+      "tu": "anhelarás",
+      "ud": "anhelará",
+      "nosotros": "anhelaremos",
+      "vosotros": "anhelaréis",
+      "uds": "anhelarán"
+    },
+    "imperfecto": {
+      "yo": "anhelaba",
+      "tu": "anhelabas",
+      "ud": "anhelaba",
+      "nosotros": "anhelábamos",
+      "vosotros": "anhelabais",
+      "uds": "anhelaban"
+    },
+    "preterito": {
+      "yo": "anhelé",
+      "tu": "anhelaste",
+      "ud": "anheló",
+      "nosotros": "anhelamos",
+      "vosotros": "anhelasteis",
+      "uds": "anhelaron"
+    },
+    "condicional": {
+      "yo": "anhelaría",
+      "tu": "anhelarías",
+      "ud": "anhelaría",
+      "nosotros": "anhelaríamos",
+      "vosotros": "anhelaríais",
+      "uds": "anhelarían"
+    },
+    "presentePerfecto": {
+      "yo": "he anhelado",
+      "tu": "has anhelado",
+      "ud": "ha anhelado",
+      "nosotros": "hemos anhelado",
+      "vosotros": "habéis anhelado",
+      "uds": "han anhelado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré anhelado",
+      "tu": "habrás anhelado",
+      "ud": "habrá anhelado",
+      "nosotros": "habremos anhelado",
+      "vosotros": "habréis anhelado",
+      "uds": "habrán anhelado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había anhelado",
+      "tu": "habías anhelado",
+      "ud": "había anhelado",
+      "nosotros": "habíamos anhelado",
+      "vosotros": "habíais anhelado",
+      "uds": "habían anhelado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube anhelado",
+      "tu": "hubiste anhelado",
+      "ud": "hubo anhelado",
+      "nosotros": "hubimos anhelado",
+      "vosotros": "hubisteis anhelado",
+      "uds": "hubieron anhelado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría anhelado",
+      "tu": "habrías anhelado",
+      "ud": "habría anhelado",
+      "nosotros": "habríamos anhelado",
+      "vosotros": "habríais anhelado",
+      "uds": "habrían anhelado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "anhele",
+      "tu": "anheles",
+      "ud": "anhele",
+      "nosotros": "anhelemos",
+      "vosotros": "anheléis",
+      "uds": "anhelen"
+    },
+    "imperfecto": {
+      "yo": "anhelara",
+      "tu": "anhelaras",
+      "ud": "anhelara",
+      "nosotros": "anheláramos",
+      "vosotros": "anhelarais",
+      "uds": "anhelaran"
+    },
+    "futuro": {
+      "yo": "anhelare",
+      "tu": "anhelares",
+      "ud": "anhelare",
+      "nosotros": "anheláremos",
+      "vosotros": "anhelareis",
+      "uds": "anhelaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya anhelado",
+      "tu": "hayas anhelado",
+      "ud": "haya anhelado",
+      "nosotros": "hayamos anhelado",
+      "vosotros": "hayáis anhelado",
+      "uds": "hayan anhelado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere anhelado",
+      "tu": "hubieres anhelado",
+      "ud": "hubiere anhelado",
+      "nosotros": "hubiéremos anhelado",
+      "vosotros": "hubiereis anhelado",
+      "uds": "hubieren anhelado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera anhelado",
+      "tu": "hubieras anhelado",
+      "ud": "hubiera anhelado",
+      "nosotros": "hubiéramos anhelado",
+      "vosotros": "hubierais anhelado",
+      "uds": "hubieran anhelado"
+    },
+    "imperfectoAlt": {
+      "yo": "anhelase",
+      "tu": "anhelases",
+      "ud": "anhelase",
+      "nosotros": "anhelásemos",
+      "vosotros": "anhelaseis",
+      "uds": "anhelasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese anhelado",
+      "tu": "hubieses anhelado",
+      "ud": "hubiese anhelado",
+      "nosotros": "hubiésemos anhelado",
+      "vosotros": "hubieseis anhelado",
+      "uds": "hubiesen anhelado"
+    }
+  },
+  "afirmativo": {
+    "tu": "anhela",
+    "vosotros": "anhelad",
+    "ud": "anhele",
+    "uds": "anhelen"
+  },
+  "negativo": {
+    "tu": "no anheles",
+    "vosotros": "no anheléis",
+    "ud": "no anhele",
+    "uds": "no anhelen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to be eager for/to, long for/to, yearn for/to",
+    "gerundio": "be eager foring",
+    "participioPasado": "eager for",
+    "indicativo": {
+      "presente": "I am eager for",
+      "futuro": "I will be eager for",
+      "imperfecto": "I was eager for, used to be eager for",
+      "preterito": "I was eager for",
+      "condicional": "I would be eager for",
+      "presentePerfecto": "I have been eager for",
+      "futuroPerfecto": "I will have been eager for",
+      "pluscuamperfecto": "I had been eager for",
+      "preteritoAnterior": "I had been eager for",
+      "condicionalPerfecto": "I would have been eager for"
+    },
+    "subjuntivo": {
+      "presente": "I am eager for",
+      "imperfecto": "I was eager for",
+      "futuro": "I will be eager for",
+      "presentePerfecto": "I have been eager for",
+      "futuroPerfecto": "I will have been eager for",
+      "pluscuamperfecto": "I had been eager for"
+    },
+    "afirmativo": "Be eager for!",
+    "negativo": "Don't be eager for!"
+  },
+  "attribution": "Fred Jehle"
+}

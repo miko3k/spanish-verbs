@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "vender",
+  "gerundio": "vendiendo",
+  "participioPasado": "vendido",
+  "indicativo": {
+    "presente": {
+      "yo": "vendo",
+      "tu": "vendes",
+      "ud": "vende",
+      "nosotros": "vendemos",
+      "vosotros": "vendéis",
+      "uds": "venden"
+    },
+    "futuro": {
+      "yo": "venderé",
+      "tu": "venderás",
+      "ud": "venderá",
+      "nosotros": "venderemos",
+      "vosotros": "venderéis",
+      "uds": "venderán"
+    },
+    "imperfecto": {
+      "yo": "vendía",
+      "tu": "vendías",
+      "ud": "vendía",
+      "nosotros": "vendíamos",
+      "vosotros": "vendíais",
+      "uds": "vendían"
+    },
+    "preterito": {
+      "yo": "vendí",
+      "tu": "vendiste",
+      "ud": "vendió",
+      "nosotros": "vendimos",
+      "vosotros": "vendisteis",
+      "uds": "vendieron"
+    },
+    "condicional": {
+      "yo": "vendería",
+      "tu": "venderías",
+      "ud": "vendería",
+      "nosotros": "venderíamos",
+      "vosotros": "venderíais",
+      "uds": "venderían"
+    },
+    "presentePerfecto": {
+      "yo": "he vendido",
+      "tu": "has vendido",
+      "ud": "ha vendido",
+      "nosotros": "hemos vendido",
+      "vosotros": "habéis vendido",
+      "uds": "han vendido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré vendido",
+      "tu": "habrás vendido",
+      "ud": "habrá vendido",
+      "nosotros": "habremos vendido",
+      "vosotros": "habréis vendido",
+      "uds": "habrán vendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había vendido",
+      "tu": "habías vendido",
+      "ud": "había vendido",
+      "nosotros": "habíamos vendido",
+      "vosotros": "habíais vendido",
+      "uds": "habían vendido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube vendido",
+      "tu": "hubiste vendido",
+      "ud": "hubo vendido",
+      "nosotros": "hubimos vendido",
+      "vosotros": "hubisteis vendido",
+      "uds": "hubieron vendido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría vendido",
+      "tu": "habrías vendido",
+      "ud": "habría vendido",
+      "nosotros": "habríamos vendido",
+      "vosotros": "habríais vendido",
+      "uds": "habrían vendido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "venda",
+      "tu": "vendas",
+      "ud": "venda",
+      "nosotros": "vendamos",
+      "vosotros": "vendáis",
+      "uds": "vendan"
+    },
+    "imperfecto": {
+      "yo": "vendiera",
+      "tu": "vendieras",
+      "ud": "vendiera",
+      "nosotros": "vendiéramos",
+      "vosotros": "vendierais",
+      "uds": "vendieran"
+    },
+    "futuro": {
+      "yo": "vendiere",
+      "tu": "vendieres",
+      "ud": "vendiere",
+      "nosotros": "vendiéremos",
+      "vosotros": "vendiereis",
+      "uds": "vendieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya vendido",
+      "tu": "hayas vendido",
+      "ud": "haya vendido",
+      "nosotros": "hayamos vendido",
+      "vosotros": "hayáis vendido",
+      "uds": "hayan vendido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere vendido",
+      "tu": "hubieres vendido",
+      "ud": "hubiere vendido",
+      "nosotros": "hubiéremos vendido",
+      "vosotros": "hubiereis vendido",
+      "uds": "hubieren vendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera vendido",
+      "tu": "hubieras vendido",
+      "ud": "hubiera vendido",
+      "nosotros": "hubiéramos vendido",
+      "vosotros": "hubierais vendido",
+      "uds": "hubieran vendido"
+    },
+    "imperfectoAlt": {
+      "yo": "vendiese",
+      "tu": "vendieses",
+      "ud": "vendiese",
+      "nosotros": "vendiésemos",
+      "vosotros": "vendieseis",
+      "uds": "vendiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese vendido",
+      "tu": "hubieses vendido",
+      "ud": "hubiese vendido",
+      "nosotros": "hubiésemos vendido",
+      "vosotros": "hubieseis vendido",
+      "uds": "hubiesen vendido"
+    }
+  },
+  "afirmativo": {
+    "tu": "vende",
+    "vosotros": "vended",
+    "ud": "venda",
+    "uds": "vendan"
+  },
+  "negativo": {
+    "tu": "no vendas",
+    "vosotros": "no vendáis",
+    "ud": "no venda",
+    "uds": "no vendan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to sell",
+    "gerundio": "selling",
+    "participioPasado": "sold",
+    "indicativo": {
+      "presente": "I sell, am selling",
+      "futuro": "I will sell",
+      "imperfecto": "I was selling, used to sell, sold",
+      "preterito": "I sold",
+      "condicional": "I would sell",
+      "presentePerfecto": "I have sold",
+      "futuroPerfecto": "I will have sold",
+      "pluscuamperfecto": "I had sold",
+      "preteritoAnterior": "I had sold",
+      "condicionalPerfecto": "I would have sold"
+    },
+    "subjuntivo": {
+      "presente": "I sell, am selling",
+      "imperfecto": "I sold, was selling",
+      "futuro": "I will sell",
+      "presentePerfecto": "I have sold, sold",
+      "futuroPerfecto": "I will have sold",
+      "pluscuamperfecto": "I had sold"
+    },
+    "afirmativo": "Sell!",
+    "negativo": "Don't sell!"
+  },
+  "attribution": "Fred Jehle"
+}

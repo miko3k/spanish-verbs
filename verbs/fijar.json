@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "fijar",
+  "gerundio": "fijando",
+  "participioPasado": "fijado",
+  "indicativo": {
+    "presente": {
+      "yo": "fijo",
+      "tu": "fijas",
+      "ud": "fija",
+      "nosotros": "fijamos",
+      "vosotros": "fijáis",
+      "uds": "fijan"
+    },
+    "futuro": {
+      "yo": "fijaré",
+      "tu": "fijarás",
+      "ud": "fijará",
+      "nosotros": "fijaremos",
+      "vosotros": "fijaréis",
+      "uds": "fijarán"
+    },
+    "imperfecto": {
+      "yo": "fijaba",
+      "tu": "fijabas",
+      "ud": "fijaba",
+      "nosotros": "fijábamos",
+      "vosotros": "fijabais",
+      "uds": "fijaban"
+    },
+    "preterito": {
+      "yo": "fijé",
+      "tu": "fijaste",
+      "ud": "fijó",
+      "nosotros": "fijamos",
+      "vosotros": "fijasteis",
+      "uds": "fijaron"
+    },
+    "condicional": {
+      "yo": "fijaría",
+      "tu": "fijarías",
+      "ud": "fijaría",
+      "nosotros": "fijaríamos",
+      "vosotros": "fijaríais",
+      "uds": "fijarían"
+    },
+    "presentePerfecto": {
+      "yo": "he fijado",
+      "tu": "has fijado",
+      "ud": "ha fijado",
+      "nosotros": "hemos fijado",
+      "vosotros": "habéis fijado",
+      "uds": "han fijado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré fijado",
+      "tu": "habrás fijado",
+      "ud": "habrá fijado",
+      "nosotros": "habremos fijado",
+      "vosotros": "habréis fijado",
+      "uds": "habrán fijado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había fijado",
+      "tu": "habías fijado",
+      "ud": "había fijado",
+      "nosotros": "habíamos fijado",
+      "vosotros": "habíais fijado",
+      "uds": "habían fijado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube fijado",
+      "tu": "hubiste fijado",
+      "ud": "hubo fijado",
+      "nosotros": "hubimos fijado",
+      "vosotros": "hubisteis fijado",
+      "uds": "hubieron fijado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría fijado",
+      "tu": "habrías fijado",
+      "ud": "habría fijado",
+      "nosotros": "habríamos fijado",
+      "vosotros": "habríais fijado",
+      "uds": "habrían fijado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "fije",
+      "tu": "fijes",
+      "ud": "fije",
+      "nosotros": "fijemos",
+      "vosotros": "fijéis",
+      "uds": "fijen"
+    },
+    "imperfecto": {
+      "yo": "fijara",
+      "tu": "fijaras",
+      "ud": "fijara",
+      "nosotros": "fijáramos",
+      "vosotros": "fijarais",
+      "uds": "fijaran"
+    },
+    "futuro": {
+      "yo": "fijare",
+      "tu": "fijares",
+      "ud": "fijare",
+      "nosotros": "fijáremos",
+      "vosotros": "fijareis",
+      "uds": "fijaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya fijado",
+      "tu": "hayas fijado",
+      "ud": "haya fijado",
+      "nosotros": "hayamos fijado",
+      "vosotros": "hayáis fijado",
+      "uds": "hayan fijado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere fijado",
+      "tu": "hubieres fijado",
+      "ud": "hubiere fijado",
+      "nosotros": "hubiéremos fijado",
+      "vosotros": "hubiereis fijado",
+      "uds": "hubieren fijado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera fijado",
+      "tu": "hubieras fijado",
+      "ud": "hubiera fijado",
+      "nosotros": "hubiéramos fijado",
+      "vosotros": "hubierais fijado",
+      "uds": "hubieran fijado"
+    },
+    "imperfectoAlt": {
+      "yo": "fijase",
+      "tu": "fijases",
+      "ud": "fijase",
+      "nosotros": "fijásemos",
+      "vosotros": "fijaseis",
+      "uds": "fijasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese fijado",
+      "tu": "hubieses fijado",
+      "ud": "hubiese fijado",
+      "nosotros": "hubiésemos fijado",
+      "vosotros": "hubieseis fijado",
+      "uds": "hubiesen fijado"
+    }
+  },
+  "afirmativo": {
+    "tu": "fija",
+    "vosotros": "fijad",
+    "ud": "fije",
+    "uds": "fijen"
+  },
+  "negativo": {
+    "tu": "no fijes",
+    "vosotros": "no fijéis",
+    "ud": "no fije",
+    "uds": "no fijen"
+  },
+  "english": {
+    "note": "Note: Fijar does not mean to fix in the sense of to repair; use arreglar or reparar instead.",
+    "infinitivo": "to fix, fasten, secure",
+    "gerundio": "fixing",
+    "participioPasado": "fixed",
+    "indicativo": {
+      "presente": "I fix, am fixing",
+      "futuro": "I will fix",
+      "imperfecto": "I was fixing, used to fix, fixed",
+      "preterito": "I fixed",
+      "condicional": "I would fix",
+      "presentePerfecto": "I have fixed",
+      "futuroPerfecto": "I will have fixed",
+      "pluscuamperfecto": "I had fixed",
+      "preteritoAnterior": "I had fixed",
+      "condicionalPerfecto": "I would have fixed"
+    },
+    "subjuntivo": {
+      "presente": "I fix, am fixing",
+      "imperfecto": "I fixed, was fixing",
+      "futuro": "I will fix",
+      "presentePerfecto": "I have fixed, fixed",
+      "futuroPerfecto": "I will have fixed",
+      "pluscuamperfecto": "I had fixed"
+    },
+    "afirmativo": "Fix!",
+    "negativo": "Don't fix!"
+  },
+  "attribution": "Fred Jehle"
+}

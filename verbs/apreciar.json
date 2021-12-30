@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "apreciar",
+  "gerundio": "apreciando",
+  "participioPasado": "apreciado",
+  "indicativo": {
+    "presente": {
+      "yo": "aprecio",
+      "tu": "aprecias",
+      "ud": "aprecia",
+      "nosotros": "apreciamos",
+      "vosotros": "apreciáis",
+      "uds": "aprecian"
+    },
+    "futuro": {
+      "yo": "apreciaré",
+      "tu": "apreciarás",
+      "ud": "apreciará",
+      "nosotros": "apreciaremos",
+      "vosotros": "apreciaréis",
+      "uds": "apreciarán"
+    },
+    "imperfecto": {
+      "yo": "apreciaba",
+      "tu": "apreciabas",
+      "ud": "apreciaba",
+      "nosotros": "apreciábamos",
+      "vosotros": "apreciabais",
+      "uds": "apreciaban"
+    },
+    "preterito": {
+      "yo": "aprecié",
+      "tu": "apreciaste",
+      "ud": "apreció",
+      "nosotros": "apreciamos",
+      "vosotros": "apreciasteis",
+      "uds": "apreciaron"
+    },
+    "condicional": {
+      "yo": "apreciaría",
+      "tu": "apreciarías",
+      "ud": "apreciaría",
+      "nosotros": "apreciaríamos",
+      "vosotros": "apreciaríais",
+      "uds": "apreciarían"
+    },
+    "presentePerfecto": {
+      "yo": "he apreciado",
+      "tu": "has apreciado",
+      "ud": "ha apreciado",
+      "nosotros": "hemos apreciado",
+      "vosotros": "habéis apreciado",
+      "uds": "han apreciado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré apreciado",
+      "tu": "habrás apreciado",
+      "ud": "habrá apreciado",
+      "nosotros": "habremos apreciado",
+      "vosotros": "habréis apreciado",
+      "uds": "habrán apreciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había apreciado",
+      "tu": "habías apreciado",
+      "ud": "había apreciado",
+      "nosotros": "habíamos apreciado",
+      "vosotros": "habíais apreciado",
+      "uds": "habían apreciado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube apreciado",
+      "tu": "hubiste apreciado",
+      "ud": "hubo apreciado",
+      "nosotros": "hubimos apreciado",
+      "vosotros": "hubisteis apreciado",
+      "uds": "hubieron apreciado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría apreciado",
+      "tu": "habrías apreciado",
+      "ud": "habría apreciado",
+      "nosotros": "habríamos apreciado",
+      "vosotros": "habríais apreciado",
+      "uds": "habrían apreciado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aprecie",
+      "tu": "aprecies",
+      "ud": "aprecie",
+      "nosotros": "apreciemos",
+      "vosotros": "apreciéis",
+      "uds": "aprecien"
+    },
+    "imperfecto": {
+      "yo": "apreciara",
+      "tu": "apreciaras",
+      "ud": "apreciara",
+      "nosotros": "apreciáramos",
+      "vosotros": "apreciarais",
+      "uds": "apreciaran"
+    },
+    "futuro": {
+      "yo": "apreciare",
+      "tu": "apreciares",
+      "ud": "apreciare",
+      "nosotros": "apreciáremos",
+      "vosotros": "apreciareis",
+      "uds": "apreciaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya apreciado",
+      "tu": "hayas apreciado",
+      "ud": "haya apreciado",
+      "nosotros": "hayamos apreciado",
+      "vosotros": "hayáis apreciado",
+      "uds": "hayan apreciado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere apreciado",
+      "tu": "hubieres apreciado",
+      "ud": "hubiere apreciado",
+      "nosotros": "hubiéremos apreciado",
+      "vosotros": "hubiereis apreciado",
+      "uds": "hubieren apreciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera apreciado",
+      "tu": "hubieras apreciado",
+      "ud": "hubiera apreciado",
+      "nosotros": "hubiéramos apreciado",
+      "vosotros": "hubierais apreciado",
+      "uds": "hubieran apreciado"
+    },
+    "imperfectoAlt": {
+      "yo": "apreciase",
+      "tu": "apreciases",
+      "ud": "apreciase",
+      "nosotros": "apreciásemos",
+      "vosotros": "apreciaseis",
+      "uds": "apreciasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese apreciado",
+      "tu": "hubieses apreciado",
+      "ud": "hubiese apreciado",
+      "nosotros": "hubiésemos apreciado",
+      "vosotros": "hubieseis apreciado",
+      "uds": "hubiesen apreciado"
+    }
+  },
+  "afirmativo": {
+    "tu": "aprecia",
+    "vosotros": "apreciad",
+    "ud": "aprecie",
+    "uds": "aprecien"
+  },
+  "negativo": {
+    "tu": "no aprecies",
+    "vosotros": "no apreciéis",
+    "ud": "no aprecie",
+    "uds": "no aprecien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to appreciate, value, esteem, estimate, notice",
+    "gerundio": "appreciating",
+    "participioPasado": "appreciated",
+    "indicativo": {
+      "presente": "I appreciate, am appreciating",
+      "futuro": "I will appreciate",
+      "imperfecto": "I was appreciating, used to appreciate, appreciated",
+      "preterito": "I appreciated",
+      "condicional": "I would appreciate",
+      "presentePerfecto": "I have appreciated",
+      "futuroPerfecto": "I will have appreciated",
+      "pluscuamperfecto": "I had appreciated",
+      "preteritoAnterior": "I had appreciated",
+      "condicionalPerfecto": "I would have appreciated"
+    },
+    "subjuntivo": {
+      "presente": "I appreciate, am appreciating",
+      "imperfecto": "I appreciated, was appreciating",
+      "futuro": "I will appreciate",
+      "presentePerfecto": "I have appreciated, appreciated",
+      "futuroPerfecto": "I will have appreciated",
+      "pluscuamperfecto": "I had appreciated"
+    },
+    "afirmativo": "appreciate!",
+    "negativo": "Don't appreciate!"
+  },
+  "attribution": "Fred Jehle"
+}

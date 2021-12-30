@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cantar",
+  "gerundio": "cantando",
+  "participioPasado": "cantado",
+  "indicativo": {
+    "presente": {
+      "yo": "canto",
+      "tu": "cantas",
+      "ud": "canta",
+      "nosotros": "cantamos",
+      "vosotros": "cantáis",
+      "uds": "cantan"
+    },
+    "futuro": {
+      "yo": "cantaré",
+      "tu": "cantarás",
+      "ud": "cantará",
+      "nosotros": "cantaremos",
+      "vosotros": "cantaréis",
+      "uds": "cantarán"
+    },
+    "imperfecto": {
+      "yo": "cantaba",
+      "tu": "cantabas",
+      "ud": "cantaba",
+      "nosotros": "cantábamos",
+      "vosotros": "cantabais",
+      "uds": "cantaban"
+    },
+    "preterito": {
+      "yo": "canté",
+      "tu": "cantaste",
+      "ud": "cantó",
+      "nosotros": "cantamos",
+      "vosotros": "cantasteis",
+      "uds": "cantaron"
+    },
+    "condicional": {
+      "yo": "cantaría",
+      "tu": "cantarías",
+      "ud": "cantaría",
+      "nosotros": "cantaríamos",
+      "vosotros": "cantaríais",
+      "uds": "cantarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cantado",
+      "tu": "has cantado",
+      "ud": "ha cantado",
+      "nosotros": "hemos cantado",
+      "vosotros": "habéis cantado",
+      "uds": "han cantado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cantado",
+      "tu": "habrás cantado",
+      "ud": "habrá cantado",
+      "nosotros": "habremos cantado",
+      "vosotros": "habréis cantado",
+      "uds": "habrán cantado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cantado",
+      "tu": "habías cantado",
+      "ud": "había cantado",
+      "nosotros": "habíamos cantado",
+      "vosotros": "habíais cantado",
+      "uds": "habían cantado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cantado",
+      "tu": "hubiste cantado",
+      "ud": "hubo cantado",
+      "nosotros": "hubimos cantado",
+      "vosotros": "hubisteis cantado",
+      "uds": "hubieron cantado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cantado",
+      "tu": "habrías cantado",
+      "ud": "habría cantado",
+      "nosotros": "habríamos cantado",
+      "vosotros": "habríais cantado",
+      "uds": "habrían cantado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cante",
+      "tu": "cantes",
+      "ud": "cante",
+      "nosotros": "cantemos",
+      "vosotros": "cantéis",
+      "uds": "canten"
+    },
+    "imperfecto": {
+      "yo": "cantara",
+      "tu": "cantaras",
+      "ud": "cantara",
+      "nosotros": "cantáramos",
+      "vosotros": "cantarais",
+      "uds": "cantaran"
+    },
+    "futuro": {
+      "yo": "cantare",
+      "tu": "cantares",
+      "ud": "cantare",
+      "nosotros": "cantáremos",
+      "vosotros": "cantareis",
+      "uds": "cantaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cantado",
+      "tu": "hayas cantado",
+      "ud": "haya cantado",
+      "nosotros": "hayamos cantado",
+      "vosotros": "hayáis cantado",
+      "uds": "hayan cantado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cantado",
+      "tu": "hubieres cantado",
+      "ud": "hubiere cantado",
+      "nosotros": "hubiéremos cantado",
+      "vosotros": "hubiereis cantado",
+      "uds": "hubieren cantado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cantado",
+      "tu": "hubieras cantado",
+      "ud": "hubiera cantado",
+      "nosotros": "hubiéramos cantado",
+      "vosotros": "hubierais cantado",
+      "uds": "hubieran cantado"
+    },
+    "imperfectoAlt": {
+      "yo": "cantase",
+      "tu": "cantases",
+      "ud": "cantase",
+      "nosotros": "cantásemos",
+      "vosotros": "cantaseis",
+      "uds": "cantasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cantado",
+      "tu": "hubieses cantado",
+      "ud": "hubiese cantado",
+      "nosotros": "hubiésemos cantado",
+      "vosotros": "hubieseis cantado",
+      "uds": "hubiesen cantado"
+    }
+  },
+  "afirmativo": {
+    "tu": "canta",
+    "vosotros": "cantad",
+    "ud": "cante",
+    "uds": "canten"
+  },
+  "negativo": {
+    "tu": "no cantes",
+    "vosotros": "no cantéis",
+    "ud": "no cante",
+    "uds": "no canten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to sing",
+    "gerundio": "singing",
+    "participioPasado": "sung",
+    "indicativo": {
+      "presente": "I sing, am singing",
+      "futuro": "I will sing",
+      "imperfecto": "I was singing, used to sing, sang",
+      "preterito": "I sang",
+      "condicional": "I would sing",
+      "presentePerfecto": "I have sung",
+      "futuroPerfecto": "I will have sung",
+      "pluscuamperfecto": "I had sung",
+      "preteritoAnterior": "I had sung",
+      "condicionalPerfecto": "I would have sung"
+    },
+    "subjuntivo": {
+      "presente": "I sing, am singing",
+      "imperfecto": "I sang, was singing",
+      "futuro": "I will sing",
+      "presentePerfecto": "I have sung, sang",
+      "futuroPerfecto": "I will have sung",
+      "pluscuamperfecto": "I had sung"
+    },
+    "afirmativo": "Sing!",
+    "negativo": "Don't sing!"
+  },
+  "attribution": "Fred Jehle"
+}

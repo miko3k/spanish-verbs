@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "regalar",
+  "gerundio": "regalando",
+  "participioPasado": "regalado",
+  "indicativo": {
+    "presente": {
+      "yo": "regalo",
+      "tu": "regalas",
+      "ud": "regala",
+      "nosotros": "regalamos",
+      "vosotros": "regaláis",
+      "uds": "regalan"
+    },
+    "futuro": {
+      "yo": "regalaré",
+      "tu": "regalarás",
+      "ud": "regalará",
+      "nosotros": "regalaremos",
+      "vosotros": "regalaréis",
+      "uds": "regalarán"
+    },
+    "imperfecto": {
+      "yo": "regalaba",
+      "tu": "regalabas",
+      "ud": "regalaba",
+      "nosotros": "regalábamos",
+      "vosotros": "regalabais",
+      "uds": "regalaban"
+    },
+    "preterito": {
+      "yo": "regalé",
+      "tu": "regalaste",
+      "ud": "regaló",
+      "nosotros": "regalamos",
+      "vosotros": "regalasteis",
+      "uds": "regalaron"
+    },
+    "condicional": {
+      "yo": "regalaría",
+      "tu": "regalarías",
+      "ud": "regalaría",
+      "nosotros": "regalaríamos",
+      "vosotros": "regalaríais",
+      "uds": "regalarían"
+    },
+    "presentePerfecto": {
+      "yo": "he regalado",
+      "tu": "has regalado",
+      "ud": "ha regalado",
+      "nosotros": "hemos regalado",
+      "vosotros": "habéis regalado",
+      "uds": "han regalado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré regalado",
+      "tu": "habrás regalado",
+      "ud": "habrá regalado",
+      "nosotros": "habremos regalado",
+      "vosotros": "habréis regalado",
+      "uds": "habrán regalado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había regalado",
+      "tu": "habías regalado",
+      "ud": "había regalado",
+      "nosotros": "habíamos regalado",
+      "vosotros": "habíais regalado",
+      "uds": "habían regalado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube regalado",
+      "tu": "hubiste regalado",
+      "ud": "hubo regalado",
+      "nosotros": "hubimos regalado",
+      "vosotros": "hubisteis regalado",
+      "uds": "hubieron regalado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría regalado",
+      "tu": "habrías regalado",
+      "ud": "habría regalado",
+      "nosotros": "habríamos regalado",
+      "vosotros": "habríais regalado",
+      "uds": "habrían regalado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "regale",
+      "tu": "regales",
+      "ud": "regale",
+      "nosotros": "regalemos",
+      "vosotros": "regaléis",
+      "uds": "regalen"
+    },
+    "imperfecto": {
+      "yo": "regalara",
+      "tu": "regalaras",
+      "ud": "regalara",
+      "nosotros": "regaláramos",
+      "vosotros": "regalarais",
+      "uds": "regalaran"
+    },
+    "futuro": {
+      "yo": "regalare",
+      "tu": "regalares",
+      "ud": "regalare",
+      "nosotros": "regaláremos",
+      "vosotros": "regalareis",
+      "uds": "regalaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya regalado",
+      "tu": "hayas regalado",
+      "ud": "haya regalado",
+      "nosotros": "hayamos regalado",
+      "vosotros": "hayáis regalado",
+      "uds": "hayan regalado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere regalado",
+      "tu": "hubieres regalado",
+      "ud": "hubiere regalado",
+      "nosotros": "hubiéremos regalado",
+      "vosotros": "hubiereis regalado",
+      "uds": "hubieren regalado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera regalado",
+      "tu": "hubieras regalado",
+      "ud": "hubiera regalado",
+      "nosotros": "hubiéramos regalado",
+      "vosotros": "hubierais regalado",
+      "uds": "hubieran regalado"
+    },
+    "imperfectoAlt": {
+      "yo": "regalase",
+      "tu": "regalases",
+      "ud": "regalase",
+      "nosotros": "regalásemos",
+      "vosotros": "regalaseis",
+      "uds": "regalasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese regalado",
+      "tu": "hubieses regalado",
+      "ud": "hubiese regalado",
+      "nosotros": "hubiésemos regalado",
+      "vosotros": "hubieseis regalado",
+      "uds": "hubiesen regalado"
+    }
+  },
+  "afirmativo": {
+    "tu": "regala",
+    "vosotros": "regalad",
+    "ud": "regale",
+    "uds": "regalen"
+  },
+  "negativo": {
+    "tu": "no regales",
+    "vosotros": "no regaléis",
+    "ud": "no regale",
+    "uds": "no regalen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to give (as a gift); to present; to give away; to treat royally, pamper",
+    "gerundio": "giving",
+    "participioPasado": "given",
+    "indicativo": {
+      "presente": "I give, am giving",
+      "futuro": "I will give",
+      "imperfecto": "I was giving, used to give, gave",
+      "preterito": "I gave",
+      "condicional": "I would give",
+      "presentePerfecto": "I have given",
+      "futuroPerfecto": "I will have given",
+      "pluscuamperfecto": "I had given",
+      "preteritoAnterior": "I had given",
+      "condicionalPerfecto": "I would have given"
+    },
+    "subjuntivo": {
+      "presente": "I give, am giving",
+      "imperfecto": "I gave, was giving",
+      "futuro": "I will give",
+      "presentePerfecto": "I have given, gave",
+      "futuroPerfecto": "I will have given",
+      "pluscuamperfecto": "I had given"
+    },
+    "afirmativo": "Give!",
+    "negativo": "Don't give!"
+  },
+  "attribution": "Fred Jehle"
+}

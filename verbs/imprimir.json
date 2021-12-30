@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "imprimir",
+  "gerundio": "imprimiendo",
+  "participioPasado": "imprimido, impreso",
+  "indicativo": {
+    "presente": {
+      "yo": "imprimo",
+      "tu": "imprimes",
+      "ud": "imprime",
+      "nosotros": "imprimimos",
+      "vosotros": "imprimís",
+      "uds": "imprimen"
+    },
+    "futuro": {
+      "yo": "imprimiré",
+      "tu": "imprimirás",
+      "ud": "imprimirá",
+      "nosotros": "imprimiremos",
+      "vosotros": "imprimiréis",
+      "uds": "imprimirán"
+    },
+    "imperfecto": {
+      "yo": "imprimía",
+      "tu": "imprimías",
+      "ud": "imprimía",
+      "nosotros": "imprimíamos",
+      "vosotros": "imprimíais",
+      "uds": "imprimían"
+    },
+    "preterito": {
+      "yo": "imprimí",
+      "tu": "imprimiste",
+      "ud": "imprimió",
+      "nosotros": "imprimimos",
+      "vosotros": "imprimisteis",
+      "uds": "imprimieron"
+    },
+    "condicional": {
+      "yo": "imprimiría",
+      "tu": "imprimirías",
+      "ud": "imprimiría",
+      "nosotros": "imprimiríamos",
+      "vosotros": "imprimiríais",
+      "uds": "imprimirían"
+    },
+    "presentePerfecto": {
+      "yo": "he imprimido",
+      "tu": "has imprimido",
+      "ud": "ha imprimido",
+      "nosotros": "hemos imprimido",
+      "vosotros": "habéis imprimido",
+      "uds": "han imprimido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré imprimido",
+      "tu": "habrás imprimido",
+      "ud": "habrá imprimido",
+      "nosotros": "habremos imprimido",
+      "vosotros": "habréis imprimido",
+      "uds": "habrán imprimido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había imprimido",
+      "tu": "habías imprimido",
+      "ud": "había imprimido",
+      "nosotros": "habíamos imprimido",
+      "vosotros": "habíais imprimido",
+      "uds": "habían imprimido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube imprimido",
+      "tu": "hubiste imprimido",
+      "ud": "hubo imprimido",
+      "nosotros": "hubimos imprimido",
+      "vosotros": "hubisteis imprimido",
+      "uds": "hubieron imprimido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría imprimido",
+      "tu": "habrías imprimido",
+      "ud": "habría imprimido",
+      "nosotros": "habríamos imprimido",
+      "vosotros": "habríais imprimido",
+      "uds": "habrían imprimido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "imprima",
+      "tu": "imprimas",
+      "ud": "imprima",
+      "nosotros": "imprimamos",
+      "vosotros": "imprimáis",
+      "uds": "impriman"
+    },
+    "imperfecto": {
+      "yo": "imprimiera",
+      "tu": "imprimieras",
+      "ud": "imprimiera",
+      "nosotros": "imprimiéramos",
+      "vosotros": "imprimierais",
+      "uds": "imprimieran"
+    },
+    "futuro": {
+      "yo": "imprimiere",
+      "tu": "imprimieres",
+      "ud": "imprimiere",
+      "nosotros": "imprimiéremos",
+      "vosotros": "imprimiereis",
+      "uds": "imprimieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya imprimido",
+      "tu": "hayas imprimido",
+      "ud": "haya imprimido",
+      "nosotros": "hayamos imprimido",
+      "vosotros": "hayáis imprimido",
+      "uds": "hayan imprimido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere imprimido",
+      "tu": "hubieres imprimido",
+      "ud": "hubiere imprimido",
+      "nosotros": "hubiéremos imprimido",
+      "vosotros": "hubiereis imprimido",
+      "uds": "hubieren imprimido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera imprimido",
+      "tu": "hubieras imprimido",
+      "ud": "hubiera imprimido",
+      "nosotros": "hubiéramos imprimido",
+      "vosotros": "hubierais imprimido",
+      "uds": "hubieran imprimido"
+    },
+    "imperfectoAlt": {
+      "yo": "imprimiese",
+      "tu": "imprimieses",
+      "ud": "imprimiese",
+      "nosotros": "imprimiésemos",
+      "vosotros": "imprimieseis",
+      "uds": "imprimiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese imprimido",
+      "tu": "hubieses imprimido",
+      "ud": "hubiese imprimido",
+      "nosotros": "hubiésemos imprimido",
+      "vosotros": "hubieseis imprimido",
+      "uds": "hubiesen imprimido"
+    }
+  },
+  "afirmativo": {
+    "tu": "imprime",
+    "vosotros": "imprimid",
+    "ud": "imprima",
+    "uds": "impriman"
+  },
+  "negativo": {
+    "tu": "no imprimas",
+    "vosotros": "no imprimáis",
+    "ud": "no imprima",
+    "uds": "no impriman"
+  },
+  "english": {
+    "note": "Imprimido es el participio regular, impreso es el participio irregular. Generalmente cuando esto ocurre con un verbo, la forma regular se usa para las formas verbales (por ejemplo, \"hemos imprimido\") y la forma irregular se usa para las formas adjetivales (\"una obra impresa\"). Sin embargo unos opinan que con este verbo las dos formas se pueden usar en todos los contextos.",
+    "infinitivo": "to print (as with a printer), to imprint, impress, stamp",
+    "gerundio": "printing",
+    "participioPasado": "printed",
+    "indicativo": {
+      "presente": "I print, am printing",
+      "futuro": "I will print",
+      "imperfecto": "I was printing, used to print, printed",
+      "preterito": "I printed",
+      "condicional": "I would print",
+      "presentePerfecto": "I have printed",
+      "futuroPerfecto": "I will have printed",
+      "pluscuamperfecto": "I had printed",
+      "preteritoAnterior": "I had printed",
+      "condicionalPerfecto": "I would have printed"
+    },
+    "subjuntivo": {
+      "presente": "I print, am printing",
+      "imperfecto": "I printed, was printing",
+      "futuro": "I will print",
+      "presentePerfecto": "I have printed, printed",
+      "futuroPerfecto": "I will have printed",
+      "pluscuamperfecto": "I had printed"
+    },
+    "afirmativo": "Print!",
+    "negativo": "Don't print!"
+  },
+  "attribution": "Fred Jehle"
+}

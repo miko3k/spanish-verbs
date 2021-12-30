@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "reír",
+  "gerundio": "riendo",
+  "participioPasado": "reído",
+  "indicativo": {
+    "presente": {
+      "yo": "río",
+      "tu": "ríes",
+      "ud": "ríe",
+      "nosotros": "reímos",
+      "vosotros": "reís",
+      "uds": "ríen"
+    },
+    "futuro": {
+      "yo": "reiré",
+      "tu": "reirás",
+      "ud": "reirá",
+      "nosotros": "reiremos",
+      "vosotros": "reiréis",
+      "uds": "reirán"
+    },
+    "imperfecto": {
+      "yo": "reía",
+      "tu": "reías",
+      "ud": "reía",
+      "nosotros": "reíamos",
+      "vosotros": "reíais",
+      "uds": "reían"
+    },
+    "preterito": {
+      "yo": "reí",
+      "tu": "reíste",
+      "ud": "rio",
+      "nosotros": "reímos",
+      "vosotros": "reísteis",
+      "uds": "rieron"
+    },
+    "condicional": {
+      "yo": "reiría",
+      "tu": "reirías",
+      "ud": "reiría",
+      "nosotros": "reiríamos",
+      "vosotros": "reiríais",
+      "uds": "reirían"
+    },
+    "presentePerfecto": {
+      "yo": "he reído",
+      "tu": "has reído",
+      "ud": "ha reído",
+      "nosotros": "hemos reído",
+      "vosotros": "habéis reído",
+      "uds": "han reído"
+    },
+    "futuroPerfecto": {
+      "yo": "habré reído",
+      "tu": "habrás reído",
+      "ud": "habrá reído",
+      "nosotros": "habremos reído",
+      "vosotros": "habréis reído",
+      "uds": "habrán reído"
+    },
+    "pluscuamperfecto": {
+      "yo": "había reído",
+      "tu": "habías reído",
+      "ud": "había reído",
+      "nosotros": "habíamos reído",
+      "vosotros": "habíais reído",
+      "uds": "habían reído"
+    },
+    "preteritoAnterior": {
+      "yo": "hube reído",
+      "tu": "hubiste reído",
+      "ud": "hubo reído",
+      "nosotros": "hubimos reído",
+      "vosotros": "hubisteis reído",
+      "uds": "hubieron reído"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría reído",
+      "tu": "habrías reído",
+      "ud": "habría reído",
+      "nosotros": "habríamos reído",
+      "vosotros": "habríais reído",
+      "uds": "habrían reído"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ría",
+      "tu": "rías",
+      "ud": "ría",
+      "nosotros": "riamos",
+      "vosotros": "riáis",
+      "uds": "rían"
+    },
+    "imperfecto": {
+      "yo": "riera",
+      "tu": "rieras",
+      "ud": "riera",
+      "nosotros": "riéramos",
+      "vosotros": "rierais",
+      "uds": "rieran"
+    },
+    "futuro": {
+      "yo": "riere",
+      "tu": "rieres",
+      "ud": "riere",
+      "nosotros": "riéremos",
+      "vosotros": "riereis",
+      "uds": "rieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya reído",
+      "tu": "hayas reído",
+      "ud": "haya reído",
+      "nosotros": "hayamos reído",
+      "vosotros": "hayáis reído",
+      "uds": "hayan reído"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere reído",
+      "tu": "hubieres reído",
+      "ud": "hubiere reído",
+      "nosotros": "hubiéremos reído",
+      "vosotros": "hubiereis reído",
+      "uds": "hubieren reído"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera reído",
+      "tu": "hubieras reído",
+      "ud": "hubiera reído",
+      "nosotros": "hubiéramos reído",
+      "vosotros": "hubierais reído",
+      "uds": "hubieran reído"
+    },
+    "imperfectoAlt": {
+      "yo": "riese",
+      "tu": "rieses",
+      "ud": "riese",
+      "nosotros": "riésemos",
+      "vosotros": "rieseis",
+      "uds": "riesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese reído",
+      "tu": "hubieses reído",
+      "ud": "hubiese reído",
+      "nosotros": "hubiésemos reído",
+      "vosotros": "hubieseis reído",
+      "uds": "hubiesen reído"
+    }
+  },
+  "afirmativo": {
+    "tu": "ríe",
+    "vosotros": "reíd",
+    "ud": "ría",
+    "uds": "rían"
+  },
+  "negativo": {
+    "tu": "no rías",
+    "vosotros": "no riais",
+    "ud": "no ría",
+    "uds": "no rían"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Con la radical ri-: 1) la i radical lleva acento escrito cuando se acentúa la radical (río, ríes, ría, etc.); 2) cuando se junta con una i no acuentuada, se pierde una i (e.g., ri + ió = rio). Participio pasado: reído. Mandato familiar plural: reíd.",
+    "infinitivo": "to laugh",
+    "gerundio": "laughing",
+    "participioPasado": "laughed",
+    "indicativo": {
+      "presente": "I laugh, am laughing",
+      "futuro": "I will laugh",
+      "imperfecto": "I was laughing, used to laugh, laughed",
+      "preterito": "I laughed",
+      "condicional": "I would laugh",
+      "presentePerfecto": "I have laughed",
+      "futuroPerfecto": "I will have laughed",
+      "pluscuamperfecto": "I had laughed",
+      "preteritoAnterior": "I had laughed",
+      "condicionalPerfecto": "I would have laughed"
+    },
+    "subjuntivo": {
+      "presente": "I laugh, am laughing",
+      "imperfecto": "I laughed, was laughing",
+      "futuro": "I will laugh",
+      "presentePerfecto": "I have laughed, laughed",
+      "futuroPerfecto": "I will have laughed",
+      "pluscuamperfecto": "I had laughed"
+    },
+    "afirmativo": "Laugh!",
+    "negativo": "Don't laugh!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "interesar",
+  "gerundio": "interesando",
+  "participioPasado": "interesado",
+  "indicativo": {
+    "presente": {
+      "yo": "intereso",
+      "tu": "interesas",
+      "ud": "interesa",
+      "nosotros": "interesamos",
+      "vosotros": "interesáis",
+      "uds": "interesan"
+    },
+    "futuro": {
+      "yo": "interesaré",
+      "tu": "interesarás",
+      "ud": "interesará",
+      "nosotros": "interesaremos",
+      "vosotros": "interesaréis",
+      "uds": "interesarán"
+    },
+    "imperfecto": {
+      "yo": "interesaba",
+      "tu": "interesabas",
+      "ud": "interesaba",
+      "nosotros": "interesábamos",
+      "vosotros": "interesabais",
+      "uds": "interesaban"
+    },
+    "preterito": {
+      "yo": "interesé",
+      "tu": "interesaste",
+      "ud": "interesó",
+      "nosotros": "interesamos",
+      "vosotros": "interesasteis",
+      "uds": "interesaron"
+    },
+    "condicional": {
+      "yo": "interesaría",
+      "tu": "interesarías",
+      "ud": "interesaría",
+      "nosotros": "interesaríamos",
+      "vosotros": "interesaríais",
+      "uds": "interesarían"
+    },
+    "presentePerfecto": {
+      "yo": "he interesado",
+      "tu": "has interesado",
+      "ud": "ha interesado",
+      "nosotros": "hemos interesado",
+      "vosotros": "habéis interesado",
+      "uds": "han interesado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré interesado",
+      "tu": "habrás interesado",
+      "ud": "habrá interesado",
+      "nosotros": "habremos interesado",
+      "vosotros": "habréis interesado",
+      "uds": "habrán interesado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había interesado",
+      "tu": "habías interesado",
+      "ud": "había interesado",
+      "nosotros": "habíamos interesado",
+      "vosotros": "habíais interesado",
+      "uds": "habían interesado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube interesado",
+      "tu": "hubiste interesado",
+      "ud": "hubo interesado",
+      "nosotros": "hubimos interesado",
+      "vosotros": "hubisteis interesado",
+      "uds": "hubieron interesado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría interesado",
+      "tu": "habrías interesado",
+      "ud": "habría interesado",
+      "nosotros": "habríamos interesado",
+      "vosotros": "habríais interesado",
+      "uds": "habrían interesado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "interese",
+      "tu": "intereses",
+      "ud": "interese",
+      "nosotros": "interesemos",
+      "vosotros": "intereséis",
+      "uds": "interesen"
+    },
+    "imperfecto": {
+      "yo": "interesara",
+      "tu": "interesaras",
+      "ud": "interesara",
+      "nosotros": "interesáramos",
+      "vosotros": "interesarais",
+      "uds": "interesaran"
+    },
+    "futuro": {
+      "yo": "interesare",
+      "tu": "interesares",
+      "ud": "interesare",
+      "nosotros": "interesáremos",
+      "vosotros": "interesareis",
+      "uds": "interesaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya interesado",
+      "tu": "hayas interesado",
+      "ud": "haya interesado",
+      "nosotros": "hayamos interesado",
+      "vosotros": "hayáis interesado",
+      "uds": "hayan interesado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere interesado",
+      "tu": "hubieres interesado",
+      "ud": "hubiere interesado",
+      "nosotros": "hubiéremos interesado",
+      "vosotros": "hubiereis interesado",
+      "uds": "hubieren interesado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera interesado",
+      "tu": "hubieras interesado",
+      "ud": "hubiera interesado",
+      "nosotros": "hubiéramos interesado",
+      "vosotros": "hubierais interesado",
+      "uds": "hubieran interesado"
+    },
+    "imperfectoAlt": {
+      "yo": "interesase",
+      "tu": "interesases",
+      "ud": "interesase",
+      "nosotros": "interesásemos",
+      "vosotros": "interesaseis",
+      "uds": "interesasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese interesado",
+      "tu": "hubieses interesado",
+      "ud": "hubiese interesado",
+      "nosotros": "hubiésemos interesado",
+      "vosotros": "hubieseis interesado",
+      "uds": "hubiesen interesado"
+    }
+  },
+  "afirmativo": {
+    "tu": "interesa",
+    "vosotros": "interesad",
+    "ud": "interese",
+    "uds": "interesen"
+  },
+  "negativo": {
+    "tu": "no intereses",
+    "vosotros": "no intereséis",
+    "ud": "no interese",
+    "uds": "no interesen"
+  },
+  "english": {
+    "note": "Note: The verb may be used in the normal way with the meaning to interest. It is also used similarly to the construction used with gustar: Me interesa el libro = The book interests me (= I am interested in the book); Me interesan los libros = The books interest me (= I am interested in the books). In this construction the verb is most frequently used in the third person singular or plural, although other persons are possible, and the subject usually follows the verb.",
+    "infinitivo": "to interest, be of interest (to)",
+    "gerundio": "interesting",
+    "participioPasado": "interested",
+    "indicativo": {
+      "presente": "I interest, am interesting",
+      "futuro": "I will interest",
+      "imperfecto": "I was interesting, used to interest, interested",
+      "preterito": "I interested",
+      "condicional": "I would interest",
+      "presentePerfecto": "I have interested",
+      "futuroPerfecto": "I will have interested",
+      "pluscuamperfecto": "I had interested",
+      "preteritoAnterior": "I had interested",
+      "condicionalPerfecto": "I would have interested"
+    },
+    "subjuntivo": {
+      "presente": "I interest, am interesting",
+      "imperfecto": "I interested, was interesting",
+      "futuro": "I will interest",
+      "presentePerfecto": "I have interested, interested",
+      "futuroPerfecto": "I will have interested",
+      "pluscuamperfecto": "I had interested"
+    },
+    "afirmativo": "Interest!",
+    "negativo": "Don't interest!"
+  },
+  "attribution": "Fred Jehle"
+}

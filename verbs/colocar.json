@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "colocar",
+  "gerundio": "colocando",
+  "participioPasado": "colocado",
+  "indicativo": {
+    "presente": {
+      "yo": "coloco",
+      "tu": "colocas",
+      "ud": "coloca",
+      "nosotros": "colocamos",
+      "vosotros": "colocáis",
+      "uds": "colocan"
+    },
+    "futuro": {
+      "yo": "colocaré",
+      "tu": "colocarás",
+      "ud": "colocará",
+      "nosotros": "colocaremos",
+      "vosotros": "colocaréis",
+      "uds": "colocarán"
+    },
+    "imperfecto": {
+      "yo": "colocaba",
+      "tu": "colocabas",
+      "ud": "colocaba",
+      "nosotros": "colocábamos",
+      "vosotros": "colocabais",
+      "uds": "colocaban"
+    },
+    "preterito": {
+      "yo": "coloqué",
+      "tu": "colocaste",
+      "ud": "colocó",
+      "nosotros": "colocamos",
+      "vosotros": "colocasteis",
+      "uds": "colocaron"
+    },
+    "condicional": {
+      "yo": "colocaría",
+      "tu": "colocarías",
+      "ud": "colocaría",
+      "nosotros": "colocaríamos",
+      "vosotros": "colocaríais",
+      "uds": "colocarían"
+    },
+    "presentePerfecto": {
+      "yo": "he colocado",
+      "tu": "has colocado",
+      "ud": "ha colocado",
+      "nosotros": "hemos colocado",
+      "vosotros": "habéis colocado",
+      "uds": "han colocado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré colocado",
+      "tu": "habrás colocado",
+      "ud": "habrá colocado",
+      "nosotros": "habremos colocado",
+      "vosotros": "habréis colocado",
+      "uds": "habrán colocado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había colocado",
+      "tu": "habías colocado",
+      "ud": "había colocado",
+      "nosotros": "habíamos colocado",
+      "vosotros": "habíais colocado",
+      "uds": "habían colocado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube colocado",
+      "tu": "hubiste colocado",
+      "ud": "hubo colocado",
+      "nosotros": "hubimos colocado",
+      "vosotros": "hubisteis colocado",
+      "uds": "hubieron colocado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría colocado",
+      "tu": "habrías colocado",
+      "ud": "habría colocado",
+      "nosotros": "habríamos colocado",
+      "vosotros": "habríais colocado",
+      "uds": "habrían colocado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "coloque",
+      "tu": "coloques",
+      "ud": "coloque",
+      "nosotros": "coloquemos",
+      "vosotros": "coloquéis",
+      "uds": "coloquen"
+    },
+    "imperfecto": {
+      "yo": "colocara",
+      "tu": "colocaras",
+      "ud": "colocara",
+      "nosotros": "colocáramos",
+      "vosotros": "colocarais",
+      "uds": "colocaran"
+    },
+    "futuro": {
+      "yo": "colocare",
+      "tu": "colocares",
+      "ud": "colocare",
+      "nosotros": "colocáremos",
+      "vosotros": "colocareis",
+      "uds": "colocaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya colocado",
+      "tu": "hayas colocado",
+      "ud": "haya colocado",
+      "nosotros": "hayamos colocado",
+      "vosotros": "hayáis colocado",
+      "uds": "hayan colocado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere colocado",
+      "tu": "hubieres colocado",
+      "ud": "hubiere colocado",
+      "nosotros": "hubiéremos colocado",
+      "vosotros": "hubiereis colocado",
+      "uds": "hubieren colocado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera colocado",
+      "tu": "hubieras colocado",
+      "ud": "hubiera colocado",
+      "nosotros": "hubiéramos colocado",
+      "vosotros": "hubierais colocado",
+      "uds": "hubieran colocado"
+    },
+    "imperfectoAlt": {
+      "yo": "colocase",
+      "tu": "colocases",
+      "ud": "colocase",
+      "nosotros": "colocásemos",
+      "vosotros": "colocaseis",
+      "uds": "colocasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese colocado",
+      "tu": "hubieses colocado",
+      "ud": "hubiese colocado",
+      "nosotros": "hubiésemos colocado",
+      "vosotros": "hubieseis colocado",
+      "uds": "hubiesen colocado"
+    }
+  },
+  "afirmativo": {
+    "tu": "coloca",
+    "vosotros": "colocad",
+    "ud": "coloque",
+    "uds": "coloquen"
+  },
+  "negativo": {
+    "tu": "no coloques",
+    "vosotros": "no coloquéis",
+    "ud": "no coloque",
+    "uds": "no coloquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to locate, place",
+    "gerundio": "locating",
+    "participioPasado": "located",
+    "indicativo": {
+      "presente": "I locate, am locating",
+      "futuro": "I will locate",
+      "imperfecto": "I was locating, used to locate, located",
+      "preterito": "I located",
+      "condicional": "I would locate",
+      "presentePerfecto": "I have located",
+      "futuroPerfecto": "I will have located",
+      "pluscuamperfecto": "I had located",
+      "preteritoAnterior": "I had located",
+      "condicionalPerfecto": "I would have located"
+    },
+    "subjuntivo": {
+      "presente": "I locate, am locating",
+      "imperfecto": "I located, was locating",
+      "futuro": "I will locate",
+      "presentePerfecto": "I have located, located",
+      "futuroPerfecto": "I will have located",
+      "pluscuamperfecto": "I had located"
+    },
+    "afirmativo": "Locate!",
+    "negativo": "Don't locate!"
+  },
+  "attribution": "Fred Jehle"
+}

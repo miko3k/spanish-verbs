@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "luchar",
+  "gerundio": "luchando",
+  "participioPasado": "luchado",
+  "indicativo": {
+    "presente": {
+      "yo": "lucho",
+      "tu": "luchas",
+      "ud": "lucha",
+      "nosotros": "luchamos",
+      "vosotros": "lucháis",
+      "uds": "luchan"
+    },
+    "futuro": {
+      "yo": "lucharé",
+      "tu": "lucharás",
+      "ud": "luchará",
+      "nosotros": "lucharemos",
+      "vosotros": "lucharéis",
+      "uds": "lucharán"
+    },
+    "imperfecto": {
+      "yo": "luchaba",
+      "tu": "luchabas",
+      "ud": "luchaba",
+      "nosotros": "luchábamos",
+      "vosotros": "luchabais",
+      "uds": "luchaban"
+    },
+    "preterito": {
+      "yo": "luché",
+      "tu": "luchaste",
+      "ud": "luchó",
+      "nosotros": "luchamos",
+      "vosotros": "luchasteis",
+      "uds": "lucharon"
+    },
+    "condicional": {
+      "yo": "lucharía",
+      "tu": "lucharías",
+      "ud": "lucharía",
+      "nosotros": "lucharíamos",
+      "vosotros": "lucharíais",
+      "uds": "lucharían"
+    },
+    "presentePerfecto": {
+      "yo": "he luchado",
+      "tu": "has luchado",
+      "ud": "ha luchado",
+      "nosotros": "hemos luchado",
+      "vosotros": "habéis luchado",
+      "uds": "han luchado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré luchado",
+      "tu": "habrás luchado",
+      "ud": "habrá luchado",
+      "nosotros": "habremos luchado",
+      "vosotros": "habréis luchado",
+      "uds": "habrán luchado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había luchado",
+      "tu": "habías luchado",
+      "ud": "había luchado",
+      "nosotros": "habíamos luchado",
+      "vosotros": "habíais luchado",
+      "uds": "habían luchado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube luchado",
+      "tu": "hubiste luchado",
+      "ud": "hubo luchado",
+      "nosotros": "hubimos luchado",
+      "vosotros": "hubisteis luchado",
+      "uds": "hubieron luchado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría luchado",
+      "tu": "habrías luchado",
+      "ud": "habría luchado",
+      "nosotros": "habríamos luchado",
+      "vosotros": "habríais luchado",
+      "uds": "habrían luchado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "luche",
+      "tu": "luches",
+      "ud": "luche",
+      "nosotros": "luchemos",
+      "vosotros": "luchéis",
+      "uds": "luchen"
+    },
+    "imperfecto": {
+      "yo": "luchara",
+      "tu": "lucharas",
+      "ud": "luchara",
+      "nosotros": "lucháramos",
+      "vosotros": "lucharais",
+      "uds": "lucharan"
+    },
+    "futuro": {
+      "yo": "luchare",
+      "tu": "luchares",
+      "ud": "luchare",
+      "nosotros": "lucháremos",
+      "vosotros": "luchareis",
+      "uds": "lucharen"
+    },
+    "presentePerfecto": {
+      "yo": "haya luchado",
+      "tu": "hayas luchado",
+      "ud": "haya luchado",
+      "nosotros": "hayamos luchado",
+      "vosotros": "hayáis luchado",
+      "uds": "hayan luchado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere luchado",
+      "tu": "hubieres luchado",
+      "ud": "hubiere luchado",
+      "nosotros": "hubiéremos luchado",
+      "vosotros": "hubiereis luchado",
+      "uds": "hubieren luchado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera luchado",
+      "tu": "hubieras luchado",
+      "ud": "hubiera luchado",
+      "nosotros": "hubiéramos luchado",
+      "vosotros": "hubierais luchado",
+      "uds": "hubieran luchado"
+    },
+    "imperfectoAlt": {
+      "yo": "luchase",
+      "tu": "luchases",
+      "ud": "luchase",
+      "nosotros": "luchásemos",
+      "vosotros": "luchaseis",
+      "uds": "luchasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese luchado",
+      "tu": "hubieses luchado",
+      "ud": "hubiese luchado",
+      "nosotros": "hubiésemos luchado",
+      "vosotros": "hubieseis luchado",
+      "uds": "hubiesen luchado"
+    }
+  },
+  "afirmativo": {
+    "tu": "lucha",
+    "vosotros": "luchad",
+    "ud": "luche",
+    "uds": "luchen"
+  },
+  "negativo": {
+    "tu": "no luches",
+    "vosotros": "no luchéis",
+    "ud": "no luche",
+    "uds": "no luchen"
+  },
+  "english": {
+    "note": "Use this as an intranstive verb, for example, to fight with (con) or against (contra) someone/something.",
+    "infinitivo": "to fight, struggle; to wrestle",
+    "gerundio": "fighting",
+    "participioPasado": "fought",
+    "indicativo": {
+      "presente": "I fight, am fighting",
+      "futuro": "I will fight",
+      "imperfecto": "I was fighting, used to fight, fought",
+      "preterito": "I fought",
+      "condicional": "I would fight",
+      "presentePerfecto": "I have fought",
+      "futuroPerfecto": "I will have fought",
+      "pluscuamperfecto": "I had fought",
+      "preteritoAnterior": "I had fought",
+      "condicionalPerfecto": "I would have fought"
+    },
+    "subjuntivo": {
+      "presente": "I fight, am fighting",
+      "imperfecto": "I fought, was fighting",
+      "futuro": "I will fight",
+      "presentePerfecto": "I have fought, fought",
+      "futuroPerfecto": "I will have fought",
+      "pluscuamperfecto": "I had fought"
+    },
+    "afirmativo": "Fight!",
+    "negativo": "Don't fight!"
+  },
+  "attribution": "Fred Jehle"
+}

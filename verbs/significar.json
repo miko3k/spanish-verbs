@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "significar",
+  "gerundio": "significando",
+  "participioPasado": "significado",
+  "indicativo": {
+    "presente": {
+      "yo": "significo",
+      "tu": "significas",
+      "ud": "significa",
+      "nosotros": "significamos",
+      "vosotros": "significáis",
+      "uds": "significan"
+    },
+    "futuro": {
+      "yo": "significaré",
+      "tu": "significarás",
+      "ud": "significará",
+      "nosotros": "significaremos",
+      "vosotros": "significaréis",
+      "uds": "significarán"
+    },
+    "imperfecto": {
+      "yo": "significaba",
+      "tu": "significabas",
+      "ud": "significaba",
+      "nosotros": "significábamos",
+      "vosotros": "significabais",
+      "uds": "significaban"
+    },
+    "preterito": {
+      "yo": "signifiqué",
+      "tu": "significaste",
+      "ud": "significó",
+      "nosotros": "significamos",
+      "vosotros": "significasteis",
+      "uds": "significaron"
+    },
+    "condicional": {
+      "yo": "significaría",
+      "tu": "significarías",
+      "ud": "significaría",
+      "nosotros": "significaríamos",
+      "vosotros": "significaríais",
+      "uds": "significarían"
+    },
+    "presentePerfecto": {
+      "yo": "he significado",
+      "tu": "has significado",
+      "ud": "ha significado",
+      "nosotros": "hemos significado",
+      "vosotros": "habéis significado",
+      "uds": "han significado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré significado",
+      "tu": "habrás significado",
+      "ud": "habrá significado",
+      "nosotros": "habremos significado",
+      "vosotros": "habréis significado",
+      "uds": "habrán significado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había significado",
+      "tu": "habías significado",
+      "ud": "había significado",
+      "nosotros": "habíamos significado",
+      "vosotros": "habíais significado",
+      "uds": "habían significado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube significado",
+      "tu": "hubiste significado",
+      "ud": "hubo significado",
+      "nosotros": "hubimos significado",
+      "vosotros": "hubisteis significado",
+      "uds": "hubieron significado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría significado",
+      "tu": "habrías significado",
+      "ud": "habría significado",
+      "nosotros": "habríamos significado",
+      "vosotros": "habríais significado",
+      "uds": "habrían significado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "signifique",
+      "tu": "signifiques",
+      "ud": "signifique",
+      "nosotros": "signifiquemos",
+      "vosotros": "signifiquéis",
+      "uds": "signifiquen"
+    },
+    "imperfecto": {
+      "yo": "significara",
+      "tu": "significaras",
+      "ud": "significara",
+      "nosotros": "significáramos",
+      "vosotros": "significarais",
+      "uds": "significaran"
+    },
+    "futuro": {
+      "yo": "significare",
+      "tu": "significares",
+      "ud": "significare",
+      "nosotros": "significáremos",
+      "vosotros": "significareis",
+      "uds": "significaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya significado",
+      "tu": "hayas significado",
+      "ud": "haya significado",
+      "nosotros": "hayamos significado",
+      "vosotros": "hayáis significado",
+      "uds": "hayan significado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere significado",
+      "tu": "hubieres significado",
+      "ud": "hubiere significado",
+      "nosotros": "hubiéremos significado",
+      "vosotros": "hubiereis significado",
+      "uds": "hubieren significado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera significado",
+      "tu": "hubieras significado",
+      "ud": "hubiera significado",
+      "nosotros": "hubiéramos significado",
+      "vosotros": "hubierais significado",
+      "uds": "hubieran significado"
+    },
+    "imperfectoAlt": {
+      "yo": "significase",
+      "tu": "significases",
+      "ud": "significase",
+      "nosotros": "significásemos",
+      "vosotros": "significaseis",
+      "uds": "significasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese significado",
+      "tu": "hubieses significado",
+      "ud": "hubiese significado",
+      "nosotros": "hubiésemos significado",
+      "vosotros": "hubieseis significado",
+      "uds": "hubiesen significado"
+    }
+  },
+  "afirmativo": {
+    "tu": "significa",
+    "vosotros": "significad",
+    "ud": "signifique",
+    "uds": "signifiquen"
+  },
+  "negativo": {
+    "tu": "no signifiques",
+    "vosotros": "no signifiquéis",
+    "ud": "no signifique",
+    "uds": "no signifiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to signify, mean",
+    "gerundio": "signifying",
+    "participioPasado": "signified",
+    "indicativo": {
+      "presente": "I signify, am signifying",
+      "futuro": "I will signify",
+      "imperfecto": "I was signifying, used to signify, signified",
+      "preterito": "I signified",
+      "condicional": "I would signify",
+      "presentePerfecto": "I have signified",
+      "futuroPerfecto": "I will have signified",
+      "pluscuamperfecto": "I had signified",
+      "preteritoAnterior": "I had signified",
+      "condicionalPerfecto": "I would have signified"
+    },
+    "subjuntivo": {
+      "presente": "I signify, am signifying",
+      "imperfecto": "I signified, was signifying",
+      "futuro": "I will signify",
+      "presentePerfecto": "I have signified, signified",
+      "futuroPerfecto": "I will have signified",
+      "pluscuamperfecto": "I had signified"
+    },
+    "afirmativo": "Signify!",
+    "negativo": "Don't signify!"
+  },
+  "attribution": "Fred Jehle"
+}

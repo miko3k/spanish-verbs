@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "invadir",
+  "gerundio": "invadiendo",
+  "participioPasado": "invadido",
+  "indicativo": {
+    "presente": {
+      "yo": "invado",
+      "tu": "invades",
+      "ud": "invade",
+      "nosotros": "invadimos",
+      "vosotros": "invadís",
+      "uds": "invaden"
+    },
+    "futuro": {
+      "yo": "invadiré",
+      "tu": "invadirás",
+      "ud": "invadirá",
+      "nosotros": "invadiremos",
+      "vosotros": "invadiréis",
+      "uds": "invadirán"
+    },
+    "imperfecto": {
+      "yo": "invadía",
+      "tu": "invadías",
+      "ud": "invadía",
+      "nosotros": "invadíamos",
+      "vosotros": "invadíais",
+      "uds": "invadían"
+    },
+    "preterito": {
+      "yo": "invadí",
+      "tu": "invadiste",
+      "ud": "invadió",
+      "nosotros": "invadimos",
+      "vosotros": "invadisteis",
+      "uds": "invadieron"
+    },
+    "condicional": {
+      "yo": "invadiría",
+      "tu": "invadirías",
+      "ud": "invadiría",
+      "nosotros": "invadiríamos",
+      "vosotros": "invadiríais",
+      "uds": "invadirían"
+    },
+    "presentePerfecto": {
+      "yo": "he invadido",
+      "tu": "has invadido",
+      "ud": "ha invadido",
+      "nosotros": "hemos invadido",
+      "vosotros": "habéis invadido",
+      "uds": "han invadido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré invadido",
+      "tu": "habrás invadido",
+      "ud": "habrá invadido",
+      "nosotros": "habremos invadido",
+      "vosotros": "habréis invadido",
+      "uds": "habrán invadido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había invadido",
+      "tu": "habías invadido",
+      "ud": "había invadido",
+      "nosotros": "habíamos invadido",
+      "vosotros": "habíais invadido",
+      "uds": "habían invadido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube invadido",
+      "tu": "hubiste invadido",
+      "ud": "hubo invadido",
+      "nosotros": "hubimos invadido",
+      "vosotros": "hubisteis invadido",
+      "uds": "hubieron invadido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría invadido",
+      "tu": "habrías invadido",
+      "ud": "habría invadido",
+      "nosotros": "habríamos invadido",
+      "vosotros": "habríais invadido",
+      "uds": "habrían invadido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "invada",
+      "tu": "invadas",
+      "ud": "invada",
+      "nosotros": "invadamos",
+      "vosotros": "invadáis",
+      "uds": "invadan"
+    },
+    "imperfecto": {
+      "yo": "invadiera",
+      "tu": "invadieras",
+      "ud": "invadiera",
+      "nosotros": "invadiéramos",
+      "vosotros": "invadierais",
+      "uds": "invadieran"
+    },
+    "futuro": {
+      "yo": "invadiere",
+      "tu": "invadieres",
+      "ud": "invadiere",
+      "nosotros": "invadiéremos",
+      "vosotros": "invadiereis",
+      "uds": "invadieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya invadido",
+      "tu": "hayas invadido",
+      "ud": "haya invadido",
+      "nosotros": "hayamos invadido",
+      "vosotros": "hayáis invadido",
+      "uds": "hayan invadido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere invadido",
+      "tu": "hubieres invadido",
+      "ud": "hubiere invadido",
+      "nosotros": "hubiéremos invadido",
+      "vosotros": "hubiereis invadido",
+      "uds": "hubieren invadido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera invadido",
+      "tu": "hubieras invadido",
+      "ud": "hubiera invadido",
+      "nosotros": "hubiéramos invadido",
+      "vosotros": "hubierais invadido",
+      "uds": "hubieran invadido"
+    },
+    "imperfectoAlt": {
+      "yo": "invadiese",
+      "tu": "invadieses",
+      "ud": "invadiese",
+      "nosotros": "invadiésemos",
+      "vosotros": "invadieseis",
+      "uds": "invadiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese invadido",
+      "tu": "hubieses invadido",
+      "ud": "hubiese invadido",
+      "nosotros": "hubiésemos invadido",
+      "vosotros": "hubieseis invadido",
+      "uds": "hubiesen invadido"
+    }
+  },
+  "afirmativo": {
+    "tu": "invade",
+    "vosotros": "invadid",
+    "ud": "invada",
+    "uds": "invadan"
+  },
+  "negativo": {
+    "tu": "no invadas",
+    "vosotros": "no invadáis",
+    "ud": "no invada",
+    "uds": "no invadan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to invade, overrun",
+    "gerundio": "invading",
+    "participioPasado": "invaded",
+    "indicativo": {
+      "presente": "I invade, am invading",
+      "futuro": "I will invade",
+      "imperfecto": "I was invading, used to invade, invaded",
+      "preterito": "I invaded",
+      "condicional": "I would invade",
+      "presentePerfecto": "I have invaded",
+      "futuroPerfecto": "I will have invaded",
+      "pluscuamperfecto": "I had invaded",
+      "preteritoAnterior": "I had invaded",
+      "condicionalPerfecto": "I would have invaded"
+    },
+    "subjuntivo": {
+      "presente": "I invade, am invading",
+      "imperfecto": "I invaded, was invading",
+      "futuro": "I will invade",
+      "presentePerfecto": "I have invaded, invaded",
+      "futuroPerfecto": "I will have invaded",
+      "pluscuamperfecto": "I had invaded"
+    },
+    "afirmativo": "Invade!",
+    "negativo": "Don't invade!"
+  },
+  "attribution": "Fred Jehle"
+}

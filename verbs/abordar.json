@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "abordar",
+  "gerundio": "abordando",
+  "participioPasado": "abordado",
+  "indicativo": {
+    "presente": {
+      "yo": "abordo",
+      "tu": "abordas",
+      "ud": "aborda",
+      "nosotros": "abordamos",
+      "vosotros": "abordáis",
+      "uds": "abordan"
+    },
+    "futuro": {
+      "yo": "abordaré",
+      "tu": "abordarás",
+      "ud": "abordará",
+      "nosotros": "abordaremos",
+      "vosotros": "abordaréis",
+      "uds": "abordarán"
+    },
+    "imperfecto": {
+      "yo": "abordaba",
+      "tu": "abordabas",
+      "ud": "abordaba",
+      "nosotros": "abordábamos",
+      "vosotros": "abordabais",
+      "uds": "abordaban"
+    },
+    "preterito": {
+      "yo": "abordé",
+      "tu": "abordaste",
+      "ud": "abordó",
+      "nosotros": "abordamos",
+      "vosotros": "abordasteis",
+      "uds": "abordaron"
+    },
+    "condicional": {
+      "yo": "abordaría",
+      "tu": "abordarías",
+      "ud": "abordaría",
+      "nosotros": "abordaríamos",
+      "vosotros": "abordaríais",
+      "uds": "abordarían"
+    },
+    "presentePerfecto": {
+      "yo": "he abordado",
+      "tu": "has abordado",
+      "ud": "ha abordado",
+      "nosotros": "hemos abordado",
+      "vosotros": "habéis abordado",
+      "uds": "han abordado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré abordado",
+      "tu": "habrás abordado",
+      "ud": "habrá abordado",
+      "nosotros": "habremos abordado",
+      "vosotros": "habréis abordado",
+      "uds": "habrán abordado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había abordado",
+      "tu": "habías abordado",
+      "ud": "había abordado",
+      "nosotros": "habíamos abordado",
+      "vosotros": "habíais abordado",
+      "uds": "habían abordado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube abordado",
+      "tu": "hubiste abordado",
+      "ud": "hubo abordado",
+      "nosotros": "hubimos abordado",
+      "vosotros": "hubisteis abordado",
+      "uds": "hubieron abordado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría abordado",
+      "tu": "habrías abordado",
+      "ud": "habría abordado",
+      "nosotros": "habríamos abordado",
+      "vosotros": "habríais abordado",
+      "uds": "habrían abordado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aborde",
+      "tu": "abordes",
+      "ud": "aborde",
+      "nosotros": "abordemos",
+      "vosotros": "abordéis",
+      "uds": "aborden"
+    },
+    "imperfecto": {
+      "yo": "abordara",
+      "tu": "abordaras",
+      "ud": "abordara",
+      "nosotros": "abordáramos",
+      "vosotros": "abordarais",
+      "uds": "abordaran"
+    },
+    "futuro": {
+      "yo": "abordare",
+      "tu": "abordares",
+      "ud": "abordare",
+      "nosotros": "abordáremos",
+      "vosotros": "abordareis",
+      "uds": "abordaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya abordado",
+      "tu": "hayas abordado",
+      "ud": "haya abordado",
+      "nosotros": "hayamos abordado",
+      "vosotros": "hayáis abordado",
+      "uds": "hayan abordado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere abordado",
+      "tu": "hubieres abordado",
+      "ud": "hubiere abordado",
+      "nosotros": "hubiéremos abordado",
+      "vosotros": "hubiereis abordado",
+      "uds": "hubieren abordado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera abordado",
+      "tu": "hubieras abordado",
+      "ud": "hubiera abordado",
+      "nosotros": "hubiéramos abordado",
+      "vosotros": "hubierais abordado",
+      "uds": "hubieran abordado"
+    },
+    "imperfectoAlt": {
+      "yo": "abordase",
+      "tu": "abordases",
+      "ud": "abordase",
+      "nosotros": "abordásemos",
+      "vosotros": "abordaseis",
+      "uds": "abordasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese abordado",
+      "tu": "hubieses abordado",
+      "ud": "hubiese abordado",
+      "nosotros": "hubiésemos abordado",
+      "vosotros": "hubieseis abordado",
+      "uds": "hubiesen abordado"
+    }
+  },
+  "afirmativo": {
+    "tu": "aborda",
+    "vosotros": "abordad",
+    "ud": "aborde",
+    "uds": "aborden"
+  },
+  "negativo": {
+    "tu": "no abordes",
+    "vosotros": "no abordéis",
+    "ud": "no aborde",
+    "uds": "no aborden"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to board, get on (plane, bus, etc.); to approach, accost (a person)",
+    "gerundio": "boarding",
+    "participioPasado": "boarded",
+    "indicativo": {
+      "presente": "I board, am boarding",
+      "futuro": "I will board",
+      "imperfecto": "I was boarding, used to board, boarded",
+      "preterito": "I boarded",
+      "condicional": "I would board",
+      "presentePerfecto": "I have boarded",
+      "futuroPerfecto": "I will have boarded",
+      "pluscuamperfecto": "I had boarded",
+      "preteritoAnterior": "I had boarded",
+      "condicionalPerfecto": "I would have boarded"
+    },
+    "subjuntivo": {
+      "presente": "I board, am boarding",
+      "imperfecto": "I boarded, was boarding",
+      "futuro": "I will board",
+      "presentePerfecto": "I have boarded, boarded",
+      "futuroPerfecto": "I will have boarded",
+      "pluscuamperfecto": "I had boarded"
+    },
+    "afirmativo": "Board!",
+    "negativo": "Don't board!"
+  },
+  "attribution": "Fred Jehle"
+}

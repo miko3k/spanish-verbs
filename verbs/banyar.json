@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "bañar",
+  "gerundio": "bañando",
+  "participioPasado": "bañado",
+  "indicativo": {
+    "presente": {
+      "yo": "baño",
+      "tu": "bañas",
+      "ud": "baña",
+      "nosotros": "bañamos",
+      "vosotros": "bañáis",
+      "uds": "bañan"
+    },
+    "futuro": {
+      "yo": "bañaré",
+      "tu": "bañarás",
+      "ud": "bañará",
+      "nosotros": "bañaremos",
+      "vosotros": "bañaréis",
+      "uds": "bañarán"
+    },
+    "imperfecto": {
+      "yo": "bañaba",
+      "tu": "bañabas",
+      "ud": "bañaba",
+      "nosotros": "bañábamos",
+      "vosotros": "bañabais",
+      "uds": "bañaban"
+    },
+    "preterito": {
+      "yo": "bañé",
+      "tu": "bañaste",
+      "ud": "bañó",
+      "nosotros": "bañamos",
+      "vosotros": "bañasteis",
+      "uds": "bañaron"
+    },
+    "condicional": {
+      "yo": "bañaría",
+      "tu": "bañarías",
+      "ud": "bañaría",
+      "nosotros": "bañaríamos",
+      "vosotros": "bañaríais",
+      "uds": "bañarían"
+    },
+    "presentePerfecto": {
+      "yo": "he bañado",
+      "tu": "has bañado",
+      "ud": "ha bañado",
+      "nosotros": "hemos bañado",
+      "vosotros": "habéis bañado",
+      "uds": "han bañado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré bañado",
+      "tu": "habrás bañado",
+      "ud": "habrá bañado",
+      "nosotros": "habremos bañado",
+      "vosotros": "habréis bañado",
+      "uds": "habrán bañado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había bañado",
+      "tu": "habías bañado",
+      "ud": "había bañado",
+      "nosotros": "habíamos bañado",
+      "vosotros": "habíais bañado",
+      "uds": "habían bañado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube bañado",
+      "tu": "hubiste bañado",
+      "ud": "hubo bañado",
+      "nosotros": "hubimos bañado",
+      "vosotros": "hubisteis bañado",
+      "uds": "hubieron bañado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría bañado",
+      "tu": "habrías bañado",
+      "ud": "habría bañado",
+      "nosotros": "habríamos bañado",
+      "vosotros": "habríais bañado",
+      "uds": "habrían bañado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "bañe",
+      "tu": "bañes",
+      "ud": "bañe",
+      "nosotros": "bañemos",
+      "vosotros": "bañéis",
+      "uds": "bañen"
+    },
+    "imperfecto": {
+      "yo": "bañara",
+      "tu": "bañaras",
+      "ud": "bañara",
+      "nosotros": "bañáramos",
+      "vosotros": "bañarais",
+      "uds": "bañaran"
+    },
+    "futuro": {
+      "yo": "bañare",
+      "tu": "bañares",
+      "ud": "bañare",
+      "nosotros": "bañáremos",
+      "vosotros": "bañareis",
+      "uds": "bañaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya bañado",
+      "tu": "hayas bañado",
+      "ud": "haya bañado",
+      "nosotros": "hayamos bañado",
+      "vosotros": "hayáis bañado",
+      "uds": "hayan bañado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere bañado",
+      "tu": "hubieres bañado",
+      "ud": "hubiere bañado",
+      "nosotros": "hubiéremos bañado",
+      "vosotros": "hubiereis bañado",
+      "uds": "hubieren bañado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera bañado",
+      "tu": "hubieras bañado",
+      "ud": "hubiera bañado",
+      "nosotros": "hubiéramos bañado",
+      "vosotros": "hubierais bañado",
+      "uds": "hubieran bañado"
+    },
+    "imperfectoAlt": {
+      "yo": "bañase",
+      "tu": "bañases",
+      "ud": "bañase",
+      "nosotros": "bañásemos",
+      "vosotros": "bañaseis",
+      "uds": "bañasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese bañado",
+      "tu": "hubieses bañado",
+      "ud": "hubiese bañado",
+      "nosotros": "hubiésemos bañado",
+      "vosotros": "hubieseis bañado",
+      "uds": "hubiesen bañado"
+    }
+  },
+  "afirmativo": {
+    "tu": "baña",
+    "vosotros": "bañad",
+    "ud": "bañe",
+    "uds": "bañen"
+  },
+  "negativo": {
+    "tu": "no bañes",
+    "vosotros": "no bañéis",
+    "ud": "no bañe",
+    "uds": "no bañen"
+  },
+  "english": {
+    "note": "Note: For to bathe in the sense of to take a bath, use the reflexive form bañarse.",
+    "infinitivo": "to give a bath (to someone), to bathe (someone)",
+    "gerundio": "giving a bath",
+    "participioPasado": "given a bath",
+    "indicativo": {
+      "presente": "I give a bath, am giving a bath",
+      "futuro": "I will give a bath",
+      "imperfecto": "I was giving a bath, used to give a bath, gave a bath",
+      "preterito": "I gave a bath",
+      "condicional": "I would give a bath",
+      "presentePerfecto": "I have given a bath",
+      "futuroPerfecto": "I will have given a bath",
+      "pluscuamperfecto": "I had given a bath",
+      "preteritoAnterior": "I had given a bath",
+      "condicionalPerfecto": "I would have given a bath"
+    },
+    "subjuntivo": {
+      "presente": "I give a bath, am giving a bath",
+      "imperfecto": "I gave a bath, was giving a bath",
+      "futuro": "I will give a bath",
+      "presentePerfecto": "I have given a bath, gave a bath",
+      "futuroPerfecto": "I will have given a bath",
+      "pluscuamperfecto": "I had given a bath"
+    },
+    "afirmativo": "Give a bath!",
+    "negativo": "Don't give a bath!"
+  },
+  "attribution": "Fred Jehle"
+}

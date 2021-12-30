@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "redargüir",
+  "gerundio": "redarguyendo",
+  "participioPasado": "redargüido",
+  "indicativo": {
+    "presente": {
+      "yo": "redarguyo",
+      "tu": "redarguyes",
+      "ud": "redarguye",
+      "nosotros": "redargüimos",
+      "vosotros": "redargüís",
+      "uds": "redarguyen"
+    },
+    "futuro": {
+      "yo": "redargüiré",
+      "tu": "redargüirás",
+      "ud": "redargüirá",
+      "nosotros": "redargüiremos",
+      "vosotros": "redargüiréis",
+      "uds": "redargüirán"
+    },
+    "imperfecto": {
+      "yo": "redargüía",
+      "tu": "redargüías",
+      "ud": "redargüía",
+      "nosotros": "redargüíamos",
+      "vosotros": "redargüíais",
+      "uds": "redargüían"
+    },
+    "preterito": {
+      "yo": "redargüí",
+      "tu": "redargüiste",
+      "ud": "redarguyó",
+      "nosotros": "redargüimos",
+      "vosotros": "redargüisteis",
+      "uds": "redarguyeron"
+    },
+    "condicional": {
+      "yo": "redargüiría",
+      "tu": "redargüirías",
+      "ud": "redargüiría",
+      "nosotros": "redargüiríamos",
+      "vosotros": "redargüiríais",
+      "uds": "redargüirían"
+    },
+    "presentePerfecto": {
+      "yo": "he redargüido",
+      "tu": "has redargüido",
+      "ud": "ha redargüido",
+      "nosotros": "hemos redargüido",
+      "vosotros": "habéis redargüido",
+      "uds": "han redargüido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré redargüido",
+      "tu": "habrás redargüido",
+      "ud": "habrá redargüido",
+      "nosotros": "habremos redargüido",
+      "vosotros": "habréis redargüido",
+      "uds": "habrán redargüido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había redargüido",
+      "tu": "habías redargüido",
+      "ud": "había redargüido",
+      "nosotros": "habíamos redargüido",
+      "vosotros": "habíais redargüido",
+      "uds": "habían redargüido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube redargüido",
+      "tu": "hubiste redargüido",
+      "ud": "hubo redargüido",
+      "nosotros": "hubimos redargüido",
+      "vosotros": "hubisteis redargüido",
+      "uds": "hubieron redargüido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría redargüido",
+      "tu": "habrías redargüido",
+      "ud": "habría redargüido",
+      "nosotros": "habríamos redargüido",
+      "vosotros": "habríais redargüido",
+      "uds": "habrían redargüido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "redarguya",
+      "tu": "redarguyas",
+      "ud": "redarguya",
+      "nosotros": "redarguyamos",
+      "vosotros": "redarguyáis",
+      "uds": "redarguyan"
+    },
+    "imperfecto": {
+      "yo": "redarguyera",
+      "tu": "redarguyeras",
+      "ud": "redarguyera",
+      "nosotros": "redarguyéramos",
+      "vosotros": "redarguyerais",
+      "uds": "redarguyeran"
+    },
+    "futuro": {
+      "yo": "redarguyere",
+      "tu": "redarguyeres",
+      "ud": "redarguyere",
+      "nosotros": "redarguyéremos",
+      "vosotros": "redarguyereis",
+      "uds": "redarguyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya redargüido",
+      "tu": "hayas redargüido",
+      "ud": "haya redargüido",
+      "nosotros": "hayamos redargüido",
+      "vosotros": "hayáis redargüido",
+      "uds": "hayan redargüido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere redargüido",
+      "tu": "hubieres redargüido",
+      "ud": "hubiere redargüido",
+      "nosotros": "hubiéremos redargüido",
+      "vosotros": "hubiereis redargüido",
+      "uds": "hubieren redargüido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera redargüido",
+      "tu": "hubieras redargüido",
+      "ud": "hubiera redargüido",
+      "nosotros": "hubiéramos redargüido",
+      "vosotros": "hubierais redargüido",
+      "uds": "hubieran redargüido"
+    },
+    "imperfectoAlt": {
+      "yo": "redarguyese",
+      "tu": "redarguyeses",
+      "ud": "redarguyese",
+      "nosotros": "redarguyésemos",
+      "vosotros": "redarguyeseis",
+      "uds": "redarguyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese redargüido",
+      "tu": "hubieses redargüido",
+      "ud": "hubiese redargüido",
+      "nosotros": "hubiésemos redargüido",
+      "vosotros": "hubieseis redargüido",
+      "uds": "hubiesen redargüido"
+    }
+  },
+  "afirmativo": {
+    "tu": "redarguye",
+    "vosotros": "redargüid",
+    "ud": "redarguya",
+    "uds": "redarguyan"
+  },
+  "negativo": {
+    "tu": "no redarguyas",
+    "vosotros": "no redarguyáis",
+    "ud": "no redarguya",
+    "uds": "no redarguyan"
+  },
+  "english": {
+    "note": "Cambios: ü > uy delante a, o y e (e.g., arguyo, arguya); ü + i intervocalica > uy (e,g., arguyó, arguyeron).",
+    "infinitivo": "to impugn, hold to be invalid",
+    "gerundio": "impugning",
+    "participioPasado": "impugned",
+    "indicativo": {
+      "presente": "I impugn, am impugning",
+      "futuro": "I will impugn",
+      "imperfecto": "I was impugning, used to impugn, impugned",
+      "preterito": "I impugned",
+      "condicional": "I would impugn",
+      "presentePerfecto": "I have impugned",
+      "futuroPerfecto": "I will have impugned",
+      "pluscuamperfecto": "I had impugned",
+      "preteritoAnterior": "I had impugned",
+      "condicionalPerfecto": "I would have impugned"
+    },
+    "subjuntivo": {
+      "presente": "I impugn, am impugning",
+      "imperfecto": "I impugned, was impugning",
+      "futuro": "I will impugn",
+      "presentePerfecto": "I have impugned, impugned",
+      "futuroPerfecto": "I will have impugned",
+      "pluscuamperfecto": "I had impugned"
+    },
+    "afirmativo": "impugn!",
+    "negativo": "Don't impugn!"
+  },
+  "attribution": "Fred Jehle"
+}

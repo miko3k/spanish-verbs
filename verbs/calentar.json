@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "calentar",
+  "gerundio": "calentando",
+  "participioPasado": "calentado",
+  "indicativo": {
+    "presente": {
+      "yo": "caliento",
+      "tu": "calientas",
+      "ud": "calienta",
+      "nosotros": "calentamos",
+      "vosotros": "calentáis",
+      "uds": "calientan"
+    },
+    "futuro": {
+      "yo": "calentaré",
+      "tu": "calentarás",
+      "ud": "calentará",
+      "nosotros": "calentaremos",
+      "vosotros": "calentaréis",
+      "uds": "calentarán"
+    },
+    "imperfecto": {
+      "yo": "calentaba",
+      "tu": "calentabas",
+      "ud": "calentaba",
+      "nosotros": "calentábamos",
+      "vosotros": "calentabais",
+      "uds": "calentaban"
+    },
+    "preterito": {
+      "yo": "calenté",
+      "tu": "calentaste",
+      "ud": "calentó",
+      "nosotros": "calentamos",
+      "vosotros": "calentasteis",
+      "uds": "calentaron"
+    },
+    "condicional": {
+      "yo": "calentaría",
+      "tu": "calentarías",
+      "ud": "calentaría",
+      "nosotros": "calentaríamos",
+      "vosotros": "calentaríais",
+      "uds": "calentarían"
+    },
+    "presentePerfecto": {
+      "yo": "he calentado",
+      "tu": "has calentado",
+      "ud": "ha calentado",
+      "nosotros": "hemos calentado",
+      "vosotros": "habéis calentado",
+      "uds": "han calentado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré calentado",
+      "tu": "habrás calentado",
+      "ud": "habrá calentado",
+      "nosotros": "habremos calentado",
+      "vosotros": "habréis calentado",
+      "uds": "habrán calentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había calentado",
+      "tu": "habías calentado",
+      "ud": "había calentado",
+      "nosotros": "habíamos calentado",
+      "vosotros": "habíais calentado",
+      "uds": "habían calentado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube calentado",
+      "tu": "hubiste calentado",
+      "ud": "hubo calentado",
+      "nosotros": "hubimos calentado",
+      "vosotros": "hubisteis calentado",
+      "uds": "hubieron calentado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría calentado",
+      "tu": "habrías calentado",
+      "ud": "habría calentado",
+      "nosotros": "habríamos calentado",
+      "vosotros": "habríais calentado",
+      "uds": "habrían calentado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "caliente",
+      "tu": "calientes",
+      "ud": "caliente",
+      "nosotros": "calentemos",
+      "vosotros": "calentéis",
+      "uds": "calienten"
+    },
+    "imperfecto": {
+      "yo": "calentara",
+      "tu": "calentaras",
+      "ud": "calentara",
+      "nosotros": "calentáramos",
+      "vosotros": "calentarais",
+      "uds": "calentaran"
+    },
+    "futuro": {
+      "yo": "calentare",
+      "tu": "calentares",
+      "ud": "calentare",
+      "nosotros": "calentáremos",
+      "vosotros": "calentareis",
+      "uds": "calentaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya calentado",
+      "tu": "hayas calentado",
+      "ud": "haya calentado",
+      "nosotros": "hayamos calentado",
+      "vosotros": "hayáis calentado",
+      "uds": "hayan calentado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere calentado",
+      "tu": "hubieres calentado",
+      "ud": "hubiere calentado",
+      "nosotros": "hubiéremos calentado",
+      "vosotros": "hubiereis calentado",
+      "uds": "hubieren calentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera calentado",
+      "tu": "hubieras calentado",
+      "ud": "hubiera calentado",
+      "nosotros": "hubiéramos calentado",
+      "vosotros": "hubierais calentado",
+      "uds": "hubieran calentado"
+    },
+    "imperfectoAlt": {
+      "yo": "calentase",
+      "tu": "calentases",
+      "ud": "calentase",
+      "nosotros": "calentásemos",
+      "vosotros": "calentaseis",
+      "uds": "calentasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese calentado",
+      "tu": "hubieses calentado",
+      "ud": "hubiese calentado",
+      "nosotros": "hubiésemos calentado",
+      "vosotros": "hubieseis calentado",
+      "uds": "hubiesen calentado"
+    }
+  },
+  "afirmativo": {
+    "tu": "calienta",
+    "vosotros": "calentad",
+    "ud": "caliente",
+    "uds": "calienten"
+  },
+  "negativo": {
+    "tu": "no calientes",
+    "vosotros": "no calentéis",
+    "ud": "no caliente",
+    "uds": "no calienten"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie. Note: This is a transitive verb, to heat up (something); to use it intransitively, for example, to mean to be/become heated, use the reflexive form calentarse.",
+    "infinitivo": "to heat (up), warm (up)",
+    "gerundio": "heating",
+    "participioPasado": "heated",
+    "indicativo": {
+      "presente": "I heat, am heating",
+      "futuro": "I will heat",
+      "imperfecto": "I was heating, used to heat, heated",
+      "preterito": "I heated",
+      "condicional": "I would heat",
+      "presentePerfecto": "I have heated",
+      "futuroPerfecto": "I will have heated",
+      "pluscuamperfecto": "I had heated",
+      "preteritoAnterior": "I had heated",
+      "condicionalPerfecto": "I would have heated"
+    },
+    "subjuntivo": {
+      "presente": "I heat, am heating",
+      "imperfecto": "I heated, was heating",
+      "futuro": "I will heat",
+      "presentePerfecto": "I have heated, heated",
+      "futuroPerfecto": "I will have heated",
+      "pluscuamperfecto": "I had heated"
+    },
+    "afirmativo": "Heat!",
+    "negativo": "Don't heat!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "ahorrar",
+  "gerundio": "ahorrando",
+  "participioPasado": "ahorrado",
+  "indicativo": {
+    "presente": {
+      "yo": "ahorro",
+      "tu": "ahorras",
+      "ud": "ahorra",
+      "nosotros": "ahorramos",
+      "vosotros": "ahorráis",
+      "uds": "ahorran"
+    },
+    "futuro": {
+      "yo": "ahorraré",
+      "tu": "ahorrarás",
+      "ud": "ahorrará",
+      "nosotros": "ahorraremos",
+      "vosotros": "ahorraréis",
+      "uds": "ahorrarán"
+    },
+    "imperfecto": {
+      "yo": "ahorraba",
+      "tu": "ahorrabas",
+      "ud": "ahorraba",
+      "nosotros": "ahorrábamos",
+      "vosotros": "ahorrabais",
+      "uds": "ahorraban"
+    },
+    "preterito": {
+      "yo": "ahorré",
+      "tu": "ahorraste",
+      "ud": "ahorró",
+      "nosotros": "ahorramos",
+      "vosotros": "ahorrasteis",
+      "uds": "ahorraron"
+    },
+    "condicional": {
+      "yo": "ahorraría",
+      "tu": "ahorrarías",
+      "ud": "ahorraría",
+      "nosotros": "ahorraríamos",
+      "vosotros": "ahorraríais",
+      "uds": "ahorrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he ahorrado",
+      "tu": "has ahorrado",
+      "ud": "ha ahorrado",
+      "nosotros": "hemos ahorrado",
+      "vosotros": "habéis ahorrado",
+      "uds": "han ahorrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ahorrado",
+      "tu": "habrás ahorrado",
+      "ud": "habrá ahorrado",
+      "nosotros": "habremos ahorrado",
+      "vosotros": "habréis ahorrado",
+      "uds": "habrán ahorrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ahorrado",
+      "tu": "habías ahorrado",
+      "ud": "había ahorrado",
+      "nosotros": "habíamos ahorrado",
+      "vosotros": "habíais ahorrado",
+      "uds": "habían ahorrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ahorrado",
+      "tu": "hubiste ahorrado",
+      "ud": "hubo ahorrado",
+      "nosotros": "hubimos ahorrado",
+      "vosotros": "hubisteis ahorrado",
+      "uds": "hubieron ahorrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ahorrado",
+      "tu": "habrías ahorrado",
+      "ud": "habría ahorrado",
+      "nosotros": "habríamos ahorrado",
+      "vosotros": "habríais ahorrado",
+      "uds": "habrían ahorrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ahorre",
+      "tu": "ahorres",
+      "ud": "ahorre",
+      "nosotros": "ahorremos",
+      "vosotros": "ahorréis",
+      "uds": "ahorren"
+    },
+    "imperfecto": {
+      "yo": "ahorrara",
+      "tu": "ahorraras",
+      "ud": "ahorrara",
+      "nosotros": "ahorráramos",
+      "vosotros": "ahorrarais",
+      "uds": "ahorraran"
+    },
+    "futuro": {
+      "yo": "ahorrare",
+      "tu": "ahorrares",
+      "ud": "ahorrare",
+      "nosotros": "ahorráremos",
+      "vosotros": "ahorrareis",
+      "uds": "ahorraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ahorrado",
+      "tu": "hayas ahorrado",
+      "ud": "haya ahorrado",
+      "nosotros": "hayamos ahorrado",
+      "vosotros": "hayáis ahorrado",
+      "uds": "hayan ahorrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ahorrado",
+      "tu": "hubieres ahorrado",
+      "ud": "hubiere ahorrado",
+      "nosotros": "hubiéremos ahorrado",
+      "vosotros": "hubiereis ahorrado",
+      "uds": "hubieren ahorrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ahorrado",
+      "tu": "hubieras ahorrado",
+      "ud": "hubiera ahorrado",
+      "nosotros": "hubiéramos ahorrado",
+      "vosotros": "hubierais ahorrado",
+      "uds": "hubieran ahorrado"
+    },
+    "imperfectoAlt": {
+      "yo": "ahorrase",
+      "tu": "ahorrases",
+      "ud": "ahorrase",
+      "nosotros": "ahorrásemos",
+      "vosotros": "ahorraseis",
+      "uds": "ahorrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ahorrado",
+      "tu": "hubieses ahorrado",
+      "ud": "hubiese ahorrado",
+      "nosotros": "hubiésemos ahorrado",
+      "vosotros": "hubieseis ahorrado",
+      "uds": "hubiesen ahorrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "ahorra",
+    "vosotros": "ahorrad",
+    "ud": "ahorre",
+    "uds": "ahorren"
+  },
+  "negativo": {
+    "tu": "no ahorres",
+    "vosotros": "no ahorréis",
+    "ud": "no ahorre",
+    "uds": "no ahorren"
+  },
+  "english": {
+    "note": "Note: Ahorrar is a transitive verb meaning to save such things as money or to avoid problems or danger. For to save a life see salvar, or to save or conserve resources see conservar.",
+    "infinitivo": "to save",
+    "gerundio": "saving",
+    "participioPasado": "saved",
+    "indicativo": {
+      "presente": "I save, am saving",
+      "futuro": "I will save",
+      "imperfecto": "I was saving, used to save, saved",
+      "preterito": "I saved",
+      "condicional": "I would save",
+      "presentePerfecto": "I have saved",
+      "futuroPerfecto": "I will have saved",
+      "pluscuamperfecto": "I had saved",
+      "preteritoAnterior": "I had saved",
+      "condicionalPerfecto": "I would have saved"
+    },
+    "subjuntivo": {
+      "presente": "I save, am saving",
+      "imperfecto": "I saved, was saving",
+      "futuro": "I will save",
+      "presentePerfecto": "I have saved, saved",
+      "futuroPerfecto": "I will have saved",
+      "pluscuamperfecto": "I had saved"
+    },
+    "afirmativo": "Save!",
+    "negativo": "Don't save!"
+  },
+  "attribution": "Fred Jehle"
+}

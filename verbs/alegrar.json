@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "alegrar",
+  "gerundio": "alegrando",
+  "participioPasado": "alegrado",
+  "indicativo": {
+    "presente": {
+      "yo": "alegro",
+      "tu": "alegras",
+      "ud": "alegra",
+      "nosotros": "alegramos",
+      "vosotros": "alegráis",
+      "uds": "alegran"
+    },
+    "futuro": {
+      "yo": "alegraré",
+      "tu": "alegrarás",
+      "ud": "alegrará",
+      "nosotros": "alegraremos",
+      "vosotros": "alegraréis",
+      "uds": "alegrarán"
+    },
+    "imperfecto": {
+      "yo": "alegraba",
+      "tu": "alegrabas",
+      "ud": "alegraba",
+      "nosotros": "alegrábamos",
+      "vosotros": "alegrabais",
+      "uds": "alegraban"
+    },
+    "preterito": {
+      "yo": "alegré",
+      "tu": "alegraste",
+      "ud": "alegró",
+      "nosotros": "alegramos",
+      "vosotros": "alegrasteis",
+      "uds": "alegraron"
+    },
+    "condicional": {
+      "yo": "alegraría",
+      "tu": "alegrarías",
+      "ud": "alegraría",
+      "nosotros": "alegraríamos",
+      "vosotros": "alegraríais",
+      "uds": "alegrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he alegrado",
+      "tu": "has alegrado",
+      "ud": "ha alegrado",
+      "nosotros": "hemos alegrado",
+      "vosotros": "habéis alegrado",
+      "uds": "han alegrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré alegrado",
+      "tu": "habrás alegrado",
+      "ud": "habrá alegrado",
+      "nosotros": "habremos alegrado",
+      "vosotros": "habréis alegrado",
+      "uds": "habrán alegrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había alegrado",
+      "tu": "habías alegrado",
+      "ud": "había alegrado",
+      "nosotros": "habíamos alegrado",
+      "vosotros": "habíais alegrado",
+      "uds": "habían alegrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube alegrado",
+      "tu": "hubiste alegrado",
+      "ud": "hubo alegrado",
+      "nosotros": "hubimos alegrado",
+      "vosotros": "hubisteis alegrado",
+      "uds": "hubieron alegrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría alegrado",
+      "tu": "habrías alegrado",
+      "ud": "habría alegrado",
+      "nosotros": "habríamos alegrado",
+      "vosotros": "habríais alegrado",
+      "uds": "habrían alegrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "alegre",
+      "tu": "alegres",
+      "ud": "alegre",
+      "nosotros": "alegremos",
+      "vosotros": "alegréis",
+      "uds": "alegren"
+    },
+    "imperfecto": {
+      "yo": "alegrara",
+      "tu": "alegraras",
+      "ud": "alegrara",
+      "nosotros": "alegráramos",
+      "vosotros": "alegrarais",
+      "uds": "alegraran"
+    },
+    "futuro": {
+      "yo": "alegrare",
+      "tu": "alegrares",
+      "ud": "alegrare",
+      "nosotros": "alegráremos",
+      "vosotros": "alegrareis",
+      "uds": "alegraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya alegrado",
+      "tu": "hayas alegrado",
+      "ud": "haya alegrado",
+      "nosotros": "hayamos alegrado",
+      "vosotros": "hayáis alegrado",
+      "uds": "hayan alegrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere alegrado",
+      "tu": "hubieres alegrado",
+      "ud": "hubiere alegrado",
+      "nosotros": "hubiéremos alegrado",
+      "vosotros": "hubiereis alegrado",
+      "uds": "hubieren alegrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera alegrado",
+      "tu": "hubieras alegrado",
+      "ud": "hubiera alegrado",
+      "nosotros": "hubiéramos alegrado",
+      "vosotros": "hubierais alegrado",
+      "uds": "hubieran alegrado"
+    },
+    "imperfectoAlt": {
+      "yo": "alegrase",
+      "tu": "alegrases",
+      "ud": "alegrase",
+      "nosotros": "alegrásemos",
+      "vosotros": "alegraseis",
+      "uds": "alegrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese alegrado",
+      "tu": "hubieses alegrado",
+      "ud": "hubiese alegrado",
+      "nosotros": "hubiésemos alegrado",
+      "vosotros": "hubieseis alegrado",
+      "uds": "hubiesen alegrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "alegra",
+    "vosotros": "alegrad",
+    "ud": "alegre",
+    "uds": "alegren"
+  },
+  "negativo": {
+    "tu": "no alegres",
+    "vosotros": "no alegréis",
+    "ud": "no alegre",
+    "uds": "no alegren"
+  },
+  "english": {
+    "note": "Note:Example: Esa noticia me alegra mucho = that news makes me very happy. Use the reflexive form, alegrarse for to become/get/be happy.",
+    "infinitivo": "to make happy, cheer (up), gladden",
+    "gerundio": "making happy",
+    "participioPasado": "made happy",
+    "indicativo": {
+      "presente": "I make happy, am making happy",
+      "futuro": "I will make happy",
+      "imperfecto": "I was making happy, used to make happy, made happy",
+      "preterito": "I made happy",
+      "condicional": "I would make happy",
+      "presentePerfecto": "I have made happy",
+      "futuroPerfecto": "I will have made happy",
+      "pluscuamperfecto": "I had made happy",
+      "preteritoAnterior": "I had made happy",
+      "condicionalPerfecto": "I would have made happy"
+    },
+    "subjuntivo": {
+      "presente": "I make happy, am making happy",
+      "imperfecto": "I made happy, was making happy",
+      "futuro": "I will make happy",
+      "presentePerfecto": "I have made happy, made happy",
+      "futuroPerfecto": "I will have made happy",
+      "pluscuamperfecto": "I had made happy"
+    },
+    "afirmativo": "Make happy!",
+    "negativo": "Don't make happy!"
+  },
+  "attribution": "Fred Jehle"
+}

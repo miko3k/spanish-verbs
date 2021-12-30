@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "aprender",
+  "gerundio": "aprendiendo",
+  "participioPasado": "aprendido",
+  "indicativo": {
+    "presente": {
+      "yo": "aprendo",
+      "tu": "aprendes",
+      "ud": "aprende",
+      "nosotros": "aprendemos",
+      "vosotros": "aprendéis",
+      "uds": "aprenden"
+    },
+    "futuro": {
+      "yo": "aprenderé",
+      "tu": "aprenderás",
+      "ud": "aprenderá",
+      "nosotros": "aprenderemos",
+      "vosotros": "aprenderéis",
+      "uds": "aprenderán"
+    },
+    "imperfecto": {
+      "yo": "aprendía",
+      "tu": "aprendías",
+      "ud": "aprendía",
+      "nosotros": "aprendíamos",
+      "vosotros": "aprendíais",
+      "uds": "aprendían"
+    },
+    "preterito": {
+      "yo": "aprendí",
+      "tu": "aprendiste",
+      "ud": "aprendió",
+      "nosotros": "aprendimos",
+      "vosotros": "aprendisteis",
+      "uds": "aprendieron"
+    },
+    "condicional": {
+      "yo": "aprendería",
+      "tu": "aprenderías",
+      "ud": "aprendería",
+      "nosotros": "aprenderíamos",
+      "vosotros": "aprenderíais",
+      "uds": "aprenderían"
+    },
+    "presentePerfecto": {
+      "yo": "he aprendido",
+      "tu": "has aprendido",
+      "ud": "ha aprendido",
+      "nosotros": "hemos aprendido",
+      "vosotros": "habéis aprendido",
+      "uds": "han aprendido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré aprendido",
+      "tu": "habrás aprendido",
+      "ud": "habrá aprendido",
+      "nosotros": "habremos aprendido",
+      "vosotros": "habréis aprendido",
+      "uds": "habrán aprendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había aprendido",
+      "tu": "habías aprendido",
+      "ud": "había aprendido",
+      "nosotros": "habíamos aprendido",
+      "vosotros": "habíais aprendido",
+      "uds": "habían aprendido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube aprendido",
+      "tu": "hubiste aprendido",
+      "ud": "hubo aprendido",
+      "nosotros": "hubimos aprendido",
+      "vosotros": "hubisteis aprendido",
+      "uds": "hubieron aprendido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría aprendido",
+      "tu": "habrías aprendido",
+      "ud": "habría aprendido",
+      "nosotros": "habríamos aprendido",
+      "vosotros": "habríais aprendido",
+      "uds": "habrían aprendido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aprenda",
+      "tu": "aprendas",
+      "ud": "aprenda",
+      "nosotros": "aprendamos",
+      "vosotros": "aprendáis",
+      "uds": "aprendan"
+    },
+    "imperfecto": {
+      "yo": "aprendiera",
+      "tu": "aprendieras",
+      "ud": "aprendiera",
+      "nosotros": "aprendiéramos",
+      "vosotros": "aprendierais",
+      "uds": "aprendieran"
+    },
+    "futuro": {
+      "yo": "aprendiere",
+      "tu": "aprendieres",
+      "ud": "aprendiere",
+      "nosotros": "aprendiéremos",
+      "vosotros": "aprendiereis",
+      "uds": "aprendieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya aprendido",
+      "tu": "hayas aprendido",
+      "ud": "haya aprendido",
+      "nosotros": "hayamos aprendido",
+      "vosotros": "hayáis aprendido",
+      "uds": "hayan aprendido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere aprendido",
+      "tu": "hubieres aprendido",
+      "ud": "hubiere aprendido",
+      "nosotros": "hubiéremos aprendido",
+      "vosotros": "hubiereis aprendido",
+      "uds": "hubieren aprendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera aprendido",
+      "tu": "hubieras aprendido",
+      "ud": "hubiera aprendido",
+      "nosotros": "hubiéramos aprendido",
+      "vosotros": "hubierais aprendido",
+      "uds": "hubieran aprendido"
+    },
+    "imperfectoAlt": {
+      "yo": "aprendiese",
+      "tu": "aprendieses",
+      "ud": "aprendiese",
+      "nosotros": "aprendiésemos",
+      "vosotros": "aprendieseis",
+      "uds": "aprendiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese aprendido",
+      "tu": "hubieses aprendido",
+      "ud": "hubiese aprendido",
+      "nosotros": "hubiésemos aprendido",
+      "vosotros": "hubieseis aprendido",
+      "uds": "hubiesen aprendido"
+    }
+  },
+  "afirmativo": {
+    "tu": "aprende",
+    "vosotros": "aprended",
+    "ud": "aprenda",
+    "uds": "aprendan"
+  },
+  "negativo": {
+    "tu": "no aprendas",
+    "vosotros": "no aprendáis",
+    "ud": "no aprenda",
+    "uds": "no aprendan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to learn",
+    "gerundio": "learning",
+    "participioPasado": "learned",
+    "indicativo": {
+      "presente": "I learn, am learning",
+      "futuro": "I will learn",
+      "imperfecto": "I was learning, used to learn, learned",
+      "preterito": "I learned",
+      "condicional": "I would learn",
+      "presentePerfecto": "I have learned",
+      "futuroPerfecto": "I will have learned",
+      "pluscuamperfecto": "I had learned",
+      "preteritoAnterior": "I had learned",
+      "condicionalPerfecto": "I would have learned"
+    },
+    "subjuntivo": {
+      "presente": "I learn, am learning",
+      "imperfecto": "I learned, was learning",
+      "futuro": "I will learn",
+      "presentePerfecto": "I have learned, learned",
+      "futuroPerfecto": "I will have learned",
+      "pluscuamperfecto": "I had learned"
+    },
+    "afirmativo": "Learn!",
+    "negativo": "Don't learn!"
+  },
+  "attribution": "Fred Jehle"
+}

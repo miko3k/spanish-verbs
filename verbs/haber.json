@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "haber",
+  "gerundio": "habiendo",
+  "participioPasado": "habido",
+  "indicativo": {
+    "presente": {
+      "yo": "",
+      "tu": "",
+      "ud": "hay",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "futuro": {
+      "yo": "",
+      "tu": "",
+      "ud": "habrá",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "imperfecto": {
+      "yo": "",
+      "tu": "",
+      "ud": "había",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "preterito": {
+      "yo": "",
+      "tu": "",
+      "ud": "hubo",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "condicional": {
+      "yo": "",
+      "tu": "",
+      "ud": "habría",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "presentePerfecto": {
+      "yo": "",
+      "tu": "",
+      "ud": "ha habido",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "futuroPerfecto": {
+      "yo": "",
+      "tu": "",
+      "ud": "habrá habido",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "pluscuamperfecto": {
+      "yo": "",
+      "tu": "",
+      "ud": "había habido",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "preteritoAnterior": {
+      "yo": "",
+      "tu": "",
+      "ud": "hubo habido",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "condicionalPerfecto": {
+      "yo": "",
+      "tu": "",
+      "ud": "habría habido",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "",
+      "tu": "",
+      "ud": "haya",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "imperfecto": {
+      "yo": "",
+      "tu": "",
+      "ud": "hubiera",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "futuro": {
+      "yo": "",
+      "tu": "",
+      "ud": "hubiere",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "presentePerfecto": {
+      "yo": "",
+      "tu": "",
+      "ud": "haya habido",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "futuroPerfecto": {
+      "yo": "",
+      "tu": "",
+      "ud": "hubiere habido",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "pluscuamperfecto": {
+      "yo": "",
+      "tu": "",
+      "ud": "hubiera habido",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "imperfectoAlt": {
+      "yo": "",
+      "tu": "",
+      "ud": "hubiese",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "",
+      "tu": "",
+      "ud": "hubiese habido",
+      "nosotros": "",
+      "vosotros": "",
+      "uds": ""
+    }
+  },
+  "afirmativo": {
+    "tu": "",
+    "ud": "haya",
+    "uds": "",
+    "vosotros": ""
+  },
+  "negativo": {
+    "tu": "",
+    "ud": "no haya",
+    "uds": "",
+    "vosotros": ""
+  },
+  "english": {
+    "note": "Irregular en el presente de indicativo (hay), el presente de subjuntivo (haya), el pretérito (hubo, radical fuerte) y el futuro/condicional (habrá/habría).",
+    "infinitivo": "there to be",
+    "gerundio": "there being",
+    "participioPasado": "(there) been",
+    "indicativo": {
+      "presente": "there is, are",
+      "futuro": "there will be",
+      "imperfecto": "there was, were, used to be",
+      "preterito": "there was, were",
+      "condicional": "there would be",
+      "presentePerfecto": "there has been, have been",
+      "futuroPerfecto": "there will have been",
+      "pluscuamperfecto": "there had been",
+      "preteritoAnterior": "there had been",
+      "condicionalPerfecto": "there would have been"
+    },
+    "subjuntivo": {
+      "presente": "there is, are, be; let there be, may there be",
+      "imperfecto": "there was, were",
+      "futuro": "there will be",
+      "presentePerfecto": "there have been, were",
+      "futuroPerfecto": "there will have been",
+      "pluscuamperfecto": "there had been"
+    },
+    "afirmativo": "let there be, may there be",
+    "negativo": ""
+  },
+  "attribution": "Fred Jehle"
+}

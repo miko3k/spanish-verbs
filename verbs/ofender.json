@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "ofender",
+  "gerundio": "ofendiendo",
+  "participioPasado": "ofendido",
+  "indicativo": {
+    "presente": {
+      "yo": "ofendo",
+      "tu": "ofendes",
+      "ud": "ofende",
+      "nosotros": "ofendemos",
+      "vosotros": "ofendéis",
+      "uds": "ofenden"
+    },
+    "futuro": {
+      "yo": "ofenderé",
+      "tu": "ofenderás",
+      "ud": "ofenderá",
+      "nosotros": "ofenderemos",
+      "vosotros": "ofenderéis",
+      "uds": "ofenderán"
+    },
+    "imperfecto": {
+      "yo": "ofendía",
+      "tu": "ofendías",
+      "ud": "ofendía",
+      "nosotros": "ofendíamos",
+      "vosotros": "ofendíais",
+      "uds": "ofendían"
+    },
+    "preterito": {
+      "yo": "ofendí",
+      "tu": "ofendiste",
+      "ud": "ofendió",
+      "nosotros": "ofendimos",
+      "vosotros": "ofendisteis",
+      "uds": "ofendieron"
+    },
+    "condicional": {
+      "yo": "ofendería",
+      "tu": "ofenderías",
+      "ud": "ofendería",
+      "nosotros": "ofenderíamos",
+      "vosotros": "ofenderíais",
+      "uds": "ofenderían"
+    },
+    "presentePerfecto": {
+      "yo": "he ofendido",
+      "tu": "has ofendido",
+      "ud": "ha ofendido",
+      "nosotros": "hemos ofendido",
+      "vosotros": "habéis ofendido",
+      "uds": "han ofendido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ofendido",
+      "tu": "habrás ofendido",
+      "ud": "habrá ofendido",
+      "nosotros": "habremos ofendido",
+      "vosotros": "habréis ofendido",
+      "uds": "habrán ofendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ofendido",
+      "tu": "habías ofendido",
+      "ud": "había ofendido",
+      "nosotros": "habíamos ofendido",
+      "vosotros": "habíais ofendido",
+      "uds": "habían ofendido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ofendido",
+      "tu": "hubiste ofendido",
+      "ud": "hubo ofendido",
+      "nosotros": "hubimos ofendido",
+      "vosotros": "hubisteis ofendido",
+      "uds": "hubieron ofendido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ofendido",
+      "tu": "habrías ofendido",
+      "ud": "habría ofendido",
+      "nosotros": "habríamos ofendido",
+      "vosotros": "habríais ofendido",
+      "uds": "habrían ofendido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ofenda",
+      "tu": "ofendas",
+      "ud": "ofenda",
+      "nosotros": "ofendamos",
+      "vosotros": "ofendáis",
+      "uds": "ofendan"
+    },
+    "imperfecto": {
+      "yo": "ofendiera",
+      "tu": "ofendieras",
+      "ud": "ofendiera",
+      "nosotros": "ofendiéramos",
+      "vosotros": "ofendierais",
+      "uds": "ofendieran"
+    },
+    "futuro": {
+      "yo": "ofendiere",
+      "tu": "ofendieres",
+      "ud": "ofendiere",
+      "nosotros": "ofendiéremos",
+      "vosotros": "ofendiereis",
+      "uds": "ofendieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ofendido",
+      "tu": "hayas ofendido",
+      "ud": "haya ofendido",
+      "nosotros": "hayamos ofendido",
+      "vosotros": "hayáis ofendido",
+      "uds": "hayan ofendido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ofendido",
+      "tu": "hubieres ofendido",
+      "ud": "hubiere ofendido",
+      "nosotros": "hubiéremos ofendido",
+      "vosotros": "hubiereis ofendido",
+      "uds": "hubieren ofendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ofendido",
+      "tu": "hubieras ofendido",
+      "ud": "hubiera ofendido",
+      "nosotros": "hubiéramos ofendido",
+      "vosotros": "hubierais ofendido",
+      "uds": "hubieran ofendido"
+    },
+    "imperfectoAlt": {
+      "yo": "ofendiese",
+      "tu": "ofendieses",
+      "ud": "ofendiese",
+      "nosotros": "ofendiésemos",
+      "vosotros": "ofendieseis",
+      "uds": "ofendiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ofendido",
+      "tu": "hubieses ofendido",
+      "ud": "hubiese ofendido",
+      "nosotros": "hubiésemos ofendido",
+      "vosotros": "hubieseis ofendido",
+      "uds": "hubiesen ofendido"
+    }
+  },
+  "afirmativo": {
+    "tu": "ofende",
+    "vosotros": "ofended",
+    "ud": "ofenda",
+    "uds": "ofendan"
+  },
+  "negativo": {
+    "tu": "no ofendas",
+    "vosotros": "no ofendáis",
+    "ud": "no ofenda",
+    "uds": "no ofendan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to offend",
+    "gerundio": "offending",
+    "participioPasado": "offended",
+    "indicativo": {
+      "presente": "I offend, am offending",
+      "futuro": "I will offend",
+      "imperfecto": "I was offending, used to offend, offended",
+      "preterito": "I offended",
+      "condicional": "I would offend",
+      "presentePerfecto": "I have offended",
+      "futuroPerfecto": "I will have offended",
+      "pluscuamperfecto": "I had offended",
+      "preteritoAnterior": "I had offended",
+      "condicionalPerfecto": "I would have offended"
+    },
+    "subjuntivo": {
+      "presente": "I offend, am offending",
+      "imperfecto": "I offended, was offending",
+      "futuro": "I will offend",
+      "presentePerfecto": "I have offended, offended",
+      "futuroPerfecto": "I will have offended",
+      "pluscuamperfecto": "I had offended"
+    },
+    "afirmativo": "Offend!",
+    "negativo": "Don't offend!"
+  },
+  "attribution": "Fred Jehle"
+}

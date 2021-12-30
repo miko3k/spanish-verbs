@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "sacrificar",
+  "gerundio": "sacrificando",
+  "participioPasado": "sacrificado",
+  "indicativo": {
+    "presente": {
+      "yo": "sacrifico",
+      "tu": "sacrificas",
+      "ud": "sacrifica",
+      "nosotros": "sacrificamos",
+      "vosotros": "sacrificáis",
+      "uds": "sacrifican"
+    },
+    "futuro": {
+      "yo": "sacrificaré",
+      "tu": "sacrificarás",
+      "ud": "sacrificará",
+      "nosotros": "sacrificaremos",
+      "vosotros": "sacrificaréis",
+      "uds": "sacrificarán"
+    },
+    "imperfecto": {
+      "yo": "sacrificaba",
+      "tu": "sacrificabas",
+      "ud": "sacrificaba",
+      "nosotros": "sacrificábamos",
+      "vosotros": "sacrificabais",
+      "uds": "sacrificaban"
+    },
+    "preterito": {
+      "yo": "sacrifiqué",
+      "tu": "sacrificaste",
+      "ud": "sacrificó",
+      "nosotros": "sacrificamos",
+      "vosotros": "sacrificasteis",
+      "uds": "sacrificaron"
+    },
+    "condicional": {
+      "yo": "sacrificaría",
+      "tu": "sacrificarías",
+      "ud": "sacrificaría",
+      "nosotros": "sacrificaríamos",
+      "vosotros": "sacrificaríais",
+      "uds": "sacrificarían"
+    },
+    "presentePerfecto": {
+      "yo": "he sacrificado",
+      "tu": "has sacrificado",
+      "ud": "ha sacrificado",
+      "nosotros": "hemos sacrificado",
+      "vosotros": "habéis sacrificado",
+      "uds": "han sacrificado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sacrificado",
+      "tu": "habrás sacrificado",
+      "ud": "habrá sacrificado",
+      "nosotros": "habremos sacrificado",
+      "vosotros": "habréis sacrificado",
+      "uds": "habrán sacrificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sacrificado",
+      "tu": "habías sacrificado",
+      "ud": "había sacrificado",
+      "nosotros": "habíamos sacrificado",
+      "vosotros": "habíais sacrificado",
+      "uds": "habían sacrificado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sacrificado",
+      "tu": "hubiste sacrificado",
+      "ud": "hubo sacrificado",
+      "nosotros": "hubimos sacrificado",
+      "vosotros": "hubisteis sacrificado",
+      "uds": "hubieron sacrificado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sacrificado",
+      "tu": "habrías sacrificado",
+      "ud": "habría sacrificado",
+      "nosotros": "habríamos sacrificado",
+      "vosotros": "habríais sacrificado",
+      "uds": "habrían sacrificado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sacrifique",
+      "tu": "sacrifiques",
+      "ud": "sacrifique",
+      "nosotros": "sacrifiquemos",
+      "vosotros": "sacrifiquéis",
+      "uds": "sacrifiquen"
+    },
+    "imperfecto": {
+      "yo": "sacrificara",
+      "tu": "sacrificaras",
+      "ud": "sacrificara",
+      "nosotros": "sacrificáramos",
+      "vosotros": "sacrificarais",
+      "uds": "sacrificaran"
+    },
+    "futuro": {
+      "yo": "sacrificare",
+      "tu": "sacrificares",
+      "ud": "sacrificare",
+      "nosotros": "sacrificáremos",
+      "vosotros": "sacrificareis",
+      "uds": "sacrificaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sacrificado",
+      "tu": "hayas sacrificado",
+      "ud": "haya sacrificado",
+      "nosotros": "hayamos sacrificado",
+      "vosotros": "hayáis sacrificado",
+      "uds": "hayan sacrificado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sacrificado",
+      "tu": "hubieres sacrificado",
+      "ud": "hubiere sacrificado",
+      "nosotros": "hubiéremos sacrificado",
+      "vosotros": "hubiereis sacrificado",
+      "uds": "hubieren sacrificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sacrificado",
+      "tu": "hubieras sacrificado",
+      "ud": "hubiera sacrificado",
+      "nosotros": "hubiéramos sacrificado",
+      "vosotros": "hubierais sacrificado",
+      "uds": "hubieran sacrificado"
+    },
+    "imperfectoAlt": {
+      "yo": "sacrificase",
+      "tu": "sacrificases",
+      "ud": "sacrificase",
+      "nosotros": "sacrificásemos",
+      "vosotros": "sacrificaseis",
+      "uds": "sacrificasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sacrificado",
+      "tu": "hubieses sacrificado",
+      "ud": "hubiese sacrificado",
+      "nosotros": "hubiésemos sacrificado",
+      "vosotros": "hubieseis sacrificado",
+      "uds": "hubiesen sacrificado"
+    }
+  },
+  "afirmativo": {
+    "tu": "sacrifica",
+    "vosotros": "sacrificad",
+    "ud": "sacrifique",
+    "uds": "sacrifiquen"
+  },
+  "negativo": {
+    "tu": "no sacrifiques",
+    "vosotros": "no sacrifiquéis",
+    "ud": "no sacrifique",
+    "uds": "no sacrifiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to sacrifice",
+    "gerundio": "sacrificing",
+    "participioPasado": "sacrificed",
+    "indicativo": {
+      "presente": "I sacrifice, am sacrificing",
+      "futuro": "I will sacrifice",
+      "imperfecto": "I was sacrificing, used to sacrifice, sacrificed",
+      "preterito": "I sacrificed",
+      "condicional": "I would sacrifice",
+      "presentePerfecto": "I have sacrificed",
+      "futuroPerfecto": "I will have sacrificed",
+      "pluscuamperfecto": "I had sacrificed",
+      "preteritoAnterior": "I had sacrificed",
+      "condicionalPerfecto": "I would have sacrificed"
+    },
+    "subjuntivo": {
+      "presente": "I sacrifice, am sacrificing",
+      "imperfecto": "I sacrificed, was sacrificing",
+      "futuro": "I will sacrifice",
+      "presentePerfecto": "I have sacrificed, sacrificed",
+      "futuroPerfecto": "I will have sacrificed",
+      "pluscuamperfecto": "I had sacrificed"
+    },
+    "afirmativo": "Sacrifice!",
+    "negativo": "Don't sacrifice!"
+  },
+  "attribution": "Fred Jehle"
+}

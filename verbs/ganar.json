@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "ganar",
+  "gerundio": "ganando",
+  "participioPasado": "ganado",
+  "indicativo": {
+    "presente": {
+      "yo": "gano",
+      "tu": "ganas",
+      "ud": "gana",
+      "nosotros": "ganamos",
+      "vosotros": "ganáis",
+      "uds": "ganan"
+    },
+    "futuro": {
+      "yo": "ganaré",
+      "tu": "ganarás",
+      "ud": "ganará",
+      "nosotros": "ganaremos",
+      "vosotros": "ganaréis",
+      "uds": "ganarán"
+    },
+    "imperfecto": {
+      "yo": "ganaba",
+      "tu": "ganabas",
+      "ud": "ganaba",
+      "nosotros": "ganábamos",
+      "vosotros": "ganabais",
+      "uds": "ganaban"
+    },
+    "preterito": {
+      "yo": "gané",
+      "tu": "ganaste",
+      "ud": "ganó",
+      "nosotros": "ganamos",
+      "vosotros": "ganasteis",
+      "uds": "ganaron"
+    },
+    "condicional": {
+      "yo": "ganaría",
+      "tu": "ganarías",
+      "ud": "ganaría",
+      "nosotros": "ganaríamos",
+      "vosotros": "ganaríais",
+      "uds": "ganarían"
+    },
+    "presentePerfecto": {
+      "yo": "he ganado",
+      "tu": "has ganado",
+      "ud": "ha ganado",
+      "nosotros": "hemos ganado",
+      "vosotros": "habéis ganado",
+      "uds": "han ganado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ganado",
+      "tu": "habrás ganado",
+      "ud": "habrá ganado",
+      "nosotros": "habremos ganado",
+      "vosotros": "habréis ganado",
+      "uds": "habrán ganado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ganado",
+      "tu": "habías ganado",
+      "ud": "había ganado",
+      "nosotros": "habíamos ganado",
+      "vosotros": "habíais ganado",
+      "uds": "habían ganado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ganado",
+      "tu": "hubiste ganado",
+      "ud": "hubo ganado",
+      "nosotros": "hubimos ganado",
+      "vosotros": "hubisteis ganado",
+      "uds": "hubieron ganado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ganado",
+      "tu": "habrías ganado",
+      "ud": "habría ganado",
+      "nosotros": "habríamos ganado",
+      "vosotros": "habríais ganado",
+      "uds": "habrían ganado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "gane",
+      "tu": "ganes",
+      "ud": "gane",
+      "nosotros": "ganemos",
+      "vosotros": "ganéis",
+      "uds": "ganen"
+    },
+    "imperfecto": {
+      "yo": "ganara",
+      "tu": "ganaras",
+      "ud": "ganara",
+      "nosotros": "ganáramos",
+      "vosotros": "ganarais",
+      "uds": "ganaran"
+    },
+    "futuro": {
+      "yo": "ganare",
+      "tu": "ganares",
+      "ud": "ganare",
+      "nosotros": "ganáremos",
+      "vosotros": "ganareis",
+      "uds": "ganaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ganado",
+      "tu": "hayas ganado",
+      "ud": "haya ganado",
+      "nosotros": "hayamos ganado",
+      "vosotros": "hayáis ganado",
+      "uds": "hayan ganado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ganado",
+      "tu": "hubieres ganado",
+      "ud": "hubiere ganado",
+      "nosotros": "hubiéremos ganado",
+      "vosotros": "hubiereis ganado",
+      "uds": "hubieren ganado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ganado",
+      "tu": "hubieras ganado",
+      "ud": "hubiera ganado",
+      "nosotros": "hubiéramos ganado",
+      "vosotros": "hubierais ganado",
+      "uds": "hubieran ganado"
+    },
+    "imperfectoAlt": {
+      "yo": "ganase",
+      "tu": "ganases",
+      "ud": "ganase",
+      "nosotros": "ganásemos",
+      "vosotros": "ganaseis",
+      "uds": "ganasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ganado",
+      "tu": "hubieses ganado",
+      "ud": "hubiese ganado",
+      "nosotros": "hubiésemos ganado",
+      "vosotros": "hubieseis ganado",
+      "uds": "hubiesen ganado"
+    }
+  },
+  "afirmativo": {
+    "tu": "gana",
+    "vosotros": "ganad",
+    "ud": "gane",
+    "uds": "ganen"
+  },
+  "negativo": {
+    "tu": "no ganes",
+    "vosotros": "no ganéis",
+    "ud": "no gane",
+    "uds": "no ganen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to win, gain, earn, get, acquire",
+    "gerundio": "winning",
+    "participioPasado": "won",
+    "indicativo": {
+      "presente": "I win, am winning",
+      "futuro": "I will win",
+      "imperfecto": "I was winning, used to win, won",
+      "preterito": "I won",
+      "condicional": "I would win",
+      "presentePerfecto": "I have won",
+      "futuroPerfecto": "I will have won",
+      "pluscuamperfecto": "I had won",
+      "preteritoAnterior": "I had won",
+      "condicionalPerfecto": "I would have won"
+    },
+    "subjuntivo": {
+      "presente": "I win, am winning",
+      "imperfecto": "I won, was winning",
+      "futuro": "I will win",
+      "presentePerfecto": "I have won, won",
+      "futuroPerfecto": "I will have won",
+      "pluscuamperfecto": "I had won"
+    },
+    "afirmativo": "Win!",
+    "negativo": "Don't win!"
+  },
+  "attribution": "Fred Jehle"
+}

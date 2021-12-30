@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "reñir",
+  "gerundio": "riñendo",
+  "participioPasado": "reñido",
+  "indicativo": {
+    "presente": {
+      "yo": "riño",
+      "tu": "riñes",
+      "ud": "riñe",
+      "nosotros": "reñimos",
+      "vosotros": "reñís",
+      "uds": "riñen"
+    },
+    "futuro": {
+      "yo": "reñiré",
+      "tu": "reñirás",
+      "ud": "reñirá",
+      "nosotros": "reñiremos",
+      "vosotros": "reñiréis",
+      "uds": "reñirán"
+    },
+    "imperfecto": {
+      "yo": "reñía",
+      "tu": "reñías",
+      "ud": "reñía",
+      "nosotros": "reñíamos",
+      "vosotros": "reñíais",
+      "uds": "reñían"
+    },
+    "preterito": {
+      "yo": "reñí",
+      "tu": "reñiste",
+      "ud": "riñó",
+      "nosotros": "reñimos",
+      "vosotros": "reñisteis",
+      "uds": "riñeron"
+    },
+    "condicional": {
+      "yo": "reñiría",
+      "tu": "reñirías",
+      "ud": "reñiría",
+      "nosotros": "reñiríamos",
+      "vosotros": "reñiríais",
+      "uds": "reñirían"
+    },
+    "presentePerfecto": {
+      "yo": "he reñido",
+      "tu": "has reñido",
+      "ud": "ha reñido",
+      "nosotros": "hemos reñido",
+      "vosotros": "habéis reñido",
+      "uds": "han reñido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré reñido",
+      "tu": "habrás reñido",
+      "ud": "habrá reñido",
+      "nosotros": "habremos reñido",
+      "vosotros": "habréis reñido",
+      "uds": "habrán reñido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había reñido",
+      "tu": "habías reñido",
+      "ud": "había reñido",
+      "nosotros": "habíamos reñido",
+      "vosotros": "habíais reñido",
+      "uds": "habían reñido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube reñido",
+      "tu": "hubiste reñido",
+      "ud": "hubo reñido",
+      "nosotros": "hubimos reñido",
+      "vosotros": "hubisteis reñido",
+      "uds": "hubieron reñido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría reñido",
+      "tu": "habrías reñido",
+      "ud": "habría reñido",
+      "nosotros": "habríamos reñido",
+      "vosotros": "habríais reñido",
+      "uds": "habrían reñido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "riña",
+      "tu": "riñas",
+      "ud": "riña",
+      "nosotros": "riñamos",
+      "vosotros": "riñáis",
+      "uds": "riñan"
+    },
+    "imperfecto": {
+      "yo": "riñera",
+      "tu": "riñeras",
+      "ud": "riñera",
+      "nosotros": "riñéramos",
+      "vosotros": "riñerais",
+      "uds": "riñeran"
+    },
+    "futuro": {
+      "yo": "riñere",
+      "tu": "riñeres",
+      "ud": "riñere",
+      "nosotros": "riñéremos",
+      "vosotros": "riñereis",
+      "uds": "riñeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya reñido",
+      "tu": "hayas reñido",
+      "ud": "haya reñido",
+      "nosotros": "hayamos reñido",
+      "vosotros": "hayáis reñido",
+      "uds": "hayan reñido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere reñido",
+      "tu": "hubieres reñido",
+      "ud": "hubiere reñido",
+      "nosotros": "hubiéremos reñido",
+      "vosotros": "hubiereis reñido",
+      "uds": "hubieren reñido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera reñido",
+      "tu": "hubieras reñido",
+      "ud": "hubiera reñido",
+      "nosotros": "hubiéramos reñido",
+      "vosotros": "hubierais reñido",
+      "uds": "hubieran reñido"
+    },
+    "imperfectoAlt": {
+      "yo": "riñese",
+      "tu": "riñeses",
+      "ud": "riñese",
+      "nosotros": "riñésemos",
+      "vosotros": "riñeseis",
+      "uds": "riñesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese reñido",
+      "tu": "hubieses reñido",
+      "ud": "hubiese reñido",
+      "nosotros": "hubiésemos reñido",
+      "vosotros": "hubieseis reñido",
+      "uds": "hubiesen reñido"
+    }
+  },
+  "afirmativo": {
+    "tu": "riñe",
+    "vosotros": "reñid",
+    "ud": "riña",
+    "uds": "riñan"
+  },
+  "negativo": {
+    "tu": "no riñas",
+    "vosotros": "no riñáis",
+    "ud": "no riña",
+    "uds": "no riñan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. La i (cuando no se acentúa) detrás de ñ desaparece delante de otra vocal, por ejemplo: riñó, riñeron, riñendo.",
+    "infinitivo": "to quarrel, fight; to scold, tell off, reprimand",
+    "gerundio": "quarreling",
+    "participioPasado": "quarreled",
+    "indicativo": {
+      "presente": "I quarrel, am quarreling",
+      "futuro": "I will quarrel",
+      "imperfecto": "I was quarreling, used to quarrel, quarreled",
+      "preterito": "I quarreled",
+      "condicional": "I would quarrel",
+      "presentePerfecto": "I have quarreled",
+      "futuroPerfecto": "I will have quarreled",
+      "pluscuamperfecto": "I had quarreled",
+      "preteritoAnterior": "I had quarreled",
+      "condicionalPerfecto": "I would have quarreled"
+    },
+    "subjuntivo": {
+      "presente": "I quarrel, am quarreling",
+      "imperfecto": "I quarreled, was quarreling",
+      "futuro": "I will quarrel",
+      "presentePerfecto": "I have quarreled, quarreled",
+      "futuroPerfecto": "I will have quarreled",
+      "pluscuamperfecto": "I had quarreled"
+    },
+    "afirmativo": "Quarrel!",
+    "negativo": "Don't quarrel!"
+  },
+  "attribution": "Fred Jehle"
+}

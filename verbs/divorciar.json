@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "divorciar",
+  "gerundio": "divorciando",
+  "participioPasado": "divorciado",
+  "indicativo": {
+    "presente": {
+      "yo": "divorcio",
+      "tu": "divorcias",
+      "ud": "divorcia",
+      "nosotros": "divorciamos",
+      "vosotros": "divorciáis",
+      "uds": "divorcian"
+    },
+    "futuro": {
+      "yo": "divorciaré",
+      "tu": "divorciarás",
+      "ud": "divorciará",
+      "nosotros": "divorciaremos",
+      "vosotros": "divorciaréis",
+      "uds": "divorciarán"
+    },
+    "imperfecto": {
+      "yo": "divorciaba",
+      "tu": "divorciabas",
+      "ud": "divorciaba",
+      "nosotros": "divorciábamos",
+      "vosotros": "divorciabais",
+      "uds": "divorciaban"
+    },
+    "preterito": {
+      "yo": "divorcié",
+      "tu": "divorciaste",
+      "ud": "divorció",
+      "nosotros": "divorciamos",
+      "vosotros": "divorciasteis",
+      "uds": "divorciaron"
+    },
+    "condicional": {
+      "yo": "divorciaría",
+      "tu": "divorciarías",
+      "ud": "divorciaría",
+      "nosotros": "divorciaríamos",
+      "vosotros": "divorciaríais",
+      "uds": "divorciarían"
+    },
+    "presentePerfecto": {
+      "yo": "he divorciado",
+      "tu": "has divorciado",
+      "ud": "ha divorciado",
+      "nosotros": "hemos divorciado",
+      "vosotros": "habéis divorciado",
+      "uds": "han divorciado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré divorciado",
+      "tu": "habrás divorciado",
+      "ud": "habrá divorciado",
+      "nosotros": "habremos divorciado",
+      "vosotros": "habréis divorciado",
+      "uds": "habrán divorciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había divorciado",
+      "tu": "habías divorciado",
+      "ud": "había divorciado",
+      "nosotros": "habíamos divorciado",
+      "vosotros": "habíais divorciado",
+      "uds": "habían divorciado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube divorciado",
+      "tu": "hubiste divorciado",
+      "ud": "hubo divorciado",
+      "nosotros": "hubimos divorciado",
+      "vosotros": "hubisteis divorciado",
+      "uds": "hubieron divorciado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría divorciado",
+      "tu": "habrías divorciado",
+      "ud": "habría divorciado",
+      "nosotros": "habríamos divorciado",
+      "vosotros": "habríais divorciado",
+      "uds": "habrían divorciado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "divorcie",
+      "tu": "divorcies",
+      "ud": "divorcie",
+      "nosotros": "divorciemos",
+      "vosotros": "divorciéis",
+      "uds": "divorcien"
+    },
+    "imperfecto": {
+      "yo": "divorciara",
+      "tu": "divorciaras",
+      "ud": "divorciara",
+      "nosotros": "divorciáramos",
+      "vosotros": "divorciarais",
+      "uds": "divorciaran"
+    },
+    "futuro": {
+      "yo": "divorciare",
+      "tu": "divorciares",
+      "ud": "divorciare",
+      "nosotros": "divorciáremos",
+      "vosotros": "divorciareis",
+      "uds": "divorciaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya divorciado",
+      "tu": "hayas divorciado",
+      "ud": "haya divorciado",
+      "nosotros": "hayamos divorciado",
+      "vosotros": "hayáis divorciado",
+      "uds": "hayan divorciado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere divorciado",
+      "tu": "hubieres divorciado",
+      "ud": "hubiere divorciado",
+      "nosotros": "hubiéremos divorciado",
+      "vosotros": "hubiereis divorciado",
+      "uds": "hubieren divorciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera divorciado",
+      "tu": "hubieras divorciado",
+      "ud": "hubiera divorciado",
+      "nosotros": "hubiéramos divorciado",
+      "vosotros": "hubierais divorciado",
+      "uds": "hubieran divorciado"
+    },
+    "imperfectoAlt": {
+      "yo": "divorciase",
+      "tu": "divorciases",
+      "ud": "divorciase",
+      "nosotros": "divorciásemos",
+      "vosotros": "divorciaseis",
+      "uds": "divorciasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese divorciado",
+      "tu": "hubieses divorciado",
+      "ud": "hubiese divorciado",
+      "nosotros": "hubiésemos divorciado",
+      "vosotros": "hubieseis divorciado",
+      "uds": "hubiesen divorciado"
+    }
+  },
+  "afirmativo": {
+    "tu": "divorcia",
+    "vosotros": "divorciad",
+    "ud": "divorcie",
+    "uds": "divorcien"
+  },
+  "negativo": {
+    "tu": "no divorcies",
+    "vosotros": "no divorciéis",
+    "ud": "no divorcie",
+    "uds": "no divorcien"
+  },
+  "english": {
+    "note": "For to get divorced use the refexive form, divorciarse.",
+    "infinitivo": "to divorce",
+    "gerundio": "divorcing",
+    "participioPasado": "divorced",
+    "indicativo": {
+      "presente": "I divorce, am divorcing",
+      "futuro": "I will divorce",
+      "imperfecto": "I was divorcing, used to divorce, divorced",
+      "preterito": "I divorced",
+      "condicional": "I would divorce",
+      "presentePerfecto": "I have divorced",
+      "futuroPerfecto": "I will have divorced",
+      "pluscuamperfecto": "I had divorced",
+      "preteritoAnterior": "I had divorced",
+      "condicionalPerfecto": "I would have divorced"
+    },
+    "subjuntivo": {
+      "presente": "I divorce, am divorcing",
+      "imperfecto": "I divorced, was divorcing",
+      "futuro": "I will divorce",
+      "presentePerfecto": "I have divorced, divorced",
+      "futuroPerfecto": "I will have divorced",
+      "pluscuamperfecto": "I had divorced"
+    },
+    "afirmativo": "Divorce!",
+    "negativo": "Don't divorce!"
+  },
+  "attribution": "Fred Jehle"
+}

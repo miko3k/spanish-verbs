@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "enriquecerse",
+  "gerundio": "enriqueciéndose",
+  "participioPasado": "enriquecido",
+  "indicativo": {
+    "presente": {
+      "yo": "me enriquezco",
+      "tu": "te enriqueces",
+      "ud": "se enriquece",
+      "nosotros": "nos enriquecemos",
+      "vosotros": "os enriquecéis",
+      "uds": "se enriquecen"
+    },
+    "futuro": {
+      "yo": "me enriqueceré",
+      "tu": "te enriquecerás",
+      "ud": "se enriquecerá",
+      "nosotros": "nos enriqueceremos",
+      "vosotros": "os enriqueceréis",
+      "uds": "se enriquecerán"
+    },
+    "imperfecto": {
+      "yo": "me enriquecía",
+      "tu": "te enriquecías",
+      "ud": "se enriquecía",
+      "nosotros": "nos enriquecíamos",
+      "vosotros": "os enriquecíais",
+      "uds": "se enriquecían"
+    },
+    "preterito": {
+      "yo": "me enriquecí",
+      "tu": "te enriqueciste",
+      "ud": "se enriqueció",
+      "nosotros": "nos enriquecimos",
+      "vosotros": "os enriquecisteis",
+      "uds": "se enriquecieron"
+    },
+    "condicional": {
+      "yo": "me enriquecería",
+      "tu": "te enriquecerías",
+      "ud": "se enriquecería",
+      "nosotros": "nos enriqueceríamos",
+      "vosotros": "os enriqueceríais",
+      "uds": "se enriquecerían"
+    },
+    "presentePerfecto": {
+      "yo": "me he enriquecido",
+      "tu": "te has enriquecido",
+      "ud": "se ha enriquecido",
+      "nosotros": "nos hemos enriquecido",
+      "vosotros": "os habéis enriquecido",
+      "uds": "se han enriquecido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré enriquecido",
+      "tu": "te habrás enriquecido",
+      "ud": "se habrá enriquecido",
+      "nosotros": "nos habremos enriquecido",
+      "vosotros": "os habréis enriquecido",
+      "uds": "se habrán enriquecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había enriquecido",
+      "tu": "te habías enriquecido",
+      "ud": "se había enriquecido",
+      "nosotros": "nos habíamos enriquecido",
+      "vosotros": "os habíais enriquecido",
+      "uds": "se habían enriquecido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube enriquecido",
+      "tu": "te hubiste enriquecido",
+      "ud": "se hubo enriquecido",
+      "nosotros": "nos hubimos enriquecido",
+      "vosotros": "os hubisteis enriquecido",
+      "uds": "se hubieron enriquecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría enriquecido",
+      "tu": "te habrías enriquecido",
+      "ud": "se habría enriquecido",
+      "nosotros": "nos habríamos enriquecido",
+      "vosotros": "os habríais enriquecido",
+      "uds": "se habrían enriquecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me enriquezca",
+      "tu": "te enriquezcas",
+      "ud": "se enriquezca",
+      "nosotros": "nos enriquezcamos",
+      "vosotros": "os enriquezcáis",
+      "uds": "se enriquezcan"
+    },
+    "imperfecto": {
+      "yo": "me enriqueciera",
+      "tu": "te enriquecieras",
+      "ud": "se enriqueciera",
+      "nosotros": "nos enriqueciéramos",
+      "vosotros": "os enriquecierais",
+      "uds": "se enriquecieran"
+    },
+    "futuro": {
+      "yo": "me enriqueciere",
+      "tu": "te enriquecieres",
+      "ud": "se enriqueciere",
+      "nosotros": "nos enriqueciéremos",
+      "vosotros": "os enriqueciereis",
+      "uds": "se enriquecieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya enriquecido",
+      "tu": "te hayas enriquecido",
+      "ud": "se haya enriquecido",
+      "nosotros": "nos hayamos enriquecido",
+      "vosotros": "os hayáis enriquecido",
+      "uds": "se hayan enriquecido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere enriquecido",
+      "tu": "te hubieres enriquecido",
+      "ud": "se hubiere enriquecido",
+      "nosotros": "nos hubiéremos enriquecido",
+      "vosotros": "os hubiereis enriquecido",
+      "uds": "se hubieren enriquecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera enriquecido",
+      "tu": "te hubieras enriquecido",
+      "ud": "se hubiera enriquecido",
+      "nosotros": "nos hubiéramos enriquecido",
+      "vosotros": "os hubierais enriquecido",
+      "uds": "se hubieran enriquecido"
+    },
+    "imperfectoAlt": {
+      "yo": "me enriqueciese",
+      "tu": "te enriquecieses",
+      "ud": "se enriqueciese",
+      "nosotros": "nos enriqueciésemos",
+      "vosotros": "os enriquecieseis",
+      "uds": "se enriqueciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese enriquecido",
+      "tu": "te hubieses enriquecido",
+      "ud": "se hubiese enriquecido",
+      "nosotros": "nos hubiésemos enriquecido",
+      "vosotros": "os hubieseis enriquecido",
+      "uds": "se hubiesen enriquecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "enriquécete",
+    "vosotros": "enriqueceos",
+    "ud": "enriquézcase",
+    "uds": "enriquézcanse"
+  },
+  "negativo": {
+    "tu": "no te enriquezcas",
+    "vosotros": "no os enriquezcáis",
+    "ud": "no se enriquezca",
+    "uds": "no se enriquezcan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i. Note: Use the nonreflexive form of this verb, enriquecer, for to make (someone) rich.",
+    "infinitivo": "to get rich",
+    "gerundio": "getting rich",
+    "participioPasado": "rich, gotten rich",
+    "indicativo": {
+      "presente": "I get rich, am getting rich",
+      "futuro": "I will get rich",
+      "imperfecto": "I was getting rich, used to get rich, got rich",
+      "preterito": "I got rich",
+      "condicional": "I would get rich",
+      "presentePerfecto": "I have gotten rich",
+      "futuroPerfecto": "I will have gotten rich",
+      "pluscuamperfecto": "I had gotten rich",
+      "preteritoAnterior": "I had gotten rich",
+      "condicionalPerfecto": "I would have gotten rich"
+    },
+    "subjuntivo": {
+      "presente": "I get rich, am getting rich",
+      "imperfecto": "I got rich, was getting rich",
+      "futuro": "I will get rich",
+      "presentePerfecto": "I have gotten rich, gotten rich",
+      "futuroPerfecto": "I will have gotten rich",
+      "pluscuamperfecto": "I had gotten rich"
+    },
+    "afirmativo": "Get rich!",
+    "negativo": "Don't get rich!"
+  },
+  "attribution": "Fred Jehle"
+}

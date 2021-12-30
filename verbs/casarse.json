@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "casarse (con alguien)",
+  "gerundio": "casándose",
+  "participioPasado": "casado",
+  "indicativo": {
+    "presente": {
+      "yo": "me caso",
+      "tu": "te casas",
+      "ud": "se casa",
+      "nosotros": "nos casamos",
+      "vosotros": "os casáis",
+      "uds": "se casan"
+    },
+    "futuro": {
+      "yo": "me casaré",
+      "tu": "te casarás",
+      "ud": "se casará",
+      "nosotros": "nos casaremos",
+      "vosotros": "os casaréis",
+      "uds": "se casarán"
+    },
+    "imperfecto": {
+      "yo": "me casaba",
+      "tu": "te casabas",
+      "ud": "se casaba",
+      "nosotros": "nos casábamos",
+      "vosotros": "os casabais",
+      "uds": "se casaban"
+    },
+    "preterito": {
+      "yo": "me casé",
+      "tu": "te casaste",
+      "ud": "se casó",
+      "nosotros": "nos casamos",
+      "vosotros": "os casasteis",
+      "uds": "se casaron"
+    },
+    "condicional": {
+      "yo": "me casaría",
+      "tu": "te casarías",
+      "ud": "se casaría",
+      "nosotros": "nos casaríamos",
+      "vosotros": "os casaríais",
+      "uds": "se casarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he casado",
+      "tu": "te has casado",
+      "ud": "se ha casado",
+      "nosotros": "nos hemos casado",
+      "vosotros": "os habéis casado",
+      "uds": "se han casado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré casado",
+      "tu": "te habrás casado",
+      "ud": "se habrá casado",
+      "nosotros": "nos habremos casado",
+      "vosotros": "os habréis casado",
+      "uds": "se habrán casado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había casado",
+      "tu": "te habías casado",
+      "ud": "se había casado",
+      "nosotros": "nos habíamos casado",
+      "vosotros": "os habíais casado",
+      "uds": "se habían casado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube casado",
+      "tu": "te hubiste casado",
+      "ud": "se hubo casado",
+      "nosotros": "nos hubimos casado",
+      "vosotros": "os hubisteis casado",
+      "uds": "se hubieron casado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría casado",
+      "tu": "te habrías casado",
+      "ud": "se habría casado",
+      "nosotros": "nos habríamos casado",
+      "vosotros": "os habríais casado",
+      "uds": "se habrían casado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me case",
+      "tu": "te cases",
+      "ud": "se case",
+      "nosotros": "nos casemos",
+      "vosotros": "os caséis",
+      "uds": "se casen"
+    },
+    "imperfecto": {
+      "yo": "me casara",
+      "tu": "te casaras",
+      "ud": "se casara",
+      "nosotros": "nos casáramos",
+      "vosotros": "os casarais",
+      "uds": "se casaran"
+    },
+    "futuro": {
+      "yo": "me casare",
+      "tu": "te casares",
+      "ud": "se casare",
+      "nosotros": "nos casáremos",
+      "vosotros": "os casareis",
+      "uds": "se casaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya casado",
+      "tu": "te hayas casado",
+      "ud": "se haya casado",
+      "nosotros": "nos hayamos casado",
+      "vosotros": "os hayáis casado",
+      "uds": "se hayan casado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere casado",
+      "tu": "te hubieres casado",
+      "ud": "se hubiere casado",
+      "nosotros": "nos hubiéremos casado",
+      "vosotros": "os hubiereis casado",
+      "uds": "se hubieren casado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera casado",
+      "tu": "te hubieras casado",
+      "ud": "se hubiera casado",
+      "nosotros": "nos hubiéramos casado",
+      "vosotros": "os hubierais casado",
+      "uds": "se hubieran casado"
+    },
+    "imperfectoAlt": {
+      "yo": "me casase",
+      "tu": "te casases",
+      "ud": "se casase",
+      "nosotros": "nos casásemos",
+      "vosotros": "os casaseis",
+      "uds": "se casasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese casado",
+      "tu": "te hubieses casado",
+      "ud": "se hubiese casado",
+      "nosotros": "nos hubiésemos casado",
+      "vosotros": "os hubieseis casado",
+      "uds": "se hubiesen casado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cásate",
+    "vosotros": "casaos",
+    "ud": "cásese",
+    "uds": "cásense"
+  },
+  "negativo": {
+    "tu": "no te cases",
+    "vosotros": "no os caséis",
+    "ud": "no se case",
+    "uds": "no se casen"
+  },
+  "english": {
+    "note": "For to marry in the sense of to join in marriage, use the nonreflexive form casar.",
+    "infinitivo": "to marry (someone), get married (to someone)",
+    "gerundio": "marrying",
+    "participioPasado": "married",
+    "indicativo": {
+      "presente": "I marry, am marrying",
+      "futuro": "I will marry",
+      "imperfecto": "I was marrying, used to marry, married",
+      "preterito": "I married",
+      "condicional": "I would marry",
+      "presentePerfecto": "I have married",
+      "futuroPerfecto": "I will have married",
+      "pluscuamperfecto": "I had married",
+      "preteritoAnterior": "I had married",
+      "condicionalPerfecto": "I would have married"
+    },
+    "subjuntivo": {
+      "presente": "I marry, am marrying",
+      "imperfecto": "I married, was marrying",
+      "futuro": "I will marry",
+      "presentePerfecto": "I have married, married",
+      "futuroPerfecto": "I will have married",
+      "pluscuamperfecto": "I had married"
+    },
+    "afirmativo": "Marry!",
+    "negativo": "Don't marry!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "exportar",
+  "gerundio": "exportando",
+  "participioPasado": "exportado",
+  "indicativo": {
+    "presente": {
+      "yo": "exporto",
+      "tu": "exportas",
+      "ud": "exporta",
+      "nosotros": "exportamos",
+      "vosotros": "exportáis",
+      "uds": "exportan"
+    },
+    "futuro": {
+      "yo": "exportaré",
+      "tu": "exportarás",
+      "ud": "exportará",
+      "nosotros": "exportaremos",
+      "vosotros": "exportaréis",
+      "uds": "exportarán"
+    },
+    "imperfecto": {
+      "yo": "exportaba",
+      "tu": "exportabas",
+      "ud": "exportaba",
+      "nosotros": "exportábamos",
+      "vosotros": "exportabais",
+      "uds": "exportaban"
+    },
+    "preterito": {
+      "yo": "exporté",
+      "tu": "exportaste",
+      "ud": "exportó",
+      "nosotros": "exportamos",
+      "vosotros": "exportasteis",
+      "uds": "exportaron"
+    },
+    "condicional": {
+      "yo": "exportaría",
+      "tu": "exportarías",
+      "ud": "exportaría",
+      "nosotros": "exportaríamos",
+      "vosotros": "exportaríais",
+      "uds": "exportarían"
+    },
+    "presentePerfecto": {
+      "yo": "he exportado",
+      "tu": "has exportado",
+      "ud": "ha exportado",
+      "nosotros": "hemos exportado",
+      "vosotros": "habéis exportado",
+      "uds": "han exportado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré exportado",
+      "tu": "habrás exportado",
+      "ud": "habrá exportado",
+      "nosotros": "habremos exportado",
+      "vosotros": "habréis exportado",
+      "uds": "habrán exportado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había exportado",
+      "tu": "habías exportado",
+      "ud": "había exportado",
+      "nosotros": "habíamos exportado",
+      "vosotros": "habíais exportado",
+      "uds": "habían exportado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube exportado",
+      "tu": "hubiste exportado",
+      "ud": "hubo exportado",
+      "nosotros": "hubimos exportado",
+      "vosotros": "hubisteis exportado",
+      "uds": "hubieron exportado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría exportado",
+      "tu": "habrías exportado",
+      "ud": "habría exportado",
+      "nosotros": "habríamos exportado",
+      "vosotros": "habríais exportado",
+      "uds": "habrían exportado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "exporte",
+      "tu": "exportes",
+      "ud": "exporte",
+      "nosotros": "exportemos",
+      "vosotros": "exportéis",
+      "uds": "exporten"
+    },
+    "imperfecto": {
+      "yo": "exportara",
+      "tu": "exportaras",
+      "ud": "exportara",
+      "nosotros": "exportáramos",
+      "vosotros": "exportarais",
+      "uds": "exportaran"
+    },
+    "futuro": {
+      "yo": "exportare",
+      "tu": "exportares",
+      "ud": "exportare",
+      "nosotros": "exportáremos",
+      "vosotros": "exportareis",
+      "uds": "exportaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya exportado",
+      "tu": "hayas exportado",
+      "ud": "haya exportado",
+      "nosotros": "hayamos exportado",
+      "vosotros": "hayáis exportado",
+      "uds": "hayan exportado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere exportado",
+      "tu": "hubieres exportado",
+      "ud": "hubiere exportado",
+      "nosotros": "hubiéremos exportado",
+      "vosotros": "hubiereis exportado",
+      "uds": "hubieren exportado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera exportado",
+      "tu": "hubieras exportado",
+      "ud": "hubiera exportado",
+      "nosotros": "hubiéramos exportado",
+      "vosotros": "hubierais exportado",
+      "uds": "hubieran exportado"
+    },
+    "imperfectoAlt": {
+      "yo": "exportase",
+      "tu": "exportases",
+      "ud": "exportase",
+      "nosotros": "exportásemos",
+      "vosotros": "exportaseis",
+      "uds": "exportasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese exportado",
+      "tu": "hubieses exportado",
+      "ud": "hubiese exportado",
+      "nosotros": "hubiésemos exportado",
+      "vosotros": "hubieseis exportado",
+      "uds": "hubiesen exportado"
+    }
+  },
+  "afirmativo": {
+    "tu": "exporta",
+    "vosotros": "exportad",
+    "ud": "exporte",
+    "uds": "exporten"
+  },
+  "negativo": {
+    "tu": "no exportes",
+    "vosotros": "no exportéis",
+    "ud": "no exporte",
+    "uds": "no exporten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to export",
+    "gerundio": "exporting",
+    "participioPasado": "exported",
+    "indicativo": {
+      "presente": "I export, am exporting",
+      "futuro": "I will export",
+      "imperfecto": "I was exporting, used to export, exported",
+      "preterito": "I exported",
+      "condicional": "I would export",
+      "presentePerfecto": "I have exported",
+      "futuroPerfecto": "I will have exported",
+      "pluscuamperfecto": "I had exported",
+      "preteritoAnterior": "I had exported",
+      "condicionalPerfecto": "I would have exported"
+    },
+    "subjuntivo": {
+      "presente": "I export, am exporting",
+      "imperfecto": "I exported, was exporting",
+      "futuro": "I will export",
+      "presentePerfecto": "I have exported, exported",
+      "futuroPerfecto": "I will have exported",
+      "pluscuamperfecto": "I had exported"
+    },
+    "afirmativo": "Export!",
+    "negativo": "Don't export!"
+  },
+  "attribution": "Fred Jehle"
+}

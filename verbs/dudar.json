@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "dudar",
+  "gerundio": "dudando",
+  "participioPasado": "dudado",
+  "indicativo": {
+    "presente": {
+      "yo": "dudo",
+      "tu": "dudas",
+      "ud": "duda",
+      "nosotros": "dudamos",
+      "vosotros": "dudáis",
+      "uds": "dudan"
+    },
+    "futuro": {
+      "yo": "dudaré",
+      "tu": "dudarás",
+      "ud": "dudará",
+      "nosotros": "dudaremos",
+      "vosotros": "dudaréis",
+      "uds": "dudarán"
+    },
+    "imperfecto": {
+      "yo": "dudaba",
+      "tu": "dudabas",
+      "ud": "dudaba",
+      "nosotros": "dudábamos",
+      "vosotros": "dudabais",
+      "uds": "dudaban"
+    },
+    "preterito": {
+      "yo": "dudé",
+      "tu": "dudaste",
+      "ud": "dudó",
+      "nosotros": "dudamos",
+      "vosotros": "dudasteis",
+      "uds": "dudaron"
+    },
+    "condicional": {
+      "yo": "dudaría",
+      "tu": "dudarías",
+      "ud": "dudaría",
+      "nosotros": "dudaríamos",
+      "vosotros": "dudaríais",
+      "uds": "dudarían"
+    },
+    "presentePerfecto": {
+      "yo": "he dudado",
+      "tu": "has dudado",
+      "ud": "ha dudado",
+      "nosotros": "hemos dudado",
+      "vosotros": "habéis dudado",
+      "uds": "han dudado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré dudado",
+      "tu": "habrás dudado",
+      "ud": "habrá dudado",
+      "nosotros": "habremos dudado",
+      "vosotros": "habréis dudado",
+      "uds": "habrán dudado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había dudado",
+      "tu": "habías dudado",
+      "ud": "había dudado",
+      "nosotros": "habíamos dudado",
+      "vosotros": "habíais dudado",
+      "uds": "habían dudado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube dudado",
+      "tu": "hubiste dudado",
+      "ud": "hubo dudado",
+      "nosotros": "hubimos dudado",
+      "vosotros": "hubisteis dudado",
+      "uds": "hubieron dudado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría dudado",
+      "tu": "habrías dudado",
+      "ud": "habría dudado",
+      "nosotros": "habríamos dudado",
+      "vosotros": "habríais dudado",
+      "uds": "habrían dudado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "dude",
+      "tu": "dudes",
+      "ud": "dude",
+      "nosotros": "dudemos",
+      "vosotros": "dudéis",
+      "uds": "duden"
+    },
+    "imperfecto": {
+      "yo": "dudara",
+      "tu": "dudaras",
+      "ud": "dudara",
+      "nosotros": "dudáramos",
+      "vosotros": "dudarais",
+      "uds": "dudaran"
+    },
+    "futuro": {
+      "yo": "dudare",
+      "tu": "dudares",
+      "ud": "dudare",
+      "nosotros": "dudáremos",
+      "vosotros": "dudareis",
+      "uds": "dudaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya dudado",
+      "tu": "hayas dudado",
+      "ud": "haya dudado",
+      "nosotros": "hayamos dudado",
+      "vosotros": "hayáis dudado",
+      "uds": "hayan dudado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere dudado",
+      "tu": "hubieres dudado",
+      "ud": "hubiere dudado",
+      "nosotros": "hubiéremos dudado",
+      "vosotros": "hubiereis dudado",
+      "uds": "hubieren dudado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera dudado",
+      "tu": "hubieras dudado",
+      "ud": "hubiera dudado",
+      "nosotros": "hubiéramos dudado",
+      "vosotros": "hubierais dudado",
+      "uds": "hubieran dudado"
+    },
+    "imperfectoAlt": {
+      "yo": "dudase",
+      "tu": "dudases",
+      "ud": "dudase",
+      "nosotros": "dudásemos",
+      "vosotros": "dudaseis",
+      "uds": "dudasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese dudado",
+      "tu": "hubieses dudado",
+      "ud": "hubiese dudado",
+      "nosotros": "hubiésemos dudado",
+      "vosotros": "hubieseis dudado",
+      "uds": "hubiesen dudado"
+    }
+  },
+  "afirmativo": {
+    "tu": "duda",
+    "vosotros": "dudad",
+    "ud": "dude",
+    "uds": "duden"
+  },
+  "negativo": {
+    "tu": "no dudes",
+    "vosotros": "no dudéis",
+    "ud": "no dude",
+    "uds": "no duden"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to doubt",
+    "gerundio": "doubting",
+    "participioPasado": "doubted",
+    "indicativo": {
+      "presente": "I doubt, am doubting",
+      "futuro": "I will doubt",
+      "imperfecto": "I was doubting, used to doubt, doubted",
+      "preterito": "I doubted",
+      "condicional": "I would doubt",
+      "presentePerfecto": "I have doubted",
+      "futuroPerfecto": "I will have doubted",
+      "pluscuamperfecto": "I had doubted",
+      "preteritoAnterior": "I had doubted",
+      "condicionalPerfecto": "I would have doubted"
+    },
+    "subjuntivo": {
+      "presente": "I doubt, am doubting",
+      "imperfecto": "I doubted, was doubting",
+      "futuro": "I will doubt",
+      "presentePerfecto": "I have doubted, doubted",
+      "futuroPerfecto": "I will have doubted",
+      "pluscuamperfecto": "I had doubted"
+    },
+    "afirmativo": "Doubt!",
+    "negativo": "Don't doubt!"
+  },
+  "attribution": "Fred Jehle"
+}

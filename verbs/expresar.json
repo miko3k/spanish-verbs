@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "expresar",
+  "gerundio": "expresando",
+  "participioPasado": "expresado",
+  "indicativo": {
+    "presente": {
+      "yo": "expreso",
+      "tu": "expresas",
+      "ud": "expresa",
+      "nosotros": "expresamos",
+      "vosotros": "expresáis",
+      "uds": "expresan"
+    },
+    "futuro": {
+      "yo": "expresaré",
+      "tu": "expresarás",
+      "ud": "expresará",
+      "nosotros": "expresaremos",
+      "vosotros": "expresaréis",
+      "uds": "expresarán"
+    },
+    "imperfecto": {
+      "yo": "expresaba",
+      "tu": "expresabas",
+      "ud": "expresaba",
+      "nosotros": "expresábamos",
+      "vosotros": "expresabais",
+      "uds": "expresaban"
+    },
+    "preterito": {
+      "yo": "expresé",
+      "tu": "expresaste",
+      "ud": "expresó",
+      "nosotros": "expresamos",
+      "vosotros": "expresasteis",
+      "uds": "expresaron"
+    },
+    "condicional": {
+      "yo": "expresaría",
+      "tu": "expresarías",
+      "ud": "expresaría",
+      "nosotros": "expresaríamos",
+      "vosotros": "expresaríais",
+      "uds": "expresarían"
+    },
+    "presentePerfecto": {
+      "yo": "he expresado",
+      "tu": "has expresado",
+      "ud": "ha expresado",
+      "nosotros": "hemos expresado",
+      "vosotros": "habéis expresado",
+      "uds": "han expresado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré expresado",
+      "tu": "habrás expresado",
+      "ud": "habrá expresado",
+      "nosotros": "habremos expresado",
+      "vosotros": "habréis expresado",
+      "uds": "habrán expresado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había expresado",
+      "tu": "habías expresado",
+      "ud": "había expresado",
+      "nosotros": "habíamos expresado",
+      "vosotros": "habíais expresado",
+      "uds": "habían expresado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube expresado",
+      "tu": "hubiste expresado",
+      "ud": "hubo expresado",
+      "nosotros": "hubimos expresado",
+      "vosotros": "hubisteis expresado",
+      "uds": "hubieron expresado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría expresado",
+      "tu": "habrías expresado",
+      "ud": "habría expresado",
+      "nosotros": "habríamos expresado",
+      "vosotros": "habríais expresado",
+      "uds": "habrían expresado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "exprese",
+      "tu": "expreses",
+      "ud": "exprese",
+      "nosotros": "expresemos",
+      "vosotros": "expreséis",
+      "uds": "expresen"
+    },
+    "imperfecto": {
+      "yo": "expresara",
+      "tu": "expresaras",
+      "ud": "expresara",
+      "nosotros": "expresáramos",
+      "vosotros": "expresarais",
+      "uds": "expresaran"
+    },
+    "futuro": {
+      "yo": "expresare",
+      "tu": "expresares",
+      "ud": "expresare",
+      "nosotros": "expresáremos",
+      "vosotros": "expresareis",
+      "uds": "expresaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya expresado",
+      "tu": "hayas expresado",
+      "ud": "haya expresado",
+      "nosotros": "hayamos expresado",
+      "vosotros": "hayáis expresado",
+      "uds": "hayan expresado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere expresado",
+      "tu": "hubieres expresado",
+      "ud": "hubiere expresado",
+      "nosotros": "hubiéremos expresado",
+      "vosotros": "hubiereis expresado",
+      "uds": "hubieren expresado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera expresado",
+      "tu": "hubieras expresado",
+      "ud": "hubiera expresado",
+      "nosotros": "hubiéramos expresado",
+      "vosotros": "hubierais expresado",
+      "uds": "hubieran expresado"
+    },
+    "imperfectoAlt": {
+      "yo": "expresase",
+      "tu": "expresases",
+      "ud": "expresase",
+      "nosotros": "expresásemos",
+      "vosotros": "expresaseis",
+      "uds": "expresasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese expresado",
+      "tu": "hubieses expresado",
+      "ud": "hubiese expresado",
+      "nosotros": "hubiésemos expresado",
+      "vosotros": "hubieseis expresado",
+      "uds": "hubiesen expresado"
+    }
+  },
+  "afirmativo": {
+    "tu": "expresa",
+    "vosotros": "expresad",
+    "ud": "exprese",
+    "uds": "expresen"
+  },
+  "negativo": {
+    "tu": "no expreses",
+    "vosotros": "no expreséis",
+    "ud": "no exprese",
+    "uds": "no expresen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to express, voice, state",
+    "gerundio": "expressing",
+    "participioPasado": "expressed",
+    "indicativo": {
+      "presente": "I express, am expressing",
+      "futuro": "I will express",
+      "imperfecto": "I was expressing, used to express, expressed",
+      "preterito": "I expressed",
+      "condicional": "I would express",
+      "presentePerfecto": "I have expressed",
+      "futuroPerfecto": "I will have expressed",
+      "pluscuamperfecto": "I had expressed",
+      "preteritoAnterior": "I had expressed",
+      "condicionalPerfecto": "I would have expressed"
+    },
+    "subjuntivo": {
+      "presente": "I express, am expressing",
+      "imperfecto": "I expressed, was expressing",
+      "futuro": "I will express",
+      "presentePerfecto": "I have expressed, expressed",
+      "futuroPerfecto": "I will have expressed",
+      "pluscuamperfecto": "I had expressed"
+    },
+    "afirmativo": "Express!",
+    "negativo": "Don't express!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "adornar",
+  "gerundio": "adornando",
+  "participioPasado": "adornado",
+  "indicativo": {
+    "presente": {
+      "yo": "adorno",
+      "tu": "adornas",
+      "ud": "adorna",
+      "nosotros": "adornamos",
+      "vosotros": "adornáis",
+      "uds": "adornan"
+    },
+    "futuro": {
+      "yo": "adornaré",
+      "tu": "adornarás",
+      "ud": "adornará",
+      "nosotros": "adornaremos",
+      "vosotros": "adornaréis",
+      "uds": "adornarán"
+    },
+    "imperfecto": {
+      "yo": "adornaba",
+      "tu": "adornabas",
+      "ud": "adornaba",
+      "nosotros": "adornábamos",
+      "vosotros": "adornabais",
+      "uds": "adornaban"
+    },
+    "preterito": {
+      "yo": "adorné",
+      "tu": "adornaste",
+      "ud": "adornó",
+      "nosotros": "adornamos",
+      "vosotros": "adornasteis",
+      "uds": "adornaron"
+    },
+    "condicional": {
+      "yo": "adornaría",
+      "tu": "adornarías",
+      "ud": "adornaría",
+      "nosotros": "adornaríamos",
+      "vosotros": "adornaríais",
+      "uds": "adornarían"
+    },
+    "presentePerfecto": {
+      "yo": "he adornado",
+      "tu": "has adornado",
+      "ud": "ha adornado",
+      "nosotros": "hemos adornado",
+      "vosotros": "habéis adornado",
+      "uds": "han adornado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré adornado",
+      "tu": "habrás adornado",
+      "ud": "habrá adornado",
+      "nosotros": "habremos adornado",
+      "vosotros": "habréis adornado",
+      "uds": "habrán adornado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había adornado",
+      "tu": "habías adornado",
+      "ud": "había adornado",
+      "nosotros": "habíamos adornado",
+      "vosotros": "habíais adornado",
+      "uds": "habían adornado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube adornado",
+      "tu": "hubiste adornado",
+      "ud": "hubo adornado",
+      "nosotros": "hubimos adornado",
+      "vosotros": "hubisteis adornado",
+      "uds": "hubieron adornado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría adornado",
+      "tu": "habrías adornado",
+      "ud": "habría adornado",
+      "nosotros": "habríamos adornado",
+      "vosotros": "habríais adornado",
+      "uds": "habrían adornado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "adorne",
+      "tu": "adornes",
+      "ud": "adorne",
+      "nosotros": "adornemos",
+      "vosotros": "adornéis",
+      "uds": "adornen"
+    },
+    "imperfecto": {
+      "yo": "adornara",
+      "tu": "adornaras",
+      "ud": "adornara",
+      "nosotros": "adornáramos",
+      "vosotros": "adornarais",
+      "uds": "adornaran"
+    },
+    "futuro": {
+      "yo": "adornare",
+      "tu": "adornares",
+      "ud": "adornare",
+      "nosotros": "adornáremos",
+      "vosotros": "adornareis",
+      "uds": "adornaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya adornado",
+      "tu": "hayas adornado",
+      "ud": "haya adornado",
+      "nosotros": "hayamos adornado",
+      "vosotros": "hayáis adornado",
+      "uds": "hayan adornado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere adornado",
+      "tu": "hubieres adornado",
+      "ud": "hubiere adornado",
+      "nosotros": "hubiéremos adornado",
+      "vosotros": "hubiereis adornado",
+      "uds": "hubieren adornado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera adornado",
+      "tu": "hubieras adornado",
+      "ud": "hubiera adornado",
+      "nosotros": "hubiéramos adornado",
+      "vosotros": "hubierais adornado",
+      "uds": "hubieran adornado"
+    },
+    "imperfectoAlt": {
+      "yo": "adornase",
+      "tu": "adornases",
+      "ud": "adornase",
+      "nosotros": "adornásemos",
+      "vosotros": "adornaseis",
+      "uds": "adornasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese adornado",
+      "tu": "hubieses adornado",
+      "ud": "hubiese adornado",
+      "nosotros": "hubiésemos adornado",
+      "vosotros": "hubieseis adornado",
+      "uds": "hubiesen adornado"
+    }
+  },
+  "afirmativo": {
+    "tu": "adorna",
+    "vosotros": "adornad",
+    "ud": "adorne",
+    "uds": "adornen"
+  },
+  "negativo": {
+    "tu": "no adornes",
+    "vosotros": "no adornéis",
+    "ud": "no adorne",
+    "uds": "no adornen"
+  },
+  "english": {
+    "note": "Note: To adorn with = adornar de.",
+    "infinitivo": "to adorn; to decorate, embellish; to garnish (food)",
+    "gerundio": "adorning",
+    "participioPasado": "adorned",
+    "indicativo": {
+      "presente": "I adorn, am adorning",
+      "futuro": "I will adorn",
+      "imperfecto": "I was adorning, used to adorn, adorned",
+      "preterito": "I adorned",
+      "condicional": "I would adorn",
+      "presentePerfecto": "I have adorned",
+      "futuroPerfecto": "I will have adorned",
+      "pluscuamperfecto": "I had adorned",
+      "preteritoAnterior": "I had adorned",
+      "condicionalPerfecto": "I would have adorned"
+    },
+    "subjuntivo": {
+      "presente": "I adorn, am adorning",
+      "imperfecto": "I adorned, was adorning",
+      "futuro": "I will adorn",
+      "presentePerfecto": "I have adorned, adorned",
+      "futuroPerfecto": "I will have adorned",
+      "pluscuamperfecto": "I had adorned"
+    },
+    "afirmativo": "Adorn!",
+    "negativo": "Don't adorn!"
+  },
+  "attribution": "Fred Jehle"
+}

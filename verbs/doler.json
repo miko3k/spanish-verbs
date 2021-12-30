@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "doler",
+  "gerundio": "doliendo",
+  "participioPasado": "dolido",
+  "indicativo": {
+    "presente": {
+      "yo": "duelo",
+      "tu": "dueles",
+      "ud": "duele",
+      "nosotros": "dolemos",
+      "vosotros": "doléis",
+      "uds": "duelen"
+    },
+    "futuro": {
+      "yo": "doleré",
+      "tu": "dolerás",
+      "ud": "dolerá",
+      "nosotros": "doleremos",
+      "vosotros": "doleréis",
+      "uds": "dolerán"
+    },
+    "imperfecto": {
+      "yo": "dolía",
+      "tu": "dolías",
+      "ud": "dolía",
+      "nosotros": "dolíamos",
+      "vosotros": "dolíais",
+      "uds": "dolían"
+    },
+    "preterito": {
+      "yo": "dolí",
+      "tu": "doliste",
+      "ud": "dolió",
+      "nosotros": "dolimos",
+      "vosotros": "dolisteis",
+      "uds": "dolieron"
+    },
+    "condicional": {
+      "yo": "dolería",
+      "tu": "dolerías",
+      "ud": "dolería",
+      "nosotros": "doleríamos",
+      "vosotros": "doleríais",
+      "uds": "dolerían"
+    },
+    "presentePerfecto": {
+      "yo": "he dolido",
+      "tu": "has dolido",
+      "ud": "ha dolido",
+      "nosotros": "hemos dolido",
+      "vosotros": "habéis dolido",
+      "uds": "han dolido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré dolido",
+      "tu": "habrás dolido",
+      "ud": "habrá dolido",
+      "nosotros": "habremos dolido",
+      "vosotros": "habréis dolido",
+      "uds": "habrán dolido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había dolido",
+      "tu": "habías dolido",
+      "ud": "había dolido",
+      "nosotros": "habíamos dolido",
+      "vosotros": "habíais dolido",
+      "uds": "habían dolido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube dolido",
+      "tu": "hubiste dolido",
+      "ud": "hubo dolido",
+      "nosotros": "hubimos dolido",
+      "vosotros": "hubisteis dolido",
+      "uds": "hubieron dolido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría dolido",
+      "tu": "habrías dolido",
+      "ud": "habría dolido",
+      "nosotros": "habríamos dolido",
+      "vosotros": "habríais dolido",
+      "uds": "habrían dolido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "duela",
+      "tu": "duelas",
+      "ud": "duela",
+      "nosotros": "dolamos",
+      "vosotros": "doláis",
+      "uds": "duelan"
+    },
+    "imperfecto": {
+      "yo": "doliera",
+      "tu": "dolieras",
+      "ud": "doliera",
+      "nosotros": "doliéramos",
+      "vosotros": "dolierais",
+      "uds": "dolieran"
+    },
+    "futuro": {
+      "yo": "doliere",
+      "tu": "dolieres",
+      "ud": "doliere",
+      "nosotros": "doliéremos",
+      "vosotros": "doliereis",
+      "uds": "dolieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya dolido",
+      "tu": "hayas dolido",
+      "ud": "haya dolido",
+      "nosotros": "hayamos dolido",
+      "vosotros": "hayáis dolido",
+      "uds": "hayan dolido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere dolido",
+      "tu": "hubieres dolido",
+      "ud": "hubiere dolido",
+      "nosotros": "hubiéremos dolido",
+      "vosotros": "hubiereis dolido",
+      "uds": "hubieren dolido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera dolido",
+      "tu": "hubieras dolido",
+      "ud": "hubiera dolido",
+      "nosotros": "hubiéramos dolido",
+      "vosotros": "hubierais dolido",
+      "uds": "hubieran dolido"
+    },
+    "imperfectoAlt": {
+      "yo": "doliese",
+      "tu": "dolieses",
+      "ud": "doliese",
+      "nosotros": "doliésemos",
+      "vosotros": "dolieseis",
+      "uds": "doliesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese dolido",
+      "tu": "hubieses dolido",
+      "ud": "hubiese dolido",
+      "nosotros": "hubiésemos dolido",
+      "vosotros": "hubieseis dolido",
+      "uds": "hubiesen dolido"
+    }
+  },
+  "afirmativo": {
+    "tu": "duele",
+    "vosotros": "doled",
+    "ud": "duela",
+    "uds": "duelan"
+  },
+  "negativo": {
+    "tu": "no duelas",
+    "vosotros": "no doláis",
+    "ud": "no duela",
+    "uds": "no duelan"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Note: This is an intransitive verb which is normally used only in the third peson, in a construcion like that used for the verb gustar: ¿ Dónde te duele? = Where does it hurt (you)? Me duelen los pies = My feet hurt. Use lastimar for to hurt in the sense of to harm, injure someone or something.",
+    "infinitivo": "to hurt, pain, ache",
+    "gerundio": "hurting",
+    "participioPasado": "hurt",
+    "indicativo": {
+      "presente": "it hurts, is hurting",
+      "futuro": "it will hurt",
+      "imperfecto": "it was hurting, used to hurt, hurt",
+      "preterito": "it hurt",
+      "condicional": "it would hurt",
+      "presentePerfecto": "it has hurt",
+      "futuroPerfecto": "it will have hurt",
+      "pluscuamperfecto": "it had hurt",
+      "preteritoAnterior": "it had hurt",
+      "condicionalPerfecto": "it would have hurt"
+    },
+    "subjuntivo": {
+      "presente": "it hurts, is hurting",
+      "imperfecto": "it hurt, was hurting",
+      "futuro": "it will hurt",
+      "presentePerfecto": "it has hurt, hurt",
+      "futuroPerfecto": "it will have hurt",
+      "pluscuamperfecto": "it had hurt"
+    },
+    "afirmativo": "Hurt!",
+    "negativo": "Don't hurt!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "empezar",
+  "gerundio": "empezando",
+  "participioPasado": "empezado",
+  "indicativo": {
+    "presente": {
+      "yo": "empiezo",
+      "tu": "empiezas",
+      "ud": "empieza",
+      "nosotros": "empezamos",
+      "vosotros": "empezáis",
+      "uds": "empiezan"
+    },
+    "futuro": {
+      "yo": "empezaré",
+      "tu": "empezarás",
+      "ud": "empezará",
+      "nosotros": "empezaremos",
+      "vosotros": "empezaréis",
+      "uds": "empezarán"
+    },
+    "imperfecto": {
+      "yo": "empezaba",
+      "tu": "empezabas",
+      "ud": "empezaba",
+      "nosotros": "empezábamos",
+      "vosotros": "empezabais",
+      "uds": "empezaban"
+    },
+    "preterito": {
+      "yo": "empecé",
+      "tu": "empezaste",
+      "ud": "empezó",
+      "nosotros": "empezamos",
+      "vosotros": "empezasteis",
+      "uds": "empezaron"
+    },
+    "condicional": {
+      "yo": "empezaría",
+      "tu": "empezarías",
+      "ud": "empezaría",
+      "nosotros": "empezaríamos",
+      "vosotros": "empezaríais",
+      "uds": "empezarían"
+    },
+    "presentePerfecto": {
+      "yo": "he empezado",
+      "tu": "has empezado",
+      "ud": "ha empezado",
+      "nosotros": "hemos empezado",
+      "vosotros": "habéis empezado",
+      "uds": "han empezado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré empezado",
+      "tu": "habrás empezado",
+      "ud": "habrá empezado",
+      "nosotros": "habremos empezado",
+      "vosotros": "habréis empezado",
+      "uds": "habrán empezado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había empezado",
+      "tu": "habías empezado",
+      "ud": "había empezado",
+      "nosotros": "habíamos empezado",
+      "vosotros": "habíais empezado",
+      "uds": "habían empezado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube empezado",
+      "tu": "hubiste empezado",
+      "ud": "hubo empezado",
+      "nosotros": "hubimos empezado",
+      "vosotros": "hubisteis empezado",
+      "uds": "hubieron empezado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría empezado",
+      "tu": "habrías empezado",
+      "ud": "habría empezado",
+      "nosotros": "habríamos empezado",
+      "vosotros": "habríais empezado",
+      "uds": "habrían empezado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "empiece",
+      "tu": "empieces",
+      "ud": "empiece",
+      "nosotros": "empecemos",
+      "vosotros": "empecéis",
+      "uds": "empiecen"
+    },
+    "imperfecto": {
+      "yo": "empezara",
+      "tu": "empezaras",
+      "ud": "empezara",
+      "nosotros": "empezáramos",
+      "vosotros": "empezarais",
+      "uds": "empezaran"
+    },
+    "futuro": {
+      "yo": "empezare",
+      "tu": "empezares",
+      "ud": "empezare",
+      "nosotros": "empezáremos",
+      "vosotros": "empezareis",
+      "uds": "empezaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya empezado",
+      "tu": "hayas empezado",
+      "ud": "haya empezado",
+      "nosotros": "hayamos empezado",
+      "vosotros": "hayáis empezado",
+      "uds": "hayan empezado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere empezado",
+      "tu": "hubieres empezado",
+      "ud": "hubiere empezado",
+      "nosotros": "hubiéremos empezado",
+      "vosotros": "hubiereis empezado",
+      "uds": "hubieren empezado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera empezado",
+      "tu": "hubieras empezado",
+      "ud": "hubiera empezado",
+      "nosotros": "hubiéramos empezado",
+      "vosotros": "hubierais empezado",
+      "uds": "hubieran empezado"
+    },
+    "imperfectoAlt": {
+      "yo": "empezase",
+      "tu": "empezases",
+      "ud": "empezase",
+      "nosotros": "empezásemos",
+      "vosotros": "empezaseis",
+      "uds": "empezasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese empezado",
+      "tu": "hubieses empezado",
+      "ud": "hubiese empezado",
+      "nosotros": "hubiésemos empezado",
+      "vosotros": "hubieseis empezado",
+      "uds": "hubiesen empezado"
+    }
+  },
+  "afirmativo": {
+    "tu": "empieza",
+    "vosotros": "empezad",
+    "ud": "empiece",
+    "uds": "empiecen"
+  },
+  "negativo": {
+    "tu": "no empieces",
+    "vosotros": "no empecéis",
+    "ud": "no empiece",
+    "uds": "no empiecen"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa. Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to begin, start",
+    "gerundio": "beginning",
+    "participioPasado": "begun",
+    "indicativo": {
+      "presente": "I begin, am beginning",
+      "futuro": "I will begin",
+      "imperfecto": "I was beginning, used to begin, began",
+      "preterito": "I began",
+      "condicional": "I would begin",
+      "presentePerfecto": "I have begun",
+      "futuroPerfecto": "I will have begun",
+      "pluscuamperfecto": "I had begun",
+      "preteritoAnterior": "I had begun",
+      "condicionalPerfecto": "I would have begun"
+    },
+    "subjuntivo": {
+      "presente": "I begin, am beginning",
+      "imperfecto": "I began, was beginning",
+      "futuro": "I will begin",
+      "presentePerfecto": "I have begun, began",
+      "futuroPerfecto": "I will have begun",
+      "pluscuamperfecto": "I had begun"
+    },
+    "afirmativo": "Begin!",
+    "negativo": "Don't begin!"
+  },
+  "attribution": "Fred Jehle"
+}

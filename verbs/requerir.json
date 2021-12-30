@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "requerir",
+  "gerundio": "requiriendo",
+  "participioPasado": "requerido",
+  "indicativo": {
+    "presente": {
+      "yo": "requiero",
+      "tu": "requieres",
+      "ud": "requiere",
+      "nosotros": "requerimos",
+      "vosotros": "requerís",
+      "uds": "requieren"
+    },
+    "futuro": {
+      "yo": "requeriré",
+      "tu": "requerirás",
+      "ud": "requerirá",
+      "nosotros": "requeriremos",
+      "vosotros": "requeriréis",
+      "uds": "requerirán"
+    },
+    "imperfecto": {
+      "yo": "requería",
+      "tu": "requerías",
+      "ud": "requería",
+      "nosotros": "requeríamos",
+      "vosotros": "requeríais",
+      "uds": "requerían"
+    },
+    "preterito": {
+      "yo": "requerí",
+      "tu": "requeriste",
+      "ud": "requirió",
+      "nosotros": "requerimos",
+      "vosotros": "requeristeis",
+      "uds": "requirieron"
+    },
+    "condicional": {
+      "yo": "requeriría",
+      "tu": "requerirías",
+      "ud": "requeriría",
+      "nosotros": "requeriríamos",
+      "vosotros": "requeriríais",
+      "uds": "requerirían"
+    },
+    "presentePerfecto": {
+      "yo": "he requerido",
+      "tu": "has requerido",
+      "ud": "ha requerido",
+      "nosotros": "hemos requerido",
+      "vosotros": "habéis requerido",
+      "uds": "han requerido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré requerido",
+      "tu": "habrás requerido",
+      "ud": "habrá requerido",
+      "nosotros": "habremos requerido",
+      "vosotros": "habréis requerido",
+      "uds": "habrán requerido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había requerido",
+      "tu": "habías requerido",
+      "ud": "había requerido",
+      "nosotros": "habíamos requerido",
+      "vosotros": "habíais requerido",
+      "uds": "habían requerido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube requerido",
+      "tu": "hubiste requerido",
+      "ud": "hubo requerido",
+      "nosotros": "hubimos requerido",
+      "vosotros": "hubisteis requerido",
+      "uds": "hubieron requerido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría requerido",
+      "tu": "habrías requerido",
+      "ud": "habría requerido",
+      "nosotros": "habríamos requerido",
+      "vosotros": "habríais requerido",
+      "uds": "habrían requerido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "requiera",
+      "tu": "requieras",
+      "ud": "requiera",
+      "nosotros": "requiramos",
+      "vosotros": "requiráis",
+      "uds": "requieran"
+    },
+    "imperfecto": {
+      "yo": "requiriera",
+      "tu": "requirieras",
+      "ud": "requiriera",
+      "nosotros": "requiriéramos",
+      "vosotros": "requirierais",
+      "uds": "requirieran"
+    },
+    "futuro": {
+      "yo": "requiriere",
+      "tu": "requirieres",
+      "ud": "requiriere",
+      "nosotros": "requiriéremos",
+      "vosotros": "requiriereis",
+      "uds": "requirieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya requerido",
+      "tu": "hayas requerido",
+      "ud": "haya requerido",
+      "nosotros": "hayamos requerido",
+      "vosotros": "hayáis requerido",
+      "uds": "hayan requerido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere requerido",
+      "tu": "hubieres requerido",
+      "ud": "hubiere requerido",
+      "nosotros": "hubiéremos requerido",
+      "vosotros": "hubiereis requerido",
+      "uds": "hubieren requerido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera requerido",
+      "tu": "hubieras requerido",
+      "ud": "hubiera requerido",
+      "nosotros": "hubiéramos requerido",
+      "vosotros": "hubierais requerido",
+      "uds": "hubieran requerido"
+    },
+    "imperfectoAlt": {
+      "yo": "requiriese",
+      "tu": "requirieses",
+      "ud": "requiriese",
+      "nosotros": "requiriésemos",
+      "vosotros": "requirieseis",
+      "uds": "requiriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese requerido",
+      "tu": "hubieses requerido",
+      "ud": "hubiese requerido",
+      "nosotros": "hubiésemos requerido",
+      "vosotros": "hubieseis requerido",
+      "uds": "hubiesen requerido"
+    }
+  },
+  "afirmativo": {
+    "tu": "requiere",
+    "vosotros": "requerid",
+    "ud": "requiera",
+    "uds": "requieran"
+  },
+  "negativo": {
+    "tu": "no requieras",
+    "vosotros": "no requiráis",
+    "ud": "no requiera",
+    "uds": "no requieran"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i.",
+    "infinitivo": "to require, need; to request, ask; to send for, call for",
+    "gerundio": "requiring",
+    "participioPasado": "required",
+    "indicativo": {
+      "presente": "I require, am requiring",
+      "futuro": "I will require",
+      "imperfecto": "I was requiring, used to require, required",
+      "preterito": "I required",
+      "condicional": "I would require",
+      "presentePerfecto": "I have required",
+      "futuroPerfecto": "I will have required",
+      "pluscuamperfecto": "I had required",
+      "preteritoAnterior": "I had required",
+      "condicionalPerfecto": "I would have required"
+    },
+    "subjuntivo": {
+      "presente": "I require, am requiring",
+      "imperfecto": "I required, was requiring",
+      "futuro": "I will require",
+      "presentePerfecto": "I have required, required",
+      "futuroPerfecto": "I will have required",
+      "pluscuamperfecto": "I had required"
+    },
+    "afirmativo": "Require!",
+    "negativo": "Don't require!"
+  },
+  "attribution": "Fred Jehle"
+}

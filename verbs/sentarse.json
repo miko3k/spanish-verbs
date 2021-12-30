@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "sentarse",
+  "gerundio": "sentándose",
+  "participioPasado": "sentado",
+  "indicativo": {
+    "presente": {
+      "yo": "me siento",
+      "tu": "te sientas",
+      "ud": "se sienta",
+      "nosotros": "nos sentamos",
+      "vosotros": "os sentáis",
+      "uds": "se sientan"
+    },
+    "futuro": {
+      "yo": "me sentaré",
+      "tu": "te sentarás",
+      "ud": "se sentará",
+      "nosotros": "nos sentaremos",
+      "vosotros": "os sentaréis",
+      "uds": "se sentarán"
+    },
+    "imperfecto": {
+      "yo": "me sentaba",
+      "tu": "te sentabas",
+      "ud": "se sentaba",
+      "nosotros": "nos sentábamos",
+      "vosotros": "os sentabais",
+      "uds": "se sentaban"
+    },
+    "preterito": {
+      "yo": "me senté",
+      "tu": "te sentaste",
+      "ud": "se sentó",
+      "nosotros": "nos sentamos",
+      "vosotros": "os sentasteis",
+      "uds": "se sentaron"
+    },
+    "condicional": {
+      "yo": "me sentaría",
+      "tu": "te sentarías",
+      "ud": "se sentaría",
+      "nosotros": "nos sentaríamos",
+      "vosotros": "os sentaríais",
+      "uds": "se sentarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he sentado",
+      "tu": "te has sentado",
+      "ud": "se ha sentado",
+      "nosotros": "nos hemos sentado",
+      "vosotros": "os habéis sentado",
+      "uds": "se han sentado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré sentado",
+      "tu": "te habrás sentado",
+      "ud": "se habrá sentado",
+      "nosotros": "nos habremos sentado",
+      "vosotros": "os habréis sentado",
+      "uds": "se habrán sentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había sentado",
+      "tu": "te habías sentado",
+      "ud": "se había sentado",
+      "nosotros": "nos habíamos sentado",
+      "vosotros": "os habíais sentado",
+      "uds": "se habían sentado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube sentado",
+      "tu": "te hubiste sentado",
+      "ud": "se hubo sentado",
+      "nosotros": "nos hubimos sentado",
+      "vosotros": "os hubisteis sentado",
+      "uds": "se hubieron sentado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría sentado",
+      "tu": "te habrías sentado",
+      "ud": "se habría sentado",
+      "nosotros": "nos habríamos sentado",
+      "vosotros": "os habríais sentado",
+      "uds": "se habrían sentado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me siente",
+      "tu": "te sientes",
+      "ud": "se siente",
+      "nosotros": "nos sentemos",
+      "vosotros": "os sentéis",
+      "uds": "se sienten"
+    },
+    "imperfecto": {
+      "yo": "me sentara",
+      "tu": "te sentaras",
+      "ud": "se sentara",
+      "nosotros": "nos sentáramos",
+      "vosotros": "os sentarais",
+      "uds": "se sentaran"
+    },
+    "futuro": {
+      "yo": "me sentare",
+      "tu": "te sentares",
+      "ud": "se sentare",
+      "nosotros": "nos sentáremos",
+      "vosotros": "os sentareis",
+      "uds": "se sentaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya sentado",
+      "tu": "te hayas sentado",
+      "ud": "se haya sentado",
+      "nosotros": "nos hayamos sentado",
+      "vosotros": "os hayáis sentado",
+      "uds": "se hayan sentado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere sentado",
+      "tu": "te hubieres sentado",
+      "ud": "se hubiere sentado",
+      "nosotros": "nos hubiéremos sentado",
+      "vosotros": "os hubiereis sentado",
+      "uds": "se hubieren sentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera sentado",
+      "tu": "te hubieras sentado",
+      "ud": "se hubiera sentado",
+      "nosotros": "nos hubiéramos sentado",
+      "vosotros": "os hubierais sentado",
+      "uds": "se hubieran sentado"
+    },
+    "imperfectoAlt": {
+      "yo": "me sentase",
+      "tu": "te sentases",
+      "ud": "se sentase",
+      "nosotros": "nos sentásemos",
+      "vosotros": "os sentaseis",
+      "uds": "se sentasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese sentado",
+      "tu": "te hubieses sentado",
+      "ud": "se hubiese sentado",
+      "nosotros": "nos hubiésemos sentado",
+      "vosotros": "os hubieseis sentado",
+      "uds": "se hubiesen sentado"
+    }
+  },
+  "afirmativo": {
+    "tu": "siéntate",
+    "vosotros": "sentaos",
+    "ud": "siéntese",
+    "uds": "siéntense"
+  },
+  "negativo": {
+    "tu": "no te sientes",
+    "vosotros": "no os sentéis",
+    "ud": "no se siente",
+    "uds": "no se sienten"
+  },
+  "english": {
+    "note": "Cambio radical: i > ie cuando se acentúa. Note: The nonreflexive form sentar means to seat (someone else).",
+    "infinitivo": "to sit down, seat oneself",
+    "gerundio": "sitting down",
+    "participioPasado": "seated, sat down",
+    "indicativo": {
+      "presente": "I sit down, am sitting down",
+      "futuro": "I will sit down",
+      "imperfecto": "I was sitting down, used to sit down, sat down",
+      "preterito": "I sat down",
+      "condicional": "I would sit down",
+      "presentePerfecto": "I have sat down",
+      "futuroPerfecto": "I will have sat down",
+      "pluscuamperfecto": "I had sat down",
+      "preteritoAnterior": "I had sat down",
+      "condicionalPerfecto": "I would have sat down"
+    },
+    "subjuntivo": {
+      "presente": "I sit down, am sitting down",
+      "imperfecto": "I sat down, was sitting down",
+      "futuro": "I will sit down",
+      "presentePerfecto": "I have sat down, sat down",
+      "futuroPerfecto": "I will have sat down",
+      "pluscuamperfecto": "I had sat down"
+    },
+    "afirmativo": "Sit down!",
+    "negativo": "Don't sit down!"
+  },
+  "attribution": "Fred Jehle"
+}

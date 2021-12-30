@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "iniciar",
+  "gerundio": "iniciando",
+  "participioPasado": "iniciado",
+  "indicativo": {
+    "presente": {
+      "yo": "inicio",
+      "tu": "inicias",
+      "ud": "inicia",
+      "nosotros": "iniciamos",
+      "vosotros": "iniciáis",
+      "uds": "inician"
+    },
+    "futuro": {
+      "yo": "iniciaré",
+      "tu": "iniciarás",
+      "ud": "iniciará",
+      "nosotros": "iniciaremos",
+      "vosotros": "iniciaréis",
+      "uds": "iniciarán"
+    },
+    "imperfecto": {
+      "yo": "iniciaba",
+      "tu": "iniciabas",
+      "ud": "iniciaba",
+      "nosotros": "iniciábamos",
+      "vosotros": "iniciabais",
+      "uds": "iniciaban"
+    },
+    "preterito": {
+      "yo": "inicié",
+      "tu": "iniciaste",
+      "ud": "inició",
+      "nosotros": "iniciamos",
+      "vosotros": "iniciasteis",
+      "uds": "iniciaron"
+    },
+    "condicional": {
+      "yo": "iniciaría",
+      "tu": "iniciarías",
+      "ud": "iniciaría",
+      "nosotros": "iniciaríamos",
+      "vosotros": "iniciaríais",
+      "uds": "iniciarían"
+    },
+    "presentePerfecto": {
+      "yo": "he iniciado",
+      "tu": "has iniciado",
+      "ud": "ha iniciado",
+      "nosotros": "hemos iniciado",
+      "vosotros": "habéis iniciado",
+      "uds": "han iniciado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré iniciado",
+      "tu": "habrás iniciado",
+      "ud": "habrá iniciado",
+      "nosotros": "habremos iniciado",
+      "vosotros": "habréis iniciado",
+      "uds": "habrán iniciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había iniciado",
+      "tu": "habías iniciado",
+      "ud": "había iniciado",
+      "nosotros": "habíamos iniciado",
+      "vosotros": "habíais iniciado",
+      "uds": "habían iniciado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube iniciado",
+      "tu": "hubiste iniciado",
+      "ud": "hubo iniciado",
+      "nosotros": "hubimos iniciado",
+      "vosotros": "hubisteis iniciado",
+      "uds": "hubieron iniciado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría iniciado",
+      "tu": "habrías iniciado",
+      "ud": "habría iniciado",
+      "nosotros": "habríamos iniciado",
+      "vosotros": "habríais iniciado",
+      "uds": "habrían iniciado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "inicie",
+      "tu": "inicies",
+      "ud": "inicie",
+      "nosotros": "iniciemos",
+      "vosotros": "iniciéis",
+      "uds": "inicien"
+    },
+    "imperfecto": {
+      "yo": "iniciara",
+      "tu": "iniciaras",
+      "ud": "iniciara",
+      "nosotros": "iniciáramos",
+      "vosotros": "iniciarais",
+      "uds": "iniciaran"
+    },
+    "futuro": {
+      "yo": "iniciare",
+      "tu": "iniciares",
+      "ud": "iniciare",
+      "nosotros": "iniciáremos",
+      "vosotros": "iniciareis",
+      "uds": "iniciaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya iniciado",
+      "tu": "hayas iniciado",
+      "ud": "haya iniciado",
+      "nosotros": "hayamos iniciado",
+      "vosotros": "hayáis iniciado",
+      "uds": "hayan iniciado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere iniciado",
+      "tu": "hubieres iniciado",
+      "ud": "hubiere iniciado",
+      "nosotros": "hubiéremos iniciado",
+      "vosotros": "hubiereis iniciado",
+      "uds": "hubieren iniciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera iniciado",
+      "tu": "hubieras iniciado",
+      "ud": "hubiera iniciado",
+      "nosotros": "hubiéramos iniciado",
+      "vosotros": "hubierais iniciado",
+      "uds": "hubieran iniciado"
+    },
+    "imperfectoAlt": {
+      "yo": "iniciase",
+      "tu": "iniciases",
+      "ud": "iniciase",
+      "nosotros": "iniciásemos",
+      "vosotros": "iniciaseis",
+      "uds": "iniciasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese iniciado",
+      "tu": "hubieses iniciado",
+      "ud": "hubiese iniciado",
+      "nosotros": "hubiésemos iniciado",
+      "vosotros": "hubieseis iniciado",
+      "uds": "hubiesen iniciado"
+    }
+  },
+  "afirmativo": {
+    "tu": "inicia",
+    "vosotros": "iniciad",
+    "ud": "inicie",
+    "uds": "inicien"
+  },
+  "negativo": {
+    "tu": "no inicies",
+    "vosotros": "no iniciéis",
+    "ud": "no inicie",
+    "uds": "no inicien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to initiate, begin, start",
+    "gerundio": "initiating",
+    "participioPasado": "initiated",
+    "indicativo": {
+      "presente": "I initiate, am initiating",
+      "futuro": "I will initiate",
+      "imperfecto": "I was initiating, used to initiate, initiated",
+      "preterito": "I initiated",
+      "condicional": "I would initiate",
+      "presentePerfecto": "I have initiated",
+      "futuroPerfecto": "I will have initiated",
+      "pluscuamperfecto": "I had initiated",
+      "preteritoAnterior": "I had initiated",
+      "condicionalPerfecto": "I would have initiated"
+    },
+    "subjuntivo": {
+      "presente": "I initiate, am initiating",
+      "imperfecto": "I initiated, was initiating",
+      "futuro": "I will initiate",
+      "presentePerfecto": "I have initiated, initiated",
+      "futuroPerfecto": "I will have initiated",
+      "pluscuamperfecto": "I had initiated"
+    },
+    "afirmativo": "Initiate!",
+    "negativo": "Don't initiate!"
+  },
+  "attribution": "Fred Jehle"
+}

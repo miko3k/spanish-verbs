@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "conducir",
+  "gerundio": "conduciendo",
+  "participioPasado": "conducido",
+  "indicativo": {
+    "presente": {
+      "yo": "conduzco",
+      "tu": "conduces",
+      "ud": "conduce",
+      "nosotros": "conducimos",
+      "vosotros": "conducís",
+      "uds": "conducen"
+    },
+    "futuro": {
+      "yo": "conduciré",
+      "tu": "conducirás",
+      "ud": "conducirá",
+      "nosotros": "conduciremos",
+      "vosotros": "conduciréis",
+      "uds": "conducirán"
+    },
+    "imperfecto": {
+      "yo": "conducía",
+      "tu": "conducías",
+      "ud": "conducía",
+      "nosotros": "conducíamos",
+      "vosotros": "conducíais",
+      "uds": "conducían"
+    },
+    "preterito": {
+      "yo": "conduje",
+      "tu": "condujiste",
+      "ud": "condujo",
+      "nosotros": "condujimos",
+      "vosotros": "condujisteis",
+      "uds": "condujeron"
+    },
+    "condicional": {
+      "yo": "conduciría",
+      "tu": "conducirías",
+      "ud": "conduciría",
+      "nosotros": "conduciríamos",
+      "vosotros": "conduciríais",
+      "uds": "conducirían"
+    },
+    "presentePerfecto": {
+      "yo": "he conducido",
+      "tu": "has conducido",
+      "ud": "ha conducido",
+      "nosotros": "hemos conducido",
+      "vosotros": "habéis conducido",
+      "uds": "han conducido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré conducido",
+      "tu": "habrás conducido",
+      "ud": "habrá conducido",
+      "nosotros": "habremos conducido",
+      "vosotros": "habréis conducido",
+      "uds": "habrán conducido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había conducido",
+      "tu": "habías conducido",
+      "ud": "había conducido",
+      "nosotros": "habíamos conducido",
+      "vosotros": "habíais conducido",
+      "uds": "habían conducido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube conducido",
+      "tu": "hubiste conducido",
+      "ud": "hubo conducido",
+      "nosotros": "hubimos conducido",
+      "vosotros": "hubisteis conducido",
+      "uds": "hubieron conducido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría conducido",
+      "tu": "habrías conducido",
+      "ud": "habría conducido",
+      "nosotros": "habríamos conducido",
+      "vosotros": "habríais conducido",
+      "uds": "habrían conducido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "conduzca",
+      "tu": "conduzcas",
+      "ud": "conduzca",
+      "nosotros": "conduzcamos",
+      "vosotros": "conduzcáis",
+      "uds": "conduzcan"
+    },
+    "imperfecto": {
+      "yo": "condujera",
+      "tu": "condujeras",
+      "ud": "condujera",
+      "nosotros": "condujéramos",
+      "vosotros": "condujerais",
+      "uds": "condujeran"
+    },
+    "futuro": {
+      "yo": "condujere",
+      "tu": "condujeres",
+      "ud": "condujere",
+      "nosotros": "condujéremos",
+      "vosotros": "condujereis",
+      "uds": "condujeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya conducido",
+      "tu": "hayas conducido",
+      "ud": "haya conducido",
+      "nosotros": "hayamos conducido",
+      "vosotros": "hayáis conducido",
+      "uds": "hayan conducido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere conducido",
+      "tu": "hubieres conducido",
+      "ud": "hubiere conducido",
+      "nosotros": "hubiéremos conducido",
+      "vosotros": "hubiereis conducido",
+      "uds": "hubieren conducido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera conducido",
+      "tu": "hubieras conducido",
+      "ud": "hubiera conducido",
+      "nosotros": "hubiéramos conducido",
+      "vosotros": "hubierais conducido",
+      "uds": "hubieran conducido"
+    },
+    "imperfectoAlt": {
+      "yo": "condujese",
+      "tu": "condujeses",
+      "ud": "condujese",
+      "nosotros": "condujésemos",
+      "vosotros": "condujeseis",
+      "uds": "condujesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese conducido",
+      "tu": "hubieses conducido",
+      "ud": "hubiese conducido",
+      "nosotros": "hubiésemos conducido",
+      "vosotros": "hubieseis conducido",
+      "uds": "hubiesen conducido"
+    }
+  },
+  "afirmativo": {
+    "tu": "conduce",
+    "vosotros": "conducid",
+    "ud": "conduzca",
+    "uds": "conduzcan"
+  },
+  "negativo": {
+    "tu": "no conduzcas",
+    "vosotros": "no conduzcáis",
+    "ud": "no conduzca",
+    "uds": "no conduzcan"
+  },
+  "english": {
+    "note": "Formas irregulares: conduzco, conduzca, etc. Radical fuerte en el pretérito: conduj-.",
+    "infinitivo": "to drive, conduct",
+    "gerundio": "driving",
+    "participioPasado": "driven",
+    "indicativo": {
+      "presente": "I drive, am driving",
+      "futuro": "I will drive",
+      "imperfecto": "I was driving, used to drive, drove",
+      "preterito": "I drove",
+      "condicional": "I would drive",
+      "presentePerfecto": "I have driven",
+      "futuroPerfecto": "I will have driven",
+      "pluscuamperfecto": "I had driven",
+      "preteritoAnterior": "I had driven",
+      "condicionalPerfecto": "I would have driven"
+    },
+    "subjuntivo": {
+      "presente": "I drive, am driving",
+      "imperfecto": "I drove, was driving",
+      "futuro": "I will drive",
+      "presentePerfecto": "I have driven, drove",
+      "futuroPerfecto": "I will have driven",
+      "pluscuamperfecto": "I had driven"
+    },
+    "afirmativo": "Drive!",
+    "negativo": "Don't drive!"
+  },
+  "attribution": "Fred Jehle"
+}

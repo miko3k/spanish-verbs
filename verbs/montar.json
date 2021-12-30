@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "montar",
+  "gerundio": "montando",
+  "participioPasado": "montado",
+  "indicativo": {
+    "presente": {
+      "yo": "monto",
+      "tu": "montas",
+      "ud": "monta",
+      "nosotros": "montamos",
+      "vosotros": "montáis",
+      "uds": "montan"
+    },
+    "futuro": {
+      "yo": "montaré",
+      "tu": "montarás",
+      "ud": "montará",
+      "nosotros": "montaremos",
+      "vosotros": "montaréis",
+      "uds": "montarán"
+    },
+    "imperfecto": {
+      "yo": "montaba",
+      "tu": "montabas",
+      "ud": "montaba",
+      "nosotros": "montábamos",
+      "vosotros": "montabais",
+      "uds": "montaban"
+    },
+    "preterito": {
+      "yo": "monté",
+      "tu": "montaste",
+      "ud": "montó",
+      "nosotros": "montamos",
+      "vosotros": "montasteis",
+      "uds": "montaron"
+    },
+    "condicional": {
+      "yo": "montaría",
+      "tu": "montarías",
+      "ud": "montaría",
+      "nosotros": "montaríamos",
+      "vosotros": "montaríais",
+      "uds": "montarían"
+    },
+    "presentePerfecto": {
+      "yo": "he montado",
+      "tu": "has montado",
+      "ud": "ha montado",
+      "nosotros": "hemos montado",
+      "vosotros": "habéis montado",
+      "uds": "han montado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré montado",
+      "tu": "habrás montado",
+      "ud": "habrá montado",
+      "nosotros": "habremos montado",
+      "vosotros": "habréis montado",
+      "uds": "habrán montado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había montado",
+      "tu": "habías montado",
+      "ud": "había montado",
+      "nosotros": "habíamos montado",
+      "vosotros": "habíais montado",
+      "uds": "habían montado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube montado",
+      "tu": "hubiste montado",
+      "ud": "hubo montado",
+      "nosotros": "hubimos montado",
+      "vosotros": "hubisteis montado",
+      "uds": "hubieron montado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría montado",
+      "tu": "habrías montado",
+      "ud": "habría montado",
+      "nosotros": "habríamos montado",
+      "vosotros": "habríais montado",
+      "uds": "habrían montado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "monte",
+      "tu": "montes",
+      "ud": "monte",
+      "nosotros": "montemos",
+      "vosotros": "montéis",
+      "uds": "monten"
+    },
+    "imperfecto": {
+      "yo": "montara",
+      "tu": "montaras",
+      "ud": "montara",
+      "nosotros": "montáramos",
+      "vosotros": "montarais",
+      "uds": "montaran"
+    },
+    "futuro": {
+      "yo": "montare",
+      "tu": "montares",
+      "ud": "montare",
+      "nosotros": "montáremos",
+      "vosotros": "montareis",
+      "uds": "montaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya montado",
+      "tu": "hayas montado",
+      "ud": "haya montado",
+      "nosotros": "hayamos montado",
+      "vosotros": "hayáis montado",
+      "uds": "hayan montado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere montado",
+      "tu": "hubieres montado",
+      "ud": "hubiere montado",
+      "nosotros": "hubiéremos montado",
+      "vosotros": "hubiereis montado",
+      "uds": "hubieren montado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera montado",
+      "tu": "hubieras montado",
+      "ud": "hubiera montado",
+      "nosotros": "hubiéramos montado",
+      "vosotros": "hubierais montado",
+      "uds": "hubieran montado"
+    },
+    "imperfectoAlt": {
+      "yo": "montase",
+      "tu": "montases",
+      "ud": "montase",
+      "nosotros": "montásemos",
+      "vosotros": "montaseis",
+      "uds": "montasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese montado",
+      "tu": "hubieses montado",
+      "ud": "hubiese montado",
+      "nosotros": "hubiésemos montado",
+      "vosotros": "hubieseis montado",
+      "uds": "hubiesen montado"
+    }
+  },
+  "afirmativo": {
+    "tu": "monta",
+    "vosotros": "montad",
+    "ud": "monte",
+    "uds": "monten"
+  },
+  "negativo": {
+    "tu": "no montes",
+    "vosotros": "no montéis",
+    "ud": "no monte",
+    "uds": "no monten"
+  },
+  "english": {
+    "note": "Note: When used to mean \"to ride\" (a horse, bicycle, etc.), montar is usually used with the preposition en or a, e.g., montar a caballo, montar en bicicleta.",
+    "infinitivo": "to mount, to get on, to ride",
+    "gerundio": "mounting",
+    "participioPasado": "mounted",
+    "indicativo": {
+      "presente": "I mount, am mounting",
+      "futuro": "I will mount",
+      "imperfecto": "I was mounting, used to mount, mounted",
+      "preterito": "I mounted",
+      "condicional": "I would mount",
+      "presentePerfecto": "I have mounted",
+      "futuroPerfecto": "I will have mounted",
+      "pluscuamperfecto": "I had mounted",
+      "preteritoAnterior": "I had mounted",
+      "condicionalPerfecto": "I would have mounted"
+    },
+    "subjuntivo": {
+      "presente": "I mount, am mounting",
+      "imperfecto": "I mounted, was mounting",
+      "futuro": "I will mount",
+      "presentePerfecto": "I have mounted, mounted",
+      "futuroPerfecto": "I will have mounted",
+      "pluscuamperfecto": "I had mounted"
+    },
+    "afirmativo": "mount!",
+    "negativo": "Don't mount!"
+  },
+  "attribution": "Fred Jehle"
+}

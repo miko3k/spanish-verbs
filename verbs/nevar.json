@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "nevar",
+  "gerundio": "nevando",
+  "participioPasado": "nevado",
+  "indicativo": {
+    "presente": {
+      "yo": "nievo",
+      "tu": "nievas",
+      "ud": "nieva",
+      "nosotros": "nevamos",
+      "vosotros": "neváis",
+      "uds": "nievan"
+    },
+    "futuro": {
+      "yo": "nevaré",
+      "tu": "nevarás",
+      "ud": "nevará",
+      "nosotros": "nevaremos",
+      "vosotros": "nevaréis",
+      "uds": "nevarán"
+    },
+    "imperfecto": {
+      "yo": "nevaba",
+      "tu": "nevabas",
+      "ud": "nevaba",
+      "nosotros": "nevábamos",
+      "vosotros": "nevabais",
+      "uds": "nevaban"
+    },
+    "preterito": {
+      "yo": "nevé",
+      "tu": "nevaste",
+      "ud": "nevó",
+      "nosotros": "nevamos",
+      "vosotros": "nevasteis",
+      "uds": "nevaron"
+    },
+    "condicional": {
+      "yo": "nevaría",
+      "tu": "nevarías",
+      "ud": "nevaría",
+      "nosotros": "nevaríamos",
+      "vosotros": "nevaríais",
+      "uds": "nevarían"
+    },
+    "presentePerfecto": {
+      "yo": "he nevado",
+      "tu": "has nevado",
+      "ud": "ha nevado",
+      "nosotros": "hemos nevado",
+      "vosotros": "habéis nevado",
+      "uds": "han nevado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré nevado",
+      "tu": "habrás nevado",
+      "ud": "habrá nevado",
+      "nosotros": "habremos nevado",
+      "vosotros": "habréis nevado",
+      "uds": "habrán nevado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había nevado",
+      "tu": "habías nevado",
+      "ud": "había nevado",
+      "nosotros": "habíamos nevado",
+      "vosotros": "habíais nevado",
+      "uds": "habían nevado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube nevado",
+      "tu": "hubiste nevado",
+      "ud": "hubo nevado",
+      "nosotros": "hubimos nevado",
+      "vosotros": "hubisteis nevado",
+      "uds": "hubieron nevado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría nevado",
+      "tu": "habrías nevado",
+      "ud": "habría nevado",
+      "nosotros": "habríamos nevado",
+      "vosotros": "habríais nevado",
+      "uds": "habrían nevado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "nieve",
+      "tu": "nieves",
+      "ud": "nieve",
+      "nosotros": "nevemos",
+      "vosotros": "nevéis",
+      "uds": "nieven"
+    },
+    "imperfecto": {
+      "yo": "nevara",
+      "tu": "nevaras",
+      "ud": "nevara",
+      "nosotros": "neváramos",
+      "vosotros": "nevarais",
+      "uds": "nevaran"
+    },
+    "futuro": {
+      "yo": "nevare",
+      "tu": "nevares",
+      "ud": "nevare",
+      "nosotros": "neváremos",
+      "vosotros": "nevareis",
+      "uds": "nevaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya nevado",
+      "tu": "hayas nevado",
+      "ud": "haya nevado",
+      "nosotros": "hayamos nevado",
+      "vosotros": "hayáis nevado",
+      "uds": "hayan nevado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere nevado",
+      "tu": "hubieres nevado",
+      "ud": "hubiere nevado",
+      "nosotros": "hubiéremos nevado",
+      "vosotros": "hubiereis nevado",
+      "uds": "hubieren nevado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera nevado",
+      "tu": "hubieras nevado",
+      "ud": "hubiera nevado",
+      "nosotros": "hubiéramos nevado",
+      "vosotros": "hubierais nevado",
+      "uds": "hubieran nevado"
+    },
+    "imperfectoAlt": {
+      "yo": "nevase",
+      "tu": "nevases",
+      "ud": "nevase",
+      "nosotros": "nevásemos",
+      "vosotros": "nevaseis",
+      "uds": "nevasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese nevado",
+      "tu": "hubieses nevado",
+      "ud": "hubiese nevado",
+      "nosotros": "hubiésemos nevado",
+      "vosotros": "hubieseis nevado",
+      "uds": "hubiesen nevado"
+    }
+  },
+  "afirmativo": {
+    "tu": "nieva",
+    "vosotros": "nevad",
+    "ud": "nieve",
+    "uds": "nieven"
+  },
+  "negativo": {
+    "tu": "no nieves",
+    "vosotros": "no nevéis",
+    "ud": "no nieve",
+    "uds": "no nieven"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa. Note: This verb is normally used (impersonally) in the third person singular, for example: nieva = it snows, it is snowing.",
+    "infinitivo": "to snow",
+    "gerundio": "snowing",
+    "participioPasado": "snowed",
+    "indicativo": {
+      "presente": "it snows, is snowing",
+      "futuro": "it will snow",
+      "imperfecto": "it was snowing, used to snow, snowed",
+      "preterito": "it snowed",
+      "condicional": "it would snow",
+      "presentePerfecto": "it has snowed",
+      "futuroPerfecto": "it will have snowed",
+      "pluscuamperfecto": "it had snowed",
+      "preteritoAnterior": "it had snowed",
+      "condicionalPerfecto": "it would have snowed"
+    },
+    "subjuntivo": {
+      "presente": "it snows, is snowing",
+      "imperfecto": "it snowed, was snowing",
+      "futuro": "it will snow",
+      "presentePerfecto": "it has snowed, snowed",
+      "futuroPerfecto": "it will have snowed",
+      "pluscuamperfecto": "it had snowed"
+    },
+    "afirmativo": "Snow!",
+    "negativo": "Don't snow!"
+  },
+  "attribution": "Fred Jehle"
+}

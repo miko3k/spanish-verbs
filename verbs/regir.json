@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "regir",
+  "gerundio": "rigiendo",
+  "participioPasado": "regido",
+  "indicativo": {
+    "presente": {
+      "yo": "rijo",
+      "tu": "riges",
+      "ud": "rige",
+      "nosotros": "regimos",
+      "vosotros": "regís",
+      "uds": "rigen"
+    },
+    "futuro": {
+      "yo": "regiré",
+      "tu": "regirás",
+      "ud": "regirá",
+      "nosotros": "regiremos",
+      "vosotros": "regiréis",
+      "uds": "regirán"
+    },
+    "imperfecto": {
+      "yo": "regía",
+      "tu": "regías",
+      "ud": "regía",
+      "nosotros": "regíamos",
+      "vosotros": "regíais",
+      "uds": "regían"
+    },
+    "preterito": {
+      "yo": "regí",
+      "tu": "registe",
+      "ud": "rigió",
+      "nosotros": "regimos",
+      "vosotros": "registeis",
+      "uds": "rigieron"
+    },
+    "condicional": {
+      "yo": "regiría",
+      "tu": "regirías",
+      "ud": "regiría",
+      "nosotros": "regiríamos",
+      "vosotros": "regiríais",
+      "uds": "regirían"
+    },
+    "presentePerfecto": {
+      "yo": "he regido",
+      "tu": "has regido",
+      "ud": "ha regido",
+      "nosotros": "hemos regido",
+      "vosotros": "habéis regido",
+      "uds": "han regido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré regido",
+      "tu": "habrás regido",
+      "ud": "habrá regido",
+      "nosotros": "habremos regido",
+      "vosotros": "habréis regido",
+      "uds": "habrán regido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había regido",
+      "tu": "habías regido",
+      "ud": "había regido",
+      "nosotros": "habíamos regido",
+      "vosotros": "habíais regido",
+      "uds": "habían regido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube regido",
+      "tu": "hubiste regido",
+      "ud": "hubo regido",
+      "nosotros": "hubimos regido",
+      "vosotros": "hubisteis regido",
+      "uds": "hubieron regido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría regido",
+      "tu": "habrías regido",
+      "ud": "habría regido",
+      "nosotros": "habríamos regido",
+      "vosotros": "habríais regido",
+      "uds": "habrían regido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "rija",
+      "tu": "rijas",
+      "ud": "rija",
+      "nosotros": "rijamos",
+      "vosotros": "rijáis",
+      "uds": "rijan"
+    },
+    "imperfecto": {
+      "yo": "rigiera",
+      "tu": "rigieras",
+      "ud": "rigiera",
+      "nosotros": "rigiéramos",
+      "vosotros": "rigierais",
+      "uds": "rigieran"
+    },
+    "futuro": {
+      "yo": "rigiere",
+      "tu": "rigieres",
+      "ud": "rigiere",
+      "nosotros": "rigiéremos",
+      "vosotros": "rigiereis",
+      "uds": "rigieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya regido",
+      "tu": "hayas regido",
+      "ud": "haya regido",
+      "nosotros": "hayamos regido",
+      "vosotros": "hayáis regido",
+      "uds": "hayan regido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere regido",
+      "tu": "hubieres regido",
+      "ud": "hubiere regido",
+      "nosotros": "hubiéremos regido",
+      "vosotros": "hubiereis regido",
+      "uds": "hubieren regido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera regido",
+      "tu": "hubieras regido",
+      "ud": "hubiera regido",
+      "nosotros": "hubiéramos regido",
+      "vosotros": "hubierais regido",
+      "uds": "hubieran regido"
+    },
+    "imperfectoAlt": {
+      "yo": "rigiese",
+      "tu": "rigieses",
+      "ud": "rigiese",
+      "nosotros": "rigiésemos",
+      "vosotros": "rigieseis",
+      "uds": "rigiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese regido",
+      "tu": "hubieses regido",
+      "ud": "hubiese regido",
+      "nosotros": "hubiésemos regido",
+      "vosotros": "hubieseis regido",
+      "uds": "hubiesen regido"
+    }
+  },
+  "afirmativo": {
+    "tu": "rige",
+    "vosotros": "regid",
+    "ud": "rija",
+    "uds": "rijan"
+  },
+  "negativo": {
+    "tu": "no rijas",
+    "vosotros": "no rijáis",
+    "ud": "no rija",
+    "uds": "no rijan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Cambio ortográfico: g > j delante de o o a: rijo, rija, etc.",
+    "infinitivo": "to rule, govern, be in charge of, be at the head of",
+    "gerundio": "ruling",
+    "participioPasado": "ruled",
+    "indicativo": {
+      "presente": "I rule, am ruling",
+      "futuro": "I will rule",
+      "imperfecto": "I was ruling, used to rule, ruled",
+      "preterito": "I ruled",
+      "condicional": "I would rule",
+      "presentePerfecto": "I have ruled",
+      "futuroPerfecto": "I will have ruled",
+      "pluscuamperfecto": "I had ruled",
+      "preteritoAnterior": "I had ruled",
+      "condicionalPerfecto": "I would have ruled"
+    },
+    "subjuntivo": {
+      "presente": "I rule, am ruling",
+      "imperfecto": "I ruled, was ruling",
+      "futuro": "I will rule",
+      "presentePerfecto": "I have ruled, ruled",
+      "futuroPerfecto": "I will have ruled",
+      "pluscuamperfecto": "I had ruled"
+    },
+    "afirmativo": "Rule!",
+    "negativo": "Don't rule!"
+  },
+  "attribution": "Fred Jehle"
+}

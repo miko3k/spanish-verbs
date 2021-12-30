@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "toser",
+  "gerundio": "tosiendo",
+  "participioPasado": "tosido",
+  "indicativo": {
+    "presente": {
+      "yo": "toso",
+      "tu": "toses",
+      "ud": "tose",
+      "nosotros": "tosemos",
+      "vosotros": "toséis",
+      "uds": "tosen"
+    },
+    "futuro": {
+      "yo": "toseré",
+      "tu": "toserás",
+      "ud": "toserá",
+      "nosotros": "toseremos",
+      "vosotros": "toseréis",
+      "uds": "toserán"
+    },
+    "imperfecto": {
+      "yo": "tosía",
+      "tu": "tosías",
+      "ud": "tosía",
+      "nosotros": "tosíamos",
+      "vosotros": "tosíais",
+      "uds": "tosían"
+    },
+    "preterito": {
+      "yo": "tosí",
+      "tu": "tosiste",
+      "ud": "tosió",
+      "nosotros": "tosimos",
+      "vosotros": "tosisteis",
+      "uds": "tosieron"
+    },
+    "condicional": {
+      "yo": "tosería",
+      "tu": "toserías",
+      "ud": "tosería",
+      "nosotros": "toseríamos",
+      "vosotros": "toseríais",
+      "uds": "toserían"
+    },
+    "presentePerfecto": {
+      "yo": "he tosido",
+      "tu": "has tosido",
+      "ud": "ha tosido",
+      "nosotros": "hemos tosido",
+      "vosotros": "habéis tosido",
+      "uds": "han tosido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré tosido",
+      "tu": "habrás tosido",
+      "ud": "habrá tosido",
+      "nosotros": "habremos tosido",
+      "vosotros": "habréis tosido",
+      "uds": "habrán tosido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había tosido",
+      "tu": "habías tosido",
+      "ud": "había tosido",
+      "nosotros": "habíamos tosido",
+      "vosotros": "habíais tosido",
+      "uds": "habían tosido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube tosido",
+      "tu": "hubiste tosido",
+      "ud": "hubo tosido",
+      "nosotros": "hubimos tosido",
+      "vosotros": "hubisteis tosido",
+      "uds": "hubieron tosido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría tosido",
+      "tu": "habrías tosido",
+      "ud": "habría tosido",
+      "nosotros": "habríamos tosido",
+      "vosotros": "habríais tosido",
+      "uds": "habrían tosido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "tosa",
+      "tu": "tosas",
+      "ud": "tosa",
+      "nosotros": "tosamos",
+      "vosotros": "tosáis",
+      "uds": "tosan"
+    },
+    "imperfecto": {
+      "yo": "tosiera",
+      "tu": "tosieras",
+      "ud": "tosiera",
+      "nosotros": "tosiéramos",
+      "vosotros": "tosierais",
+      "uds": "tosieran"
+    },
+    "futuro": {
+      "yo": "tosiere",
+      "tu": "tosieres",
+      "ud": "tosiere",
+      "nosotros": "tosiéremos",
+      "vosotros": "tosiereis",
+      "uds": "tosieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya tosido",
+      "tu": "hayas tosido",
+      "ud": "haya tosido",
+      "nosotros": "hayamos tosido",
+      "vosotros": "hayáis tosido",
+      "uds": "hayan tosido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere tosido",
+      "tu": "hubieres tosido",
+      "ud": "hubiere tosido",
+      "nosotros": "hubiéremos tosido",
+      "vosotros": "hubiereis tosido",
+      "uds": "hubieren tosido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera tosido",
+      "tu": "hubieras tosido",
+      "ud": "hubiera tosido",
+      "nosotros": "hubiéramos tosido",
+      "vosotros": "hubierais tosido",
+      "uds": "hubieran tosido"
+    },
+    "imperfectoAlt": {
+      "yo": "tosiese",
+      "tu": "tosieses",
+      "ud": "tosiese",
+      "nosotros": "tosiésemos",
+      "vosotros": "tosieseis",
+      "uds": "tosiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese tosido",
+      "tu": "hubieses tosido",
+      "ud": "hubiese tosido",
+      "nosotros": "hubiésemos tosido",
+      "vosotros": "hubieseis tosido",
+      "uds": "hubiesen tosido"
+    }
+  },
+  "afirmativo": {
+    "tu": "tose",
+    "vosotros": "tosed",
+    "ud": "tosa",
+    "uds": "tosan"
+  },
+  "negativo": {
+    "tu": "no tosas",
+    "vosotros": "no tosáis",
+    "ud": "no tosa",
+    "uds": "no tosan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to cough",
+    "gerundio": "coughing",
+    "participioPasado": "coughed",
+    "indicativo": {
+      "presente": "I cough, am coughing",
+      "futuro": "I will cough",
+      "imperfecto": "I was coughing, used to cough, coughed",
+      "preterito": "I coughed",
+      "condicional": "I would cough",
+      "presentePerfecto": "I have coughed",
+      "futuroPerfecto": "I will have coughed",
+      "pluscuamperfecto": "I had coughed",
+      "preteritoAnterior": "I had coughed",
+      "condicionalPerfecto": "I would have coughed"
+    },
+    "subjuntivo": {
+      "presente": "I cough, am coughing",
+      "imperfecto": "I coughed, was coughing",
+      "futuro": "I will cough",
+      "presentePerfecto": "I have coughed, coughed",
+      "futuroPerfecto": "I will have coughed",
+      "pluscuamperfecto": "I had coughed"
+    },
+    "afirmativo": "Cough!",
+    "negativo": "Don't cough!"
+  },
+  "attribution": "Fred Jehle"
+}

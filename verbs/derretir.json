@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "derretir",
+  "gerundio": "derritiendo",
+  "participioPasado": "derretido",
+  "indicativo": {
+    "presente": {
+      "yo": "derrito",
+      "tu": "derrites",
+      "ud": "derrite",
+      "nosotros": "derretimos",
+      "vosotros": "derretís",
+      "uds": "derriten"
+    },
+    "futuro": {
+      "yo": "derretiré",
+      "tu": "derretirás",
+      "ud": "derretirá",
+      "nosotros": "derretiremos",
+      "vosotros": "derretiréis",
+      "uds": "derretirán"
+    },
+    "imperfecto": {
+      "yo": "derretía",
+      "tu": "derretías",
+      "ud": "derretía",
+      "nosotros": "derretíamos",
+      "vosotros": "derretíais",
+      "uds": "derretían"
+    },
+    "preterito": {
+      "yo": "derretí",
+      "tu": "derretiste",
+      "ud": "derritió",
+      "nosotros": "derretimos",
+      "vosotros": "derretisteis",
+      "uds": "derritieron"
+    },
+    "condicional": {
+      "yo": "derretiría",
+      "tu": "derretirías",
+      "ud": "derretiría",
+      "nosotros": "derretiríamos",
+      "vosotros": "derretiríais",
+      "uds": "derretirían"
+    },
+    "presentePerfecto": {
+      "yo": "he derretido",
+      "tu": "has derretido",
+      "ud": "ha derretido",
+      "nosotros": "hemos derretido",
+      "vosotros": "habéis derretido",
+      "uds": "han derretido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré derretido",
+      "tu": "habrás derretido",
+      "ud": "habrá derretido",
+      "nosotros": "habremos derretido",
+      "vosotros": "habréis derretido",
+      "uds": "habrán derretido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había derretido",
+      "tu": "habías derretido",
+      "ud": "había derretido",
+      "nosotros": "habíamos derretido",
+      "vosotros": "habíais derretido",
+      "uds": "habían derretido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube derretido",
+      "tu": "hubiste derretido",
+      "ud": "hubo derretido",
+      "nosotros": "hubimos derretido",
+      "vosotros": "hubisteis derretido",
+      "uds": "hubieron derretido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría derretido",
+      "tu": "habrías derretido",
+      "ud": "habría derretido",
+      "nosotros": "habríamos derretido",
+      "vosotros": "habríais derretido",
+      "uds": "habrían derretido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "derrita",
+      "tu": "derritas",
+      "ud": "derrita",
+      "nosotros": "derritamos",
+      "vosotros": "derritáis",
+      "uds": "derritan"
+    },
+    "imperfecto": {
+      "yo": "derritiera",
+      "tu": "derritieras",
+      "ud": "derritiera",
+      "nosotros": "derritiéramos",
+      "vosotros": "derritierais",
+      "uds": "derritieran"
+    },
+    "futuro": {
+      "yo": "derritiere",
+      "tu": "derritieres",
+      "ud": "derritiere",
+      "nosotros": "derritiéremos",
+      "vosotros": "derritiereis",
+      "uds": "derritieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya derretido",
+      "tu": "hayas derretido",
+      "ud": "haya derretido",
+      "nosotros": "hayamos derretido",
+      "vosotros": "hayáis derretido",
+      "uds": "hayan derretido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere derretido",
+      "tu": "hubieres derretido",
+      "ud": "hubiere derretido",
+      "nosotros": "hubiéremos derretido",
+      "vosotros": "hubiereis derretido",
+      "uds": "hubieren derretido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera derretido",
+      "tu": "hubieras derretido",
+      "ud": "hubiera derretido",
+      "nosotros": "hubiéramos derretido",
+      "vosotros": "hubierais derretido",
+      "uds": "hubieran derretido"
+    },
+    "imperfectoAlt": {
+      "yo": "derritiese",
+      "tu": "derritieses",
+      "ud": "derritiese",
+      "nosotros": "derritiésemos",
+      "vosotros": "derritieseis",
+      "uds": "derritiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese derretido",
+      "tu": "hubieses derretido",
+      "ud": "hubiese derretido",
+      "nosotros": "hubiésemos derretido",
+      "vosotros": "hubieseis derretido",
+      "uds": "hubiesen derretido"
+    }
+  },
+  "afirmativo": {
+    "tu": "derrite",
+    "vosotros": "derretid",
+    "ud": "derrita",
+    "uds": "derritan"
+  },
+  "negativo": {
+    "tu": "no derritas",
+    "vosotros": "no derritáis",
+    "ud": "no derrita",
+    "uds": "no derritan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i.",
+    "infinitivo": "to melt, liquefy, thaw",
+    "gerundio": "melting",
+    "participioPasado": "melted",
+    "indicativo": {
+      "presente": "I melt, am melting",
+      "futuro": "I will melt",
+      "imperfecto": "I was melting, used to melt, melted",
+      "preterito": "I melted",
+      "condicional": "I would melt",
+      "presentePerfecto": "I have melted",
+      "futuroPerfecto": "I will have melted",
+      "pluscuamperfecto": "I had melted",
+      "preteritoAnterior": "I had melted",
+      "condicionalPerfecto": "I would have melted"
+    },
+    "subjuntivo": {
+      "presente": "I melt, am melting",
+      "imperfecto": "I melted, was melting",
+      "futuro": "I will melt",
+      "presentePerfecto": "I have melted, melted",
+      "futuroPerfecto": "I will have melted",
+      "pluscuamperfecto": "I had melted"
+    },
+    "afirmativo": "Melt!",
+    "negativo": "Don't melt!"
+  },
+  "attribution": "Fred Jehle"
+}

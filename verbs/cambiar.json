@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cambiar",
+  "gerundio": "cambiando",
+  "participioPasado": "cambiado",
+  "indicativo": {
+    "presente": {
+      "yo": "cambio",
+      "tu": "cambias",
+      "ud": "cambia",
+      "nosotros": "cambiamos",
+      "vosotros": "cambiáis",
+      "uds": "cambian"
+    },
+    "futuro": {
+      "yo": "cambiaré",
+      "tu": "cambiarás",
+      "ud": "cambiará",
+      "nosotros": "cambiaremos",
+      "vosotros": "cambiaréis",
+      "uds": "cambiarán"
+    },
+    "imperfecto": {
+      "yo": "cambiaba",
+      "tu": "cambiabas",
+      "ud": "cambiaba",
+      "nosotros": "cambiábamos",
+      "vosotros": "cambiabais",
+      "uds": "cambiaban"
+    },
+    "preterito": {
+      "yo": "cambié",
+      "tu": "cambiaste",
+      "ud": "cambió",
+      "nosotros": "cambiamos",
+      "vosotros": "cambiasteis",
+      "uds": "cambiaron"
+    },
+    "condicional": {
+      "yo": "cambiaría",
+      "tu": "cambiarías",
+      "ud": "cambiaría",
+      "nosotros": "cambiaríamos",
+      "vosotros": "cambiaríais",
+      "uds": "cambiarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cambiado",
+      "tu": "has cambiado",
+      "ud": "ha cambiado",
+      "nosotros": "hemos cambiado",
+      "vosotros": "habéis cambiado",
+      "uds": "han cambiado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cambiado",
+      "tu": "habrás cambiado",
+      "ud": "habrá cambiado",
+      "nosotros": "habremos cambiado",
+      "vosotros": "habréis cambiado",
+      "uds": "habrán cambiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cambiado",
+      "tu": "habías cambiado",
+      "ud": "había cambiado",
+      "nosotros": "habíamos cambiado",
+      "vosotros": "habíais cambiado",
+      "uds": "habían cambiado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cambiado",
+      "tu": "hubiste cambiado",
+      "ud": "hubo cambiado",
+      "nosotros": "hubimos cambiado",
+      "vosotros": "hubisteis cambiado",
+      "uds": "hubieron cambiado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cambiado",
+      "tu": "habrías cambiado",
+      "ud": "habría cambiado",
+      "nosotros": "habríamos cambiado",
+      "vosotros": "habríais cambiado",
+      "uds": "habrían cambiado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cambie",
+      "tu": "cambies",
+      "ud": "cambie",
+      "nosotros": "cambiemos",
+      "vosotros": "cambiéis",
+      "uds": "cambien"
+    },
+    "imperfecto": {
+      "yo": "cambiara",
+      "tu": "cambiaras",
+      "ud": "cambiara",
+      "nosotros": "cambiáramos",
+      "vosotros": "cambiarais",
+      "uds": "cambiaran"
+    },
+    "futuro": {
+      "yo": "cambiare",
+      "tu": "cambiares",
+      "ud": "cambiare",
+      "nosotros": "cambiáremos",
+      "vosotros": "cambiareis",
+      "uds": "cambiaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cambiado",
+      "tu": "hayas cambiado",
+      "ud": "haya cambiado",
+      "nosotros": "hayamos cambiado",
+      "vosotros": "hayáis cambiado",
+      "uds": "hayan cambiado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cambiado",
+      "tu": "hubieres cambiado",
+      "ud": "hubiere cambiado",
+      "nosotros": "hubiéremos cambiado",
+      "vosotros": "hubiereis cambiado",
+      "uds": "hubieren cambiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cambiado",
+      "tu": "hubieras cambiado",
+      "ud": "hubiera cambiado",
+      "nosotros": "hubiéramos cambiado",
+      "vosotros": "hubierais cambiado",
+      "uds": "hubieran cambiado"
+    },
+    "imperfectoAlt": {
+      "yo": "cambiase",
+      "tu": "cambiases",
+      "ud": "cambiase",
+      "nosotros": "cambiásemos",
+      "vosotros": "cambiaseis",
+      "uds": "cambiasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cambiado",
+      "tu": "hubieses cambiado",
+      "ud": "hubiese cambiado",
+      "nosotros": "hubiésemos cambiado",
+      "vosotros": "hubieseis cambiado",
+      "uds": "hubiesen cambiado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cambia",
+    "vosotros": "cambiad",
+    "ud": "cambie",
+    "uds": "cambien"
+  },
+  "negativo": {
+    "tu": "no cambies",
+    "vosotros": "no cambiéis",
+    "ud": "no cambie",
+    "uds": "no cambien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to change",
+    "gerundio": "changing",
+    "participioPasado": "changed",
+    "indicativo": {
+      "presente": "I change, am changing",
+      "futuro": "I will change",
+      "imperfecto": "I was changing, used to change, changed",
+      "preterito": "I changed",
+      "condicional": "I would change",
+      "presentePerfecto": "I have changed",
+      "futuroPerfecto": "I will have changed",
+      "pluscuamperfecto": "I had changed",
+      "preteritoAnterior": "I had changed",
+      "condicionalPerfecto": "I would have changed"
+    },
+    "subjuntivo": {
+      "presente": "I change, am changing",
+      "imperfecto": "I changed, was changing",
+      "futuro": "I will change",
+      "presentePerfecto": "I have changed, changed",
+      "futuroPerfecto": "I will have changed",
+      "pluscuamperfecto": "I had changed"
+    },
+    "afirmativo": "Change!",
+    "negativo": "Don't change!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "doblar",
+  "gerundio": "doblando",
+  "participioPasado": "doblado",
+  "indicativo": {
+    "presente": {
+      "yo": "doblo",
+      "tu": "doblas",
+      "ud": "dobla",
+      "nosotros": "doblamos",
+      "vosotros": "dobláis",
+      "uds": "doblan"
+    },
+    "futuro": {
+      "yo": "doblaré",
+      "tu": "doblarás",
+      "ud": "doblará",
+      "nosotros": "doblaremos",
+      "vosotros": "doblaréis",
+      "uds": "doblarán"
+    },
+    "imperfecto": {
+      "yo": "doblaba",
+      "tu": "doblabas",
+      "ud": "doblaba",
+      "nosotros": "doblábamos",
+      "vosotros": "doblabais",
+      "uds": "doblaban"
+    },
+    "preterito": {
+      "yo": "doblé",
+      "tu": "doblaste",
+      "ud": "dobló",
+      "nosotros": "doblamos",
+      "vosotros": "doblasteis",
+      "uds": "doblaron"
+    },
+    "condicional": {
+      "yo": "doblaría",
+      "tu": "doblarías",
+      "ud": "doblaría",
+      "nosotros": "doblaríamos",
+      "vosotros": "doblaríais",
+      "uds": "doblarían"
+    },
+    "presentePerfecto": {
+      "yo": "he doblado",
+      "tu": "has doblado",
+      "ud": "ha doblado",
+      "nosotros": "hemos doblado",
+      "vosotros": "habéis doblado",
+      "uds": "han doblado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré doblado",
+      "tu": "habrás doblado",
+      "ud": "habrá doblado",
+      "nosotros": "habremos doblado",
+      "vosotros": "habréis doblado",
+      "uds": "habrán doblado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había doblado",
+      "tu": "habías doblado",
+      "ud": "había doblado",
+      "nosotros": "habíamos doblado",
+      "vosotros": "habíais doblado",
+      "uds": "habían doblado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube doblado",
+      "tu": "hubiste doblado",
+      "ud": "hubo doblado",
+      "nosotros": "hubimos doblado",
+      "vosotros": "hubisteis doblado",
+      "uds": "hubieron doblado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría doblado",
+      "tu": "habrías doblado",
+      "ud": "habría doblado",
+      "nosotros": "habríamos doblado",
+      "vosotros": "habríais doblado",
+      "uds": "habrían doblado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "doble",
+      "tu": "dobles",
+      "ud": "doble",
+      "nosotros": "doblemos",
+      "vosotros": "dobléis",
+      "uds": "doblen"
+    },
+    "imperfecto": {
+      "yo": "doblara",
+      "tu": "doblaras",
+      "ud": "doblara",
+      "nosotros": "dobláramos",
+      "vosotros": "doblarais",
+      "uds": "doblaran"
+    },
+    "futuro": {
+      "yo": "doblare",
+      "tu": "doblares",
+      "ud": "doblare",
+      "nosotros": "dobláremos",
+      "vosotros": "doblareis",
+      "uds": "doblaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya doblado",
+      "tu": "hayas doblado",
+      "ud": "haya doblado",
+      "nosotros": "hayamos doblado",
+      "vosotros": "hayáis doblado",
+      "uds": "hayan doblado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere doblado",
+      "tu": "hubieres doblado",
+      "ud": "hubiere doblado",
+      "nosotros": "hubiéremos doblado",
+      "vosotros": "hubiereis doblado",
+      "uds": "hubieren doblado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera doblado",
+      "tu": "hubieras doblado",
+      "ud": "hubiera doblado",
+      "nosotros": "hubiéramos doblado",
+      "vosotros": "hubierais doblado",
+      "uds": "hubieran doblado"
+    },
+    "imperfectoAlt": {
+      "yo": "doblase",
+      "tu": "doblases",
+      "ud": "doblase",
+      "nosotros": "doblásemos",
+      "vosotros": "doblaseis",
+      "uds": "doblasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese doblado",
+      "tu": "hubieses doblado",
+      "ud": "hubiese doblado",
+      "nosotros": "hubiésemos doblado",
+      "vosotros": "hubieseis doblado",
+      "uds": "hubiesen doblado"
+    }
+  },
+  "afirmativo": {
+    "tu": "dobla",
+    "vosotros": "doblad",
+    "ud": "doble",
+    "uds": "doblen"
+  },
+  "negativo": {
+    "tu": "no dobles",
+    "vosotros": "no dobléis",
+    "ud": "no doble",
+    "uds": "no doblen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to double; to turn (a corner, to the right, etc.); to fold, crease",
+    "gerundio": "doubling",
+    "participioPasado": "doubled",
+    "indicativo": {
+      "presente": "I double, am doubling",
+      "futuro": "I will double",
+      "imperfecto": "I was doubling, used to double, doubled",
+      "preterito": "I doubled",
+      "condicional": "I would double",
+      "presentePerfecto": "I have doubled",
+      "futuroPerfecto": "I will have doubled",
+      "pluscuamperfecto": "I had doubled",
+      "preteritoAnterior": "I had doubled",
+      "condicionalPerfecto": "I would have doubled"
+    },
+    "subjuntivo": {
+      "presente": "I double, am doubling",
+      "imperfecto": "I doubled, was doubling",
+      "futuro": "I will double",
+      "presentePerfecto": "I have doubled, doubled",
+      "futuroPerfecto": "I will have doubled",
+      "pluscuamperfecto": "I had doubled"
+    },
+    "afirmativo": "Double!",
+    "negativo": "Don't double!"
+  },
+  "attribution": "Fred Jehle"
+}

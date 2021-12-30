@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "atraer",
+  "gerundio": "atrayendo",
+  "participioPasado": "atraído",
+  "indicativo": {
+    "presente": {
+      "yo": "atraigo",
+      "tu": "atraes",
+      "ud": "atrae",
+      "nosotros": "atraemos",
+      "vosotros": "atraéis",
+      "uds": "atraen"
+    },
+    "futuro": {
+      "yo": "atraeré",
+      "tu": "atraerás",
+      "ud": "atraerá",
+      "nosotros": "atraeremos",
+      "vosotros": "atraeréis",
+      "uds": "atraerán"
+    },
+    "imperfecto": {
+      "yo": "atraía",
+      "tu": "atraías",
+      "ud": "atraía",
+      "nosotros": "atraíamos",
+      "vosotros": "atraíais",
+      "uds": "atraían"
+    },
+    "preterito": {
+      "yo": "atraje",
+      "tu": "atrajiste",
+      "ud": "atrajo",
+      "nosotros": "atrajimos",
+      "vosotros": "atrajisteis",
+      "uds": "atrajeron"
+    },
+    "condicional": {
+      "yo": "atraería",
+      "tu": "atraerías",
+      "ud": "atraería",
+      "nosotros": "atraeríamos",
+      "vosotros": "atraeríais",
+      "uds": "atraerían"
+    },
+    "presentePerfecto": {
+      "yo": "he atraído",
+      "tu": "has atraído",
+      "ud": "ha atraído",
+      "nosotros": "hemos atraído",
+      "vosotros": "habéis atraído",
+      "uds": "han atraído"
+    },
+    "futuroPerfecto": {
+      "yo": "habré atraído",
+      "tu": "habrás atraído",
+      "ud": "habrá atraído",
+      "nosotros": "habremos atraído",
+      "vosotros": "habréis atraído",
+      "uds": "habrán atraído"
+    },
+    "pluscuamperfecto": {
+      "yo": "había atraído",
+      "tu": "habías atraído",
+      "ud": "había atraído",
+      "nosotros": "habíamos atraído",
+      "vosotros": "habíais atraído",
+      "uds": "habían atraído"
+    },
+    "preteritoAnterior": {
+      "yo": "hube atraído",
+      "tu": "hubiste atraído",
+      "ud": "hubo atraído",
+      "nosotros": "hubimos atraído",
+      "vosotros": "hubisteis atraído",
+      "uds": "hubieron atraído"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría atraído",
+      "tu": "habrías atraído",
+      "ud": "habría atraído",
+      "nosotros": "habríamos atraído",
+      "vosotros": "habríais atraído",
+      "uds": "habrían atraído"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "atraiga",
+      "tu": "atraigas",
+      "ud": "atraiga",
+      "nosotros": "atraigamos",
+      "vosotros": "atraigáis",
+      "uds": "atraigan"
+    },
+    "imperfecto": {
+      "yo": "atrajera",
+      "tu": "atrajeras",
+      "ud": "atrajera",
+      "nosotros": "atrajéramos",
+      "vosotros": "atrajerais",
+      "uds": "atrajeran"
+    },
+    "futuro": {
+      "yo": "atrajere",
+      "tu": "atrajeres",
+      "ud": "atrajere",
+      "nosotros": "atrajéremos",
+      "vosotros": "atrajereis",
+      "uds": "atrajeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya atraído",
+      "tu": "hayas atraído",
+      "ud": "haya atraído",
+      "nosotros": "hayamos atraído",
+      "vosotros": "hayáis atraído",
+      "uds": "hayan atraído"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere atraído",
+      "tu": "hubieres atraído",
+      "ud": "hubiere atraído",
+      "nosotros": "hubiéremos atraído",
+      "vosotros": "hubiereis atraído",
+      "uds": "hubieren atraído"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera atraído",
+      "tu": "hubieras atraído",
+      "ud": "hubiera atraído",
+      "nosotros": "hubiéramos atraído",
+      "vosotros": "hubierais atraído",
+      "uds": "hubieran atraído"
+    },
+    "imperfectoAlt": {
+      "yo": "atrajese",
+      "tu": "atrajeses",
+      "ud": "atrajese",
+      "nosotros": "atrajésemos",
+      "vosotros": "atrajeseis",
+      "uds": "atrajesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese atraído",
+      "tu": "hubieses atraído",
+      "ud": "hubiese atraído",
+      "nosotros": "hubiésemos atraído",
+      "vosotros": "hubieseis atraído",
+      "uds": "hubiesen atraído"
+    }
+  },
+  "afirmativo": {
+    "tu": "atrae",
+    "vosotros": "atraed",
+    "ud": "atraiga",
+    "uds": "atraigan"
+  },
+  "negativo": {
+    "tu": "no atraigas",
+    "vosotros": "no atraigáis",
+    "ud": "no atraiga",
+    "uds": "no atraigan"
+  },
+  "english": {
+    "note": "Formas irregulares: atraigo, atraiga, atraigas, etc. Radical fuerte en el pretérito: atraj-. Hay acento escrito en el participio pasado: atraído. La i intervocálica (cuando no se acentúa) > y: atrayendo.",
+    "infinitivo": "to attract, draw, lure",
+    "gerundio": "attracting",
+    "participioPasado": "attracted",
+    "indicativo": {
+      "presente": "I attract, am attracting",
+      "futuro": "I will attract",
+      "imperfecto": "I was attracting, used to attract, attracted",
+      "preterito": "I attracted",
+      "condicional": "I would attract",
+      "presentePerfecto": "I have attracted",
+      "futuroPerfecto": "I will have attracted",
+      "pluscuamperfecto": "I had attracted",
+      "preteritoAnterior": "I had attracted",
+      "condicionalPerfecto": "I would have attracted"
+    },
+    "subjuntivo": {
+      "presente": "I attract, am attracting",
+      "imperfecto": "I was attracting, attracted",
+      "futuro": "I will attract",
+      "presentePerfecto": "I have attracted, attracted",
+      "futuroPerfecto": "I will have attracted",
+      "pluscuamperfecto": "I had attracted"
+    },
+    "afirmativo": "Attract!,",
+    "negativo": "Don't attract!"
+  },
+  "attribution": "Fred Jehle"
+}

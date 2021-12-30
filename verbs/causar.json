@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "causar",
+  "gerundio": "causando",
+  "participioPasado": "causado",
+  "indicativo": {
+    "presente": {
+      "yo": "causo",
+      "tu": "causas",
+      "ud": "causa",
+      "nosotros": "causamos",
+      "vosotros": "causáis",
+      "uds": "causan"
+    },
+    "futuro": {
+      "yo": "causaré",
+      "tu": "causarás",
+      "ud": "causará",
+      "nosotros": "causaremos",
+      "vosotros": "causaréis",
+      "uds": "causarán"
+    },
+    "imperfecto": {
+      "yo": "causaba",
+      "tu": "causabas",
+      "ud": "causaba",
+      "nosotros": "causábamos",
+      "vosotros": "causabais",
+      "uds": "causaban"
+    },
+    "preterito": {
+      "yo": "causé",
+      "tu": "causaste",
+      "ud": "causó",
+      "nosotros": "causamos",
+      "vosotros": "causasteis",
+      "uds": "causaron"
+    },
+    "condicional": {
+      "yo": "causaría",
+      "tu": "causarías",
+      "ud": "causaría",
+      "nosotros": "causaríamos",
+      "vosotros": "causaríais",
+      "uds": "causarían"
+    },
+    "presentePerfecto": {
+      "yo": "he causado",
+      "tu": "has causado",
+      "ud": "ha causado",
+      "nosotros": "hemos causado",
+      "vosotros": "habéis causado",
+      "uds": "han causado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré causado",
+      "tu": "habrás causado",
+      "ud": "habrá causado",
+      "nosotros": "habremos causado",
+      "vosotros": "habréis causado",
+      "uds": "habrán causado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había causado",
+      "tu": "habías causado",
+      "ud": "había causado",
+      "nosotros": "habíamos causado",
+      "vosotros": "habíais causado",
+      "uds": "habían causado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube causado",
+      "tu": "hubiste causado",
+      "ud": "hubo causado",
+      "nosotros": "hubimos causado",
+      "vosotros": "hubisteis causado",
+      "uds": "hubieron causado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría causado",
+      "tu": "habrías causado",
+      "ud": "habría causado",
+      "nosotros": "habríamos causado",
+      "vosotros": "habríais causado",
+      "uds": "habrían causado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cause",
+      "tu": "causes",
+      "ud": "cause",
+      "nosotros": "causemos",
+      "vosotros": "causéis",
+      "uds": "causen"
+    },
+    "imperfecto": {
+      "yo": "causara",
+      "tu": "causaras",
+      "ud": "causara",
+      "nosotros": "causáramos",
+      "vosotros": "causarais",
+      "uds": "causaran"
+    },
+    "futuro": {
+      "yo": "causare",
+      "tu": "causares",
+      "ud": "causare",
+      "nosotros": "causáremos",
+      "vosotros": "causareis",
+      "uds": "causaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya causado",
+      "tu": "hayas causado",
+      "ud": "haya causado",
+      "nosotros": "hayamos causado",
+      "vosotros": "hayáis causado",
+      "uds": "hayan causado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere causado",
+      "tu": "hubieres causado",
+      "ud": "hubiere causado",
+      "nosotros": "hubiéremos causado",
+      "vosotros": "hubiereis causado",
+      "uds": "hubieren causado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera causado",
+      "tu": "hubieras causado",
+      "ud": "hubiera causado",
+      "nosotros": "hubiéramos causado",
+      "vosotros": "hubierais causado",
+      "uds": "hubieran causado"
+    },
+    "imperfectoAlt": {
+      "yo": "causase",
+      "tu": "causases",
+      "ud": "causase",
+      "nosotros": "causásemos",
+      "vosotros": "causaseis",
+      "uds": "causasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese causado",
+      "tu": "hubieses causado",
+      "ud": "hubiese causado",
+      "nosotros": "hubiésemos causado",
+      "vosotros": "hubieseis causado",
+      "uds": "hubiesen causado"
+    }
+  },
+  "afirmativo": {
+    "tu": "causa",
+    "vosotros": "causad",
+    "ud": "cause",
+    "uds": "causen"
+  },
+  "negativo": {
+    "tu": "no causes",
+    "vosotros": "no causéis",
+    "ud": "no cause",
+    "uds": "no causen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to cause; to create, make",
+    "gerundio": "causing",
+    "participioPasado": "caused",
+    "indicativo": {
+      "presente": "I cause, am causing",
+      "futuro": "I will cause",
+      "imperfecto": "I was causing, used to cause, caused",
+      "preterito": "I caused",
+      "condicional": "I would cause",
+      "presentePerfecto": "I have caused",
+      "futuroPerfecto": "I will have caused",
+      "pluscuamperfecto": "I had caused",
+      "preteritoAnterior": "I had caused",
+      "condicionalPerfecto": "I would have caused"
+    },
+    "subjuntivo": {
+      "presente": "I cause, am causing",
+      "imperfecto": "I caused, was causing",
+      "futuro": "I will cause",
+      "presentePerfecto": "I have caused, caused",
+      "futuroPerfecto": "I will have caused",
+      "pluscuamperfecto": "I had caused"
+    },
+    "afirmativo": "Cause!",
+    "negativo": "Don't cause!"
+  },
+  "attribution": "Fred Jehle"
+}

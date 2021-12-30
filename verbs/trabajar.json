@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "trabajar",
+  "gerundio": "trabajando",
+  "participioPasado": "trabajado",
+  "indicativo": {
+    "presente": {
+      "yo": "trabajo",
+      "tu": "trabajas",
+      "ud": "trabaja",
+      "nosotros": "trabajamos",
+      "vosotros": "trabajáis",
+      "uds": "trabajan"
+    },
+    "futuro": {
+      "yo": "trabajaré",
+      "tu": "trabajarás",
+      "ud": "trabajará",
+      "nosotros": "trabajaremos",
+      "vosotros": "trabajaréis",
+      "uds": "trabajarán"
+    },
+    "imperfecto": {
+      "yo": "trabajaba",
+      "tu": "trabajabas",
+      "ud": "trabajaba",
+      "nosotros": "trabajábamos",
+      "vosotros": "trabajabais",
+      "uds": "trabajaban"
+    },
+    "preterito": {
+      "yo": "trabajé",
+      "tu": "trabajaste",
+      "ud": "trabajó",
+      "nosotros": "trabajamos",
+      "vosotros": "trabajasteis",
+      "uds": "trabajaron"
+    },
+    "condicional": {
+      "yo": "trabajaría",
+      "tu": "trabajarías",
+      "ud": "trabajaría",
+      "nosotros": "trabajaríamos",
+      "vosotros": "trabajaríais",
+      "uds": "trabajarían"
+    },
+    "presentePerfecto": {
+      "yo": "he trabajado",
+      "tu": "has trabajado",
+      "ud": "ha trabajado",
+      "nosotros": "hemos trabajado",
+      "vosotros": "habéis trabajado",
+      "uds": "han trabajado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré trabajado",
+      "tu": "habrás trabajado",
+      "ud": "habrá trabajado",
+      "nosotros": "habremos trabajado",
+      "vosotros": "habréis trabajado",
+      "uds": "habrán trabajado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había trabajado",
+      "tu": "habías trabajado",
+      "ud": "había trabajado",
+      "nosotros": "habíamos trabajado",
+      "vosotros": "habíais trabajado",
+      "uds": "habían trabajado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube trabajado",
+      "tu": "hubiste trabajado",
+      "ud": "hubo trabajado",
+      "nosotros": "hubimos trabajado",
+      "vosotros": "hubisteis trabajado",
+      "uds": "hubieron trabajado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría trabajado",
+      "tu": "habrías trabajado",
+      "ud": "habría trabajado",
+      "nosotros": "habríamos trabajado",
+      "vosotros": "habríais trabajado",
+      "uds": "habrían trabajado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "trabaje",
+      "tu": "trabajes",
+      "ud": "trabaje",
+      "nosotros": "trabajemos",
+      "vosotros": "trabajéis",
+      "uds": "trabajen"
+    },
+    "imperfecto": {
+      "yo": "trabajara",
+      "tu": "trabajaras",
+      "ud": "trabajara",
+      "nosotros": "trabajáramos",
+      "vosotros": "trabajarais",
+      "uds": "trabajaran"
+    },
+    "futuro": {
+      "yo": "trabajare",
+      "tu": "trabajares",
+      "ud": "trabajare",
+      "nosotros": "trabajáremos",
+      "vosotros": "trabajareis",
+      "uds": "trabajaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya trabajado",
+      "tu": "hayas trabajado",
+      "ud": "haya trabajado",
+      "nosotros": "hayamos trabajado",
+      "vosotros": "hayáis trabajado",
+      "uds": "hayan trabajado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere trabajado",
+      "tu": "hubieres trabajado",
+      "ud": "hubiere trabajado",
+      "nosotros": "hubiéremos trabajado",
+      "vosotros": "hubiereis trabajado",
+      "uds": "hubieren trabajado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera trabajado",
+      "tu": "hubieras trabajado",
+      "ud": "hubiera trabajado",
+      "nosotros": "hubiéramos trabajado",
+      "vosotros": "hubierais trabajado",
+      "uds": "hubieran trabajado"
+    },
+    "imperfectoAlt": {
+      "yo": "trabajase",
+      "tu": "trabajases",
+      "ud": "trabajase",
+      "nosotros": "trabajásemos",
+      "vosotros": "trabajaseis",
+      "uds": "trabajasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese trabajado",
+      "tu": "hubieses trabajado",
+      "ud": "hubiese trabajado",
+      "nosotros": "hubiésemos trabajado",
+      "vosotros": "hubieseis trabajado",
+      "uds": "hubiesen trabajado"
+    }
+  },
+  "afirmativo": {
+    "tu": "trabaja",
+    "vosotros": "trabajad",
+    "ud": "trabaje",
+    "uds": "trabajen"
+  },
+  "negativo": {
+    "tu": "no trabajes",
+    "vosotros": "no trabajéis",
+    "ud": "no trabaje",
+    "uds": "no trabajen"
+  },
+  "english": {
+    "note": "For to work in the sense of to function, use funcionar.",
+    "infinitivo": "to work",
+    "gerundio": "working",
+    "participioPasado": "worked",
+    "indicativo": {
+      "presente": "I work, am working",
+      "futuro": "I will work",
+      "imperfecto": "I was working, used to work, worked",
+      "preterito": "I worked",
+      "condicional": "I would work",
+      "presentePerfecto": "I have worked",
+      "futuroPerfecto": "I will have worked",
+      "pluscuamperfecto": "I had worked",
+      "preteritoAnterior": "I had worked",
+      "condicionalPerfecto": "I would have worked"
+    },
+    "subjuntivo": {
+      "presente": "I work, am working",
+      "imperfecto": "I worked, was working",
+      "futuro": "I will work",
+      "presentePerfecto": "I have worked, worked",
+      "futuroPerfecto": "I will have worked",
+      "pluscuamperfecto": "I had worked"
+    },
+    "afirmativo": "Work!",
+    "negativo": "Don't work!"
+  },
+  "attribution": "Fred Jehle"
+}

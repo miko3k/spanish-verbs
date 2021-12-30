@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "cubrir",
+  "gerundio": "cubriendo",
+  "participioPasado": "cubierto",
+  "indicativo": {
+    "presente": {
+      "yo": "cubro",
+      "tu": "cubres",
+      "ud": "cubre",
+      "nosotros": "cubrimos",
+      "vosotros": "cubrís",
+      "uds": "cubren"
+    },
+    "futuro": {
+      "yo": "cubriré",
+      "tu": "cubrirás",
+      "ud": "cubrirá",
+      "nosotros": "cubriremos",
+      "vosotros": "cubriréis",
+      "uds": "cubrirán"
+    },
+    "imperfecto": {
+      "yo": "cubría",
+      "tu": "cubrías",
+      "ud": "cubría",
+      "nosotros": "cubríamos",
+      "vosotros": "cubríais",
+      "uds": "cubrían"
+    },
+    "preterito": {
+      "yo": "cubrí",
+      "tu": "cubriste",
+      "ud": "cubrió",
+      "nosotros": "cubrimos",
+      "vosotros": "cubristeis",
+      "uds": "cubrieron"
+    },
+    "condicional": {
+      "yo": "cubriría",
+      "tu": "cubrirías",
+      "ud": "cubriría",
+      "nosotros": "cubriríamos",
+      "vosotros": "cubriríais",
+      "uds": "cubrirían"
+    },
+    "presentePerfecto": {
+      "yo": "he cubierto",
+      "tu": "has cubierto",
+      "ud": "ha cubierto",
+      "nosotros": "hemos cubierto",
+      "vosotros": "habéis cubierto",
+      "uds": "han cubierto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cubierto",
+      "tu": "habrás cubierto",
+      "ud": "habrá cubierto",
+      "nosotros": "habremos cubierto",
+      "vosotros": "habréis cubierto",
+      "uds": "habrán cubierto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cubierto",
+      "tu": "habías cubierto",
+      "ud": "había cubierto",
+      "nosotros": "habíamos cubierto",
+      "vosotros": "habíais cubierto",
+      "uds": "habían cubierto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cubierto",
+      "tu": "hubiste cubierto",
+      "ud": "hubo cubierto",
+      "nosotros": "hubimos cubierto",
+      "vosotros": "hubisteis cubierto",
+      "uds": "hubieron cubierto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cubierto",
+      "tu": "habrías cubierto",
+      "ud": "habría cubierto",
+      "nosotros": "habríamos cubierto",
+      "vosotros": "habríais cubierto",
+      "uds": "habrían cubierto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cubra",
+      "tu": "cubras",
+      "ud": "cubra",
+      "nosotros": "cubramos",
+      "vosotros": "cubráis",
+      "uds": "cubran"
+    },
+    "imperfecto": {
+      "yo": "cubriera",
+      "tu": "cubrieras",
+      "ud": "cubriera",
+      "nosotros": "cubriéramos",
+      "vosotros": "cubrierais",
+      "uds": "cubrieran"
+    },
+    "futuro": {
+      "yo": "cubriere",
+      "tu": "cubrieres",
+      "ud": "cubriere",
+      "nosotros": "cubriéremos",
+      "vosotros": "cubriereis",
+      "uds": "cubrieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cubierto",
+      "tu": "hayas cubierto",
+      "ud": "haya cubierto",
+      "nosotros": "hayamos cubierto",
+      "vosotros": "hayáis cubierto",
+      "uds": "hayan cubierto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cubierto",
+      "tu": "hubieres cubierto",
+      "ud": "hubiere cubierto",
+      "nosotros": "hubiéremos cubierto",
+      "vosotros": "hubiereis cubierto",
+      "uds": "hubieren cubierto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cubierto",
+      "tu": "hubieras cubierto",
+      "ud": "hubiera cubierto",
+      "nosotros": "hubiéramos cubierto",
+      "vosotros": "hubierais cubierto",
+      "uds": "hubieran cubierto"
+    },
+    "imperfectoAlt": {
+      "yo": "cubriese",
+      "tu": "cubrieses",
+      "ud": "cubriese",
+      "nosotros": "cubriésemos",
+      "vosotros": "cubrieseis",
+      "uds": "cubriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cubierto",
+      "tu": "hubieses cubierto",
+      "ud": "hubiese cubierto",
+      "nosotros": "hubiésemos cubierto",
+      "vosotros": "hubieseis cubierto",
+      "uds": "hubiesen cubierto"
+    }
+  },
+  "afirmativo": {
+    "tu": "cubre",
+    "vosotros": "cubrid",
+    "ud": "cubra",
+    "uds": "cubran"
+  },
+  "negativo": {
+    "tu": "no cubras",
+    "vosotros": "no cubráis",
+    "ud": "no cubra",
+    "uds": "no cubran"
+  },
+  "english": {
+    "note": "Participio pasado irregular: cubierto.",
+    "infinitivo": "to cover",
+    "gerundio": "covering",
+    "participioPasado": "covered",
+    "indicativo": {
+      "presente": "I cover, am covering",
+      "futuro": "I will cover",
+      "imperfecto": "I was covering, used to cover, covered",
+      "preterito": "I covered",
+      "condicional": "I would cover",
+      "presentePerfecto": "I have covered",
+      "futuroPerfecto": "I will have covered",
+      "pluscuamperfecto": "I had covered",
+      "preteritoAnterior": "I had covered",
+      "condicionalPerfecto": "I would have covered"
+    },
+    "subjuntivo": {
+      "presente": "I cover, am covering",
+      "imperfecto": "I covered, was covering",
+      "futuro": "I will cover",
+      "presentePerfecto": "I have covered, covered",
+      "futuroPerfecto": "I will have covered",
+      "pluscuamperfecto": "I had covered"
+    },
+    "afirmativo": "Cover!",
+    "negativo": "Don't cover!"
+  },
+  "attribution": "Fred Jehle"
+}

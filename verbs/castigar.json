@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "castigar",
+  "gerundio": "castigando",
+  "participioPasado": "castigado",
+  "indicativo": {
+    "presente": {
+      "yo": "castigo",
+      "tu": "castigas",
+      "ud": "castiga",
+      "nosotros": "castigamos",
+      "vosotros": "castigáis",
+      "uds": "castigan"
+    },
+    "futuro": {
+      "yo": "castigaré",
+      "tu": "castigarás",
+      "ud": "castigará",
+      "nosotros": "castigaremos",
+      "vosotros": "castigaréis",
+      "uds": "castigarán"
+    },
+    "imperfecto": {
+      "yo": "castigaba",
+      "tu": "castigabas",
+      "ud": "castigaba",
+      "nosotros": "castigábamos",
+      "vosotros": "castigabais",
+      "uds": "castigaban"
+    },
+    "preterito": {
+      "yo": "castigué",
+      "tu": "castigaste",
+      "ud": "castigó",
+      "nosotros": "castigamos",
+      "vosotros": "castigasteis",
+      "uds": "castigaron"
+    },
+    "condicional": {
+      "yo": "castigaría",
+      "tu": "castigarías",
+      "ud": "castigaría",
+      "nosotros": "castigaríamos",
+      "vosotros": "castigaríais",
+      "uds": "castigarían"
+    },
+    "presentePerfecto": {
+      "yo": "he castigado",
+      "tu": "has castigado",
+      "ud": "ha castigado",
+      "nosotros": "hemos castigado",
+      "vosotros": "habéis castigado",
+      "uds": "han castigado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré castigado",
+      "tu": "habrás castigado",
+      "ud": "habrá castigado",
+      "nosotros": "habremos castigado",
+      "vosotros": "habréis castigado",
+      "uds": "habrán castigado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había castigado",
+      "tu": "habías castigado",
+      "ud": "había castigado",
+      "nosotros": "habíamos castigado",
+      "vosotros": "habíais castigado",
+      "uds": "habían castigado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube castigado",
+      "tu": "hubiste castigado",
+      "ud": "hubo castigado",
+      "nosotros": "hubimos castigado",
+      "vosotros": "hubisteis castigado",
+      "uds": "hubieron castigado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría castigado",
+      "tu": "habrías castigado",
+      "ud": "habría castigado",
+      "nosotros": "habríamos castigado",
+      "vosotros": "habríais castigado",
+      "uds": "habrían castigado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "castigue",
+      "tu": "castigues",
+      "ud": "castigue",
+      "nosotros": "castiguemos",
+      "vosotros": "castiguéis",
+      "uds": "castiguen"
+    },
+    "imperfecto": {
+      "yo": "castigara",
+      "tu": "castigaras",
+      "ud": "castigara",
+      "nosotros": "castigáramos",
+      "vosotros": "castigarais",
+      "uds": "castigaran"
+    },
+    "futuro": {
+      "yo": "castigare",
+      "tu": "castigares",
+      "ud": "castigare",
+      "nosotros": "castigáremos",
+      "vosotros": "castigareis",
+      "uds": "castigaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya castigado",
+      "tu": "hayas castigado",
+      "ud": "haya castigado",
+      "nosotros": "hayamos castigado",
+      "vosotros": "hayáis castigado",
+      "uds": "hayan castigado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere castigado",
+      "tu": "hubieres castigado",
+      "ud": "hubiere castigado",
+      "nosotros": "hubiéremos castigado",
+      "vosotros": "hubiereis castigado",
+      "uds": "hubieren castigado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera castigado",
+      "tu": "hubieras castigado",
+      "ud": "hubiera castigado",
+      "nosotros": "hubiéramos castigado",
+      "vosotros": "hubierais castigado",
+      "uds": "hubieran castigado"
+    },
+    "imperfectoAlt": {
+      "yo": "castigase",
+      "tu": "castigases",
+      "ud": "castigase",
+      "nosotros": "castigásemos",
+      "vosotros": "castigaseis",
+      "uds": "castigasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese castigado",
+      "tu": "hubieses castigado",
+      "ud": "hubiese castigado",
+      "nosotros": "hubiésemos castigado",
+      "vosotros": "hubieseis castigado",
+      "uds": "hubiesen castigado"
+    }
+  },
+  "afirmativo": {
+    "tu": "castiga",
+    "vosotros": "castigad",
+    "ud": "castigue",
+    "uds": "castiguen"
+  },
+  "negativo": {
+    "tu": "no castigues",
+    "vosotros": "no castiguéis",
+    "ud": "no castigue",
+    "uds": "no castiguen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to punish, penalize, castigate",
+    "gerundio": "punishing",
+    "participioPasado": "punished",
+    "indicativo": {
+      "presente": "I punish, am punishing",
+      "futuro": "I will punish",
+      "imperfecto": "I was punishing, used to punish, punished",
+      "preterito": "I punished",
+      "condicional": "I would punish",
+      "presentePerfecto": "I have punished",
+      "futuroPerfecto": "I will have punished",
+      "pluscuamperfecto": "I had punished",
+      "preteritoAnterior": "I had punished",
+      "condicionalPerfecto": "I would have punished"
+    },
+    "subjuntivo": {
+      "presente": "I punish, am punishing",
+      "imperfecto": "I punished, was punishing",
+      "futuro": "I will punish",
+      "presentePerfecto": "I have punished, punished",
+      "futuroPerfecto": "I will have punished",
+      "pluscuamperfecto": "I had punished"
+    },
+    "afirmativo": "Punish!",
+    "negativo": "Don't punish!"
+  },
+  "attribution": "Fred Jehle"
+}

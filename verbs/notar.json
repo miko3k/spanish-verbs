@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "notar",
+  "gerundio": "notando",
+  "participioPasado": "notado",
+  "indicativo": {
+    "presente": {
+      "yo": "noto",
+      "tu": "notas",
+      "ud": "nota",
+      "nosotros": "notamos",
+      "vosotros": "notáis",
+      "uds": "notan"
+    },
+    "futuro": {
+      "yo": "notaré",
+      "tu": "notarás",
+      "ud": "notará",
+      "nosotros": "notaremos",
+      "vosotros": "notaréis",
+      "uds": "notarán"
+    },
+    "imperfecto": {
+      "yo": "notaba",
+      "tu": "notabas",
+      "ud": "notaba",
+      "nosotros": "notábamos",
+      "vosotros": "notabais",
+      "uds": "notaban"
+    },
+    "preterito": {
+      "yo": "noté",
+      "tu": "notaste",
+      "ud": "notó",
+      "nosotros": "notamos",
+      "vosotros": "notasteis",
+      "uds": "notaron"
+    },
+    "condicional": {
+      "yo": "notaría",
+      "tu": "notarías",
+      "ud": "notaría",
+      "nosotros": "notaríamos",
+      "vosotros": "notaríais",
+      "uds": "notarían"
+    },
+    "presentePerfecto": {
+      "yo": "he notado",
+      "tu": "has notado",
+      "ud": "ha notado",
+      "nosotros": "hemos notado",
+      "vosotros": "habéis notado",
+      "uds": "han notado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré notado",
+      "tu": "habrás notado",
+      "ud": "habrá notado",
+      "nosotros": "habremos notado",
+      "vosotros": "habréis notado",
+      "uds": "habrán notado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había notado",
+      "tu": "habías notado",
+      "ud": "había notado",
+      "nosotros": "habíamos notado",
+      "vosotros": "habíais notado",
+      "uds": "habían notado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube notado",
+      "tu": "hubiste notado",
+      "ud": "hubo notado",
+      "nosotros": "hubimos notado",
+      "vosotros": "hubisteis notado",
+      "uds": "hubieron notado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría notado",
+      "tu": "habrías notado",
+      "ud": "habría notado",
+      "nosotros": "habríamos notado",
+      "vosotros": "habríais notado",
+      "uds": "habrían notado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "note",
+      "tu": "notes",
+      "ud": "note",
+      "nosotros": "notemos",
+      "vosotros": "notéis",
+      "uds": "noten"
+    },
+    "imperfecto": {
+      "yo": "notara",
+      "tu": "notaras",
+      "ud": "notara",
+      "nosotros": "notáramos",
+      "vosotros": "notarais",
+      "uds": "notaran"
+    },
+    "futuro": {
+      "yo": "notare",
+      "tu": "notares",
+      "ud": "notare",
+      "nosotros": "notáremos",
+      "vosotros": "notareis",
+      "uds": "notaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya notado",
+      "tu": "hayas notado",
+      "ud": "haya notado",
+      "nosotros": "hayamos notado",
+      "vosotros": "hayáis notado",
+      "uds": "hayan notado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere notado",
+      "tu": "hubieres notado",
+      "ud": "hubiere notado",
+      "nosotros": "hubiéremos notado",
+      "vosotros": "hubiereis notado",
+      "uds": "hubieren notado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera notado",
+      "tu": "hubieras notado",
+      "ud": "hubiera notado",
+      "nosotros": "hubiéramos notado",
+      "vosotros": "hubierais notado",
+      "uds": "hubieran notado"
+    },
+    "imperfectoAlt": {
+      "yo": "notase",
+      "tu": "notases",
+      "ud": "notase",
+      "nosotros": "notásemos",
+      "vosotros": "notaseis",
+      "uds": "notasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese notado",
+      "tu": "hubieses notado",
+      "ud": "hubiese notado",
+      "nosotros": "hubiésemos notado",
+      "vosotros": "hubieseis notado",
+      "uds": "hubiesen notado"
+    }
+  },
+  "afirmativo": {
+    "tu": "nota",
+    "vosotros": "notad",
+    "ud": "note",
+    "uds": "noten"
+  },
+  "negativo": {
+    "tu": "no notes",
+    "vosotros": "no notéis",
+    "ud": "no note",
+    "uds": "no noten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to note, notice, observe",
+    "gerundio": "noting",
+    "participioPasado": "noted",
+    "indicativo": {
+      "presente": "I note, am noting",
+      "futuro": "I will note",
+      "imperfecto": "I was noting, used to note, noted",
+      "preterito": "I noted",
+      "condicional": "I would note",
+      "presentePerfecto": "I have noted",
+      "futuroPerfecto": "I will have noted",
+      "pluscuamperfecto": "I had noted",
+      "preteritoAnterior": "I had noted",
+      "condicionalPerfecto": "I would have noted"
+    },
+    "subjuntivo": {
+      "presente": "I note, am noting",
+      "imperfecto": "I noted, was noting",
+      "futuro": "I will note",
+      "presentePerfecto": "I have noted, noted",
+      "futuroPerfecto": "I will have noted",
+      "pluscuamperfecto": "I had noted"
+    },
+    "afirmativo": "Note!",
+    "negativo": "Don't note!"
+  },
+  "attribution": "Fred Jehle"
+}

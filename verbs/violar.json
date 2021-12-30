@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "violar",
+  "gerundio": "violando",
+  "participioPasado": "violado",
+  "indicativo": {
+    "presente": {
+      "yo": "violo",
+      "tu": "violas",
+      "ud": "viola",
+      "nosotros": "violamos",
+      "vosotros": "violáis",
+      "uds": "violan"
+    },
+    "futuro": {
+      "yo": "violaré",
+      "tu": "violarás",
+      "ud": "violará",
+      "nosotros": "violaremos",
+      "vosotros": "violaréis",
+      "uds": "violarán"
+    },
+    "imperfecto": {
+      "yo": "violaba",
+      "tu": "violabas",
+      "ud": "violaba",
+      "nosotros": "violábamos",
+      "vosotros": "violabais",
+      "uds": "violaban"
+    },
+    "preterito": {
+      "yo": "violé",
+      "tu": "violaste",
+      "ud": "violó",
+      "nosotros": "violamos",
+      "vosotros": "violasteis",
+      "uds": "violaron"
+    },
+    "condicional": {
+      "yo": "violaría",
+      "tu": "violarías",
+      "ud": "violaría",
+      "nosotros": "violaríamos",
+      "vosotros": "violaríais",
+      "uds": "violarían"
+    },
+    "presentePerfecto": {
+      "yo": "he violado",
+      "tu": "has violado",
+      "ud": "ha violado",
+      "nosotros": "hemos violado",
+      "vosotros": "habéis violado",
+      "uds": "han violado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré violado",
+      "tu": "habrás violado",
+      "ud": "habrá violado",
+      "nosotros": "habremos violado",
+      "vosotros": "habréis violado",
+      "uds": "habrán violado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había violado",
+      "tu": "habías violado",
+      "ud": "había violado",
+      "nosotros": "habíamos violado",
+      "vosotros": "habíais violado",
+      "uds": "habían violado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube violado",
+      "tu": "hubiste violado",
+      "ud": "hubo violado",
+      "nosotros": "hubimos violado",
+      "vosotros": "hubisteis violado",
+      "uds": "hubieron violado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría violado",
+      "tu": "habrías violado",
+      "ud": "habría violado",
+      "nosotros": "habríamos violado",
+      "vosotros": "habríais violado",
+      "uds": "habrían violado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "viole",
+      "tu": "violes",
+      "ud": "viole",
+      "nosotros": "violemos",
+      "vosotros": "violéis",
+      "uds": "violen"
+    },
+    "imperfecto": {
+      "yo": "violara",
+      "tu": "violaras",
+      "ud": "violara",
+      "nosotros": "violáramos",
+      "vosotros": "violarais",
+      "uds": "violaran"
+    },
+    "futuro": {
+      "yo": "violare",
+      "tu": "violares",
+      "ud": "violare",
+      "nosotros": "violáremos",
+      "vosotros": "violareis",
+      "uds": "violaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya violado",
+      "tu": "hayas violado",
+      "ud": "haya violado",
+      "nosotros": "hayamos violado",
+      "vosotros": "hayáis violado",
+      "uds": "hayan violado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere violado",
+      "tu": "hubieres violado",
+      "ud": "hubiere violado",
+      "nosotros": "hubiéremos violado",
+      "vosotros": "hubiereis violado",
+      "uds": "hubieren violado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera violado",
+      "tu": "hubieras violado",
+      "ud": "hubiera violado",
+      "nosotros": "hubiéramos violado",
+      "vosotros": "hubierais violado",
+      "uds": "hubieran violado"
+    },
+    "imperfectoAlt": {
+      "yo": "violase",
+      "tu": "violases",
+      "ud": "violase",
+      "nosotros": "violásemos",
+      "vosotros": "violaseis",
+      "uds": "violasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese violado",
+      "tu": "hubieses violado",
+      "ud": "hubiese violado",
+      "nosotros": "hubiésemos violado",
+      "vosotros": "hubieseis violado",
+      "uds": "hubiesen violado"
+    }
+  },
+  "afirmativo": {
+    "tu": "viola",
+    "vosotros": "violad",
+    "ud": "viole",
+    "uds": "violen"
+  },
+  "negativo": {
+    "tu": "no violes",
+    "vosotros": "no violéis",
+    "ud": "no viole",
+    "uds": "no violen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to violate; to rape",
+    "gerundio": "violating",
+    "participioPasado": "violated",
+    "indicativo": {
+      "presente": "I violate, am violating",
+      "futuro": "I will violate",
+      "imperfecto": "I was violating, used to violate, violated",
+      "preterito": "I violated",
+      "condicional": "I would violate",
+      "presentePerfecto": "I have violated",
+      "futuroPerfecto": "I will have violated",
+      "pluscuamperfecto": "I had violated",
+      "preteritoAnterior": "I had violated",
+      "condicionalPerfecto": "I would have violated"
+    },
+    "subjuntivo": {
+      "presente": "I violate, am violating",
+      "imperfecto": "I violated, was violating",
+      "futuro": "I will violate",
+      "presentePerfecto": "I have violated, violated",
+      "futuroPerfecto": "I will have violated",
+      "pluscuamperfecto": "I had violated"
+    },
+    "afirmativo": "Violate!",
+    "negativo": "Don't violate!"
+  },
+  "attribution": "Fred Jehle"
+}

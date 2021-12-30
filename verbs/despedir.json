@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "despedir",
+  "gerundio": "despidiendo",
+  "participioPasado": "despedido",
+  "indicativo": {
+    "presente": {
+      "yo": "despido",
+      "tu": "despides",
+      "ud": "despide",
+      "nosotros": "despedimos",
+      "vosotros": "despedís",
+      "uds": "despiden"
+    },
+    "futuro": {
+      "yo": "despediré",
+      "tu": "despedirás",
+      "ud": "despedirá",
+      "nosotros": "despediremos",
+      "vosotros": "despediréis",
+      "uds": "despedirán"
+    },
+    "imperfecto": {
+      "yo": "despedía",
+      "tu": "despedías",
+      "ud": "despedía",
+      "nosotros": "despedíamos",
+      "vosotros": "despedíais",
+      "uds": "despedían"
+    },
+    "preterito": {
+      "yo": "despedí",
+      "tu": "despediste",
+      "ud": "despidió",
+      "nosotros": "despedimos",
+      "vosotros": "despedisteis",
+      "uds": "despidieron"
+    },
+    "condicional": {
+      "yo": "despediría",
+      "tu": "despedirías",
+      "ud": "despediría",
+      "nosotros": "despediríamos",
+      "vosotros": "despediríais",
+      "uds": "despedirían"
+    },
+    "presentePerfecto": {
+      "yo": "he despedido",
+      "tu": "has despedido",
+      "ud": "ha despedido",
+      "nosotros": "hemos despedido",
+      "vosotros": "habéis despedido",
+      "uds": "han despedido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré despedido",
+      "tu": "habrás despedido",
+      "ud": "habrá despedido",
+      "nosotros": "habremos despedido",
+      "vosotros": "habréis despedido",
+      "uds": "habrán despedido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había despedido",
+      "tu": "habías despedido",
+      "ud": "había despedido",
+      "nosotros": "habíamos despedido",
+      "vosotros": "habíais despedido",
+      "uds": "habían despedido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube despedido",
+      "tu": "hubiste despedido",
+      "ud": "hubo despedido",
+      "nosotros": "hubimos despedido",
+      "vosotros": "hubisteis despedido",
+      "uds": "hubieron despedido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría despedido",
+      "tu": "habrías despedido",
+      "ud": "habría despedido",
+      "nosotros": "habríamos despedido",
+      "vosotros": "habríais despedido",
+      "uds": "habrían despedido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "despida",
+      "tu": "despidas",
+      "ud": "despida",
+      "nosotros": "despidamos",
+      "vosotros": "despidáis",
+      "uds": "despidan"
+    },
+    "imperfecto": {
+      "yo": "despidiera",
+      "tu": "despidieras",
+      "ud": "despidiera",
+      "nosotros": "despidiéramos",
+      "vosotros": "despidierais",
+      "uds": "despidieran"
+    },
+    "futuro": {
+      "yo": "despidiere",
+      "tu": "despidieres",
+      "ud": "despidiere",
+      "nosotros": "despidiéremos",
+      "vosotros": "despidiereis",
+      "uds": "despidieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya despedido",
+      "tu": "hayas despedido",
+      "ud": "haya despedido",
+      "nosotros": "hayamos despedido",
+      "vosotros": "hayáis despedido",
+      "uds": "hayan despedido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere despedido",
+      "tu": "hubieres despedido",
+      "ud": "hubiere despedido",
+      "nosotros": "hubiéremos despedido",
+      "vosotros": "hubiereis despedido",
+      "uds": "hubieren despedido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera despedido",
+      "tu": "hubieras despedido",
+      "ud": "hubiera despedido",
+      "nosotros": "hubiéramos despedido",
+      "vosotros": "hubierais despedido",
+      "uds": "hubieran despedido"
+    },
+    "imperfectoAlt": {
+      "yo": "despidiese",
+      "tu": "despidieses",
+      "ud": "despidiese",
+      "nosotros": "despidiésemos",
+      "vosotros": "despidieseis",
+      "uds": "despidiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese despedido",
+      "tu": "hubieses despedido",
+      "ud": "hubiese despedido",
+      "nosotros": "hubiésemos despedido",
+      "vosotros": "hubieseis despedido",
+      "uds": "hubiesen despedido"
+    }
+  },
+  "afirmativo": {
+    "tu": "despide",
+    "vosotros": "despedid",
+    "ud": "despida",
+    "uds": "despidan"
+  },
+  "negativo": {
+    "tu": "no despidas",
+    "vosotros": "no despidáis",
+    "ud": "no despida",
+    "uds": "no despidan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i.",
+    "infinitivo": "to say goodbye to, show out, dismiss",
+    "gerundio": "saying goodbye to",
+    "participioPasado": "said goodbye to",
+    "indicativo": {
+      "presente": "I say goodbye to, am saying goodbye to",
+      "futuro": "I will say goodbye to",
+      "imperfecto": "I was saying goodbye to, used to say goodbye to, said goodbye to",
+      "preterito": "I said goodbye to",
+      "condicional": "I would say goodbye to",
+      "presentePerfecto": "I have said goodbye to",
+      "futuroPerfecto": "I will have said goodbye to",
+      "pluscuamperfecto": "I had said goodbye to",
+      "preteritoAnterior": "I had said goodbye to",
+      "condicionalPerfecto": "I would have said goodbye to"
+    },
+    "subjuntivo": {
+      "presente": "I say goodbye to, am saying goodbye to",
+      "imperfecto": "I said goodbye to, was saying goodbye to",
+      "futuro": "I will say goodbye to",
+      "presentePerfecto": "I have said goodbye to, said goodbye to",
+      "futuroPerfecto": "I will have said goodbye to",
+      "pluscuamperfecto": "I had said goodbye to"
+    },
+    "afirmativo": "Say goodbye to!",
+    "negativo": "Don't say goodbye to!"
+  },
+  "attribution": "Fred Jehle"
+}

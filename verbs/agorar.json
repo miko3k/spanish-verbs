@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "agorar",
+  "gerundio": "agorando",
+  "participioPasado": "agorado",
+  "indicativo": {
+    "presente": {
+      "yo": "agüero",
+      "tu": "agüeras",
+      "ud": "agüera",
+      "nosotros": "agoramos",
+      "vosotros": "agoráis",
+      "uds": "agüeran"
+    },
+    "futuro": {
+      "yo": "agoraré",
+      "tu": "agorarás",
+      "ud": "agorará",
+      "nosotros": "agoraremos",
+      "vosotros": "agoraréis",
+      "uds": "agorarán"
+    },
+    "imperfecto": {
+      "yo": "agoraba",
+      "tu": "agorabas",
+      "ud": "agoraba",
+      "nosotros": "agorábamos",
+      "vosotros": "agorabais",
+      "uds": "agoraban"
+    },
+    "preterito": {
+      "yo": "agoré",
+      "tu": "agoraste",
+      "ud": "agoró",
+      "nosotros": "agoramos",
+      "vosotros": "agorasteis",
+      "uds": "agoraron"
+    },
+    "condicional": {
+      "yo": "agoraría",
+      "tu": "agorarías",
+      "ud": "agoraría",
+      "nosotros": "agoraríamos",
+      "vosotros": "agoraríais",
+      "uds": "agorarían"
+    },
+    "presentePerfecto": {
+      "yo": "he agorado",
+      "tu": "has agorado",
+      "ud": "ha agorado",
+      "nosotros": "hemos agorado",
+      "vosotros": "habéis agorado",
+      "uds": "han agorado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré agorado",
+      "tu": "habrás agorado",
+      "ud": "habrá agorado",
+      "nosotros": "habremos agorado",
+      "vosotros": "habréis agorado",
+      "uds": "habrán agorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había agorado",
+      "tu": "habías agorado",
+      "ud": "había agorado",
+      "nosotros": "habíamos agorado",
+      "vosotros": "habíais agorado",
+      "uds": "habían agorado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube agorado",
+      "tu": "hubiste agorado",
+      "ud": "hubo agorado",
+      "nosotros": "hubimos agorado",
+      "vosotros": "hubisteis agorado",
+      "uds": "hubieron agorado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría agorado",
+      "tu": "habrías agorado",
+      "ud": "habría agorado",
+      "nosotros": "habríamos agorado",
+      "vosotros": "habríais agorado",
+      "uds": "habrían agorado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "agüere",
+      "tu": "agüeres",
+      "ud": "agüere",
+      "nosotros": "agoremos",
+      "vosotros": "agoréis",
+      "uds": "agüeren"
+    },
+    "imperfecto": {
+      "yo": "agorara",
+      "tu": "agoraras",
+      "ud": "agorara",
+      "nosotros": "agoráramos",
+      "vosotros": "agorarais",
+      "uds": "agoraran"
+    },
+    "futuro": {
+      "yo": "agorare",
+      "tu": "agorares",
+      "ud": "agorare",
+      "nosotros": "agoráremos",
+      "vosotros": "agorareis",
+      "uds": "agoraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya agorado",
+      "tu": "hayas agorado",
+      "ud": "haya agorado",
+      "nosotros": "hayamos agorado",
+      "vosotros": "hayáis agorado",
+      "uds": "hayan agorado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere agorado",
+      "tu": "hubieres agorado",
+      "ud": "hubiere agorado",
+      "nosotros": "hubiéremos agorado",
+      "vosotros": "hubiereis agorado",
+      "uds": "hubieren agorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera agorado",
+      "tu": "hubieras agorado",
+      "ud": "hubiera agorado",
+      "nosotros": "hubiéramos agorado",
+      "vosotros": "hubierais agorado",
+      "uds": "hubieran agorado"
+    },
+    "imperfectoAlt": {
+      "yo": "agorase",
+      "tu": "agorases",
+      "ud": "agorase",
+      "nosotros": "agorásemos",
+      "vosotros": "agoraseis",
+      "uds": "agorasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese agorado",
+      "tu": "hubieses agorado",
+      "ud": "hubiese agorado",
+      "nosotros": "hubiésemos agorado",
+      "vosotros": "hubieseis agorado",
+      "uds": "hubiesen agorado"
+    }
+  },
+  "afirmativo": {
+    "tu": "agüera",
+    "vosotros": "agorad",
+    "ud": "agüere",
+    "uds": "agüeren"
+  },
+  "negativo": {
+    "tu": "no agüeres",
+    "vosotros": "no agoréis",
+    "ud": "no agüere",
+    "uds": "no agüeren"
+  },
+  "english": {
+    "note": "Cambio radical y ortográfico: o > üe cuando se acentúa.",
+    "infinitivo": "to predict, prophesy",
+    "gerundio": "predicting",
+    "participioPasado": "predicted",
+    "indicativo": {
+      "presente": "I predict, am predicting",
+      "futuro": "I will predict",
+      "imperfecto": "I was predicting, used to predict, predicted",
+      "preterito": "I predicted",
+      "condicional": "I would predict",
+      "presentePerfecto": "I have predicted",
+      "futuroPerfecto": "I will have predicted",
+      "pluscuamperfecto": "I had predicted",
+      "preteritoAnterior": "I had predicted",
+      "condicionalPerfecto": "I would have predicted"
+    },
+    "subjuntivo": {
+      "presente": "I predict, am predicting",
+      "imperfecto": "I predicted, was predicting",
+      "futuro": "I will predict",
+      "presentePerfecto": "I have predicted, predicted",
+      "futuroPerfecto": "I will have predicted",
+      "pluscuamperfecto": "I had predicted"
+    },
+    "afirmativo": "Predict!",
+    "negativo": "Don't predict!"
+  },
+  "attribution": "Fred Jehle"
+}

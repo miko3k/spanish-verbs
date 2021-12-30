@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "enamorarse",
+  "gerundio": "enamorándose",
+  "participioPasado": "enamorado",
+  "indicativo": {
+    "presente": {
+      "yo": "me enamoro",
+      "tu": "te enamoras",
+      "ud": "se enamora",
+      "nosotros": "nos enamoramos",
+      "vosotros": "os enamoráis",
+      "uds": "se enamoran"
+    },
+    "futuro": {
+      "yo": "me enamoraré",
+      "tu": "te enamorarás",
+      "ud": "se enamorará",
+      "nosotros": "nos enamoraremos",
+      "vosotros": "os enamoraréis",
+      "uds": "se enamorarán"
+    },
+    "imperfecto": {
+      "yo": "me enamoraba",
+      "tu": "te enamorabas",
+      "ud": "se enamoraba",
+      "nosotros": "nos enamorábamos",
+      "vosotros": "os enamorabais",
+      "uds": "se enamoraban"
+    },
+    "preterito": {
+      "yo": "me enamoré",
+      "tu": "te enamoraste",
+      "ud": "se enamoró",
+      "nosotros": "nos enamoramos",
+      "vosotros": "os enamorasteis",
+      "uds": "se enamoraron"
+    },
+    "condicional": {
+      "yo": "me enamoraría",
+      "tu": "te enamorarías",
+      "ud": "se enamoraría",
+      "nosotros": "nos enamoraríamos",
+      "vosotros": "os enamoraríais",
+      "uds": "se enamorarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he enamorado",
+      "tu": "te has enamorado",
+      "ud": "se ha enamorado",
+      "nosotros": "nos hemos enamorado",
+      "vosotros": "os habéis enamorado",
+      "uds": "se han enamorado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré enamorado",
+      "tu": "te habrás enamorado",
+      "ud": "se habrá enamorado",
+      "nosotros": "nos habremos enamorado",
+      "vosotros": "os habréis enamorado",
+      "uds": "se habrán enamorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había enamorado",
+      "tu": "te habías enamorado",
+      "ud": "se había enamorado",
+      "nosotros": "nos habíamos enamorado",
+      "vosotros": "os habíais enamorado",
+      "uds": "se habían enamorado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube enamorado",
+      "tu": "te hubiste enamorado",
+      "ud": "se hubo enamorado",
+      "nosotros": "nos hubimos enamorado",
+      "vosotros": "os hubisteis enamorado",
+      "uds": "se hubieron enamorado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría enamorado",
+      "tu": "te habrías enamorado",
+      "ud": "se habría enamorado",
+      "nosotros": "nos habríamos enamorado",
+      "vosotros": "os habríais enamorado",
+      "uds": "se habrían enamorado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me enamore",
+      "tu": "te enamores",
+      "ud": "se enamore",
+      "nosotros": "nos enamoremos",
+      "vosotros": "os enamoréis",
+      "uds": "se enamoren"
+    },
+    "imperfecto": {
+      "yo": "me enamorara",
+      "tu": "te enamoraras",
+      "ud": "se enamorara",
+      "nosotros": "nos enamoráramos",
+      "vosotros": "os enamorarais",
+      "uds": "se enamoraran"
+    },
+    "futuro": {
+      "yo": "me enamorare",
+      "tu": "te enamorares",
+      "ud": "se enamorare",
+      "nosotros": "nos enamoráremos",
+      "vosotros": "os enamorareis",
+      "uds": "se enamoraren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya enamorado",
+      "tu": "te hayas enamorado",
+      "ud": "se haya enamorado",
+      "nosotros": "nos hayamos enamorado",
+      "vosotros": "os hayáis enamorado",
+      "uds": "se hayan enamorado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere enamorado",
+      "tu": "te hubieres enamorado",
+      "ud": "se hubiere enamorado",
+      "nosotros": "nos hubiéremos enamorado",
+      "vosotros": "os hubiereis enamorado",
+      "uds": "se hubieren enamorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera enamorado",
+      "tu": "te hubieras enamorado",
+      "ud": "se hubiera enamorado",
+      "nosotros": "nos hubiéramos enamorado",
+      "vosotros": "os hubierais enamorado",
+      "uds": "se hubieran enamorado"
+    },
+    "imperfectoAlt": {
+      "yo": "me enamorase",
+      "tu": "te enamorases",
+      "ud": "se enamorase",
+      "nosotros": "nos enamorásemos",
+      "vosotros": "os enamoraseis",
+      "uds": "se enamorasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese enamorado",
+      "tu": "te hubieses enamorado",
+      "ud": "se hubiese enamorado",
+      "nosotros": "nos hubiésemos enamorado",
+      "vosotros": "os hubieseis enamorado",
+      "uds": "se hubiesen enamorado"
+    }
+  },
+  "afirmativo": {
+    "tu": "enamórate",
+    "vosotros": "enamoraos",
+    "ud": "enamórese",
+    "uds": "enamórense"
+  },
+  "negativo": {
+    "tu": "no te enamores",
+    "vosotros": "no os enamoréis",
+    "ud": "no se enamore",
+    "uds": "no se enamoren"
+  },
+  "english": {
+    "note": "Note: For to fall in love with someone, use enamorarse de alguien; the nonreflexive form enamorar means to inspire love in, win the love of.",
+    "infinitivo": "to fall in love",
+    "gerundio": "falling in love",
+    "participioPasado": "fell in love",
+    "indicativo": {
+      "presente": "I fall in love, am falling in love",
+      "futuro": "I will fall in love",
+      "imperfecto": "I was falling in love, used to fall in love, fell in love",
+      "preterito": "I fell in love",
+      "condicional": "I would fall in love",
+      "presentePerfecto": "I have fallen in love",
+      "futuroPerfecto": "I will have fallen in love",
+      "pluscuamperfecto": "I had fallen in love",
+      "preteritoAnterior": "I had fallen in love",
+      "condicionalPerfecto": "I would have fallen in love"
+    },
+    "subjuntivo": {
+      "presente": "I fall in love, am falling in love",
+      "imperfecto": "I fell in love, was falling in love",
+      "futuro": "I will fall in love",
+      "presentePerfecto": "I have fallen in love, fell in love",
+      "futuroPerfecto": "I will have fallen in love",
+      "pluscuamperfecto": "I had fallen in love"
+    },
+    "afirmativo": "Fall in love!",
+    "negativo": "Don't fall in love!"
+  },
+  "attribution": "Fred Jehle"
+}

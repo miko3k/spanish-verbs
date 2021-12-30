@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "ser",
+  "gerundio": "siendo",
+  "participioPasado": "sido",
+  "indicativo": {
+    "presente": {
+      "yo": "soy",
+      "tu": "eres",
+      "ud": "es",
+      "nosotros": "somos",
+      "vosotros": "sois",
+      "uds": "son"
+    },
+    "futuro": {
+      "yo": "seré",
+      "tu": "serás",
+      "ud": "será",
+      "nosotros": "seremos",
+      "vosotros": "seréis",
+      "uds": "serán"
+    },
+    "imperfecto": {
+      "yo": "era",
+      "tu": "eras",
+      "ud": "era",
+      "nosotros": "éramos",
+      "vosotros": "erais",
+      "uds": "eran"
+    },
+    "preterito": {
+      "yo": "fui",
+      "tu": "fuiste",
+      "ud": "fue",
+      "nosotros": "fuimos",
+      "vosotros": "fuisteis",
+      "uds": "fueron"
+    },
+    "condicional": {
+      "yo": "sería",
+      "tu": "serías",
+      "ud": "sería",
+      "nosotros": "seríamos",
+      "vosotros": "seríais",
+      "uds": "serían"
+    },
+    "presentePerfecto": {
+      "yo": "he sido",
+      "tu": "has sido",
+      "ud": "ha sido",
+      "nosotros": "hemos sido",
+      "vosotros": "habéis sido",
+      "uds": "han sido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sido",
+      "tu": "habrás sido",
+      "ud": "habrá sido",
+      "nosotros": "habremos sido",
+      "vosotros": "habréis sido",
+      "uds": "habrán sido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sido",
+      "tu": "habías sido",
+      "ud": "había sido",
+      "nosotros": "habíamos sido",
+      "vosotros": "habíais sido",
+      "uds": "habían sido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sido",
+      "tu": "hubiste sido",
+      "ud": "hubo sido",
+      "nosotros": "hubimos sido",
+      "vosotros": "hubisteis sido",
+      "uds": "hubieron sido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sido",
+      "tu": "habrías sido",
+      "ud": "habría sido",
+      "nosotros": "habríamos sido",
+      "vosotros": "habríais sido",
+      "uds": "habrían sido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sea",
+      "tu": "seas",
+      "ud": "sea",
+      "nosotros": "seamos",
+      "vosotros": "seáis",
+      "uds": "sean"
+    },
+    "imperfecto": {
+      "yo": "fuera",
+      "tu": "fueras",
+      "ud": "fuera",
+      "nosotros": "fuéramos",
+      "vosotros": "fuerais",
+      "uds": "fueran"
+    },
+    "futuro": {
+      "yo": "fuere",
+      "tu": "fueres",
+      "ud": "fuere",
+      "nosotros": "fuéremos",
+      "vosotros": "fuereis",
+      "uds": "fueren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sido",
+      "tu": "hayas sido",
+      "ud": "haya sido",
+      "nosotros": "hayamos sido",
+      "vosotros": "hayáis sido",
+      "uds": "hayan sido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sido",
+      "tu": "hubieres sido",
+      "ud": "hubiere sido",
+      "nosotros": "hubiéremos sido",
+      "vosotros": "hubiereis sido",
+      "uds": "hubieren sido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sido",
+      "tu": "hubieras sido",
+      "ud": "hubiera sido",
+      "nosotros": "hubiéramos sido",
+      "vosotros": "hubierais sido",
+      "uds": "hubieran sido"
+    },
+    "imperfectoAlt": {
+      "yo": "fuese",
+      "tu": "fueses",
+      "ud": "fuese",
+      "nosotros": "fuésemos",
+      "vosotros": "fueseis",
+      "uds": "fuesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sido",
+      "tu": "hubieses sido",
+      "ud": "hubiese sido",
+      "nosotros": "hubiésemos sido",
+      "vosotros": "hubieseis sido",
+      "uds": "hubiesen sido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sé",
+    "vosotros": "sed",
+    "ud": "sea",
+    "uds": "sean"
+  },
+  "negativo": {
+    "tu": "no seas",
+    "vosotros": "no seáis",
+    "ud": "no sea",
+    "uds": "no sean"
+  },
+  "english": {
+    "note": "Irregular en el presente de indicativo (soy, eres, etc.), el imperfecto de indicativo (era, eras, etc.) y el pretérito (fui, fuiste, etc.). Radical irregular en el presente de subjuntivo: se-. Mandato singular familiar irregular: sé. Note: To express location or a temporary state or condition, use the verb estar.",
+    "infinitivo": "to be (identity, quality)",
+    "gerundio": "being",
+    "participioPasado": "been",
+    "indicativo": {
+      "presente": "I am",
+      "futuro": "I will be",
+      "imperfecto": "I used to be, was",
+      "preterito": "I was",
+      "condicional": "I would be",
+      "presentePerfecto": "I have been",
+      "futuroPerfecto": "I will have been",
+      "pluscuamperfecto": "I had been",
+      "preteritoAnterior": "I had been",
+      "condicionalPerfecto": "I would have been"
+    },
+    "subjuntivo": {
+      "presente": "I am",
+      "imperfecto": "I was, was being",
+      "futuro": "I will be",
+      "presentePerfecto": "I have been, was",
+      "futuroPerfecto": "I will have been",
+      "pluscuamperfecto": "I had been"
+    },
+    "afirmativo": "Be!",
+    "negativo": "Don't be!"
+  },
+  "attribution": "Fred Jehle"
+}

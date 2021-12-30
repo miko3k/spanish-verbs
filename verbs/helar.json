@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "helar",
+  "gerundio": "helando",
+  "participioPasado": "helado",
+  "indicativo": {
+    "presente": {
+      "yo": "hielo",
+      "tu": "hielas",
+      "ud": "hiela",
+      "nosotros": "helamos",
+      "vosotros": "heláis",
+      "uds": "hielan"
+    },
+    "futuro": {
+      "yo": "helaré",
+      "tu": "helarás",
+      "ud": "helará",
+      "nosotros": "helaremos",
+      "vosotros": "helaréis",
+      "uds": "helarán"
+    },
+    "imperfecto": {
+      "yo": "helaba",
+      "tu": "helabas",
+      "ud": "helaba",
+      "nosotros": "helábamos",
+      "vosotros": "helabais",
+      "uds": "helaban"
+    },
+    "preterito": {
+      "yo": "helé",
+      "tu": "helaste",
+      "ud": "heló",
+      "nosotros": "helamos",
+      "vosotros": "helasteis",
+      "uds": "helaron"
+    },
+    "condicional": {
+      "yo": "helaría",
+      "tu": "helarías",
+      "ud": "helaría",
+      "nosotros": "helaríamos",
+      "vosotros": "helaríais",
+      "uds": "helarían"
+    },
+    "presentePerfecto": {
+      "yo": "he helado",
+      "tu": "has helado",
+      "ud": "ha helado",
+      "nosotros": "hemos helado",
+      "vosotros": "habéis helado",
+      "uds": "han helado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré helado",
+      "tu": "habrás helado",
+      "ud": "habrá helado",
+      "nosotros": "habremos helado",
+      "vosotros": "habréis helado",
+      "uds": "habrán helado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había helado",
+      "tu": "habías helado",
+      "ud": "había helado",
+      "nosotros": "habíamos helado",
+      "vosotros": "habíais helado",
+      "uds": "habían helado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube helado",
+      "tu": "hubiste helado",
+      "ud": "hubo helado",
+      "nosotros": "hubimos helado",
+      "vosotros": "hubisteis helado",
+      "uds": "hubieron helado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría helado",
+      "tu": "habrías helado",
+      "ud": "habría helado",
+      "nosotros": "habríamos helado",
+      "vosotros": "habríais helado",
+      "uds": "habrían helado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "hiele",
+      "tu": "hieles",
+      "ud": "hiele",
+      "nosotros": "helemos",
+      "vosotros": "heléis",
+      "uds": "hielen"
+    },
+    "imperfecto": {
+      "yo": "helara",
+      "tu": "helaras",
+      "ud": "helara",
+      "nosotros": "heláramos",
+      "vosotros": "helarais",
+      "uds": "helaran"
+    },
+    "futuro": {
+      "yo": "helare",
+      "tu": "helares",
+      "ud": "helare",
+      "nosotros": "heláremos",
+      "vosotros": "helareis",
+      "uds": "helaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya helado",
+      "tu": "hayas helado",
+      "ud": "haya helado",
+      "nosotros": "hayamos helado",
+      "vosotros": "hayáis helado",
+      "uds": "hayan helado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere helado",
+      "tu": "hubieres helado",
+      "ud": "hubiere helado",
+      "nosotros": "hubiéremos helado",
+      "vosotros": "hubiereis helado",
+      "uds": "hubieren helado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera helado",
+      "tu": "hubieras helado",
+      "ud": "hubiera helado",
+      "nosotros": "hubiéramos helado",
+      "vosotros": "hubierais helado",
+      "uds": "hubieran helado"
+    },
+    "imperfectoAlt": {
+      "yo": "helase",
+      "tu": "helases",
+      "ud": "helase",
+      "nosotros": "helásemos",
+      "vosotros": "helaseis",
+      "uds": "helasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese helado",
+      "tu": "hubieses helado",
+      "ud": "hubiese helado",
+      "nosotros": "hubiésemos helado",
+      "vosotros": "hubieseis helado",
+      "uds": "hubiesen helado"
+    }
+  },
+  "afirmativo": {
+    "tu": "hiela",
+    "vosotros": "helad",
+    "ud": "hiele",
+    "uds": "hielen"
+  },
+  "negativo": {
+    "tu": "no hieles",
+    "vosotros": "no heléis",
+    "ud": "no hiele",
+    "uds": "no hielen"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie.",
+    "infinitivo": "to freeze, to congeal, to chill",
+    "gerundio": "freezing",
+    "participioPasado": "frozen",
+    "indicativo": {
+      "presente": "I freeze, am freezing",
+      "futuro": "I will freeze",
+      "imperfecto": "I was freezing, used to freeze, froze",
+      "preterito": "I froze",
+      "condicional": "I would freeze",
+      "presentePerfecto": "I have frozen",
+      "futuroPerfecto": "I will have frozen",
+      "pluscuamperfecto": "I had frozen",
+      "preteritoAnterior": "I had frozen",
+      "condicionalPerfecto": "I would have frozen"
+    },
+    "subjuntivo": {
+      "presente": "I freeze, am freezing",
+      "imperfecto": "I froze, was freezing",
+      "futuro": "I will freeze",
+      "presentePerfecto": "I have frozen, froze",
+      "futuroPerfecto": "I will have frozen",
+      "pluscuamperfecto": "I had frozen"
+    },
+    "afirmativo": "Freeze!",
+    "negativo": "Don't freeze!"
+  },
+  "attribution": "Fred Jehle"
+}

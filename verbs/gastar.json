@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "gastar",
+  "gerundio": "gastando",
+  "participioPasado": "gastado",
+  "indicativo": {
+    "presente": {
+      "yo": "gasto",
+      "tu": "gastas",
+      "ud": "gasta",
+      "nosotros": "gastamos",
+      "vosotros": "gastáis",
+      "uds": "gastan"
+    },
+    "futuro": {
+      "yo": "gastaré",
+      "tu": "gastarás",
+      "ud": "gastará",
+      "nosotros": "gastaremos",
+      "vosotros": "gastaréis",
+      "uds": "gastarán"
+    },
+    "imperfecto": {
+      "yo": "gastaba",
+      "tu": "gastabas",
+      "ud": "gastaba",
+      "nosotros": "gastábamos",
+      "vosotros": "gastabais",
+      "uds": "gastaban"
+    },
+    "preterito": {
+      "yo": "gasté",
+      "tu": "gastaste",
+      "ud": "gastó",
+      "nosotros": "gastamos",
+      "vosotros": "gastasteis",
+      "uds": "gastaron"
+    },
+    "condicional": {
+      "yo": "gastaría",
+      "tu": "gastarías",
+      "ud": "gastaría",
+      "nosotros": "gastaríamos",
+      "vosotros": "gastaríais",
+      "uds": "gastarían"
+    },
+    "presentePerfecto": {
+      "yo": "he gastado",
+      "tu": "has gastado",
+      "ud": "ha gastado",
+      "nosotros": "hemos gastado",
+      "vosotros": "habéis gastado",
+      "uds": "han gastado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré gastado",
+      "tu": "habrás gastado",
+      "ud": "habrá gastado",
+      "nosotros": "habremos gastado",
+      "vosotros": "habréis gastado",
+      "uds": "habrán gastado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había gastado",
+      "tu": "habías gastado",
+      "ud": "había gastado",
+      "nosotros": "habíamos gastado",
+      "vosotros": "habíais gastado",
+      "uds": "habían gastado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube gastado",
+      "tu": "hubiste gastado",
+      "ud": "hubo gastado",
+      "nosotros": "hubimos gastado",
+      "vosotros": "hubisteis gastado",
+      "uds": "hubieron gastado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría gastado",
+      "tu": "habrías gastado",
+      "ud": "habría gastado",
+      "nosotros": "habríamos gastado",
+      "vosotros": "habríais gastado",
+      "uds": "habrían gastado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "gaste",
+      "tu": "gastes",
+      "ud": "gaste",
+      "nosotros": "gastemos",
+      "vosotros": "gastéis",
+      "uds": "gasten"
+    },
+    "imperfecto": {
+      "yo": "gastara",
+      "tu": "gastaras",
+      "ud": "gastara",
+      "nosotros": "gastáramos",
+      "vosotros": "gastarais",
+      "uds": "gastaran"
+    },
+    "futuro": {
+      "yo": "gastare",
+      "tu": "gastares",
+      "ud": "gastare",
+      "nosotros": "gastáremos",
+      "vosotros": "gastareis",
+      "uds": "gastaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya gastado",
+      "tu": "hayas gastado",
+      "ud": "haya gastado",
+      "nosotros": "hayamos gastado",
+      "vosotros": "hayáis gastado",
+      "uds": "hayan gastado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere gastado",
+      "tu": "hubieres gastado",
+      "ud": "hubiere gastado",
+      "nosotros": "hubiéremos gastado",
+      "vosotros": "hubiereis gastado",
+      "uds": "hubieren gastado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera gastado",
+      "tu": "hubieras gastado",
+      "ud": "hubiera gastado",
+      "nosotros": "hubiéramos gastado",
+      "vosotros": "hubierais gastado",
+      "uds": "hubieran gastado"
+    },
+    "imperfectoAlt": {
+      "yo": "gastase",
+      "tu": "gastases",
+      "ud": "gastase",
+      "nosotros": "gastásemos",
+      "vosotros": "gastaseis",
+      "uds": "gastasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese gastado",
+      "tu": "hubieses gastado",
+      "ud": "hubiese gastado",
+      "nosotros": "hubiésemos gastado",
+      "vosotros": "hubieseis gastado",
+      "uds": "hubiesen gastado"
+    }
+  },
+  "afirmativo": {
+    "tu": "gasta",
+    "vosotros": "gastad",
+    "ud": "gaste",
+    "uds": "gasten"
+  },
+  "negativo": {
+    "tu": "no gastes",
+    "vosotros": "no gastéis",
+    "ud": "no gaste",
+    "uds": "no gasten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to spend, expend; to use up, consume; to wear away, wear down",
+    "gerundio": "spending",
+    "participioPasado": "spent",
+    "indicativo": {
+      "presente": "I spend, am spending",
+      "futuro": "I will spend",
+      "imperfecto": "I was spending, used to spend, spent",
+      "preterito": "I spent",
+      "condicional": "I would spend",
+      "presentePerfecto": "I have spent",
+      "futuroPerfecto": "I will have spent",
+      "pluscuamperfecto": "I had spent",
+      "preteritoAnterior": "I had spent",
+      "condicionalPerfecto": "I would have spent"
+    },
+    "subjuntivo": {
+      "presente": "I spend, am spending",
+      "imperfecto": "I spent, was spending",
+      "futuro": "I will spend",
+      "presentePerfecto": "I have spent, spent",
+      "futuroPerfecto": "I will have spent",
+      "pluscuamperfecto": "I had spent"
+    },
+    "afirmativo": "Spend!",
+    "negativo": "Don't spend!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "quedar",
+  "gerundio": "quedando",
+  "participioPasado": "quedado",
+  "indicativo": {
+    "presente": {
+      "yo": "quedo",
+      "tu": "quedas",
+      "ud": "queda",
+      "nosotros": "quedamos",
+      "vosotros": "quedáis",
+      "uds": "quedan"
+    },
+    "futuro": {
+      "yo": "quedaré",
+      "tu": "quedarás",
+      "ud": "quedará",
+      "nosotros": "quedaremos",
+      "vosotros": "quedaréis",
+      "uds": "quedarán"
+    },
+    "imperfecto": {
+      "yo": "quedaba",
+      "tu": "quedabas",
+      "ud": "quedaba",
+      "nosotros": "quedábamos",
+      "vosotros": "quedabais",
+      "uds": "quedaban"
+    },
+    "preterito": {
+      "yo": "quedé",
+      "tu": "quedaste",
+      "ud": "quedó",
+      "nosotros": "quedamos",
+      "vosotros": "quedasteis",
+      "uds": "quedaron"
+    },
+    "condicional": {
+      "yo": "quedaría",
+      "tu": "quedarías",
+      "ud": "quedaría",
+      "nosotros": "quedaríamos",
+      "vosotros": "quedaríais",
+      "uds": "quedarían"
+    },
+    "presentePerfecto": {
+      "yo": "he quedado",
+      "tu": "has quedado",
+      "ud": "ha quedado",
+      "nosotros": "hemos quedado",
+      "vosotros": "habéis quedado",
+      "uds": "han quedado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré quedado",
+      "tu": "habrás quedado",
+      "ud": "habrá quedado",
+      "nosotros": "habremos quedado",
+      "vosotros": "habréis quedado",
+      "uds": "habrán quedado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había quedado",
+      "tu": "habías quedado",
+      "ud": "había quedado",
+      "nosotros": "habíamos quedado",
+      "vosotros": "habíais quedado",
+      "uds": "habían quedado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube quedado",
+      "tu": "hubiste quedado",
+      "ud": "hubo quedado",
+      "nosotros": "hubimos quedado",
+      "vosotros": "hubisteis quedado",
+      "uds": "hubieron quedado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría quedado",
+      "tu": "habrías quedado",
+      "ud": "habría quedado",
+      "nosotros": "habríamos quedado",
+      "vosotros": "habríais quedado",
+      "uds": "habrían quedado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "quede",
+      "tu": "quedes",
+      "ud": "quede",
+      "nosotros": "quedemos",
+      "vosotros": "quedéis",
+      "uds": "queden"
+    },
+    "imperfecto": {
+      "yo": "quedara",
+      "tu": "quedaras",
+      "ud": "quedara",
+      "nosotros": "quedáramos",
+      "vosotros": "quedarais",
+      "uds": "quedaran"
+    },
+    "futuro": {
+      "yo": "quedare",
+      "tu": "quedares",
+      "ud": "quedare",
+      "nosotros": "quedáremos",
+      "vosotros": "quedareis",
+      "uds": "quedaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya quedado",
+      "tu": "hayas quedado",
+      "ud": "haya quedado",
+      "nosotros": "hayamos quedado",
+      "vosotros": "hayáis quedado",
+      "uds": "hayan quedado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere quedado",
+      "tu": "hubieres quedado",
+      "ud": "hubiere quedado",
+      "nosotros": "hubiéremos quedado",
+      "vosotros": "hubiereis quedado",
+      "uds": "hubieren quedado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera quedado",
+      "tu": "hubieras quedado",
+      "ud": "hubiera quedado",
+      "nosotros": "hubiéramos quedado",
+      "vosotros": "hubierais quedado",
+      "uds": "hubieran quedado"
+    },
+    "imperfectoAlt": {
+      "yo": "quedase",
+      "tu": "quedases",
+      "ud": "quedase",
+      "nosotros": "quedásemos",
+      "vosotros": "quedaseis",
+      "uds": "quedasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese quedado",
+      "tu": "hubieses quedado",
+      "ud": "hubiese quedado",
+      "nosotros": "hubiésemos quedado",
+      "vosotros": "hubieseis quedado",
+      "uds": "hubiesen quedado"
+    }
+  },
+  "afirmativo": {
+    "tu": "queda",
+    "vosotros": "quedad",
+    "ud": "quede",
+    "uds": "queden"
+  },
+  "negativo": {
+    "tu": "no quedes",
+    "vosotros": "no quedéis",
+    "ud": "no quede",
+    "uds": "no queden"
+  },
+  "english": {
+    "note": "Example: Quedamos allí dos días = We stayed there two days. It may also be used in a gustar-type construction: No nos queda mucho dinero = We don't have much money left. The reflexive form quedarse also means to stay but often indicates an intentional staying behind.",
+    "infinitivo": "to stay, remain, be left; to be (indicating location)",
+    "gerundio": "staying",
+    "participioPasado": "stayed",
+    "indicativo": {
+      "presente": "I stay, am staying",
+      "futuro": "I will stay",
+      "imperfecto": "I was staying, used to stay, stayed",
+      "preterito": "I stayed",
+      "condicional": "I would stay",
+      "presentePerfecto": "I have stayed",
+      "futuroPerfecto": "I will have stayed",
+      "pluscuamperfecto": "I had stayed",
+      "preteritoAnterior": "I had stayed",
+      "condicionalPerfecto": "I would have stayed"
+    },
+    "subjuntivo": {
+      "presente": "I stay, am staying",
+      "imperfecto": "I stayed, was staying",
+      "futuro": "I will stay",
+      "presentePerfecto": "I have stayed, stayed",
+      "futuroPerfecto": "I will have stayed",
+      "pluscuamperfecto": "I had stayed"
+    },
+    "afirmativo": "stay!",
+    "negativo": "Don't stay!"
+  },
+  "attribution": "Fred Jehle"
+}

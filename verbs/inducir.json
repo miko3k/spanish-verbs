@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "inducir",
+  "gerundio": "induciendo",
+  "participioPasado": "inducido",
+  "indicativo": {
+    "presente": {
+      "yo": "induzco",
+      "tu": "induces",
+      "ud": "induce",
+      "nosotros": "inducimos",
+      "vosotros": "inducís",
+      "uds": "inducen"
+    },
+    "futuro": {
+      "yo": "induciré",
+      "tu": "inducirás",
+      "ud": "inducirá",
+      "nosotros": "induciremos",
+      "vosotros": "induciréis",
+      "uds": "inducirán"
+    },
+    "imperfecto": {
+      "yo": "inducía",
+      "tu": "inducías",
+      "ud": "inducía",
+      "nosotros": "inducíamos",
+      "vosotros": "inducíais",
+      "uds": "inducían"
+    },
+    "preterito": {
+      "yo": "induje",
+      "tu": "indujiste",
+      "ud": "indujo",
+      "nosotros": "indujimos",
+      "vosotros": "indujisteis",
+      "uds": "indujeron"
+    },
+    "condicional": {
+      "yo": "induciría",
+      "tu": "inducirías",
+      "ud": "induciría",
+      "nosotros": "induciríamos",
+      "vosotros": "induciríais",
+      "uds": "inducirían"
+    },
+    "presentePerfecto": {
+      "yo": "he inducido",
+      "tu": "has inducido",
+      "ud": "ha inducido",
+      "nosotros": "hemos inducido",
+      "vosotros": "habéis inducido",
+      "uds": "han inducido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré inducido",
+      "tu": "habrás inducido",
+      "ud": "habrá inducido",
+      "nosotros": "habremos inducido",
+      "vosotros": "habréis inducido",
+      "uds": "habrán inducido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había inducido",
+      "tu": "habías inducido",
+      "ud": "había inducido",
+      "nosotros": "habíamos inducido",
+      "vosotros": "habíais inducido",
+      "uds": "habían inducido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube inducido",
+      "tu": "hubiste inducido",
+      "ud": "hubo inducido",
+      "nosotros": "hubimos inducido",
+      "vosotros": "hubisteis inducido",
+      "uds": "hubieron inducido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría inducido",
+      "tu": "habrías inducido",
+      "ud": "habría inducido",
+      "nosotros": "habríamos inducido",
+      "vosotros": "habríais inducido",
+      "uds": "habrían inducido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "induzca",
+      "tu": "induzcas",
+      "ud": "induzca",
+      "nosotros": "induzcamos",
+      "vosotros": "induzcáis",
+      "uds": "induzcan"
+    },
+    "imperfecto": {
+      "yo": "indujera",
+      "tu": "indujeras",
+      "ud": "indujera",
+      "nosotros": "indujéramos",
+      "vosotros": "indujerais",
+      "uds": "indujeran"
+    },
+    "futuro": {
+      "yo": "indujere",
+      "tu": "indujeres",
+      "ud": "indujere",
+      "nosotros": "indujéremos",
+      "vosotros": "indujereis",
+      "uds": "indujeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya inducido",
+      "tu": "hayas inducido",
+      "ud": "haya inducido",
+      "nosotros": "hayamos inducido",
+      "vosotros": "hayáis inducido",
+      "uds": "hayan inducido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere inducido",
+      "tu": "hubieres inducido",
+      "ud": "hubiere inducido",
+      "nosotros": "hubiéremos inducido",
+      "vosotros": "hubiereis inducido",
+      "uds": "hubieren inducido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera inducido",
+      "tu": "hubieras inducido",
+      "ud": "hubiera inducido",
+      "nosotros": "hubiéramos inducido",
+      "vosotros": "hubierais inducido",
+      "uds": "hubieran inducido"
+    },
+    "imperfectoAlt": {
+      "yo": "indujese",
+      "tu": "indujeses",
+      "ud": "indujese",
+      "nosotros": "indujésemos",
+      "vosotros": "indujeseis",
+      "uds": "indujesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese inducido",
+      "tu": "hubieses inducido",
+      "ud": "hubiese inducido",
+      "nosotros": "hubiésemos inducido",
+      "vosotros": "hubieseis inducido",
+      "uds": "hubiesen inducido"
+    }
+  },
+  "afirmativo": {
+    "tu": "induce",
+    "vosotros": "inducid",
+    "ud": "induzca",
+    "uds": "induzcan"
+  },
+  "negativo": {
+    "tu": "no induzcas",
+    "vosotros": "no induzcáis",
+    "ud": "no induzca",
+    "uds": "no induzcan"
+  },
+  "english": {
+    "note": "Formas irregulares: induzco, induzca, induzcas, etc.",
+    "infinitivo": "to induce",
+    "gerundio": "inducing",
+    "participioPasado": "induced",
+    "indicativo": {
+      "presente": "I induce, am inducing",
+      "futuro": "I will induce",
+      "imperfecto": "I was inducing, used to induce, induced",
+      "preterito": "I induced",
+      "condicional": "I would induce",
+      "presentePerfecto": "I have induced",
+      "futuroPerfecto": "I will have induced",
+      "pluscuamperfecto": "I had induced",
+      "preteritoAnterior": "I had induced",
+      "condicionalPerfecto": "I would have induced"
+    },
+    "subjuntivo": {
+      "presente": "I induce, am inducing",
+      "imperfecto": "I induced, was inducing",
+      "futuro": "I will induce",
+      "presentePerfecto": "I have induced, induced",
+      "futuroPerfecto": "I will have induced",
+      "pluscuamperfecto": "I had induced"
+    },
+    "afirmativo": "Induce!",
+    "negativo": "Don't induce!"
+  },
+  "attribution": "Fred Jehle"
+}

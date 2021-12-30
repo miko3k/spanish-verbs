@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "consistir (en)",
+  "gerundio": "consistiendo",
+  "participioPasado": "consistido",
+  "indicativo": {
+    "presente": {
+      "yo": "consisto",
+      "tu": "consistes",
+      "ud": "consiste",
+      "nosotros": "consistimos",
+      "vosotros": "consistís",
+      "uds": "consisten"
+    },
+    "futuro": {
+      "yo": "consistiré",
+      "tu": "consistirás",
+      "ud": "consistirá",
+      "nosotros": "consistiremos",
+      "vosotros": "consistiréis",
+      "uds": "consistirán"
+    },
+    "imperfecto": {
+      "yo": "consistía",
+      "tu": "consistías",
+      "ud": "consistía",
+      "nosotros": "consistíamos",
+      "vosotros": "consistíais",
+      "uds": "consistían"
+    },
+    "preterito": {
+      "yo": "consistí",
+      "tu": "consististe",
+      "ud": "consistió",
+      "nosotros": "consistimos",
+      "vosotros": "consististeis",
+      "uds": "consistieron"
+    },
+    "condicional": {
+      "yo": "consistiría",
+      "tu": "consistirías",
+      "ud": "consistiría",
+      "nosotros": "consistiríamos",
+      "vosotros": "consistiríais",
+      "uds": "consistirían"
+    },
+    "presentePerfecto": {
+      "yo": "he consistido",
+      "tu": "has consistido",
+      "ud": "ha consistido",
+      "nosotros": "hemos consistido",
+      "vosotros": "habéis consistido",
+      "uds": "han consistido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré consistido",
+      "tu": "habrás consistido",
+      "ud": "habrá consistido",
+      "nosotros": "habremos consistido",
+      "vosotros": "habréis consistido",
+      "uds": "habrán consistido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había consistido",
+      "tu": "habías consistido",
+      "ud": "había consistido",
+      "nosotros": "habíamos consistido",
+      "vosotros": "habíais consistido",
+      "uds": "habían consistido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube consistido",
+      "tu": "hubiste consistido",
+      "ud": "hubo consistido",
+      "nosotros": "hubimos consistido",
+      "vosotros": "hubisteis consistido",
+      "uds": "hubieron consistido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría consistido",
+      "tu": "habrías consistido",
+      "ud": "habría consistido",
+      "nosotros": "habríamos consistido",
+      "vosotros": "habríais consistido",
+      "uds": "habrían consistido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "consista",
+      "tu": "consistas",
+      "ud": "consista",
+      "nosotros": "consistamos",
+      "vosotros": "consistáis",
+      "uds": "consistan"
+    },
+    "imperfecto": {
+      "yo": "consistiera",
+      "tu": "consistieras",
+      "ud": "consistiera",
+      "nosotros": "consistiéramos",
+      "vosotros": "consistierais",
+      "uds": "consistieran"
+    },
+    "futuro": {
+      "yo": "consistiere",
+      "tu": "consistieres",
+      "ud": "consistiere",
+      "nosotros": "consistiéremos",
+      "vosotros": "consistiereis",
+      "uds": "consistieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya consistido",
+      "tu": "hayas consistido",
+      "ud": "haya consistido",
+      "nosotros": "hayamos consistido",
+      "vosotros": "hayáis consistido",
+      "uds": "hayan consistido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere consistido",
+      "tu": "hubieres consistido",
+      "ud": "hubiere consistido",
+      "nosotros": "hubiéremos consistido",
+      "vosotros": "hubiereis consistido",
+      "uds": "hubieren consistido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera consistido",
+      "tu": "hubieras consistido",
+      "ud": "hubiera consistido",
+      "nosotros": "hubiéramos consistido",
+      "vosotros": "hubierais consistido",
+      "uds": "hubieran consistido"
+    },
+    "imperfectoAlt": {
+      "yo": "consistiese",
+      "tu": "consistieses",
+      "ud": "consistiese",
+      "nosotros": "consistiésemos",
+      "vosotros": "consistieseis",
+      "uds": "consistiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese consistido",
+      "tu": "hubieses consistido",
+      "ud": "hubiese consistido",
+      "nosotros": "hubiésemos consistido",
+      "vosotros": "hubieseis consistido",
+      "uds": "hubiesen consistido"
+    }
+  },
+  "afirmativo": {
+    "tu": "consiste",
+    "vosotros": "consistid",
+    "ud": "consista",
+    "uds": "consistan"
+  },
+  "negativo": {
+    "tu": "no consistas",
+    "vosotros": "no consistáis",
+    "ud": "no consista",
+    "uds": "no consistan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to consist (of), be composed (of)",
+    "gerundio": "consisting",
+    "participioPasado": "consisted",
+    "indicativo": {
+      "presente": "I consist, am consisting",
+      "futuro": "I will consist",
+      "imperfecto": "I was consisting, used to consist, consisted",
+      "preterito": "I consisted",
+      "condicional": "I would consist",
+      "presentePerfecto": "I have consisted",
+      "futuroPerfecto": "I will have consisted",
+      "pluscuamperfecto": "I had consisted",
+      "preteritoAnterior": "I had consisted",
+      "condicionalPerfecto": "I would have consisted"
+    },
+    "subjuntivo": {
+      "presente": "I consist, am consisting",
+      "imperfecto": "I consisted, was consisting",
+      "futuro": "I will consist",
+      "presentePerfecto": "I have consisted, consisted",
+      "futuroPerfecto": "I will have consisted",
+      "pluscuamperfecto": "I had consisted"
+    },
+    "afirmativo": "Consist!",
+    "negativo": "Don't consist!"
+  },
+  "attribution": "Fred Jehle"
+}

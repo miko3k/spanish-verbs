@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "pelear",
+  "gerundio": "peleando",
+  "participioPasado": "peleado",
+  "indicativo": {
+    "presente": {
+      "yo": "peleo",
+      "tu": "peleas",
+      "ud": "pelea",
+      "nosotros": "peleamos",
+      "vosotros": "peleáis",
+      "uds": "pelean"
+    },
+    "futuro": {
+      "yo": "pelearé",
+      "tu": "pelearás",
+      "ud": "peleará",
+      "nosotros": "pelearemos",
+      "vosotros": "pelearéis",
+      "uds": "pelearán"
+    },
+    "imperfecto": {
+      "yo": "peleaba",
+      "tu": "peleabas",
+      "ud": "peleaba",
+      "nosotros": "peleábamos",
+      "vosotros": "peleabais",
+      "uds": "peleaban"
+    },
+    "preterito": {
+      "yo": "peleé",
+      "tu": "peleaste",
+      "ud": "peleó",
+      "nosotros": "peleamos",
+      "vosotros": "peleasteis",
+      "uds": "pelearon"
+    },
+    "condicional": {
+      "yo": "pelearía",
+      "tu": "pelearías",
+      "ud": "pelearía",
+      "nosotros": "pelearíamos",
+      "vosotros": "pelearíais",
+      "uds": "pelearían"
+    },
+    "presentePerfecto": {
+      "yo": "he peleado",
+      "tu": "has peleado",
+      "ud": "ha peleado",
+      "nosotros": "hemos peleado",
+      "vosotros": "habéis peleado",
+      "uds": "han peleado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré peleado",
+      "tu": "habrás peleado",
+      "ud": "habrá peleado",
+      "nosotros": "habremos peleado",
+      "vosotros": "habréis peleado",
+      "uds": "habrán peleado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había peleado",
+      "tu": "habías peleado",
+      "ud": "había peleado",
+      "nosotros": "habíamos peleado",
+      "vosotros": "habíais peleado",
+      "uds": "habían peleado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube peleado",
+      "tu": "hubiste peleado",
+      "ud": "hubo peleado",
+      "nosotros": "hubimos peleado",
+      "vosotros": "hubisteis peleado",
+      "uds": "hubieron peleado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría peleado",
+      "tu": "habrías peleado",
+      "ud": "habría peleado",
+      "nosotros": "habríamos peleado",
+      "vosotros": "habríais peleado",
+      "uds": "habrían peleado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pelee",
+      "tu": "pelees",
+      "ud": "pelee",
+      "nosotros": "peleemos",
+      "vosotros": "peleéis",
+      "uds": "peleen"
+    },
+    "imperfecto": {
+      "yo": "peleara",
+      "tu": "pelearas",
+      "ud": "peleara",
+      "nosotros": "peleáramos",
+      "vosotros": "pelearais",
+      "uds": "pelearan"
+    },
+    "futuro": {
+      "yo": "peleare",
+      "tu": "peleares",
+      "ud": "peleare",
+      "nosotros": "peleáremos",
+      "vosotros": "peleareis",
+      "uds": "pelearen"
+    },
+    "presentePerfecto": {
+      "yo": "haya peleado",
+      "tu": "hayas peleado",
+      "ud": "haya peleado",
+      "nosotros": "hayamos peleado",
+      "vosotros": "hayáis peleado",
+      "uds": "hayan peleado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere peleado",
+      "tu": "hubieres peleado",
+      "ud": "hubiere peleado",
+      "nosotros": "hubiéremos peleado",
+      "vosotros": "hubiereis peleado",
+      "uds": "hubieren peleado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera peleado",
+      "tu": "hubieras peleado",
+      "ud": "hubiera peleado",
+      "nosotros": "hubiéramos peleado",
+      "vosotros": "hubierais peleado",
+      "uds": "hubieran peleado"
+    },
+    "imperfectoAlt": {
+      "yo": "pelease",
+      "tu": "peleases",
+      "ud": "pelease",
+      "nosotros": "peleásemos",
+      "vosotros": "peleaseis",
+      "uds": "peleasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese peleado",
+      "tu": "hubieses peleado",
+      "ud": "hubiese peleado",
+      "nosotros": "hubiésemos peleado",
+      "vosotros": "hubieseis peleado",
+      "uds": "hubiesen peleado"
+    }
+  },
+  "afirmativo": {
+    "tu": "pelea",
+    "vosotros": "pelead",
+    "ud": "pelee",
+    "uds": "peleen"
+  },
+  "negativo": {
+    "tu": "no pelees",
+    "vosotros": "no peleéis",
+    "ud": "no pelee",
+    "uds": "no peleen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to fight; to brawl, scruffle",
+    "gerundio": "fighting",
+    "participioPasado": "fought",
+    "indicativo": {
+      "presente": "I fight, am fighting",
+      "futuro": "I will fight",
+      "imperfecto": "I was fighting, used to fight, fought",
+      "preterito": "I fought",
+      "condicional": "I would fight",
+      "presentePerfecto": "I have fought",
+      "futuroPerfecto": "I will have fought",
+      "pluscuamperfecto": "I had fought",
+      "preteritoAnterior": "I had fought",
+      "condicionalPerfecto": "I would have fought"
+    },
+    "subjuntivo": {
+      "presente": "I fight, am fighting",
+      "imperfecto": "I fought, was fighting",
+      "futuro": "I will fight",
+      "presentePerfecto": "I have fought, fought",
+      "futuroPerfecto": "I will have fought",
+      "pluscuamperfecto": "I had fought"
+    },
+    "afirmativo": "Fight!",
+    "negativo": "Don't fight!"
+  },
+  "attribution": "Fred Jehle"
+}

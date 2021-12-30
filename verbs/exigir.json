@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "exigir",
+  "gerundio": "exigiendo",
+  "participioPasado": "exigido",
+  "indicativo": {
+    "presente": {
+      "yo": "exijo",
+      "tu": "exiges",
+      "ud": "exige",
+      "nosotros": "exigimos",
+      "vosotros": "exigís",
+      "uds": "exigen"
+    },
+    "futuro": {
+      "yo": "exigiré",
+      "tu": "exigirás",
+      "ud": "exigirá",
+      "nosotros": "exigiremos",
+      "vosotros": "exigiréis",
+      "uds": "exigirán"
+    },
+    "imperfecto": {
+      "yo": "exigía",
+      "tu": "exigías",
+      "ud": "exigía",
+      "nosotros": "exigíamos",
+      "vosotros": "exigíais",
+      "uds": "exigían"
+    },
+    "preterito": {
+      "yo": "exigí",
+      "tu": "exigiste",
+      "ud": "exigió",
+      "nosotros": "exigimos",
+      "vosotros": "exigisteis",
+      "uds": "exigieron"
+    },
+    "condicional": {
+      "yo": "exigiría",
+      "tu": "exigirías",
+      "ud": "exigiría",
+      "nosotros": "exigiríamos",
+      "vosotros": "exigiríais",
+      "uds": "exigirían"
+    },
+    "presentePerfecto": {
+      "yo": "he exigido",
+      "tu": "has exigido",
+      "ud": "ha exigido",
+      "nosotros": "hemos exigido",
+      "vosotros": "habéis exigido",
+      "uds": "han exigido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré exigido",
+      "tu": "habrás exigido",
+      "ud": "habrá exigido",
+      "nosotros": "habremos exigido",
+      "vosotros": "habréis exigido",
+      "uds": "habrán exigido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había exigido",
+      "tu": "habías exigido",
+      "ud": "había exigido",
+      "nosotros": "habíamos exigido",
+      "vosotros": "habíais exigido",
+      "uds": "habían exigido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube exigido",
+      "tu": "hubiste exigido",
+      "ud": "hubo exigido",
+      "nosotros": "hubimos exigido",
+      "vosotros": "hubisteis exigido",
+      "uds": "hubieron exigido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría exigido",
+      "tu": "habrías exigido",
+      "ud": "habría exigido",
+      "nosotros": "habríamos exigido",
+      "vosotros": "habríais exigido",
+      "uds": "habrían exigido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "exija",
+      "tu": "exijas",
+      "ud": "exija",
+      "nosotros": "exijamos",
+      "vosotros": "exijáis",
+      "uds": "exijan"
+    },
+    "imperfecto": {
+      "yo": "exigiera",
+      "tu": "exigieras",
+      "ud": "exigiera",
+      "nosotros": "exigiéramos",
+      "vosotros": "exigierais",
+      "uds": "exigieran"
+    },
+    "futuro": {
+      "yo": "exigiere",
+      "tu": "exigieres",
+      "ud": "exigiere",
+      "nosotros": "exigiéremos",
+      "vosotros": "exigiereis",
+      "uds": "exigieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya exigido",
+      "tu": "hayas exigido",
+      "ud": "haya exigido",
+      "nosotros": "hayamos exigido",
+      "vosotros": "hayáis exigido",
+      "uds": "hayan exigido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere exigido",
+      "tu": "hubieres exigido",
+      "ud": "hubiere exigido",
+      "nosotros": "hubiéremos exigido",
+      "vosotros": "hubiereis exigido",
+      "uds": "hubieren exigido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera exigido",
+      "tu": "hubieras exigido",
+      "ud": "hubiera exigido",
+      "nosotros": "hubiéramos exigido",
+      "vosotros": "hubierais exigido",
+      "uds": "hubieran exigido"
+    },
+    "imperfectoAlt": {
+      "yo": "exigiese",
+      "tu": "exigieses",
+      "ud": "exigiese",
+      "nosotros": "exigiésemos",
+      "vosotros": "exigieseis",
+      "uds": "exigiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese exigido",
+      "tu": "hubieses exigido",
+      "ud": "hubiese exigido",
+      "nosotros": "hubiésemos exigido",
+      "vosotros": "hubieseis exigido",
+      "uds": "hubiesen exigido"
+    }
+  },
+  "afirmativo": {
+    "tu": "exige",
+    "vosotros": "exigid",
+    "ud": "exija",
+    "uds": "exijan"
+  },
+  "negativo": {
+    "tu": "no exijas",
+    "vosotros": "no exijáis",
+    "ud": "no exija",
+    "uds": "no exijan"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > j delante de o y a.",
+    "infinitivo": "to demand, require",
+    "gerundio": "demanding",
+    "participioPasado": "demanded",
+    "indicativo": {
+      "presente": "I demand, am demanding",
+      "futuro": "I will demand",
+      "imperfecto": "I was demanding, used to demand, demanded",
+      "preterito": "I demanded",
+      "condicional": "I would demand",
+      "presentePerfecto": "I have demanded",
+      "futuroPerfecto": "I will have demanded",
+      "pluscuamperfecto": "I had demanded",
+      "preteritoAnterior": "I had demanded",
+      "condicionalPerfecto": "I would have demanded"
+    },
+    "subjuntivo": {
+      "presente": "I demand, am demanding",
+      "imperfecto": "I demanded, was demanding",
+      "futuro": "I will demand",
+      "presentePerfecto": "I have demanded, demanded",
+      "futuroPerfecto": "I will have demanded",
+      "pluscuamperfecto": "I had demanded"
+    },
+    "afirmativo": "Demand!",
+    "negativo": "Don't demand!"
+  },
+  "attribution": "Fred Jehle"
+}

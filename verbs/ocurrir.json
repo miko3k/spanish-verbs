@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "ocurrir",
+  "gerundio": "ocurriendo",
+  "participioPasado": "ocurrido",
+  "indicativo": {
+    "presente": {
+      "yo": "ocurro",
+      "tu": "ocurres",
+      "ud": "ocurre",
+      "nosotros": "ocurrimos",
+      "vosotros": "ocurrís",
+      "uds": "ocurren"
+    },
+    "futuro": {
+      "yo": "ocurriré",
+      "tu": "ocurrirás",
+      "ud": "ocurrirá",
+      "nosotros": "ocurriremos",
+      "vosotros": "ocurriréis",
+      "uds": "ocurrirán"
+    },
+    "imperfecto": {
+      "yo": "ocurría",
+      "tu": "ocurrías",
+      "ud": "ocurría",
+      "nosotros": "ocurríamos",
+      "vosotros": "ocurríais",
+      "uds": "ocurrían"
+    },
+    "preterito": {
+      "yo": "ocurrí",
+      "tu": "ocurriste",
+      "ud": "ocurrió",
+      "nosotros": "ocurrimos",
+      "vosotros": "ocurristeis",
+      "uds": "ocurrieron"
+    },
+    "condicional": {
+      "yo": "ocurriría",
+      "tu": "ocurrirías",
+      "ud": "ocurriría",
+      "nosotros": "ocurriríamos",
+      "vosotros": "ocurriríais",
+      "uds": "ocurrirían"
+    },
+    "presentePerfecto": {
+      "yo": "he ocurrido",
+      "tu": "has ocurrido",
+      "ud": "ha ocurrido",
+      "nosotros": "hemos ocurrido",
+      "vosotros": "habéis ocurrido",
+      "uds": "han ocurrido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ocurrido",
+      "tu": "habrás ocurrido",
+      "ud": "habrá ocurrido",
+      "nosotros": "habremos ocurrido",
+      "vosotros": "habréis ocurrido",
+      "uds": "habrán ocurrido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ocurrido",
+      "tu": "habías ocurrido",
+      "ud": "había ocurrido",
+      "nosotros": "habíamos ocurrido",
+      "vosotros": "habíais ocurrido",
+      "uds": "habían ocurrido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ocurrido",
+      "tu": "hubiste ocurrido",
+      "ud": "hubo ocurrido",
+      "nosotros": "hubimos ocurrido",
+      "vosotros": "hubisteis ocurrido",
+      "uds": "hubieron ocurrido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ocurrido",
+      "tu": "habrías ocurrido",
+      "ud": "habría ocurrido",
+      "nosotros": "habríamos ocurrido",
+      "vosotros": "habríais ocurrido",
+      "uds": "habrían ocurrido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ocurra",
+      "tu": "ocurras",
+      "ud": "ocurra",
+      "nosotros": "ocurramos",
+      "vosotros": "ocurráis",
+      "uds": "ocurran"
+    },
+    "imperfecto": {
+      "yo": "ocurriera",
+      "tu": "ocurrieras",
+      "ud": "ocurriera",
+      "nosotros": "ocurriéramos",
+      "vosotros": "ocurrierais",
+      "uds": "ocurrieran"
+    },
+    "futuro": {
+      "yo": "ocurriere",
+      "tu": "ocurrieres",
+      "ud": "ocurriere",
+      "nosotros": "ocurriéremos",
+      "vosotros": "ocurriereis",
+      "uds": "ocurrieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ocurrido",
+      "tu": "hayas ocurrido",
+      "ud": "haya ocurrido",
+      "nosotros": "hayamos ocurrido",
+      "vosotros": "hayáis ocurrido",
+      "uds": "hayan ocurrido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ocurrido",
+      "tu": "hubieres ocurrido",
+      "ud": "hubiere ocurrido",
+      "nosotros": "hubiéremos ocurrido",
+      "vosotros": "hubiereis ocurrido",
+      "uds": "hubieren ocurrido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ocurrido",
+      "tu": "hubieras ocurrido",
+      "ud": "hubiera ocurrido",
+      "nosotros": "hubiéramos ocurrido",
+      "vosotros": "hubierais ocurrido",
+      "uds": "hubieran ocurrido"
+    },
+    "imperfectoAlt": {
+      "yo": "ocurriese",
+      "tu": "ocurrieses",
+      "ud": "ocurriese",
+      "nosotros": "ocurriésemos",
+      "vosotros": "ocurrieseis",
+      "uds": "ocurriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ocurrido",
+      "tu": "hubieses ocurrido",
+      "ud": "hubiese ocurrido",
+      "nosotros": "hubiésemos ocurrido",
+      "vosotros": "hubieseis ocurrido",
+      "uds": "hubiesen ocurrido"
+    }
+  },
+  "afirmativo": {
+    "tu": "ocurre",
+    "vosotros": "ocurrid",
+    "ud": "ocurra",
+    "uds": "ocurran"
+  },
+  "negativo": {
+    "tu": "no ocurras",
+    "vosotros": "no ocurráis",
+    "ud": "no ocurra",
+    "uds": "no ocurran"
+  },
+  "english": {
+    "note": "Note: Due to its meaning this verb almost aways occurs in the thrid person singular or plural.",
+    "infinitivo": "to occur, happen",
+    "gerundio": "occurring",
+    "participioPasado": "occurred",
+    "indicativo": {
+      "presente": "it occurs, is occurring",
+      "futuro": "it will occur",
+      "imperfecto": "it was occurring, used to occur, occurred",
+      "preterito": "it occurred",
+      "condicional": "it would occur",
+      "presentePerfecto": "it has occurred",
+      "futuroPerfecto": "it will have occurred",
+      "pluscuamperfecto": "it had occurred",
+      "preteritoAnterior": "it had occurred",
+      "condicionalPerfecto": "it would have occurred"
+    },
+    "subjuntivo": {
+      "presente": "it occurs, is occurring",
+      "imperfecto": "it occurred, was occurring",
+      "futuro": "it will occur",
+      "presentePerfecto": "it has occurred, occurred",
+      "futuroPerfecto": "it will have occurred",
+      "pluscuamperfecto": "it had occurred"
+    },
+    "afirmativo": "Occur!",
+    "negativo": "Don't occur!"
+  },
+  "attribution": "Fred Jehle"
+}

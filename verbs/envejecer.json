@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "envejecer",
+  "gerundio": "envejeciendo",
+  "participioPasado": "envejecido",
+  "indicativo": {
+    "presente": {
+      "yo": "envejezco",
+      "tu": "envejeces",
+      "ud": "envejece",
+      "nosotros": "envejecemos",
+      "vosotros": "envejecéis",
+      "uds": "envejecen"
+    },
+    "futuro": {
+      "yo": "envejeceré",
+      "tu": "envejecerás",
+      "ud": "envejecerá",
+      "nosotros": "envejeceremos",
+      "vosotros": "envejeceréis",
+      "uds": "envejecerán"
+    },
+    "imperfecto": {
+      "yo": "envejecía",
+      "tu": "envejecías",
+      "ud": "envejecía",
+      "nosotros": "envejecíamos",
+      "vosotros": "envejecíais",
+      "uds": "envejecían"
+    },
+    "preterito": {
+      "yo": "envejecí",
+      "tu": "envejeciste",
+      "ud": "envejeció",
+      "nosotros": "envejecimos",
+      "vosotros": "envejecisteis",
+      "uds": "envejecieron"
+    },
+    "condicional": {
+      "yo": "envejecería",
+      "tu": "envejecerías",
+      "ud": "envejecería",
+      "nosotros": "envejeceríamos",
+      "vosotros": "envejeceríais",
+      "uds": "envejecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he envejecido",
+      "tu": "has envejecido",
+      "ud": "ha envejecido",
+      "nosotros": "hemos envejecido",
+      "vosotros": "habéis envejecido",
+      "uds": "han envejecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré envejecido",
+      "tu": "habrás envejecido",
+      "ud": "habrá envejecido",
+      "nosotros": "habremos envejecido",
+      "vosotros": "habréis envejecido",
+      "uds": "habrán envejecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había envejecido",
+      "tu": "habías envejecido",
+      "ud": "había envejecido",
+      "nosotros": "habíamos envejecido",
+      "vosotros": "habíais envejecido",
+      "uds": "habían envejecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube envejecido",
+      "tu": "hubiste envejecido",
+      "ud": "hubo envejecido",
+      "nosotros": "hubimos envejecido",
+      "vosotros": "hubisteis envejecido",
+      "uds": "hubieron envejecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría envejecido",
+      "tu": "habrías envejecido",
+      "ud": "habría envejecido",
+      "nosotros": "habríamos envejecido",
+      "vosotros": "habríais envejecido",
+      "uds": "habrían envejecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "envejezca",
+      "tu": "envejezcas",
+      "ud": "envejezca",
+      "nosotros": "envejezcamos",
+      "vosotros": "envejezcáis",
+      "uds": "envejezcan"
+    },
+    "imperfecto": {
+      "yo": "envejeciera",
+      "tu": "envejecieras",
+      "ud": "envejeciera",
+      "nosotros": "envejeciéramos",
+      "vosotros": "envejecierais",
+      "uds": "envejecieran"
+    },
+    "futuro": {
+      "yo": "envejeciere",
+      "tu": "envejecieres",
+      "ud": "envejeciere",
+      "nosotros": "envejeciéremos",
+      "vosotros": "envejeciereis",
+      "uds": "envejecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya envejecido",
+      "tu": "hayas envejecido",
+      "ud": "haya envejecido",
+      "nosotros": "hayamos envejecido",
+      "vosotros": "hayáis envejecido",
+      "uds": "hayan envejecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere envejecido",
+      "tu": "hubieres envejecido",
+      "ud": "hubiere envejecido",
+      "nosotros": "hubiéremos envejecido",
+      "vosotros": "hubiereis envejecido",
+      "uds": "hubieren envejecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera envejecido",
+      "tu": "hubieras envejecido",
+      "ud": "hubiera envejecido",
+      "nosotros": "hubiéramos envejecido",
+      "vosotros": "hubierais envejecido",
+      "uds": "hubieran envejecido"
+    },
+    "imperfectoAlt": {
+      "yo": "envejeciese",
+      "tu": "envejecieses",
+      "ud": "envejeciese",
+      "nosotros": "envejeciésemos",
+      "vosotros": "envejecieseis",
+      "uds": "envejeciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese envejecido",
+      "tu": "hubieses envejecido",
+      "ud": "hubiese envejecido",
+      "nosotros": "hubiésemos envejecido",
+      "vosotros": "hubieseis envejecido",
+      "uds": "hubiesen envejecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "envejece",
+    "vosotros": "envejeced",
+    "ud": "envejezca",
+    "uds": "envejezcan"
+  },
+  "negativo": {
+    "tu": "no envejezcas",
+    "vosotros": "no envejezcáis",
+    "ud": "no envejezca",
+    "uds": "no envejezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: envejezco, envejezca, envejezcas, etc. Note: Use the reflexive form envejecerse can also be used to mean to get/grow old.",
+    "infinitivo": "to age, make old, grow old, get old",
+    "gerundio": "aging",
+    "participioPasado": "aged",
+    "indicativo": {
+      "presente": "I age, am aging",
+      "futuro": "I will age",
+      "imperfecto": "I was aging, used to age, aged",
+      "preterito": "I aged",
+      "condicional": "I would age",
+      "presentePerfecto": "I have aged",
+      "futuroPerfecto": "I will have aged",
+      "pluscuamperfecto": "I had aged",
+      "preteritoAnterior": "I had aged",
+      "condicionalPerfecto": "I would have aged"
+    },
+    "subjuntivo": {
+      "presente": "I age, am aging",
+      "imperfecto": "I aged, was aging",
+      "futuro": "I will age",
+      "presentePerfecto": "I have aged, aged",
+      "futuroPerfecto": "I will have aged",
+      "pluscuamperfecto": "I had aged"
+    },
+    "afirmativo": "Age!",
+    "negativo": "Don't age!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "insultar",
+  "gerundio": "insultando",
+  "participioPasado": "insultado",
+  "indicativo": {
+    "presente": {
+      "yo": "insulto",
+      "tu": "insultas",
+      "ud": "insulta",
+      "nosotros": "insultamos",
+      "vosotros": "insultáis",
+      "uds": "insultan"
+    },
+    "futuro": {
+      "yo": "insultaré",
+      "tu": "insultarás",
+      "ud": "insultará",
+      "nosotros": "insultaremos",
+      "vosotros": "insultaréis",
+      "uds": "insultarán"
+    },
+    "imperfecto": {
+      "yo": "insultaba",
+      "tu": "insultabas",
+      "ud": "insultaba",
+      "nosotros": "insultábamos",
+      "vosotros": "insultabais",
+      "uds": "insultaban"
+    },
+    "preterito": {
+      "yo": "insulté",
+      "tu": "insultaste",
+      "ud": "insultó",
+      "nosotros": "insultamos",
+      "vosotros": "insultasteis",
+      "uds": "insultaron"
+    },
+    "condicional": {
+      "yo": "insultaría",
+      "tu": "insultarías",
+      "ud": "insultaría",
+      "nosotros": "insultaríamos",
+      "vosotros": "insultaríais",
+      "uds": "insultarían"
+    },
+    "presentePerfecto": {
+      "yo": "he insultado",
+      "tu": "has insultado",
+      "ud": "ha insultado",
+      "nosotros": "hemos insultado",
+      "vosotros": "habéis insultado",
+      "uds": "han insultado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré insultado",
+      "tu": "habrás insultado",
+      "ud": "habrá insultado",
+      "nosotros": "habremos insultado",
+      "vosotros": "habréis insultado",
+      "uds": "habrán insultado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había insultado",
+      "tu": "habías insultado",
+      "ud": "había insultado",
+      "nosotros": "habíamos insultado",
+      "vosotros": "habíais insultado",
+      "uds": "habían insultado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube insultado",
+      "tu": "hubiste insultado",
+      "ud": "hubo insultado",
+      "nosotros": "hubimos insultado",
+      "vosotros": "hubisteis insultado",
+      "uds": "hubieron insultado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría insultado",
+      "tu": "habrías insultado",
+      "ud": "habría insultado",
+      "nosotros": "habríamos insultado",
+      "vosotros": "habríais insultado",
+      "uds": "habrían insultado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "insulte",
+      "tu": "insultes",
+      "ud": "insulte",
+      "nosotros": "insultemos",
+      "vosotros": "insultéis",
+      "uds": "insulten"
+    },
+    "imperfecto": {
+      "yo": "insultara",
+      "tu": "insultaras",
+      "ud": "insultara",
+      "nosotros": "insultáramos",
+      "vosotros": "insultarais",
+      "uds": "insultaran"
+    },
+    "futuro": {
+      "yo": "insultare",
+      "tu": "insultares",
+      "ud": "insultare",
+      "nosotros": "insultáremos",
+      "vosotros": "insultareis",
+      "uds": "insultaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya insultado",
+      "tu": "hayas insultado",
+      "ud": "haya insultado",
+      "nosotros": "hayamos insultado",
+      "vosotros": "hayáis insultado",
+      "uds": "hayan insultado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere insultado",
+      "tu": "hubieres insultado",
+      "ud": "hubiere insultado",
+      "nosotros": "hubiéremos insultado",
+      "vosotros": "hubiereis insultado",
+      "uds": "hubieren insultado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera insultado",
+      "tu": "hubieras insultado",
+      "ud": "hubiera insultado",
+      "nosotros": "hubiéramos insultado",
+      "vosotros": "hubierais insultado",
+      "uds": "hubieran insultado"
+    },
+    "imperfectoAlt": {
+      "yo": "insultase",
+      "tu": "insultases",
+      "ud": "insultase",
+      "nosotros": "insultásemos",
+      "vosotros": "insultaseis",
+      "uds": "insultasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese insultado",
+      "tu": "hubieses insultado",
+      "ud": "hubiese insultado",
+      "nosotros": "hubiésemos insultado",
+      "vosotros": "hubieseis insultado",
+      "uds": "hubiesen insultado"
+    }
+  },
+  "afirmativo": {
+    "tu": "insulta",
+    "vosotros": "insultad",
+    "ud": "insulte",
+    "uds": "insulten"
+  },
+  "negativo": {
+    "tu": "no insultes",
+    "vosotros": "no insultéis",
+    "ud": "no insulte",
+    "uds": "no insulten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to insult",
+    "gerundio": "insulting",
+    "participioPasado": "insulted",
+    "indicativo": {
+      "presente": "I insult, am insulting",
+      "futuro": "I will insult",
+      "imperfecto": "I was insulting, used to insult, insulted",
+      "preterito": "I insulted",
+      "condicional": "I would insult",
+      "presentePerfecto": "I have insulted",
+      "futuroPerfecto": "I will have insulted",
+      "pluscuamperfecto": "I had insulted",
+      "preteritoAnterior": "I had insulted",
+      "condicionalPerfecto": "I would have insulted"
+    },
+    "subjuntivo": {
+      "presente": "I insult, am insulting",
+      "imperfecto": "I insulted, was insulting",
+      "futuro": "I will insult",
+      "presentePerfecto": "I have insulted, insulted",
+      "futuroPerfecto": "I will have insulted",
+      "pluscuamperfecto": "I had insulted"
+    },
+    "afirmativo": "Insult!",
+    "negativo": "Don't insult!"
+  },
+  "attribution": "Fred Jehle"
+}

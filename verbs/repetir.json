@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "repetir",
+  "gerundio": "repitiendo",
+  "participioPasado": "repetido",
+  "indicativo": {
+    "presente": {
+      "yo": "repito",
+      "tu": "repites",
+      "ud": "repite",
+      "nosotros": "repetimos",
+      "vosotros": "repetís",
+      "uds": "repiten"
+    },
+    "futuro": {
+      "yo": "repetiré",
+      "tu": "repetirás",
+      "ud": "repetirá",
+      "nosotros": "repetiremos",
+      "vosotros": "repetiréis",
+      "uds": "repetirán"
+    },
+    "imperfecto": {
+      "yo": "repetía",
+      "tu": "repetías",
+      "ud": "repetía",
+      "nosotros": "repetíamos",
+      "vosotros": "repetíais",
+      "uds": "repetían"
+    },
+    "preterito": {
+      "yo": "repetí",
+      "tu": "repetiste",
+      "ud": "repitió",
+      "nosotros": "repetimos",
+      "vosotros": "repetisteis",
+      "uds": "repitieron"
+    },
+    "condicional": {
+      "yo": "repetiría",
+      "tu": "repetirías",
+      "ud": "repetiría",
+      "nosotros": "repetiríamos",
+      "vosotros": "repetiríais",
+      "uds": "repetirían"
+    },
+    "presentePerfecto": {
+      "yo": "he repetido",
+      "tu": "has repetido",
+      "ud": "ha repetido",
+      "nosotros": "hemos repetido",
+      "vosotros": "habéis repetido",
+      "uds": "han repetido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré repetido",
+      "tu": "habrás repetido",
+      "ud": "habrá repetido",
+      "nosotros": "habremos repetido",
+      "vosotros": "habréis repetido",
+      "uds": "habrán repetido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había repetido",
+      "tu": "habías repetido",
+      "ud": "había repetido",
+      "nosotros": "habíamos repetido",
+      "vosotros": "habíais repetido",
+      "uds": "habían repetido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube repetido",
+      "tu": "hubiste repetido",
+      "ud": "hubo repetido",
+      "nosotros": "hubimos repetido",
+      "vosotros": "hubisteis repetido",
+      "uds": "hubieron repetido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría repetido",
+      "tu": "habrías repetido",
+      "ud": "habría repetido",
+      "nosotros": "habríamos repetido",
+      "vosotros": "habríais repetido",
+      "uds": "habrían repetido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "repita",
+      "tu": "repitas",
+      "ud": "repita",
+      "nosotros": "repitamos",
+      "vosotros": "repitáis",
+      "uds": "repitan"
+    },
+    "imperfecto": {
+      "yo": "repitiera",
+      "tu": "repitieras",
+      "ud": "repitiera",
+      "nosotros": "repitiéramos",
+      "vosotros": "repitierais",
+      "uds": "repitieran"
+    },
+    "futuro": {
+      "yo": "repitiere",
+      "tu": "repitieres",
+      "ud": "repitiere",
+      "nosotros": "repitiéremos",
+      "vosotros": "repitiereis",
+      "uds": "repitieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya repetido",
+      "tu": "hayas repetido",
+      "ud": "haya repetido",
+      "nosotros": "hayamos repetido",
+      "vosotros": "hayáis repetido",
+      "uds": "hayan repetido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere repetido",
+      "tu": "hubieres repetido",
+      "ud": "hubiere repetido",
+      "nosotros": "hubiéremos repetido",
+      "vosotros": "hubiereis repetido",
+      "uds": "hubieren repetido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera repetido",
+      "tu": "hubieras repetido",
+      "ud": "hubiera repetido",
+      "nosotros": "hubiéramos repetido",
+      "vosotros": "hubierais repetido",
+      "uds": "hubieran repetido"
+    },
+    "imperfectoAlt": {
+      "yo": "repitiese",
+      "tu": "repitieses",
+      "ud": "repitiese",
+      "nosotros": "repitiésemos",
+      "vosotros": "repitieseis",
+      "uds": "repitiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese repetido",
+      "tu": "hubieses repetido",
+      "ud": "hubiese repetido",
+      "nosotros": "hubiésemos repetido",
+      "vosotros": "hubieseis repetido",
+      "uds": "hubiesen repetido"
+    }
+  },
+  "afirmativo": {
+    "tu": "repite",
+    "vosotros": "repetid",
+    "ud": "repita",
+    "uds": "repitan"
+  },
+  "negativo": {
+    "tu": "no repitas",
+    "vosotros": "no repitáis",
+    "ud": "no repita",
+    "uds": "no repitan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i.",
+    "infinitivo": "to repeat",
+    "gerundio": "repeating",
+    "participioPasado": "repeated",
+    "indicativo": {
+      "presente": "I repeat, am repeating",
+      "futuro": "I will repeat",
+      "imperfecto": "I was repeating, used to repeat, repeated",
+      "preterito": "I repeated",
+      "condicional": "I would repeat",
+      "presentePerfecto": "I have repeated",
+      "futuroPerfecto": "I will have repeated",
+      "pluscuamperfecto": "I had repeated",
+      "preteritoAnterior": "I had repeated",
+      "condicionalPerfecto": "I would have repeated"
+    },
+    "subjuntivo": {
+      "presente": "I repeat, am repeating",
+      "imperfecto": "I repeated, was repeating",
+      "futuro": "I will repeat",
+      "presentePerfecto": "I have repeated, repeated",
+      "futuroPerfecto": "I will have repeated",
+      "pluscuamperfecto": "I had repeated"
+    },
+    "afirmativo": "Repeat!",
+    "negativo": "Don't repeat!"
+  },
+  "attribution": "Fred Jehle"
+}

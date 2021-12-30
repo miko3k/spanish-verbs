@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "organizar",
+  "gerundio": "organizando",
+  "participioPasado": "organizado",
+  "indicativo": {
+    "presente": {
+      "yo": "organizo",
+      "tu": "organizas",
+      "ud": "organiza",
+      "nosotros": "organizamos",
+      "vosotros": "organizáis",
+      "uds": "organizan"
+    },
+    "futuro": {
+      "yo": "organizaré",
+      "tu": "organizarás",
+      "ud": "organizará",
+      "nosotros": "organizaremos",
+      "vosotros": "organizaréis",
+      "uds": "organizarán"
+    },
+    "imperfecto": {
+      "yo": "organizaba",
+      "tu": "organizabas",
+      "ud": "organizaba",
+      "nosotros": "organizábamos",
+      "vosotros": "organizabais",
+      "uds": "organizaban"
+    },
+    "preterito": {
+      "yo": "organicé",
+      "tu": "organizaste",
+      "ud": "organizó",
+      "nosotros": "organizamos",
+      "vosotros": "organizasteis",
+      "uds": "organizaron"
+    },
+    "condicional": {
+      "yo": "organizaría",
+      "tu": "organizarías",
+      "ud": "organizaría",
+      "nosotros": "organizaríamos",
+      "vosotros": "organizaríais",
+      "uds": "organizarían"
+    },
+    "presentePerfecto": {
+      "yo": "he organizado",
+      "tu": "has organizado",
+      "ud": "ha organizado",
+      "nosotros": "hemos organizado",
+      "vosotros": "habéis organizado",
+      "uds": "han organizado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré organizado",
+      "tu": "habrás organizado",
+      "ud": "habrá organizado",
+      "nosotros": "habremos organizado",
+      "vosotros": "habréis organizado",
+      "uds": "habrán organizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había organizado",
+      "tu": "habías organizado",
+      "ud": "había organizado",
+      "nosotros": "habíamos organizado",
+      "vosotros": "habíais organizado",
+      "uds": "habían organizado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube organizado",
+      "tu": "hubiste organizado",
+      "ud": "hubo organizado",
+      "nosotros": "hubimos organizado",
+      "vosotros": "hubisteis organizado",
+      "uds": "hubieron organizado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría organizado",
+      "tu": "habrías organizado",
+      "ud": "habría organizado",
+      "nosotros": "habríamos organizado",
+      "vosotros": "habríais organizado",
+      "uds": "habrían organizado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "organice",
+      "tu": "organices",
+      "ud": "organice",
+      "nosotros": "organicemos",
+      "vosotros": "organicéis",
+      "uds": "organicen"
+    },
+    "imperfecto": {
+      "yo": "organizara",
+      "tu": "organizaras",
+      "ud": "organizara",
+      "nosotros": "organizáramos",
+      "vosotros": "organizarais",
+      "uds": "organizaran"
+    },
+    "futuro": {
+      "yo": "organizare",
+      "tu": "organizares",
+      "ud": "organizare",
+      "nosotros": "organizáremos",
+      "vosotros": "organizareis",
+      "uds": "organizaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya organizado",
+      "tu": "hayas organizado",
+      "ud": "haya organizado",
+      "nosotros": "hayamos organizado",
+      "vosotros": "hayáis organizado",
+      "uds": "hayan organizado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere organizado",
+      "tu": "hubieres organizado",
+      "ud": "hubiere organizado",
+      "nosotros": "hubiéremos organizado",
+      "vosotros": "hubiereis organizado",
+      "uds": "hubieren organizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera organizado",
+      "tu": "hubieras organizado",
+      "ud": "hubiera organizado",
+      "nosotros": "hubiéramos organizado",
+      "vosotros": "hubierais organizado",
+      "uds": "hubieran organizado"
+    },
+    "imperfectoAlt": {
+      "yo": "organizase",
+      "tu": "organizases",
+      "ud": "organizase",
+      "nosotros": "organizásemos",
+      "vosotros": "organizaseis",
+      "uds": "organizasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese organizado",
+      "tu": "hubieses organizado",
+      "ud": "hubiese organizado",
+      "nosotros": "hubiésemos organizado",
+      "vosotros": "hubieseis organizado",
+      "uds": "hubiesen organizado"
+    }
+  },
+  "afirmativo": {
+    "tu": "organiza",
+    "vosotros": "organizad",
+    "ud": "organice",
+    "uds": "organicen"
+  },
+  "negativo": {
+    "tu": "no organices",
+    "vosotros": "no organicéis",
+    "ud": "no organice",
+    "uds": "no organicen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to organize",
+    "gerundio": "organizing",
+    "participioPasado": "organized",
+    "indicativo": {
+      "presente": "I organize, am organizing",
+      "futuro": "I will organize",
+      "imperfecto": "I was organizing, used to organize, organized",
+      "preterito": "I organized",
+      "condicional": "I would organize",
+      "presentePerfecto": "I have organized",
+      "futuroPerfecto": "I will have organized",
+      "pluscuamperfecto": "I had organized",
+      "preteritoAnterior": "I had organized",
+      "condicionalPerfecto": "I would have organized"
+    },
+    "subjuntivo": {
+      "presente": "I organize, am organizing",
+      "imperfecto": "I organized, was organizing",
+      "futuro": "I will organize",
+      "presentePerfecto": "I have organized, organized",
+      "futuroPerfecto": "I will have organized",
+      "pluscuamperfecto": "I had organized"
+    },
+    "afirmativo": "Organize!",
+    "negativo": "Don't organize!"
+  },
+  "attribution": "Fred Jehle"
+}

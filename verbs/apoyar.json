@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "apoyar",
+  "gerundio": "apoyando",
+  "participioPasado": "apoyado",
+  "indicativo": {
+    "presente": {
+      "yo": "apoyo",
+      "tu": "apoyas",
+      "ud": "apoya",
+      "nosotros": "apoyamos",
+      "vosotros": "apoyáis",
+      "uds": "apoyan"
+    },
+    "futuro": {
+      "yo": "apoyaré",
+      "tu": "apoyarás",
+      "ud": "apoyará",
+      "nosotros": "apoyaremos",
+      "vosotros": "apoyaréis",
+      "uds": "apoyarán"
+    },
+    "imperfecto": {
+      "yo": "apoyaba",
+      "tu": "apoyabas",
+      "ud": "apoyaba",
+      "nosotros": "apoyábamos",
+      "vosotros": "apoyabais",
+      "uds": "apoyaban"
+    },
+    "preterito": {
+      "yo": "apoyé",
+      "tu": "apoyaste",
+      "ud": "apoyó",
+      "nosotros": "apoyamos",
+      "vosotros": "apoyasteis",
+      "uds": "apoyaron"
+    },
+    "condicional": {
+      "yo": "apoyaría",
+      "tu": "apoyarías",
+      "ud": "apoyaría",
+      "nosotros": "apoyaríamos",
+      "vosotros": "apoyaríais",
+      "uds": "apoyarían"
+    },
+    "presentePerfecto": {
+      "yo": "he apoyado",
+      "tu": "has apoyado",
+      "ud": "ha apoyado",
+      "nosotros": "hemos apoyado",
+      "vosotros": "habéis apoyado",
+      "uds": "han apoyado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré apoyado",
+      "tu": "habrás apoyado",
+      "ud": "habrá apoyado",
+      "nosotros": "habremos apoyado",
+      "vosotros": "habréis apoyado",
+      "uds": "habrán apoyado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había apoyado",
+      "tu": "habías apoyado",
+      "ud": "había apoyado",
+      "nosotros": "habíamos apoyado",
+      "vosotros": "habíais apoyado",
+      "uds": "habían apoyado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube apoyado",
+      "tu": "hubiste apoyado",
+      "ud": "hubo apoyado",
+      "nosotros": "hubimos apoyado",
+      "vosotros": "hubisteis apoyado",
+      "uds": "hubieron apoyado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría apoyado",
+      "tu": "habrías apoyado",
+      "ud": "habría apoyado",
+      "nosotros": "habríamos apoyado",
+      "vosotros": "habríais apoyado",
+      "uds": "habrían apoyado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "apoye",
+      "tu": "apoyes",
+      "ud": "apoye",
+      "nosotros": "apoyemos",
+      "vosotros": "apoyéis",
+      "uds": "apoyen"
+    },
+    "imperfecto": {
+      "yo": "apoyara",
+      "tu": "apoyaras",
+      "ud": "apoyara",
+      "nosotros": "apoyáramos",
+      "vosotros": "apoyarais",
+      "uds": "apoyaran"
+    },
+    "futuro": {
+      "yo": "apoyare",
+      "tu": "apoyares",
+      "ud": "apoyare",
+      "nosotros": "apoyáremos",
+      "vosotros": "apoyareis",
+      "uds": "apoyaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya apoyado",
+      "tu": "hayas apoyado",
+      "ud": "haya apoyado",
+      "nosotros": "hayamos apoyado",
+      "vosotros": "hayáis apoyado",
+      "uds": "hayan apoyado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere apoyado",
+      "tu": "hubieres apoyado",
+      "ud": "hubiere apoyado",
+      "nosotros": "hubiéremos apoyado",
+      "vosotros": "hubiereis apoyado",
+      "uds": "hubieren apoyado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera apoyado",
+      "tu": "hubieras apoyado",
+      "ud": "hubiera apoyado",
+      "nosotros": "hubiéramos apoyado",
+      "vosotros": "hubierais apoyado",
+      "uds": "hubieran apoyado"
+    },
+    "imperfectoAlt": {
+      "yo": "apoyase",
+      "tu": "apoyases",
+      "ud": "apoyase",
+      "nosotros": "apoyásemos",
+      "vosotros": "apoyaseis",
+      "uds": "apoyasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese apoyado",
+      "tu": "hubieses apoyado",
+      "ud": "hubiese apoyado",
+      "nosotros": "hubiésemos apoyado",
+      "vosotros": "hubieseis apoyado",
+      "uds": "hubiesen apoyado"
+    }
+  },
+  "afirmativo": {
+    "tu": "apoya",
+    "vosotros": "apoyad",
+    "ud": "apoye",
+    "uds": "apoyen"
+  },
+  "negativo": {
+    "tu": "no apoyes",
+    "vosotros": "no apoyéis",
+    "ud": "no apoye",
+    "uds": "no apoyen"
+  },
+  "english": {
+    "note": "Apoyar can refer to both physical/architectural support and to emotional/moral support.",
+    "infinitivo": "to support, hold up, prop up; to back",
+    "gerundio": "supporting",
+    "participioPasado": "supported",
+    "indicativo": {
+      "presente": "I support, am supporting",
+      "futuro": "I will support",
+      "imperfecto": "I was supporting, used to support, supported",
+      "preterito": "I supported",
+      "condicional": "I would support",
+      "presentePerfecto": "I have supported",
+      "futuroPerfecto": "I will have supported",
+      "pluscuamperfecto": "I had supported",
+      "preteritoAnterior": "I had supported",
+      "condicionalPerfecto": "I would have supported"
+    },
+    "subjuntivo": {
+      "presente": "I support, am supporting",
+      "imperfecto": "I supported, was supporting",
+      "futuro": "I will support",
+      "presentePerfecto": "I have supported, supported",
+      "futuroPerfecto": "I will have supported",
+      "pluscuamperfecto": "I had supported"
+    },
+    "afirmativo": "Support!",
+    "negativo": "Don't support!"
+  },
+  "attribution": "Fred Jehle"
+}

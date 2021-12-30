@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "enflaquecer",
+  "gerundio": "enflaqueciendo",
+  "participioPasado": "enflaquecido",
+  "indicativo": {
+    "presente": {
+      "yo": "enflaquezco",
+      "tu": "enflaqueces",
+      "ud": "enflaquece",
+      "nosotros": "enflaquecemos",
+      "vosotros": "enflaquecéis",
+      "uds": "enflaquecen"
+    },
+    "futuro": {
+      "yo": "enflaqueceré",
+      "tu": "enflaquecerás",
+      "ud": "enflaquecerá",
+      "nosotros": "enflaqueceremos",
+      "vosotros": "enflaqueceréis",
+      "uds": "enflaquecerán"
+    },
+    "imperfecto": {
+      "yo": "enflaquecía",
+      "tu": "enflaquecías",
+      "ud": "enflaquecía",
+      "nosotros": "enflaquecíamos",
+      "vosotros": "enflaquecíais",
+      "uds": "enflaquecían"
+    },
+    "preterito": {
+      "yo": "enflaquecí",
+      "tu": "enflaqueciste",
+      "ud": "enflaqueció",
+      "nosotros": "enflaquecimos",
+      "vosotros": "enflaquecisteis",
+      "uds": "enflaquecieron"
+    },
+    "condicional": {
+      "yo": "enflaquecería",
+      "tu": "enflaquecerías",
+      "ud": "enflaquecería",
+      "nosotros": "enflaqueceríamos",
+      "vosotros": "enflaqueceríais",
+      "uds": "enflaquecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he enflaquecido",
+      "tu": "has enflaquecido",
+      "ud": "ha enflaquecido",
+      "nosotros": "hemos enflaquecido",
+      "vosotros": "habéis enflaquecido",
+      "uds": "han enflaquecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré enflaquecido",
+      "tu": "habrás enflaquecido",
+      "ud": "habrá enflaquecido",
+      "nosotros": "habremos enflaquecido",
+      "vosotros": "habréis enflaquecido",
+      "uds": "habrán enflaquecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había enflaquecido",
+      "tu": "habías enflaquecido",
+      "ud": "había enflaquecido",
+      "nosotros": "habíamos enflaquecido",
+      "vosotros": "habíais enflaquecido",
+      "uds": "habían enflaquecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube enflaquecido",
+      "tu": "hubiste enflaquecido",
+      "ud": "hubo enflaquecido",
+      "nosotros": "hubimos enflaquecido",
+      "vosotros": "hubisteis enflaquecido",
+      "uds": "hubieron enflaquecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría enflaquecido",
+      "tu": "habrías enflaquecido",
+      "ud": "habría enflaquecido",
+      "nosotros": "habríamos enflaquecido",
+      "vosotros": "habríais enflaquecido",
+      "uds": "habrían enflaquecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "enflaquezca",
+      "tu": "enflaquezcas",
+      "ud": "enflaquezca",
+      "nosotros": "enflaquezcamos",
+      "vosotros": "enflaquezcáis",
+      "uds": "enflaquezcan"
+    },
+    "imperfecto": {
+      "yo": "enflaqueciera",
+      "tu": "enflaquecieras",
+      "ud": "enflaqueciera",
+      "nosotros": "enflaqueciéramos",
+      "vosotros": "enflaquecierais",
+      "uds": "enflaquecieran"
+    },
+    "futuro": {
+      "yo": "enflaqueciere",
+      "tu": "enflaquecieres",
+      "ud": "enflaqueciere",
+      "nosotros": "enflaqueciéremos",
+      "vosotros": "enflaqueciereis",
+      "uds": "enflaquecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya enflaquecido",
+      "tu": "hayas enflaquecido",
+      "ud": "haya enflaquecido",
+      "nosotros": "hayamos enflaquecido",
+      "vosotros": "hayáis enflaquecido",
+      "uds": "hayan enflaquecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere enflaquecido",
+      "tu": "hubieres enflaquecido",
+      "ud": "hubiere enflaquecido",
+      "nosotros": "hubiéremos enflaquecido",
+      "vosotros": "hubiereis enflaquecido",
+      "uds": "hubieren enflaquecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera enflaquecido",
+      "tu": "hubieras enflaquecido",
+      "ud": "hubiera enflaquecido",
+      "nosotros": "hubiéramos enflaquecido",
+      "vosotros": "hubierais enflaquecido",
+      "uds": "hubieran enflaquecido"
+    },
+    "imperfectoAlt": {
+      "yo": "enflaqueciese",
+      "tu": "enflaquecieses",
+      "ud": "enflaqueciese",
+      "nosotros": "enflaqueciésemos",
+      "vosotros": "enflaquecieseis",
+      "uds": "enflaqueciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese enflaquecido",
+      "tu": "hubieses enflaquecido",
+      "ud": "hubiese enflaquecido",
+      "nosotros": "hubiésemos enflaquecido",
+      "vosotros": "hubieseis enflaquecido",
+      "uds": "hubiesen enflaquecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "enflaquece",
+    "vosotros": "enflaqueced",
+    "ud": "enflaquezca",
+    "uds": "enflaquezcan"
+  },
+  "negativo": {
+    "tu": "no enflaquezcas",
+    "vosotros": "no enflaquezcáis",
+    "ud": "no enflaquezca",
+    "uds": "no enflaquezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: enflaquezco, enflaquezca, enflaquezcas, etc. Note: Use the reflexive form enflaquecerse can also be used to mean to get/grow thin or weak.",
+    "infinitivo": "to make thin, make weak, weaken ; to get thin/weak",
+    "gerundio": "making thin",
+    "participioPasado": "made thin",
+    "indicativo": {
+      "presente": "I make thin, am making thin",
+      "futuro": "I will make thin",
+      "imperfecto": "I was making thin, used to make thin, made thin",
+      "preterito": "I made thin",
+      "condicional": "I would make thin",
+      "presentePerfecto": "I have made thin",
+      "futuroPerfecto": "I will have made thin",
+      "pluscuamperfecto": "I had made thin",
+      "preteritoAnterior": "I had made thin",
+      "condicionalPerfecto": "I would have made thin"
+    },
+    "subjuntivo": {
+      "presente": "I make thin, am making thin",
+      "imperfecto": "I made thin, was making thin",
+      "futuro": "I will make thin",
+      "presentePerfecto": "I have made thin, made thin",
+      "futuroPerfecto": "I will have made thin",
+      "pluscuamperfecto": "I had made thin"
+    },
+    "afirmativo": "Make thin!",
+    "negativo": "Don't make thin!"
+  },
+  "attribution": "Fred Jehle"
+}

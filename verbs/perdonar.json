@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "perdonar",
+  "gerundio": "perdonando",
+  "participioPasado": "perdonado",
+  "indicativo": {
+    "presente": {
+      "yo": "perdono",
+      "tu": "perdonas",
+      "ud": "perdona",
+      "nosotros": "perdonamos",
+      "vosotros": "perdonáis",
+      "uds": "perdonan"
+    },
+    "futuro": {
+      "yo": "perdonaré",
+      "tu": "perdonarás",
+      "ud": "perdonará",
+      "nosotros": "perdonaremos",
+      "vosotros": "perdonaréis",
+      "uds": "perdonarán"
+    },
+    "imperfecto": {
+      "yo": "perdonaba",
+      "tu": "perdonabas",
+      "ud": "perdonaba",
+      "nosotros": "perdonábamos",
+      "vosotros": "perdonabais",
+      "uds": "perdonaban"
+    },
+    "preterito": {
+      "yo": "perdoné",
+      "tu": "perdonaste",
+      "ud": "perdonó",
+      "nosotros": "perdonamos",
+      "vosotros": "perdonasteis",
+      "uds": "perdonaron"
+    },
+    "condicional": {
+      "yo": "perdonaría",
+      "tu": "perdonarías",
+      "ud": "perdonaría",
+      "nosotros": "perdonaríamos",
+      "vosotros": "perdonaríais",
+      "uds": "perdonarían"
+    },
+    "presentePerfecto": {
+      "yo": "he perdonado",
+      "tu": "has perdonado",
+      "ud": "ha perdonado",
+      "nosotros": "hemos perdonado",
+      "vosotros": "habéis perdonado",
+      "uds": "han perdonado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré perdonado",
+      "tu": "habrás perdonado",
+      "ud": "habrá perdonado",
+      "nosotros": "habremos perdonado",
+      "vosotros": "habréis perdonado",
+      "uds": "habrán perdonado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había perdonado",
+      "tu": "habías perdonado",
+      "ud": "había perdonado",
+      "nosotros": "habíamos perdonado",
+      "vosotros": "habíais perdonado",
+      "uds": "habían perdonado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube perdonado",
+      "tu": "hubiste perdonado",
+      "ud": "hubo perdonado",
+      "nosotros": "hubimos perdonado",
+      "vosotros": "hubisteis perdonado",
+      "uds": "hubieron perdonado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría perdonado",
+      "tu": "habrías perdonado",
+      "ud": "habría perdonado",
+      "nosotros": "habríamos perdonado",
+      "vosotros": "habríais perdonado",
+      "uds": "habrían perdonado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "perdone",
+      "tu": "perdones",
+      "ud": "perdone",
+      "nosotros": "perdonemos",
+      "vosotros": "perdonéis",
+      "uds": "perdonen"
+    },
+    "imperfecto": {
+      "yo": "perdonara",
+      "tu": "perdonaras",
+      "ud": "perdonara",
+      "nosotros": "perdonáramos",
+      "vosotros": "perdonarais",
+      "uds": "perdonaran"
+    },
+    "futuro": {
+      "yo": "perdonare",
+      "tu": "perdonares",
+      "ud": "perdonare",
+      "nosotros": "perdonáremos",
+      "vosotros": "perdonareis",
+      "uds": "perdonaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya perdonado",
+      "tu": "hayas perdonado",
+      "ud": "haya perdonado",
+      "nosotros": "hayamos perdonado",
+      "vosotros": "hayáis perdonado",
+      "uds": "hayan perdonado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere perdonado",
+      "tu": "hubieres perdonado",
+      "ud": "hubiere perdonado",
+      "nosotros": "hubiéremos perdonado",
+      "vosotros": "hubiereis perdonado",
+      "uds": "hubieren perdonado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera perdonado",
+      "tu": "hubieras perdonado",
+      "ud": "hubiera perdonado",
+      "nosotros": "hubiéramos perdonado",
+      "vosotros": "hubierais perdonado",
+      "uds": "hubieran perdonado"
+    },
+    "imperfectoAlt": {
+      "yo": "perdonase",
+      "tu": "perdonases",
+      "ud": "perdonase",
+      "nosotros": "perdonásemos",
+      "vosotros": "perdonaseis",
+      "uds": "perdonasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese perdonado",
+      "tu": "hubieses perdonado",
+      "ud": "hubiese perdonado",
+      "nosotros": "hubiésemos perdonado",
+      "vosotros": "hubieseis perdonado",
+      "uds": "hubiesen perdonado"
+    }
+  },
+  "afirmativo": {
+    "tu": "perdona",
+    "vosotros": "perdonad",
+    "ud": "perdone",
+    "uds": "perdonen"
+  },
+  "negativo": {
+    "tu": "no perdones",
+    "vosotros": "no perdonéis",
+    "ud": "no perdone",
+    "uds": "no perdonen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to forgive, pardon, excuse",
+    "gerundio": "forgiving",
+    "participioPasado": "forgiven",
+    "indicativo": {
+      "presente": "I forgive, am forgiving",
+      "futuro": "I will forgive",
+      "imperfecto": "I was forgiving, used to forgive, forgave",
+      "preterito": "I forgave",
+      "condicional": "I would forgive",
+      "presentePerfecto": "I have forgiven",
+      "futuroPerfecto": "I will have forgiven",
+      "pluscuamperfecto": "I had forgiven",
+      "preteritoAnterior": "I had forgiven",
+      "condicionalPerfecto": "I would have forgiven"
+    },
+    "subjuntivo": {
+      "presente": "I forgive, am forgiving",
+      "imperfecto": "I forgave, was forgiving",
+      "futuro": "I will forgive",
+      "presentePerfecto": "I have forgiven, forgave",
+      "futuroPerfecto": "I will have forgiven",
+      "pluscuamperfecto": "I had forgiven"
+    },
+    "afirmativo": "Forgive!",
+    "negativo": "Don't forgive!"
+  },
+  "attribution": "Fred Jehle"
+}

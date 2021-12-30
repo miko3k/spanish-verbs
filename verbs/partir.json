@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "partir",
+  "gerundio": "partiendo",
+  "participioPasado": "partido",
+  "indicativo": {
+    "presente": {
+      "yo": "parto",
+      "tu": "partes",
+      "ud": "parte",
+      "nosotros": "partimos",
+      "vosotros": "partís",
+      "uds": "parten"
+    },
+    "futuro": {
+      "yo": "partiré",
+      "tu": "partirás",
+      "ud": "partirá",
+      "nosotros": "partiremos",
+      "vosotros": "partiréis",
+      "uds": "partirán"
+    },
+    "imperfecto": {
+      "yo": "partía",
+      "tu": "partías",
+      "ud": "partía",
+      "nosotros": "partíamos",
+      "vosotros": "partíais",
+      "uds": "partían"
+    },
+    "preterito": {
+      "yo": "partí",
+      "tu": "partiste",
+      "ud": "partió",
+      "nosotros": "partimos",
+      "vosotros": "partisteis",
+      "uds": "partieron"
+    },
+    "condicional": {
+      "yo": "partiría",
+      "tu": "partirías",
+      "ud": "partiría",
+      "nosotros": "partiríamos",
+      "vosotros": "partiríais",
+      "uds": "partirían"
+    },
+    "presentePerfecto": {
+      "yo": "he partido",
+      "tu": "has partido",
+      "ud": "ha partido",
+      "nosotros": "hemos partido",
+      "vosotros": "habéis partido",
+      "uds": "han partido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré partido",
+      "tu": "habrás partido",
+      "ud": "habrá partido",
+      "nosotros": "habremos partido",
+      "vosotros": "habréis partido",
+      "uds": "habrán partido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había partido",
+      "tu": "habías partido",
+      "ud": "había partido",
+      "nosotros": "habíamos partido",
+      "vosotros": "habíais partido",
+      "uds": "habían partido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube partido",
+      "tu": "hubiste partido",
+      "ud": "hubo partido",
+      "nosotros": "hubimos partido",
+      "vosotros": "hubisteis partido",
+      "uds": "hubieron partido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría partido",
+      "tu": "habrías partido",
+      "ud": "habría partido",
+      "nosotros": "habríamos partido",
+      "vosotros": "habríais partido",
+      "uds": "habrían partido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "parta",
+      "tu": "partas",
+      "ud": "parta",
+      "nosotros": "partamos",
+      "vosotros": "partáis",
+      "uds": "partan"
+    },
+    "imperfecto": {
+      "yo": "partiera",
+      "tu": "partieras",
+      "ud": "partiera",
+      "nosotros": "partiéramos",
+      "vosotros": "partierais",
+      "uds": "partieran"
+    },
+    "futuro": {
+      "yo": "partiere",
+      "tu": "partieres",
+      "ud": "partiere",
+      "nosotros": "partiéremos",
+      "vosotros": "partiereis",
+      "uds": "partieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya partido",
+      "tu": "hayas partido",
+      "ud": "haya partido",
+      "nosotros": "hayamos partido",
+      "vosotros": "hayáis partido",
+      "uds": "hayan partido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere partido",
+      "tu": "hubieres partido",
+      "ud": "hubiere partido",
+      "nosotros": "hubiéremos partido",
+      "vosotros": "hubiereis partido",
+      "uds": "hubieren partido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera partido",
+      "tu": "hubieras partido",
+      "ud": "hubiera partido",
+      "nosotros": "hubiéramos partido",
+      "vosotros": "hubierais partido",
+      "uds": "hubieran partido"
+    },
+    "imperfectoAlt": {
+      "yo": "partiese",
+      "tu": "partieses",
+      "ud": "partiese",
+      "nosotros": "partiésemos",
+      "vosotros": "partieseis",
+      "uds": "partiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese partido",
+      "tu": "hubieses partido",
+      "ud": "hubiese partido",
+      "nosotros": "hubiésemos partido",
+      "vosotros": "hubieseis partido",
+      "uds": "hubiesen partido"
+    }
+  },
+  "afirmativo": {
+    "tu": "parte",
+    "vosotros": "partid",
+    "ud": "parta",
+    "uds": "partan"
+  },
+  "negativo": {
+    "tu": "no partas",
+    "vosotros": "no partáis",
+    "ud": "no parta",
+    "uds": "no partan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to depart, set out, start; to split (something up, into two; to divide (something up; to cut (cards)",
+    "gerundio": "departing",
+    "participioPasado": "departed",
+    "indicativo": {
+      "presente": "I depart, am departing",
+      "futuro": "I will depart",
+      "imperfecto": "I was departing, used to depart, departed",
+      "preterito": "I departed",
+      "condicional": "I would depart",
+      "presentePerfecto": "I have departed",
+      "futuroPerfecto": "I will have departed",
+      "pluscuamperfecto": "I had departed",
+      "preteritoAnterior": "I had departed",
+      "condicionalPerfecto": "I would have departed"
+    },
+    "subjuntivo": {
+      "presente": "I depart, am departing",
+      "imperfecto": "I departed, was departing",
+      "futuro": "I will depart",
+      "presentePerfecto": "I have departed, departed",
+      "futuroPerfecto": "I will have departed",
+      "pluscuamperfecto": "I had departed"
+    },
+    "afirmativo": "Depart!",
+    "negativo": "Don't depart!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "levantar",
+  "gerundio": "levantando",
+  "participioPasado": "levantado",
+  "indicativo": {
+    "presente": {
+      "yo": "levanto",
+      "tu": "levantas",
+      "ud": "levanta",
+      "nosotros": "levantamos",
+      "vosotros": "levantáis",
+      "uds": "levantan"
+    },
+    "futuro": {
+      "yo": "levantaré",
+      "tu": "levantarás",
+      "ud": "levantará",
+      "nosotros": "levantaremos",
+      "vosotros": "levantaréis",
+      "uds": "levantarán"
+    },
+    "imperfecto": {
+      "yo": "levantaba",
+      "tu": "levantabas",
+      "ud": "levantaba",
+      "nosotros": "levantábamos",
+      "vosotros": "levantabais",
+      "uds": "levantaban"
+    },
+    "preterito": {
+      "yo": "levanté",
+      "tu": "levantaste",
+      "ud": "levantó",
+      "nosotros": "levantamos",
+      "vosotros": "levantasteis",
+      "uds": "levantaron"
+    },
+    "condicional": {
+      "yo": "levantaría",
+      "tu": "levantarías",
+      "ud": "levantaría",
+      "nosotros": "levantaríamos",
+      "vosotros": "levantaríais",
+      "uds": "levantarían"
+    },
+    "presentePerfecto": {
+      "yo": "he levantado",
+      "tu": "has levantado",
+      "ud": "ha levantado",
+      "nosotros": "hemos levantado",
+      "vosotros": "habéis levantado",
+      "uds": "han levantado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré levantado",
+      "tu": "habrás levantado",
+      "ud": "habrá levantado",
+      "nosotros": "habremos levantado",
+      "vosotros": "habréis levantado",
+      "uds": "habrán levantado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había levantado",
+      "tu": "habías levantado",
+      "ud": "había levantado",
+      "nosotros": "habíamos levantado",
+      "vosotros": "habíais levantado",
+      "uds": "habían levantado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube levantado",
+      "tu": "hubiste levantado",
+      "ud": "hubo levantado",
+      "nosotros": "hubimos levantado",
+      "vosotros": "hubisteis levantado",
+      "uds": "hubieron levantado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría levantado",
+      "tu": "habrías levantado",
+      "ud": "habría levantado",
+      "nosotros": "habríamos levantado",
+      "vosotros": "habríais levantado",
+      "uds": "habrían levantado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "levante",
+      "tu": "levantes",
+      "ud": "levante",
+      "nosotros": "levantemos",
+      "vosotros": "levantéis",
+      "uds": "levanten"
+    },
+    "imperfecto": {
+      "yo": "levantara",
+      "tu": "levantaras",
+      "ud": "levantara",
+      "nosotros": "levantáramos",
+      "vosotros": "levantarais",
+      "uds": "levantaran"
+    },
+    "futuro": {
+      "yo": "levantare",
+      "tu": "levantares",
+      "ud": "levantare",
+      "nosotros": "levantáremos",
+      "vosotros": "levantareis",
+      "uds": "levantaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya levantado",
+      "tu": "hayas levantado",
+      "ud": "haya levantado",
+      "nosotros": "hayamos levantado",
+      "vosotros": "hayáis levantado",
+      "uds": "hayan levantado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere levantado",
+      "tu": "hubieres levantado",
+      "ud": "hubiere levantado",
+      "nosotros": "hubiéremos levantado",
+      "vosotros": "hubiereis levantado",
+      "uds": "hubieren levantado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera levantado",
+      "tu": "hubieras levantado",
+      "ud": "hubiera levantado",
+      "nosotros": "hubiéramos levantado",
+      "vosotros": "hubierais levantado",
+      "uds": "hubieran levantado"
+    },
+    "imperfectoAlt": {
+      "yo": "levantase",
+      "tu": "levantases",
+      "ud": "levantase",
+      "nosotros": "levantásemos",
+      "vosotros": "levantaseis",
+      "uds": "levantasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese levantado",
+      "tu": "hubieses levantado",
+      "ud": "hubiese levantado",
+      "nosotros": "hubiésemos levantado",
+      "vosotros": "hubieseis levantado",
+      "uds": "hubiesen levantado"
+    }
+  },
+  "afirmativo": {
+    "tu": "levanta",
+    "vosotros": "levantad",
+    "ud": "levante",
+    "uds": "levanten"
+  },
+  "negativo": {
+    "tu": "no levantes",
+    "vosotros": "no levantéis",
+    "ud": "no levante",
+    "uds": "no levanten"
+  },
+  "english": {
+    "note": "Note: The reflexive form levantarse is used to mean to get up (from for example a lying or sitting position).",
+    "infinitivo": "to raise, to lift",
+    "gerundio": "raising",
+    "participioPasado": "raised",
+    "indicativo": {
+      "presente": "I raise, am raising",
+      "futuro": "I will raise",
+      "imperfecto": "I was raising, used to raise, raised",
+      "preterito": "I raised",
+      "condicional": "I would raise",
+      "presentePerfecto": "I have raised",
+      "futuroPerfecto": "I will have raised",
+      "pluscuamperfecto": "I had raised",
+      "preteritoAnterior": "I had raised",
+      "condicionalPerfecto": "I would have raised"
+    },
+    "subjuntivo": {
+      "presente": "I raise, am raising",
+      "imperfecto": "I raised, was raising",
+      "futuro": "I will raise",
+      "presentePerfecto": "I have raised, raised",
+      "futuroPerfecto": "I will have raised",
+      "pluscuamperfecto": "I had raised"
+    },
+    "afirmativo": "raise!",
+    "negativo": "Don't raise!"
+  },
+  "attribution": "Fred Jehle"
+}

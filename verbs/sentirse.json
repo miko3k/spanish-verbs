@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "sentirse",
+  "gerundio": "sintiéndose",
+  "participioPasado": "sentido",
+  "indicativo": {
+    "presente": {
+      "yo": "me siento",
+      "tu": "te sientes",
+      "ud": "se siente",
+      "nosotros": "nos sentimos",
+      "vosotros": "os sentís",
+      "uds": "se sienten"
+    },
+    "futuro": {
+      "yo": "me sentiré",
+      "tu": "te sentirás",
+      "ud": "se sentirá",
+      "nosotros": "nos sentiremos",
+      "vosotros": "os sentiréis",
+      "uds": "se sentirán"
+    },
+    "imperfecto": {
+      "yo": "me sentía",
+      "tu": "te sentías",
+      "ud": "se sentía",
+      "nosotros": "nos sentíamos",
+      "vosotros": "os sentíais",
+      "uds": "se sentían"
+    },
+    "preterito": {
+      "yo": "me sentí",
+      "tu": "te sentiste",
+      "ud": "se sintió",
+      "nosotros": "nos sentimos",
+      "vosotros": "os sentisteis",
+      "uds": "se sintieron"
+    },
+    "condicional": {
+      "yo": "me sentiría",
+      "tu": "te sentirías",
+      "ud": "se sentiría",
+      "nosotros": "nos sentiríamos",
+      "vosotros": "os sentiríais",
+      "uds": "se sentirían"
+    },
+    "presentePerfecto": {
+      "yo": "me he sentido",
+      "tu": "te has sentido",
+      "ud": "se ha sentido",
+      "nosotros": "nos hemos sentido",
+      "vosotros": "os habéis sentido",
+      "uds": "se han sentido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré sentido",
+      "tu": "te habrás sentido",
+      "ud": "se habrá sentido",
+      "nosotros": "nos habremos sentido",
+      "vosotros": "os habréis sentido",
+      "uds": "se habrán sentido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había sentido",
+      "tu": "te habías sentido",
+      "ud": "se había sentido",
+      "nosotros": "nos habíamos sentido",
+      "vosotros": "os habíais sentido",
+      "uds": "se habían sentido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube sentido",
+      "tu": "te hubiste sentido",
+      "ud": "se hubo sentido",
+      "nosotros": "nos hubimos sentido",
+      "vosotros": "os hubisteis sentido",
+      "uds": "se hubieron sentido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría sentido",
+      "tu": "te habrías sentido",
+      "ud": "se habría sentido",
+      "nosotros": "nos habríamos sentido",
+      "vosotros": "os habríais sentido",
+      "uds": "se habrían sentido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me sienta",
+      "tu": "te sientas",
+      "ud": "se sienta",
+      "nosotros": "nos sintamos",
+      "vosotros": "os sintáis",
+      "uds": "se sientan"
+    },
+    "imperfecto": {
+      "yo": "me sintiera",
+      "tu": "te sintieras",
+      "ud": "se sintiera",
+      "nosotros": "nos sintiéramos",
+      "vosotros": "os sintierais",
+      "uds": "se sintieran"
+    },
+    "futuro": {
+      "yo": "me sintiere",
+      "tu": "te sintieres",
+      "ud": "se sintiere",
+      "nosotros": "nos sintiéremos",
+      "vosotros": "os sintiereis",
+      "uds": "se sintieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya sentido",
+      "tu": "te hayas sentido",
+      "ud": "se haya sentido",
+      "nosotros": "nos hayamos sentido",
+      "vosotros": "os hayáis sentido",
+      "uds": "se hayan sentido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere sentido",
+      "tu": "te hubieres sentido",
+      "ud": "se hubiere sentido",
+      "nosotros": "nos hubiéremos sentido",
+      "vosotros": "os hubiereis sentido",
+      "uds": "se hubieren sentido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera sentido",
+      "tu": "te hubieras sentido",
+      "ud": "se hubiera sentido",
+      "nosotros": "nos hubiéramos sentido",
+      "vosotros": "os hubierais sentido",
+      "uds": "se hubieran sentido"
+    },
+    "imperfectoAlt": {
+      "yo": "me sintiese",
+      "tu": "te sintieses",
+      "ud": "se sintiese",
+      "nosotros": "nos sintiésemos",
+      "vosotros": "os sintieseis",
+      "uds": "se sintiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese sentido",
+      "tu": "te hubieses sentido",
+      "ud": "se hubiese sentido",
+      "nosotros": "nos hubiésemos sentido",
+      "vosotros": "os hubieseis sentido",
+      "uds": "se hubiesen sentido"
+    }
+  },
+  "afirmativo": {
+    "tu": "siéntete",
+    "vosotros": "sentíos",
+    "ud": "siéntase",
+    "uds": "siéntanse"
+  },
+  "negativo": {
+    "tu": "no te sientas",
+    "vosotros": "no os sentáis",
+    "ud": "no se sienta",
+    "uds": "no se sientan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i. Note: This verb is used intransitively, for example with adjectives: Se sienten enfermos, They feel sick; the nonreflexive form of this verb, sentir, is used transitively in the sense of to feel, regret (something).",
+    "infinitivo": "to feel (intrans.)",
+    "gerundio": "feeling",
+    "participioPasado": "felt",
+    "indicativo": {
+      "presente": "I feel, am feeling",
+      "futuro": "I will feel",
+      "imperfecto": "I was feeling, used to feel, felt",
+      "preterito": "I felt",
+      "condicional": "I would feel",
+      "presentePerfecto": "I have felt",
+      "futuroPerfecto": "I will have felt",
+      "pluscuamperfecto": "I had felt",
+      "preteritoAnterior": "I had felt",
+      "condicionalPerfecto": "I would have felt"
+    },
+    "subjuntivo": {
+      "presente": "I feel, am feeling",
+      "imperfecto": "I felt, was feeling",
+      "futuro": "I will feel",
+      "presentePerfecto": "I have felt, felt",
+      "futuroPerfecto": "I will have felt",
+      "pluscuamperfecto": "I had felt"
+    },
+    "afirmativo": "Feel!",
+    "negativo": "Don't feel!"
+  },
+  "attribution": "Fred Jehle"
+}

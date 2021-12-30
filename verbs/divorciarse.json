@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "divorciarse (de alguien)",
+  "gerundio": "divorciándose",
+  "participioPasado": "divorciado",
+  "indicativo": {
+    "presente": {
+      "yo": "me divorcio",
+      "tu": "te divorcias",
+      "ud": "se divorcia",
+      "nosotros": "nos divorciamos",
+      "vosotros": "os divorciáis",
+      "uds": "se divorcian"
+    },
+    "futuro": {
+      "yo": "me divorciaré",
+      "tu": "te divorciarás",
+      "ud": "se divorciará",
+      "nosotros": "nos divorciaremos",
+      "vosotros": "os divorciaréis",
+      "uds": "se divorciarán"
+    },
+    "imperfecto": {
+      "yo": "me divorciaba",
+      "tu": "te divorciabas",
+      "ud": "se divorciaba",
+      "nosotros": "nos divorciábamos",
+      "vosotros": "os divorciabais",
+      "uds": "se divorciaban"
+    },
+    "preterito": {
+      "yo": "me divorcié",
+      "tu": "te divorciaste",
+      "ud": "se divorció",
+      "nosotros": "nos divorciamos",
+      "vosotros": "divorciasteis",
+      "uds": "se divorciaron"
+    },
+    "condicional": {
+      "yo": "me divorciaría",
+      "tu": "te divorciarías",
+      "ud": "se divorciaría",
+      "nosotros": "nos divorciaríamos",
+      "vosotros": "os divorciaríais",
+      "uds": "se divorciarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he divorciado",
+      "tu": "te has divorciado",
+      "ud": "se ha divorciado",
+      "nosotros": "nos hemos divorciado",
+      "vosotros": "os habéis divorciado",
+      "uds": "se han divorciado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré divorciado",
+      "tu": "te habrás divorciado",
+      "ud": "se habrá divorciado",
+      "nosotros": "nos habremos divorciado",
+      "vosotros": "os habréis divorciado",
+      "uds": "se habrán divorciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había divorciado",
+      "tu": "te habías divorciado",
+      "ud": "se había divorciado",
+      "nosotros": "nos habíamos divorciado",
+      "vosotros": "os habíais divorciado",
+      "uds": "se habían divorciado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube divorciado",
+      "tu": "te hubiste divorciado",
+      "ud": "se hubo divorciado",
+      "nosotros": "nos hubimos divorciado",
+      "vosotros": "os hubisteis divorciado",
+      "uds": "se hubieron divorciado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría divorciado",
+      "tu": "te habrías divorciado",
+      "ud": "se habría divorciado",
+      "nosotros": "nos habríamos divorciado",
+      "vosotros": "os habríais divorciado",
+      "uds": "se habrían divorciado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me divorcie",
+      "tu": "te divorcies",
+      "ud": "se divorcie",
+      "nosotros": "nos divorciemos",
+      "vosotros": "os divorciéis",
+      "uds": "se divorcien"
+    },
+    "imperfecto": {
+      "yo": "me divorciara",
+      "tu": "te divorciaras",
+      "ud": "se divorciara",
+      "nosotros": "nos divorciáramos",
+      "vosotros": "os divorciarais",
+      "uds": "se divorciaran"
+    },
+    "futuro": {
+      "yo": "me divorciare",
+      "tu": "te divorciares",
+      "ud": "se divorciare",
+      "nosotros": "nos divorciáremos",
+      "vosotros": "os divorciareis",
+      "uds": "se divorciaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya divorciado",
+      "tu": "te hayas divorciado",
+      "ud": "se haya divorciado",
+      "nosotros": "nos hayamos divorciado",
+      "vosotros": "os hayáis divorciado",
+      "uds": "se hayan divorciado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere divorciado",
+      "tu": "te hubieres divorciado",
+      "ud": "se hubiere divorciado",
+      "nosotros": "nos hubiéremos divorciado",
+      "vosotros": "os hubiereis divorciado",
+      "uds": "se hubieren divorciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera divorciado",
+      "tu": "te hubieras divorciado",
+      "ud": "se hubiera divorciado",
+      "nosotros": "nos hubiéramos divorciado",
+      "vosotros": "os hubierais divorciado",
+      "uds": "se hubieran divorciado"
+    },
+    "imperfectoAlt": {
+      "yo": "me divorciase",
+      "tu": "te divorciases",
+      "ud": "se divorciase",
+      "nosotros": "nos divorciásemos",
+      "vosotros": "os divorciaseis",
+      "uds": "se divorciasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese divorciado",
+      "tu": "te hubieses divorciado",
+      "ud": "se hubiese divorciado",
+      "nosotros": "nos hubiésemos divorciado",
+      "vosotros": "os hubieseis divorciado",
+      "uds": "se hubiesen divorciado"
+    }
+  },
+  "afirmativo": {
+    "tu": "divórciate",
+    "vosotros": "divorciaos",
+    "ud": "divórciese",
+    "uds": "divórciense"
+  },
+  "negativo": {
+    "tu": "no te divorcies",
+    "vosotros": "no os divorciéis",
+    "ud": "no se divorcie",
+    "uds": "no se divorcien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to get divorced (from somebody)",
+    "gerundio": "getting divorced",
+    "participioPasado": "gotten divorced",
+    "indicativo": {
+      "presente": "I get divorced, am getting divorced",
+      "futuro": "I will get divorced",
+      "imperfecto": "I was getting divorced, used to get divorced, got up",
+      "preterito": "I got up",
+      "condicional": "I would get divorced",
+      "presentePerfecto": "I have gotten divorced",
+      "futuroPerfecto": "I will have gotten divorced",
+      "pluscuamperfecto": "I had gotten divorced",
+      "preteritoAnterior": "I had gotten divorced",
+      "condicionalPerfecto": "I would have gotten divorced"
+    },
+    "subjuntivo": {
+      "presente": "I get divorced, am getting divorced",
+      "imperfecto": "I got up, was getting divorced",
+      "futuro": "I will get divorced",
+      "presentePerfecto": "I have gotten divorced, got up",
+      "futuroPerfecto": "I will have gotten divorced",
+      "pluscuamperfecto": "I had gotten divorced"
+    },
+    "afirmativo": "Get divorced!",
+    "negativo": "Don't get divorced!"
+  },
+  "attribution": "Fred Jehle"
+}

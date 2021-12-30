@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "distribuir",
+  "gerundio": "distribuyendo",
+  "participioPasado": "distribuido",
+  "indicativo": {
+    "presente": {
+      "yo": "distribuyo",
+      "tu": "distribuyes",
+      "ud": "distribuye",
+      "nosotros": "distribuimos",
+      "vosotros": "distribuís",
+      "uds": "distribuyen"
+    },
+    "futuro": {
+      "yo": "distribuiré",
+      "tu": "distribuirás",
+      "ud": "distribuirá",
+      "nosotros": "distribuiremos",
+      "vosotros": "distribuiréis",
+      "uds": "distribuirán"
+    },
+    "imperfecto": {
+      "yo": "distribuía",
+      "tu": "distribuías",
+      "ud": "distribuía",
+      "nosotros": "distribuíamos",
+      "vosotros": "distribuíais",
+      "uds": "distribuían"
+    },
+    "preterito": {
+      "yo": "distribuí",
+      "tu": "distribuiste",
+      "ud": "distribuyó",
+      "nosotros": "distribuimos",
+      "vosotros": "distribuisteis",
+      "uds": "distribuyeron"
+    },
+    "condicional": {
+      "yo": "distribuiría",
+      "tu": "distribuirías",
+      "ud": "distribuiría",
+      "nosotros": "distribuiríamos",
+      "vosotros": "distribuiríais",
+      "uds": "distribuirían"
+    },
+    "presentePerfecto": {
+      "yo": "he distribuido",
+      "tu": "has distribuido",
+      "ud": "ha distribuido",
+      "nosotros": "hemos distribuido",
+      "vosotros": "habéis distribuido",
+      "uds": "han distribuido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré distribuido",
+      "tu": "habrás distribuido",
+      "ud": "habrá distribuido",
+      "nosotros": "habremos distribuido",
+      "vosotros": "habréis distribuido",
+      "uds": "habrán distribuido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había distribuido",
+      "tu": "habías distribuido",
+      "ud": "había distribuido",
+      "nosotros": "habíamos distribuido",
+      "vosotros": "habíais distribuido",
+      "uds": "habían distribuido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube distribuido",
+      "tu": "hubiste distribuido",
+      "ud": "hubo distribuido",
+      "nosotros": "hubimos distribuido",
+      "vosotros": "hubisteis distribuido",
+      "uds": "hubieron distribuido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría distribuido",
+      "tu": "habrías distribuido",
+      "ud": "habría distribuido",
+      "nosotros": "habríamos distribuido",
+      "vosotros": "habríais distribuido",
+      "uds": "habrían distribuido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "distribuya",
+      "tu": "distribuyas",
+      "ud": "distribuya",
+      "nosotros": "distribuyamos",
+      "vosotros": "distribuyáis",
+      "uds": "distribuyan"
+    },
+    "imperfecto": {
+      "yo": "distribuyera",
+      "tu": "distribuyeras",
+      "ud": "distribuyera",
+      "nosotros": "distribuyéramos",
+      "vosotros": "distribuyerais",
+      "uds": "distribuyeran"
+    },
+    "futuro": {
+      "yo": "distribuyere",
+      "tu": "distribuyeres",
+      "ud": "distribuyere",
+      "nosotros": "distribuyéremos",
+      "vosotros": "distribuyereis",
+      "uds": "distribuyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya distribuido",
+      "tu": "hayas distribuido",
+      "ud": "haya distribuido",
+      "nosotros": "hayamos distribuido",
+      "vosotros": "hayáis distribuido",
+      "uds": "hayan distribuido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere distribuido",
+      "tu": "hubieres distribuido",
+      "ud": "hubiere distribuido",
+      "nosotros": "hubiéremos distribuido",
+      "vosotros": "hubiereis distribuido",
+      "uds": "hubieren distribuido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera distribuido",
+      "tu": "hubieras distribuido",
+      "ud": "hubiera distribuido",
+      "nosotros": "hubiéramos distribuido",
+      "vosotros": "hubierais distribuido",
+      "uds": "hubieran distribuido"
+    },
+    "imperfectoAlt": {
+      "yo": "distribuyese",
+      "tu": "distribuyeses",
+      "ud": "distribuyese",
+      "nosotros": "distribuyésemos",
+      "vosotros": "distribuyeseis",
+      "uds": "distribuyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese distribuido",
+      "tu": "hubieses distribuido",
+      "ud": "hubiese distribuido",
+      "nosotros": "hubiésemos distribuido",
+      "vosotros": "hubieseis distribuido",
+      "uds": "hubiesen distribuido"
+    }
+  },
+  "afirmativo": {
+    "tu": "distribuye",
+    "vosotros": "distribuid",
+    "ud": "distribuya",
+    "uds": "distribuyan"
+  },
+  "negativo": {
+    "tu": "no distribuyas",
+    "vosotros": "no distribuyáis",
+    "ud": "no distribuya",
+    "uds": "no distribuyan"
+  },
+  "english": {
+    "note": "Cambios: u > uy delante a, o y e; la i intervocálica (y sin acento escrito) > y.",
+    "infinitivo": "to distribute, hand out, send out, give out",
+    "gerundio": "distributing",
+    "participioPasado": "distributed",
+    "indicativo": {
+      "presente": "I distribute, am distributing",
+      "futuro": "I will distribute",
+      "imperfecto": "I was distributing, used to distribute, distributed",
+      "preterito": "I distributed",
+      "condicional": "I would distribute",
+      "presentePerfecto": "I have distributed",
+      "futuroPerfecto": "I will have distributed",
+      "pluscuamperfecto": "I had distributed",
+      "preteritoAnterior": "I had distributed",
+      "condicionalPerfecto": "I would have distributed"
+    },
+    "subjuntivo": {
+      "presente": "I distribute, am distributing",
+      "imperfecto": "I distributed, was distributing",
+      "futuro": "I will distribute",
+      "presentePerfecto": "I have distributed, distributed",
+      "futuroPerfecto": "I will have distributed",
+      "pluscuamperfecto": "I had distributed"
+    },
+    "afirmativo": "Distribute!",
+    "negativo": "Don't distribute!"
+  },
+  "attribution": "Fred Jehle"
+}

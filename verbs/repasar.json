@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "repasar",
+  "gerundio": "repasando",
+  "participioPasado": "repasado",
+  "indicativo": {
+    "presente": {
+      "yo": "repaso",
+      "tu": "repasas",
+      "ud": "repasa",
+      "nosotros": "repasamos",
+      "vosotros": "repasáis",
+      "uds": "repasan"
+    },
+    "futuro": {
+      "yo": "repasaré",
+      "tu": "repasarás",
+      "ud": "repasará",
+      "nosotros": "repasaremos",
+      "vosotros": "repasaréis",
+      "uds": "repasarán"
+    },
+    "imperfecto": {
+      "yo": "repasaba",
+      "tu": "repasabas",
+      "ud": "repasaba",
+      "nosotros": "repasábamos",
+      "vosotros": "repasabais",
+      "uds": "repasaban"
+    },
+    "preterito": {
+      "yo": "repasé",
+      "tu": "repasaste",
+      "ud": "repasó",
+      "nosotros": "repasamos",
+      "vosotros": "repasasteis",
+      "uds": "repasaron"
+    },
+    "condicional": {
+      "yo": "repasaría",
+      "tu": "repasarías",
+      "ud": "repasaría",
+      "nosotros": "repasaríamos",
+      "vosotros": "repasaríais",
+      "uds": "repasarían"
+    },
+    "presentePerfecto": {
+      "yo": "he repasado",
+      "tu": "has repasado",
+      "ud": "ha repasado",
+      "nosotros": "hemos repasado",
+      "vosotros": "habéis repasado",
+      "uds": "han repasado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré repasado",
+      "tu": "habrás repasado",
+      "ud": "habrá repasado",
+      "nosotros": "habremos repasado",
+      "vosotros": "habréis repasado",
+      "uds": "habrán repasado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había repasado",
+      "tu": "habías repasado",
+      "ud": "había repasado",
+      "nosotros": "habíamos repasado",
+      "vosotros": "habíais repasado",
+      "uds": "habían repasado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube repasado",
+      "tu": "hubiste repasado",
+      "ud": "hubo repasado",
+      "nosotros": "hubimos repasado",
+      "vosotros": "hubisteis repasado",
+      "uds": "hubieron repasado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría repasado",
+      "tu": "habrías repasado",
+      "ud": "habría repasado",
+      "nosotros": "habríamos repasado",
+      "vosotros": "habríais repasado",
+      "uds": "habrían repasado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "repase",
+      "tu": "repases",
+      "ud": "repase",
+      "nosotros": "repasemos",
+      "vosotros": "repaséis",
+      "uds": "repasen"
+    },
+    "imperfecto": {
+      "yo": "repasara",
+      "tu": "repasaras",
+      "ud": "repasara",
+      "nosotros": "repasáramos",
+      "vosotros": "repasarais",
+      "uds": "repasaran"
+    },
+    "futuro": {
+      "yo": "repasare",
+      "tu": "repasares",
+      "ud": "repasare",
+      "nosotros": "repasáremos",
+      "vosotros": "repasareis",
+      "uds": "repasaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya repasado",
+      "tu": "hayas repasado",
+      "ud": "haya repasado",
+      "nosotros": "hayamos repasado",
+      "vosotros": "hayáis repasado",
+      "uds": "hayan repasado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere repasado",
+      "tu": "hubieres repasado",
+      "ud": "hubiere repasado",
+      "nosotros": "hubiéremos repasado",
+      "vosotros": "hubiereis repasado",
+      "uds": "hubieren repasado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera repasado",
+      "tu": "hubieras repasado",
+      "ud": "hubiera repasado",
+      "nosotros": "hubiéramos repasado",
+      "vosotros": "hubierais repasado",
+      "uds": "hubieran repasado"
+    },
+    "imperfectoAlt": {
+      "yo": "repasase",
+      "tu": "repasases",
+      "ud": "repasase",
+      "nosotros": "repasásemos",
+      "vosotros": "repasaseis",
+      "uds": "repasasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese repasado",
+      "tu": "hubieses repasado",
+      "ud": "hubiese repasado",
+      "nosotros": "hubiésemos repasado",
+      "vosotros": "hubieseis repasado",
+      "uds": "hubiesen repasado"
+    }
+  },
+  "afirmativo": {
+    "tu": "repasa",
+    "vosotros": "repasad",
+    "ud": "repase",
+    "uds": "repasen"
+  },
+  "negativo": {
+    "tu": "no repases",
+    "vosotros": "no repaséis",
+    "ud": "no repase",
+    "uds": "no repasen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to review, go over again; to do again, to revise, re-examine",
+    "gerundio": "reviewing",
+    "participioPasado": "reviewed",
+    "indicativo": {
+      "presente": "I review, am reviewing",
+      "futuro": "I will review",
+      "imperfecto": "I was reviewing, used to review, reviewed",
+      "preterito": "I reviewed",
+      "condicional": "I would review",
+      "presentePerfecto": "I have reviewed",
+      "futuroPerfecto": "I will have reviewed",
+      "pluscuamperfecto": "I had reviewed",
+      "preteritoAnterior": "I had reviewed",
+      "condicionalPerfecto": "I would have reviewed"
+    },
+    "subjuntivo": {
+      "presente": "I review, am reviewing",
+      "imperfecto": "I reviewed, was reviewing",
+      "futuro": "I will review",
+      "presentePerfecto": "I have reviewed, reviewed",
+      "futuroPerfecto": "I will have reviewed",
+      "pluscuamperfecto": "I had reviewed"
+    },
+    "afirmativo": "Review!",
+    "negativo": "Don't review!"
+  },
+  "attribution": "Fred Jehle"
+}

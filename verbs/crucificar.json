@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "crucificar",
+  "gerundio": "crucificando",
+  "participioPasado": "crucificado",
+  "indicativo": {
+    "presente": {
+      "yo": "crucifico",
+      "tu": "crucificas",
+      "ud": "crucifica",
+      "nosotros": "crucificamos",
+      "vosotros": "crucificáis",
+      "uds": "crucifican"
+    },
+    "futuro": {
+      "yo": "crucificaré",
+      "tu": "crucificarás",
+      "ud": "crucificará",
+      "nosotros": "crucificaremos",
+      "vosotros": "crucificaréis",
+      "uds": "crucificarán"
+    },
+    "imperfecto": {
+      "yo": "crucificaba",
+      "tu": "crucificabas",
+      "ud": "crucificaba",
+      "nosotros": "crucificábamos",
+      "vosotros": "crucificabais",
+      "uds": "crucificaban"
+    },
+    "preterito": {
+      "yo": "crucifiqué",
+      "tu": "crucificaste",
+      "ud": "crucificó",
+      "nosotros": "crucificamos",
+      "vosotros": "crucificasteis",
+      "uds": "crucificaron"
+    },
+    "condicional": {
+      "yo": "crucificaría",
+      "tu": "crucificarías",
+      "ud": "crucificaría",
+      "nosotros": "crucificaríamos",
+      "vosotros": "crucificaríais",
+      "uds": "crucificarían"
+    },
+    "presentePerfecto": {
+      "yo": "he crucificado",
+      "tu": "has crucificado",
+      "ud": "ha crucificado",
+      "nosotros": "hemos crucificado",
+      "vosotros": "habéis crucificado",
+      "uds": "han crucificado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré crucificado",
+      "tu": "habrás crucificado",
+      "ud": "habrá crucificado",
+      "nosotros": "habremos crucificado",
+      "vosotros": "habréis crucificado",
+      "uds": "habrán crucificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había crucificado",
+      "tu": "habías crucificado",
+      "ud": "había crucificado",
+      "nosotros": "habíamos crucificado",
+      "vosotros": "habíais crucificado",
+      "uds": "habían crucificado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube crucificado",
+      "tu": "hubiste crucificado",
+      "ud": "hubo crucificado",
+      "nosotros": "hubimos crucificado",
+      "vosotros": "hubisteis crucificado",
+      "uds": "hubieron crucificado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría crucificado",
+      "tu": "habrías crucificado",
+      "ud": "habría crucificado",
+      "nosotros": "habríamos crucificado",
+      "vosotros": "habríais crucificado",
+      "uds": "habrían crucificado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "crucifique",
+      "tu": "crucifiques",
+      "ud": "crucifique",
+      "nosotros": "crucifiquemos",
+      "vosotros": "crucifiquéis",
+      "uds": "crucifiquen"
+    },
+    "imperfecto": {
+      "yo": "crucificara",
+      "tu": "crucificaras",
+      "ud": "crucificara",
+      "nosotros": "crucificáramos",
+      "vosotros": "crucificarais",
+      "uds": "crucificaran"
+    },
+    "futuro": {
+      "yo": "crucificare",
+      "tu": "crucificares",
+      "ud": "crucificare",
+      "nosotros": "crucificáremos",
+      "vosotros": "crucificareis",
+      "uds": "crucificaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya crucificado",
+      "tu": "hayas crucificado",
+      "ud": "haya crucificado",
+      "nosotros": "hayamos crucificado",
+      "vosotros": "hayáis crucificado",
+      "uds": "hayan crucificado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere crucificado",
+      "tu": "hubieres crucificado",
+      "ud": "hubiere crucificado",
+      "nosotros": "hubiéremos crucificado",
+      "vosotros": "hubiereis crucificado",
+      "uds": "hubieren crucificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera crucificado",
+      "tu": "hubieras crucificado",
+      "ud": "hubiera crucificado",
+      "nosotros": "hubiéramos crucificado",
+      "vosotros": "hubierais crucificado",
+      "uds": "hubieran crucificado"
+    },
+    "imperfectoAlt": {
+      "yo": "crucificase",
+      "tu": "crucificases",
+      "ud": "crucificase",
+      "nosotros": "crucificásemos",
+      "vosotros": "crucificaseis",
+      "uds": "crucificasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese crucificado",
+      "tu": "hubieses crucificado",
+      "ud": "hubiese crucificado",
+      "nosotros": "hubiésemos crucificado",
+      "vosotros": "hubieseis crucificado",
+      "uds": "hubiesen crucificado"
+    }
+  },
+  "afirmativo": {
+    "tu": "crucifica",
+    "vosotros": "crucificad",
+    "ud": "crucifique",
+    "uds": "crucifiquen"
+  },
+  "negativo": {
+    "tu": "no crucifiques",
+    "vosotros": "no crucifiquéis",
+    "ud": "no crucifique",
+    "uds": "no crucifiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to crucify",
+    "gerundio": "crucifying",
+    "participioPasado": "crucified",
+    "indicativo": {
+      "presente": "I crucify, am crucifying",
+      "futuro": "I will crucify",
+      "imperfecto": "I was crucifying, used to crucify, crucified",
+      "preterito": "I crucified",
+      "condicional": "I would crucify",
+      "presentePerfecto": "I have crucified",
+      "futuroPerfecto": "I will have crucified",
+      "pluscuamperfecto": "I had crucified",
+      "preteritoAnterior": "I had crucified",
+      "condicionalPerfecto": "I would have crucified"
+    },
+    "subjuntivo": {
+      "presente": "I crucify, am crucifying",
+      "imperfecto": "I crucified, was crucifying",
+      "futuro": "I will crucify",
+      "presentePerfecto": "I have crucified, crucified",
+      "futuroPerfecto": "I will have crucified",
+      "pluscuamperfecto": "I had crucified"
+    },
+    "afirmativo": "Crucify!",
+    "negativo": "Don't crucify!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "servir",
+  "gerundio": "sirviendo",
+  "participioPasado": "servido",
+  "indicativo": {
+    "presente": {
+      "yo": "sirvo",
+      "tu": "sirves",
+      "ud": "sirve",
+      "nosotros": "servimos",
+      "vosotros": "servís",
+      "uds": "sirven"
+    },
+    "futuro": {
+      "yo": "serviré",
+      "tu": "servirás",
+      "ud": "servirá",
+      "nosotros": "serviremos",
+      "vosotros": "serviréis",
+      "uds": "servirán"
+    },
+    "imperfecto": {
+      "yo": "servía",
+      "tu": "servías",
+      "ud": "servía",
+      "nosotros": "servíamos",
+      "vosotros": "servíais",
+      "uds": "servían"
+    },
+    "preterito": {
+      "yo": "serví",
+      "tu": "serviste",
+      "ud": "sirvió",
+      "nosotros": "servimos",
+      "vosotros": "servisteis",
+      "uds": "sirvieron"
+    },
+    "condicional": {
+      "yo": "serviría",
+      "tu": "servirías",
+      "ud": "serviría",
+      "nosotros": "serviríamos",
+      "vosotros": "serviríais",
+      "uds": "servirían"
+    },
+    "presentePerfecto": {
+      "yo": "he servido",
+      "tu": "has servido",
+      "ud": "ha servido",
+      "nosotros": "hemos servido",
+      "vosotros": "habéis servido",
+      "uds": "han servido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré servido",
+      "tu": "habrás servido",
+      "ud": "habrá servido",
+      "nosotros": "habremos servido",
+      "vosotros": "habréis servido",
+      "uds": "habrán servido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había servido",
+      "tu": "habías servido",
+      "ud": "había servido",
+      "nosotros": "habíamos servido",
+      "vosotros": "habíais servido",
+      "uds": "habían servido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube servido",
+      "tu": "hubiste servido",
+      "ud": "hubo servido",
+      "nosotros": "hubimos servido",
+      "vosotros": "hubisteis servido",
+      "uds": "hubieron servido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría servido",
+      "tu": "habrías servido",
+      "ud": "habría servido",
+      "nosotros": "habríamos servido",
+      "vosotros": "habríais servido",
+      "uds": "habrían servido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sirva",
+      "tu": "sirvas",
+      "ud": "sirva",
+      "nosotros": "sirvamos",
+      "vosotros": "sirváis",
+      "uds": "sirvan"
+    },
+    "imperfecto": {
+      "yo": "sirviera",
+      "tu": "sirvieras",
+      "ud": "sirviera",
+      "nosotros": "sirviéramos",
+      "vosotros": "sirvierais",
+      "uds": "sirvieran"
+    },
+    "futuro": {
+      "yo": "sirviere",
+      "tu": "sirvieres",
+      "ud": "sirviere",
+      "nosotros": "sirviéremos",
+      "vosotros": "sirviereis",
+      "uds": "sirvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya servido",
+      "tu": "hayas servido",
+      "ud": "haya servido",
+      "nosotros": "hayamos servido",
+      "vosotros": "hayáis servido",
+      "uds": "hayan servido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere servido",
+      "tu": "hubieres servido",
+      "ud": "hubiere servido",
+      "nosotros": "hubiéremos servido",
+      "vosotros": "hubiereis servido",
+      "uds": "hubieren servido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera servido",
+      "tu": "hubieras servido",
+      "ud": "hubiera servido",
+      "nosotros": "hubiéramos servido",
+      "vosotros": "hubierais servido",
+      "uds": "hubieran servido"
+    },
+    "imperfectoAlt": {
+      "yo": "sirviese",
+      "tu": "sirvieses",
+      "ud": "sirviese",
+      "nosotros": "sirviésemos",
+      "vosotros": "sirvieseis",
+      "uds": "sirviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese servido",
+      "tu": "hubieses servido",
+      "ud": "hubiese servido",
+      "nosotros": "hubiésemos servido",
+      "vosotros": "hubieseis servido",
+      "uds": "hubiesen servido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sirve",
+    "vosotros": "servid",
+    "ud": "sirva",
+    "uds": "sirvan"
+  },
+  "negativo": {
+    "tu": "no sirvas",
+    "vosotros": "no sirváis",
+    "ud": "no sirva",
+    "uds": "no sirvan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i.",
+    "infinitivo": "to serve",
+    "gerundio": "serving",
+    "participioPasado": "served",
+    "indicativo": {
+      "presente": "I serve, am serving",
+      "futuro": "I will serve",
+      "imperfecto": "I was serving, used to serve, served",
+      "preterito": "I served",
+      "condicional": "I would serve",
+      "presentePerfecto": "I have served",
+      "futuroPerfecto": "I will have served",
+      "pluscuamperfecto": "I had served",
+      "preteritoAnterior": "I had served",
+      "condicionalPerfecto": "I would have served"
+    },
+    "subjuntivo": {
+      "presente": "I serve, am serving",
+      "imperfecto": "I served, was serving",
+      "futuro": "I will serve",
+      "presentePerfecto": "I have served, served",
+      "futuroPerfecto": "I will have served",
+      "pluscuamperfecto": "I had served"
+    },
+    "afirmativo": "Serve!",
+    "negativo": "Don't serve!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "incluir",
+  "gerundio": "incluyendo",
+  "participioPasado": "incluido",
+  "indicativo": {
+    "presente": {
+      "yo": "incluyo",
+      "tu": "incluyes",
+      "ud": "incluye",
+      "nosotros": "incluimos",
+      "vosotros": "incluís",
+      "uds": "incluyen"
+    },
+    "futuro": {
+      "yo": "incluiré",
+      "tu": "incluirás",
+      "ud": "incluirá",
+      "nosotros": "incluiremos",
+      "vosotros": "incluiréis",
+      "uds": "incluirán"
+    },
+    "imperfecto": {
+      "yo": "incluía",
+      "tu": "incluías",
+      "ud": "incluía",
+      "nosotros": "incluíamos",
+      "vosotros": "incluíais",
+      "uds": "incluían"
+    },
+    "preterito": {
+      "yo": "incluí",
+      "tu": "incluiste",
+      "ud": "incluyó",
+      "nosotros": "incluimos",
+      "vosotros": "incluisteis",
+      "uds": "incluyeron"
+    },
+    "condicional": {
+      "yo": "incluiría",
+      "tu": "incluirías",
+      "ud": "incluiría",
+      "nosotros": "incluiríamos",
+      "vosotros": "incluiríais",
+      "uds": "incluirían"
+    },
+    "presentePerfecto": {
+      "yo": "he incluido",
+      "tu": "has incluido",
+      "ud": "ha incluido",
+      "nosotros": "hemos incluido",
+      "vosotros": "habéis incluido",
+      "uds": "han incluido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré incluido",
+      "tu": "habrás incluido",
+      "ud": "habrá incluido",
+      "nosotros": "habremos incluido",
+      "vosotros": "habréis incluido",
+      "uds": "habrán incluido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había incluido",
+      "tu": "habías incluido",
+      "ud": "había incluido",
+      "nosotros": "habíamos incluido",
+      "vosotros": "habíais incluido",
+      "uds": "habían incluido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube incluido",
+      "tu": "hubiste incluido",
+      "ud": "hubo incluido",
+      "nosotros": "hubimos incluido",
+      "vosotros": "hubisteis incluido",
+      "uds": "hubieron incluido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría incluido",
+      "tu": "habrías incluido",
+      "ud": "habría incluido",
+      "nosotros": "habríamos incluido",
+      "vosotros": "habríais incluido",
+      "uds": "habrían incluido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "incluya",
+      "tu": "incluyas",
+      "ud": "incluya",
+      "nosotros": "incluyamos",
+      "vosotros": "incluyáis",
+      "uds": "incluyan"
+    },
+    "imperfecto": {
+      "yo": "incluyera",
+      "tu": "incluyeras",
+      "ud": "incluyera",
+      "nosotros": "incluyéramos",
+      "vosotros": "incluyerais",
+      "uds": "incluyeran"
+    },
+    "futuro": {
+      "yo": "incluyere",
+      "tu": "incluyeres",
+      "ud": "incluyere",
+      "nosotros": "incluyéremos",
+      "vosotros": "incluyereis",
+      "uds": "incluyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya incluido",
+      "tu": "hayas incluido",
+      "ud": "haya incluido",
+      "nosotros": "hayamos incluido",
+      "vosotros": "hayáis incluido",
+      "uds": "hayan incluido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere incluido",
+      "tu": "hubieres incluido",
+      "ud": "hubiere incluido",
+      "nosotros": "hubiéremos incluido",
+      "vosotros": "hubiereis incluido",
+      "uds": "hubieren incluido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera incluido",
+      "tu": "hubieras incluido",
+      "ud": "hubiera incluido",
+      "nosotros": "hubiéramos incluido",
+      "vosotros": "hubierais incluido",
+      "uds": "hubieran incluido"
+    },
+    "imperfectoAlt": {
+      "yo": "incluyese",
+      "tu": "incluyeses",
+      "ud": "incluyese",
+      "nosotros": "incluyésemos",
+      "vosotros": "incluyeseis",
+      "uds": "incluyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese incluido",
+      "tu": "hubieses incluido",
+      "ud": "hubiese incluido",
+      "nosotros": "hubiésemos incluido",
+      "vosotros": "hubieseis incluido",
+      "uds": "hubiesen incluido"
+    }
+  },
+  "afirmativo": {
+    "tu": "incluye",
+    "vosotros": "incluid",
+    "ud": "incluya",
+    "uds": "incluyan"
+  },
+  "negativo": {
+    "tu": "no incluyas",
+    "vosotros": "no incluyáis",
+    "ud": "no incluya",
+    "uds": "no incluyan"
+  },
+  "english": {
+    "note": "Cambios: u > uy delante a, o y e; la i intervocálica (y sin acento escrito) > y.",
+    "infinitivo": "to include",
+    "gerundio": "including",
+    "participioPasado": "included",
+    "indicativo": {
+      "presente": "I include, am including",
+      "futuro": "I will include",
+      "imperfecto": "I was including, used to include, included",
+      "preterito": "I included",
+      "condicional": "I would include",
+      "presentePerfecto": "I have included",
+      "futuroPerfecto": "I will have included",
+      "pluscuamperfecto": "I had included",
+      "preteritoAnterior": "I had included",
+      "condicionalPerfecto": "I would have included"
+    },
+    "subjuntivo": {
+      "presente": "I include, am including",
+      "imperfecto": "I included, was including",
+      "futuro": "I will include",
+      "presentePerfecto": "I have included, included",
+      "futuroPerfecto": "I will have included",
+      "pluscuamperfecto": "I had included"
+    },
+    "afirmativo": "Include!",
+    "negativo": "Don't include!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "dirigir",
+  "gerundio": "dirigiendo",
+  "participioPasado": "dirigido",
+  "indicativo": {
+    "presente": {
+      "yo": "dirijo",
+      "tu": "diriges",
+      "ud": "dirige",
+      "nosotros": "dirigimos",
+      "vosotros": "dirigís",
+      "uds": "dirigen"
+    },
+    "futuro": {
+      "yo": "dirigiré",
+      "tu": "dirigirás",
+      "ud": "dirigirá",
+      "nosotros": "dirigiremos",
+      "vosotros": "dirigiréis",
+      "uds": "dirigirán"
+    },
+    "imperfecto": {
+      "yo": "dirigía",
+      "tu": "dirigías",
+      "ud": "dirigía",
+      "nosotros": "dirigíamos",
+      "vosotros": "dirigíais",
+      "uds": "dirigían"
+    },
+    "preterito": {
+      "yo": "dirigí",
+      "tu": "dirigiste",
+      "ud": "dirigió",
+      "nosotros": "dirigimos",
+      "vosotros": "dirigisteis",
+      "uds": "dirigieron"
+    },
+    "condicional": {
+      "yo": "dirigiría",
+      "tu": "dirigirías",
+      "ud": "dirigiría",
+      "nosotros": "dirigiríamos",
+      "vosotros": "dirigiríais",
+      "uds": "dirigirían"
+    },
+    "presentePerfecto": {
+      "yo": "he dirigido",
+      "tu": "has dirigido",
+      "ud": "ha dirigido",
+      "nosotros": "hemos dirigido",
+      "vosotros": "habéis dirigido",
+      "uds": "han dirigido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré dirigido",
+      "tu": "habrás dirigido",
+      "ud": "habrá dirigido",
+      "nosotros": "habremos dirigido",
+      "vosotros": "habréis dirigido",
+      "uds": "habrán dirigido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había dirigido",
+      "tu": "habías dirigido",
+      "ud": "había dirigido",
+      "nosotros": "habíamos dirigido",
+      "vosotros": "habíais dirigido",
+      "uds": "habían dirigido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube dirigido",
+      "tu": "hubiste dirigido",
+      "ud": "hubo dirigido",
+      "nosotros": "hubimos dirigido",
+      "vosotros": "hubisteis dirigido",
+      "uds": "hubieron dirigido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría dirigido",
+      "tu": "habrías dirigido",
+      "ud": "habría dirigido",
+      "nosotros": "habríamos dirigido",
+      "vosotros": "habríais dirigido",
+      "uds": "habrían dirigido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "dirija",
+      "tu": "dirijas",
+      "ud": "dirija",
+      "nosotros": "dirijamos",
+      "vosotros": "dirijáis",
+      "uds": "dirijan"
+    },
+    "imperfecto": {
+      "yo": "dirigiera",
+      "tu": "dirigieras",
+      "ud": "dirigiera",
+      "nosotros": "dirigiéramos",
+      "vosotros": "dirigierais",
+      "uds": "dirigieran"
+    },
+    "futuro": {
+      "yo": "dirigiere",
+      "tu": "dirigieres",
+      "ud": "dirigiere",
+      "nosotros": "dirigiéremos",
+      "vosotros": "dirigiereis",
+      "uds": "dirigieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya dirigido",
+      "tu": "hayas dirigido",
+      "ud": "haya dirigido",
+      "nosotros": "hayamos dirigido",
+      "vosotros": "hayáis dirigido",
+      "uds": "hayan dirigido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere dirigido",
+      "tu": "hubieres dirigido",
+      "ud": "hubiere dirigido",
+      "nosotros": "hubiéremos dirigido",
+      "vosotros": "hubiereis dirigido",
+      "uds": "hubieren dirigido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera dirigido",
+      "tu": "hubieras dirigido",
+      "ud": "hubiera dirigido",
+      "nosotros": "hubiéramos dirigido",
+      "vosotros": "hubierais dirigido",
+      "uds": "hubieran dirigido"
+    },
+    "imperfectoAlt": {
+      "yo": "dirigiese",
+      "tu": "dirigieses",
+      "ud": "dirigiese",
+      "nosotros": "dirigiésemos",
+      "vosotros": "dirigieseis",
+      "uds": "dirigiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese dirigido",
+      "tu": "hubieses dirigido",
+      "ud": "hubiese dirigido",
+      "nosotros": "hubiésemos dirigido",
+      "vosotros": "hubieseis dirigido",
+      "uds": "hubiesen dirigido"
+    }
+  },
+  "afirmativo": {
+    "tu": "dirige",
+    "vosotros": "dirigid",
+    "ud": "dirija",
+    "uds": "dirijan"
+  },
+  "negativo": {
+    "tu": "no dirijas",
+    "vosotros": "no dirijáis",
+    "ud": "no dirija",
+    "uds": "no dirijan"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > j delante de o y a.",
+    "infinitivo": "to direct",
+    "gerundio": "directing",
+    "participioPasado": "directed",
+    "indicativo": {
+      "presente": "I direct, am directing",
+      "futuro": "I will direct",
+      "imperfecto": "I was directing, used to direct, directed",
+      "preterito": "I directed",
+      "condicional": "I would direct",
+      "presentePerfecto": "I have directed",
+      "futuroPerfecto": "I will have directed",
+      "pluscuamperfecto": "I had directed",
+      "preteritoAnterior": "I had directed",
+      "condicionalPerfecto": "I would have directed"
+    },
+    "subjuntivo": {
+      "presente": "I direct, am directing",
+      "imperfecto": "I directed, was directing",
+      "futuro": "I will direct",
+      "presentePerfecto": "I have directed, directed",
+      "futuroPerfecto": "I will have directed",
+      "pluscuamperfecto": "I had directed"
+    },
+    "afirmativo": "Direct!",
+    "negativo": "Don't direct!"
+  },
+  "attribution": "Fred Jehle"
+}

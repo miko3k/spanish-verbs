@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "contribuir",
+  "gerundio": "contribuyendo",
+  "participioPasado": "contribuido",
+  "indicativo": {
+    "presente": {
+      "yo": "contribuyo",
+      "tu": "contribuyes",
+      "ud": "contribuye",
+      "nosotros": "contribuimos",
+      "vosotros": "contribuís",
+      "uds": "contribuyen"
+    },
+    "futuro": {
+      "yo": "contribuiré",
+      "tu": "contribuirás",
+      "ud": "contribuirá",
+      "nosotros": "contribuiremos",
+      "vosotros": "contribuiréis",
+      "uds": "contribuirán"
+    },
+    "imperfecto": {
+      "yo": "contribuía",
+      "tu": "contribuías",
+      "ud": "contribuía",
+      "nosotros": "contribuíamos",
+      "vosotros": "contribuíais",
+      "uds": "contribuían"
+    },
+    "preterito": {
+      "yo": "contribuí",
+      "tu": "contribuiste",
+      "ud": "contribuyó",
+      "nosotros": "contribuimos",
+      "vosotros": "contribuisteis",
+      "uds": "contribuyeron"
+    },
+    "condicional": {
+      "yo": "contribuiría",
+      "tu": "contribuirías",
+      "ud": "contribuiría",
+      "nosotros": "contribuiríamos",
+      "vosotros": "contribuiríais",
+      "uds": "contribuirían"
+    },
+    "presentePerfecto": {
+      "yo": "he contribuido",
+      "tu": "has contribuido",
+      "ud": "ha contribuido",
+      "nosotros": "hemos contribuido",
+      "vosotros": "habéis contribuido",
+      "uds": "han contribuido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré contribuido",
+      "tu": "habrás contribuido",
+      "ud": "habrá contribuido",
+      "nosotros": "habremos contribuido",
+      "vosotros": "habréis contribuido",
+      "uds": "habrán contribuido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había contribuido",
+      "tu": "habías contribuido",
+      "ud": "había contribuido",
+      "nosotros": "habíamos contribuido",
+      "vosotros": "habíais contribuido",
+      "uds": "habían contribuido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube contribuido",
+      "tu": "hubiste contribuido",
+      "ud": "hubo contribuido",
+      "nosotros": "hubimos contribuido",
+      "vosotros": "hubisteis contribuido",
+      "uds": "hubieron contribuido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría contribuido",
+      "tu": "habrías contribuido",
+      "ud": "habría contribuido",
+      "nosotros": "habríamos contribuido",
+      "vosotros": "habríais contribuido",
+      "uds": "habrían contribuido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "contribuya",
+      "tu": "contribuyas",
+      "ud": "contribuya",
+      "nosotros": "contribuyamos",
+      "vosotros": "contribuyáis",
+      "uds": "contribuyan"
+    },
+    "imperfecto": {
+      "yo": "contribuyera",
+      "tu": "contribuyeras",
+      "ud": "contribuyera",
+      "nosotros": "contribuyéramos",
+      "vosotros": "contribuyerais",
+      "uds": "contribuyeran"
+    },
+    "futuro": {
+      "yo": "contribuyere",
+      "tu": "contribuyeres",
+      "ud": "contribuyere",
+      "nosotros": "contribuyéremos",
+      "vosotros": "contribuyereis",
+      "uds": "contribuyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya contribuido",
+      "tu": "hayas contribuido",
+      "ud": "haya contribuido",
+      "nosotros": "hayamos contribuido",
+      "vosotros": "hayáis contribuido",
+      "uds": "hayan contribuido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere contribuido",
+      "tu": "hubieres contribuido",
+      "ud": "hubiere contribuido",
+      "nosotros": "hubiéremos contribuido",
+      "vosotros": "hubiereis contribuido",
+      "uds": "hubieren contribuido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera contribuido",
+      "tu": "hubieras contribuido",
+      "ud": "hubiera contribuido",
+      "nosotros": "hubiéramos contribuido",
+      "vosotros": "hubierais contribuido",
+      "uds": "hubieran contribuido"
+    },
+    "imperfectoAlt": {
+      "yo": "contribuyese",
+      "tu": "contribuyeses",
+      "ud": "contribuyese",
+      "nosotros": "contribuyésemos",
+      "vosotros": "contribuyeseis",
+      "uds": "contribuyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese contribuido",
+      "tu": "hubieses contribuido",
+      "ud": "hubiese contribuido",
+      "nosotros": "hubiésemos contribuido",
+      "vosotros": "hubieseis contribuido",
+      "uds": "hubiesen contribuido"
+    }
+  },
+  "afirmativo": {
+    "tu": "contribuye",
+    "vosotros": "contribuid",
+    "ud": "contribuya",
+    "uds": "contribuyan"
+  },
+  "negativo": {
+    "tu": "no contribuyas",
+    "vosotros": "no contribuyáis",
+    "ud": "no contribuya",
+    "uds": "no contribuyan"
+  },
+  "english": {
+    "note": "Cambios: u > uy delante a, o y e; la i intervocálica (y sin acento escrito) > y.",
+    "infinitivo": "to contribute",
+    "gerundio": "contributing",
+    "participioPasado": "contributed",
+    "indicativo": {
+      "presente": "I contribute, am contributing",
+      "futuro": "I will contribute",
+      "imperfecto": "I was contributing, used to contribute, contributed",
+      "preterito": "I contributed",
+      "condicional": "I would contribute",
+      "presentePerfecto": "I have contributed",
+      "futuroPerfecto": "I will have contributed",
+      "pluscuamperfecto": "I had contributed",
+      "preteritoAnterior": "I had contributed",
+      "condicionalPerfecto": "I would have contributed"
+    },
+    "subjuntivo": {
+      "presente": "I contribute, am contributing",
+      "imperfecto": "I contributed, was contributing",
+      "futuro": "I will contribute",
+      "presentePerfecto": "I have contributed, contributed",
+      "futuroPerfecto": "I will have contributed",
+      "pluscuamperfecto": "I had contributed"
+    },
+    "afirmativo": "Contribute!",
+    "negativo": "Don't contribute!"
+  },
+  "attribution": "Fred Jehle"
+}

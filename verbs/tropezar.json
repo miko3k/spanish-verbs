@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "tropezar",
+  "gerundio": "tropezando",
+  "participioPasado": "tropezado",
+  "indicativo": {
+    "presente": {
+      "yo": "tropiezo",
+      "tu": "tropiezas",
+      "ud": "tropieza",
+      "nosotros": "tropezamos",
+      "vosotros": "tropezáis",
+      "uds": "tropiezan"
+    },
+    "futuro": {
+      "yo": "tropezaré",
+      "tu": "tropezarás",
+      "ud": "tropezará",
+      "nosotros": "tropezaremos",
+      "vosotros": "tropezaréis",
+      "uds": "tropezarán"
+    },
+    "imperfecto": {
+      "yo": "tropezaba",
+      "tu": "tropezabas",
+      "ud": "tropezaba",
+      "nosotros": "tropezábamos",
+      "vosotros": "tropezabais",
+      "uds": "tropezaban"
+    },
+    "preterito": {
+      "yo": "tropecé",
+      "tu": "tropezaste",
+      "ud": "tropezó",
+      "nosotros": "tropezamos",
+      "vosotros": "tropezasteis",
+      "uds": "tropezaron"
+    },
+    "condicional": {
+      "yo": "tropezaría",
+      "tu": "tropezarías",
+      "ud": "tropezaría",
+      "nosotros": "tropezaríamos",
+      "vosotros": "tropezaríais",
+      "uds": "tropezarían"
+    },
+    "presentePerfecto": {
+      "yo": "he tropezado",
+      "tu": "has tropezado",
+      "ud": "ha tropezado",
+      "nosotros": "hemos tropezado",
+      "vosotros": "habéis tropezado",
+      "uds": "han tropezado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré tropezado",
+      "tu": "habrás tropezado",
+      "ud": "habrá tropezado",
+      "nosotros": "habremos tropezado",
+      "vosotros": "habréis tropezado",
+      "uds": "habrán tropezado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había tropezado",
+      "tu": "habías tropezado",
+      "ud": "había tropezado",
+      "nosotros": "habíamos tropezado",
+      "vosotros": "habíais tropezado",
+      "uds": "habían tropezado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube tropezado",
+      "tu": "hubiste tropezado",
+      "ud": "hubo tropezado",
+      "nosotros": "hubimos tropezado",
+      "vosotros": "hubisteis tropezado",
+      "uds": "hubieron tropezado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría tropezado",
+      "tu": "habrías tropezado",
+      "ud": "habría tropezado",
+      "nosotros": "habríamos tropezado",
+      "vosotros": "habríais tropezado",
+      "uds": "habrían tropezado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "tropiece",
+      "tu": "tropieces",
+      "ud": "tropiece",
+      "nosotros": "tropecemos",
+      "vosotros": "tropezéis",
+      "uds": "tropiecen"
+    },
+    "imperfecto": {
+      "yo": "tropezara",
+      "tu": "tropezaras",
+      "ud": "tropezara",
+      "nosotros": "tropezáramos",
+      "vosotros": "tropezarais",
+      "uds": "tropezaran"
+    },
+    "futuro": {
+      "yo": "tropezare",
+      "tu": "tropezares",
+      "ud": "tropezare",
+      "nosotros": "tropezáremos",
+      "vosotros": "tropezareis",
+      "uds": "tropezaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya tropezado",
+      "tu": "hayas tropezado",
+      "ud": "haya tropezado",
+      "nosotros": "hayamos tropezado",
+      "vosotros": "hayáis tropezado",
+      "uds": "hayan tropezado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere tropezado",
+      "tu": "hubieres tropezado",
+      "ud": "hubiere tropezado",
+      "nosotros": "hubiéremos tropezado",
+      "vosotros": "hubiereis tropezado",
+      "uds": "hubieren tropezado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera tropezado",
+      "tu": "hubieras tropezado",
+      "ud": "hubiera tropezado",
+      "nosotros": "hubiéramos tropezado",
+      "vosotros": "hubierais tropezado",
+      "uds": "hubieran tropezado"
+    },
+    "imperfectoAlt": {
+      "yo": "tropezase",
+      "tu": "tropezases",
+      "ud": "tropezase",
+      "nosotros": "tropezásemos",
+      "vosotros": "tropezaseis",
+      "uds": "tropezasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese tropezado",
+      "tu": "hubieses tropezado",
+      "ud": "hubiese tropezado",
+      "nosotros": "hubiésemos tropezado",
+      "vosotros": "hubieseis tropezado",
+      "uds": "hubiesen tropezado"
+    }
+  },
+  "afirmativo": {
+    "tu": "tropieza",
+    "vosotros": "tropezad",
+    "ud": "tropiece",
+    "uds": "tropiecen"
+  },
+  "negativo": {
+    "tu": "no tropieces",
+    "vosotros": "no tropezéis",
+    "ud": "no tropiece",
+    "uds": "no tropiecen"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie. Cambio ortográfico: z > c delante de e. Note: Tropezar con means to run into, bump into, run across.",
+    "infinitivo": "to trip, stumble, slip up",
+    "gerundio": "tripping",
+    "participioPasado": "tripped",
+    "indicativo": {
+      "presente": "I trip, am tripping",
+      "futuro": "I will trip",
+      "imperfecto": "I was tripping, used to trip, tripped",
+      "preterito": "I tripped",
+      "condicional": "I would trip",
+      "presentePerfecto": "I have tripped",
+      "futuroPerfecto": "I will have tripped",
+      "pluscuamperfecto": "I had tripped",
+      "preteritoAnterior": "I had tripped",
+      "condicionalPerfecto": "I would have tripped"
+    },
+    "subjuntivo": {
+      "presente": "I trip, am tripping",
+      "imperfecto": "I tripped, was tripping",
+      "futuro": "I will trip",
+      "presentePerfecto": "I have tripped, tripped",
+      "futuroPerfecto": "I will have tripped",
+      "pluscuamperfecto": "I had tripped"
+    },
+    "afirmativo": "Trip!",
+    "negativo": "Don't trip!"
+  },
+  "attribution": "Fred Jehle"
+}

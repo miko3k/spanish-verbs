@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "heredar",
+  "gerundio": "heredando",
+  "participioPasado": "heredado",
+  "indicativo": {
+    "presente": {
+      "yo": "heredo",
+      "tu": "heredas",
+      "ud": "hereda",
+      "nosotros": "heredamos",
+      "vosotros": "heredáis",
+      "uds": "heredan"
+    },
+    "futuro": {
+      "yo": "heredaré",
+      "tu": "heredarás",
+      "ud": "heredará",
+      "nosotros": "heredaremos",
+      "vosotros": "heredaréis",
+      "uds": "heredarán"
+    },
+    "imperfecto": {
+      "yo": "heredaba",
+      "tu": "heredabas",
+      "ud": "heredaba",
+      "nosotros": "heredábamos",
+      "vosotros": "heredabais",
+      "uds": "heredaban"
+    },
+    "preterito": {
+      "yo": "heredé",
+      "tu": "heredaste",
+      "ud": "heredó",
+      "nosotros": "heredamos",
+      "vosotros": "heredasteis",
+      "uds": "heredaron"
+    },
+    "condicional": {
+      "yo": "heredaría",
+      "tu": "heredarías",
+      "ud": "heredaría",
+      "nosotros": "heredaríamos",
+      "vosotros": "heredaríais",
+      "uds": "heredarían"
+    },
+    "presentePerfecto": {
+      "yo": "he heredado",
+      "tu": "has heredado",
+      "ud": "ha heredado",
+      "nosotros": "hemos heredado",
+      "vosotros": "habéis heredado",
+      "uds": "han heredado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré heredado",
+      "tu": "habrás heredado",
+      "ud": "habrá heredado",
+      "nosotros": "habremos heredado",
+      "vosotros": "habréis heredado",
+      "uds": "habrán heredado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había heredado",
+      "tu": "habías heredado",
+      "ud": "había heredado",
+      "nosotros": "habíamos heredado",
+      "vosotros": "habíais heredado",
+      "uds": "habían heredado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube heredado",
+      "tu": "hubiste heredado",
+      "ud": "hubo heredado",
+      "nosotros": "hubimos heredado",
+      "vosotros": "hubisteis heredado",
+      "uds": "hubieron heredado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría heredado",
+      "tu": "habrías heredado",
+      "ud": "habría heredado",
+      "nosotros": "habríamos heredado",
+      "vosotros": "habríais heredado",
+      "uds": "habrían heredado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "herede",
+      "tu": "heredes",
+      "ud": "herede",
+      "nosotros": "heredemos",
+      "vosotros": "heredéis",
+      "uds": "hereden"
+    },
+    "imperfecto": {
+      "yo": "heredara",
+      "tu": "heredaras",
+      "ud": "heredara",
+      "nosotros": "heredáramos",
+      "vosotros": "heredarais",
+      "uds": "heredaran"
+    },
+    "futuro": {
+      "yo": "heredare",
+      "tu": "heredares",
+      "ud": "heredare",
+      "nosotros": "heredáremos",
+      "vosotros": "heredareis",
+      "uds": "heredaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya heredado",
+      "tu": "hayas heredado",
+      "ud": "haya heredado",
+      "nosotros": "hayamos heredado",
+      "vosotros": "hayáis heredado",
+      "uds": "hayan heredado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere heredado",
+      "tu": "hubieres heredado",
+      "ud": "hubiere heredado",
+      "nosotros": "hubiéremos heredado",
+      "vosotros": "hubiereis heredado",
+      "uds": "hubieren heredado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera heredado",
+      "tu": "hubieras heredado",
+      "ud": "hubiera heredado",
+      "nosotros": "hubiéramos heredado",
+      "vosotros": "hubierais heredado",
+      "uds": "hubieran heredado"
+    },
+    "imperfectoAlt": {
+      "yo": "heredase",
+      "tu": "heredases",
+      "ud": "heredase",
+      "nosotros": "heredásemos",
+      "vosotros": "heredaseis",
+      "uds": "heredasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese heredado",
+      "tu": "hubieses heredado",
+      "ud": "hubiese heredado",
+      "nosotros": "hubiésemos heredado",
+      "vosotros": "hubieseis heredado",
+      "uds": "hubiesen heredado"
+    }
+  },
+  "afirmativo": {
+    "tu": "hereda",
+    "vosotros": "heredad",
+    "ud": "herede",
+    "uds": "hereden"
+  },
+  "negativo": {
+    "tu": "no heredes",
+    "vosotros": "no heredéis",
+    "ud": "no herede",
+    "uds": "no hereden"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to inherit",
+    "gerundio": "inheriting",
+    "participioPasado": "inherited",
+    "indicativo": {
+      "presente": "I inherit, am inheriting",
+      "futuro": "I will inherit",
+      "imperfecto": "I was inheriting, used to inherit, inherited",
+      "preterito": "I inherited",
+      "condicional": "I would inherit",
+      "presentePerfecto": "I have inherited",
+      "futuroPerfecto": "I will have inherited",
+      "pluscuamperfecto": "I had inherited",
+      "preteritoAnterior": "I had inherited",
+      "condicionalPerfecto": "I would have inherited"
+    },
+    "subjuntivo": {
+      "presente": "I inherit, am inheriting",
+      "imperfecto": "I inherited, was inheriting",
+      "futuro": "I will inherit",
+      "presentePerfecto": "I have inherited, inherited",
+      "futuroPerfecto": "I will have inherited",
+      "pluscuamperfecto": "I had inherited"
+    },
+    "afirmativo": "inherit!",
+    "negativo": "Don't inherit!"
+  },
+  "attribution": "Fred Jehle"
+}

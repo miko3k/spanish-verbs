@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "renunciar",
+  "gerundio": "renunciando",
+  "participioPasado": "renunciado",
+  "indicativo": {
+    "presente": {
+      "yo": "renuncio",
+      "tu": "renuncias",
+      "ud": "renuncia",
+      "nosotros": "renunciamos",
+      "vosotros": "renunciáis",
+      "uds": "renuncian"
+    },
+    "futuro": {
+      "yo": "renunciaré",
+      "tu": "renunciarás",
+      "ud": "renunciará",
+      "nosotros": "renunciaremos",
+      "vosotros": "renunciaréis",
+      "uds": "renunciarán"
+    },
+    "imperfecto": {
+      "yo": "renunciaba",
+      "tu": "renunciabas",
+      "ud": "renunciaba",
+      "nosotros": "renunciábamos",
+      "vosotros": "renunciabais",
+      "uds": "renunciaban"
+    },
+    "preterito": {
+      "yo": "renuncié",
+      "tu": "renunciaste",
+      "ud": "renunció",
+      "nosotros": "renunciamos",
+      "vosotros": "renunciasteis",
+      "uds": "renunciaron"
+    },
+    "condicional": {
+      "yo": "renunciaría",
+      "tu": "renunciarías",
+      "ud": "renunciaría",
+      "nosotros": "renunciaríamos",
+      "vosotros": "renunciaríais",
+      "uds": "renunciarían"
+    },
+    "presentePerfecto": {
+      "yo": "he renunciado",
+      "tu": "has renunciado",
+      "ud": "ha renunciado",
+      "nosotros": "hemos renunciado",
+      "vosotros": "habéis renunciado",
+      "uds": "han renunciado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré renunciado",
+      "tu": "habrás renunciado",
+      "ud": "habrá renunciado",
+      "nosotros": "habremos renunciado",
+      "vosotros": "habréis renunciado",
+      "uds": "habrán renunciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había renunciado",
+      "tu": "habías renunciado",
+      "ud": "había renunciado",
+      "nosotros": "habíamos renunciado",
+      "vosotros": "habíais renunciado",
+      "uds": "habían renunciado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube renunciado",
+      "tu": "hubiste renunciado",
+      "ud": "hubo renunciado",
+      "nosotros": "hubimos renunciado",
+      "vosotros": "hubisteis renunciado",
+      "uds": "hubieron renunciado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría renunciado",
+      "tu": "habrías renunciado",
+      "ud": "habría renunciado",
+      "nosotros": "habríamos renunciado",
+      "vosotros": "habríais renunciado",
+      "uds": "habrían renunciado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "renuncie",
+      "tu": "renuncies",
+      "ud": "renuncie",
+      "nosotros": "renunciemos",
+      "vosotros": "renunciéis",
+      "uds": "renuncien"
+    },
+    "imperfecto": {
+      "yo": "renunciara",
+      "tu": "renunciaras",
+      "ud": "renunciara",
+      "nosotros": "renunciáramos",
+      "vosotros": "renunciarais",
+      "uds": "renunciaran"
+    },
+    "futuro": {
+      "yo": "renunciare",
+      "tu": "renunciares",
+      "ud": "renunciare",
+      "nosotros": "renunciáremos",
+      "vosotros": "renunciareis",
+      "uds": "renunciaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya renunciado",
+      "tu": "hayas renunciado",
+      "ud": "haya renunciado",
+      "nosotros": "hayamos renunciado",
+      "vosotros": "hayáis renunciado",
+      "uds": "hayan renunciado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere renunciado",
+      "tu": "hubieres renunciado",
+      "ud": "hubiere renunciado",
+      "nosotros": "hubiéremos renunciado",
+      "vosotros": "hubiereis renunciado",
+      "uds": "hubieren renunciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera renunciado",
+      "tu": "hubieras renunciado",
+      "ud": "hubiera renunciado",
+      "nosotros": "hubiéramos renunciado",
+      "vosotros": "hubierais renunciado",
+      "uds": "hubieran renunciado"
+    },
+    "imperfectoAlt": {
+      "yo": "renunciase",
+      "tu": "renunciases",
+      "ud": "renunciase",
+      "nosotros": "renunciásemos",
+      "vosotros": "renunciaseis",
+      "uds": "renunciasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese renunciado",
+      "tu": "hubieses renunciado",
+      "ud": "hubiese renunciado",
+      "nosotros": "hubiésemos renunciado",
+      "vosotros": "hubieseis renunciado",
+      "uds": "hubiesen renunciado"
+    }
+  },
+  "afirmativo": {
+    "tu": "renuncia",
+    "vosotros": "renunciad",
+    "ud": "renuncie",
+    "uds": "renuncien"
+  },
+  "negativo": {
+    "tu": "no renuncies",
+    "vosotros": "no renunciéis",
+    "ud": "no renuncie",
+    "uds": "no renuncien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to renounce, surrender, resign",
+    "gerundio": "renouncing",
+    "participioPasado": "renounced",
+    "indicativo": {
+      "presente": "I renounce, am renouncing",
+      "futuro": "I will renounce",
+      "imperfecto": "I was renouncing, used to renounce, renounced",
+      "preterito": "I renounced",
+      "condicional": "I would renounce",
+      "presentePerfecto": "I have renounced",
+      "futuroPerfecto": "I will have renounced",
+      "pluscuamperfecto": "I had renounced",
+      "preteritoAnterior": "I had renounced",
+      "condicionalPerfecto": "I would have renounced"
+    },
+    "subjuntivo": {
+      "presente": "I renounce, am renouncing",
+      "imperfecto": "I renounced, was renouncing",
+      "futuro": "I will renounce",
+      "presentePerfecto": "I have renounced, renounced",
+      "futuroPerfecto": "I will have renounced",
+      "pluscuamperfecto": "I had renounced"
+    },
+    "afirmativo": "Renounce!",
+    "negativo": "Don't renounce!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "esperar",
+  "gerundio": "esperando",
+  "participioPasado": "esperado",
+  "indicativo": {
+    "presente": {
+      "yo": "espero",
+      "tu": "esperas",
+      "ud": "espera",
+      "nosotros": "esperamos",
+      "vosotros": "esperáis",
+      "uds": "esperan"
+    },
+    "futuro": {
+      "yo": "esperaré",
+      "tu": "esperarás",
+      "ud": "esperará",
+      "nosotros": "esperaremos",
+      "vosotros": "esperaréis",
+      "uds": "esperarán"
+    },
+    "imperfecto": {
+      "yo": "esperaba",
+      "tu": "esperabas",
+      "ud": "esperaba",
+      "nosotros": "esperábamos",
+      "vosotros": "esperabais",
+      "uds": "esperaban"
+    },
+    "preterito": {
+      "yo": "esperé",
+      "tu": "esperaste",
+      "ud": "esperó",
+      "nosotros": "esperamos",
+      "vosotros": "esperasteis",
+      "uds": "esperaron"
+    },
+    "condicional": {
+      "yo": "esperaría",
+      "tu": "esperarías",
+      "ud": "esperaría",
+      "nosotros": "esperaríamos",
+      "vosotros": "esperaríais",
+      "uds": "esperarían"
+    },
+    "presentePerfecto": {
+      "yo": "he esperado",
+      "tu": "has esperado",
+      "ud": "ha esperado",
+      "nosotros": "hemos esperado",
+      "vosotros": "habéis esperado",
+      "uds": "han esperado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré esperado",
+      "tu": "habrás esperado",
+      "ud": "habrá esperado",
+      "nosotros": "habremos esperado",
+      "vosotros": "habréis esperado",
+      "uds": "habrán esperado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había esperado",
+      "tu": "habías esperado",
+      "ud": "había esperado",
+      "nosotros": "habíamos esperado",
+      "vosotros": "habíais esperado",
+      "uds": "habían esperado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube esperado",
+      "tu": "hubiste esperado",
+      "ud": "hubo esperado",
+      "nosotros": "hubimos esperado",
+      "vosotros": "hubisteis esperado",
+      "uds": "hubieron esperado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría esperado",
+      "tu": "habrías esperado",
+      "ud": "habría esperado",
+      "nosotros": "habríamos esperado",
+      "vosotros": "habríais esperado",
+      "uds": "habrían esperado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "espere",
+      "tu": "esperes",
+      "ud": "espere",
+      "nosotros": "esperemos",
+      "vosotros": "esperéis",
+      "uds": "esperen"
+    },
+    "imperfecto": {
+      "yo": "esperara",
+      "tu": "esperaras",
+      "ud": "esperara",
+      "nosotros": "esperáramos",
+      "vosotros": "esperarais",
+      "uds": "esperaran"
+    },
+    "futuro": {
+      "yo": "esperare",
+      "tu": "esperares",
+      "ud": "esperare",
+      "nosotros": "esperáremos",
+      "vosotros": "esperareis",
+      "uds": "esperaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya esperado",
+      "tu": "hayas esperado",
+      "ud": "haya esperado",
+      "nosotros": "hayamos esperado",
+      "vosotros": "hayáis esperado",
+      "uds": "hayan esperado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere esperado",
+      "tu": "hubieres esperado",
+      "ud": "hubiere esperado",
+      "nosotros": "hubiéremos esperado",
+      "vosotros": "hubiereis esperado",
+      "uds": "hubieren esperado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera esperado",
+      "tu": "hubieras esperado",
+      "ud": "hubiera esperado",
+      "nosotros": "hubiéramos esperado",
+      "vosotros": "hubierais esperado",
+      "uds": "hubieran esperado"
+    },
+    "imperfectoAlt": {
+      "yo": "esperase",
+      "tu": "esperases",
+      "ud": "esperase",
+      "nosotros": "esperásemos",
+      "vosotros": "esperaseis",
+      "uds": "esperasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese esperado",
+      "tu": "hubieses esperado",
+      "ud": "hubiese esperado",
+      "nosotros": "hubiésemos esperado",
+      "vosotros": "hubieseis esperado",
+      "uds": "hubiesen esperado"
+    }
+  },
+  "afirmativo": {
+    "tu": "espera",
+    "vosotros": "esperad",
+    "ud": "espere",
+    "uds": "esperen"
+  },
+  "negativo": {
+    "tu": "no esperes",
+    "vosotros": "no esperéis",
+    "ud": "no espere",
+    "uds": "no esperen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to hope",
+    "gerundio": "hoping",
+    "participioPasado": "hoped",
+    "indicativo": {
+      "presente": "I hope, am hoping",
+      "futuro": "I will hope",
+      "imperfecto": "I was hoping, used to hope, hoped",
+      "preterito": "I hoped",
+      "condicional": "I would hope",
+      "presentePerfecto": "I have hoped",
+      "futuroPerfecto": "I will have hoped",
+      "pluscuamperfecto": "I had hoped",
+      "preteritoAnterior": "I had hoped",
+      "condicionalPerfecto": "I would have hoped"
+    },
+    "subjuntivo": {
+      "presente": "I hope, am hoping",
+      "imperfecto": "I hoped, was hoping",
+      "futuro": "I will hope",
+      "presentePerfecto": "I have hoped, hoped",
+      "futuroPerfecto": "I will have hoped",
+      "pluscuamperfecto": "I had hoped"
+    },
+    "afirmativo": "Hope!",
+    "negativo": "Don't hope!"
+  },
+  "attribution": "Fred Jehle"
+}

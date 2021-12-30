@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "yacer",
+  "gerundio": "yaciendo",
+  "participioPasado": "yacido",
+  "indicativo": {
+    "presente": {
+      "yo": "yazco",
+      "tu": "yaces",
+      "ud": "yace",
+      "nosotros": "yacemos",
+      "vosotros": "yacéis",
+      "uds": "yacen"
+    },
+    "futuro": {
+      "yo": "yaceré",
+      "tu": "yacerás",
+      "ud": "yacerá",
+      "nosotros": "yaceremos",
+      "vosotros": "yaceréis",
+      "uds": "yacerán"
+    },
+    "imperfecto": {
+      "yo": "yacía",
+      "tu": "yacías",
+      "ud": "yacía",
+      "nosotros": "yacíamos",
+      "vosotros": "yacíais",
+      "uds": "yacían"
+    },
+    "preterito": {
+      "yo": "yací",
+      "tu": "yaciste",
+      "ud": "yació",
+      "nosotros": "yacimos",
+      "vosotros": "yacisteis",
+      "uds": "yacieron"
+    },
+    "condicional": {
+      "yo": "yacería",
+      "tu": "yacerías",
+      "ud": "yacería",
+      "nosotros": "yaceríamos",
+      "vosotros": "yaceríais",
+      "uds": "yacerían"
+    },
+    "presentePerfecto": {
+      "yo": "he yacido",
+      "tu": "has yacido",
+      "ud": "ha yacido",
+      "nosotros": "hemos yacido",
+      "vosotros": "habéis yacido",
+      "uds": "han yacido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré yacido",
+      "tu": "habrás yacido",
+      "ud": "habrá yacido",
+      "nosotros": "habremos yacido",
+      "vosotros": "habréis yacido",
+      "uds": "habrán yacido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había yacido",
+      "tu": "habías yacido",
+      "ud": "había yacido",
+      "nosotros": "habíamos yacido",
+      "vosotros": "habíais yacido",
+      "uds": "habían yacido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube yacido",
+      "tu": "hubiste yacido",
+      "ud": "hubo yacido",
+      "nosotros": "hubimos yacido",
+      "vosotros": "hubisteis yacido",
+      "uds": "hubieron yacido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría yacido",
+      "tu": "habrías yacido",
+      "ud": "habría yacido",
+      "nosotros": "habríamos yacido",
+      "vosotros": "habríais yacido",
+      "uds": "habrían yacido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "yazca",
+      "tu": "yazcas",
+      "ud": "yazca",
+      "nosotros": "yazcamos",
+      "vosotros": "yazcáis",
+      "uds": "yazcan"
+    },
+    "imperfecto": {
+      "yo": "yaciera",
+      "tu": "yacieras",
+      "ud": "yaciera",
+      "nosotros": "yaciéramos",
+      "vosotros": "yacierais",
+      "uds": "yacieran"
+    },
+    "futuro": {
+      "yo": "yaciere",
+      "tu": "yacieres",
+      "ud": "yaciere",
+      "nosotros": "yaciéremos",
+      "vosotros": "yaciereis",
+      "uds": "yacieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya yacido",
+      "tu": "hayas yacido",
+      "ud": "haya yacido",
+      "nosotros": "hayamos yacido",
+      "vosotros": "hayáis yacido",
+      "uds": "hayan yacido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere yacido",
+      "tu": "hubieres yacido",
+      "ud": "hubiere yacido",
+      "nosotros": "hubiéremos yacido",
+      "vosotros": "hubiereis yacido",
+      "uds": "hubieren yacido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera yacido",
+      "tu": "hubieras yacido",
+      "ud": "hubiera yacido",
+      "nosotros": "hubiéramos yacido",
+      "vosotros": "hubierais yacido",
+      "uds": "hubieran yacido"
+    },
+    "imperfectoAlt": {
+      "yo": "yaciese",
+      "tu": "yacieses",
+      "ud": "yaciese",
+      "nosotros": "yaciésemos",
+      "vosotros": "yacieseis",
+      "uds": "yaciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese yacido",
+      "tu": "hubieses yacido",
+      "ud": "hubiese yacido",
+      "nosotros": "hubiésemos yacido",
+      "vosotros": "hubieseis yacido",
+      "uds": "hubiesen yacido"
+    }
+  },
+  "afirmativo": {
+    "tu": "yace",
+    "vosotros": "yaced",
+    "ud": "yazca",
+    "uds": "yazcan"
+  },
+  "negativo": {
+    "tu": "no yazcas",
+    "vosotros": "no yazcáis",
+    "ud": "no yazca",
+    "uds": "no yazcan"
+  },
+  "english": {
+    "note": "Formas irregulares: yazco, yazca, yazcas, etc. Pero también hay otras formas menos comunes como: yago, yaga, yagas, etc., y yaz tú (imperativo).",
+    "infinitivo": "to lie (e.g., in bed)",
+    "gerundio": "lying",
+    "participioPasado": "lain/laid",
+    "indicativo": {
+      "presente": "I lie, am lying",
+      "futuro": "I will lie",
+      "imperfecto": "I was lying, used to lie, lay/laid",
+      "preterito": "I lay/laid",
+      "condicional": "I would lie",
+      "presentePerfecto": "I have lain",
+      "futuroPerfecto": "I will have lain",
+      "pluscuamperfecto": "I had lain",
+      "preteritoAnterior": "I had lain",
+      "condicionalPerfecto": "I would have lain"
+    },
+    "subjuntivo": {
+      "presente": "I lie, am lying",
+      "imperfecto": "I lay/laid, was lying",
+      "futuro": "I will lie",
+      "presentePerfecto": "I have lain, lay/laid",
+      "futuroPerfecto": "I will have lain",
+      "pluscuamperfecto": "I had lain"
+    },
+    "afirmativo": "Lie!",
+    "negativo": "Don't lie!"
+  },
+  "attribution": "Fred Jehle"
+}

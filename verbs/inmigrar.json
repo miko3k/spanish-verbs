@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "inmigrar",
+  "gerundio": "inmigrando",
+  "participioPasado": "inmigrado",
+  "indicativo": {
+    "presente": {
+      "yo": "inmigro",
+      "tu": "inmigras",
+      "ud": "inmigra",
+      "nosotros": "inmigramos",
+      "vosotros": "inmigráis",
+      "uds": "inmigran"
+    },
+    "futuro": {
+      "yo": "inmigraré",
+      "tu": "inmigrarás",
+      "ud": "inmigrará",
+      "nosotros": "inmigraremos",
+      "vosotros": "inmigraréis",
+      "uds": "inmigrarán"
+    },
+    "imperfecto": {
+      "yo": "inmigraba",
+      "tu": "inmigrabas",
+      "ud": "inmigraba",
+      "nosotros": "inmigrábamos",
+      "vosotros": "inmigrabais",
+      "uds": "inmigraban"
+    },
+    "preterito": {
+      "yo": "inmigré",
+      "tu": "inmigraste",
+      "ud": "inmigró",
+      "nosotros": "inmigramos",
+      "vosotros": "inmigrasteis",
+      "uds": "inmigraron"
+    },
+    "condicional": {
+      "yo": "inmigraría",
+      "tu": "inmigrarías",
+      "ud": "inmigraría",
+      "nosotros": "inmigraríamos",
+      "vosotros": "inmigraríais",
+      "uds": "inmigrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he inmigrado",
+      "tu": "has inmigrado",
+      "ud": "ha inmigrado",
+      "nosotros": "hemos inmigrado",
+      "vosotros": "habéis inmigrado",
+      "uds": "han inmigrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré inmigrado",
+      "tu": "habrás inmigrado",
+      "ud": "habrá inmigrado",
+      "nosotros": "habremos inmigrado",
+      "vosotros": "habréis inmigrado",
+      "uds": "habrán inmigrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había inmigrado",
+      "tu": "habías inmigrado",
+      "ud": "había inmigrado",
+      "nosotros": "habíamos inmigrado",
+      "vosotros": "habíais inmigrado",
+      "uds": "habían inmigrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube inmigrado",
+      "tu": "hubiste inmigrado",
+      "ud": "hubo inmigrado",
+      "nosotros": "hubimos inmigrado",
+      "vosotros": "hubisteis inmigrado",
+      "uds": "hubieron inmigrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría inmigrado",
+      "tu": "habrías inmigrado",
+      "ud": "habría inmigrado",
+      "nosotros": "habríamos inmigrado",
+      "vosotros": "habríais inmigrado",
+      "uds": "habrían inmigrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "inmigre",
+      "tu": "inmigres",
+      "ud": "inmigre",
+      "nosotros": "inmigremos",
+      "vosotros": "inmigréis",
+      "uds": "inmigren"
+    },
+    "imperfecto": {
+      "yo": "inmigrara",
+      "tu": "inmigraras",
+      "ud": "inmigrara",
+      "nosotros": "inmigráramos",
+      "vosotros": "inmigrarais",
+      "uds": "inmigraran"
+    },
+    "futuro": {
+      "yo": "inmigrare",
+      "tu": "inmigrares",
+      "ud": "inmigrare",
+      "nosotros": "inmigráremos",
+      "vosotros": "inmigrareis",
+      "uds": "inmigraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya inmigrado",
+      "tu": "hayas inmigrado",
+      "ud": "haya inmigrado",
+      "nosotros": "hayamos inmigrado",
+      "vosotros": "hayáis inmigrado",
+      "uds": "hayan inmigrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere inmigrado",
+      "tu": "hubieres inmigrado",
+      "ud": "hubiere inmigrado",
+      "nosotros": "hubiéremos inmigrado",
+      "vosotros": "hubiereis inmigrado",
+      "uds": "hubieren inmigrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera inmigrado",
+      "tu": "hubieras inmigrado",
+      "ud": "hubiera inmigrado",
+      "nosotros": "hubiéramos inmigrado",
+      "vosotros": "hubierais inmigrado",
+      "uds": "hubieran inmigrado"
+    },
+    "imperfectoAlt": {
+      "yo": "inmigrase",
+      "tu": "inmigrases",
+      "ud": "inmigrase",
+      "nosotros": "inmigrásemos",
+      "vosotros": "inmigraseis",
+      "uds": "inmigrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese inmigrado",
+      "tu": "hubieses inmigrado",
+      "ud": "hubiese inmigrado",
+      "nosotros": "hubiésemos inmigrado",
+      "vosotros": "hubieseis inmigrado",
+      "uds": "hubiesen inmigrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "inmigra",
+    "vosotros": "inmigrad",
+    "ud": "inmigre",
+    "uds": "inmigren"
+  },
+  "negativo": {
+    "tu": "no inmigres",
+    "vosotros": "no inmigréis",
+    "ud": "no inmigre",
+    "uds": "no inmigren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to immigrate",
+    "gerundio": "immigrating",
+    "participioPasado": "immigratingd",
+    "indicativo": {
+      "presente": "I immigrate, am immigrating",
+      "futuro": "I will immigrate",
+      "imperfecto": "I was immigrating, used to immigrate, immigratingd",
+      "preterito": "I immigratingd",
+      "condicional": "I would immigrate",
+      "presentePerfecto": "I have immigratingd",
+      "futuroPerfecto": "I will have immigratingd",
+      "pluscuamperfecto": "I had immigratingd",
+      "preteritoAnterior": "I had immigratingd",
+      "condicionalPerfecto": "I would have immigratingd"
+    },
+    "subjuntivo": {
+      "presente": "I immigrate, am immigrating",
+      "imperfecto": "I immigratingd, was immigrating",
+      "futuro": "I will immigrate",
+      "presentePerfecto": "I have immigratingd, immigratingd",
+      "futuroPerfecto": "I will have immigratingd",
+      "pluscuamperfecto": "I had immigratingd"
+    },
+    "afirmativo": "Immigrate!",
+    "negativo": "Don't immigrate!"
+  },
+  "attribution": "Fred Jehle"
+}

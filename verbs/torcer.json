@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "torcer",
+  "gerundio": "torciendo",
+  "participioPasado": "torcido",
+  "indicativo": {
+    "presente": {
+      "yo": "tuerzo",
+      "tu": "tuerces",
+      "ud": "tuerce",
+      "nosotros": "torcemos",
+      "vosotros": "torcéis",
+      "uds": "tuercen"
+    },
+    "futuro": {
+      "yo": "torceré",
+      "tu": "torcerás",
+      "ud": "torcerá",
+      "nosotros": "torceremos",
+      "vosotros": "torceréis",
+      "uds": "torcerán"
+    },
+    "imperfecto": {
+      "yo": "torcía",
+      "tu": "torcías",
+      "ud": "torcía",
+      "nosotros": "torcíamos",
+      "vosotros": "torcíais",
+      "uds": "torcían"
+    },
+    "preterito": {
+      "yo": "torcí",
+      "tu": "torciste",
+      "ud": "torció",
+      "nosotros": "torcimos",
+      "vosotros": "torcisteis",
+      "uds": "torcieron"
+    },
+    "condicional": {
+      "yo": "torcería",
+      "tu": "torcerías",
+      "ud": "torcería",
+      "nosotros": "torceríamos",
+      "vosotros": "torceríais",
+      "uds": "torcerían"
+    },
+    "presentePerfecto": {
+      "yo": "he torcido",
+      "tu": "has torcido",
+      "ud": "ha torcido",
+      "nosotros": "hemos torcido",
+      "vosotros": "habéis torcido",
+      "uds": "han torcido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré torcido",
+      "tu": "habrás torcido",
+      "ud": "habrá torcido",
+      "nosotros": "habremos torcido",
+      "vosotros": "habréis torcido",
+      "uds": "habrán torcido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había torcido",
+      "tu": "habías torcido",
+      "ud": "había torcido",
+      "nosotros": "habíamos torcido",
+      "vosotros": "habíais torcido",
+      "uds": "habían torcido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube torcido",
+      "tu": "hubiste torcido",
+      "ud": "hubo torcido",
+      "nosotros": "hubimos torcido",
+      "vosotros": "hubisteis torcido",
+      "uds": "hubieron torcido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría torcido",
+      "tu": "habrías torcido",
+      "ud": "habría torcido",
+      "nosotros": "habríamos torcido",
+      "vosotros": "habríais torcido",
+      "uds": "habrían torcido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "tuerza",
+      "tu": "tuerzas",
+      "ud": "tuerza",
+      "nosotros": "torzamos",
+      "vosotros": "torzáis",
+      "uds": "tuerzan"
+    },
+    "imperfecto": {
+      "yo": "torciera",
+      "tu": "torcieras",
+      "ud": "torciera",
+      "nosotros": "torciéramos",
+      "vosotros": "torcierais",
+      "uds": "torcieran"
+    },
+    "futuro": {
+      "yo": "torciere",
+      "tu": "torcieres",
+      "ud": "torciere",
+      "nosotros": "torciéremos",
+      "vosotros": "torciereis",
+      "uds": "torcieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya torcido",
+      "tu": "hayas torcido",
+      "ud": "haya torcido",
+      "nosotros": "hayamos torcido",
+      "vosotros": "hayáis torcido",
+      "uds": "hayan torcido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere torcido",
+      "tu": "hubieres torcido",
+      "ud": "hubiere torcido",
+      "nosotros": "hubiéremos torcido",
+      "vosotros": "hubiereis torcido",
+      "uds": "hubieren torcido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera torcido",
+      "tu": "hubieras torcido",
+      "ud": "hubiera torcido",
+      "nosotros": "hubiéramos torcido",
+      "vosotros": "hubierais torcido",
+      "uds": "hubieran torcido"
+    },
+    "imperfectoAlt": {
+      "yo": "torciese",
+      "tu": "torcieses",
+      "ud": "torciese",
+      "nosotros": "torciésemos",
+      "vosotros": "torcieseis",
+      "uds": "torciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese torcido",
+      "tu": "hubieses torcido",
+      "ud": "hubiese torcido",
+      "nosotros": "hubiésemos torcido",
+      "vosotros": "hubieseis torcido",
+      "uds": "hubiesen torcido"
+    }
+  },
+  "afirmativo": {
+    "tu": "tuerce",
+    "vosotros": "torced",
+    "ud": "tuerza",
+    "uds": "tuerzan"
+  },
+  "negativo": {
+    "tu": "no tuerzas",
+    "vosotros": "no torzáis",
+    "ud": "no tuerza",
+    "uds": "no tuerzan"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Cambio ortográfico: c > z delante de o y a.",
+    "infinitivo": "to twist, bend, warp, wring, sprain",
+    "gerundio": "twisting",
+    "participioPasado": "twisted",
+    "indicativo": {
+      "presente": "I twist, am twisting",
+      "futuro": "I will twist",
+      "imperfecto": "I was twisting, used to twist, twisted",
+      "preterito": "I twisted",
+      "condicional": "I would twist",
+      "presentePerfecto": "I have twisted",
+      "futuroPerfecto": "I will have twisted",
+      "pluscuamperfecto": "I had twisted",
+      "preteritoAnterior": "I had twisted",
+      "condicionalPerfecto": "I would have twisted"
+    },
+    "subjuntivo": {
+      "presente": "I twist, am twisting",
+      "imperfecto": "I twisted, was twisting",
+      "futuro": "I will twist",
+      "presentePerfecto": "I have twisted, twisted",
+      "futuroPerfecto": "I will have twisted",
+      "pluscuamperfecto": "I had twisted"
+    },
+    "afirmativo": "Twist!",
+    "negativo": "Don't twist!"
+  },
+  "attribution": "Fred Jehle"
+}

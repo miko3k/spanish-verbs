@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "triunfar",
+  "gerundio": "triunfando",
+  "participioPasado": "triunfado",
+  "indicativo": {
+    "presente": {
+      "yo": "triunfo",
+      "tu": "triunfas",
+      "ud": "triunfa",
+      "nosotros": "triunfamos",
+      "vosotros": "triunfáis",
+      "uds": "triunfan"
+    },
+    "futuro": {
+      "yo": "triunfaré",
+      "tu": "triunfarás",
+      "ud": "triunfará",
+      "nosotros": "triunfaremos",
+      "vosotros": "triunfaréis",
+      "uds": "triunfarán"
+    },
+    "imperfecto": {
+      "yo": "triunfaba",
+      "tu": "triunfabas",
+      "ud": "triunfaba",
+      "nosotros": "triunfábamos",
+      "vosotros": "triunfabais",
+      "uds": "triunfaban"
+    },
+    "preterito": {
+      "yo": "triunfé",
+      "tu": "triunfaste",
+      "ud": "triunfó",
+      "nosotros": "triunfamos",
+      "vosotros": "triunfasteis",
+      "uds": "triunfaron"
+    },
+    "condicional": {
+      "yo": "triunfaría",
+      "tu": "triunfarías",
+      "ud": "triunfaría",
+      "nosotros": "triunfaríamos",
+      "vosotros": "triunfaríais",
+      "uds": "triunfarían"
+    },
+    "presentePerfecto": {
+      "yo": "he triunfado",
+      "tu": "has triunfado",
+      "ud": "ha triunfado",
+      "nosotros": "hemos triunfado",
+      "vosotros": "habéis triunfado",
+      "uds": "han triunfado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré triunfado",
+      "tu": "habrás triunfado",
+      "ud": "habrá triunfado",
+      "nosotros": "habremos triunfado",
+      "vosotros": "habréis triunfado",
+      "uds": "habrán triunfado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había triunfado",
+      "tu": "habías triunfado",
+      "ud": "había triunfado",
+      "nosotros": "habíamos triunfado",
+      "vosotros": "habíais triunfado",
+      "uds": "habían triunfado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube triunfado",
+      "tu": "hubiste triunfado",
+      "ud": "hubo triunfado",
+      "nosotros": "hubimos triunfado",
+      "vosotros": "hubisteis triunfado",
+      "uds": "hubieron triunfado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría triunfado",
+      "tu": "habrías triunfado",
+      "ud": "habría triunfado",
+      "nosotros": "habríamos triunfado",
+      "vosotros": "habríais triunfado",
+      "uds": "habrían triunfado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "triunfe",
+      "tu": "triunfes",
+      "ud": "triunfe",
+      "nosotros": "triunfemos",
+      "vosotros": "triunféis",
+      "uds": "triunfen"
+    },
+    "imperfecto": {
+      "yo": "triunfara",
+      "tu": "triunfaras",
+      "ud": "triunfara",
+      "nosotros": "triunfáramos",
+      "vosotros": "triunfarais",
+      "uds": "triunfaran"
+    },
+    "futuro": {
+      "yo": "triunfare",
+      "tu": "triunfares",
+      "ud": "triunfare",
+      "nosotros": "triunfáremos",
+      "vosotros": "triunfareis",
+      "uds": "triunfaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya triunfado",
+      "tu": "hayas triunfado",
+      "ud": "haya triunfado",
+      "nosotros": "hayamos triunfado",
+      "vosotros": "hayáis triunfado",
+      "uds": "hayan triunfado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere triunfado",
+      "tu": "hubieres triunfado",
+      "ud": "hubiere triunfado",
+      "nosotros": "hubiéremos triunfado",
+      "vosotros": "hubiereis triunfado",
+      "uds": "hubieren triunfado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera triunfado",
+      "tu": "hubieras triunfado",
+      "ud": "hubiera triunfado",
+      "nosotros": "hubiéramos triunfado",
+      "vosotros": "hubierais triunfado",
+      "uds": "hubieran triunfado"
+    },
+    "imperfectoAlt": {
+      "yo": "triunfase",
+      "tu": "triunfases",
+      "ud": "triunfase",
+      "nosotros": "triunfásemos",
+      "vosotros": "triunfaseis",
+      "uds": "triunfasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese triunfado",
+      "tu": "hubieses triunfado",
+      "ud": "hubiese triunfado",
+      "nosotros": "hubiésemos triunfado",
+      "vosotros": "hubieseis triunfado",
+      "uds": "hubiesen triunfado"
+    }
+  },
+  "afirmativo": {
+    "tu": "triunfa",
+    "vosotros": "triunfad",
+    "ud": "triunfe",
+    "uds": "triunfen"
+  },
+  "negativo": {
+    "tu": "no triunfes",
+    "vosotros": "no triunféis",
+    "ud": "no triunfe",
+    "uds": "no triunfen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to triumph, win",
+    "gerundio": "triumphing",
+    "participioPasado": "triumphed",
+    "indicativo": {
+      "presente": "I triumph, am triumphing",
+      "futuro": "I will triumph",
+      "imperfecto": "I was triumphing, used to triumph, triumphed",
+      "preterito": "I triumphed",
+      "condicional": "I would triumph",
+      "presentePerfecto": "I have triumphed",
+      "futuroPerfecto": "I will have triumphed",
+      "pluscuamperfecto": "I had triumphed",
+      "preteritoAnterior": "I had triumphed",
+      "condicionalPerfecto": "I would have triumphed"
+    },
+    "subjuntivo": {
+      "presente": "I triumph, am triumphing",
+      "imperfecto": "I triumphed, was triumphing",
+      "futuro": "I will triumph",
+      "presentePerfecto": "I have triumphed, triumphed",
+      "futuroPerfecto": "I will have triumphed",
+      "pluscuamperfecto": "I had triumphed"
+    },
+    "afirmativo": "Triumph!",
+    "negativo": "Don't triumph!"
+  },
+  "attribution": "Fred Jehle"
+}

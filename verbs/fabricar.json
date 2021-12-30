@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "fabricar",
+  "gerundio": "fabricando",
+  "participioPasado": "fabricado",
+  "indicativo": {
+    "presente": {
+      "yo": "fabrico",
+      "tu": "fabricas",
+      "ud": "fabrica",
+      "nosotros": "fabricamos",
+      "vosotros": "fabricáis",
+      "uds": "fabrican"
+    },
+    "futuro": {
+      "yo": "fabricaré",
+      "tu": "fabricarás",
+      "ud": "fabricará",
+      "nosotros": "fabricaremos",
+      "vosotros": "fabricaréis",
+      "uds": "fabricarán"
+    },
+    "imperfecto": {
+      "yo": "fabricaba",
+      "tu": "fabricabas",
+      "ud": "fabricaba",
+      "nosotros": "fabricábamos",
+      "vosotros": "fabricabais",
+      "uds": "fabricaban"
+    },
+    "preterito": {
+      "yo": "fabriqué",
+      "tu": "fabricaste",
+      "ud": "fabricó",
+      "nosotros": "fabricamos",
+      "vosotros": "fabricasteis",
+      "uds": "fabricaron"
+    },
+    "condicional": {
+      "yo": "fabricaría",
+      "tu": "fabricarías",
+      "ud": "fabricaría",
+      "nosotros": "fabricaríamos",
+      "vosotros": "fabricaríais",
+      "uds": "fabricarían"
+    },
+    "presentePerfecto": {
+      "yo": "he fabricado",
+      "tu": "has fabricado",
+      "ud": "ha fabricado",
+      "nosotros": "hemos fabricado",
+      "vosotros": "habéis fabricado",
+      "uds": "han fabricado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré fabricado",
+      "tu": "habrás fabricado",
+      "ud": "habrá fabricado",
+      "nosotros": "habremos fabricado",
+      "vosotros": "habréis fabricado",
+      "uds": "habrán fabricado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había fabricado",
+      "tu": "habías fabricado",
+      "ud": "había fabricado",
+      "nosotros": "habíamos fabricado",
+      "vosotros": "habíais fabricado",
+      "uds": "habían fabricado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube fabricado",
+      "tu": "hubiste fabricado",
+      "ud": "hubo fabricado",
+      "nosotros": "hubimos fabricado",
+      "vosotros": "hubisteis fabricado",
+      "uds": "hubieron fabricado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría fabricado",
+      "tu": "habrías fabricado",
+      "ud": "habría fabricado",
+      "nosotros": "habríamos fabricado",
+      "vosotros": "habríais fabricado",
+      "uds": "habrían fabricado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "fabrique",
+      "tu": "fabriques",
+      "ud": "fabrique",
+      "nosotros": "fabriquemos",
+      "vosotros": "fabriquéis",
+      "uds": "fabriquen"
+    },
+    "imperfecto": {
+      "yo": "fabricara",
+      "tu": "fabricaras",
+      "ud": "fabricara",
+      "nosotros": "fabricáramos",
+      "vosotros": "fabricarais",
+      "uds": "fabricaran"
+    },
+    "futuro": {
+      "yo": "fabricare",
+      "tu": "fabricares",
+      "ud": "fabricare",
+      "nosotros": "fabricáremos",
+      "vosotros": "fabricareis",
+      "uds": "fabricaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya fabricado",
+      "tu": "hayas fabricado",
+      "ud": "haya fabricado",
+      "nosotros": "hayamos fabricado",
+      "vosotros": "hayáis fabricado",
+      "uds": "hayan fabricado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere fabricado",
+      "tu": "hubieres fabricado",
+      "ud": "hubiere fabricado",
+      "nosotros": "hubiéremos fabricado",
+      "vosotros": "hubiereis fabricado",
+      "uds": "hubieren fabricado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera fabricado",
+      "tu": "hubieras fabricado",
+      "ud": "hubiera fabricado",
+      "nosotros": "hubiéramos fabricado",
+      "vosotros": "hubierais fabricado",
+      "uds": "hubieran fabricado"
+    },
+    "imperfectoAlt": {
+      "yo": "fabricase",
+      "tu": "fabricases",
+      "ud": "fabricase",
+      "nosotros": "fabricásemos",
+      "vosotros": "fabricaseis",
+      "uds": "fabricasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese fabricado",
+      "tu": "hubieses fabricado",
+      "ud": "hubiese fabricado",
+      "nosotros": "hubiésemos fabricado",
+      "vosotros": "hubieseis fabricado",
+      "uds": "hubiesen fabricado"
+    }
+  },
+  "afirmativo": {
+    "tu": "fabrica",
+    "vosotros": "fabricad",
+    "ud": "fabrique",
+    "uds": "fabriquen"
+  },
+  "negativo": {
+    "tu": "no fabriques",
+    "vosotros": "no fabriquéis",
+    "ud": "no fabrique",
+    "uds": "no fabriquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to manufacture",
+    "gerundio": "manufacturing",
+    "participioPasado": "manufactured",
+    "indicativo": {
+      "presente": "I manufacture, am manufacturing",
+      "futuro": "I will manufacture",
+      "imperfecto": "I was manufacturing, used to manufacture, manufactured",
+      "preterito": "I manufactured",
+      "condicional": "I would manufacture",
+      "presentePerfecto": "I have manufactured",
+      "futuroPerfecto": "I will have manufactured",
+      "pluscuamperfecto": "I had manufactured",
+      "preteritoAnterior": "I had manufactured",
+      "condicionalPerfecto": "I would have manufactured"
+    },
+    "subjuntivo": {
+      "presente": "I manufacture, am manufacturing",
+      "imperfecto": "I manufactured, was manufacturing",
+      "futuro": "I will manufacture",
+      "presentePerfecto": "I have manufactured, manufactured",
+      "futuroPerfecto": "I will have manufactured",
+      "pluscuamperfecto": "I had manufactured"
+    },
+    "afirmativo": "Manufacture!",
+    "negativo": "Don't manufacture!"
+  },
+  "attribution": "Fred Jehle"
+}

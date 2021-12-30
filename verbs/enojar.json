@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "enojar",
+  "gerundio": "enojando",
+  "participioPasado": "enojado",
+  "indicativo": {
+    "presente": {
+      "yo": "enojo",
+      "tu": "enojas",
+      "ud": "enoja",
+      "nosotros": "enojamos",
+      "vosotros": "enojáis",
+      "uds": "enojan"
+    },
+    "futuro": {
+      "yo": "enojaré",
+      "tu": "enojarás",
+      "ud": "enojará",
+      "nosotros": "enojaremos",
+      "vosotros": "enojaréis",
+      "uds": "enojarán"
+    },
+    "imperfecto": {
+      "yo": "enojaba",
+      "tu": "enojabas",
+      "ud": "enojaba",
+      "nosotros": "enojábamos",
+      "vosotros": "enojabais",
+      "uds": "enojaban"
+    },
+    "preterito": {
+      "yo": "enojé",
+      "tu": "enojaste",
+      "ud": "enojó",
+      "nosotros": "enojamos",
+      "vosotros": "enojasteis",
+      "uds": "enojaron"
+    },
+    "condicional": {
+      "yo": "enojaría",
+      "tu": "enojarías",
+      "ud": "enojaría",
+      "nosotros": "enojaríamos",
+      "vosotros": "enojaríais",
+      "uds": "enojarían"
+    },
+    "presentePerfecto": {
+      "yo": "he enojado",
+      "tu": "has enojado",
+      "ud": "ha enojado",
+      "nosotros": "hemos enojado",
+      "vosotros": "habéis enojado",
+      "uds": "han enojado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré enojado",
+      "tu": "habrás enojado",
+      "ud": "habrá enojado",
+      "nosotros": "habremos enojado",
+      "vosotros": "habréis enojado",
+      "uds": "habrán enojado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había enojado",
+      "tu": "habías enojado",
+      "ud": "había enojado",
+      "nosotros": "habíamos enojado",
+      "vosotros": "habíais enojado",
+      "uds": "habían enojado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube enojado",
+      "tu": "hubiste enojado",
+      "ud": "hubo enojado",
+      "nosotros": "hubimos enojado",
+      "vosotros": "hubisteis enojado",
+      "uds": "hubieron enojado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría enojado",
+      "tu": "habrías enojado",
+      "ud": "habría enojado",
+      "nosotros": "habríamos enojado",
+      "vosotros": "habríais enojado",
+      "uds": "habrían enojado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "enoje",
+      "tu": "enojes",
+      "ud": "enoje",
+      "nosotros": "enojemos",
+      "vosotros": "enojéis",
+      "uds": "enojen"
+    },
+    "imperfecto": {
+      "yo": "enojara",
+      "tu": "enojaras",
+      "ud": "enojara",
+      "nosotros": "enojáramos",
+      "vosotros": "enojarais",
+      "uds": "enojaran"
+    },
+    "futuro": {
+      "yo": "enojare",
+      "tu": "enojares",
+      "ud": "enojare",
+      "nosotros": "enojáremos",
+      "vosotros": "enojareis",
+      "uds": "enojaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya enojado",
+      "tu": "hayas enojado",
+      "ud": "haya enojado",
+      "nosotros": "hayamos enojado",
+      "vosotros": "hayáis enojado",
+      "uds": "hayan enojado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere enojado",
+      "tu": "hubieres enojado",
+      "ud": "hubiere enojado",
+      "nosotros": "hubiéremos enojado",
+      "vosotros": "hubiereis enojado",
+      "uds": "hubieren enojado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera enojado",
+      "tu": "hubieras enojado",
+      "ud": "hubiera enojado",
+      "nosotros": "hubiéramos enojado",
+      "vosotros": "hubierais enojado",
+      "uds": "hubieran enojado"
+    },
+    "imperfectoAlt": {
+      "yo": "enojase",
+      "tu": "enojases",
+      "ud": "enojase",
+      "nosotros": "enojásemos",
+      "vosotros": "enojaseis",
+      "uds": "enojasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese enojado",
+      "tu": "hubieses enojado",
+      "ud": "hubiese enojado",
+      "nosotros": "hubiésemos enojado",
+      "vosotros": "hubieseis enojado",
+      "uds": "hubiesen enojado"
+    }
+  },
+  "afirmativo": {
+    "tu": "enoja",
+    "vosotros": "enojad",
+    "ud": "enoje",
+    "uds": "enojen"
+  },
+  "negativo": {
+    "tu": "no enojes",
+    "vosotros": "no enojéis",
+    "ud": "no enoje",
+    "uds": "no enojen"
+  },
+  "english": {
+    "note": "Note: For to get angry, use the reflexive form enojarse.",
+    "infinitivo": "to anger, upset, annoy; to make angry",
+    "gerundio": "angering",
+    "participioPasado": "angered",
+    "indicativo": {
+      "presente": "I anger, am angering",
+      "futuro": "I will anger",
+      "imperfecto": "I was angering, used to anger, angered",
+      "preterito": "I angered",
+      "condicional": "I would anger",
+      "presentePerfecto": "I have angered",
+      "futuroPerfecto": "I will have angered",
+      "pluscuamperfecto": "I had angered",
+      "preteritoAnterior": "I had angered",
+      "condicionalPerfecto": "I would have angered"
+    },
+    "subjuntivo": {
+      "presente": "I anger, am angering",
+      "imperfecto": "I angered, was angering",
+      "futuro": "I will anger",
+      "presentePerfecto": "I have angered, angered",
+      "futuroPerfecto": "I will have angered",
+      "pluscuamperfecto": "I had angered"
+    },
+    "afirmativo": "Anger!",
+    "negativo": "Don't anger!"
+  },
+  "attribution": "Fred Jehle"
+}

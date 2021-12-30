@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "detestar",
+  "gerundio": "detestando",
+  "participioPasado": "detestado",
+  "indicativo": {
+    "presente": {
+      "yo": "detesto",
+      "tu": "detestas",
+      "ud": "detesta",
+      "nosotros": "detestamos",
+      "vosotros": "detestáis",
+      "uds": "detestan"
+    },
+    "futuro": {
+      "yo": "detestaré",
+      "tu": "detestarás",
+      "ud": "detestará",
+      "nosotros": "detestaremos",
+      "vosotros": "detestaréis",
+      "uds": "detestarán"
+    },
+    "imperfecto": {
+      "yo": "detestaba",
+      "tu": "detestabas",
+      "ud": "detestaba",
+      "nosotros": "detestábamos",
+      "vosotros": "detestabais",
+      "uds": "detestaban"
+    },
+    "preterito": {
+      "yo": "detesté",
+      "tu": "detestaste",
+      "ud": "detestó",
+      "nosotros": "detestamos",
+      "vosotros": "detestasteis",
+      "uds": "detestaron"
+    },
+    "condicional": {
+      "yo": "detestaría",
+      "tu": "detestarías",
+      "ud": "detestaría",
+      "nosotros": "detestaríamos",
+      "vosotros": "detestaríais",
+      "uds": "detestarían"
+    },
+    "presentePerfecto": {
+      "yo": "he detestado",
+      "tu": "has detestado",
+      "ud": "ha detestado",
+      "nosotros": "hemos detestado",
+      "vosotros": "habéis detestado",
+      "uds": "han detestado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré detestado",
+      "tu": "habrás detestado",
+      "ud": "habrá detestado",
+      "nosotros": "habremos detestado",
+      "vosotros": "habréis detestado",
+      "uds": "habrán detestado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había detestado",
+      "tu": "habías detestado",
+      "ud": "había detestado",
+      "nosotros": "habíamos detestado",
+      "vosotros": "habíais detestado",
+      "uds": "habían detestado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube detestado",
+      "tu": "hubiste detestado",
+      "ud": "hubo detestado",
+      "nosotros": "hubimos detestado",
+      "vosotros": "hubisteis detestado",
+      "uds": "hubieron detestado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría detestado",
+      "tu": "habrías detestado",
+      "ud": "habría detestado",
+      "nosotros": "habríamos detestado",
+      "vosotros": "habríais detestado",
+      "uds": "habrían detestado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "deteste",
+      "tu": "detestes",
+      "ud": "deteste",
+      "nosotros": "detestemos",
+      "vosotros": "detestéis",
+      "uds": "detesten"
+    },
+    "imperfecto": {
+      "yo": "detestara",
+      "tu": "detestaras",
+      "ud": "detestara",
+      "nosotros": "detestáramos",
+      "vosotros": "detestarais",
+      "uds": "detestaran"
+    },
+    "futuro": {
+      "yo": "detestare",
+      "tu": "detestares",
+      "ud": "detestare",
+      "nosotros": "detestáremos",
+      "vosotros": "detestareis",
+      "uds": "detestaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya detestado",
+      "tu": "hayas detestado",
+      "ud": "haya detestado",
+      "nosotros": "hayamos detestado",
+      "vosotros": "hayáis detestado",
+      "uds": "hayan detestado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere detestado",
+      "tu": "hubieres detestado",
+      "ud": "hubiere detestado",
+      "nosotros": "hubiéremos detestado",
+      "vosotros": "hubiereis detestado",
+      "uds": "hubieren detestado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera detestado",
+      "tu": "hubieras detestado",
+      "ud": "hubiera detestado",
+      "nosotros": "hubiéramos detestado",
+      "vosotros": "hubierais detestado",
+      "uds": "hubieran detestado"
+    },
+    "imperfectoAlt": {
+      "yo": "detestase",
+      "tu": "detestases",
+      "ud": "detestase",
+      "nosotros": "detestásemos",
+      "vosotros": "detestaseis",
+      "uds": "detestasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese detestado",
+      "tu": "hubieses detestado",
+      "ud": "hubiese detestado",
+      "nosotros": "hubiésemos detestado",
+      "vosotros": "hubieseis detestado",
+      "uds": "hubiesen detestado"
+    }
+  },
+  "afirmativo": {
+    "tu": "detesta",
+    "vosotros": "detestad",
+    "ud": "deteste",
+    "uds": "detesten"
+  },
+  "negativo": {
+    "tu": "no detestes",
+    "vosotros": "no detestéis",
+    "ud": "no deteste",
+    "uds": "no detesten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to detest, hate",
+    "gerundio": "detesting",
+    "participioPasado": "detested",
+    "indicativo": {
+      "presente": "I detest, am detesting",
+      "futuro": "I will detest",
+      "imperfecto": "I was detesting, used to detest, detested",
+      "preterito": "I detested",
+      "condicional": "I would detest",
+      "presentePerfecto": "I have detested",
+      "futuroPerfecto": "I will have detested",
+      "pluscuamperfecto": "I had detested",
+      "preteritoAnterior": "I had detested",
+      "condicionalPerfecto": "I would have detested"
+    },
+    "subjuntivo": {
+      "presente": "I detest, am detesting",
+      "imperfecto": "I detested, was detesting",
+      "futuro": "I will detest",
+      "presentePerfecto": "I have detested, detested",
+      "futuroPerfecto": "I will have detested",
+      "pluscuamperfecto": "I had detested"
+    },
+    "afirmativo": "Detest!",
+    "negativo": "Don't detest!"
+  },
+  "attribution": "Fred Jehle"
+}

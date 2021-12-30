@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "brillar",
+  "gerundio": "brillando",
+  "participioPasado": "brillado",
+  "indicativo": {
+    "presente": {
+      "yo": "brillo",
+      "tu": "brillas",
+      "ud": "brilla",
+      "nosotros": "brillamos",
+      "vosotros": "brilláis",
+      "uds": "brillan"
+    },
+    "futuro": {
+      "yo": "brillaré",
+      "tu": "brillarás",
+      "ud": "brillará",
+      "nosotros": "brillaremos",
+      "vosotros": "brillaréis",
+      "uds": "brillarán"
+    },
+    "imperfecto": {
+      "yo": "brillaba",
+      "tu": "brillabas",
+      "ud": "brillaba",
+      "nosotros": "brillábamos",
+      "vosotros": "brillabais",
+      "uds": "brillaban"
+    },
+    "preterito": {
+      "yo": "brillé",
+      "tu": "brillaste",
+      "ud": "brilló",
+      "nosotros": "brillamos",
+      "vosotros": "brillasteis",
+      "uds": "brillaron"
+    },
+    "condicional": {
+      "yo": "brillaría",
+      "tu": "brillarías",
+      "ud": "brillaría",
+      "nosotros": "brillaríamos",
+      "vosotros": "brillaríais",
+      "uds": "brillarían"
+    },
+    "presentePerfecto": {
+      "yo": "he brillado",
+      "tu": "has brillado",
+      "ud": "ha brillado",
+      "nosotros": "hemos brillado",
+      "vosotros": "habéis brillado",
+      "uds": "han brillado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré brillado",
+      "tu": "habrás brillado",
+      "ud": "habrá brillado",
+      "nosotros": "habremos brillado",
+      "vosotros": "habréis brillado",
+      "uds": "habrán brillado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había brillado",
+      "tu": "habías brillado",
+      "ud": "había brillado",
+      "nosotros": "habíamos brillado",
+      "vosotros": "habíais brillado",
+      "uds": "habían brillado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube brillado",
+      "tu": "hubiste brillado",
+      "ud": "hubo brillado",
+      "nosotros": "hubimos brillado",
+      "vosotros": "hubisteis brillado",
+      "uds": "hubieron brillado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría brillado",
+      "tu": "habrías brillado",
+      "ud": "habría brillado",
+      "nosotros": "habríamos brillado",
+      "vosotros": "habríais brillado",
+      "uds": "habrían brillado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "brille",
+      "tu": "brilles",
+      "ud": "brille",
+      "nosotros": "brillemos",
+      "vosotros": "brilléis",
+      "uds": "brillen"
+    },
+    "imperfecto": {
+      "yo": "brillara",
+      "tu": "brillaras",
+      "ud": "brillara",
+      "nosotros": "brilláramos",
+      "vosotros": "brillarais",
+      "uds": "brillaran"
+    },
+    "futuro": {
+      "yo": "brillare",
+      "tu": "brillares",
+      "ud": "brillare",
+      "nosotros": "brilláremos",
+      "vosotros": "brillareis",
+      "uds": "brillaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya brillado",
+      "tu": "hayas brillado",
+      "ud": "haya brillado",
+      "nosotros": "hayamos brillado",
+      "vosotros": "hayáis brillado",
+      "uds": "hayan brillado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere brillado",
+      "tu": "hubieres brillado",
+      "ud": "hubiere brillado",
+      "nosotros": "hubiéremos brillado",
+      "vosotros": "hubiereis brillado",
+      "uds": "hubieren brillado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera brillado",
+      "tu": "hubieras brillado",
+      "ud": "hubiera brillado",
+      "nosotros": "hubiéramos brillado",
+      "vosotros": "hubierais brillado",
+      "uds": "hubieran brillado"
+    },
+    "imperfectoAlt": {
+      "yo": "brillase",
+      "tu": "brillases",
+      "ud": "brillase",
+      "nosotros": "brillásemos",
+      "vosotros": "brillaseis",
+      "uds": "brillasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese brillado",
+      "tu": "hubieses brillado",
+      "ud": "hubiese brillado",
+      "nosotros": "hubiésemos brillado",
+      "vosotros": "hubieseis brillado",
+      "uds": "hubiesen brillado"
+    }
+  },
+  "afirmativo": {
+    "tu": "brilla",
+    "vosotros": "brillad",
+    "ud": "brille",
+    "uds": "brillen"
+  },
+  "negativo": {
+    "tu": "no brilles",
+    "vosotros": "no brilléis",
+    "ud": "no brille",
+    "uds": "no brillen"
+  },
+  "english": {
+    "note": "Note that this verb is intransitive and cannot take a direct object.",
+    "infinitivo": "to shine, sparkle, glitter, gleam",
+    "gerundio": "shining",
+    "participioPasado": "shone",
+    "indicativo": {
+      "presente": "I shine, am shining",
+      "futuro": "I will shine",
+      "imperfecto": "I was shining, used to shine, shined",
+      "preterito": "I shined",
+      "condicional": "I would shine",
+      "presentePerfecto": "I have shone",
+      "futuroPerfecto": "I will have shone",
+      "pluscuamperfecto": "I had shone",
+      "preteritoAnterior": "I had shone",
+      "condicionalPerfecto": "I would have shone"
+    },
+    "subjuntivo": {
+      "presente": "I shine, am shining",
+      "imperfecto": "I shined, was shining",
+      "futuro": "I will shine",
+      "presentePerfecto": "I have shone, shined",
+      "futuroPerfecto": "I will have shone",
+      "pluscuamperfecto": "I had shone"
+    },
+    "afirmativo": "Shine!",
+    "negativo": "Don't shine!"
+  },
+  "attribution": "Fred Jehle"
+}

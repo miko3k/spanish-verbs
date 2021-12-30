@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "averiguar",
+  "gerundio": "averiguando",
+  "participioPasado": "averiguado",
+  "indicativo": {
+    "presente": {
+      "yo": "averiguo",
+      "tu": "averiguas",
+      "ud": "averigua",
+      "nosotros": "averiguamos",
+      "vosotros": "averiguáis",
+      "uds": "averiguan"
+    },
+    "futuro": {
+      "yo": "averiguaré",
+      "tu": "averiguarás",
+      "ud": "averiguará",
+      "nosotros": "averiguaremos",
+      "vosotros": "averiguaréis",
+      "uds": "averiguarán"
+    },
+    "imperfecto": {
+      "yo": "averiguaba",
+      "tu": "averiguabas",
+      "ud": "averiguaba",
+      "nosotros": "averiguábamos",
+      "vosotros": "averiguabais",
+      "uds": "averiguaban"
+    },
+    "preterito": {
+      "yo": "averigüé",
+      "tu": "averiguaste",
+      "ud": "averiguó",
+      "nosotros": "averiguamos",
+      "vosotros": "averiguasteis",
+      "uds": "averiguaron"
+    },
+    "condicional": {
+      "yo": "averiguaría",
+      "tu": "averiguarías",
+      "ud": "averiguaría",
+      "nosotros": "averiguaríamos",
+      "vosotros": "averiguaríais",
+      "uds": "averiguarían"
+    },
+    "presentePerfecto": {
+      "yo": "he averiguado",
+      "tu": "has averiguado",
+      "ud": "ha averiguado",
+      "nosotros": "hemos averiguado",
+      "vosotros": "habéis averiguado",
+      "uds": "han averiguado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré averiguado",
+      "tu": "habrás averiguado",
+      "ud": "habrá averiguado",
+      "nosotros": "habremos averiguado",
+      "vosotros": "habréis averiguado",
+      "uds": "habrán averiguado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había averiguado",
+      "tu": "habías averiguado",
+      "ud": "había averiguado",
+      "nosotros": "habíamos averiguado",
+      "vosotros": "habíais averiguado",
+      "uds": "habían averiguado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube averiguado",
+      "tu": "hubiste averiguado",
+      "ud": "hubo averiguado",
+      "nosotros": "hubimos averiguado",
+      "vosotros": "hubisteis averiguado",
+      "uds": "hubieron averiguado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría averiguado",
+      "tu": "habrías averiguado",
+      "ud": "habría averiguado",
+      "nosotros": "habríamos averiguado",
+      "vosotros": "habríais averiguado",
+      "uds": "habrían averiguado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "averigüe",
+      "tu": "averigües",
+      "ud": "averigüe",
+      "nosotros": "averigüemos",
+      "vosotros": "averigüéis",
+      "uds": "averigüen"
+    },
+    "imperfecto": {
+      "yo": "averiguara",
+      "tu": "averiguaras",
+      "ud": "averiguara",
+      "nosotros": "averiguáramos",
+      "vosotros": "averiguarais",
+      "uds": "averiguaran"
+    },
+    "futuro": {
+      "yo": "averiguare",
+      "tu": "averiguares",
+      "ud": "averiguare",
+      "nosotros": "averiguáremos",
+      "vosotros": "averiguareis",
+      "uds": "averiguaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya averiguado",
+      "tu": "hayas averiguado",
+      "ud": "haya averiguado",
+      "nosotros": "hayamos averiguado",
+      "vosotros": "hayáis averiguado",
+      "uds": "hayan averiguado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere averiguado",
+      "tu": "hubieres averiguado",
+      "ud": "hubiere averiguado",
+      "nosotros": "hubiéremos averiguado",
+      "vosotros": "hubiereis averiguado",
+      "uds": "hubieren averiguado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera averiguado",
+      "tu": "hubieras averiguado",
+      "ud": "hubiera averiguado",
+      "nosotros": "hubiéramos averiguado",
+      "vosotros": "hubierais averiguado",
+      "uds": "hubieran averiguado"
+    },
+    "imperfectoAlt": {
+      "yo": "averiguase",
+      "tu": "averiguases",
+      "ud": "averiguase",
+      "nosotros": "averiguásemos",
+      "vosotros": "averiguaseis",
+      "uds": "averiguasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese averiguado",
+      "tu": "hubieses averiguado",
+      "ud": "hubiese averiguado",
+      "nosotros": "hubiésemos averiguado",
+      "vosotros": "hubieseis averiguado",
+      "uds": "hubiesen averiguado"
+    }
+  },
+  "afirmativo": {
+    "tu": "averigua",
+    "vosotros": "averiguad",
+    "ud": "averigüe",
+    "uds": "averigüen"
+  },
+  "negativo": {
+    "tu": "no averigües",
+    "vosotros": "no averigüéis",
+    "ud": "no averigüe",
+    "uds": "no averigüen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: gu > gü delante de e.",
+    "infinitivo": "to find out, discover",
+    "gerundio": "finding out",
+    "participioPasado": "found out",
+    "indicativo": {
+      "presente": "I find out, am finding out",
+      "futuro": "I will find out",
+      "imperfecto": "I was finding out, used to find out, found out",
+      "preterito": "I found out",
+      "condicional": "I would find out",
+      "presentePerfecto": "I have found out",
+      "futuroPerfecto": "I will have found out",
+      "pluscuamperfecto": "I had found out",
+      "preteritoAnterior": "I had found out",
+      "condicionalPerfecto": "I would have found out"
+    },
+    "subjuntivo": {
+      "presente": "I find out, am finding out",
+      "imperfecto": "I found out, was finding out",
+      "futuro": "I will find out",
+      "presentePerfecto": "I have found out, found out",
+      "futuroPerfecto": "I will have found out",
+      "pluscuamperfecto": "I had found out"
+    },
+    "afirmativo": "Find out!",
+    "negativo": "Don't find out!"
+  },
+  "attribution": "Fred Jehle"
+}

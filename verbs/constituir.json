@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "constituir",
+  "gerundio": "constituyendo",
+  "participioPasado": "constituido",
+  "indicativo": {
+    "presente": {
+      "yo": "constituyo",
+      "tu": "constituyes",
+      "ud": "constituye",
+      "nosotros": "constituimos",
+      "vosotros": "constituís",
+      "uds": "constituyen"
+    },
+    "futuro": {
+      "yo": "constituiré",
+      "tu": "constituirás",
+      "ud": "constituirá",
+      "nosotros": "constituiremos",
+      "vosotros": "constituiréis",
+      "uds": "constituirán"
+    },
+    "imperfecto": {
+      "yo": "constituía",
+      "tu": "constituías",
+      "ud": "constituía",
+      "nosotros": "constituíamos",
+      "vosotros": "constituíais",
+      "uds": "constituían"
+    },
+    "preterito": {
+      "yo": "constituí",
+      "tu": "constituiste",
+      "ud": "constituyó",
+      "nosotros": "constituimos",
+      "vosotros": "constituisteis",
+      "uds": "constituyeron"
+    },
+    "condicional": {
+      "yo": "constituiría",
+      "tu": "constituirías",
+      "ud": "constituiría",
+      "nosotros": "constituiríamos",
+      "vosotros": "constituiríais",
+      "uds": "constituirían"
+    },
+    "presentePerfecto": {
+      "yo": "he constituido",
+      "tu": "has constituido",
+      "ud": "ha constituido",
+      "nosotros": "hemos constituido",
+      "vosotros": "habéis constituido",
+      "uds": "han constituido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré constituido",
+      "tu": "habrás constituido",
+      "ud": "habrá constituido",
+      "nosotros": "habremos constituido",
+      "vosotros": "habréis constituido",
+      "uds": "habrán constituido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había constituido",
+      "tu": "habías constituido",
+      "ud": "había constituido",
+      "nosotros": "habíamos constituido",
+      "vosotros": "habíais constituido",
+      "uds": "habían constituido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube constituido",
+      "tu": "hubiste constituido",
+      "ud": "hubo constituido",
+      "nosotros": "hubimos constituido",
+      "vosotros": "hubisteis constituido",
+      "uds": "hubieron constituido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría constituido",
+      "tu": "habrías constituido",
+      "ud": "habría constituido",
+      "nosotros": "habríamos constituido",
+      "vosotros": "habríais constituido",
+      "uds": "habrían constituido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "constituya",
+      "tu": "constituyas",
+      "ud": "constituya",
+      "nosotros": "constituyamos",
+      "vosotros": "constituyáis",
+      "uds": "constituyan"
+    },
+    "imperfecto": {
+      "yo": "constituyera",
+      "tu": "constituyeras",
+      "ud": "constituyera",
+      "nosotros": "constituyéramos",
+      "vosotros": "constituyerais",
+      "uds": "constituyeran"
+    },
+    "futuro": {
+      "yo": "constituyere",
+      "tu": "constituyeres",
+      "ud": "constituyere",
+      "nosotros": "constituyéremos",
+      "vosotros": "constituyereis",
+      "uds": "constituyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya constituido",
+      "tu": "hayas constituido",
+      "ud": "haya constituido",
+      "nosotros": "hayamos constituido",
+      "vosotros": "hayáis constituido",
+      "uds": "hayan constituido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere constituido",
+      "tu": "hubieres constituido",
+      "ud": "hubiere constituido",
+      "nosotros": "hubiéremos constituido",
+      "vosotros": "hubiereis constituido",
+      "uds": "hubieren constituido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera constituido",
+      "tu": "hubieras constituido",
+      "ud": "hubiera constituido",
+      "nosotros": "hubiéramos constituido",
+      "vosotros": "hubierais constituido",
+      "uds": "hubieran constituido"
+    },
+    "imperfectoAlt": {
+      "yo": "constituyese",
+      "tu": "constituyeses",
+      "ud": "constituyese",
+      "nosotros": "constituyésemos",
+      "vosotros": "constituyeseis",
+      "uds": "constituyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese constituido",
+      "tu": "hubieses constituido",
+      "ud": "hubiese constituido",
+      "nosotros": "hubiésemos constituido",
+      "vosotros": "hubieseis constituido",
+      "uds": "hubiesen constituido"
+    }
+  },
+  "afirmativo": {
+    "tu": "constituye",
+    "vosotros": "constituid",
+    "ud": "constituya",
+    "uds": "constituyan"
+  },
+  "negativo": {
+    "tu": "no constituyas",
+    "vosotros": "no constituyáis",
+    "ud": "no constituya",
+    "uds": "no constituyan"
+  },
+  "english": {
+    "note": "Cambios: u > uy delante a, o y e; la i intervocálica (y sin acento escrito) > y.",
+    "infinitivo": "to constitute",
+    "gerundio": "constituting",
+    "participioPasado": "constituted",
+    "indicativo": {
+      "presente": "I constitute, am constituting",
+      "futuro": "I will constitute",
+      "imperfecto": "I was constituting, used to constitute, constituted",
+      "preterito": "I constituted",
+      "condicional": "I would constitute",
+      "presentePerfecto": "I have constituted",
+      "futuroPerfecto": "I will have constituted",
+      "pluscuamperfecto": "I had constituted",
+      "preteritoAnterior": "I had constituted",
+      "condicionalPerfecto": "I would have constituted"
+    },
+    "subjuntivo": {
+      "presente": "I constitute, am constituting",
+      "imperfecto": "I constituted, was constituting",
+      "futuro": "I will constitute",
+      "presentePerfecto": "I have constituted, constituted",
+      "futuroPerfecto": "I will have constituted",
+      "pluscuamperfecto": "I had constituted"
+    },
+    "afirmativo": "Constitute!",
+    "negativo": "Don't constitute!"
+  },
+  "attribution": "Fred Jehle"
+}

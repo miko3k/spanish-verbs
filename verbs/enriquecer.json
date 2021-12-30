@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "enriquecer",
+  "gerundio": "enriqueciendo",
+  "participioPasado": "enriquecido",
+  "indicativo": {
+    "presente": {
+      "yo": "enriquezco",
+      "tu": "enriqueces",
+      "ud": "enriquece",
+      "nosotros": "enriquecemos",
+      "vosotros": "enriquecéis",
+      "uds": "enriquecen"
+    },
+    "futuro": {
+      "yo": "enriqueceré",
+      "tu": "enriquecerás",
+      "ud": "enriquecerá",
+      "nosotros": "enriqueceremos",
+      "vosotros": "enriqueceréis",
+      "uds": "enriquecerán"
+    },
+    "imperfecto": {
+      "yo": "enriquecía",
+      "tu": "enriquecías",
+      "ud": "enriquecía",
+      "nosotros": "enriquecíamos",
+      "vosotros": "enriquecíais",
+      "uds": "enriquecían"
+    },
+    "preterito": {
+      "yo": "enriquecí",
+      "tu": "enriqueciste",
+      "ud": "enriqueció",
+      "nosotros": "enriquecimos",
+      "vosotros": "enriquecisteis",
+      "uds": "enriquecieron"
+    },
+    "condicional": {
+      "yo": "enriquecería",
+      "tu": "enriquecerías",
+      "ud": "enriquecería",
+      "nosotros": "enriqueceríamos",
+      "vosotros": "enriqueceríais",
+      "uds": "enriquecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he enriquecido",
+      "tu": "has enriquecido",
+      "ud": "ha enriquecido",
+      "nosotros": "hemos enriquecido",
+      "vosotros": "habéis enriquecido",
+      "uds": "han enriquecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré enriquecido",
+      "tu": "habrás enriquecido",
+      "ud": "habrá enriquecido",
+      "nosotros": "habremos enriquecido",
+      "vosotros": "habréis enriquecido",
+      "uds": "habrán enriquecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había enriquecido",
+      "tu": "habías enriquecido",
+      "ud": "había enriquecido",
+      "nosotros": "habíamos enriquecido",
+      "vosotros": "habíais enriquecido",
+      "uds": "habían enriquecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube enriquecido",
+      "tu": "hubiste enriquecido",
+      "ud": "hubo enriquecido",
+      "nosotros": "hubimos enriquecido",
+      "vosotros": "hubisteis enriquecido",
+      "uds": "hubieron enriquecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría enriquecido",
+      "tu": "habrías enriquecido",
+      "ud": "habría enriquecido",
+      "nosotros": "habríamos enriquecido",
+      "vosotros": "habríais enriquecido",
+      "uds": "habrían enriquecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "enriquezca",
+      "tu": "enriquezcas",
+      "ud": "enriquezca",
+      "nosotros": "enriquezcamos",
+      "vosotros": "enriquezcáis",
+      "uds": "enriquezcan"
+    },
+    "imperfecto": {
+      "yo": "enriqueciera",
+      "tu": "enriquecieras",
+      "ud": "enriqueciera",
+      "nosotros": "enriqueciéramos",
+      "vosotros": "enriquecierais",
+      "uds": "enriquecieran"
+    },
+    "futuro": {
+      "yo": "enriqueciere",
+      "tu": "enriquecieres",
+      "ud": "enriqueciere",
+      "nosotros": "enriqueciéremos",
+      "vosotros": "enriqueciereis",
+      "uds": "enriquecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya enriquecido",
+      "tu": "hayas enriquecido",
+      "ud": "haya enriquecido",
+      "nosotros": "hayamos enriquecido",
+      "vosotros": "hayáis enriquecido",
+      "uds": "hayan enriquecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere enriquecido",
+      "tu": "hubieres enriquecido",
+      "ud": "hubiere enriquecido",
+      "nosotros": "hubiéremos enriquecido",
+      "vosotros": "hubiereis enriquecido",
+      "uds": "hubieren enriquecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera enriquecido",
+      "tu": "hubieras enriquecido",
+      "ud": "hubiera enriquecido",
+      "nosotros": "hubiéramos enriquecido",
+      "vosotros": "hubierais enriquecido",
+      "uds": "hubieran enriquecido"
+    },
+    "imperfectoAlt": {
+      "yo": "enriqueciese",
+      "tu": "enriquecieses",
+      "ud": "enriqueciese",
+      "nosotros": "enriqueciésemos",
+      "vosotros": "enriquecieseis",
+      "uds": "enriqueciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese enriquecido",
+      "tu": "hubieses enriquecido",
+      "ud": "hubiese enriquecido",
+      "nosotros": "hubiésemos enriquecido",
+      "vosotros": "hubieseis enriquecido",
+      "uds": "hubiesen enriquecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "enriquece",
+    "vosotros": "enriqueced",
+    "ud": "enriquezca",
+    "uds": "enriquezcan"
+  },
+  "negativo": {
+    "tu": "no enriquezcas",
+    "vosotros": "no enriquezcáis",
+    "ud": "no enriquezca",
+    "uds": "no enriquezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: enriquezco, enriquezca, enriquezcas, etc. Note: Use the reflexive form, enriquecerse, to express to get rich.",
+    "infinitivo": "to enrich, make rich",
+    "gerundio": "enriching",
+    "participioPasado": "enriched",
+    "indicativo": {
+      "presente": "I enrich, am enriching",
+      "futuro": "I will enrich",
+      "imperfecto": "I was enriching, used to enrich, enriched",
+      "preterito": "I enriched",
+      "condicional": "I would enrich",
+      "presentePerfecto": "I have enriched",
+      "futuroPerfecto": "I will have enriched",
+      "pluscuamperfecto": "I had enriched",
+      "preteritoAnterior": "I had enriched",
+      "condicionalPerfecto": "I would have enriched"
+    },
+    "subjuntivo": {
+      "presente": "I enrich, am enriching",
+      "imperfecto": "I enriched, was enriching",
+      "futuro": "I will enrich",
+      "presentePerfecto": "I have enriched, enriched",
+      "futuroPerfecto": "I will have enriched",
+      "pluscuamperfecto": "I had enriched"
+    },
+    "afirmativo": "Enrich!",
+    "negativo": "Don't enrich!"
+  },
+  "attribution": "Fred Jehle"
+}

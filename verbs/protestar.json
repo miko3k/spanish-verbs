@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "protestar",
+  "gerundio": "protestando",
+  "participioPasado": "protestado",
+  "indicativo": {
+    "presente": {
+      "yo": "protesto",
+      "tu": "protestas",
+      "ud": "protesta",
+      "nosotros": "protestamos",
+      "vosotros": "protestáis",
+      "uds": "protestan"
+    },
+    "futuro": {
+      "yo": "protestaré",
+      "tu": "protestarás",
+      "ud": "protestará",
+      "nosotros": "protestaremos",
+      "vosotros": "protestaréis",
+      "uds": "protestarán"
+    },
+    "imperfecto": {
+      "yo": "protestaba",
+      "tu": "protestabas",
+      "ud": "protestaba",
+      "nosotros": "protestábamos",
+      "vosotros": "protestabais",
+      "uds": "protestaban"
+    },
+    "preterito": {
+      "yo": "protesté",
+      "tu": "protestaste",
+      "ud": "protestó",
+      "nosotros": "protestamos",
+      "vosotros": "protestasteis",
+      "uds": "protestaron"
+    },
+    "condicional": {
+      "yo": "protestaría",
+      "tu": "protestarías",
+      "ud": "protestaría",
+      "nosotros": "protestaríamos",
+      "vosotros": "protestaríais",
+      "uds": "protestarían"
+    },
+    "presentePerfecto": {
+      "yo": "he protestado",
+      "tu": "has protestado",
+      "ud": "ha protestado",
+      "nosotros": "hemos protestado",
+      "vosotros": "habéis protestado",
+      "uds": "han protestado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré protestado",
+      "tu": "habrás protestado",
+      "ud": "habrá protestado",
+      "nosotros": "habremos protestado",
+      "vosotros": "habréis protestado",
+      "uds": "habrán protestado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había protestado",
+      "tu": "habías protestado",
+      "ud": "había protestado",
+      "nosotros": "habíamos protestado",
+      "vosotros": "habíais protestado",
+      "uds": "habían protestado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube protestado",
+      "tu": "hubiste protestado",
+      "ud": "hubo protestado",
+      "nosotros": "hubimos protestado",
+      "vosotros": "hubisteis protestado",
+      "uds": "hubieron protestado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría protestado",
+      "tu": "habrías protestado",
+      "ud": "habría protestado",
+      "nosotros": "habríamos protestado",
+      "vosotros": "habríais protestado",
+      "uds": "habrían protestado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "proteste",
+      "tu": "protestes",
+      "ud": "proteste",
+      "nosotros": "protestemos",
+      "vosotros": "protestéis",
+      "uds": "protesten"
+    },
+    "imperfecto": {
+      "yo": "protestara",
+      "tu": "protestaras",
+      "ud": "protestara",
+      "nosotros": "protestáramos",
+      "vosotros": "protestarais",
+      "uds": "protestaran"
+    },
+    "futuro": {
+      "yo": "protestare",
+      "tu": "protestares",
+      "ud": "protestare",
+      "nosotros": "protestáremos",
+      "vosotros": "protestareis",
+      "uds": "protestaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya protestado",
+      "tu": "hayas protestado",
+      "ud": "haya protestado",
+      "nosotros": "hayamos protestado",
+      "vosotros": "hayáis protestado",
+      "uds": "hayan protestado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere protestado",
+      "tu": "hubieres protestado",
+      "ud": "hubiere protestado",
+      "nosotros": "hubiéremos protestado",
+      "vosotros": "hubiereis protestado",
+      "uds": "hubieren protestado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera protestado",
+      "tu": "hubieras protestado",
+      "ud": "hubiera protestado",
+      "nosotros": "hubiéramos protestado",
+      "vosotros": "hubierais protestado",
+      "uds": "hubieran protestado"
+    },
+    "imperfectoAlt": {
+      "yo": "protestase",
+      "tu": "protestases",
+      "ud": "protestase",
+      "nosotros": "protestásemos",
+      "vosotros": "protestaseis",
+      "uds": "protestasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese protestado",
+      "tu": "hubieses protestado",
+      "ud": "hubiese protestado",
+      "nosotros": "hubiésemos protestado",
+      "vosotros": "hubieseis protestado",
+      "uds": "hubiesen protestado"
+    }
+  },
+  "afirmativo": {
+    "tu": "protesta",
+    "vosotros": "protestad",
+    "ud": "proteste",
+    "uds": "protesten"
+  },
+  "negativo": {
+    "tu": "no protestes",
+    "vosotros": "no protestéis",
+    "ud": "no proteste",
+    "uds": "no protesten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to protest, declare",
+    "gerundio": "protesting",
+    "participioPasado": "protested",
+    "indicativo": {
+      "presente": "I protest, am protesting",
+      "futuro": "I will protest",
+      "imperfecto": "I was protesting, used to protest, protested",
+      "preterito": "I protested",
+      "condicional": "I would protest",
+      "presentePerfecto": "I have protested",
+      "futuroPerfecto": "I will have protested",
+      "pluscuamperfecto": "I had protested",
+      "preteritoAnterior": "I had protested",
+      "condicionalPerfecto": "I would have protested"
+    },
+    "subjuntivo": {
+      "presente": "I protest, am protesting",
+      "imperfecto": "I protested, was protesting",
+      "futuro": "I will protest",
+      "presentePerfecto": "I have protested, protested",
+      "futuroPerfecto": "I will have protested",
+      "pluscuamperfecto": "I had protested"
+    },
+    "afirmativo": "Protest!",
+    "negativo": "Don't protest!"
+  },
+  "attribution": "Fred Jehle"
+}

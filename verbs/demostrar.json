@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "demostrar",
+  "gerundio": "demostrando",
+  "participioPasado": "demostrado",
+  "indicativo": {
+    "presente": {
+      "yo": "demuestro",
+      "tu": "demuestras",
+      "ud": "demuestra",
+      "nosotros": "demostramos",
+      "vosotros": "demostráis",
+      "uds": "demuestran"
+    },
+    "futuro": {
+      "yo": "demostraré",
+      "tu": "demostrarás",
+      "ud": "demostrará",
+      "nosotros": "demostraremos",
+      "vosotros": "demostraréis",
+      "uds": "demostrarán"
+    },
+    "imperfecto": {
+      "yo": "demostraba",
+      "tu": "demostrabas",
+      "ud": "demostraba",
+      "nosotros": "demostrábamos",
+      "vosotros": "demostrabais",
+      "uds": "demostraban"
+    },
+    "preterito": {
+      "yo": "demostré",
+      "tu": "demostraste",
+      "ud": "demostró",
+      "nosotros": "demostramos",
+      "vosotros": "demostrasteis",
+      "uds": "demostraron"
+    },
+    "condicional": {
+      "yo": "demostraría",
+      "tu": "demostrarías",
+      "ud": "demostraría",
+      "nosotros": "demostraríamos",
+      "vosotros": "demostraríais",
+      "uds": "demostrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he demostrado",
+      "tu": "has demostrado",
+      "ud": "ha demostrado",
+      "nosotros": "hemos demostrado",
+      "vosotros": "habéis demostrado",
+      "uds": "han demostrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré demostrado",
+      "tu": "habrás demostrado",
+      "ud": "habrá demostrado",
+      "nosotros": "habremos demostrado",
+      "vosotros": "habréis demostrado",
+      "uds": "habrán demostrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había demostrado",
+      "tu": "habías demostrado",
+      "ud": "había demostrado",
+      "nosotros": "habíamos demostrado",
+      "vosotros": "habíais demostrado",
+      "uds": "habían demostrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube demostrado",
+      "tu": "hubiste demostrado",
+      "ud": "hubo demostrado",
+      "nosotros": "hubimos demostrado",
+      "vosotros": "hubisteis demostrado",
+      "uds": "hubieron demostrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría demostrado",
+      "tu": "habrías demostrado",
+      "ud": "habría demostrado",
+      "nosotros": "habríamos demostrado",
+      "vosotros": "habríais demostrado",
+      "uds": "habrían demostrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "demuestre",
+      "tu": "demuestres",
+      "ud": "demuestre",
+      "nosotros": "demostremos",
+      "vosotros": "demostréis",
+      "uds": "demuestren"
+    },
+    "imperfecto": {
+      "yo": "demostrara",
+      "tu": "demostraras",
+      "ud": "demostrara",
+      "nosotros": "demostráramos",
+      "vosotros": "demostrarais",
+      "uds": "demostraran"
+    },
+    "futuro": {
+      "yo": "demostrare",
+      "tu": "demostrares",
+      "ud": "demostrare",
+      "nosotros": "demostráremos",
+      "vosotros": "demostrareis",
+      "uds": "demostraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya demostrado",
+      "tu": "hayas demostrado",
+      "ud": "haya demostrado",
+      "nosotros": "hayamos demostrado",
+      "vosotros": "hayáis demostrado",
+      "uds": "hayan demostrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere demostrado",
+      "tu": "hubieres demostrado",
+      "ud": "hubiere demostrado",
+      "nosotros": "hubiéremos demostrado",
+      "vosotros": "hubiereis demostrado",
+      "uds": "hubieren demostrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera demostrado",
+      "tu": "hubieras demostrado",
+      "ud": "hubiera demostrado",
+      "nosotros": "hubiéramos demostrado",
+      "vosotros": "hubierais demostrado",
+      "uds": "hubieran demostrado"
+    },
+    "imperfectoAlt": {
+      "yo": "demostrase",
+      "tu": "demostrases",
+      "ud": "demostrase",
+      "nosotros": "demostrásemos",
+      "vosotros": "demostraseis",
+      "uds": "demostrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese demostrado",
+      "tu": "hubieses demostrado",
+      "ud": "hubiese demostrado",
+      "nosotros": "hubiésemos demostrado",
+      "vosotros": "hubieseis demostrado",
+      "uds": "hubiesen demostrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "demuestra",
+    "vosotros": "demostrad",
+    "ud": "demuestre",
+    "uds": "demuestren"
+  },
+  "negativo": {
+    "tu": "no demuestres",
+    "vosotros": "no demostréis",
+    "ud": "no demuestre",
+    "uds": "no demuestren"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa.",
+    "infinitivo": "to demonstrate, show",
+    "gerundio": "demonstrating",
+    "participioPasado": "demonstrated",
+    "indicativo": {
+      "presente": "I demonstrate, am demonstrating",
+      "futuro": "I will demonstrate",
+      "imperfecto": "I was demonstrating, used to demonstrate, demonstrated",
+      "preterito": "I demonstrated",
+      "condicional": "I would demonstrate",
+      "presentePerfecto": "I have demonstrated",
+      "futuroPerfecto": "I will have demonstrated",
+      "pluscuamperfecto": "I had demonstrated",
+      "preteritoAnterior": "I had demonstrated",
+      "condicionalPerfecto": "I would have demonstrated"
+    },
+    "subjuntivo": {
+      "presente": "I demonstrate, am demonstrating",
+      "imperfecto": "I demonstrated, was demonstrating",
+      "futuro": "I will demonstrate",
+      "presentePerfecto": "I have demonstrated, demonstrated",
+      "futuroPerfecto": "I will have demonstrated",
+      "pluscuamperfecto": "I had demonstrated"
+    },
+    "afirmativo": "Demonstrate!",
+    "negativo": "Don't demonstrate!"
+  },
+  "attribution": "Fred Jehle"
+}

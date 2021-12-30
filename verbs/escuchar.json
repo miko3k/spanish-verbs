@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "escuchar",
+  "gerundio": "escuchando",
+  "participioPasado": "escuchado",
+  "indicativo": {
+    "presente": {
+      "yo": "escucho",
+      "tu": "escuchas",
+      "ud": "escucha",
+      "nosotros": "escuchamos",
+      "vosotros": "escucháis",
+      "uds": "escuchan"
+    },
+    "futuro": {
+      "yo": "escucharé",
+      "tu": "escucharás",
+      "ud": "escuchará",
+      "nosotros": "escucharemos",
+      "vosotros": "escucharéis",
+      "uds": "escucharán"
+    },
+    "imperfecto": {
+      "yo": "escuchaba",
+      "tu": "escuchabas",
+      "ud": "escuchaba",
+      "nosotros": "escuchábamos",
+      "vosotros": "escuchabais",
+      "uds": "escuchaban"
+    },
+    "preterito": {
+      "yo": "escuché",
+      "tu": "escuchaste",
+      "ud": "escuchó",
+      "nosotros": "escuchamos",
+      "vosotros": "escuchasteis",
+      "uds": "escucharon"
+    },
+    "condicional": {
+      "yo": "escucharía",
+      "tu": "escucharías",
+      "ud": "escucharía",
+      "nosotros": "escucharíamos",
+      "vosotros": "escucharíais",
+      "uds": "escucharían"
+    },
+    "presentePerfecto": {
+      "yo": "he escuchado",
+      "tu": "has escuchado",
+      "ud": "ha escuchado",
+      "nosotros": "hemos escuchado",
+      "vosotros": "habéis escuchado",
+      "uds": "han escuchado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré escuchado",
+      "tu": "habrás escuchado",
+      "ud": "habrá escuchado",
+      "nosotros": "habremos escuchado",
+      "vosotros": "habréis escuchado",
+      "uds": "habrán escuchado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había escuchado",
+      "tu": "habías escuchado",
+      "ud": "había escuchado",
+      "nosotros": "habíamos escuchado",
+      "vosotros": "habíais escuchado",
+      "uds": "habían escuchado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube escuchado",
+      "tu": "hubiste escuchado",
+      "ud": "hubo escuchado",
+      "nosotros": "hubimos escuchado",
+      "vosotros": "hubisteis escuchado",
+      "uds": "hubieron escuchado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría escuchado",
+      "tu": "habrías escuchado",
+      "ud": "habría escuchado",
+      "nosotros": "habríamos escuchado",
+      "vosotros": "habríais escuchado",
+      "uds": "habrían escuchado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "escuche",
+      "tu": "escuches",
+      "ud": "escuche",
+      "nosotros": "escuchemos",
+      "vosotros": "escuchéis",
+      "uds": "escuchen"
+    },
+    "imperfecto": {
+      "yo": "escuchara",
+      "tu": "escucharas",
+      "ud": "escuchara",
+      "nosotros": "escucháramos",
+      "vosotros": "escucharais",
+      "uds": "escucharan"
+    },
+    "futuro": {
+      "yo": "escuchare",
+      "tu": "escuchares",
+      "ud": "escuchare",
+      "nosotros": "escucháremos",
+      "vosotros": "escuchareis",
+      "uds": "escucharen"
+    },
+    "presentePerfecto": {
+      "yo": "haya escuchado",
+      "tu": "hayas escuchado",
+      "ud": "haya escuchado",
+      "nosotros": "hayamos escuchado",
+      "vosotros": "hayáis escuchado",
+      "uds": "hayan escuchado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere escuchado",
+      "tu": "hubieres escuchado",
+      "ud": "hubiere escuchado",
+      "nosotros": "hubiéremos escuchado",
+      "vosotros": "hubiereis escuchado",
+      "uds": "hubieren escuchado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera escuchado",
+      "tu": "hubieras escuchado",
+      "ud": "hubiera escuchado",
+      "nosotros": "hubiéramos escuchado",
+      "vosotros": "hubierais escuchado",
+      "uds": "hubieran escuchado"
+    },
+    "imperfectoAlt": {
+      "yo": "escuchase",
+      "tu": "escuchases",
+      "ud": "escuchase",
+      "nosotros": "escuchásemos",
+      "vosotros": "escuchaseis",
+      "uds": "escuchasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese escuchado",
+      "tu": "hubieses escuchado",
+      "ud": "hubiese escuchado",
+      "nosotros": "hubiésemos escuchado",
+      "vosotros": "hubieseis escuchado",
+      "uds": "hubiesen escuchado"
+    }
+  },
+  "afirmativo": {
+    "tu": "escucha",
+    "vosotros": "escuchad",
+    "ud": "escuche",
+    "uds": "escuchen"
+  },
+  "negativo": {
+    "tu": "no escuches",
+    "vosotros": "no escuchéis",
+    "ud": "no escuche",
+    "uds": "no escuchen"
+  },
+  "english": {
+    "note": "Note that escuchar means to listen to, so that the preposition to (a) is not needed afterwards: Escucho la canción = I 'm listening to the song.",
+    "infinitivo": "to listen to, hear",
+    "gerundio": "listening to",
+    "participioPasado": "listened to",
+    "indicativo": {
+      "presente": "I listen to, am listening to",
+      "futuro": "I will listen to",
+      "imperfecto": "I was listening to, used to listen to, listened to",
+      "preterito": "I listened to",
+      "condicional": "I would listen to",
+      "presentePerfecto": "I have listened to",
+      "futuroPerfecto": "I will have listened to",
+      "pluscuamperfecto": "I had listened to",
+      "preteritoAnterior": "I had listened to",
+      "condicionalPerfecto": "I would have listened to"
+    },
+    "subjuntivo": {
+      "presente": "I listen to, am listening to",
+      "imperfecto": "I listened to, was listening to",
+      "futuro": "I will listen to",
+      "presentePerfecto": "I have listened to, listened to",
+      "futuroPerfecto": "I will have listened to",
+      "pluscuamperfecto": "I had listened to"
+    },
+    "afirmativo": "Listen to!",
+    "negativo": "Don't listen to!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "prever",
+  "gerundio": "previendo",
+  "participioPasado": "previsto",
+  "indicativo": {
+    "presente": {
+      "yo": "preveo",
+      "tu": "prevés",
+      "ud": "prevé",
+      "nosotros": "prevemos",
+      "vosotros": "prevéis",
+      "uds": "prevén"
+    },
+    "futuro": {
+      "yo": "preveré",
+      "tu": "preverás",
+      "ud": "preverá",
+      "nosotros": "preveremos",
+      "vosotros": "preveréis",
+      "uds": "preverán"
+    },
+    "imperfecto": {
+      "yo": "preveía",
+      "tu": "preveías",
+      "ud": "preveía",
+      "nosotros": "preveíamos",
+      "vosotros": "preveíais",
+      "uds": "preveían"
+    },
+    "preterito": {
+      "yo": "preví",
+      "tu": "previste",
+      "ud": "previó",
+      "nosotros": "previmos",
+      "vosotros": "previsteis",
+      "uds": "previeron"
+    },
+    "condicional": {
+      "yo": "prevería",
+      "tu": "preverías",
+      "ud": "prevería",
+      "nosotros": "preveríamos",
+      "vosotros": "preveríais",
+      "uds": "preverían"
+    },
+    "presentePerfecto": {
+      "yo": "he previsto",
+      "tu": "has previsto",
+      "ud": "ha previsto",
+      "nosotros": "hemos previsto",
+      "vosotros": "habéis previsto",
+      "uds": "han previsto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré previsto",
+      "tu": "habrás previsto",
+      "ud": "habrá previsto",
+      "nosotros": "habremos previsto",
+      "vosotros": "habréis previsto",
+      "uds": "habrán previsto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había previsto",
+      "tu": "habías previsto",
+      "ud": "había previsto",
+      "nosotros": "habíamos previsto",
+      "vosotros": "habíais previsto",
+      "uds": "habían previsto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube previsto",
+      "tu": "hubiste previsto",
+      "ud": "hubo previsto",
+      "nosotros": "hubimos previsto",
+      "vosotros": "hubisteis previsto",
+      "uds": "hubieron previsto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría previsto",
+      "tu": "habrías previsto",
+      "ud": "habría previsto",
+      "nosotros": "habríamos previsto",
+      "vosotros": "habríais previsto",
+      "uds": "habrían previsto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "prevea",
+      "tu": "preveas",
+      "ud": "prevea",
+      "nosotros": "preveamos",
+      "vosotros": "preveáis",
+      "uds": "prevean"
+    },
+    "imperfecto": {
+      "yo": "previera",
+      "tu": "previeras",
+      "ud": "previera",
+      "nosotros": "previéramos",
+      "vosotros": "previerais",
+      "uds": "previeran"
+    },
+    "futuro": {
+      "yo": "previere",
+      "tu": "previeres",
+      "ud": "previere",
+      "nosotros": "previéremos",
+      "vosotros": "previereis",
+      "uds": "previeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya previsto",
+      "tu": "hayas previsto",
+      "ud": "haya previsto",
+      "nosotros": "hayamos previsto",
+      "vosotros": "hayáis previsto",
+      "uds": "hayan previsto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere previsto",
+      "tu": "hubieres previsto",
+      "ud": "hubiere previsto",
+      "nosotros": "hubiéremos previsto",
+      "vosotros": "hubiereis previsto",
+      "uds": "hubieren previsto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera previsto",
+      "tu": "hubieras previsto",
+      "ud": "hubiera previsto",
+      "nosotros": "hubiéramos previsto",
+      "vosotros": "hubierais previsto",
+      "uds": "hubieran previsto"
+    },
+    "imperfectoAlt": {
+      "yo": "previese",
+      "tu": "previeses",
+      "ud": "previese",
+      "nosotros": "previésemos",
+      "vosotros": "previeseis",
+      "uds": "previesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese previsto",
+      "tu": "hubieses previsto",
+      "ud": "hubiese previsto",
+      "nosotros": "hubiésemos previsto",
+      "vosotros": "hubieseis previsto",
+      "uds": "hubiesen previsto"
+    }
+  },
+  "afirmativo": {
+    "tu": "prevé",
+    "vosotros": "preved",
+    "ud": "prevea",
+    "uds": "prevean"
+  },
+  "negativo": {
+    "tu": "no preveas",
+    "vosotros": "no preveáis",
+    "ud": "no prevea",
+    "uds": "no prevean"
+  },
+  "english": {
+    "note": "Formas irregulares: preveo, prevés, prevé (en el presente y el mandato familiar), prevén; prevea, preveas, etc. Radical irregular en el imperfecto: preve-. Participio pasado irregular: previsto.",
+    "infinitivo": "to foresee, anticipate, envisage, visualize",
+    "gerundio": "foreseeing",
+    "participioPasado": "foreseen",
+    "indicativo": {
+      "presente": "I foresee, am foreseeing",
+      "futuro": "I will foresee",
+      "imperfecto": "I was foreseeing, used to foresee, foresaw",
+      "preterito": "I foresaw",
+      "condicional": "I would foresee",
+      "presentePerfecto": "I have foreseen",
+      "futuroPerfecto": "I will have foreseen",
+      "pluscuamperfecto": "I had foreseen",
+      "preteritoAnterior": "I had foreseen",
+      "condicionalPerfecto": "I would have foreseen"
+    },
+    "subjuntivo": {
+      "presente": "I foresee, am foreseeing",
+      "imperfecto": "I foresaw, was foreseeing",
+      "futuro": "I will foresee",
+      "presentePerfecto": "I have foreseen, foresaw",
+      "futuroPerfecto": "I will hapreve foreseen",
+      "pluscuamperfecto": "I had foreseen"
+    },
+    "afirmativo": "Foresee!",
+    "negativo": "Don't foresee!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "respetar",
+  "gerundio": "respetando",
+  "participioPasado": "respetado",
+  "indicativo": {
+    "presente": {
+      "yo": "respeto",
+      "tu": "respetas",
+      "ud": "respeta",
+      "nosotros": "respetamos",
+      "vosotros": "respetáis",
+      "uds": "respetan"
+    },
+    "futuro": {
+      "yo": "respetaré",
+      "tu": "respetarás",
+      "ud": "respetará",
+      "nosotros": "respetaremos",
+      "vosotros": "respetaréis",
+      "uds": "respetarán"
+    },
+    "imperfecto": {
+      "yo": "respetaba",
+      "tu": "respetabas",
+      "ud": "respetaba",
+      "nosotros": "respetábamos",
+      "vosotros": "respetabais",
+      "uds": "respetaban"
+    },
+    "preterito": {
+      "yo": "respeté",
+      "tu": "respetaste",
+      "ud": "respetó",
+      "nosotros": "respetamos",
+      "vosotros": "respetasteis",
+      "uds": "respetaron"
+    },
+    "condicional": {
+      "yo": "respetaría",
+      "tu": "respetarías",
+      "ud": "respetaría",
+      "nosotros": "respetaríamos",
+      "vosotros": "respetaríais",
+      "uds": "respetarían"
+    },
+    "presentePerfecto": {
+      "yo": "he respetado",
+      "tu": "has respetado",
+      "ud": "ha respetado",
+      "nosotros": "hemos respetado",
+      "vosotros": "habéis respetado",
+      "uds": "han respetado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré respetado",
+      "tu": "habrás respetado",
+      "ud": "habrá respetado",
+      "nosotros": "habremos respetado",
+      "vosotros": "habréis respetado",
+      "uds": "habrán respetado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había respetado",
+      "tu": "habías respetado",
+      "ud": "había respetado",
+      "nosotros": "habíamos respetado",
+      "vosotros": "habíais respetado",
+      "uds": "habían respetado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube respetado",
+      "tu": "hubiste respetado",
+      "ud": "hubo respetado",
+      "nosotros": "hubimos respetado",
+      "vosotros": "hubisteis respetado",
+      "uds": "hubieron respetado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría respetado",
+      "tu": "habrías respetado",
+      "ud": "habría respetado",
+      "nosotros": "habríamos respetado",
+      "vosotros": "habríais respetado",
+      "uds": "habrían respetado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "respete",
+      "tu": "respetes",
+      "ud": "respete",
+      "nosotros": "respetemos",
+      "vosotros": "respetéis",
+      "uds": "respeten"
+    },
+    "imperfecto": {
+      "yo": "respetara",
+      "tu": "respetaras",
+      "ud": "respetara",
+      "nosotros": "respetáramos",
+      "vosotros": "respetarais",
+      "uds": "respetaran"
+    },
+    "futuro": {
+      "yo": "respetare",
+      "tu": "respetares",
+      "ud": "respetare",
+      "nosotros": "respetáremos",
+      "vosotros": "respetareis",
+      "uds": "respetaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya respetado",
+      "tu": "hayas respetado",
+      "ud": "haya respetado",
+      "nosotros": "hayamos respetado",
+      "vosotros": "hayáis respetado",
+      "uds": "hayan respetado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere respetado",
+      "tu": "hubieres respetado",
+      "ud": "hubiere respetado",
+      "nosotros": "hubiéremos respetado",
+      "vosotros": "hubiereis respetado",
+      "uds": "hubieren respetado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera respetado",
+      "tu": "hubieras respetado",
+      "ud": "hubiera respetado",
+      "nosotros": "hubiéramos respetado",
+      "vosotros": "hubierais respetado",
+      "uds": "hubieran respetado"
+    },
+    "imperfectoAlt": {
+      "yo": "respetase",
+      "tu": "respetases",
+      "ud": "respetase",
+      "nosotros": "respetásemos",
+      "vosotros": "respetaseis",
+      "uds": "respetasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese respetado",
+      "tu": "hubieses respetado",
+      "ud": "hubiese respetado",
+      "nosotros": "hubiésemos respetado",
+      "vosotros": "hubieseis respetado",
+      "uds": "hubiesen respetado"
+    }
+  },
+  "afirmativo": {
+    "tu": "respeta",
+    "vosotros": "respetad",
+    "ud": "respete",
+    "uds": "respeten"
+  },
+  "negativo": {
+    "tu": "no respetes",
+    "vosotros": "no respetéis",
+    "ud": "no respete",
+    "uds": "no respeten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to respect",
+    "gerundio": "respecting",
+    "participioPasado": "respected",
+    "indicativo": {
+      "presente": "I respect, am respecting",
+      "futuro": "I will respect",
+      "imperfecto": "I was respecting, used to respect, respected",
+      "preterito": "I respected",
+      "condicional": "I would respect",
+      "presentePerfecto": "I have respected",
+      "futuroPerfecto": "I will have respected",
+      "pluscuamperfecto": "I had respected",
+      "preteritoAnterior": "I had respected",
+      "condicionalPerfecto": "I would have respected"
+    },
+    "subjuntivo": {
+      "presente": "I respect, am respecting",
+      "imperfecto": "I respected, was respecting",
+      "futuro": "I will respect",
+      "presentePerfecto": "I have respected, respected",
+      "futuroPerfecto": "I will have respected",
+      "pluscuamperfecto": "I had respected"
+    },
+    "afirmativo": "Respect!",
+    "negativo": "Don't respect!"
+  },
+  "attribution": "Fred Jehle"
+}

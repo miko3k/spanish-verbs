@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "admirar",
+  "gerundio": "admirando",
+  "participioPasado": "admirado",
+  "indicativo": {
+    "presente": {
+      "yo": "admiro",
+      "tu": "admiras",
+      "ud": "admira",
+      "nosotros": "admiramos",
+      "vosotros": "admiráis",
+      "uds": "admiran"
+    },
+    "futuro": {
+      "yo": "admiraré",
+      "tu": "admirarás",
+      "ud": "admirará",
+      "nosotros": "admiraremos",
+      "vosotros": "admiraréis",
+      "uds": "admirarán"
+    },
+    "imperfecto": {
+      "yo": "admiraba",
+      "tu": "admirabas",
+      "ud": "admiraba",
+      "nosotros": "admirábamos",
+      "vosotros": "admirabais",
+      "uds": "admiraban"
+    },
+    "preterito": {
+      "yo": "admiré",
+      "tu": "admiraste",
+      "ud": "admiró",
+      "nosotros": "admiramos",
+      "vosotros": "admirasteis",
+      "uds": "admiraron"
+    },
+    "condicional": {
+      "yo": "admiraría",
+      "tu": "admirarías",
+      "ud": "admiraría",
+      "nosotros": "admiraríamos",
+      "vosotros": "admiraríais",
+      "uds": "admirarían"
+    },
+    "presentePerfecto": {
+      "yo": "he admirado",
+      "tu": "has admirado",
+      "ud": "ha admirado",
+      "nosotros": "hemos admirado",
+      "vosotros": "habéis admirado",
+      "uds": "han admirado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré admirado",
+      "tu": "habrás admirado",
+      "ud": "habrá admirado",
+      "nosotros": "habremos admirado",
+      "vosotros": "habréis admirado",
+      "uds": "habrán admirado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había admirado",
+      "tu": "habías admirado",
+      "ud": "había admirado",
+      "nosotros": "habíamos admirado",
+      "vosotros": "habíais admirado",
+      "uds": "habían admirado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube admirado",
+      "tu": "hubiste admirado",
+      "ud": "hubo admirado",
+      "nosotros": "hubimos admirado",
+      "vosotros": "hubisteis admirado",
+      "uds": "hubieron admirado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría admirado",
+      "tu": "habrías admirado",
+      "ud": "habría admirado",
+      "nosotros": "habríamos admirado",
+      "vosotros": "habríais admirado",
+      "uds": "habrían admirado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "admire",
+      "tu": "admires",
+      "ud": "admire",
+      "nosotros": "admiremos",
+      "vosotros": "admiréis",
+      "uds": "admiren"
+    },
+    "imperfecto": {
+      "yo": "admirara",
+      "tu": "admiraras",
+      "ud": "admirara",
+      "nosotros": "admiráramos",
+      "vosotros": "admirarais",
+      "uds": "admiraran"
+    },
+    "futuro": {
+      "yo": "admirare",
+      "tu": "admirares",
+      "ud": "admirare",
+      "nosotros": "admiráremos",
+      "vosotros": "admirareis",
+      "uds": "admiraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya admirado",
+      "tu": "hayas admirado",
+      "ud": "haya admirado",
+      "nosotros": "hayamos admirado",
+      "vosotros": "hayáis admirado",
+      "uds": "hayan admirado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere admirado",
+      "tu": "hubieres admirado",
+      "ud": "hubiere admirado",
+      "nosotros": "hubiéremos admirado",
+      "vosotros": "hubiereis admirado",
+      "uds": "hubieren admirado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera admirado",
+      "tu": "hubieras admirado",
+      "ud": "hubiera admirado",
+      "nosotros": "hubiéramos admirado",
+      "vosotros": "hubierais admirado",
+      "uds": "hubieran admirado"
+    },
+    "imperfectoAlt": {
+      "yo": "admirase",
+      "tu": "admirases",
+      "ud": "admirase",
+      "nosotros": "admirásemos",
+      "vosotros": "admiraseis",
+      "uds": "admirasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese admirado",
+      "tu": "hubieses admirado",
+      "ud": "hubiese admirado",
+      "nosotros": "hubiésemos admirado",
+      "vosotros": "hubieseis admirado",
+      "uds": "hubiesen admirado"
+    }
+  },
+  "afirmativo": {
+    "tu": "admira",
+    "vosotros": "admirad",
+    "ud": "admire",
+    "uds": "admiren"
+  },
+  "negativo": {
+    "tu": "no admires",
+    "vosotros": "no admiréis",
+    "ud": "no admire",
+    "uds": "no admiren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to admire, respect, look up to",
+    "gerundio": "admiring",
+    "participioPasado": "admired",
+    "indicativo": {
+      "presente": "I admire, am admiring",
+      "futuro": "I will admire",
+      "imperfecto": "I was admiring, used to admire, admired",
+      "preterito": "I admired",
+      "condicional": "I would admire",
+      "presentePerfecto": "I have admired",
+      "futuroPerfecto": "I will have admired",
+      "pluscuamperfecto": "I had admired",
+      "preteritoAnterior": "I had admired",
+      "condicionalPerfecto": "I would have admired"
+    },
+    "subjuntivo": {
+      "presente": "I admire, am admiring",
+      "imperfecto": "I admired, was admiring",
+      "futuro": "I will admire",
+      "presentePerfecto": "I have admired, admired",
+      "futuroPerfecto": "I will have admired",
+      "pluscuamperfecto": "I had admired"
+    },
+    "afirmativo": "Admire!",
+    "negativo": "Don't admire!"
+  },
+  "attribution": "Fred Jehle"
+}

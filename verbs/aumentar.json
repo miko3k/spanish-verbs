@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "aumentar",
+  "gerundio": "aumentando",
+  "participioPasado": "aumentado",
+  "indicativo": {
+    "presente": {
+      "yo": "aumento",
+      "tu": "aumentas",
+      "ud": "aumenta",
+      "nosotros": "aumentamos",
+      "vosotros": "aumentáis",
+      "uds": "aumentan"
+    },
+    "futuro": {
+      "yo": "aumentaré",
+      "tu": "aumentarás",
+      "ud": "aumentará",
+      "nosotros": "aumentaremos",
+      "vosotros": "aumentaréis",
+      "uds": "aumentarán"
+    },
+    "imperfecto": {
+      "yo": "aumentaba",
+      "tu": "aumentabas",
+      "ud": "aumentaba",
+      "nosotros": "aumentábamos",
+      "vosotros": "aumentabais",
+      "uds": "aumentaban"
+    },
+    "preterito": {
+      "yo": "aumenté",
+      "tu": "aumentaste",
+      "ud": "aumentó",
+      "nosotros": "aumentamos",
+      "vosotros": "aumentasteis",
+      "uds": "aumentaron"
+    },
+    "condicional": {
+      "yo": "aumentaría",
+      "tu": "aumentarías",
+      "ud": "aumentaría",
+      "nosotros": "aumentaríamos",
+      "vosotros": "aumentaríais",
+      "uds": "aumentarían"
+    },
+    "presentePerfecto": {
+      "yo": "he aumentado",
+      "tu": "has aumentado",
+      "ud": "ha aumentado",
+      "nosotros": "hemos aumentado",
+      "vosotros": "habéis aumentado",
+      "uds": "han aumentado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré aumentado",
+      "tu": "habrás aumentado",
+      "ud": "habrá aumentado",
+      "nosotros": "habremos aumentado",
+      "vosotros": "habréis aumentado",
+      "uds": "habrán aumentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había aumentado",
+      "tu": "habías aumentado",
+      "ud": "había aumentado",
+      "nosotros": "habíamos aumentado",
+      "vosotros": "habíais aumentado",
+      "uds": "habían aumentado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube aumentado",
+      "tu": "hubiste aumentado",
+      "ud": "hubo aumentado",
+      "nosotros": "hubimos aumentado",
+      "vosotros": "hubisteis aumentado",
+      "uds": "hubieron aumentado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría aumentado",
+      "tu": "habrías aumentado",
+      "ud": "habría aumentado",
+      "nosotros": "habríamos aumentado",
+      "vosotros": "habríais aumentado",
+      "uds": "habrían aumentado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aumente",
+      "tu": "aumentes",
+      "ud": "aumente",
+      "nosotros": "aumentemos",
+      "vosotros": "aumentéis",
+      "uds": "aumenten"
+    },
+    "imperfecto": {
+      "yo": "aumentara",
+      "tu": "aumentaras",
+      "ud": "aumentara",
+      "nosotros": "aumentáramos",
+      "vosotros": "aumentarais",
+      "uds": "aumentaran"
+    },
+    "futuro": {
+      "yo": "aumentare",
+      "tu": "aumentares",
+      "ud": "aumentare",
+      "nosotros": "aumentáremos",
+      "vosotros": "aumentareis",
+      "uds": "aumentaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya aumentado",
+      "tu": "hayas aumentado",
+      "ud": "haya aumentado",
+      "nosotros": "hayamos aumentado",
+      "vosotros": "hayáis aumentado",
+      "uds": "hayan aumentado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere aumentado",
+      "tu": "hubieres aumentado",
+      "ud": "hubiere aumentado",
+      "nosotros": "hubiéremos aumentado",
+      "vosotros": "hubiereis aumentado",
+      "uds": "hubieren aumentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera aumentado",
+      "tu": "hubieras aumentado",
+      "ud": "hubiera aumentado",
+      "nosotros": "hubiéramos aumentado",
+      "vosotros": "hubierais aumentado",
+      "uds": "hubieran aumentado"
+    },
+    "imperfectoAlt": {
+      "yo": "aumentase",
+      "tu": "aumentases",
+      "ud": "aumentase",
+      "nosotros": "aumentásemos",
+      "vosotros": "aumentaseis",
+      "uds": "aumentasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese aumentado",
+      "tu": "hubieses aumentado",
+      "ud": "hubiese aumentado",
+      "nosotros": "hubiésemos aumentado",
+      "vosotros": "hubieseis aumentado",
+      "uds": "hubiesen aumentado"
+    }
+  },
+  "afirmativo": {
+    "tu": "aumenta",
+    "vosotros": "aumentad",
+    "ud": "aumente",
+    "uds": "aumenten"
+  },
+  "negativo": {
+    "tu": "no aumentes",
+    "vosotros": "no aumentéis",
+    "ud": "no aumente",
+    "uds": "no aumenten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to increase, add to, augment; to be on the increase, rise",
+    "gerundio": "increasing",
+    "participioPasado": "increased",
+    "indicativo": {
+      "presente": "I increase, am increasing",
+      "futuro": "I will increase",
+      "imperfecto": "I was increasing, used to increase, increased",
+      "preterito": "I increased",
+      "condicional": "I would increase",
+      "presentePerfecto": "I have increased",
+      "futuroPerfecto": "I will have increased",
+      "pluscuamperfecto": "I had increased",
+      "preteritoAnterior": "I had increased",
+      "condicionalPerfecto": "I would have increased"
+    },
+    "subjuntivo": {
+      "presente": "I increase, am increasing",
+      "imperfecto": "I increased, was increasing",
+      "futuro": "I will increase",
+      "presentePerfecto": "I have increased, increased",
+      "futuroPerfecto": "I will have increased",
+      "pluscuamperfecto": "I had increased"
+    },
+    "afirmativo": "Increase!",
+    "negativo": "Don't increase!"
+  },
+  "attribution": "Fred Jehle"
+}

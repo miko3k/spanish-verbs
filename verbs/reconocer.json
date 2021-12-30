@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "reconocer",
+  "gerundio": "reconociendo",
+  "participioPasado": "reconocido",
+  "indicativo": {
+    "presente": {
+      "yo": "reconozco",
+      "tu": "reconoces",
+      "ud": "reconoce",
+      "nosotros": "reconocemos",
+      "vosotros": "reconocéis",
+      "uds": "reconocen"
+    },
+    "futuro": {
+      "yo": "reconoceré",
+      "tu": "reconocerás",
+      "ud": "reconocerá",
+      "nosotros": "reconoceremos",
+      "vosotros": "reconoceréis",
+      "uds": "reconocerán"
+    },
+    "imperfecto": {
+      "yo": "reconocía",
+      "tu": "reconocías",
+      "ud": "reconocía",
+      "nosotros": "reconocíamos",
+      "vosotros": "reconocíais",
+      "uds": "reconocían"
+    },
+    "preterito": {
+      "yo": "reconocí",
+      "tu": "reconociste",
+      "ud": "reconoció",
+      "nosotros": "reconocimos",
+      "vosotros": "reconocisteis",
+      "uds": "reconocieron"
+    },
+    "condicional": {
+      "yo": "reconocería",
+      "tu": "reconocerías",
+      "ud": "reconocería",
+      "nosotros": "reconoceríamos",
+      "vosotros": "reconoceríais",
+      "uds": "reconocerían"
+    },
+    "presentePerfecto": {
+      "yo": "he reconocido",
+      "tu": "has reconocido",
+      "ud": "ha reconocido",
+      "nosotros": "hemos reconocido",
+      "vosotros": "habéis reconocido",
+      "uds": "han reconocido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré reconocido",
+      "tu": "habrás reconocido",
+      "ud": "habrá reconocido",
+      "nosotros": "habremos reconocido",
+      "vosotros": "habréis reconocido",
+      "uds": "habrán reconocido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había reconocido",
+      "tu": "habías reconocido",
+      "ud": "había reconocido",
+      "nosotros": "habíamos reconocido",
+      "vosotros": "habíais reconocido",
+      "uds": "habían reconocido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube reconocido",
+      "tu": "hubiste reconocido",
+      "ud": "hubo reconocido",
+      "nosotros": "hubimos reconocido",
+      "vosotros": "hubisteis reconocido",
+      "uds": "hubieron reconocido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría reconocido",
+      "tu": "habrías reconocido",
+      "ud": "habría reconocido",
+      "nosotros": "habríamos reconocido",
+      "vosotros": "habríais reconocido",
+      "uds": "habrían reconocido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "reconozca",
+      "tu": "reconozcas",
+      "ud": "reconozca",
+      "nosotros": "reconozcamos",
+      "vosotros": "reconozcáis",
+      "uds": "reconozcan"
+    },
+    "imperfecto": {
+      "yo": "reconociera",
+      "tu": "reconocieras",
+      "ud": "reconociera",
+      "nosotros": "reconociéramos",
+      "vosotros": "reconocierais",
+      "uds": "reconocieran"
+    },
+    "futuro": {
+      "yo": "reconociere",
+      "tu": "reconocieres",
+      "ud": "reconociere",
+      "nosotros": "reconociéremos",
+      "vosotros": "reconociereis",
+      "uds": "reconocieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya reconocido",
+      "tu": "hayas reconocido",
+      "ud": "haya reconocido",
+      "nosotros": "hayamos reconocido",
+      "vosotros": "hayáis reconocido",
+      "uds": "hayan reconocido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere reconocido",
+      "tu": "hubieres reconocido",
+      "ud": "hubiere reconocido",
+      "nosotros": "hubiéremos reconocido",
+      "vosotros": "hubiereis reconocido",
+      "uds": "hubieren reconocido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera reconocido",
+      "tu": "hubieras reconocido",
+      "ud": "hubiera reconocido",
+      "nosotros": "hubiéramos reconocido",
+      "vosotros": "hubierais reconocido",
+      "uds": "hubieran reconocido"
+    },
+    "imperfectoAlt": {
+      "yo": "reconociese",
+      "tu": "reconocieses",
+      "ud": "reconociese",
+      "nosotros": "reconociésemos",
+      "vosotros": "reconocieseis",
+      "uds": "reconociesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese reconocido",
+      "tu": "hubieses reconocido",
+      "ud": "hubiese reconocido",
+      "nosotros": "hubiésemos reconocido",
+      "vosotros": "hubieseis reconocido",
+      "uds": "hubiesen reconocido"
+    }
+  },
+  "afirmativo": {
+    "tu": "reconoce",
+    "vosotros": "reconoced",
+    "ud": "reconozca",
+    "uds": "reconozcan"
+  },
+  "negativo": {
+    "tu": "no reconozcas",
+    "vosotros": "no reconozcáis",
+    "ud": "no reconozca",
+    "uds": "no reconozcan"
+  },
+  "english": {
+    "note": "Formas irregulares: reconozco, reconozca, reconozcas, etc.",
+    "infinitivo": "to recognize",
+    "gerundio": "recognizing",
+    "participioPasado": "recognized",
+    "indicativo": {
+      "presente": "I recognize, am recognizing",
+      "futuro": "I will recognize",
+      "imperfecto": "I was recognizing, used to recognize, recognized",
+      "preterito": "I recognized",
+      "condicional": "I would recognize",
+      "presentePerfecto": "I have recognized",
+      "futuroPerfecto": "I will have recognized",
+      "pluscuamperfecto": "I had recognized",
+      "preteritoAnterior": "I had recognized",
+      "condicionalPerfecto": "I would have recognized"
+    },
+    "subjuntivo": {
+      "presente": "I recognize, am recognizing",
+      "imperfecto": "I recognized, was recognizing",
+      "futuro": "I will recognize",
+      "presentePerfecto": "I have recognized, recognized",
+      "futuroPerfecto": "I will have recognized",
+      "pluscuamperfecto": "I had recognized"
+    },
+    "afirmativo": "Recognize!",
+    "negativo": "Don't recognize!"
+  },
+  "attribution": "Fred Jehle"
+}

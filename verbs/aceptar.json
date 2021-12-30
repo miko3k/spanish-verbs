@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "aceptar",
+  "gerundio": "aceptando",
+  "participioPasado": "aceptado",
+  "indicativo": {
+    "presente": {
+      "yo": "acepto",
+      "tu": "aceptas",
+      "ud": "acepta",
+      "nosotros": "aceptamos",
+      "vosotros": "aceptáis",
+      "uds": "aceptan"
+    },
+    "futuro": {
+      "yo": "aceptaré",
+      "tu": "aceptarás",
+      "ud": "aceptará",
+      "nosotros": "aceptaremos",
+      "vosotros": "aceptaréis",
+      "uds": "aceptarán"
+    },
+    "imperfecto": {
+      "yo": "aceptaba",
+      "tu": "aceptabas",
+      "ud": "aceptaba",
+      "nosotros": "aceptábamos",
+      "vosotros": "aceptabais",
+      "uds": "aceptaban"
+    },
+    "preterito": {
+      "yo": "acepté",
+      "tu": "aceptaste",
+      "ud": "aceptó",
+      "nosotros": "aceptamos",
+      "vosotros": "aceptasteis",
+      "uds": "aceptaron"
+    },
+    "condicional": {
+      "yo": "aceptaría",
+      "tu": "aceptarías",
+      "ud": "aceptaría",
+      "nosotros": "aceptaríamos",
+      "vosotros": "aceptaríais",
+      "uds": "aceptarían"
+    },
+    "presentePerfecto": {
+      "yo": "he aceptado",
+      "tu": "has aceptado",
+      "ud": "ha aceptado",
+      "nosotros": "hemos aceptado",
+      "vosotros": "habéis aceptado",
+      "uds": "han aceptado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré aceptado",
+      "tu": "habrás aceptado",
+      "ud": "habrá aceptado",
+      "nosotros": "habremos aceptado",
+      "vosotros": "habréis aceptado",
+      "uds": "habrán aceptado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había aceptado",
+      "tu": "habías aceptado",
+      "ud": "había aceptado",
+      "nosotros": "habíamos aceptado",
+      "vosotros": "habíais aceptado",
+      "uds": "habían aceptado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube aceptado",
+      "tu": "hubiste aceptado",
+      "ud": "hubo aceptado",
+      "nosotros": "hubimos aceptado",
+      "vosotros": "hubisteis aceptado",
+      "uds": "hubieron aceptado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría aceptado",
+      "tu": "habrías aceptado",
+      "ud": "habría aceptado",
+      "nosotros": "habríamos aceptado",
+      "vosotros": "habríais aceptado",
+      "uds": "habrían aceptado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "acepte",
+      "tu": "aceptes",
+      "ud": "acepte",
+      "nosotros": "aceptemos",
+      "vosotros": "aceptéis",
+      "uds": "acepten"
+    },
+    "imperfecto": {
+      "yo": "aceptara",
+      "tu": "aceptaras",
+      "ud": "aceptara",
+      "nosotros": "aceptáramos",
+      "vosotros": "aceptarais",
+      "uds": "aceptaran"
+    },
+    "futuro": {
+      "yo": "aceptare",
+      "tu": "aceptares",
+      "ud": "aceptare",
+      "nosotros": "aceptáremos",
+      "vosotros": "aceptareis",
+      "uds": "aceptaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya aceptado",
+      "tu": "hayas aceptado",
+      "ud": "haya aceptado",
+      "nosotros": "hayamos aceptado",
+      "vosotros": "hayáis aceptado",
+      "uds": "hayan aceptado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere aceptado",
+      "tu": "hubieres aceptado",
+      "ud": "hubiere aceptado",
+      "nosotros": "hubiéremos aceptado",
+      "vosotros": "hubiereis aceptado",
+      "uds": "hubieren aceptado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera aceptado",
+      "tu": "hubieras aceptado",
+      "ud": "hubiera aceptado",
+      "nosotros": "hubiéramos aceptado",
+      "vosotros": "hubierais aceptado",
+      "uds": "hubieran aceptado"
+    },
+    "imperfectoAlt": {
+      "yo": "aceptase",
+      "tu": "aceptases",
+      "ud": "aceptase",
+      "nosotros": "aceptásemos",
+      "vosotros": "aceptaseis",
+      "uds": "aceptasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese aceptado",
+      "tu": "hubieses aceptado",
+      "ud": "hubiese aceptado",
+      "nosotros": "hubiésemos aceptado",
+      "vosotros": "hubieseis aceptado",
+      "uds": "hubiesen aceptado"
+    }
+  },
+  "afirmativo": {
+    "tu": "acepta",
+    "vosotros": "aceptad",
+    "ud": "acepte",
+    "uds": "acepten"
+  },
+  "negativo": {
+    "tu": "no aceptes",
+    "vosotros": "no aceptéis",
+    "ud": "no acepte",
+    "uds": "no acepten"
+  },
+  "english": {
+    "note": "Note that there is only one c in aceptar.",
+    "infinitivo": "to accept, approve; to agree to",
+    "gerundio": "accepting",
+    "participioPasado": "accepted",
+    "indicativo": {
+      "presente": "I accept, am accepting",
+      "futuro": "I will accept",
+      "imperfecto": "I was accepting, used to accept, accepted",
+      "preterito": "I accepted",
+      "condicional": "I would accept",
+      "presentePerfecto": "I have accepted",
+      "futuroPerfecto": "I will have accepted",
+      "pluscuamperfecto": "I had accepted",
+      "preteritoAnterior": "I had accepted",
+      "condicionalPerfecto": "I would have accepted"
+    },
+    "subjuntivo": {
+      "presente": "I accept, am accepting",
+      "imperfecto": "I accepted, was accepting",
+      "futuro": "I will accept",
+      "presentePerfecto": "I have accepted, accepted",
+      "futuroPerfecto": "I will have accepted",
+      "pluscuamperfecto": "I had accepted"
+    },
+    "afirmativo": "Accept!",
+    "negativo": "Don't accept!"
+  },
+  "attribution": "Fred Jehle"
+}

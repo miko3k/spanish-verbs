@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "explicar",
+  "gerundio": "explicando",
+  "participioPasado": "explicado",
+  "indicativo": {
+    "presente": {
+      "yo": "explico",
+      "tu": "explicas",
+      "ud": "explica",
+      "nosotros": "explicamos",
+      "vosotros": "explicáis",
+      "uds": "explican"
+    },
+    "futuro": {
+      "yo": "explicaré",
+      "tu": "explicarás",
+      "ud": "explicará",
+      "nosotros": "explicaremos",
+      "vosotros": "explicaréis",
+      "uds": "explicarán"
+    },
+    "imperfecto": {
+      "yo": "explicaba",
+      "tu": "explicabas",
+      "ud": "explicaba",
+      "nosotros": "explicábamos",
+      "vosotros": "explicabais",
+      "uds": "explicaban"
+    },
+    "preterito": {
+      "yo": "expliqué",
+      "tu": "explicaste",
+      "ud": "explicó",
+      "nosotros": "explicamos",
+      "vosotros": "explicasteis",
+      "uds": "explicaron"
+    },
+    "condicional": {
+      "yo": "explicaría",
+      "tu": "explicarías",
+      "ud": "explicaría",
+      "nosotros": "explicaríamos",
+      "vosotros": "explicaríais",
+      "uds": "explicarían"
+    },
+    "presentePerfecto": {
+      "yo": "he explicado",
+      "tu": "has explicado",
+      "ud": "ha explicado",
+      "nosotros": "hemos explicado",
+      "vosotros": "habéis explicado",
+      "uds": "han explicado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré explicado",
+      "tu": "habrás explicado",
+      "ud": "habrá explicado",
+      "nosotros": "habremos explicado",
+      "vosotros": "habréis explicado",
+      "uds": "habrán explicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había explicado",
+      "tu": "habías explicado",
+      "ud": "había explicado",
+      "nosotros": "habíamos explicado",
+      "vosotros": "habíais explicado",
+      "uds": "habían explicado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube explicado",
+      "tu": "hubiste explicado",
+      "ud": "hubo explicado",
+      "nosotros": "hubimos explicado",
+      "vosotros": "hubisteis explicado",
+      "uds": "hubieron explicado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría explicado",
+      "tu": "habrías explicado",
+      "ud": "habría explicado",
+      "nosotros": "habríamos explicado",
+      "vosotros": "habríais explicado",
+      "uds": "habrían explicado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "explique",
+      "tu": "expliques",
+      "ud": "explique",
+      "nosotros": "expliquemos",
+      "vosotros": "expliquéis",
+      "uds": "expliquen"
+    },
+    "imperfecto": {
+      "yo": "explicara",
+      "tu": "explicaras",
+      "ud": "explicara",
+      "nosotros": "explicáramos",
+      "vosotros": "explicarais",
+      "uds": "explicaran"
+    },
+    "futuro": {
+      "yo": "explicare",
+      "tu": "explicares",
+      "ud": "explicare",
+      "nosotros": "explicáremos",
+      "vosotros": "explicareis",
+      "uds": "explicaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya explicado",
+      "tu": "hayas explicado",
+      "ud": "haya explicado",
+      "nosotros": "hayamos explicado",
+      "vosotros": "hayáis explicado",
+      "uds": "hayan explicado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere explicado",
+      "tu": "hubieres explicado",
+      "ud": "hubiere explicado",
+      "nosotros": "hubiéremos explicado",
+      "vosotros": "hubiereis explicado",
+      "uds": "hubieren explicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera explicado",
+      "tu": "hubieras explicado",
+      "ud": "hubiera explicado",
+      "nosotros": "hubiéramos explicado",
+      "vosotros": "hubierais explicado",
+      "uds": "hubieran explicado"
+    },
+    "imperfectoAlt": {
+      "yo": "explicase",
+      "tu": "explicases",
+      "ud": "explicase",
+      "nosotros": "explicásemos",
+      "vosotros": "explicaseis",
+      "uds": "explicasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese explicado",
+      "tu": "hubieses explicado",
+      "ud": "hubiese explicado",
+      "nosotros": "hubiésemos explicado",
+      "vosotros": "hubieseis explicado",
+      "uds": "hubiesen explicado"
+    }
+  },
+  "afirmativo": {
+    "tu": "explica",
+    "vosotros": "explicad",
+    "ud": "explique",
+    "uds": "expliquen"
+  },
+  "negativo": {
+    "tu": "no expliques",
+    "vosotros": "no expliquéis",
+    "ud": "no explique",
+    "uds": "no expliquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to explain; to expound (a theory); to lecture on (a subject)",
+    "gerundio": "explaining",
+    "participioPasado": "explained",
+    "indicativo": {
+      "presente": "I explain, am explaining",
+      "futuro": "I will explain",
+      "imperfecto": "I was explaining, used to explain, explained",
+      "preterito": "I explained",
+      "condicional": "I would explain",
+      "presentePerfecto": "I have explained",
+      "futuroPerfecto": "I will have explained",
+      "pluscuamperfecto": "I had explained",
+      "preteritoAnterior": "I had explained",
+      "condicionalPerfecto": "I would have explained"
+    },
+    "subjuntivo": {
+      "presente": "I explain, am explaining",
+      "imperfecto": "I explained, was explaining",
+      "futuro": "I will explain",
+      "presentePerfecto": "I have explained, explained",
+      "futuroPerfecto": "I will have explained",
+      "pluscuamperfecto": "I had explained"
+    },
+    "afirmativo": "explain!",
+    "negativo": "Don't explain!"
+  },
+  "attribution": "Fred Jehle"
+}

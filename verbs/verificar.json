@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "verificar",
+  "gerundio": "verificando",
+  "participioPasado": "verificado",
+  "indicativo": {
+    "presente": {
+      "yo": "verifico",
+      "tu": "verificas",
+      "ud": "verifica",
+      "nosotros": "verificamos",
+      "vosotros": "verificáis",
+      "uds": "verifican"
+    },
+    "futuro": {
+      "yo": "verificaré",
+      "tu": "verificarás",
+      "ud": "verificará",
+      "nosotros": "verificaremos",
+      "vosotros": "verificaréis",
+      "uds": "verificarán"
+    },
+    "imperfecto": {
+      "yo": "verificaba",
+      "tu": "verificabas",
+      "ud": "verificaba",
+      "nosotros": "verificábamos",
+      "vosotros": "verificabais",
+      "uds": "verificaban"
+    },
+    "preterito": {
+      "yo": "verifiqué",
+      "tu": "verificaste",
+      "ud": "verificó",
+      "nosotros": "verificamos",
+      "vosotros": "verificasteis",
+      "uds": "verificaron"
+    },
+    "condicional": {
+      "yo": "verificaría",
+      "tu": "verificarías",
+      "ud": "verificaría",
+      "nosotros": "verificaríamos",
+      "vosotros": "verificaríais",
+      "uds": "verificarían"
+    },
+    "presentePerfecto": {
+      "yo": "he verificado",
+      "tu": "has verificado",
+      "ud": "ha verificado",
+      "nosotros": "hemos verificado",
+      "vosotros": "habéis verificado",
+      "uds": "han verificado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré verificado",
+      "tu": "habrás verificado",
+      "ud": "habrá verificado",
+      "nosotros": "habremos verificado",
+      "vosotros": "habréis verificado",
+      "uds": "habrán verificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había verificado",
+      "tu": "habías verificado",
+      "ud": "había verificado",
+      "nosotros": "habíamos verificado",
+      "vosotros": "habíais verificado",
+      "uds": "habían verificado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube verificado",
+      "tu": "hubiste verificado",
+      "ud": "hubo verificado",
+      "nosotros": "hubimos verificado",
+      "vosotros": "hubisteis verificado",
+      "uds": "hubieron verificado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría verificado",
+      "tu": "habrías verificado",
+      "ud": "habría verificado",
+      "nosotros": "habríamos verificado",
+      "vosotros": "habríais verificado",
+      "uds": "habrían verificado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "verifique",
+      "tu": "verifiques",
+      "ud": "verifique",
+      "nosotros": "verifiquemos",
+      "vosotros": "verifiquéis",
+      "uds": "verifiquen"
+    },
+    "imperfecto": {
+      "yo": "verificara",
+      "tu": "verificaras",
+      "ud": "verificara",
+      "nosotros": "verificáramos",
+      "vosotros": "verificarais",
+      "uds": "verificaran"
+    },
+    "futuro": {
+      "yo": "verificare",
+      "tu": "verificares",
+      "ud": "verificare",
+      "nosotros": "verificáremos",
+      "vosotros": "verificareis",
+      "uds": "verificaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya verificado",
+      "tu": "hayas verificado",
+      "ud": "haya verificado",
+      "nosotros": "hayamos verificado",
+      "vosotros": "hayáis verificado",
+      "uds": "hayan verificado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere verificado",
+      "tu": "hubieres verificado",
+      "ud": "hubiere verificado",
+      "nosotros": "hubiéremos verificado",
+      "vosotros": "hubiereis verificado",
+      "uds": "hubieren verificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera verificado",
+      "tu": "hubieras verificado",
+      "ud": "hubiera verificado",
+      "nosotros": "hubiéramos verificado",
+      "vosotros": "hubierais verificado",
+      "uds": "hubieran verificado"
+    },
+    "imperfectoAlt": {
+      "yo": "verificase",
+      "tu": "verificases",
+      "ud": "verificase",
+      "nosotros": "verificásemos",
+      "vosotros": "verificaseis",
+      "uds": "verificasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese verificado",
+      "tu": "hubieses verificado",
+      "ud": "hubiese verificado",
+      "nosotros": "hubiésemos verificado",
+      "vosotros": "hubieseis verificado",
+      "uds": "hubiesen verificado"
+    }
+  },
+  "afirmativo": {
+    "tu": "verifica",
+    "vosotros": "verificad",
+    "ud": "verifique",
+    "uds": "verifiquen"
+  },
+  "negativo": {
+    "tu": "no verifiques",
+    "vosotros": "no verifiquéis",
+    "ud": "no verifique",
+    "uds": "no verifiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to verify, check, inspect",
+    "gerundio": "verifying",
+    "participioPasado": "verified",
+    "indicativo": {
+      "presente": "I verify, am verifying",
+      "futuro": "I will verify",
+      "imperfecto": "I was verifying, used to verify, verified",
+      "preterito": "I verified",
+      "condicional": "I would verify",
+      "presentePerfecto": "I have verified",
+      "futuroPerfecto": "I will have verified",
+      "pluscuamperfecto": "I had verified",
+      "preteritoAnterior": "I had verified",
+      "condicionalPerfecto": "I would have verified"
+    },
+    "subjuntivo": {
+      "presente": "I verify, am verifying",
+      "imperfecto": "I verified, was verifying",
+      "futuro": "I will verify",
+      "presentePerfecto": "I have verified, verified",
+      "futuroPerfecto": "I will have verified",
+      "pluscuamperfecto": "I had verified"
+    },
+    "afirmativo": "Verify!",
+    "negativo": "Don't verify!"
+  },
+  "attribution": "Fred Jehle"
+}

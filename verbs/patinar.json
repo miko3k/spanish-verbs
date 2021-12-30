@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "patinar",
+  "gerundio": "patinando",
+  "participioPasado": "patinado",
+  "indicativo": {
+    "presente": {
+      "yo": "patino",
+      "tu": "patinas",
+      "ud": "patina",
+      "nosotros": "patinamos",
+      "vosotros": "patináis",
+      "uds": "patinan"
+    },
+    "futuro": {
+      "yo": "patinaré",
+      "tu": "patinarás",
+      "ud": "patinará",
+      "nosotros": "patinaremos",
+      "vosotros": "patinaréis",
+      "uds": "patinarán"
+    },
+    "imperfecto": {
+      "yo": "patinaba",
+      "tu": "patinabas",
+      "ud": "patinaba",
+      "nosotros": "patinábamos",
+      "vosotros": "patinabais",
+      "uds": "patinaban"
+    },
+    "preterito": {
+      "yo": "patiné",
+      "tu": "patinaste",
+      "ud": "patinó",
+      "nosotros": "patinamos",
+      "vosotros": "patinasteis",
+      "uds": "patinaron"
+    },
+    "condicional": {
+      "yo": "patinaría",
+      "tu": "patinarías",
+      "ud": "patinaría",
+      "nosotros": "patinaríamos",
+      "vosotros": "patinaríais",
+      "uds": "patinarían"
+    },
+    "presentePerfecto": {
+      "yo": "he patinado",
+      "tu": "has patinado",
+      "ud": "ha patinado",
+      "nosotros": "hemos patinado",
+      "vosotros": "habéis patinado",
+      "uds": "han patinado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré patinado",
+      "tu": "habrás patinado",
+      "ud": "habrá patinado",
+      "nosotros": "habremos patinado",
+      "vosotros": "habréis patinado",
+      "uds": "habrán patinado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había patinado",
+      "tu": "habías patinado",
+      "ud": "había patinado",
+      "nosotros": "habíamos patinado",
+      "vosotros": "habíais patinado",
+      "uds": "habían patinado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube patinado",
+      "tu": "hubiste patinado",
+      "ud": "hubo patinado",
+      "nosotros": "hubimos patinado",
+      "vosotros": "hubisteis patinado",
+      "uds": "hubieron patinado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría patinado",
+      "tu": "habrías patinado",
+      "ud": "habría patinado",
+      "nosotros": "habríamos patinado",
+      "vosotros": "habríais patinado",
+      "uds": "habrían patinado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "patine",
+      "tu": "patines",
+      "ud": "patine",
+      "nosotros": "patinemos",
+      "vosotros": "patinéis",
+      "uds": "patinen"
+    },
+    "imperfecto": {
+      "yo": "patinara",
+      "tu": "patinaras",
+      "ud": "patinara",
+      "nosotros": "patináramos",
+      "vosotros": "patinarais",
+      "uds": "patinaran"
+    },
+    "futuro": {
+      "yo": "patinare",
+      "tu": "patinares",
+      "ud": "patinare",
+      "nosotros": "patináremos",
+      "vosotros": "patinareis",
+      "uds": "patinaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya patinado",
+      "tu": "hayas patinado",
+      "ud": "haya patinado",
+      "nosotros": "hayamos patinado",
+      "vosotros": "hayáis patinado",
+      "uds": "hayan patinado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere patinado",
+      "tu": "hubieres patinado",
+      "ud": "hubiere patinado",
+      "nosotros": "hubiéremos patinado",
+      "vosotros": "hubiereis patinado",
+      "uds": "hubieren patinado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera patinado",
+      "tu": "hubieras patinado",
+      "ud": "hubiera patinado",
+      "nosotros": "hubiéramos patinado",
+      "vosotros": "hubierais patinado",
+      "uds": "hubieran patinado"
+    },
+    "imperfectoAlt": {
+      "yo": "patinase",
+      "tu": "patinases",
+      "ud": "patinase",
+      "nosotros": "patinásemos",
+      "vosotros": "patinaseis",
+      "uds": "patinasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese patinado",
+      "tu": "hubieses patinado",
+      "ud": "hubiese patinado",
+      "nosotros": "hubiésemos patinado",
+      "vosotros": "hubieseis patinado",
+      "uds": "hubiesen patinado"
+    }
+  },
+  "afirmativo": {
+    "tu": "patina",
+    "vosotros": "patinad",
+    "ud": "patine",
+    "uds": "patinen"
+  },
+  "negativo": {
+    "tu": "no patines",
+    "vosotros": "no patinéis",
+    "ud": "no patine",
+    "uds": "no patinen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to skate; to slide, skid",
+    "gerundio": "skating",
+    "participioPasado": "skated",
+    "indicativo": {
+      "presente": "I skate, am skating",
+      "futuro": "I will skate",
+      "imperfecto": "I was skating, used to skate, skated",
+      "preterito": "I skated",
+      "condicional": "I would skate",
+      "presentePerfecto": "I have skated",
+      "futuroPerfecto": "I will have skated",
+      "pluscuamperfecto": "I had skated",
+      "preteritoAnterior": "I had skated",
+      "condicionalPerfecto": "I would have skated"
+    },
+    "subjuntivo": {
+      "presente": "I skate, am skating",
+      "imperfecto": "I skated, was skating",
+      "futuro": "I will skate",
+      "presentePerfecto": "I have skated, skated",
+      "futuroPerfecto": "I will have skated",
+      "pluscuamperfecto": "I had skated"
+    },
+    "afirmativo": "Skate!",
+    "negativo": "Don't skate!"
+  },
+  "attribution": "Fred Jehle"
+}

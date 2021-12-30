@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "regresar",
+  "gerundio": "regresando",
+  "participioPasado": "regresado",
+  "indicativo": {
+    "presente": {
+      "yo": "regreso",
+      "tu": "regresas",
+      "ud": "regresa",
+      "nosotros": "regresamos",
+      "vosotros": "regresáis",
+      "uds": "regresan"
+    },
+    "futuro": {
+      "yo": "regresaré",
+      "tu": "regresarás",
+      "ud": "regresará",
+      "nosotros": "regresaremos",
+      "vosotros": "regresaréis",
+      "uds": "regresarán"
+    },
+    "imperfecto": {
+      "yo": "regresaba",
+      "tu": "regresabas",
+      "ud": "regresaba",
+      "nosotros": "regresábamos",
+      "vosotros": "regresabais",
+      "uds": "regresaban"
+    },
+    "preterito": {
+      "yo": "regresé",
+      "tu": "regresaste",
+      "ud": "regresó",
+      "nosotros": "regresamos",
+      "vosotros": "regresasteis",
+      "uds": "regresaron"
+    },
+    "condicional": {
+      "yo": "regresaría",
+      "tu": "regresarías",
+      "ud": "regresaría",
+      "nosotros": "regresaríamos",
+      "vosotros": "regresaríais",
+      "uds": "regresarían"
+    },
+    "presentePerfecto": {
+      "yo": "he regresado",
+      "tu": "has regresado",
+      "ud": "ha regresado",
+      "nosotros": "hemos regresado",
+      "vosotros": "habéis regresado",
+      "uds": "han regresado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré regresado",
+      "tu": "habrás regresado",
+      "ud": "habrá regresado",
+      "nosotros": "habremos regresado",
+      "vosotros": "habréis regresado",
+      "uds": "habrán regresado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había regresado",
+      "tu": "habías regresado",
+      "ud": "había regresado",
+      "nosotros": "habíamos regresado",
+      "vosotros": "habíais regresado",
+      "uds": "habían regresado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube regresado",
+      "tu": "hubiste regresado",
+      "ud": "hubo regresado",
+      "nosotros": "hubimos regresado",
+      "vosotros": "hubisteis regresado",
+      "uds": "hubieron regresado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría regresado",
+      "tu": "habrías regresado",
+      "ud": "habría regresado",
+      "nosotros": "habríamos regresado",
+      "vosotros": "habríais regresado",
+      "uds": "habrían regresado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "regrese",
+      "tu": "regreses",
+      "ud": "regrese",
+      "nosotros": "regresemos",
+      "vosotros": "regreséis",
+      "uds": "regresen"
+    },
+    "imperfecto": {
+      "yo": "regresara",
+      "tu": "regresaras",
+      "ud": "regresara",
+      "nosotros": "regresáramos",
+      "vosotros": "regresarais",
+      "uds": "regresaran"
+    },
+    "futuro": {
+      "yo": "regresare",
+      "tu": "regresares",
+      "ud": "regresare",
+      "nosotros": "regresáremos",
+      "vosotros": "regresareis",
+      "uds": "regresaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya regresado",
+      "tu": "hayas regresado",
+      "ud": "haya regresado",
+      "nosotros": "hayamos regresado",
+      "vosotros": "hayáis regresado",
+      "uds": "hayan regresado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere regresado",
+      "tu": "hubieres regresado",
+      "ud": "hubiere regresado",
+      "nosotros": "hubiéremos regresado",
+      "vosotros": "hubiereis regresado",
+      "uds": "hubieren regresado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera regresado",
+      "tu": "hubieras regresado",
+      "ud": "hubiera regresado",
+      "nosotros": "hubiéramos regresado",
+      "vosotros": "hubierais regresado",
+      "uds": "hubieran regresado"
+    },
+    "imperfectoAlt": {
+      "yo": "regresase",
+      "tu": "regresases",
+      "ud": "regresase",
+      "nosotros": "regresásemos",
+      "vosotros": "regresaseis",
+      "uds": "regresasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese regresado",
+      "tu": "hubieses regresado",
+      "ud": "hubiese regresado",
+      "nosotros": "hubiésemos regresado",
+      "vosotros": "hubieseis regresado",
+      "uds": "hubiesen regresado"
+    }
+  },
+  "afirmativo": {
+    "tu": "regresa",
+    "vosotros": "regresad",
+    "ud": "regrese",
+    "uds": "regresen"
+  },
+  "negativo": {
+    "tu": "no regreses",
+    "vosotros": "no regreséis",
+    "ud": "no regrese",
+    "uds": "no regresen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to return, go back",
+    "gerundio": "returning",
+    "participioPasado": "returned",
+    "indicativo": {
+      "presente": "I return, am returning",
+      "futuro": "I will return",
+      "imperfecto": "I was returning, used to return, returned",
+      "preterito": "I returned",
+      "condicional": "I would return",
+      "presentePerfecto": "I have returned",
+      "futuroPerfecto": "I will have returned",
+      "pluscuamperfecto": "I had returned",
+      "preteritoAnterior": "I had returned",
+      "condicionalPerfecto": "I would have returned"
+    },
+    "subjuntivo": {
+      "presente": "I return, am returning",
+      "imperfecto": "I returned, was returning",
+      "futuro": "I will return",
+      "presentePerfecto": "I have returned, returned",
+      "futuroPerfecto": "I will have returned",
+      "pluscuamperfecto": "I had returned"
+    },
+    "afirmativo": "Return!",
+    "negativo": "Don't return!"
+  },
+  "attribution": "Fred Jehle"
+}

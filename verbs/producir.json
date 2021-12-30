@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "producir",
+  "gerundio": "produciendo",
+  "participioPasado": "producido",
+  "indicativo": {
+    "presente": {
+      "yo": "produzco",
+      "tu": "produces",
+      "ud": "produce",
+      "nosotros": "producimos",
+      "vosotros": "producís",
+      "uds": "producen"
+    },
+    "futuro": {
+      "yo": "produciré",
+      "tu": "producirás",
+      "ud": "producirá",
+      "nosotros": "produciremos",
+      "vosotros": "produciréis",
+      "uds": "producirán"
+    },
+    "imperfecto": {
+      "yo": "producía",
+      "tu": "producías",
+      "ud": "producía",
+      "nosotros": "producíamos",
+      "vosotros": "producíais",
+      "uds": "producían"
+    },
+    "preterito": {
+      "yo": "produje",
+      "tu": "produjiste",
+      "ud": "produjo",
+      "nosotros": "produjimos",
+      "vosotros": "produjisteis",
+      "uds": "produjeron"
+    },
+    "condicional": {
+      "yo": "produciría",
+      "tu": "producirías",
+      "ud": "produciría",
+      "nosotros": "produciríamos",
+      "vosotros": "produciríais",
+      "uds": "producirían"
+    },
+    "presentePerfecto": {
+      "yo": "he producido",
+      "tu": "has producido",
+      "ud": "ha producido",
+      "nosotros": "hemos producido",
+      "vosotros": "habéis producido",
+      "uds": "han producido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré producido",
+      "tu": "habrás producido",
+      "ud": "habrá producido",
+      "nosotros": "habremos producido",
+      "vosotros": "habréis producido",
+      "uds": "habrán producido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había producido",
+      "tu": "habías producido",
+      "ud": "había producido",
+      "nosotros": "habíamos producido",
+      "vosotros": "habíais producido",
+      "uds": "habían producido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube producido",
+      "tu": "hubiste producido",
+      "ud": "hubo producido",
+      "nosotros": "hubimos producido",
+      "vosotros": "hubisteis producido",
+      "uds": "hubieron producido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría producido",
+      "tu": "habrías producido",
+      "ud": "habría producido",
+      "nosotros": "habríamos producido",
+      "vosotros": "habríais producido",
+      "uds": "habrían producido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "produzca",
+      "tu": "produzcas",
+      "ud": "produzca",
+      "nosotros": "produzcamos",
+      "vosotros": "produzcáis",
+      "uds": "produzcan"
+    },
+    "imperfecto": {
+      "yo": "produjera",
+      "tu": "produjeras",
+      "ud": "produjera",
+      "nosotros": "produjéramos",
+      "vosotros": "produjerais",
+      "uds": "produjeran"
+    },
+    "futuro": {
+      "yo": "produjere",
+      "tu": "produjeres",
+      "ud": "produjere",
+      "nosotros": "produjéremos",
+      "vosotros": "produjereis",
+      "uds": "produjeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya producido",
+      "tu": "hayas producido",
+      "ud": "haya producido",
+      "nosotros": "hayamos producido",
+      "vosotros": "hayáis producido",
+      "uds": "hayan producido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere producido",
+      "tu": "hubieres producido",
+      "ud": "hubiere producido",
+      "nosotros": "hubiéremos producido",
+      "vosotros": "hubiereis producido",
+      "uds": "hubieren producido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera producido",
+      "tu": "hubieras producido",
+      "ud": "hubiera producido",
+      "nosotros": "hubiéramos producido",
+      "vosotros": "hubierais producido",
+      "uds": "hubieran producido"
+    },
+    "imperfectoAlt": {
+      "yo": "produjese",
+      "tu": "produjeses",
+      "ud": "produjese",
+      "nosotros": "produjésemos",
+      "vosotros": "produjeseis",
+      "uds": "produjesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese producido",
+      "tu": "hubieses producido",
+      "ud": "hubiese producido",
+      "nosotros": "hubiésemos producido",
+      "vosotros": "hubieseis producido",
+      "uds": "hubiesen producido"
+    }
+  },
+  "afirmativo": {
+    "tu": "produce",
+    "vosotros": "producid",
+    "ud": "produzca",
+    "uds": "produzcan"
+  },
+  "negativo": {
+    "tu": "no produzcas",
+    "vosotros": "no produzcáis",
+    "ud": "no produzca",
+    "uds": "no produzcan"
+  },
+  "english": {
+    "note": "Formas irregulares: produzco, produzca, produzcas, etc.",
+    "infinitivo": "to produce",
+    "gerundio": "producing",
+    "participioPasado": "produced",
+    "indicativo": {
+      "presente": "I produce, am producing",
+      "futuro": "I will produce",
+      "imperfecto": "I was producing, used to produce, produced",
+      "preterito": "I produced",
+      "condicional": "I would produce",
+      "presentePerfecto": "I have produced",
+      "futuroPerfecto": "I will have produced",
+      "pluscuamperfecto": "I had produced",
+      "preteritoAnterior": "I had produced",
+      "condicionalPerfecto": "I would have produced"
+    },
+    "subjuntivo": {
+      "presente": "I produce, am producing",
+      "imperfecto": "I produced, was producing",
+      "futuro": "I will produce",
+      "presentePerfecto": "I have produced, produced",
+      "futuroPerfecto": "I will have produced",
+      "pluscuamperfecto": "I had produced"
+    },
+    "afirmativo": "Produce!",
+    "negativo": "Don't produce!"
+  },
+  "attribution": "Fred Jehle"
+}

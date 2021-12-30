@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "costar",
+  "gerundio": "costando",
+  "participioPasado": "costado",
+  "indicativo": {
+    "presente": {
+      "yo": "cuesto",
+      "tu": "cuestas",
+      "ud": "cuesta",
+      "nosotros": "costamos",
+      "vosotros": "costáis",
+      "uds": "cuestan"
+    },
+    "futuro": {
+      "yo": "costaré",
+      "tu": "costarás",
+      "ud": "costará",
+      "nosotros": "costaremos",
+      "vosotros": "costaréis",
+      "uds": "costarán"
+    },
+    "imperfecto": {
+      "yo": "costaba",
+      "tu": "costabas",
+      "ud": "costaba",
+      "nosotros": "costábamos",
+      "vosotros": "costabais",
+      "uds": "costaban"
+    },
+    "preterito": {
+      "yo": "costé",
+      "tu": "costaste",
+      "ud": "costó",
+      "nosotros": "costamos",
+      "vosotros": "costasteis",
+      "uds": "costaron"
+    },
+    "condicional": {
+      "yo": "costaría",
+      "tu": "costarías",
+      "ud": "costaría",
+      "nosotros": "costaríamos",
+      "vosotros": "costaríais",
+      "uds": "costarían"
+    },
+    "presentePerfecto": {
+      "yo": "he costado",
+      "tu": "has costado",
+      "ud": "ha costado",
+      "nosotros": "hemos costado",
+      "vosotros": "habéis costado",
+      "uds": "han costado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré costado",
+      "tu": "habrás costado",
+      "ud": "habrá costado",
+      "nosotros": "habremos costado",
+      "vosotros": "habréis costado",
+      "uds": "habrán costado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había costado",
+      "tu": "habías costado",
+      "ud": "había costado",
+      "nosotros": "habíamos costado",
+      "vosotros": "habíais costado",
+      "uds": "habían costado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube costado",
+      "tu": "hubiste costado",
+      "ud": "hubo costado",
+      "nosotros": "hubimos costado",
+      "vosotros": "hubisteis costado",
+      "uds": "hubieron costado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría costado",
+      "tu": "habrías costado",
+      "ud": "habría costado",
+      "nosotros": "habríamos costado",
+      "vosotros": "habríais costado",
+      "uds": "habrían costado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cueste",
+      "tu": "cuestes",
+      "ud": "cueste",
+      "nosotros": "costemos",
+      "vosotros": "costéis",
+      "uds": "cuesten"
+    },
+    "imperfecto": {
+      "yo": "costara",
+      "tu": "costaras",
+      "ud": "costara",
+      "nosotros": "costáramos",
+      "vosotros": "costarais",
+      "uds": "costaran"
+    },
+    "futuro": {
+      "yo": "costare",
+      "tu": "costares",
+      "ud": "costare",
+      "nosotros": "costáremos",
+      "vosotros": "costareis",
+      "uds": "costaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya costado",
+      "tu": "hayas costado",
+      "ud": "haya costado",
+      "nosotros": "hayamos costado",
+      "vosotros": "hayáis costado",
+      "uds": "hayan costado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere costado",
+      "tu": "hubieres costado",
+      "ud": "hubiere costado",
+      "nosotros": "hubiéremos costado",
+      "vosotros": "hubiereis costado",
+      "uds": "hubieren costado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera costado",
+      "tu": "hubieras costado",
+      "ud": "hubiera costado",
+      "nosotros": "hubiéramos costado",
+      "vosotros": "hubierais costado",
+      "uds": "hubieran costado"
+    },
+    "imperfectoAlt": {
+      "yo": "costase",
+      "tu": "costases",
+      "ud": "costase",
+      "nosotros": "costásemos",
+      "vosotros": "costaseis",
+      "uds": "costasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese costado",
+      "tu": "hubieses costado",
+      "ud": "hubiese costado",
+      "nosotros": "hubiésemos costado",
+      "vosotros": "hubieseis costado",
+      "uds": "hubiesen costado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cuesta",
+    "vosotros": "costad",
+    "ud": "cueste",
+    "uds": "cuesten"
+  },
+  "negativo": {
+    "tu": "no cuestes",
+    "vosotros": "no costéis",
+    "ud": "no cueste",
+    "uds": "no cuesten"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa.",
+    "infinitivo": "to cost",
+    "gerundio": "costing",
+    "participioPasado": "cost",
+    "indicativo": {
+      "presente": "I cost, am costing",
+      "futuro": "I will cost",
+      "imperfecto": "I was costing, used to cost, cost",
+      "preterito": "I cost",
+      "condicional": "I would cost",
+      "presentePerfecto": "I have cost",
+      "futuroPerfecto": "I will have cost",
+      "pluscuamperfecto": "I had cost",
+      "preteritoAnterior": "I had cost",
+      "condicionalPerfecto": "I would have cost"
+    },
+    "subjuntivo": {
+      "presente": "I cost, am costing",
+      "imperfecto": "I cost, was costing",
+      "futuro": "I will cost",
+      "presentePerfecto": "I have cost, cost",
+      "futuroPerfecto": "I will have cost",
+      "pluscuamperfecto": "I had cost"
+    },
+    "afirmativo": "Cost!",
+    "negativo": "Don't cost!"
+  },
+  "attribution": "Fred Jehle"
+}

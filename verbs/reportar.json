@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "reportar",
+  "gerundio": "reportando",
+  "participioPasado": "reportado",
+  "indicativo": {
+    "presente": {
+      "yo": "reporto",
+      "tu": "reportas",
+      "ud": "reporta",
+      "nosotros": "reportamos",
+      "vosotros": "reportáis",
+      "uds": "reportan"
+    },
+    "futuro": {
+      "yo": "reportaré",
+      "tu": "reportarás",
+      "ud": "reportará",
+      "nosotros": "reportaremos",
+      "vosotros": "reportaréis",
+      "uds": "reportarán"
+    },
+    "imperfecto": {
+      "yo": "reportaba",
+      "tu": "reportabas",
+      "ud": "reportaba",
+      "nosotros": "reportábamos",
+      "vosotros": "reportabais",
+      "uds": "reportaban"
+    },
+    "preterito": {
+      "yo": "reporté",
+      "tu": "reportaste",
+      "ud": "reportó",
+      "nosotros": "reportamos",
+      "vosotros": "reportasteis",
+      "uds": "reportaron"
+    },
+    "condicional": {
+      "yo": "reportaría",
+      "tu": "reportarías",
+      "ud": "reportaría",
+      "nosotros": "reportaríamos",
+      "vosotros": "reportaríais",
+      "uds": "reportarían"
+    },
+    "presentePerfecto": {
+      "yo": "he reportado",
+      "tu": "has reportado",
+      "ud": "ha reportado",
+      "nosotros": "hemos reportado",
+      "vosotros": "habéis reportado",
+      "uds": "han reportado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré reportado",
+      "tu": "habrás reportado",
+      "ud": "habrá reportado",
+      "nosotros": "habremos reportado",
+      "vosotros": "habréis reportado",
+      "uds": "habrán reportado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había reportado",
+      "tu": "habías reportado",
+      "ud": "había reportado",
+      "nosotros": "habíamos reportado",
+      "vosotros": "habíais reportado",
+      "uds": "habían reportado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube reportado",
+      "tu": "hubiste reportado",
+      "ud": "hubo reportado",
+      "nosotros": "hubimos reportado",
+      "vosotros": "hubisteis reportado",
+      "uds": "hubieron reportado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría reportado",
+      "tu": "habrías reportado",
+      "ud": "habría reportado",
+      "nosotros": "habríamos reportado",
+      "vosotros": "habríais reportado",
+      "uds": "habrían reportado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "reporte",
+      "tu": "reportes",
+      "ud": "reporte",
+      "nosotros": "reportemos",
+      "vosotros": "reportéis",
+      "uds": "reporten"
+    },
+    "imperfecto": {
+      "yo": "reportara",
+      "tu": "reportaras",
+      "ud": "reportara",
+      "nosotros": "reportáramos",
+      "vosotros": "reportarais",
+      "uds": "reportaran"
+    },
+    "futuro": {
+      "yo": "reportare",
+      "tu": "reportares",
+      "ud": "reportare",
+      "nosotros": "reportáremos",
+      "vosotros": "reportareis",
+      "uds": "reportaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya reportado",
+      "tu": "hayas reportado",
+      "ud": "haya reportado",
+      "nosotros": "hayamos reportado",
+      "vosotros": "hayáis reportado",
+      "uds": "hayan reportado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere reportado",
+      "tu": "hubieres reportado",
+      "ud": "hubiere reportado",
+      "nosotros": "hubiéremos reportado",
+      "vosotros": "hubiereis reportado",
+      "uds": "hubieren reportado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera reportado",
+      "tu": "hubieras reportado",
+      "ud": "hubiera reportado",
+      "nosotros": "hubiéramos reportado",
+      "vosotros": "hubierais reportado",
+      "uds": "hubieran reportado"
+    },
+    "imperfectoAlt": {
+      "yo": "reportase",
+      "tu": "reportases",
+      "ud": "reportase",
+      "nosotros": "reportásemos",
+      "vosotros": "reportaseis",
+      "uds": "reportasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese reportado",
+      "tu": "hubieses reportado",
+      "ud": "hubiese reportado",
+      "nosotros": "hubiésemos reportado",
+      "vosotros": "hubieseis reportado",
+      "uds": "hubiesen reportado"
+    }
+  },
+  "afirmativo": {
+    "tu": "reporta",
+    "vosotros": "reportad",
+    "ud": "reporte",
+    "uds": "reporten"
+  },
+  "negativo": {
+    "tu": "no reportes",
+    "vosotros": "no reportéis",
+    "ud": "no reporte",
+    "uds": "no reporten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to bring, carry; to obtain; to report, inform; to denounce, accuse",
+    "gerundio": "bringing",
+    "participioPasado": "brought",
+    "indicativo": {
+      "presente": "I bring, am bringing",
+      "futuro": "I will bring",
+      "imperfecto": "I was bringing, used to bring, brought",
+      "preterito": "I brought",
+      "condicional": "I would bring",
+      "presentePerfecto": "I have brought",
+      "futuroPerfecto": "I will have brought",
+      "pluscuamperfecto": "I had brought",
+      "preteritoAnterior": "I had brought",
+      "condicionalPerfecto": "I would have brought"
+    },
+    "subjuntivo": {
+      "presente": "I bring, am bringing",
+      "imperfecto": "I brought, was bringing",
+      "futuro": "I will bring",
+      "presentePerfecto": "I have brought, brought",
+      "futuroPerfecto": "I will have brought",
+      "pluscuamperfecto": "I had brought"
+    },
+    "afirmativo": "Bring!",
+    "negativo": "Don't bring!"
+  },
+  "attribution": "Fred Jehle"
+}

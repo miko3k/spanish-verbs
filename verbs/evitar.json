@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "evitar",
+  "gerundio": "evitando",
+  "participioPasado": "evitado",
+  "indicativo": {
+    "presente": {
+      "yo": "evito",
+      "tu": "evitas",
+      "ud": "evita",
+      "nosotros": "evitamos",
+      "vosotros": "evitáis",
+      "uds": "evitan"
+    },
+    "futuro": {
+      "yo": "evitaré",
+      "tu": "evitarás",
+      "ud": "evitará",
+      "nosotros": "evitaremos",
+      "vosotros": "evitaréis",
+      "uds": "evitarán"
+    },
+    "imperfecto": {
+      "yo": "evitaba",
+      "tu": "evitabas",
+      "ud": "evitaba",
+      "nosotros": "evitábamos",
+      "vosotros": "evitabais",
+      "uds": "evitaban"
+    },
+    "preterito": {
+      "yo": "evité",
+      "tu": "evitaste",
+      "ud": "evitó",
+      "nosotros": "evitamos",
+      "vosotros": "evitasteis",
+      "uds": "evitaron"
+    },
+    "condicional": {
+      "yo": "evitaría",
+      "tu": "evitarías",
+      "ud": "evitaría",
+      "nosotros": "evitaríamos",
+      "vosotros": "evitaríais",
+      "uds": "evitarían"
+    },
+    "presentePerfecto": {
+      "yo": "he evitado",
+      "tu": "has evitado",
+      "ud": "ha evitado",
+      "nosotros": "hemos evitado",
+      "vosotros": "habéis evitado",
+      "uds": "han evitado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré evitado",
+      "tu": "habrás evitado",
+      "ud": "habrá evitado",
+      "nosotros": "habremos evitado",
+      "vosotros": "habréis evitado",
+      "uds": "habrán evitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había evitado",
+      "tu": "habías evitado",
+      "ud": "había evitado",
+      "nosotros": "habíamos evitado",
+      "vosotros": "habíais evitado",
+      "uds": "habían evitado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube evitado",
+      "tu": "hubiste evitado",
+      "ud": "hubo evitado",
+      "nosotros": "hubimos evitado",
+      "vosotros": "hubisteis evitado",
+      "uds": "hubieron evitado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría evitado",
+      "tu": "habrías evitado",
+      "ud": "habría evitado",
+      "nosotros": "habríamos evitado",
+      "vosotros": "habríais evitado",
+      "uds": "habrían evitado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "evite",
+      "tu": "evites",
+      "ud": "evite",
+      "nosotros": "evitemos",
+      "vosotros": "evitéis",
+      "uds": "eviten"
+    },
+    "imperfecto": {
+      "yo": "evitara",
+      "tu": "evitaras",
+      "ud": "evitara",
+      "nosotros": "evitáramos",
+      "vosotros": "evitarais",
+      "uds": "evitaran"
+    },
+    "futuro": {
+      "yo": "evitare",
+      "tu": "evitares",
+      "ud": "evitare",
+      "nosotros": "evitáremos",
+      "vosotros": "evitareis",
+      "uds": "evitaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya evitado",
+      "tu": "hayas evitado",
+      "ud": "haya evitado",
+      "nosotros": "hayamos evitado",
+      "vosotros": "hayáis evitado",
+      "uds": "hayan evitado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere evitado",
+      "tu": "hubieres evitado",
+      "ud": "hubiere evitado",
+      "nosotros": "hubiéremos evitado",
+      "vosotros": "hubiereis evitado",
+      "uds": "hubieren evitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera evitado",
+      "tu": "hubieras evitado",
+      "ud": "hubiera evitado",
+      "nosotros": "hubiéramos evitado",
+      "vosotros": "hubierais evitado",
+      "uds": "hubieran evitado"
+    },
+    "imperfectoAlt": {
+      "yo": "evitase",
+      "tu": "evitases",
+      "ud": "evitase",
+      "nosotros": "evitásemos",
+      "vosotros": "evitaseis",
+      "uds": "evitasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese evitado",
+      "tu": "hubieses evitado",
+      "ud": "hubiese evitado",
+      "nosotros": "hubiésemos evitado",
+      "vosotros": "hubieseis evitado",
+      "uds": "hubiesen evitado"
+    }
+  },
+  "afirmativo": {
+    "tu": "evita",
+    "vosotros": "evitad",
+    "ud": "evite",
+    "uds": "eviten"
+  },
+  "negativo": {
+    "tu": "no evites",
+    "vosotros": "no evitéis",
+    "ud": "no evite",
+    "uds": "no eviten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to avoid; to prevent",
+    "gerundio": "avoiding",
+    "participioPasado": "avoided",
+    "indicativo": {
+      "presente": "I avoid, am avoiding",
+      "futuro": "I will avoid",
+      "imperfecto": "I was avoiding, used to avoid, avoided",
+      "preterito": "I avoided",
+      "condicional": "I would avoid",
+      "presentePerfecto": "I have avoided",
+      "futuroPerfecto": "I will have avoided",
+      "pluscuamperfecto": "I had avoided",
+      "preteritoAnterior": "I had avoided",
+      "condicionalPerfecto": "I would have avoided"
+    },
+    "subjuntivo": {
+      "presente": "I avoid, am avoiding",
+      "imperfecto": "I avoided, was avoiding",
+      "futuro": "I will avoid",
+      "presentePerfecto": "I have avoided, avoided",
+      "futuroPerfecto": "I will have avoided",
+      "pluscuamperfecto": "I had avoided"
+    },
+    "afirmativo": "Avoid!",
+    "negativo": "Don't avoid!"
+  },
+  "attribution": "Fred Jehle"
+}

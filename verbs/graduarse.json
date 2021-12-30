@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "graduarse",
+  "gerundio": "graduándose",
+  "participioPasado": "graduado",
+  "indicativo": {
+    "presente": {
+      "yo": "me gradúo",
+      "tu": "te gradúas",
+      "ud": "se gradúa",
+      "nosotros": "nos graduamos",
+      "vosotros": "os graduáis",
+      "uds": "se gradúan"
+    },
+    "futuro": {
+      "yo": "me graduaré",
+      "tu": "te graduarás",
+      "ud": "se graduará",
+      "nosotros": "nos graduaremos",
+      "vosotros": "os graduaréis",
+      "uds": "se graduarán"
+    },
+    "imperfecto": {
+      "yo": "me graduaba",
+      "tu": "te graduabas",
+      "ud": "se graduaba",
+      "nosotros": "nos graduábamos",
+      "vosotros": "os graduabais",
+      "uds": "se graduaban"
+    },
+    "preterito": {
+      "yo": "me gradué",
+      "tu": "te graduaste",
+      "ud": "se graduó",
+      "nosotros": "nos graduamos",
+      "vosotros": "os graduasteis",
+      "uds": "se graduaron"
+    },
+    "condicional": {
+      "yo": "me graduaría",
+      "tu": "te graduarías",
+      "ud": "se graduaría",
+      "nosotros": "nos graduaríamos",
+      "vosotros": "os graduaríais",
+      "uds": "se graduarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he graduado",
+      "tu": "te has graduado",
+      "ud": "se ha graduado",
+      "nosotros": "nos hemos graduado",
+      "vosotros": "os habéis graduado",
+      "uds": "se han graduado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré graduado",
+      "tu": "te habrás graduado",
+      "ud": "se habrá graduado",
+      "nosotros": "nos habremos graduado",
+      "vosotros": "os habréis graduado",
+      "uds": "se habrán graduado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había graduado",
+      "tu": "te habías graduado",
+      "ud": "se había graduado",
+      "nosotros": "nos habíamos graduado",
+      "vosotros": "os habíais graduado",
+      "uds": "se habían graduado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube graduado",
+      "tu": "te hubiste graduado",
+      "ud": "se hubo graduado",
+      "nosotros": "nos hubimos graduado",
+      "vosotros": "os hubisteis graduado",
+      "uds": "se hubieron graduado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría graduado",
+      "tu": "te habrías graduado",
+      "ud": "se habría graduado",
+      "nosotros": "nos habríamos graduado",
+      "vosotros": "os habríais graduado",
+      "uds": "se habrían graduado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me gradúe",
+      "tu": "te gradúes",
+      "ud": "se gradúe",
+      "nosotros": "nos graduemos",
+      "vosotros": "os graduéis",
+      "uds": "se gradúen"
+    },
+    "imperfecto": {
+      "yo": "me graduara",
+      "tu": "te graduaras",
+      "ud": "se graduara",
+      "nosotros": "nos graduáramos",
+      "vosotros": "os graduarais",
+      "uds": "se graduaran"
+    },
+    "futuro": {
+      "yo": "me graduare",
+      "tu": "te graduares",
+      "ud": "se graduare",
+      "nosotros": "nos graduáremos",
+      "vosotros": "os graduareis",
+      "uds": "se graduaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya graduado",
+      "tu": "te hayas graduado",
+      "ud": "se haya graduado",
+      "nosotros": "nos hayamos graduado",
+      "vosotros": "os hayáis graduado",
+      "uds": "se hayan graduado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere graduado",
+      "tu": "te hubieres graduado",
+      "ud": "se hubiere graduado",
+      "nosotros": "nos hubiéremos graduado",
+      "vosotros": "os hubiereis graduado",
+      "uds": "se hubieren graduado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera graduado",
+      "tu": "te hubieras graduado",
+      "ud": "se hubiera graduado",
+      "nosotros": "nos hubiéramos graduado",
+      "vosotros": "os hubierais graduado",
+      "uds": "se hubieran graduado"
+    },
+    "imperfectoAlt": {
+      "yo": "me graduase",
+      "tu": "te graduases",
+      "ud": "se graduase",
+      "nosotros": "nos graduásemos",
+      "vosotros": "os graduaseis",
+      "uds": "se graduasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese graduado",
+      "tu": "te hubieses graduado",
+      "ud": "se hubiese graduado",
+      "nosotros": "nos hubiésemos graduado",
+      "vosotros": "os hubieseis graduado",
+      "uds": "se hubiesen graduado"
+    }
+  },
+  "afirmativo": {
+    "tu": "gradúate",
+    "vosotros": "graduaos",
+    "ud": "gradúese",
+    "uds": "gradúense"
+  },
+  "negativo": {
+    "tu": "no te gradúes",
+    "vosotros": "no os graduéis",
+    "ud": "no se gradúe",
+    "uds": "no se gradúen"
+  },
+  "english": {
+    "note": "Cambio: u > ú cuando la radical tiene el acento tónico. Note: Use the nonreflexive form graduar for the transitive meaning to graduate: La universidad graduó muchos estudiantes. = The college graduated many students.",
+    "infinitivo": "to graduate",
+    "gerundio": "graduating",
+    "participioPasado": "graduated",
+    "indicativo": {
+      "presente": "I graduate, am graduating",
+      "futuro": "I will graduate",
+      "imperfecto": "I was graduating, used to graduate, graduated",
+      "preterito": "I graduated",
+      "condicional": "I would graduate",
+      "presentePerfecto": "I have graduated",
+      "futuroPerfecto": "I will have graduated",
+      "pluscuamperfecto": "I had graduated",
+      "preteritoAnterior": "I had graduated",
+      "condicionalPerfecto": "I would have graduated"
+    },
+    "subjuntivo": {
+      "presente": "I graduate, am graduating",
+      "imperfecto": "I graduated, was graduating",
+      "futuro": "I will graduate",
+      "presentePerfecto": "I have graduated, graduated",
+      "futuroPerfecto": "I will have graduated",
+      "pluscuamperfecto": "I had graduated"
+    },
+    "afirmativo": "Graduate!",
+    "negativo": "Don't graduate!"
+  },
+  "attribution": "Fred Jehle"
+}

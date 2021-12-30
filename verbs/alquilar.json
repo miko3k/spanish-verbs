@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "alquilar",
+  "gerundio": "alquilando",
+  "participioPasado": "alquilado",
+  "indicativo": {
+    "presente": {
+      "yo": "alquilo",
+      "tu": "alquilas",
+      "ud": "alquila",
+      "nosotros": "alquilamos",
+      "vosotros": "alquiláis",
+      "uds": "alquilan"
+    },
+    "futuro": {
+      "yo": "alquilaré",
+      "tu": "alquilarás",
+      "ud": "alquilará",
+      "nosotros": "alquilaremos",
+      "vosotros": "alquilaréis",
+      "uds": "alquilarán"
+    },
+    "imperfecto": {
+      "yo": "alquilaba",
+      "tu": "alquilabas",
+      "ud": "alquilaba",
+      "nosotros": "alquilábamos",
+      "vosotros": "alquilabais",
+      "uds": "alquilaban"
+    },
+    "preterito": {
+      "yo": "alquilé",
+      "tu": "alquilaste",
+      "ud": "alquiló",
+      "nosotros": "alquilamos",
+      "vosotros": "alquilasteis",
+      "uds": "alquilaron"
+    },
+    "condicional": {
+      "yo": "alquilaría",
+      "tu": "alquilarías",
+      "ud": "alquilaría",
+      "nosotros": "alquilaríamos",
+      "vosotros": "alquilaríais",
+      "uds": "alquilarían"
+    },
+    "presentePerfecto": {
+      "yo": "he alquilado",
+      "tu": "has alquilado",
+      "ud": "ha alquilado",
+      "nosotros": "hemos alquilado",
+      "vosotros": "habéis alquilado",
+      "uds": "han alquilado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré alquilado",
+      "tu": "habrás alquilado",
+      "ud": "habrá alquilado",
+      "nosotros": "habremos alquilado",
+      "vosotros": "habréis alquilado",
+      "uds": "habrán alquilado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había alquilado",
+      "tu": "habías alquilado",
+      "ud": "había alquilado",
+      "nosotros": "habíamos alquilado",
+      "vosotros": "habíais alquilado",
+      "uds": "habían alquilado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube alquilado",
+      "tu": "hubiste alquilado",
+      "ud": "hubo alquilado",
+      "nosotros": "hubimos alquilado",
+      "vosotros": "hubisteis alquilado",
+      "uds": "hubieron alquilado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría alquilado",
+      "tu": "habrías alquilado",
+      "ud": "habría alquilado",
+      "nosotros": "habríamos alquilado",
+      "vosotros": "habríais alquilado",
+      "uds": "habrían alquilado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "alquile",
+      "tu": "alquiles",
+      "ud": "alquile",
+      "nosotros": "alquilemos",
+      "vosotros": "alquiléis",
+      "uds": "alquilen"
+    },
+    "imperfecto": {
+      "yo": "alquilara",
+      "tu": "alquilaras",
+      "ud": "alquilara",
+      "nosotros": "alquiláramos",
+      "vosotros": "alquilarais",
+      "uds": "alquilaran"
+    },
+    "futuro": {
+      "yo": "alquilare",
+      "tu": "alquilares",
+      "ud": "alquilare",
+      "nosotros": "alquiláremos",
+      "vosotros": "alquilareis",
+      "uds": "alquilaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya alquilado",
+      "tu": "hayas alquilado",
+      "ud": "haya alquilado",
+      "nosotros": "hayamos alquilado",
+      "vosotros": "hayáis alquilado",
+      "uds": "hayan alquilado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere alquilado",
+      "tu": "hubieres alquilado",
+      "ud": "hubiere alquilado",
+      "nosotros": "hubiéremos alquilado",
+      "vosotros": "hubiereis alquilado",
+      "uds": "hubieren alquilado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera alquilado",
+      "tu": "hubieras alquilado",
+      "ud": "hubiera alquilado",
+      "nosotros": "hubiéramos alquilado",
+      "vosotros": "hubierais alquilado",
+      "uds": "hubieran alquilado"
+    },
+    "imperfectoAlt": {
+      "yo": "alquilase",
+      "tu": "alquilases",
+      "ud": "alquilase",
+      "nosotros": "alquilásemos",
+      "vosotros": "alquilaseis",
+      "uds": "alquilasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese alquilado",
+      "tu": "hubieses alquilado",
+      "ud": "hubiese alquilado",
+      "nosotros": "hubiésemos alquilado",
+      "vosotros": "hubieseis alquilado",
+      "uds": "hubiesen alquilado"
+    }
+  },
+  "afirmativo": {
+    "tu": "alquila",
+    "vosotros": "alquilad",
+    "ud": "alquile",
+    "uds": "alquilen"
+  },
+  "negativo": {
+    "tu": "no alquiles",
+    "vosotros": "no alquiléis",
+    "ud": "no alquile",
+    "uds": "no alquilen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to rent; to rent out, let",
+    "gerundio": "renting",
+    "participioPasado": "rented",
+    "indicativo": {
+      "presente": "I rent, am renting",
+      "futuro": "I will rent",
+      "imperfecto": "I was renting, used to rent, rented",
+      "preterito": "I rented",
+      "condicional": "I would rent",
+      "presentePerfecto": "I have rented",
+      "futuroPerfecto": "I will have rented",
+      "pluscuamperfecto": "I had rented",
+      "preteritoAnterior": "I had rented",
+      "condicionalPerfecto": "I would have rented"
+    },
+    "subjuntivo": {
+      "presente": "I rent, am renting",
+      "imperfecto": "I rented, was renting",
+      "futuro": "I will rent",
+      "presentePerfecto": "I have rented, rented",
+      "futuroPerfecto": "I will have rented",
+      "pluscuamperfecto": "I had rented"
+    },
+    "afirmativo": "Rent!",
+    "negativo": "Don't rent!"
+  },
+  "attribution": "Fred Jehle"
+}

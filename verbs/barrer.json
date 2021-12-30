@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "barrer",
+  "gerundio": "barriendo",
+  "participioPasado": "barrido",
+  "indicativo": {
+    "presente": {
+      "yo": "barro",
+      "tu": "barres",
+      "ud": "barre",
+      "nosotros": "barremos",
+      "vosotros": "barréis",
+      "uds": "barren"
+    },
+    "futuro": {
+      "yo": "barreré",
+      "tu": "barrerás",
+      "ud": "barrerá",
+      "nosotros": "barreremos",
+      "vosotros": "barreréis",
+      "uds": "barrerán"
+    },
+    "imperfecto": {
+      "yo": "barría",
+      "tu": "barrías",
+      "ud": "barría",
+      "nosotros": "barríamos",
+      "vosotros": "barríais",
+      "uds": "barrían"
+    },
+    "preterito": {
+      "yo": "barrí",
+      "tu": "barriste",
+      "ud": "barrió",
+      "nosotros": "barrimos",
+      "vosotros": "barristeis",
+      "uds": "barrieron"
+    },
+    "condicional": {
+      "yo": "barrería",
+      "tu": "barrerías",
+      "ud": "barrería",
+      "nosotros": "barreríamos",
+      "vosotros": "barreríais",
+      "uds": "barrerían"
+    },
+    "presentePerfecto": {
+      "yo": "he barrido",
+      "tu": "has barrido",
+      "ud": "ha barrido",
+      "nosotros": "hemos barrido",
+      "vosotros": "habéis barrido",
+      "uds": "han barrido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré barrido",
+      "tu": "habrás barrido",
+      "ud": "habrá barrido",
+      "nosotros": "habremos barrido",
+      "vosotros": "habréis barrido",
+      "uds": "habrán barrido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había barrido",
+      "tu": "habías barrido",
+      "ud": "había barrido",
+      "nosotros": "habíamos barrido",
+      "vosotros": "habíais barrido",
+      "uds": "habían barrido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube barrido",
+      "tu": "hubiste barrido",
+      "ud": "hubo barrido",
+      "nosotros": "hubimos barrido",
+      "vosotros": "hubisteis barrido",
+      "uds": "hubieron barrido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría barrido",
+      "tu": "habrías barrido",
+      "ud": "habría barrido",
+      "nosotros": "habríamos barrido",
+      "vosotros": "habríais barrido",
+      "uds": "habrían barrido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "barra",
+      "tu": "barras",
+      "ud": "barra",
+      "nosotros": "barramos",
+      "vosotros": "barráis",
+      "uds": "barran"
+    },
+    "imperfecto": {
+      "yo": "barriera",
+      "tu": "barrieras",
+      "ud": "barriera",
+      "nosotros": "barriéramos",
+      "vosotros": "barrierais",
+      "uds": "barrieran"
+    },
+    "futuro": {
+      "yo": "barriere",
+      "tu": "barrieres",
+      "ud": "barriere",
+      "nosotros": "barriéremos",
+      "vosotros": "barriereis",
+      "uds": "barrieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya barrido",
+      "tu": "hayas barrido",
+      "ud": "haya barrido",
+      "nosotros": "hayamos barrido",
+      "vosotros": "hayáis barrido",
+      "uds": "hayan barrido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere barrido",
+      "tu": "hubieres barrido",
+      "ud": "hubiere barrido",
+      "nosotros": "hubiéremos barrido",
+      "vosotros": "hubiereis barrido",
+      "uds": "hubieren barrido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera barrido",
+      "tu": "hubieras barrido",
+      "ud": "hubiera barrido",
+      "nosotros": "hubiéramos barrido",
+      "vosotros": "hubierais barrido",
+      "uds": "hubieran barrido"
+    },
+    "imperfectoAlt": {
+      "yo": "barriese",
+      "tu": "barrieses",
+      "ud": "barriese",
+      "nosotros": "barriésemos",
+      "vosotros": "barrieseis",
+      "uds": "barriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese barrido",
+      "tu": "hubieses barrido",
+      "ud": "hubiese barrido",
+      "nosotros": "hubiésemos barrido",
+      "vosotros": "hubieseis barrido",
+      "uds": "hubiesen barrido"
+    }
+  },
+  "afirmativo": {
+    "tu": "barre",
+    "vosotros": "barred",
+    "ud": "barra",
+    "uds": "barran"
+  },
+  "negativo": {
+    "tu": "no barras",
+    "vosotros": "no barráis",
+    "ud": "no barra",
+    "uds": "no barran"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to sweep, sweep clean, sweep out, sweep away",
+    "gerundio": "sweeping",
+    "participioPasado": "swept",
+    "indicativo": {
+      "presente": "I sweep, am sweeping",
+      "futuro": "I will sweep",
+      "imperfecto": "I was sweeping, used to sweep, swept",
+      "preterito": "I swept",
+      "condicional": "I would sweep",
+      "presentePerfecto": "I have swept",
+      "futuroPerfecto": "I will have swept",
+      "pluscuamperfecto": "I had swept",
+      "preteritoAnterior": "I had swept",
+      "condicionalPerfecto": "I would have swept"
+    },
+    "subjuntivo": {
+      "presente": "I sweep, am sweeping",
+      "imperfecto": "I swept, was sweeping",
+      "futuro": "I will sweep",
+      "presentePerfecto": "I have swept, swept",
+      "futuroPerfecto": "I will have swept",
+      "pluscuamperfecto": "I had swept"
+    },
+    "afirmativo": "Sweep!",
+    "negativo": "Don't sweep!"
+  },
+  "attribution": "Fred Jehle"
+}

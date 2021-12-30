@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "tomar",
+  "gerundio": "tomando",
+  "participioPasado": "tomado",
+  "indicativo": {
+    "presente": {
+      "yo": "tomo",
+      "tu": "tomas",
+      "ud": "toma",
+      "nosotros": "tomamos",
+      "vosotros": "tomáis",
+      "uds": "toman"
+    },
+    "futuro": {
+      "yo": "tomaré",
+      "tu": "tomarás",
+      "ud": "tomará",
+      "nosotros": "tomaremos",
+      "vosotros": "tomaréis",
+      "uds": "tomarán"
+    },
+    "imperfecto": {
+      "yo": "tomaba",
+      "tu": "tomabas",
+      "ud": "tomaba",
+      "nosotros": "tomábamos",
+      "vosotros": "tomabais",
+      "uds": "tomaban"
+    },
+    "preterito": {
+      "yo": "tomé",
+      "tu": "tomaste",
+      "ud": "tomó",
+      "nosotros": "tomamos",
+      "vosotros": "tomasteis",
+      "uds": "tomaron"
+    },
+    "condicional": {
+      "yo": "tomaría",
+      "tu": "tomarías",
+      "ud": "tomaría",
+      "nosotros": "tomaríamos",
+      "vosotros": "tomaríais",
+      "uds": "tomarían"
+    },
+    "presentePerfecto": {
+      "yo": "he tomado",
+      "tu": "has tomado",
+      "ud": "ha tomado",
+      "nosotros": "hemos tomado",
+      "vosotros": "habéis tomado",
+      "uds": "han tomado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré tomado",
+      "tu": "habrás tomado",
+      "ud": "habrá tomado",
+      "nosotros": "habremos tomado",
+      "vosotros": "habréis tomado",
+      "uds": "habrán tomado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había tomado",
+      "tu": "habías tomado",
+      "ud": "había tomado",
+      "nosotros": "habíamos tomado",
+      "vosotros": "habíais tomado",
+      "uds": "habían tomado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube tomado",
+      "tu": "hubiste tomado",
+      "ud": "hubo tomado",
+      "nosotros": "hubimos tomado",
+      "vosotros": "hubisteis tomado",
+      "uds": "hubieron tomado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría tomado",
+      "tu": "habrías tomado",
+      "ud": "habría tomado",
+      "nosotros": "habríamos tomado",
+      "vosotros": "habríais tomado",
+      "uds": "habrían tomado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "tome",
+      "tu": "tomes",
+      "ud": "tome",
+      "nosotros": "tomemos",
+      "vosotros": "toméis",
+      "uds": "tomen"
+    },
+    "imperfecto": {
+      "yo": "tomara",
+      "tu": "tomaras",
+      "ud": "tomara",
+      "nosotros": "tomáramos",
+      "vosotros": "tomarais",
+      "uds": "tomaran"
+    },
+    "futuro": {
+      "yo": "tomare",
+      "tu": "tomares",
+      "ud": "tomare",
+      "nosotros": "tomáremos",
+      "vosotros": "tomareis",
+      "uds": "tomaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya tomado",
+      "tu": "hayas tomado",
+      "ud": "haya tomado",
+      "nosotros": "hayamos tomado",
+      "vosotros": "hayáis tomado",
+      "uds": "hayan tomado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere tomado",
+      "tu": "hubieres tomado",
+      "ud": "hubiere tomado",
+      "nosotros": "hubiéremos tomado",
+      "vosotros": "hubiereis tomado",
+      "uds": "hubieren tomado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera tomado",
+      "tu": "hubieras tomado",
+      "ud": "hubiera tomado",
+      "nosotros": "hubiéramos tomado",
+      "vosotros": "hubierais tomado",
+      "uds": "hubieran tomado"
+    },
+    "imperfectoAlt": {
+      "yo": "tomase",
+      "tu": "tomases",
+      "ud": "tomase",
+      "nosotros": "tomásemos",
+      "vosotros": "tomaseis",
+      "uds": "tomasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese tomado",
+      "tu": "hubieses tomado",
+      "ud": "hubiese tomado",
+      "nosotros": "hubiésemos tomado",
+      "vosotros": "hubieseis tomado",
+      "uds": "hubiesen tomado"
+    }
+  },
+  "afirmativo": {
+    "tu": "toma",
+    "vosotros": "tomad",
+    "ud": "tome",
+    "uds": "tomen"
+  },
+  "negativo": {
+    "tu": "no tomes",
+    "vosotros": "no toméis",
+    "ud": "no tome",
+    "uds": "no tomen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to take, drink",
+    "gerundio": "taking",
+    "participioPasado": "taken",
+    "indicativo": {
+      "presente": "I take, am taking",
+      "futuro": "I will take",
+      "imperfecto": "I was taking, used to take, took",
+      "preterito": "I took",
+      "condicional": "I would take",
+      "presentePerfecto": "I have taken",
+      "futuroPerfecto": "I will have taken",
+      "pluscuamperfecto": "I had taken",
+      "preteritoAnterior": "I had taken",
+      "condicionalPerfecto": "I would have taken"
+    },
+    "subjuntivo": {
+      "presente": "I take, am taking",
+      "imperfecto": "I took, was taking",
+      "futuro": "I will take",
+      "presentePerfecto": "I have taken, took",
+      "futuroPerfecto": "I will have taken",
+      "pluscuamperfecto": "I had taken"
+    },
+    "afirmativo": "Take!",
+    "negativo": "Don't take!"
+  },
+  "attribution": "Fred Jehle"
+}

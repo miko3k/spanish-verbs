@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "valer",
+  "gerundio": "valiendo",
+  "participioPasado": "valido",
+  "indicativo": {
+    "presente": {
+      "yo": "valgo",
+      "tu": "vales",
+      "ud": "vale",
+      "nosotros": "valemos",
+      "vosotros": "valéis",
+      "uds": "valen"
+    },
+    "futuro": {
+      "yo": "valdré",
+      "tu": "valdrás",
+      "ud": "valdrá",
+      "nosotros": "valdremos",
+      "vosotros": "valdréis",
+      "uds": "valdrán"
+    },
+    "imperfecto": {
+      "yo": "valía",
+      "tu": "valías",
+      "ud": "valía",
+      "nosotros": "valíamos",
+      "vosotros": "valíais",
+      "uds": "valían"
+    },
+    "preterito": {
+      "yo": "valí",
+      "tu": "valiste",
+      "ud": "valió",
+      "nosotros": "valimos",
+      "vosotros": "valisteis",
+      "uds": "valieron"
+    },
+    "condicional": {
+      "yo": "valdría",
+      "tu": "valdrías",
+      "ud": "valdría",
+      "nosotros": "valdríamos",
+      "vosotros": "valdríais",
+      "uds": "valdrían"
+    },
+    "presentePerfecto": {
+      "yo": "he valido",
+      "tu": "has valido",
+      "ud": "ha valido",
+      "nosotros": "hemos valido",
+      "vosotros": "habéis valido",
+      "uds": "han valido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré valido",
+      "tu": "habrás valido",
+      "ud": "habrá valido",
+      "nosotros": "habremos valido",
+      "vosotros": "habréis valido",
+      "uds": "habrán valido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había valido",
+      "tu": "habías valido",
+      "ud": "había valido",
+      "nosotros": "habíamos valido",
+      "vosotros": "habíais valido",
+      "uds": "habían valido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube valido",
+      "tu": "hubiste valido",
+      "ud": "hubo valido",
+      "nosotros": "hubimos valido",
+      "vosotros": "hubisteis valido",
+      "uds": "hubieron valido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría valido",
+      "tu": "habrías valido",
+      "ud": "habría valido",
+      "nosotros": "habríamos valido",
+      "vosotros": "habríais valido",
+      "uds": "habrían valido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "valga",
+      "tu": "valgas",
+      "ud": "valga",
+      "nosotros": "valgamos",
+      "vosotros": "valgáis",
+      "uds": "valgan"
+    },
+    "imperfecto": {
+      "yo": "valiera",
+      "tu": "valieras",
+      "ud": "valiera",
+      "nosotros": "valiéramos",
+      "vosotros": "valierais",
+      "uds": "valieran"
+    },
+    "futuro": {
+      "yo": "valiere",
+      "tu": "valieres",
+      "ud": "valiere",
+      "nosotros": "valiéremos",
+      "vosotros": "valiereis",
+      "uds": "valieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya valido",
+      "tu": "hayas valido",
+      "ud": "haya valido",
+      "nosotros": "hayamos valido",
+      "vosotros": "hayáis valido",
+      "uds": "hayan valido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere valido",
+      "tu": "hubieres valido",
+      "ud": "hubiere valido",
+      "nosotros": "hubiéremos valido",
+      "vosotros": "hubiereis valido",
+      "uds": "hubieren valido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera valido",
+      "tu": "hubieras valido",
+      "ud": "hubiera valido",
+      "nosotros": "hubiéramos valido",
+      "vosotros": "hubierais valido",
+      "uds": "hubieran valido"
+    },
+    "imperfectoAlt": {
+      "yo": "valiese",
+      "tu": "valieses",
+      "ud": "valiese",
+      "nosotros": "valiésemos",
+      "vosotros": "valieseis",
+      "uds": "valiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese valido",
+      "tu": "hubieses valido",
+      "ud": "hubiese valido",
+      "nosotros": "hubiésemos valido",
+      "vosotros": "hubieseis valido",
+      "uds": "hubiesen valido"
+    }
+  },
+  "afirmativo": {
+    "tu": "vale",
+    "vosotros": "valed",
+    "ud": "valga",
+    "uds": "valgan"
+  },
+  "negativo": {
+    "tu": "no valgas",
+    "vosotros": "no valgáis",
+    "ud": "no valga",
+    "uds": "no valgan"
+  },
+  "english": {
+    "note": "Formas irregulares: valgo, valga, valgas, etc.",
+    "infinitivo": "to be worth",
+    "gerundio": "being worth",
+    "participioPasado": "been worth",
+    "indicativo": {
+      "presente": "I am worth",
+      "futuro": "I will be worth",
+      "imperfecto": "I used to be worth, was worth",
+      "preterito": "I was worth",
+      "condicional": "I would be worth",
+      "presentePerfecto": "I have been worth",
+      "futuroPerfecto": "I will have been worth",
+      "pluscuamperfecto": "I had been worth",
+      "preteritoAnterior": "I had been worth",
+      "condicionalPerfecto": "I would have been worth"
+    },
+    "subjuntivo": {
+      "presente": "I am worth",
+      "imperfecto": "I was worth",
+      "futuro": "I will be worth",
+      "presentePerfecto": "I have been worth, was worth",
+      "futuroPerfecto": "I will have been worth",
+      "pluscuamperfecto": "I had been worth"
+    },
+    "afirmativo": "Be worth!",
+    "negativo": "Don't be worth!"
+  },
+  "attribution": "Fred Jehle"
+}

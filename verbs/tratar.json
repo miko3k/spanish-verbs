@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "tratar",
+  "gerundio": "tratando",
+  "participioPasado": "tratado",
+  "indicativo": {
+    "presente": {
+      "yo": "trato",
+      "tu": "tratas",
+      "ud": "trata",
+      "nosotros": "tratamos",
+      "vosotros": "tratáis",
+      "uds": "tratan"
+    },
+    "futuro": {
+      "yo": "trataré",
+      "tu": "tratarás",
+      "ud": "tratará",
+      "nosotros": "trataremos",
+      "vosotros": "trataréis",
+      "uds": "tratarán"
+    },
+    "imperfecto": {
+      "yo": "trataba",
+      "tu": "tratabas",
+      "ud": "trataba",
+      "nosotros": "tratábamos",
+      "vosotros": "tratabais",
+      "uds": "trataban"
+    },
+    "preterito": {
+      "yo": "traté",
+      "tu": "trataste",
+      "ud": "trató",
+      "nosotros": "tratamos",
+      "vosotros": "tratasteis",
+      "uds": "trataron"
+    },
+    "condicional": {
+      "yo": "trataría",
+      "tu": "tratarías",
+      "ud": "trataría",
+      "nosotros": "trataríamos",
+      "vosotros": "trataríais",
+      "uds": "tratarían"
+    },
+    "presentePerfecto": {
+      "yo": "he tratado",
+      "tu": "has tratado",
+      "ud": "ha tratado",
+      "nosotros": "hemos tratado",
+      "vosotros": "habéis tratado",
+      "uds": "han tratado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré tratado",
+      "tu": "habrás tratado",
+      "ud": "habrá tratado",
+      "nosotros": "habremos tratado",
+      "vosotros": "habréis tratado",
+      "uds": "habrán tratado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había tratado",
+      "tu": "habías tratado",
+      "ud": "había tratado",
+      "nosotros": "habíamos tratado",
+      "vosotros": "habíais tratado",
+      "uds": "habían tratado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube tratado",
+      "tu": "hubiste tratado",
+      "ud": "hubo tratado",
+      "nosotros": "hubimos tratado",
+      "vosotros": "hubisteis tratado",
+      "uds": "hubieron tratado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría tratado",
+      "tu": "habrías tratado",
+      "ud": "habría tratado",
+      "nosotros": "habríamos tratado",
+      "vosotros": "habríais tratado",
+      "uds": "habrían tratado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "trate",
+      "tu": "trates",
+      "ud": "trate",
+      "nosotros": "tratemos",
+      "vosotros": "tratéis",
+      "uds": "traten"
+    },
+    "imperfecto": {
+      "yo": "tratara",
+      "tu": "trataras",
+      "ud": "tratara",
+      "nosotros": "tratáramos",
+      "vosotros": "tratarais",
+      "uds": "trataran"
+    },
+    "futuro": {
+      "yo": "tratare",
+      "tu": "tratares",
+      "ud": "tratare",
+      "nosotros": "tratáremos",
+      "vosotros": "tratareis",
+      "uds": "trataren"
+    },
+    "presentePerfecto": {
+      "yo": "haya tratado",
+      "tu": "hayas tratado",
+      "ud": "haya tratado",
+      "nosotros": "hayamos tratado",
+      "vosotros": "hayáis tratado",
+      "uds": "hayan tratado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere tratado",
+      "tu": "hubieres tratado",
+      "ud": "hubiere tratado",
+      "nosotros": "hubiéremos tratado",
+      "vosotros": "hubiereis tratado",
+      "uds": "hubieren tratado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera tratado",
+      "tu": "hubieras tratado",
+      "ud": "hubiera tratado",
+      "nosotros": "hubiéramos tratado",
+      "vosotros": "hubierais tratado",
+      "uds": "hubieran tratado"
+    },
+    "imperfectoAlt": {
+      "yo": "tratase",
+      "tu": "tratases",
+      "ud": "tratase",
+      "nosotros": "tratásemos",
+      "vosotros": "trataseis",
+      "uds": "tratasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese tratado",
+      "tu": "hubieses tratado",
+      "ud": "hubiese tratado",
+      "nosotros": "hubiésemos tratado",
+      "vosotros": "hubieseis tratado",
+      "uds": "hubiesen tratado"
+    }
+  },
+  "afirmativo": {
+    "tu": "trata",
+    "vosotros": "tratad",
+    "ud": "trate",
+    "uds": "traten"
+  },
+  "negativo": {
+    "tu": "no trates",
+    "vosotros": "no tratéis",
+    "ud": "no trate",
+    "uds": "no traten"
+  },
+  "english": {
+    "note": "This verb is used in many ways, for example: Tratar de (algo), to deal with, be about, discuss (something); tratar de (hacer algo), to try to (do something); tratar con, to have dealings with.",
+    "infinitivo": "to treat, handle",
+    "gerundio": "treating",
+    "participioPasado": "treated",
+    "indicativo": {
+      "presente": "I treat, am treating",
+      "futuro": "I will treat",
+      "imperfecto": "I was treating, used to treat, treated",
+      "preterito": "I treated",
+      "condicional": "I would treat",
+      "presentePerfecto": "I have treated",
+      "futuroPerfecto": "I will have treated",
+      "pluscuamperfecto": "I had treated",
+      "preteritoAnterior": "I had treated",
+      "condicionalPerfecto": "I would have treated"
+    },
+    "subjuntivo": {
+      "presente": "I treat, am treating",
+      "imperfecto": "I treated, was treating",
+      "futuro": "I will treat",
+      "presentePerfecto": "I have treated, treated",
+      "futuroPerfecto": "I will have treated",
+      "pluscuamperfecto": "I had treated"
+    },
+    "afirmativo": "Treat!",
+    "negativo": "Don't treat!"
+  },
+  "attribution": "Fred Jehle"
+}

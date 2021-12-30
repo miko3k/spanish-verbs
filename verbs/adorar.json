@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "adorar",
+  "gerundio": "adorando",
+  "participioPasado": "adorado",
+  "indicativo": {
+    "presente": {
+      "yo": "adoro",
+      "tu": "adoras",
+      "ud": "adora",
+      "nosotros": "adoramos",
+      "vosotros": "adoráis",
+      "uds": "adoran"
+    },
+    "futuro": {
+      "yo": "adoraré",
+      "tu": "adorarás",
+      "ud": "adorará",
+      "nosotros": "adoraremos",
+      "vosotros": "adoraréis",
+      "uds": "adorarán"
+    },
+    "imperfecto": {
+      "yo": "adoraba",
+      "tu": "adorabas",
+      "ud": "adoraba",
+      "nosotros": "adorábamos",
+      "vosotros": "adorabais",
+      "uds": "adoraban"
+    },
+    "preterito": {
+      "yo": "adoré",
+      "tu": "adoraste",
+      "ud": "adoró",
+      "nosotros": "adoramos",
+      "vosotros": "adorasteis",
+      "uds": "adoraron"
+    },
+    "condicional": {
+      "yo": "adoraría",
+      "tu": "adorarías",
+      "ud": "adoraría",
+      "nosotros": "adoraríamos",
+      "vosotros": "adoraríais",
+      "uds": "adorarían"
+    },
+    "presentePerfecto": {
+      "yo": "he adorado",
+      "tu": "has adorado",
+      "ud": "ha adorado",
+      "nosotros": "hemos adorado",
+      "vosotros": "habéis adorado",
+      "uds": "han adorado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré adorado",
+      "tu": "habrás adorado",
+      "ud": "habrá adorado",
+      "nosotros": "habremos adorado",
+      "vosotros": "habréis adorado",
+      "uds": "habrán adorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había adorado",
+      "tu": "habías adorado",
+      "ud": "había adorado",
+      "nosotros": "habíamos adorado",
+      "vosotros": "habíais adorado",
+      "uds": "habían adorado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube adorado",
+      "tu": "hubiste adorado",
+      "ud": "hubo adorado",
+      "nosotros": "hubimos adorado",
+      "vosotros": "hubisteis adorado",
+      "uds": "hubieron adorado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría adorado",
+      "tu": "habrías adorado",
+      "ud": "habría adorado",
+      "nosotros": "habríamos adorado",
+      "vosotros": "habríais adorado",
+      "uds": "habrían adorado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "adore",
+      "tu": "adores",
+      "ud": "adore",
+      "nosotros": "adoremos",
+      "vosotros": "adoréis",
+      "uds": "adoren"
+    },
+    "imperfecto": {
+      "yo": "adorara",
+      "tu": "adoraras",
+      "ud": "adorara",
+      "nosotros": "adoráramos",
+      "vosotros": "adorarais",
+      "uds": "adoraran"
+    },
+    "futuro": {
+      "yo": "adorare",
+      "tu": "adorares",
+      "ud": "adorare",
+      "nosotros": "adoráremos",
+      "vosotros": "adorareis",
+      "uds": "adoraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya adorado",
+      "tu": "hayas adorado",
+      "ud": "haya adorado",
+      "nosotros": "hayamos adorado",
+      "vosotros": "hayáis adorado",
+      "uds": "hayan adorado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere adorado",
+      "tu": "hubieres adorado",
+      "ud": "hubiere adorado",
+      "nosotros": "hubiéremos adorado",
+      "vosotros": "hubiereis adorado",
+      "uds": "hubieren adorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera adorado",
+      "tu": "hubieras adorado",
+      "ud": "hubiera adorado",
+      "nosotros": "hubiéramos adorado",
+      "vosotros": "hubierais adorado",
+      "uds": "hubieran adorado"
+    },
+    "imperfectoAlt": {
+      "yo": "adorase",
+      "tu": "adorases",
+      "ud": "adorase",
+      "nosotros": "adorásemos",
+      "vosotros": "adoraseis",
+      "uds": "adorasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese adorado",
+      "tu": "hubieses adorado",
+      "ud": "hubiese adorado",
+      "nosotros": "hubiésemos adorado",
+      "vosotros": "hubieseis adorado",
+      "uds": "hubiesen adorado"
+    }
+  },
+  "afirmativo": {
+    "tu": "adora",
+    "vosotros": "adorad",
+    "ud": "adore",
+    "uds": "adoren"
+  },
+  "negativo": {
+    "tu": "no adores",
+    "vosotros": "no adoréis",
+    "ud": "no adore",
+    "uds": "no adoren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to adore, worship",
+    "gerundio": "adoring",
+    "participioPasado": "adored",
+    "indicativo": {
+      "presente": "I adore, am adoring",
+      "futuro": "I will adore",
+      "imperfecto": "I was adoring, used to adore, adored",
+      "preterito": "I adored",
+      "condicional": "I would adore",
+      "presentePerfecto": "I have adored",
+      "futuroPerfecto": "I will have adored",
+      "pluscuamperfecto": "I had adored",
+      "preteritoAnterior": "I had adored",
+      "condicionalPerfecto": "I would have adored"
+    },
+    "subjuntivo": {
+      "presente": "I adore, am adoring",
+      "imperfecto": "I adored, was adoring",
+      "futuro": "I will adore",
+      "presentePerfecto": "I have adored, adored",
+      "futuroPerfecto": "I will have adored",
+      "pluscuamperfecto": "I had adored"
+    },
+    "afirmativo": "Adore!",
+    "negativo": "Don't adore!"
+  },
+  "attribution": "Fred Jehle"
+}

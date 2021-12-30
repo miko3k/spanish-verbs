@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "vencer",
+  "gerundio": "venciendo",
+  "participioPasado": "vencido",
+  "indicativo": {
+    "presente": {
+      "yo": "venzo",
+      "tu": "vences",
+      "ud": "vence",
+      "nosotros": "vencemos",
+      "vosotros": "vencéis",
+      "uds": "vencen"
+    },
+    "futuro": {
+      "yo": "venceré",
+      "tu": "vencerás",
+      "ud": "vencerá",
+      "nosotros": "venceremos",
+      "vosotros": "venceréis",
+      "uds": "vencerán"
+    },
+    "imperfecto": {
+      "yo": "vencía",
+      "tu": "vencías",
+      "ud": "vencía",
+      "nosotros": "vencíamos",
+      "vosotros": "vencíais",
+      "uds": "vencían"
+    },
+    "preterito": {
+      "yo": "vencí",
+      "tu": "venciste",
+      "ud": "venció",
+      "nosotros": "vencimos",
+      "vosotros": "vencisteis",
+      "uds": "vencieron"
+    },
+    "condicional": {
+      "yo": "vencería",
+      "tu": "vencerías",
+      "ud": "vencería",
+      "nosotros": "venceríamos",
+      "vosotros": "venceríais",
+      "uds": "vencerían"
+    },
+    "presentePerfecto": {
+      "yo": "he vencido",
+      "tu": "has vencido",
+      "ud": "ha vencido",
+      "nosotros": "hemos vencido",
+      "vosotros": "habéis vencido",
+      "uds": "han vencido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré vencido",
+      "tu": "habrás vencido",
+      "ud": "habrá vencido",
+      "nosotros": "habremos vencido",
+      "vosotros": "habréis vencido",
+      "uds": "habrán vencido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había vencido",
+      "tu": "habías vencido",
+      "ud": "había vencido",
+      "nosotros": "habíamos vencido",
+      "vosotros": "habíais vencido",
+      "uds": "habían vencido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube vencido",
+      "tu": "hubiste vencido",
+      "ud": "hubo vencido",
+      "nosotros": "hubimos vencido",
+      "vosotros": "hubisteis vencido",
+      "uds": "hubieron vencido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría vencido",
+      "tu": "habrías vencido",
+      "ud": "habría vencido",
+      "nosotros": "habríamos vencido",
+      "vosotros": "habríais vencido",
+      "uds": "habrían vencido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "venza",
+      "tu": "venzas",
+      "ud": "venza",
+      "nosotros": "venzamos",
+      "vosotros": "venzáis",
+      "uds": "venzan"
+    },
+    "imperfecto": {
+      "yo": "venciera",
+      "tu": "vencieras",
+      "ud": "venciera",
+      "nosotros": "venciéramos",
+      "vosotros": "vencierais",
+      "uds": "vencieran"
+    },
+    "futuro": {
+      "yo": "venciere",
+      "tu": "vencieres",
+      "ud": "venciere",
+      "nosotros": "venciéremos",
+      "vosotros": "venciereis",
+      "uds": "vencieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya vencido",
+      "tu": "hayas vencido",
+      "ud": "haya vencido",
+      "nosotros": "hayamos vencido",
+      "vosotros": "hayáis vencido",
+      "uds": "hayan vencido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere vencido",
+      "tu": "hubieres vencido",
+      "ud": "hubiere vencido",
+      "nosotros": "hubiéremos vencido",
+      "vosotros": "hubiereis vencido",
+      "uds": "hubieren vencido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera vencido",
+      "tu": "hubieras vencido",
+      "ud": "hubiera vencido",
+      "nosotros": "hubiéramos vencido",
+      "vosotros": "hubierais vencido",
+      "uds": "hubieran vencido"
+    },
+    "imperfectoAlt": {
+      "yo": "venciese",
+      "tu": "vencieses",
+      "ud": "venciese",
+      "nosotros": "venciésemos",
+      "vosotros": "vencieseis",
+      "uds": "venciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese vencido",
+      "tu": "hubieses vencido",
+      "ud": "hubiese vencido",
+      "nosotros": "hubiésemos vencido",
+      "vosotros": "hubieseis vencido",
+      "uds": "hubiesen vencido"
+    }
+  },
+  "afirmativo": {
+    "tu": "vence",
+    "vosotros": "venced",
+    "ud": "venza",
+    "uds": "venzan"
+  },
+  "negativo": {
+    "tu": "no venzas",
+    "vosotros": "no venzáis",
+    "ud": "no venza",
+    "uds": "no venzan"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > z delante de o y a.",
+    "infinitivo": "to conquer, defeat, beat, overcome, win; to expire, cease to apply",
+    "gerundio": "conquering",
+    "participioPasado": "conquered",
+    "indicativo": {
+      "presente": "I conquer, am conquering",
+      "futuro": "I will conquer",
+      "imperfecto": "I was conquering, used to conquer, conquered",
+      "preterito": "I conquered",
+      "condicional": "I would conquer",
+      "presentePerfecto": "I have conquered",
+      "futuroPerfecto": "I will have conquered",
+      "pluscuamperfecto": "I had conquered",
+      "preteritoAnterior": "I had conquered",
+      "condicionalPerfecto": "I would have conquered"
+    },
+    "subjuntivo": {
+      "presente": "I conquer, am conquering",
+      "imperfecto": "I conquered, was conquering",
+      "futuro": "I will conquer",
+      "presentePerfecto": "I have conquered, conquered",
+      "futuroPerfecto": "I will have conquered",
+      "pluscuamperfecto": "I had conquered"
+    },
+    "afirmativo": "Conquer!",
+    "negativo": "Don't conquer!"
+  },
+  "attribution": "Fred Jehle"
+}

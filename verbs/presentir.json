@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "presentir",
+  "gerundio": "presintiendo",
+  "participioPasado": "presentido",
+  "indicativo": {
+    "presente": {
+      "yo": "presiento",
+      "tu": "presientes",
+      "ud": "presiente",
+      "nosotros": "presentimos",
+      "vosotros": "presentís",
+      "uds": "presienten"
+    },
+    "futuro": {
+      "yo": "presentiré",
+      "tu": "presentirás",
+      "ud": "presentirá",
+      "nosotros": "presentiremos",
+      "vosotros": "presentiréis",
+      "uds": "presentirán"
+    },
+    "imperfecto": {
+      "yo": "presentía",
+      "tu": "presentías",
+      "ud": "presentía",
+      "nosotros": "presentíamos",
+      "vosotros": "presentíais",
+      "uds": "presentían"
+    },
+    "preterito": {
+      "yo": "presentí",
+      "tu": "presentiste",
+      "ud": "presintió",
+      "nosotros": "presentimos",
+      "vosotros": "presentisteis",
+      "uds": "presintieron"
+    },
+    "condicional": {
+      "yo": "presentiría",
+      "tu": "presentirías",
+      "ud": "presentiría",
+      "nosotros": "presentiríamos",
+      "vosotros": "presentiríais",
+      "uds": "presentirían"
+    },
+    "presentePerfecto": {
+      "yo": "he presentido",
+      "tu": "has presentido",
+      "ud": "ha presentido",
+      "nosotros": "hemos presentido",
+      "vosotros": "habéis presentido",
+      "uds": "han presentido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré presentido",
+      "tu": "habrás presentido",
+      "ud": "habrá presentido",
+      "nosotros": "habremos presentido",
+      "vosotros": "habréis presentido",
+      "uds": "habrán presentido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había presentido",
+      "tu": "habías presentido",
+      "ud": "había presentido",
+      "nosotros": "habíamos presentido",
+      "vosotros": "habíais presentido",
+      "uds": "habían presentido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube presentido",
+      "tu": "hubiste presentido",
+      "ud": "hubo presentido",
+      "nosotros": "hubimos presentido",
+      "vosotros": "hubisteis presentido",
+      "uds": "hubieron presentido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría presentido",
+      "tu": "habrías presentido",
+      "ud": "habría presentido",
+      "nosotros": "habríamos presentido",
+      "vosotros": "habríais presentido",
+      "uds": "habrían presentido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "presienta",
+      "tu": "presientas",
+      "ud": "presienta",
+      "nosotros": "presintamos",
+      "vosotros": "presintáis",
+      "uds": "presientan"
+    },
+    "imperfecto": {
+      "yo": "presintiera",
+      "tu": "presintieras",
+      "ud": "presintiera",
+      "nosotros": "presintéramos",
+      "vosotros": "presintierais",
+      "uds": "presintieran"
+    },
+    "futuro": {
+      "yo": "presintiere",
+      "tu": "presintieres",
+      "ud": "presintiere",
+      "nosotros": "presintiéremos",
+      "vosotros": "presintiereis",
+      "uds": "presintieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya presentido",
+      "tu": "hayas presentido",
+      "ud": "haya presentido",
+      "nosotros": "hayamos presentido",
+      "vosotros": "hayáis presentido",
+      "uds": "hayan presentido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere presentido",
+      "tu": "hubieres presentido",
+      "ud": "hubiere presentido",
+      "nosotros": "hubiéremos presentido",
+      "vosotros": "hubiereis presentido",
+      "uds": "hubieren presentido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera presentido",
+      "tu": "hubieras presentido",
+      "ud": "hubiera presentido",
+      "nosotros": "hubiéramos presentido",
+      "vosotros": "hubierais presentido",
+      "uds": "hubieran presentido"
+    },
+    "imperfectoAlt": {
+      "yo": "presintiese",
+      "tu": "presintieses",
+      "ud": "presintiese",
+      "nosotros": "presintiésemos",
+      "vosotros": "presintieseis",
+      "uds": "presintiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese presentido",
+      "tu": "hubieses presentido",
+      "ud": "hubiese presentido",
+      "nosotros": "hubiésemos presentido",
+      "vosotros": "hubieseis presentido",
+      "uds": "hubiesen presentido"
+    }
+  },
+  "afirmativo": {
+    "tu": "presiente",
+    "vosotros": "presentid",
+    "ud": "presienta",
+    "uds": "presientan"
+  },
+  "negativo": {
+    "tu": "no presientas",
+    "vosotros": "no presintáis",
+    "ud": "no presienta",
+    "uds": "no presientan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i.",
+    "infinitivo": "to have a premonition of",
+    "gerundio": "having a premonition of",
+    "participioPasado": "had a premonition of",
+    "indicativo": {
+      "presente": "I have a premonition of, am having a premonition of",
+      "futuro": "I will have a premonition",
+      "imperfecto": "I was having a premonition of, used to have a premonition, had a premonition of",
+      "preterito": "I had a premonition of",
+      "condicional": "I would have a premonition of",
+      "presentePerfecto": "I have had a premonition of",
+      "futuroPerfecto": "I will have had a premonition of",
+      "pluscuamperfecto": "I had had a premonition of",
+      "preteritoAnterior": "I had had a premonition of",
+      "condicionalPerfecto": "I would have had a premonition of"
+    },
+    "subjuntivo": {
+      "presente": "I have a premonition of, am having a premonition of",
+      "imperfecto": "I had a premonition of, was having a premonition of",
+      "futuro": "I will have a premonition of",
+      "presentePerfecto": "I have had a premonition of, had a premonition of",
+      "futuroPerfecto": "I will have had a premonition of",
+      "pluscuamperfecto": "I had had a premonition of"
+    },
+    "afirmativo": "Have a premonition of!",
+    "negativo": "Don't have a premonition of!"
+  },
+  "attribution": "Fred Jehle"
+}

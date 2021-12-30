@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "permanecer",
+  "gerundio": "permaneciendo",
+  "participioPasado": "permanecido",
+  "indicativo": {
+    "presente": {
+      "yo": "permanezco",
+      "tu": "permaneces",
+      "ud": "permanece",
+      "nosotros": "permanecemos",
+      "vosotros": "permanecéis",
+      "uds": "permanecen"
+    },
+    "futuro": {
+      "yo": "permaneceré",
+      "tu": "permanecerás",
+      "ud": "permanecerá",
+      "nosotros": "permaneceremos",
+      "vosotros": "permaneceréis",
+      "uds": "permanecerán"
+    },
+    "imperfecto": {
+      "yo": "permanecía",
+      "tu": "permanecías",
+      "ud": "permanecía",
+      "nosotros": "permanecíamos",
+      "vosotros": "permanecíais",
+      "uds": "permanecían"
+    },
+    "preterito": {
+      "yo": "permanecí",
+      "tu": "permaneciste",
+      "ud": "permaneció",
+      "nosotros": "permanecimos",
+      "vosotros": "permanecisteis",
+      "uds": "permanecieron"
+    },
+    "condicional": {
+      "yo": "permanecería",
+      "tu": "permanecerías",
+      "ud": "permanecería",
+      "nosotros": "permaneceríamos",
+      "vosotros": "permaneceríais",
+      "uds": "permanecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he permanecido",
+      "tu": "has permanecido",
+      "ud": "ha permanecido",
+      "nosotros": "hemos permanecido",
+      "vosotros": "habéis permanecido",
+      "uds": "han permanecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré permanecido",
+      "tu": "habrás permanecido",
+      "ud": "habrá permanecido",
+      "nosotros": "habremos permanecido",
+      "vosotros": "habréis permanecido",
+      "uds": "habrán permanecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había permanecido",
+      "tu": "habías permanecido",
+      "ud": "había permanecido",
+      "nosotros": "habíamos permanecido",
+      "vosotros": "habíais permanecido",
+      "uds": "habían permanecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube permanecido",
+      "tu": "hubiste permanecido",
+      "ud": "hubo permanecido",
+      "nosotros": "hubimos permanecido",
+      "vosotros": "hubisteis permanecido",
+      "uds": "hubieron permanecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría permanecido",
+      "tu": "habrías permanecido",
+      "ud": "habría permanecido",
+      "nosotros": "habríamos permanecido",
+      "vosotros": "habríais permanecido",
+      "uds": "habrían permanecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "permanezca",
+      "tu": "permanezcas",
+      "ud": "permanezca",
+      "nosotros": "permanezcamos",
+      "vosotros": "permanezcáis",
+      "uds": "permanezcan"
+    },
+    "imperfecto": {
+      "yo": "permaneciera",
+      "tu": "permanecieras",
+      "ud": "permaneciera",
+      "nosotros": "permaneciéramos",
+      "vosotros": "permanecierais",
+      "uds": "permanecieran"
+    },
+    "futuro": {
+      "yo": "permaneciere",
+      "tu": "permanecieres",
+      "ud": "permaneciere",
+      "nosotros": "permaneciéremos",
+      "vosotros": "permaneciereis",
+      "uds": "permanecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya permanecido",
+      "tu": "hayas permanecido",
+      "ud": "haya permanecido",
+      "nosotros": "hayamos permanecido",
+      "vosotros": "hayáis permanecido",
+      "uds": "hayan permanecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere permanecido",
+      "tu": "hubieres permanecido",
+      "ud": "hubiere permanecido",
+      "nosotros": "hubiéremos permanecido",
+      "vosotros": "hubiereis permanecido",
+      "uds": "hubieren permanecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera permanecido",
+      "tu": "hubieras permanecido",
+      "ud": "hubiera permanecido",
+      "nosotros": "hubiéramos permanecido",
+      "vosotros": "hubierais permanecido",
+      "uds": "hubieran permanecido"
+    },
+    "imperfectoAlt": {
+      "yo": "permaneciese",
+      "tu": "permanecieses",
+      "ud": "permaneciese",
+      "nosotros": "permaneciésemos",
+      "vosotros": "permanecieseis",
+      "uds": "permaneciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese permanecido",
+      "tu": "hubieses permanecido",
+      "ud": "hubiese permanecido",
+      "nosotros": "hubiésemos permanecido",
+      "vosotros": "hubieseis permanecido",
+      "uds": "hubiesen permanecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "permanece",
+    "vosotros": "permaneced",
+    "ud": "permanezca",
+    "uds": "permanezcan"
+  },
+  "negativo": {
+    "tu": "no permanezcas",
+    "vosotros": "no permanezcáis",
+    "ud": "no permanezca",
+    "uds": "no permanezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: permanezco, permanezca, permanezcas, etc.",
+    "infinitivo": "to stay, remain",
+    "gerundio": "staying",
+    "participioPasado": "stayed",
+    "indicativo": {
+      "presente": "I stay, am staying",
+      "futuro": "I will stay",
+      "imperfecto": "I was staying, used to stay, stayed",
+      "preterito": "I stayed",
+      "condicional": "I would stay",
+      "presentePerfecto": "I have stayed",
+      "futuroPerfecto": "I will have stayed",
+      "pluscuamperfecto": "I had stayed",
+      "preteritoAnterior": "I had stayed",
+      "condicionalPerfecto": "I would have stayed"
+    },
+    "subjuntivo": {
+      "presente": "I stay, am staying",
+      "imperfecto": "I stayed, was staying",
+      "futuro": "I will stay",
+      "presentePerfecto": "I have stayed, stayed",
+      "futuroPerfecto": "I will have stayed",
+      "pluscuamperfecto": "I had stayed"
+    },
+    "afirmativo": "Stay!",
+    "negativo": "Don't stay!"
+  },
+  "attribution": "Fred Jehle"
+}

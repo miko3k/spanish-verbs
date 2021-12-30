@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "compartir",
+  "gerundio": "compartiendo",
+  "participioPasado": "compartido",
+  "indicativo": {
+    "presente": {
+      "yo": "comparto",
+      "tu": "compartes",
+      "ud": "comparte",
+      "nosotros": "compartimos",
+      "vosotros": "compartís",
+      "uds": "comparten"
+    },
+    "futuro": {
+      "yo": "compartiré",
+      "tu": "compartirás",
+      "ud": "compartirá",
+      "nosotros": "compartiremos",
+      "vosotros": "compartiréis",
+      "uds": "compartirán"
+    },
+    "imperfecto": {
+      "yo": "compartía",
+      "tu": "compartías",
+      "ud": "compartía",
+      "nosotros": "compartíamos",
+      "vosotros": "compartíais",
+      "uds": "compartían"
+    },
+    "preterito": {
+      "yo": "compartí",
+      "tu": "compartiste",
+      "ud": "compartió",
+      "nosotros": "compartimos",
+      "vosotros": "compartisteis",
+      "uds": "compartieron"
+    },
+    "condicional": {
+      "yo": "compartiría",
+      "tu": "compartirías",
+      "ud": "compartiría",
+      "nosotros": "compartiríamos",
+      "vosotros": "compartiríais",
+      "uds": "compartirían"
+    },
+    "presentePerfecto": {
+      "yo": "he compartido",
+      "tu": "has compartido",
+      "ud": "ha compartido",
+      "nosotros": "hemos compartido",
+      "vosotros": "habéis compartido",
+      "uds": "han compartido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré compartido",
+      "tu": "habrás compartido",
+      "ud": "habrá compartido",
+      "nosotros": "habremos compartido",
+      "vosotros": "habréis compartido",
+      "uds": "habrán compartido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había compartido",
+      "tu": "habías compartido",
+      "ud": "había compartido",
+      "nosotros": "habíamos compartido",
+      "vosotros": "habíais compartido",
+      "uds": "habían compartido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube compartido",
+      "tu": "hubiste compartido",
+      "ud": "hubo compartido",
+      "nosotros": "hubimos compartido",
+      "vosotros": "hubisteis compartido",
+      "uds": "hubieron compartido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría compartido",
+      "tu": "habrías compartido",
+      "ud": "habría compartido",
+      "nosotros": "habríamos compartido",
+      "vosotros": "habríais compartido",
+      "uds": "habrían compartido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "comparta",
+      "tu": "compartas",
+      "ud": "comparta",
+      "nosotros": "compartamos",
+      "vosotros": "compartáis",
+      "uds": "compartan"
+    },
+    "imperfecto": {
+      "yo": "compartiera",
+      "tu": "compartieras",
+      "ud": "compartiera",
+      "nosotros": "compartiéramos",
+      "vosotros": "compartierais",
+      "uds": "compartieran"
+    },
+    "futuro": {
+      "yo": "compartiere",
+      "tu": "compartieres",
+      "ud": "compartiere",
+      "nosotros": "compartiéremos",
+      "vosotros": "compartiereis",
+      "uds": "compartieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya compartido",
+      "tu": "hayas compartido",
+      "ud": "haya compartido",
+      "nosotros": "hayamos compartido",
+      "vosotros": "hayáis compartido",
+      "uds": "hayan compartido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere compartido",
+      "tu": "hubieres compartido",
+      "ud": "hubiere compartido",
+      "nosotros": "hubiéremos compartido",
+      "vosotros": "hubiereis compartido",
+      "uds": "hubieren compartido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera compartido",
+      "tu": "hubieras compartido",
+      "ud": "hubiera compartido",
+      "nosotros": "hubiéramos compartido",
+      "vosotros": "hubierais compartido",
+      "uds": "hubieran compartido"
+    },
+    "imperfectoAlt": {
+      "yo": "compartiese",
+      "tu": "compartieses",
+      "ud": "compartiese",
+      "nosotros": "compartiésemos",
+      "vosotros": "compartieseis",
+      "uds": "compartiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese compartido",
+      "tu": "hubieses compartido",
+      "ud": "hubiese compartido",
+      "nosotros": "hubiésemos compartido",
+      "vosotros": "hubieseis compartido",
+      "uds": "hubiesen compartido"
+    }
+  },
+  "afirmativo": {
+    "tu": "comparte",
+    "vosotros": "compartid",
+    "ud": "comparta",
+    "uds": "compartan"
+  },
+  "negativo": {
+    "tu": "no compartas",
+    "vosotros": "no compartáis",
+    "ud": "no comparta",
+    "uds": "no compartan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to share; to divide (up)",
+    "gerundio": "sharing",
+    "participioPasado": "shared",
+    "indicativo": {
+      "presente": "I share, am sharing",
+      "futuro": "I will share",
+      "imperfecto": "I was sharing, used to share, shared",
+      "preterito": "I shared",
+      "condicional": "I would share",
+      "presentePerfecto": "I have shared",
+      "futuroPerfecto": "I will have shared",
+      "pluscuamperfecto": "I had shared",
+      "preteritoAnterior": "I had shared",
+      "condicionalPerfecto": "I would have shared"
+    },
+    "subjuntivo": {
+      "presente": "I share, am sharing",
+      "imperfecto": "I shared, was sharing",
+      "futuro": "I will share",
+      "presentePerfecto": "I have shared, shared",
+      "futuroPerfecto": "I will have shared",
+      "pluscuamperfecto": "I had shared"
+    },
+    "afirmativo": "Share!",
+    "negativo": "Don't share!"
+  },
+  "attribution": "Fred Jehle"
+}

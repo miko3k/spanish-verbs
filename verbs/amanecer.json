@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "amanecer",
+  "gerundio": "amaneciendo",
+  "participioPasado": "amanecido",
+  "indicativo": {
+    "presente": {
+      "yo": "amanezco",
+      "tu": "amaneces",
+      "ud": "amanece",
+      "nosotros": "amanecemos",
+      "vosotros": "amanecéis",
+      "uds": "amanecen"
+    },
+    "futuro": {
+      "yo": "amaneceré",
+      "tu": "amanecerás",
+      "ud": "amanecerá",
+      "nosotros": "amaneceremos",
+      "vosotros": "amaneceréis",
+      "uds": "amanecerán"
+    },
+    "imperfecto": {
+      "yo": "amanecía",
+      "tu": "amanecías",
+      "ud": "amanecía",
+      "nosotros": "amanecíamos",
+      "vosotros": "amanecíais",
+      "uds": "amanecían"
+    },
+    "preterito": {
+      "yo": "amanecí",
+      "tu": "amaneciste",
+      "ud": "amaneció",
+      "nosotros": "amanecimos",
+      "vosotros": "amanecisteis",
+      "uds": "amanecieron"
+    },
+    "condicional": {
+      "yo": "amanecería",
+      "tu": "amanecerías",
+      "ud": "amanecería",
+      "nosotros": "amaneceríamos",
+      "vosotros": "amaneceríais",
+      "uds": "amanecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he amanecido",
+      "tu": "has amanecido",
+      "ud": "ha amanecido",
+      "nosotros": "hemos amanecido",
+      "vosotros": "habéis amanecido",
+      "uds": "han amanecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré amanecido",
+      "tu": "habrás amanecido",
+      "ud": "habrá amanecido",
+      "nosotros": "habremos amanecido",
+      "vosotros": "habréis amanecido",
+      "uds": "habrán amanecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había amanecido",
+      "tu": "habías amanecido",
+      "ud": "había amanecido",
+      "nosotros": "habíamos amanecido",
+      "vosotros": "habíais amanecido",
+      "uds": "habían amanecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube amanecido",
+      "tu": "hubiste amanecido",
+      "ud": "hubo amanecido",
+      "nosotros": "hubimos amanecido",
+      "vosotros": "hubisteis amanecido",
+      "uds": "hubieron amanecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría amanecido",
+      "tu": "habrías amanecido",
+      "ud": "habría amanecido",
+      "nosotros": "habríamos amanecido",
+      "vosotros": "habríais amanecido",
+      "uds": "habrían amanecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "amanezca",
+      "tu": "amanezcas",
+      "ud": "amanezca",
+      "nosotros": "amanezcamos",
+      "vosotros": "amanezcáis",
+      "uds": "amanezcan"
+    },
+    "imperfecto": {
+      "yo": "amaneciera",
+      "tu": "amanecieras",
+      "ud": "amaneciera",
+      "nosotros": "amaneciéramos",
+      "vosotros": "amanecierais",
+      "uds": "amanecieran"
+    },
+    "futuro": {
+      "yo": "amaneciere",
+      "tu": "amanecieres",
+      "ud": "amaneciere",
+      "nosotros": "amaneciéremos",
+      "vosotros": "amaneciereis",
+      "uds": "amanecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya amanecido",
+      "tu": "hayas amanecido",
+      "ud": "haya amanecido",
+      "nosotros": "hayamos amanecido",
+      "vosotros": "hayáis amanecido",
+      "uds": "hayan amanecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere amanecido",
+      "tu": "hubieres amanecido",
+      "ud": "hubiere amanecido",
+      "nosotros": "hubiéremos amanecido",
+      "vosotros": "hubiereis amanecido",
+      "uds": "hubieren amanecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera amanecido",
+      "tu": "hubieras amanecido",
+      "ud": "hubiera amanecido",
+      "nosotros": "hubiéramos amanecido",
+      "vosotros": "hubierais amanecido",
+      "uds": "hubieran amanecido"
+    },
+    "imperfectoAlt": {
+      "yo": "amaneciese",
+      "tu": "amanecieses",
+      "ud": "amaneciese",
+      "nosotros": "amaneciésemos",
+      "vosotros": "amanecieseis",
+      "uds": "amaneciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese amanecido",
+      "tu": "hubieses amanecido",
+      "ud": "hubiese amanecido",
+      "nosotros": "hubiésemos amanecido",
+      "vosotros": "hubieseis amanecido",
+      "uds": "hubiesen amanecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "amanece",
+    "vosotros": "amaneced",
+    "ud": "amanezca",
+    "uds": "amanezcan"
+  },
+  "negativo": {
+    "tu": "no amanezcas",
+    "vosotros": "no amanezcáis",
+    "ud": "no amanezca",
+    "uds": "no amanezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: amanezco, amanezca, amanezcas, etc. Note: When used to mean dawn, amanecer is normally used in the third person singular: Amaneció a las cuatro. Dawn was a 4:00, It dawned at 4:00. When used with people, it can be used as: Amanecí cansado = I woke up feeling tired; Amaneció rey = He woke up to find himself king.",
+    "infinitivo": "to dawn; to wake up (feeling or being...)",
+    "gerundio": "dawning",
+    "participioPasado": "dawned",
+    "indicativo": {
+      "presente": "I dawn, am dawning",
+      "futuro": "I will dawn",
+      "imperfecto": "I was dawning, used to dawn, dawned",
+      "preterito": "I dawned",
+      "condicional": "I would dawn",
+      "presentePerfecto": "I have dawned",
+      "futuroPerfecto": "I will have dawned",
+      "pluscuamperfecto": "I had dawned",
+      "preteritoAnterior": "I had dawned",
+      "condicionalPerfecto": "I would have dawned"
+    },
+    "subjuntivo": {
+      "presente": "I dawn, am dawning",
+      "imperfecto": "I dawned, was dawning",
+      "futuro": "I will dawn",
+      "presentePerfecto": "I have dawned, dawned",
+      "futuroPerfecto": "I will have dawned",
+      "pluscuamperfecto": "I had dawned"
+    },
+    "afirmativo": "Dawn!",
+    "negativo": "Don't dawn!"
+  },
+  "attribution": "Fred Jehle"
+}

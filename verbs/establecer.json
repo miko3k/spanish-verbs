@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "establecer",
+  "gerundio": "estableciendo",
+  "participioPasado": "establecido",
+  "indicativo": {
+    "presente": {
+      "yo": "establezco",
+      "tu": "estableces",
+      "ud": "establece",
+      "nosotros": "establecemos",
+      "vosotros": "establecéis",
+      "uds": "establecen"
+    },
+    "futuro": {
+      "yo": "estableceré",
+      "tu": "establecerás",
+      "ud": "establecerá",
+      "nosotros": "estableceremos",
+      "vosotros": "estableceréis",
+      "uds": "establecerán"
+    },
+    "imperfecto": {
+      "yo": "establecía",
+      "tu": "establecías",
+      "ud": "establecía",
+      "nosotros": "establecíamos",
+      "vosotros": "establecíais",
+      "uds": "establecían"
+    },
+    "preterito": {
+      "yo": "establecí",
+      "tu": "estableciste",
+      "ud": "estableció",
+      "nosotros": "establecimos",
+      "vosotros": "establecisteis",
+      "uds": "establecieron"
+    },
+    "condicional": {
+      "yo": "establecería",
+      "tu": "establecerías",
+      "ud": "establecería",
+      "nosotros": "estableceríamos",
+      "vosotros": "estableceríais",
+      "uds": "establecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he establecido",
+      "tu": "has establecido",
+      "ud": "ha establecido",
+      "nosotros": "hemos establecido",
+      "vosotros": "habéis establecido",
+      "uds": "han establecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré establecido",
+      "tu": "habrás establecido",
+      "ud": "habrá establecido",
+      "nosotros": "habremos establecido",
+      "vosotros": "habréis establecido",
+      "uds": "habrán establecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había establecido",
+      "tu": "habías establecido",
+      "ud": "había establecido",
+      "nosotros": "habíamos establecido",
+      "vosotros": "habíais establecido",
+      "uds": "habían establecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube establecido",
+      "tu": "hubiste establecido",
+      "ud": "hubo establecido",
+      "nosotros": "hubimos establecido",
+      "vosotros": "hubisteis establecido",
+      "uds": "hubieron establecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría establecido",
+      "tu": "habrías establecido",
+      "ud": "habría establecido",
+      "nosotros": "habríamos establecido",
+      "vosotros": "habríais establecido",
+      "uds": "habrían establecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "establezca",
+      "tu": "establezcas",
+      "ud": "establezca",
+      "nosotros": "establezcamos",
+      "vosotros": "establezcáis",
+      "uds": "establezcan"
+    },
+    "imperfecto": {
+      "yo": "estableciera",
+      "tu": "establecieras",
+      "ud": "estableciera",
+      "nosotros": "estableciéramos",
+      "vosotros": "establecierais",
+      "uds": "establecieran"
+    },
+    "futuro": {
+      "yo": "estableciere",
+      "tu": "establecieres",
+      "ud": "estableciere",
+      "nosotros": "estableciéremos",
+      "vosotros": "estableciereis",
+      "uds": "establecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya establecido",
+      "tu": "hayas establecido",
+      "ud": "haya establecido",
+      "nosotros": "hayamos establecido",
+      "vosotros": "hayáis establecido",
+      "uds": "hayan establecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere establecido",
+      "tu": "hubieres establecido",
+      "ud": "hubiere establecido",
+      "nosotros": "hubiéremos establecido",
+      "vosotros": "hubiereis establecido",
+      "uds": "hubieren establecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera establecido",
+      "tu": "hubieras establecido",
+      "ud": "hubiera establecido",
+      "nosotros": "hubiéramos establecido",
+      "vosotros": "hubierais establecido",
+      "uds": "hubieran establecido"
+    },
+    "imperfectoAlt": {
+      "yo": "estableciese",
+      "tu": "establecieses",
+      "ud": "estableciese",
+      "nosotros": "estableciésemos",
+      "vosotros": "establecieseis",
+      "uds": "estableciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese establecido",
+      "tu": "hubieses establecido",
+      "ud": "hubiese establecido",
+      "nosotros": "hubiésemos establecido",
+      "vosotros": "hubieseis establecido",
+      "uds": "hubiesen establecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "establece",
+    "vosotros": "estableced",
+    "ud": "establezca",
+    "uds": "establezcan"
+  },
+  "negativo": {
+    "tu": "no establezcas",
+    "vosotros": "no establezcáis",
+    "ud": "no establezca",
+    "uds": "no establezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: establezco, establezca, establezcas, etc.",
+    "infinitivo": "to establish",
+    "gerundio": "establishing",
+    "participioPasado": "established",
+    "indicativo": {
+      "presente": "I establish, am establishing",
+      "futuro": "I will establish",
+      "imperfecto": "I was establishing, used to establish, established",
+      "preterito": "I established",
+      "condicional": "I would establish",
+      "presentePerfecto": "I have established",
+      "futuroPerfecto": "I will have established",
+      "pluscuamperfecto": "I had established",
+      "preteritoAnterior": "I had established",
+      "condicionalPerfecto": "I would have established"
+    },
+    "subjuntivo": {
+      "presente": "I establish, am establishing",
+      "imperfecto": "I established, was establishing",
+      "futuro": "I will establish",
+      "presentePerfecto": "I have established, established",
+      "futuroPerfecto": "I will have established",
+      "pluscuamperfecto": "I had established"
+    },
+    "afirmativo": "Establish!",
+    "negativo": "Don't establish!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "desagradecer",
+  "gerundio": "desagradeciendo",
+  "participioPasado": "desagradecido",
+  "indicativo": {
+    "presente": {
+      "yo": "desagradezco",
+      "tu": "desagradeces",
+      "ud": "desagradece",
+      "nosotros": "desagradecemos",
+      "vosotros": "desagradecéis",
+      "uds": "desagradecen"
+    },
+    "futuro": {
+      "yo": "desagradeceré",
+      "tu": "desagradecerás",
+      "ud": "desagradecerá",
+      "nosotros": "desagradeceremos",
+      "vosotros": "desagradeceréis",
+      "uds": "desagradecerán"
+    },
+    "imperfecto": {
+      "yo": "desagradecía",
+      "tu": "desagradecías",
+      "ud": "desagradecía",
+      "nosotros": "desagradecíamos",
+      "vosotros": "desagradecíais",
+      "uds": "desagradecían"
+    },
+    "preterito": {
+      "yo": "desagradecí",
+      "tu": "desagradeciste",
+      "ud": "desagradeció",
+      "nosotros": "desagradecimos",
+      "vosotros": "desagradecisteis",
+      "uds": "desagradecieron"
+    },
+    "condicional": {
+      "yo": "desagradecería",
+      "tu": "desagradecerías",
+      "ud": "desagradecería",
+      "nosotros": "desagradeceríamos",
+      "vosotros": "desagradeceríais",
+      "uds": "desagradecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he desagradecido",
+      "tu": "has desagradecido",
+      "ud": "ha desagradecido",
+      "nosotros": "hemos desagradecido",
+      "vosotros": "habéis desagradecido",
+      "uds": "han desagradecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré desagradecido",
+      "tu": "habrás desagradecido",
+      "ud": "habrá desagradecido",
+      "nosotros": "habremos desagradecido",
+      "vosotros": "habréis desagradecido",
+      "uds": "habrán desagradecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había desagradecido",
+      "tu": "habías desagradecido",
+      "ud": "había desagradecido",
+      "nosotros": "habíamos desagradecido",
+      "vosotros": "habíais desagradecido",
+      "uds": "habían desagradecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube desagradecido",
+      "tu": "hubiste desagradecido",
+      "ud": "hubo desagradecido",
+      "nosotros": "hubimos desagradecido",
+      "vosotros": "hubisteis desagradecido",
+      "uds": "hubieron desagradecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría desagradecido",
+      "tu": "habrías desagradecido",
+      "ud": "habría desagradecido",
+      "nosotros": "habríamos desagradecido",
+      "vosotros": "habríais desagradecido",
+      "uds": "habrían desagradecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "desagradezca",
+      "tu": "desagradezcas",
+      "ud": "desagradezca",
+      "nosotros": "desagradezcamos",
+      "vosotros": "desagradezcáis",
+      "uds": "desagradezcan"
+    },
+    "imperfecto": {
+      "yo": "desagradeciera",
+      "tu": "desagradecieras",
+      "ud": "desagradeciera",
+      "nosotros": "desagradeciéramos",
+      "vosotros": "desagradecierais",
+      "uds": "desagradecieran"
+    },
+    "futuro": {
+      "yo": "desagradeciere",
+      "tu": "desagradecieres",
+      "ud": "desagradeciere",
+      "nosotros": "desagradeciéremos",
+      "vosotros": "desagradeciereis",
+      "uds": "desagradecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya desagradecido",
+      "tu": "hayas desagradecido",
+      "ud": "haya desagradecido",
+      "nosotros": "hayamos desagradecido",
+      "vosotros": "hayáis desagradecido",
+      "uds": "hayan desagradecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere desagradecido",
+      "tu": "hubieres desagradecido",
+      "ud": "hubiere desagradecido",
+      "nosotros": "hubiéremos desagradecido",
+      "vosotros": "hubiereis desagradecido",
+      "uds": "hubieren desagradecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera desagradecido",
+      "tu": "hubieras desagradecido",
+      "ud": "hubiera desagradecido",
+      "nosotros": "hubiéramos desagradecido",
+      "vosotros": "hubierais desagradecido",
+      "uds": "hubieran desagradecido"
+    },
+    "imperfectoAlt": {
+      "yo": "desagradeciese",
+      "tu": "desagradecieses",
+      "ud": "desagradeciese",
+      "nosotros": "desagradeciésemos",
+      "vosotros": "desagradecieseis",
+      "uds": "desagradeciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese desagradecido",
+      "tu": "hubieses desagradecido",
+      "ud": "hubiese desagradecido",
+      "nosotros": "hubiésemos desagradecido",
+      "vosotros": "hubieseis desagradecido",
+      "uds": "hubiesen desagradecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "desagradece",
+    "vosotros": "desagradeced",
+    "ud": "desagradezca",
+    "uds": "desagradezcan"
+  },
+  "negativo": {
+    "tu": "no desagradezcas",
+    "vosotros": "no desagradezcáis",
+    "ud": "no desagradezca",
+    "uds": "no desagradezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: desagradezco, desagradezca, desagradezcas, etc. Example: Te desagradezco tu ayuda. = I'm not thankful for your help, I don't appreciate your help.",
+    "infinitivo": "to be unthankful for, to be unappreciative of",
+    "gerundio": "being unthankful for",
+    "participioPasado": "unthankful for",
+    "indicativo": {
+      "presente": "I am unthankful for",
+      "futuro": "I will be unthankful for",
+      "imperfecto": "I was being unthankful for, used to be unthankful for, was unthankful for",
+      "preterito": "I was unthankful for",
+      "condicional": "I would be unthankful for",
+      "presentePerfecto": "I have been unthankful for",
+      "futuroPerfecto": "I will have been unthankful for",
+      "pluscuamperfecto": "I had been unthankful for",
+      "preteritoAnterior": "I had been unthankful for",
+      "condicionalPerfecto": "I would have been unthankful for"
+    },
+    "subjuntivo": {
+      "presente": "I am unthankful for",
+      "imperfecto": "I was unthankful for, was being unthankful for",
+      "futuro": "I will be unthankful for",
+      "presentePerfecto": "I have been unthankful for, was unthankful for",
+      "futuroPerfecto": "I will have been unthankful for",
+      "pluscuamperfecto": "I had been unthankful for"
+    },
+    "afirmativo": "Be unthankful for!",
+    "negativo": "Don't be unthankful for!"
+  },
+  "attribution": "Fred Jehle"
+}

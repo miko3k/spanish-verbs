@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "defender",
+  "gerundio": "defendiendo",
+  "participioPasado": "defendido",
+  "indicativo": {
+    "presente": {
+      "yo": "defiendo",
+      "tu": "defiendes",
+      "ud": "defiende",
+      "nosotros": "defendemos",
+      "vosotros": "defendéis",
+      "uds": "defienden"
+    },
+    "futuro": {
+      "yo": "defenderé",
+      "tu": "defenderás",
+      "ud": "defenderá",
+      "nosotros": "defenderemos",
+      "vosotros": "defenderéis",
+      "uds": "defenderán"
+    },
+    "imperfecto": {
+      "yo": "defendía",
+      "tu": "defendías",
+      "ud": "defendía",
+      "nosotros": "defendíamos",
+      "vosotros": "defendíais",
+      "uds": "defendían"
+    },
+    "preterito": {
+      "yo": "defendí",
+      "tu": "defendiste",
+      "ud": "defendió",
+      "nosotros": "defendimos",
+      "vosotros": "defendisteis",
+      "uds": "defendieron"
+    },
+    "condicional": {
+      "yo": "defendería",
+      "tu": "defenderías",
+      "ud": "defendería",
+      "nosotros": "defenderíamos",
+      "vosotros": "defenderíais",
+      "uds": "defenderían"
+    },
+    "presentePerfecto": {
+      "yo": "he defendido",
+      "tu": "has defendido",
+      "ud": "ha defendido",
+      "nosotros": "hemos defendido",
+      "vosotros": "habéis defendido",
+      "uds": "han defendido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré defendido",
+      "tu": "habrás defendido",
+      "ud": "habrá defendido",
+      "nosotros": "habremos defendido",
+      "vosotros": "habréis defendido",
+      "uds": "habrán defendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había defendido",
+      "tu": "habías defendido",
+      "ud": "había defendido",
+      "nosotros": "habíamos defendido",
+      "vosotros": "habíais defendido",
+      "uds": "habían defendido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube defendido",
+      "tu": "hubiste defendido",
+      "ud": "hubo defendido",
+      "nosotros": "hubimos defendido",
+      "vosotros": "hubisteis defendido",
+      "uds": "hubieron defendido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría defendido",
+      "tu": "habrías defendido",
+      "ud": "habría defendido",
+      "nosotros": "habríamos defendido",
+      "vosotros": "habríais defendido",
+      "uds": "habrían defendido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "defienda",
+      "tu": "defiendas",
+      "ud": "defienda",
+      "nosotros": "defendamos",
+      "vosotros": "defendáis",
+      "uds": "defiendan"
+    },
+    "imperfecto": {
+      "yo": "defendiera",
+      "tu": "defendieras",
+      "ud": "defendiera",
+      "nosotros": "defendiéramos",
+      "vosotros": "defendierais",
+      "uds": "defendieran"
+    },
+    "futuro": {
+      "yo": "defendiere",
+      "tu": "defendieres",
+      "ud": "defendiere",
+      "nosotros": "defendiéremos",
+      "vosotros": "defendiereis",
+      "uds": "defendieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya defendido",
+      "tu": "hayas defendido",
+      "ud": "haya defendido",
+      "nosotros": "hayamos defendido",
+      "vosotros": "hayáis defendido",
+      "uds": "hayan defendido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere defendido",
+      "tu": "hubieres defendido",
+      "ud": "hubiere defendido",
+      "nosotros": "hubiéremos defendido",
+      "vosotros": "hubiereis defendido",
+      "uds": "hubieren defendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera defendido",
+      "tu": "hubieras defendido",
+      "ud": "hubiera defendido",
+      "nosotros": "hubiéramos defendido",
+      "vosotros": "hubierais defendido",
+      "uds": "hubieran defendido"
+    },
+    "imperfectoAlt": {
+      "yo": "defendiese",
+      "tu": "defendieses",
+      "ud": "defendiese",
+      "nosotros": "defendiésemos",
+      "vosotros": "defendieseis",
+      "uds": "defendiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese defendido",
+      "tu": "hubieses defendido",
+      "ud": "hubiese defendido",
+      "nosotros": "hubiésemos defendido",
+      "vosotros": "hubieseis defendido",
+      "uds": "hubiesen defendido"
+    }
+  },
+  "afirmativo": {
+    "tu": "defiende",
+    "vosotros": "defended",
+    "ud": "defienda",
+    "uds": "defiendan"
+  },
+  "negativo": {
+    "tu": "no defiendas",
+    "vosotros": "no defendáis",
+    "ud": "no defienda",
+    "uds": "no defiendan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa.",
+    "infinitivo": "to defend",
+    "gerundio": "defending",
+    "participioPasado": "defended",
+    "indicativo": {
+      "presente": "I defend, am defending",
+      "futuro": "I will defend",
+      "imperfecto": "I was defending, used to defend, defended",
+      "preterito": "I defended",
+      "condicional": "I would defend",
+      "presentePerfecto": "I have defended",
+      "futuroPerfecto": "I will have defended",
+      "pluscuamperfecto": "I had defended",
+      "preteritoAnterior": "I had defended",
+      "condicionalPerfecto": "I would have defended"
+    },
+    "subjuntivo": {
+      "presente": "I defend, am defending",
+      "imperfecto": "I defended, was defending",
+      "futuro": "I will defend",
+      "presentePerfecto": "I have defended, defended",
+      "futuroPerfecto": "I will have defended",
+      "pluscuamperfecto": "I had defended"
+    },
+    "afirmativo": "Defend!",
+    "negativo": "Don't defend!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "decidir",
+  "gerundio": "decidiendo",
+  "participioPasado": "decidido",
+  "indicativo": {
+    "presente": {
+      "yo": "decido",
+      "tu": "decides",
+      "ud": "decide",
+      "nosotros": "decidimos",
+      "vosotros": "decidís",
+      "uds": "deciden"
+    },
+    "futuro": {
+      "yo": "decidiré",
+      "tu": "decidirás",
+      "ud": "decidirá",
+      "nosotros": "decidiremos",
+      "vosotros": "decidiréis",
+      "uds": "decidirán"
+    },
+    "imperfecto": {
+      "yo": "decidía",
+      "tu": "decidías",
+      "ud": "decidía",
+      "nosotros": "decidíamos",
+      "vosotros": "decidíais",
+      "uds": "decidían"
+    },
+    "preterito": {
+      "yo": "decidí",
+      "tu": "decidiste",
+      "ud": "decidió",
+      "nosotros": "decidimos",
+      "vosotros": "decidisteis",
+      "uds": "decidieron"
+    },
+    "condicional": {
+      "yo": "decidiría",
+      "tu": "decidirías",
+      "ud": "decidiría",
+      "nosotros": "decidiríamos",
+      "vosotros": "decidiríais",
+      "uds": "decidirían"
+    },
+    "presentePerfecto": {
+      "yo": "he decidido",
+      "tu": "has decidido",
+      "ud": "ha decidido",
+      "nosotros": "hemos decidido",
+      "vosotros": "habéis decidido",
+      "uds": "han decidido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré decidido",
+      "tu": "habrás decidido",
+      "ud": "habrá decidido",
+      "nosotros": "habremos decidido",
+      "vosotros": "habréis decidido",
+      "uds": "habrán decidido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había decidido",
+      "tu": "habías decidido",
+      "ud": "había decidido",
+      "nosotros": "habíamos decidido",
+      "vosotros": "habíais decidido",
+      "uds": "habían decidido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube decidido",
+      "tu": "hubiste decidido",
+      "ud": "hubo decidido",
+      "nosotros": "hubimos decidido",
+      "vosotros": "hubisteis decidido",
+      "uds": "hubieron decidido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría decidido",
+      "tu": "habrías decidido",
+      "ud": "habría decidido",
+      "nosotros": "habríamos decidido",
+      "vosotros": "habríais decidido",
+      "uds": "habrían decidido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "decida",
+      "tu": "decidas",
+      "ud": "decida",
+      "nosotros": "decidamos",
+      "vosotros": "decidáis",
+      "uds": "decidan"
+    },
+    "imperfecto": {
+      "yo": "decidiera",
+      "tu": "decidieras",
+      "ud": "decidiera",
+      "nosotros": "decidiéramos",
+      "vosotros": "decidierais",
+      "uds": "decidieran"
+    },
+    "futuro": {
+      "yo": "decidiere",
+      "tu": "decidieres",
+      "ud": "decidiere",
+      "nosotros": "decidiéremos",
+      "vosotros": "decidiereis",
+      "uds": "decidieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya decidido",
+      "tu": "hayas decidido",
+      "ud": "haya decidido",
+      "nosotros": "hayamos decidido",
+      "vosotros": "hayáis decidido",
+      "uds": "hayan decidido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere decidido",
+      "tu": "hubieres decidido",
+      "ud": "hubiere decidido",
+      "nosotros": "hubiéremos decidido",
+      "vosotros": "hubiereis decidido",
+      "uds": "hubieren decidido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera decidido",
+      "tu": "hubieras decidido",
+      "ud": "hubiera decidido",
+      "nosotros": "hubiéramos decidido",
+      "vosotros": "hubierais decidido",
+      "uds": "hubieran decidido"
+    },
+    "imperfectoAlt": {
+      "yo": "decidiese",
+      "tu": "decidieses",
+      "ud": "decidiese",
+      "nosotros": "decidiésemos",
+      "vosotros": "decidieseis",
+      "uds": "decidiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese decidido",
+      "tu": "hubieses decidido",
+      "ud": "hubiese decidido",
+      "nosotros": "hubiésemos decidido",
+      "vosotros": "hubieseis decidido",
+      "uds": "hubiesen decidido"
+    }
+  },
+  "afirmativo": {
+    "tu": "decide",
+    "vosotros": "decidid",
+    "ud": "decida",
+    "uds": "decidan"
+  },
+  "negativo": {
+    "tu": "no decidas",
+    "vosotros": "no decidáis",
+    "ud": "no decida",
+    "uds": "no decidan"
+  },
+  "english": {
+    "note": "To decide to (do something) = decidir (hacer algo). See also decidirse {a hacer algo} (to decide, to make up one's mind {to do something})",
+    "infinitivo": "to decide, settle, resolve",
+    "gerundio": "deciding",
+    "participioPasado": "decided",
+    "indicativo": {
+      "presente": "I decide, am deciding",
+      "futuro": "I will decide",
+      "imperfecto": "I was deciding, used to decide, decided",
+      "preterito": "I decided",
+      "condicional": "I would decide",
+      "presentePerfecto": "I have decided",
+      "futuroPerfecto": "I will have decided",
+      "pluscuamperfecto": "I had decided",
+      "preteritoAnterior": "I had decided",
+      "condicionalPerfecto": "I would have decided"
+    },
+    "subjuntivo": {
+      "presente": "I decide, am deciding",
+      "imperfecto": "I decided, was deciding",
+      "futuro": "I will decide",
+      "presentePerfecto": "I have decided, decided",
+      "futuroPerfecto": "I will have decided",
+      "pluscuamperfecto": "I had decided"
+    },
+    "afirmativo": "Decide!",
+    "negativo": "Don't decide!"
+  },
+  "attribution": "Fred Jehle"
+}

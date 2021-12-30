@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "peinarse",
+  "gerundio": "peinándose",
+  "participioPasado": "peinado",
+  "indicativo": {
+    "presente": {
+      "yo": "me peino",
+      "tu": "te peinas",
+      "ud": "se peina",
+      "nosotros": "nos peinamos",
+      "vosotros": "os peináis",
+      "uds": "se peinan"
+    },
+    "futuro": {
+      "yo": "me peinaré",
+      "tu": "te peinarás",
+      "ud": "se peinará",
+      "nosotros": "nos peinaremos",
+      "vosotros": "os peinaréis",
+      "uds": "se peinarán"
+    },
+    "imperfecto": {
+      "yo": "me peinaba",
+      "tu": "te peinabas",
+      "ud": "se peinaba",
+      "nosotros": "nos peinábamos",
+      "vosotros": "os peinabais",
+      "uds": "se peinaban"
+    },
+    "preterito": {
+      "yo": "me peiné",
+      "tu": "te peinaste",
+      "ud": "se peinó",
+      "nosotros": "nos peinamos",
+      "vosotros": "os peinasteis",
+      "uds": "se peinaron"
+    },
+    "condicional": {
+      "yo": "me peinaría",
+      "tu": "te peinarías",
+      "ud": "se peinaría",
+      "nosotros": "nos peinaríamos",
+      "vosotros": "os peinaríais",
+      "uds": "se peinarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he peinado",
+      "tu": "te has peinado",
+      "ud": "se ha peinado",
+      "nosotros": "nos hemos peinado",
+      "vosotros": "os habéis peinado",
+      "uds": "se han peinado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré peinado",
+      "tu": "te habrás peinado",
+      "ud": "se habrá peinado",
+      "nosotros": "nos habremos peinado",
+      "vosotros": "os habréis peinado",
+      "uds": "se habrán peinado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había peinado",
+      "tu": "te habías peinado",
+      "ud": "se había peinado",
+      "nosotros": "nos habíamos peinado",
+      "vosotros": "os habíais peinado",
+      "uds": "se habían peinado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube peinado",
+      "tu": "te hubiste peinado",
+      "ud": "se hubo peinado",
+      "nosotros": "nos hubimos peinado",
+      "vosotros": "os hubisteis peinado",
+      "uds": "se hubieron peinado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría peinado",
+      "tu": "te habrías peinado",
+      "ud": "se habría peinado",
+      "nosotros": "nos habríamos peinado",
+      "vosotros": "os habríais peinado",
+      "uds": "se habrían peinado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me peine",
+      "tu": "te peines",
+      "ud": "se peine",
+      "nosotros": "nos peinemos",
+      "vosotros": "os peinéis",
+      "uds": "se peinen"
+    },
+    "imperfecto": {
+      "yo": "me peinara",
+      "tu": "te peinaras",
+      "ud": "se peinara",
+      "nosotros": "nos peináramos",
+      "vosotros": "os peinarais",
+      "uds": "se peinaran"
+    },
+    "futuro": {
+      "yo": "me peinare",
+      "tu": "te peinares",
+      "ud": "se peinare",
+      "nosotros": "nos peináremos",
+      "vosotros": "os peinareis",
+      "uds": "se peinaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya peinado",
+      "tu": "te hayas peinado",
+      "ud": "se haya peinado",
+      "nosotros": "nos hayamos peinado",
+      "vosotros": "os hayáis peinado",
+      "uds": "se hayan peinado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere peinado",
+      "tu": "te hubieres peinado",
+      "ud": "se hubiere peinado",
+      "nosotros": "nos hubiéremos peinado",
+      "vosotros": "os hubiereis peinado",
+      "uds": "se hubieren peinado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera peinado",
+      "tu": "te hubieras peinado",
+      "ud": "se hubiera peinado",
+      "nosotros": "nos hubiéramos peinado",
+      "vosotros": "os hubierais peinado",
+      "uds": "se hubieran peinado"
+    },
+    "imperfectoAlt": {
+      "yo": "me peinase",
+      "tu": "te peinases",
+      "ud": "se peinase",
+      "nosotros": "nos peinásemos",
+      "vosotros": "os peinaseis",
+      "uds": "se peinasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese peinado",
+      "tu": "te hubieses peinado",
+      "ud": "se hubiese peinado",
+      "nosotros": "nos hubiésemos peinado",
+      "vosotros": "os hubieseis peinado",
+      "uds": "se hubiesen peinado"
+    }
+  },
+  "afirmativo": {
+    "tu": "péinate",
+    "vosotros": "peinaos",
+    "ud": "péinese",
+    "uds": "péinense"
+  },
+  "negativo": {
+    "tu": "no te peines",
+    "vosotros": "no os peinéis",
+    "ud": "no se peine",
+    "uds": "no se peinen"
+  },
+  "english": {
+    "note": "Note: For to comb someone else's hair, use the nonreflexive form peinar: Yo le peino (el pelo) a ella = I comb her hair.",
+    "infinitivo": "to comb one's hair; to do one's hair",
+    "gerundio": "combing my hair",
+    "participioPasado": "combed my hair",
+    "indicativo": {
+      "presente": "I comb my hair, am combing my hair",
+      "futuro": "I will comb my hair",
+      "imperfecto": "I was combing my hair, used to comb my hair, combed my hair",
+      "preterito": "I combed my hair",
+      "condicional": "I would comb my hair",
+      "presentePerfecto": "I have combed my hair",
+      "futuroPerfecto": "I will have combed my hair",
+      "pluscuamperfecto": "I had combed my hair",
+      "preteritoAnterior": "I had combed my hair",
+      "condicionalPerfecto": "I would have combed my hair"
+    },
+    "subjuntivo": {
+      "presente": "I comb my hair, am combing my hair",
+      "imperfecto": "I combed my hair, was combing my hair",
+      "futuro": "I will comb my hair",
+      "presentePerfecto": "I have combed my hair, combed my hair",
+      "futuroPerfecto": "I will have combed my hair",
+      "pluscuamperfecto": "I had combed my hair"
+    },
+    "afirmativo": "Comb my hair!",
+    "negativo": "Don't comb my hair!"
+  },
+  "attribution": "Fred Jehle"
+}

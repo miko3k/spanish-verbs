@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "desayunar",
+  "gerundio": "desayunando",
+  "participioPasado": "desayunado",
+  "indicativo": {
+    "presente": {
+      "yo": "desayuno",
+      "tu": "desayunas",
+      "ud": "desayuna",
+      "nosotros": "desayunamos",
+      "vosotros": "desayunáis",
+      "uds": "desayunan"
+    },
+    "futuro": {
+      "yo": "desayunaré",
+      "tu": "desayunarás",
+      "ud": "desayunará",
+      "nosotros": "desayunaremos",
+      "vosotros": "desayunaréis",
+      "uds": "desayunarán"
+    },
+    "imperfecto": {
+      "yo": "desayunaba",
+      "tu": "desayunabas",
+      "ud": "desayunaba",
+      "nosotros": "desayunábamos",
+      "vosotros": "desayunabais",
+      "uds": "desayunaban"
+    },
+    "preterito": {
+      "yo": "desayuné",
+      "tu": "desayunaste",
+      "ud": "desayunó",
+      "nosotros": "desayunamos",
+      "vosotros": "desayunasteis",
+      "uds": "desayunaron"
+    },
+    "condicional": {
+      "yo": "desayunaría",
+      "tu": "desayunarías",
+      "ud": "desayunaría",
+      "nosotros": "desayunaríamos",
+      "vosotros": "desayunaríais",
+      "uds": "desayunarían"
+    },
+    "presentePerfecto": {
+      "yo": "he desayunado",
+      "tu": "has desayunado",
+      "ud": "ha desayunado",
+      "nosotros": "hemos desayunado",
+      "vosotros": "habéis desayunado",
+      "uds": "han desayunado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré desayunado",
+      "tu": "habrás desayunado",
+      "ud": "habrá desayunado",
+      "nosotros": "habremos desayunado",
+      "vosotros": "habréis desayunado",
+      "uds": "habrán desayunado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había desayunado",
+      "tu": "habías desayunado",
+      "ud": "había desayunado",
+      "nosotros": "habíamos desayunado",
+      "vosotros": "habíais desayunado",
+      "uds": "habían desayunado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube desayunado",
+      "tu": "hubiste desayunado",
+      "ud": "hubo desayunado",
+      "nosotros": "hubimos desayunado",
+      "vosotros": "hubisteis desayunado",
+      "uds": "hubieron desayunado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría desayunado",
+      "tu": "habrías desayunado",
+      "ud": "habría desayunado",
+      "nosotros": "habríamos desayunado",
+      "vosotros": "habríais desayunado",
+      "uds": "habrían desayunado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "desayune",
+      "tu": "desayunes",
+      "ud": "desayune",
+      "nosotros": "desayunemos",
+      "vosotros": "desayunéis",
+      "uds": "desayunen"
+    },
+    "imperfecto": {
+      "yo": "desayunara",
+      "tu": "desayunaras",
+      "ud": "desayunara",
+      "nosotros": "desayunáramos",
+      "vosotros": "desayunarais",
+      "uds": "desayunaran"
+    },
+    "futuro": {
+      "yo": "desayunare",
+      "tu": "desayunares",
+      "ud": "desayunare",
+      "nosotros": "desayunáremos",
+      "vosotros": "desayunareis",
+      "uds": "desayunaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya desayunado",
+      "tu": "hayas desayunado",
+      "ud": "haya desayunado",
+      "nosotros": "hayamos desayunado",
+      "vosotros": "hayáis desayunado",
+      "uds": "hayan desayunado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere desayunado",
+      "tu": "hubieres desayunado",
+      "ud": "hubiere desayunado",
+      "nosotros": "hubiéremos desayunado",
+      "vosotros": "hubiereis desayunado",
+      "uds": "hubieren desayunado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera desayunado",
+      "tu": "hubieras desayunado",
+      "ud": "hubiera desayunado",
+      "nosotros": "hubiéramos desayunado",
+      "vosotros": "hubierais desayunado",
+      "uds": "hubieran desayunado"
+    },
+    "imperfectoAlt": {
+      "yo": "desayunase",
+      "tu": "desayunases",
+      "ud": "desayunase",
+      "nosotros": "desayunásemos",
+      "vosotros": "desayunaseis",
+      "uds": "desayunasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese desayunado",
+      "tu": "hubieses desayunado",
+      "ud": "hubiese desayunado",
+      "nosotros": "hubiésemos desayunado",
+      "vosotros": "hubieseis desayunado",
+      "uds": "hubiesen desayunado"
+    }
+  },
+  "afirmativo": {
+    "tu": "desayuna",
+    "vosotros": "desayunad",
+    "ud": "desayune",
+    "uds": "desayunen"
+  },
+  "negativo": {
+    "tu": "no desayunes",
+    "vosotros": "no desayunéis",
+    "ud": "no desayune",
+    "uds": "no desayunen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to eat breakfast, have breakfast",
+    "gerundio": "eating breakfast",
+    "participioPasado": "eaten breakfast",
+    "indicativo": {
+      "presente": "I eat breakfast, am eating breakfast",
+      "futuro": "I will eat breakfast",
+      "imperfecto": "I was eating breakfast, used to eat breakfast, ate breakfast",
+      "preterito": "I ate breakfast",
+      "condicional": "I would eat breakfast",
+      "presentePerfecto": "I have eaten breakfast",
+      "futuroPerfecto": "I will have eaten breakfast",
+      "pluscuamperfecto": "I had eaten breakfast",
+      "preteritoAnterior": "I had eaten breakfast",
+      "condicionalPerfecto": "I would have eaten breakfast"
+    },
+    "subjuntivo": {
+      "presente": "I eat breakfast, am eating breakfast",
+      "imperfecto": "I ate breakfast, was eating breakfast",
+      "futuro": "I will eat breakfast",
+      "presentePerfecto": "I have eaten breakfast, ate breakfast",
+      "futuroPerfecto": "I will have eaten breakfast",
+      "pluscuamperfecto": "I had eaten breakfast"
+    },
+    "afirmativo": "Eat breakfast!",
+    "negativo": "Don't eat breakfast!"
+  },
+  "attribution": "Fred Jehle"
+}

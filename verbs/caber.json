@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "caber",
+  "gerundio": "cabiendo",
+  "participioPasado": "cabido",
+  "indicativo": {
+    "presente": {
+      "yo": "quepo",
+      "tu": "cabes",
+      "ud": "cabe",
+      "nosotros": "cabemos",
+      "vosotros": "cabéis",
+      "uds": "caben"
+    },
+    "futuro": {
+      "yo": "cabré",
+      "tu": "cabrás",
+      "ud": "cabrá",
+      "nosotros": "cabremos",
+      "vosotros": "cabréis",
+      "uds": "cabrán"
+    },
+    "imperfecto": {
+      "yo": "cabía",
+      "tu": "cabías",
+      "ud": "cabía",
+      "nosotros": "cabíamos",
+      "vosotros": "cabíais",
+      "uds": "cabían"
+    },
+    "preterito": {
+      "yo": "cupe",
+      "tu": "cupiste",
+      "ud": "cupo",
+      "nosotros": "cupimos",
+      "vosotros": "cupisteis",
+      "uds": "cupieron"
+    },
+    "condicional": {
+      "yo": "cabría",
+      "tu": "cabrías",
+      "ud": "cabría",
+      "nosotros": "cabríamos",
+      "vosotros": "cabríais",
+      "uds": "cabrían"
+    },
+    "presentePerfecto": {
+      "yo": "he cabido",
+      "tu": "has cabido",
+      "ud": "ha cabido",
+      "nosotros": "hemos cabido",
+      "vosotros": "habéis cabido",
+      "uds": "han cabido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cabido",
+      "tu": "habrás cabido",
+      "ud": "habrá cabido",
+      "nosotros": "habremos cabido",
+      "vosotros": "habréis cabido",
+      "uds": "habrán cabido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cabido",
+      "tu": "habías cabido",
+      "ud": "había cabido",
+      "nosotros": "habíamos cabido",
+      "vosotros": "habíais cabido",
+      "uds": "habían cabido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cabido",
+      "tu": "hubiste cabido",
+      "ud": "hubo cabido",
+      "nosotros": "hubimos cabido",
+      "vosotros": "hubisteis cabido",
+      "uds": "hubieron cabido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cabido",
+      "tu": "habrías cabido",
+      "ud": "habría cabido",
+      "nosotros": "habríamos cabido",
+      "vosotros": "habríais cabido",
+      "uds": "habrían cabido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "quepa",
+      "tu": "quepas",
+      "ud": "quepa",
+      "nosotros": "quepamos",
+      "vosotros": "quepáis",
+      "uds": "quepan"
+    },
+    "imperfecto": {
+      "yo": "cupiera",
+      "tu": "cupieras",
+      "ud": "cupiera",
+      "nosotros": "cupiéramos",
+      "vosotros": "cupierais",
+      "uds": "cupieran"
+    },
+    "futuro": {
+      "yo": "cupiere",
+      "tu": "cupieres",
+      "ud": "cupiere",
+      "nosotros": "cupiéremos",
+      "vosotros": "cupiereis",
+      "uds": "cupieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cabido",
+      "tu": "hayas cabido",
+      "ud": "haya cabido",
+      "nosotros": "hayamos cabido",
+      "vosotros": "hayáis cabido",
+      "uds": "hayan cabido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cabido",
+      "tu": "hubieres cabido",
+      "ud": "hubiere cabido",
+      "nosotros": "hubiéremos cabido",
+      "vosotros": "hubiereis cabido",
+      "uds": "hubieren cabido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cabido",
+      "tu": "hubieras cabido",
+      "ud": "hubiera cabido",
+      "nosotros": "hubiéramos cabido",
+      "vosotros": "hubierais cabido",
+      "uds": "hubieran cabido"
+    },
+    "imperfectoAlt": {
+      "yo": "cupiese",
+      "tu": "cupieses",
+      "ud": "cupiese",
+      "nosotros": "cupiésemos",
+      "vosotros": "cupieseis",
+      "uds": "cupiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cabido",
+      "tu": "hubieses cabido",
+      "ud": "hubiese cabido",
+      "nosotros": "hubiésemos cabido",
+      "vosotros": "hubieseis cabido",
+      "uds": "hubiesen cabido"
+    }
+  },
+  "afirmativo": {
+    "tu": "cabe",
+    "vosotros": "cabed",
+    "ud": "quepa",
+    "uds": "quepan"
+  },
+  "negativo": {
+    "tu": "no quepas",
+    "vosotros": "no quepáis",
+    "ud": "no quepa",
+    "uds": "no quepan"
+  },
+  "english": {
+    "note": "Formas irregulares: quepo, quepa, quepas, etc. Radical irregular en el futuro y condicional: cabr-. Radical fuerte en el pretérito: cup-.",
+    "infinitivo": "to fit (in something)",
+    "gerundio": "fitting",
+    "participioPasado": "fit",
+    "indicativo": {
+      "presente": "I fit",
+      "futuro": "I will fit",
+      "imperfecto": "I used to fit, fit",
+      "preterito": "I fit",
+      "condicional": "I would fit",
+      "presentePerfecto": "I have fit",
+      "futuroPerfecto": "I will have fit",
+      "pluscuamperfecto": "I had fit",
+      "preteritoAnterior": "I had fit",
+      "condicionalPerfecto": "I would have fit"
+    },
+    "subjuntivo": {
+      "presente": "I fit",
+      "imperfecto": "I fit, was fitting",
+      "futuro": "I will fit",
+      "presentePerfecto": "I have fit, fit",
+      "futuroPerfecto": "I will have fit",
+      "pluscuamperfecto": "I had fit"
+    },
+    "afirmativo": "Fit!",
+    "negativo": "Don't fit!"
+  },
+  "attribution": "Fred Jehle"
+}

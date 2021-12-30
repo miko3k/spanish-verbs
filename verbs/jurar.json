@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "jurar",
+  "gerundio": "jurando",
+  "participioPasado": "jurado",
+  "indicativo": {
+    "presente": {
+      "yo": "juro",
+      "tu": "juras",
+      "ud": "jura",
+      "nosotros": "juramos",
+      "vosotros": "juráis",
+      "uds": "juran"
+    },
+    "futuro": {
+      "yo": "juraré",
+      "tu": "jurarás",
+      "ud": "jurará",
+      "nosotros": "juraremos",
+      "vosotros": "juraréis",
+      "uds": "jurarán"
+    },
+    "imperfecto": {
+      "yo": "juraba",
+      "tu": "jurabas",
+      "ud": "juraba",
+      "nosotros": "jurábamos",
+      "vosotros": "jurabais",
+      "uds": "juraban"
+    },
+    "preterito": {
+      "yo": "juré",
+      "tu": "juraste",
+      "ud": "juró",
+      "nosotros": "juramos",
+      "vosotros": "jurasteis",
+      "uds": "juraron"
+    },
+    "condicional": {
+      "yo": "juraría",
+      "tu": "jurarías",
+      "ud": "juraría",
+      "nosotros": "juraríamos",
+      "vosotros": "juraríais",
+      "uds": "jurarían"
+    },
+    "presentePerfecto": {
+      "yo": "he jurado",
+      "tu": "has jurado",
+      "ud": "ha jurado",
+      "nosotros": "hemos jurado",
+      "vosotros": "habéis jurado",
+      "uds": "han jurado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré jurado",
+      "tu": "habrás jurado",
+      "ud": "habrá jurado",
+      "nosotros": "habremos jurado",
+      "vosotros": "habréis jurado",
+      "uds": "habrán jurado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había jurado",
+      "tu": "habías jurado",
+      "ud": "había jurado",
+      "nosotros": "habíamos jurado",
+      "vosotros": "habíais jurado",
+      "uds": "habían jurado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube jurado",
+      "tu": "hubiste jurado",
+      "ud": "hubo jurado",
+      "nosotros": "hubimos jurado",
+      "vosotros": "hubisteis jurado",
+      "uds": "hubieron jurado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría jurado",
+      "tu": "habrías jurado",
+      "ud": "habría jurado",
+      "nosotros": "habríamos jurado",
+      "vosotros": "habríais jurado",
+      "uds": "habrían jurado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "jure",
+      "tu": "jures",
+      "ud": "jure",
+      "nosotros": "juremos",
+      "vosotros": "juréis",
+      "uds": "juren"
+    },
+    "imperfecto": {
+      "yo": "jurara",
+      "tu": "juraras",
+      "ud": "jurara",
+      "nosotros": "juráramos",
+      "vosotros": "jurarais",
+      "uds": "juraran"
+    },
+    "futuro": {
+      "yo": "jurare",
+      "tu": "jurares",
+      "ud": "jurare",
+      "nosotros": "juráremos",
+      "vosotros": "jurareis",
+      "uds": "juraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya jurado",
+      "tu": "hayas jurado",
+      "ud": "haya jurado",
+      "nosotros": "hayamos jurado",
+      "vosotros": "hayáis jurado",
+      "uds": "hayan jurado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere jurado",
+      "tu": "hubieres jurado",
+      "ud": "hubiere jurado",
+      "nosotros": "hubiéremos jurado",
+      "vosotros": "hubiereis jurado",
+      "uds": "hubieren jurado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera jurado",
+      "tu": "hubieras jurado",
+      "ud": "hubiera jurado",
+      "nosotros": "hubiéramos jurado",
+      "vosotros": "hubierais jurado",
+      "uds": "hubieran jurado"
+    },
+    "imperfectoAlt": {
+      "yo": "jurase",
+      "tu": "jurases",
+      "ud": "jurase",
+      "nosotros": "jurásemos",
+      "vosotros": "juraseis",
+      "uds": "jurasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese jurado",
+      "tu": "hubieses jurado",
+      "ud": "hubiese jurado",
+      "nosotros": "hubiésemos jurado",
+      "vosotros": "hubieseis jurado",
+      "uds": "hubiesen jurado"
+    }
+  },
+  "afirmativo": {
+    "tu": "jura",
+    "vosotros": "jurad",
+    "ud": "jure",
+    "uds": "juren"
+  },
+  "negativo": {
+    "tu": "no jures",
+    "vosotros": "no juréis",
+    "ud": "no jure",
+    "uds": "no juren"
+  },
+  "english": {
+    "note": "Note: Jurar means to swear both in the sense of to take an oath and to curse.",
+    "infinitivo": "to swear",
+    "gerundio": "swearing",
+    "participioPasado": "sworn",
+    "indicativo": {
+      "presente": "I swear, am swearing",
+      "futuro": "I will swear",
+      "imperfecto": "I was swearing, used to swear, swore",
+      "preterito": "I swore",
+      "condicional": "I would swear",
+      "presentePerfecto": "I have sworn",
+      "futuroPerfecto": "I will have sworn",
+      "pluscuamperfecto": "I had sworn",
+      "preteritoAnterior": "I had sworn",
+      "condicionalPerfecto": "I would have sworn"
+    },
+    "subjuntivo": {
+      "presente": "I swear, am swearing",
+      "imperfecto": "I swore, was swearing",
+      "futuro": "I will swear",
+      "presentePerfecto": "I have sworn, swore",
+      "futuroPerfecto": "I will have sworn",
+      "pluscuamperfecto": "I had sworn"
+    },
+    "afirmativo": "Swear!",
+    "negativo": "Don't swear!"
+  },
+  "attribution": "Fred Jehle"
+}

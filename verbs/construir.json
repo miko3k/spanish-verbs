@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "construir",
+  "gerundio": "construyendo",
+  "participioPasado": "construido",
+  "indicativo": {
+    "presente": {
+      "yo": "construyo",
+      "tu": "construyes",
+      "ud": "construye",
+      "nosotros": "construimos",
+      "vosotros": "construís",
+      "uds": "construyen"
+    },
+    "futuro": {
+      "yo": "construiré",
+      "tu": "construirás",
+      "ud": "construirá",
+      "nosotros": "construiremos",
+      "vosotros": "construiréis",
+      "uds": "construirán"
+    },
+    "imperfecto": {
+      "yo": "construía",
+      "tu": "construías",
+      "ud": "construía",
+      "nosotros": "construíamos",
+      "vosotros": "construíais",
+      "uds": "construían"
+    },
+    "preterito": {
+      "yo": "construí",
+      "tu": "construiste",
+      "ud": "construyó",
+      "nosotros": "construimos",
+      "vosotros": "construisteis",
+      "uds": "construyeron"
+    },
+    "condicional": {
+      "yo": "construiría",
+      "tu": "construirías",
+      "ud": "construiría",
+      "nosotros": "construiríamos",
+      "vosotros": "construiríais",
+      "uds": "construirían"
+    },
+    "presentePerfecto": {
+      "yo": "he construido",
+      "tu": "has construido",
+      "ud": "ha construido",
+      "nosotros": "hemos construido",
+      "vosotros": "habéis construido",
+      "uds": "han construido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré construido",
+      "tu": "habrás construido",
+      "ud": "habrá construido",
+      "nosotros": "habremos construido",
+      "vosotros": "habréis construido",
+      "uds": "habrán construido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había construido",
+      "tu": "habías construido",
+      "ud": "había construido",
+      "nosotros": "habíamos construido",
+      "vosotros": "habíais construido",
+      "uds": "habían construido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube construido",
+      "tu": "hubiste construido",
+      "ud": "hubo construido",
+      "nosotros": "hubimos construido",
+      "vosotros": "hubisteis construido",
+      "uds": "hubieron construido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría construido",
+      "tu": "habrías construido",
+      "ud": "habría construido",
+      "nosotros": "habríamos construido",
+      "vosotros": "habríais construido",
+      "uds": "habrían construido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "construya",
+      "tu": "construyas",
+      "ud": "construya",
+      "nosotros": "construyamos",
+      "vosotros": "construyáis",
+      "uds": "construyan"
+    },
+    "imperfecto": {
+      "yo": "construyera",
+      "tu": "construyeras",
+      "ud": "construyera",
+      "nosotros": "construyéramos",
+      "vosotros": "construyerais",
+      "uds": "construyeran"
+    },
+    "futuro": {
+      "yo": "construyere",
+      "tu": "construyeres",
+      "ud": "construyere",
+      "nosotros": "construyéremos",
+      "vosotros": "construyereis",
+      "uds": "construyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya construido",
+      "tu": "hayas construido",
+      "ud": "haya construido",
+      "nosotros": "hayamos construido",
+      "vosotros": "hayáis construido",
+      "uds": "hayan construido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere construido",
+      "tu": "hubieres construido",
+      "ud": "hubiere construido",
+      "nosotros": "hubiéremos construido",
+      "vosotros": "hubiereis construido",
+      "uds": "hubieren construido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera construido",
+      "tu": "hubieras construido",
+      "ud": "hubiera construido",
+      "nosotros": "hubiéramos construido",
+      "vosotros": "hubierais construido",
+      "uds": "hubieran construido"
+    },
+    "imperfectoAlt": {
+      "yo": "construyese",
+      "tu": "construyeses",
+      "ud": "construyese",
+      "nosotros": "construyésemos",
+      "vosotros": "construyeseis",
+      "uds": "construyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese construido",
+      "tu": "hubieses construido",
+      "ud": "hubiese construido",
+      "nosotros": "hubiésemos construido",
+      "vosotros": "hubieseis construido",
+      "uds": "hubiesen construido"
+    }
+  },
+  "afirmativo": {
+    "tu": "construye",
+    "vosotros": "construid",
+    "ud": "construya",
+    "uds": "construyan"
+  },
+  "negativo": {
+    "tu": "no construyas",
+    "vosotros": "no construyáis",
+    "ud": "no construya",
+    "uds": "no construyan"
+  },
+  "english": {
+    "note": "Cambios: u > uy delante a, o y e; la i intervocálica (y sin acento escrito) > y.",
+    "infinitivo": "to build, construct",
+    "gerundio": "building",
+    "participioPasado": "built",
+    "indicativo": {
+      "presente": "I build, am building",
+      "futuro": "I will build",
+      "imperfecto": "I was building, used to build, built",
+      "preterito": "I built",
+      "condicional": "I would build",
+      "presentePerfecto": "I have built",
+      "futuroPerfecto": "I will have built",
+      "pluscuamperfecto": "I had built",
+      "preteritoAnterior": "I had built",
+      "condicionalPerfecto": "I would have built"
+    },
+    "subjuntivo": {
+      "presente": "I build, am building",
+      "imperfecto": "I built, was building",
+      "futuro": "I will build",
+      "presentePerfecto": "I have built, built",
+      "futuroPerfecto": "I will have built",
+      "pluscuamperfecto": "I had built"
+    },
+    "afirmativo": "Build!",
+    "negativo": "Don't build!"
+  },
+  "attribution": "Fred Jehle"
+}

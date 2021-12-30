@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "lavarse",
+  "gerundio": "lavándose",
+  "participioPasado": "lavado",
+  "indicativo": {
+    "presente": {
+      "yo": "me lavo",
+      "tu": "te lavas",
+      "ud": "se lava",
+      "nosotros": "nos lavamos",
+      "vosotros": "os laváis",
+      "uds": "se lavan"
+    },
+    "futuro": {
+      "yo": "me lavaré",
+      "tu": "te lavarás",
+      "ud": "se lavará",
+      "nosotros": "nos lavaremos",
+      "vosotros": "os lavaréis",
+      "uds": "se lavarán"
+    },
+    "imperfecto": {
+      "yo": "me lavaba",
+      "tu": "te lavabas",
+      "ud": "se lavaba",
+      "nosotros": "nos lavábamos",
+      "vosotros": "os lavabais",
+      "uds": "se lavaban"
+    },
+    "preterito": {
+      "yo": "me lavé",
+      "tu": "te lavaste",
+      "ud": "se lavó",
+      "nosotros": "nos lavamos",
+      "vosotros": "lavasteis",
+      "uds": "se lavaron"
+    },
+    "condicional": {
+      "yo": "me lavaría",
+      "tu": "te lavarías",
+      "ud": "se lavaría",
+      "nosotros": "nos lavaríamos",
+      "vosotros": "os lavaríais",
+      "uds": "se lavarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he lavado",
+      "tu": "te has lavado",
+      "ud": "se ha lavado",
+      "nosotros": "nos hemos lavado",
+      "vosotros": "os habéis lavado",
+      "uds": "se han lavado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré lavado",
+      "tu": "te habrás lavado",
+      "ud": "se habrá lavado",
+      "nosotros": "nos habremos lavado",
+      "vosotros": "os habréis lavado",
+      "uds": "se habrán lavado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había lavado",
+      "tu": "te habías lavado",
+      "ud": "se había lavado",
+      "nosotros": "nos habíamos lavado",
+      "vosotros": "os habíais lavado",
+      "uds": "se habían lavado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube lavado",
+      "tu": "te hubiste lavado",
+      "ud": "se hubo lavado",
+      "nosotros": "nos hubimos lavado",
+      "vosotros": "os hubisteis lavado",
+      "uds": "se hubieron lavado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría lavado",
+      "tu": "te habrías lavado",
+      "ud": "se habría lavado",
+      "nosotros": "nos habríamos lavado",
+      "vosotros": "os habríais lavado",
+      "uds": "se habrían lavado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me lave",
+      "tu": "te laves",
+      "ud": "se lave",
+      "nosotros": "nos lavemos",
+      "vosotros": "os lavéis",
+      "uds": "se laven"
+    },
+    "imperfecto": {
+      "yo": "me lavara",
+      "tu": "te lavaras",
+      "ud": "se lavara",
+      "nosotros": "nos laváramos",
+      "vosotros": "os lavarais",
+      "uds": "se lavaran"
+    },
+    "futuro": {
+      "yo": "me lavare",
+      "tu": "te lavares",
+      "ud": "se lavare",
+      "nosotros": "nos laváremos",
+      "vosotros": "os lavareis",
+      "uds": "se lavaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya lavado",
+      "tu": "te hayas lavado",
+      "ud": "se haya lavado",
+      "nosotros": "nos hayamos lavado",
+      "vosotros": "os hayáis lavado",
+      "uds": "se hayan lavado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere lavado",
+      "tu": "te hubieres lavado",
+      "ud": "se hubiere lavado",
+      "nosotros": "nos hubiéremos lavado",
+      "vosotros": "os hubiereis lavado",
+      "uds": "se hubieren lavado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera lavado",
+      "tu": "te hubieras lavado",
+      "ud": "se hubiera lavado",
+      "nosotros": "nos hubiéramos lavado",
+      "vosotros": "os hubierais lavado",
+      "uds": "se hubieran lavado"
+    },
+    "imperfectoAlt": {
+      "yo": "me lavase",
+      "tu": "te lavases",
+      "ud": "se lavase",
+      "nosotros": "nos lavásemos",
+      "vosotros": "os lavaseis",
+      "uds": "se lavasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese lavado",
+      "tu": "te hubieses lavado",
+      "ud": "se hubiese lavado",
+      "nosotros": "nos hubiésemos lavado",
+      "vosotros": "os hubieseis lavado",
+      "uds": "se hubiesen lavado"
+    }
+  },
+  "afirmativo": {
+    "tu": "lávate",
+    "vosotros": "lavaos",
+    "ud": "lávese",
+    "uds": "lávense"
+  },
+  "negativo": {
+    "tu": "no te laves",
+    "vosotros": "no os lavéis",
+    "ud": "no se lave",
+    "uds": "no se laven"
+  },
+  "english": {
+    "note": "For to wash as in to wash something or someone else, use the nonreflexive form lavar.",
+    "infinitivo": "to wash (oneself), to wash up",
+    "gerundio": "washing up",
+    "participioPasado": "washed up",
+    "indicativo": {
+      "presente": "I wash up, am washing up",
+      "futuro": "I will wash up",
+      "imperfecto": "I was washing up, used to wash up, washed up",
+      "preterito": "I washed up",
+      "condicional": "I would wash up",
+      "presentePerfecto": "I have washed up",
+      "futuroPerfecto": "I will have washed up",
+      "pluscuamperfecto": "I had washed up",
+      "preteritoAnterior": "I had washed up",
+      "condicionalPerfecto": "I would have washed up"
+    },
+    "subjuntivo": {
+      "presente": "I wash up, am washing up",
+      "imperfecto": "I washed up, was washing up",
+      "futuro": "I will wash up",
+      "presentePerfecto": "I have washed up, washed up",
+      "futuroPerfecto": "I will have washed up",
+      "pluscuamperfecto": "I had washed up"
+    },
+    "afirmativo": "Wash up!",
+    "negativo": "Don't wash up!"
+  },
+  "attribution": "Fred Jehle"
+}

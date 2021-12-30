@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "atreverse",
+  "gerundio": "atreviéndose",
+  "participioPasado": "atrevido",
+  "indicativo": {
+    "presente": {
+      "yo": "me atrevo",
+      "tu": "te atreves",
+      "ud": "se atreve",
+      "nosotros": "nos atrevemos",
+      "vosotros": "os atrevéis",
+      "uds": "se atreven"
+    },
+    "futuro": {
+      "yo": "me atreveré",
+      "tu": "te atreverás",
+      "ud": "se atreverá",
+      "nosotros": "nos atreveremos",
+      "vosotros": "os atreveréis",
+      "uds": "se atreverán"
+    },
+    "imperfecto": {
+      "yo": "me atrevía",
+      "tu": "te atrevías",
+      "ud": "se atrevía",
+      "nosotros": "nos atrevíamos",
+      "vosotros": "os atrevíais",
+      "uds": "se atrevían"
+    },
+    "preterito": {
+      "yo": "me atreví",
+      "tu": "te atreviste",
+      "ud": "se atrevió",
+      "nosotros": "nos atrevimos",
+      "vosotros": "os atrevisteis",
+      "uds": "se atrevieron"
+    },
+    "condicional": {
+      "yo": "me atrevería",
+      "tu": "te atreverías",
+      "ud": "se atrevería",
+      "nosotros": "nos atreveríamos",
+      "vosotros": "os atreveríais",
+      "uds": "se atreverían"
+    },
+    "presentePerfecto": {
+      "yo": "me he atrevido",
+      "tu": "te has atrevido",
+      "ud": "se ha atrevido",
+      "nosotros": "nos hemos atrevido",
+      "vosotros": "os habéis atrevido",
+      "uds": "se han atrevido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré atrevido",
+      "tu": "te habrás atrevido",
+      "ud": "se habrá atrevido",
+      "nosotros": "nos habremos atrevido",
+      "vosotros": "os habréis atrevido",
+      "uds": "se habrán atrevido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había atrevido",
+      "tu": "te habías atrevido",
+      "ud": "se había atrevido",
+      "nosotros": "nos habíamos atrevido",
+      "vosotros": "os habíais atrevido",
+      "uds": "se habían atrevido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube atrevido",
+      "tu": "te hubiste atrevido",
+      "ud": "se hubo atrevido",
+      "nosotros": "nos hubimos atrevido",
+      "vosotros": "os hubisteis atrevido",
+      "uds": "se hubieron atrevido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría atrevido",
+      "tu": "te habrías atrevido",
+      "ud": "se habría atrevido",
+      "nosotros": "nos habríamos atrevido",
+      "vosotros": "os habríais atrevido",
+      "uds": "se habrían atrevido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me atreva",
+      "tu": "te atrevas",
+      "ud": "se atreva",
+      "nosotros": "nos atrevamos",
+      "vosotros": "os atreváis",
+      "uds": "se atrevan"
+    },
+    "imperfecto": {
+      "yo": "me atreviera",
+      "tu": "te atrevieras",
+      "ud": "se atreviera",
+      "nosotros": "nos atreviéramos",
+      "vosotros": "os atrevierais",
+      "uds": "se atrevieran"
+    },
+    "futuro": {
+      "yo": "me atreviere",
+      "tu": "te atrevieres",
+      "ud": "se atreviere",
+      "nosotros": "nos atreviéremos",
+      "vosotros": "os atreviereis",
+      "uds": "se atrevieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya atrevido",
+      "tu": "te hayas atrevido",
+      "ud": "se haya atrevido",
+      "nosotros": "nos hayamos atrevido",
+      "vosotros": "os hayáis atrevido",
+      "uds": "se hayan atrevido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere atrevido",
+      "tu": "te hubieres atrevido",
+      "ud": "se hubiere atrevido",
+      "nosotros": "nos hubiéremos atrevido",
+      "vosotros": "os hubiereis atrevido",
+      "uds": "se hubieren atrevido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera atrevido",
+      "tu": "te hubieras atrevido",
+      "ud": "se hubiera atrevido",
+      "nosotros": "nos hubiéramos atrevido",
+      "vosotros": "os hubierais atrevido",
+      "uds": "se hubieran atrevido"
+    },
+    "imperfectoAlt": {
+      "yo": "me atreviese",
+      "tu": "te atrevieses",
+      "ud": "se atreviese",
+      "nosotros": "nos atreviésemos",
+      "vosotros": "os atrevieseis",
+      "uds": "se atreviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese atrevido",
+      "tu": "te hubieses atrevido",
+      "ud": "se hubiese atrevido",
+      "nosotros": "nos hubiésemos atrevido",
+      "vosotros": "os hubieseis atrevido",
+      "uds": "se hubiesen atrevido"
+    }
+  },
+  "afirmativo": {
+    "tu": "atrévete",
+    "vosotros": "atreveos",
+    "ud": "atrévase",
+    "uds": "atrévanse"
+  },
+  "negativo": {
+    "tu": "no te atrevas",
+    "vosotros": "no os atreváis",
+    "ud": "no se atreva",
+    "uds": "no se atrevan"
+  },
+  "english": {
+    "note": "To dare to (do something) = atreverse a (hacer algo).",
+    "infinitivo": "to dare",
+    "gerundio": "daring",
+    "participioPasado": "dared",
+    "indicativo": {
+      "presente": "I dare, am daring",
+      "futuro": "I will dare",
+      "imperfecto": "I was daring, used to dare, dared",
+      "preterito": "I dared",
+      "condicional": "I would dare",
+      "presentePerfecto": "I have dared",
+      "futuroPerfecto": "I will have dared",
+      "pluscuamperfecto": "I had dared",
+      "preteritoAnterior": "I had dared",
+      "condicionalPerfecto": "I would have dared"
+    },
+    "subjuntivo": {
+      "presente": "I dare, am daring",
+      "imperfecto": "I dared, was daring",
+      "futuro": "I will dare",
+      "presentePerfecto": "I have dared, dared",
+      "futuroPerfecto": "I will have dared",
+      "pluscuamperfecto": "I had dared"
+    },
+    "afirmativo": "Dare!",
+    "negativo": "Don't dare!"
+  },
+  "attribution": "Fred Jehle"
+}

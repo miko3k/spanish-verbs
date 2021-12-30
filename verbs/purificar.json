@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "purificar",
+  "gerundio": "purificando",
+  "participioPasado": "purificado",
+  "indicativo": {
+    "presente": {
+      "yo": "purifico",
+      "tu": "purificas",
+      "ud": "purifica",
+      "nosotros": "purificamos",
+      "vosotros": "purificáis",
+      "uds": "purifican"
+    },
+    "futuro": {
+      "yo": "purificaré",
+      "tu": "purificarás",
+      "ud": "purificará",
+      "nosotros": "purificaremos",
+      "vosotros": "purificaréis",
+      "uds": "purificarán"
+    },
+    "imperfecto": {
+      "yo": "purificaba",
+      "tu": "purificabas",
+      "ud": "purificaba",
+      "nosotros": "purificábamos",
+      "vosotros": "purificabais",
+      "uds": "purificaban"
+    },
+    "preterito": {
+      "yo": "purifiqué",
+      "tu": "purificaste",
+      "ud": "purificó",
+      "nosotros": "purificamos",
+      "vosotros": "purificasteis",
+      "uds": "purificaron"
+    },
+    "condicional": {
+      "yo": "purificaría",
+      "tu": "purificarías",
+      "ud": "purificaría",
+      "nosotros": "purificaríamos",
+      "vosotros": "purificaríais",
+      "uds": "purificarían"
+    },
+    "presentePerfecto": {
+      "yo": "he purificado",
+      "tu": "has purificado",
+      "ud": "ha purificado",
+      "nosotros": "hemos purificado",
+      "vosotros": "habéis purificado",
+      "uds": "han purificado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré purificado",
+      "tu": "habrás purificado",
+      "ud": "habrá purificado",
+      "nosotros": "habremos purificado",
+      "vosotros": "habréis purificado",
+      "uds": "habrán purificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había purificado",
+      "tu": "habías purificado",
+      "ud": "había purificado",
+      "nosotros": "habíamos purificado",
+      "vosotros": "habíais purificado",
+      "uds": "habían purificado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube purificado",
+      "tu": "hubiste purificado",
+      "ud": "hubo purificado",
+      "nosotros": "hubimos purificado",
+      "vosotros": "hubisteis purificado",
+      "uds": "hubieron purificado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría purificado",
+      "tu": "habrías purificado",
+      "ud": "habría purificado",
+      "nosotros": "habríamos purificado",
+      "vosotros": "habríais purificado",
+      "uds": "habrían purificado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "purifique",
+      "tu": "purifiques",
+      "ud": "purifique",
+      "nosotros": "purifiquemos",
+      "vosotros": "purifiquéis",
+      "uds": "purifiquen"
+    },
+    "imperfecto": {
+      "yo": "purificara",
+      "tu": "purificaras",
+      "ud": "purificara",
+      "nosotros": "purificáramos",
+      "vosotros": "purificarais",
+      "uds": "purificaran"
+    },
+    "futuro": {
+      "yo": "purificare",
+      "tu": "purificares",
+      "ud": "purificare",
+      "nosotros": "purificáremos",
+      "vosotros": "purificareis",
+      "uds": "purificaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya purificado",
+      "tu": "hayas purificado",
+      "ud": "haya purificado",
+      "nosotros": "hayamos purificado",
+      "vosotros": "hayáis purificado",
+      "uds": "hayan purificado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere purificado",
+      "tu": "hubieres purificado",
+      "ud": "hubiere purificado",
+      "nosotros": "hubiéremos purificado",
+      "vosotros": "hubiereis purificado",
+      "uds": "hubieren purificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera purificado",
+      "tu": "hubieras purificado",
+      "ud": "hubiera purificado",
+      "nosotros": "hubiéramos purificado",
+      "vosotros": "hubierais purificado",
+      "uds": "hubieran purificado"
+    },
+    "imperfectoAlt": {
+      "yo": "purificase",
+      "tu": "purificases",
+      "ud": "purificase",
+      "nosotros": "purificásemos",
+      "vosotros": "purificaseis",
+      "uds": "purificasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese purificado",
+      "tu": "hubieses purificado",
+      "ud": "hubiese purificado",
+      "nosotros": "hubiésemos purificado",
+      "vosotros": "hubieseis purificado",
+      "uds": "hubiesen purificado"
+    }
+  },
+  "afirmativo": {
+    "tu": "purifica",
+    "vosotros": "purificad",
+    "ud": "purifique",
+    "uds": "purifiquen"
+  },
+  "negativo": {
+    "tu": "no purifiques",
+    "vosotros": "no purifiquéis",
+    "ud": "no purifique",
+    "uds": "no purifiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to purify",
+    "gerundio": "purifying",
+    "participioPasado": "purified",
+    "indicativo": {
+      "presente": "I purify, am purifying",
+      "futuro": "I will purify",
+      "imperfecto": "I was purifying, used to purify, purified",
+      "preterito": "I purified",
+      "condicional": "I would purify",
+      "presentePerfecto": "I have purified",
+      "futuroPerfecto": "I will have purified",
+      "pluscuamperfecto": "I had purified",
+      "preteritoAnterior": "I had purified",
+      "condicionalPerfecto": "I would have purified"
+    },
+    "subjuntivo": {
+      "presente": "I purify, am purifying",
+      "imperfecto": "I purified, was purifying",
+      "futuro": "I will purify",
+      "presentePerfecto": "I have purified, purified",
+      "futuroPerfecto": "I will have purified",
+      "pluscuamperfecto": "I had purified"
+    },
+    "afirmativo": "Purify!",
+    "negativo": "Don't purify!"
+  },
+  "attribution": "Fred Jehle"
+}

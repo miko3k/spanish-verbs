@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "negarse",
+  "gerundio": "negándose",
+  "participioPasado": "negado",
+  "indicativo": {
+    "presente": {
+      "yo": "me niego",
+      "tu": "te niegas",
+      "ud": "se niega",
+      "nosotros": "nos negamos",
+      "vosotros": "os negáis",
+      "uds": "se niegan"
+    },
+    "futuro": {
+      "yo": "me negaré",
+      "tu": "te negarás",
+      "ud": "se negará",
+      "nosotros": "nos negaremos",
+      "vosotros": "os negaréis",
+      "uds": "se negarán"
+    },
+    "imperfecto": {
+      "yo": "me negaba",
+      "tu": "te negabas",
+      "ud": "se negaba",
+      "nosotros": "nos negábamos",
+      "vosotros": "os negabais",
+      "uds": "se negaban"
+    },
+    "preterito": {
+      "yo": "me negué",
+      "tu": "te negaste",
+      "ud": "se negó",
+      "nosotros": "nos negamos",
+      "vosotros": "os negasteis",
+      "uds": "se negaron"
+    },
+    "condicional": {
+      "yo": "me negaría",
+      "tu": "te negarías",
+      "ud": "se negaría",
+      "nosotros": "nos negaríamos",
+      "vosotros": "os negaríais",
+      "uds": "se negarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he negado",
+      "tu": "te has negado",
+      "ud": "se ha negado",
+      "nosotros": "nos hemos negado",
+      "vosotros": "os habéis negado",
+      "uds": "se han negado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré negado",
+      "tu": "te habrás negado",
+      "ud": "se habrá negado",
+      "nosotros": "nos habremos negado",
+      "vosotros": "os habréis negado",
+      "uds": "se habrán negado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había negado",
+      "tu": "te habías negado",
+      "ud": "se había negado",
+      "nosotros": "nos habíamos negado",
+      "vosotros": "os habíais negado",
+      "uds": "se habían negado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube negado",
+      "tu": "te hubiste negado",
+      "ud": "se hubo negado",
+      "nosotros": "nos hubimos negado",
+      "vosotros": "os hubisteis negado",
+      "uds": "se hubieron negado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría negado",
+      "tu": "te habrías negado",
+      "ud": "se habría negado",
+      "nosotros": "nos habríamos negado",
+      "vosotros": "os habríais negado",
+      "uds": "se habrían negado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me niegue",
+      "tu": "te niegues",
+      "ud": "se niegue",
+      "nosotros": "nos neguemos",
+      "vosotros": "os neguéis",
+      "uds": "se nieguen"
+    },
+    "imperfecto": {
+      "yo": "me negara",
+      "tu": "te negaras",
+      "ud": "se negara",
+      "nosotros": "nos negáramos",
+      "vosotros": "os negarais",
+      "uds": "se negaran"
+    },
+    "futuro": {
+      "yo": "me negare",
+      "tu": "te negares",
+      "ud": "se negare",
+      "nosotros": "nos negáremos",
+      "vosotros": "os negareis",
+      "uds": "se negaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya negado",
+      "tu": "te hayas negado",
+      "ud": "se haya negado",
+      "nosotros": "nos hayamos negado",
+      "vosotros": "os hayáis negado",
+      "uds": "se hayan negado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere negado",
+      "tu": "te hubieres negado",
+      "ud": "se hubiere negado",
+      "nosotros": "nos hubiéremos negado",
+      "vosotros": "os hubiereis negado",
+      "uds": "se hubieren negado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera negado",
+      "tu": "te hubieras negado",
+      "ud": "se hubiera negado",
+      "nosotros": "nos hubiéramos negado",
+      "vosotros": "os hubierais negado",
+      "uds": "se hubieran negado"
+    },
+    "imperfectoAlt": {
+      "yo": "me negase",
+      "tu": "te negases",
+      "ud": "se negase",
+      "nosotros": "nos negásemos",
+      "vosotros": "os negaseis",
+      "uds": "se negasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese negado",
+      "tu": "te hubieses negado",
+      "ud": "se hubiese negado",
+      "nosotros": "nos hubiésemos negado",
+      "vosotros": "os hubieseis negado",
+      "uds": "se hubiesen negado"
+    }
+  },
+  "afirmativo": {
+    "tu": "niégate",
+    "vosotros": "negaos",
+    "ud": "niéguese",
+    "uds": "niéguense"
+  },
+  "negativo": {
+    "tu": "no te niegues",
+    "vosotros": "no os neguéis",
+    "ud": "no se niegue",
+    "uds": "no se nieguen"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa. Cambio ortográfico: g > gu delante de e. Note: To refuse to (do something) = negarse a (hacer algo). The nonreflexive form negar means to deny.",
+    "infinitivo": "to refuse",
+    "gerundio": "refusing",
+    "participioPasado": "refused",
+    "indicativo": {
+      "presente": "I refuse, am refusing",
+      "futuro": "I will refuse",
+      "imperfecto": "I was refusing, used to refuse, refused",
+      "preterito": "I refused",
+      "condicional": "I would refuse",
+      "presentePerfecto": "I have refused",
+      "futuroPerfecto": "I will have refused",
+      "pluscuamperfecto": "I had refused",
+      "preteritoAnterior": "I had refused",
+      "condicionalPerfecto": "I would have refused"
+    },
+    "subjuntivo": {
+      "presente": "I refuse, am refusing",
+      "imperfecto": "I refused, was refusing",
+      "futuro": "I will refuse",
+      "presentePerfecto": "I have refused, refused",
+      "futuroPerfecto": "I will have refused",
+      "pluscuamperfecto": "I had refused"
+    },
+    "afirmativo": "Refuse!",
+    "negativo": "Don't refuse!"
+  },
+  "attribution": "Fred Jehle"
+}

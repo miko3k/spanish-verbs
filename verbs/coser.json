@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "coser",
+  "gerundio": "cosiendo",
+  "participioPasado": "cosido",
+  "indicativo": {
+    "presente": {
+      "yo": "coso",
+      "tu": "coses",
+      "ud": "cose",
+      "nosotros": "cosemos",
+      "vosotros": "coséis",
+      "uds": "cosen"
+    },
+    "futuro": {
+      "yo": "coseré",
+      "tu": "coserás",
+      "ud": "coserá",
+      "nosotros": "coseremos",
+      "vosotros": "coseréis",
+      "uds": "coserán"
+    },
+    "imperfecto": {
+      "yo": "cosía",
+      "tu": "cosías",
+      "ud": "cosía",
+      "nosotros": "cosíamos",
+      "vosotros": "cosíais",
+      "uds": "cosían"
+    },
+    "preterito": {
+      "yo": "cosí",
+      "tu": "cosiste",
+      "ud": "cosió",
+      "nosotros": "cosimos",
+      "vosotros": "cosisteis",
+      "uds": "cosieron"
+    },
+    "condicional": {
+      "yo": "cosería",
+      "tu": "coserías",
+      "ud": "cosería",
+      "nosotros": "coseríamos",
+      "vosotros": "coseríais",
+      "uds": "coserían"
+    },
+    "presentePerfecto": {
+      "yo": "he cosido",
+      "tu": "has cosido",
+      "ud": "ha cosido",
+      "nosotros": "hemos cosido",
+      "vosotros": "habéis cosido",
+      "uds": "han cosido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cosido",
+      "tu": "habrás cosido",
+      "ud": "habrá cosido",
+      "nosotros": "habremos cosido",
+      "vosotros": "habréis cosido",
+      "uds": "habrán cosido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cosido",
+      "tu": "habías cosido",
+      "ud": "había cosido",
+      "nosotros": "habíamos cosido",
+      "vosotros": "habíais cosido",
+      "uds": "habían cosido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cosido",
+      "tu": "hubiste cosido",
+      "ud": "hubo cosido",
+      "nosotros": "hubimos cosido",
+      "vosotros": "hubisteis cosido",
+      "uds": "hubieron cosido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cosido",
+      "tu": "habrías cosido",
+      "ud": "habría cosido",
+      "nosotros": "habríamos cosido",
+      "vosotros": "habríais cosido",
+      "uds": "habrían cosido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cosa",
+      "tu": "cosas",
+      "ud": "cosa",
+      "nosotros": "cosamos",
+      "vosotros": "cosáis",
+      "uds": "cosan"
+    },
+    "imperfecto": {
+      "yo": "cosiera",
+      "tu": "cosieras",
+      "ud": "cosiera",
+      "nosotros": "cosiéramos",
+      "vosotros": "cosierais",
+      "uds": "cosieran"
+    },
+    "futuro": {
+      "yo": "cosiere",
+      "tu": "cosieres",
+      "ud": "cosiere",
+      "nosotros": "cosiéremos",
+      "vosotros": "cosiereis",
+      "uds": "cosieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cosido",
+      "tu": "hayas cosido",
+      "ud": "haya cosido",
+      "nosotros": "hayamos cosido",
+      "vosotros": "hayáis cosido",
+      "uds": "hayan cosido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cosido",
+      "tu": "hubieres cosido",
+      "ud": "hubiere cosido",
+      "nosotros": "hubiéremos cosido",
+      "vosotros": "hubiereis cosido",
+      "uds": "hubieren cosido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cosido",
+      "tu": "hubieras cosido",
+      "ud": "hubiera cosido",
+      "nosotros": "hubiéramos cosido",
+      "vosotros": "hubierais cosido",
+      "uds": "hubieran cosido"
+    },
+    "imperfectoAlt": {
+      "yo": "cosiese",
+      "tu": "cosieses",
+      "ud": "cosiese",
+      "nosotros": "cosiésemos",
+      "vosotros": "cosieseis",
+      "uds": "cosiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cosido",
+      "tu": "hubieses cosido",
+      "ud": "hubiese cosido",
+      "nosotros": "hubiésemos cosido",
+      "vosotros": "hubieseis cosido",
+      "uds": "hubiesen cosido"
+    }
+  },
+  "afirmativo": {
+    "tu": "cose",
+    "vosotros": "cosed",
+    "ud": "cosa",
+    "uds": "cosan"
+  },
+  "negativo": {
+    "tu": "no cosas",
+    "vosotros": "no cosáis",
+    "ud": "no cosa",
+    "uds": "no cosan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to sew, sew up; to stitch, stitch up",
+    "gerundio": "sewing",
+    "participioPasado": "sewed",
+    "indicativo": {
+      "presente": "I sew, am sewing",
+      "futuro": "I will sew",
+      "imperfecto": "I was sewing, used to sew, sewed",
+      "preterito": "I sewed",
+      "condicional": "I would sew",
+      "presentePerfecto": "I have sewn",
+      "futuroPerfecto": "I will have sewn",
+      "pluscuamperfecto": "I had sewn",
+      "preteritoAnterior": "I had sewn",
+      "condicionalPerfecto": "I would have sewn"
+    },
+    "subjuntivo": {
+      "presente": "I sew, am sewing",
+      "imperfecto": "I sewed, was sewing",
+      "futuro": "I will sew",
+      "presentePerfecto": "I have sewn, sewed",
+      "futuroPerfecto": "I will have sewn",
+      "pluscuamperfecto": "I had sewn"
+    },
+    "afirmativo": "Sew!",
+    "negativo": "Don't sew!"
+  },
+  "attribution": "Fred Jehle"
+}

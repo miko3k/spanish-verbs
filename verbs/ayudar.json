@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "ayudar",
+  "gerundio": "ayudando",
+  "participioPasado": "ayudado",
+  "indicativo": {
+    "presente": {
+      "yo": "ayudo",
+      "tu": "ayudas",
+      "ud": "ayuda",
+      "nosotros": "ayudamos",
+      "vosotros": "ayudáis",
+      "uds": "ayudan"
+    },
+    "futuro": {
+      "yo": "ayudaré",
+      "tu": "ayudarás",
+      "ud": "ayudará",
+      "nosotros": "ayudaremos",
+      "vosotros": "ayudaréis",
+      "uds": "ayudarán"
+    },
+    "imperfecto": {
+      "yo": "ayudaba",
+      "tu": "ayudabas",
+      "ud": "ayudaba",
+      "nosotros": "ayudábamos",
+      "vosotros": "ayudabais",
+      "uds": "ayudaban"
+    },
+    "preterito": {
+      "yo": "ayudé",
+      "tu": "ayudaste",
+      "ud": "ayudó",
+      "nosotros": "ayudamos",
+      "vosotros": "ayudasteis",
+      "uds": "ayudaron"
+    },
+    "condicional": {
+      "yo": "ayudaría",
+      "tu": "ayudarías",
+      "ud": "ayudaría",
+      "nosotros": "ayudaríamos",
+      "vosotros": "ayudaríais",
+      "uds": "ayudarían"
+    },
+    "presentePerfecto": {
+      "yo": "he ayudado",
+      "tu": "has ayudado",
+      "ud": "ha ayudado",
+      "nosotros": "hemos ayudado",
+      "vosotros": "habéis ayudado",
+      "uds": "han ayudado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ayudado",
+      "tu": "habrás ayudado",
+      "ud": "habrá ayudado",
+      "nosotros": "habremos ayudado",
+      "vosotros": "habréis ayudado",
+      "uds": "habrán ayudado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ayudado",
+      "tu": "habías ayudado",
+      "ud": "había ayudado",
+      "nosotros": "habíamos ayudado",
+      "vosotros": "habíais ayudado",
+      "uds": "habían ayudado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ayudado",
+      "tu": "hubiste ayudado",
+      "ud": "hubo ayudado",
+      "nosotros": "hubimos ayudado",
+      "vosotros": "hubisteis ayudado",
+      "uds": "hubieron ayudado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ayudado",
+      "tu": "habrías ayudado",
+      "ud": "habría ayudado",
+      "nosotros": "habríamos ayudado",
+      "vosotros": "habríais ayudado",
+      "uds": "habrían ayudado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ayude",
+      "tu": "ayudes",
+      "ud": "ayude",
+      "nosotros": "ayudemos",
+      "vosotros": "ayudéis",
+      "uds": "ayuden"
+    },
+    "imperfecto": {
+      "yo": "ayudara",
+      "tu": "ayudaras",
+      "ud": "ayudara",
+      "nosotros": "ayudáramos",
+      "vosotros": "ayudarais",
+      "uds": "ayudaran"
+    },
+    "futuro": {
+      "yo": "ayudare",
+      "tu": "ayudares",
+      "ud": "ayudare",
+      "nosotros": "ayudáremos",
+      "vosotros": "ayudareis",
+      "uds": "ayudaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ayudado",
+      "tu": "hayas ayudado",
+      "ud": "haya ayudado",
+      "nosotros": "hayamos ayudado",
+      "vosotros": "hayáis ayudado",
+      "uds": "hayan ayudado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ayudado",
+      "tu": "hubieres ayudado",
+      "ud": "hubiere ayudado",
+      "nosotros": "hubiéremos ayudado",
+      "vosotros": "hubiereis ayudado",
+      "uds": "hubieren ayudado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ayudado",
+      "tu": "hubieras ayudado",
+      "ud": "hubiera ayudado",
+      "nosotros": "hubiéramos ayudado",
+      "vosotros": "hubierais ayudado",
+      "uds": "hubieran ayudado"
+    },
+    "imperfectoAlt": {
+      "yo": "ayudase",
+      "tu": "ayudases",
+      "ud": "ayudase",
+      "nosotros": "ayudásemos",
+      "vosotros": "ayudaseis",
+      "uds": "ayudasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ayudado",
+      "tu": "hubieses ayudado",
+      "ud": "hubiese ayudado",
+      "nosotros": "hubiésemos ayudado",
+      "vosotros": "hubieseis ayudado",
+      "uds": "hubiesen ayudado"
+    }
+  },
+  "afirmativo": {
+    "tu": "ayuda",
+    "vosotros": "ayudad",
+    "ud": "ayude",
+    "uds": "ayuden"
+  },
+  "negativo": {
+    "tu": "no ayudes",
+    "vosotros": "no ayudéis",
+    "ud": "no ayude",
+    "uds": "no ayuden"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to help",
+    "gerundio": "helping",
+    "participioPasado": "helped",
+    "indicativo": {
+      "presente": "I help, am helping",
+      "futuro": "I will help",
+      "imperfecto": "I was helping, used to help, helped",
+      "preterito": "I helped",
+      "condicional": "I would help",
+      "presentePerfecto": "I have helped",
+      "futuroPerfecto": "I will have helped",
+      "pluscuamperfecto": "I had helped",
+      "preteritoAnterior": "I had helped",
+      "condicionalPerfecto": "I would have helped"
+    },
+    "subjuntivo": {
+      "presente": "I help, am helping",
+      "imperfecto": "I helped, was helping",
+      "futuro": "I will help",
+      "presentePerfecto": "I have helped, helped",
+      "futuroPerfecto": "I will have helped",
+      "pluscuamperfecto": "I had helped"
+    },
+    "afirmativo": "Help!",
+    "negativo": "Don't help!"
+  },
+  "attribution": "Fred Jehle"
+}

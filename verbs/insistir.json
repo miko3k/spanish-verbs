@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "insistir",
+  "gerundio": "insistiendo",
+  "participioPasado": "insistido",
+  "indicativo": {
+    "presente": {
+      "yo": "insisto",
+      "tu": "insistes",
+      "ud": "insiste",
+      "nosotros": "insistimos",
+      "vosotros": "insistís",
+      "uds": "insisten"
+    },
+    "futuro": {
+      "yo": "insistiré",
+      "tu": "insistirás",
+      "ud": "insistirá",
+      "nosotros": "insistiremos",
+      "vosotros": "insistiréis",
+      "uds": "insistirán"
+    },
+    "imperfecto": {
+      "yo": "insistía",
+      "tu": "insistías",
+      "ud": "insistía",
+      "nosotros": "insistíamos",
+      "vosotros": "insistíais",
+      "uds": "insistían"
+    },
+    "preterito": {
+      "yo": "insistí",
+      "tu": "insististe",
+      "ud": "insistió",
+      "nosotros": "insistimos",
+      "vosotros": "insististeis",
+      "uds": "insistieron"
+    },
+    "condicional": {
+      "yo": "insistiría",
+      "tu": "insistirías",
+      "ud": "insistiría",
+      "nosotros": "insistiríamos",
+      "vosotros": "insistiríais",
+      "uds": "insistirían"
+    },
+    "presentePerfecto": {
+      "yo": "he insistido",
+      "tu": "has insistido",
+      "ud": "ha insistido",
+      "nosotros": "hemos insistido",
+      "vosotros": "habéis insistido",
+      "uds": "han insistido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré insistido",
+      "tu": "habrás insistido",
+      "ud": "habrá insistido",
+      "nosotros": "habremos insistido",
+      "vosotros": "habréis insistido",
+      "uds": "habrán insistido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había insistido",
+      "tu": "habías insistido",
+      "ud": "había insistido",
+      "nosotros": "habíamos insistido",
+      "vosotros": "habíais insistido",
+      "uds": "habían insistido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube insistido",
+      "tu": "hubiste insistido",
+      "ud": "hubo insistido",
+      "nosotros": "hubimos insistido",
+      "vosotros": "hubisteis insistido",
+      "uds": "hubieron insistido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría insistido",
+      "tu": "habrías insistido",
+      "ud": "habría insistido",
+      "nosotros": "habríamos insistido",
+      "vosotros": "habríais insistido",
+      "uds": "habrían insistido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "insista",
+      "tu": "insistas",
+      "ud": "insista",
+      "nosotros": "insistamos",
+      "vosotros": "insistáis",
+      "uds": "insistan"
+    },
+    "imperfecto": {
+      "yo": "insistiera",
+      "tu": "insistieras",
+      "ud": "insistiera",
+      "nosotros": "insistiéramos",
+      "vosotros": "insistierais",
+      "uds": "insistieran"
+    },
+    "futuro": {
+      "yo": "insistiere",
+      "tu": "insistieres",
+      "ud": "insistiere",
+      "nosotros": "insistiéremos",
+      "vosotros": "insistiereis",
+      "uds": "insistieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya insistido",
+      "tu": "hayas insistido",
+      "ud": "haya insistido",
+      "nosotros": "hayamos insistido",
+      "vosotros": "hayáis insistido",
+      "uds": "hayan insistido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere insistido",
+      "tu": "hubieres insistido",
+      "ud": "hubiere insistido",
+      "nosotros": "hubiéremos insistido",
+      "vosotros": "hubiereis insistido",
+      "uds": "hubieren insistido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera insistido",
+      "tu": "hubieras insistido",
+      "ud": "hubiera insistido",
+      "nosotros": "hubiéramos insistido",
+      "vosotros": "hubierais insistido",
+      "uds": "hubieran insistido"
+    },
+    "imperfectoAlt": {
+      "yo": "insistiese",
+      "tu": "insistieses",
+      "ud": "insistiese",
+      "nosotros": "insistiésemos",
+      "vosotros": "insistieseis",
+      "uds": "insistiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese insistido",
+      "tu": "hubieses insistido",
+      "ud": "hubiese insistido",
+      "nosotros": "hubiésemos insistido",
+      "vosotros": "hubieseis insistido",
+      "uds": "hubiesen insistido"
+    }
+  },
+  "afirmativo": {
+    "tu": "insiste",
+    "vosotros": "insistid",
+    "ud": "insista",
+    "uds": "insistan"
+  },
+  "negativo": {
+    "tu": "no insistas",
+    "vosotros": "no insistáis",
+    "ud": "no insista",
+    "uds": "no insistan"
+  },
+  "english": {
+    "note": "Note: To insist on something = insistir en algo.",
+    "infinitivo": "to insist",
+    "gerundio": "insisting",
+    "participioPasado": "insisted",
+    "indicativo": {
+      "presente": "I insist, am insisting",
+      "futuro": "I will insist",
+      "imperfecto": "I was insisting, used to insist, insisted",
+      "preterito": "I insisted",
+      "condicional": "I would insist",
+      "presentePerfecto": "I have insisted",
+      "futuroPerfecto": "I will have insisted",
+      "pluscuamperfecto": "I had insisted",
+      "preteritoAnterior": "I had insisted",
+      "condicionalPerfecto": "I would have insisted"
+    },
+    "subjuntivo": {
+      "presente": "I insist, am insisting",
+      "imperfecto": "I insisted, was insisting",
+      "futuro": "I will insist",
+      "presentePerfecto": "I have insisted, insisted",
+      "futuroPerfecto": "I will have insisted",
+      "pluscuamperfecto": "I had insisted"
+    },
+    "afirmativo": "Insist!",
+    "negativo": "Don't insist!"
+  },
+  "attribution": "Fred Jehle"
+}

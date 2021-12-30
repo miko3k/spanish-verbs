@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "volver",
+  "gerundio": "volviendo",
+  "participioPasado": "vuelto",
+  "indicativo": {
+    "presente": {
+      "yo": "vuelvo",
+      "tu": "vuelves",
+      "ud": "vuelve",
+      "nosotros": "volvemos",
+      "vosotros": "volvéis",
+      "uds": "vuelven"
+    },
+    "futuro": {
+      "yo": "volveré",
+      "tu": "volverás",
+      "ud": "volverá",
+      "nosotros": "volveremos",
+      "vosotros": "volveréis",
+      "uds": "volverán"
+    },
+    "imperfecto": {
+      "yo": "volvía",
+      "tu": "volvías",
+      "ud": "volvía",
+      "nosotros": "volvíamos",
+      "vosotros": "volvíais",
+      "uds": "volvían"
+    },
+    "preterito": {
+      "yo": "volví",
+      "tu": "volviste",
+      "ud": "volvió",
+      "nosotros": "volvimos",
+      "vosotros": "volvisteis",
+      "uds": "volvieron"
+    },
+    "condicional": {
+      "yo": "volvería",
+      "tu": "volverías",
+      "ud": "volvería",
+      "nosotros": "volveríamos",
+      "vosotros": "volveríais",
+      "uds": "volverían"
+    },
+    "presentePerfecto": {
+      "yo": "he vuelto",
+      "tu": "has vuelto",
+      "ud": "ha vuelto",
+      "nosotros": "hemos vuelto",
+      "vosotros": "habéis vuelto",
+      "uds": "han vuelto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré vuelto",
+      "tu": "habrás vuelto",
+      "ud": "habrá vuelto",
+      "nosotros": "habremos vuelto",
+      "vosotros": "habréis vuelto",
+      "uds": "habrán vuelto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había vuelto",
+      "tu": "habías vuelto",
+      "ud": "había vuelto",
+      "nosotros": "habíamos vuelto",
+      "vosotros": "habíais vuelto",
+      "uds": "habían vuelto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube vuelto",
+      "tu": "hubiste vuelto",
+      "ud": "hubo vuelto",
+      "nosotros": "hubimos vuelto",
+      "vosotros": "hubisteis vuelto",
+      "uds": "hubieron vuelto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría vuelto",
+      "tu": "habrías vuelto",
+      "ud": "habría vuelto",
+      "nosotros": "habríamos vuelto",
+      "vosotros": "habríais vuelto",
+      "uds": "habrían vuelto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "vuelva",
+      "tu": "vuelvas",
+      "ud": "vuelva",
+      "nosotros": "volvamos",
+      "vosotros": "volváis",
+      "uds": "vuelvan"
+    },
+    "imperfecto": {
+      "yo": "volviera",
+      "tu": "volvieras",
+      "ud": "volviera",
+      "nosotros": "volviéramos",
+      "vosotros": "volvierais",
+      "uds": "volvieran"
+    },
+    "futuro": {
+      "yo": "volviere",
+      "tu": "volvieres",
+      "ud": "volviere",
+      "nosotros": "volviéremos",
+      "vosotros": "volviereis",
+      "uds": "volvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya vuelto",
+      "tu": "hayas vuelto",
+      "ud": "haya vuelto",
+      "nosotros": "hayamos vuelto",
+      "vosotros": "hayáis vuelto",
+      "uds": "hayan vuelto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere vuelto",
+      "tu": "hubieres vuelto",
+      "ud": "hubiere vuelto",
+      "nosotros": "hubiéremos vuelto",
+      "vosotros": "hubiereis vuelto",
+      "uds": "hubieren vuelto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera vuelto",
+      "tu": "hubieras vuelto",
+      "ud": "hubiera vuelto",
+      "nosotros": "hubiéramos vuelto",
+      "vosotros": "hubierais vuelto",
+      "uds": "hubieran vuelto"
+    },
+    "imperfectoAlt": {
+      "yo": "volviese",
+      "tu": "volvieses",
+      "ud": "volviese",
+      "nosotros": "volviésemos",
+      "vosotros": "volvieseis",
+      "uds": "volviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese vuelto",
+      "tu": "hubieses vuelto",
+      "ud": "hubiese vuelto",
+      "nosotros": "hubiésemos vuelto",
+      "vosotros": "hubieseis vuelto",
+      "uds": "hubiesen vuelto"
+    }
+  },
+  "afirmativo": {
+    "tu": "vuelve",
+    "vosotros": "volved",
+    "ud": "vuelva",
+    "uds": "vuelvan"
+  },
+  "negativo": {
+    "tu": "no vuelvas",
+    "vosotros": "no volváis",
+    "ud": "no vuelva",
+    "uds": "no vuelvan"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Participio pasado irregular: vuelto. Note: For return in the sense of give back or hand back, use devolver.",
+    "infinitivo": "to return, go back",
+    "gerundio": "returning",
+    "participioPasado": "returned",
+    "indicativo": {
+      "presente": "I return, am returning",
+      "futuro": "I will return",
+      "imperfecto": "I was returning, used to return, returned",
+      "preterito": "I returned",
+      "condicional": "I would return",
+      "presentePerfecto": "I have returned",
+      "futuroPerfecto": "I will have returned",
+      "pluscuamperfecto": "I had returned",
+      "preteritoAnterior": "I had returned",
+      "condicionalPerfecto": "I would have returned"
+    },
+    "subjuntivo": {
+      "presente": "I return, am returning",
+      "imperfecto": "I returned, was returning",
+      "futuro": "I will return",
+      "presentePerfecto": "I have returned, returned",
+      "futuroPerfecto": "I will have returned",
+      "pluscuamperfecto": "I had returned"
+    },
+    "afirmativo": "Return!",
+    "negativo": "Don't return!"
+  },
+  "attribution": "Fred Jehle"
+}

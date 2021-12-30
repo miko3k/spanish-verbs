@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "suspirar",
+  "gerundio": "suspirando",
+  "participioPasado": "suspirado",
+  "indicativo": {
+    "presente": {
+      "yo": "suspiro",
+      "tu": "suspiras",
+      "ud": "suspira",
+      "nosotros": "suspiramos",
+      "vosotros": "suspiráis",
+      "uds": "suspiran"
+    },
+    "futuro": {
+      "yo": "suspiraré",
+      "tu": "suspirarás",
+      "ud": "suspirará",
+      "nosotros": "suspiraremos",
+      "vosotros": "suspiraréis",
+      "uds": "suspirarán"
+    },
+    "imperfecto": {
+      "yo": "suspiraba",
+      "tu": "suspirabas",
+      "ud": "suspiraba",
+      "nosotros": "suspirábamos",
+      "vosotros": "suspirabais",
+      "uds": "suspiraban"
+    },
+    "preterito": {
+      "yo": "suspiré",
+      "tu": "suspiraste",
+      "ud": "suspiró",
+      "nosotros": "suspiramos",
+      "vosotros": "suspirasteis",
+      "uds": "suspiraron"
+    },
+    "condicional": {
+      "yo": "suspiraría",
+      "tu": "suspirarías",
+      "ud": "suspiraría",
+      "nosotros": "suspiraríamos",
+      "vosotros": "suspiraríais",
+      "uds": "suspirarían"
+    },
+    "presentePerfecto": {
+      "yo": "he suspirado",
+      "tu": "has suspirado",
+      "ud": "ha suspirado",
+      "nosotros": "hemos suspirado",
+      "vosotros": "habéis suspirado",
+      "uds": "han suspirado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré suspirado",
+      "tu": "habrás suspirado",
+      "ud": "habrá suspirado",
+      "nosotros": "habremos suspirado",
+      "vosotros": "habréis suspirado",
+      "uds": "habrán suspirado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había suspirado",
+      "tu": "habías suspirado",
+      "ud": "había suspirado",
+      "nosotros": "habíamos suspirado",
+      "vosotros": "habíais suspirado",
+      "uds": "habían suspirado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube suspirado",
+      "tu": "hubiste suspirado",
+      "ud": "hubo suspirado",
+      "nosotros": "hubimos suspirado",
+      "vosotros": "hubisteis suspirado",
+      "uds": "hubieron suspirado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría suspirado",
+      "tu": "habrías suspirado",
+      "ud": "habría suspirado",
+      "nosotros": "habríamos suspirado",
+      "vosotros": "habríais suspirado",
+      "uds": "habrían suspirado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "suspire",
+      "tu": "suspires",
+      "ud": "suspire",
+      "nosotros": "suspiremos",
+      "vosotros": "suspiréis",
+      "uds": "suspiren"
+    },
+    "imperfecto": {
+      "yo": "suspirara",
+      "tu": "suspiraras",
+      "ud": "suspirara",
+      "nosotros": "suspiráramos",
+      "vosotros": "suspirarais",
+      "uds": "suspiraran"
+    },
+    "futuro": {
+      "yo": "suspirare",
+      "tu": "suspirares",
+      "ud": "suspirare",
+      "nosotros": "suspiráremos",
+      "vosotros": "suspirareis",
+      "uds": "suspiraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya suspirado",
+      "tu": "hayas suspirado",
+      "ud": "haya suspirado",
+      "nosotros": "hayamos suspirado",
+      "vosotros": "hayáis suspirado",
+      "uds": "hayan suspirado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere suspirado",
+      "tu": "hubieres suspirado",
+      "ud": "hubiere suspirado",
+      "nosotros": "hubiéremos suspirado",
+      "vosotros": "hubiereis suspirado",
+      "uds": "hubieren suspirado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera suspirado",
+      "tu": "hubieras suspirado",
+      "ud": "hubiera suspirado",
+      "nosotros": "hubiéramos suspirado",
+      "vosotros": "hubierais suspirado",
+      "uds": "hubieran suspirado"
+    },
+    "imperfectoAlt": {
+      "yo": "suspirase",
+      "tu": "suspirases",
+      "ud": "suspirase",
+      "nosotros": "suspirásemos",
+      "vosotros": "suspiraseis",
+      "uds": "suspirasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese suspirado",
+      "tu": "hubieses suspirado",
+      "ud": "hubiese suspirado",
+      "nosotros": "hubiésemos suspirado",
+      "vosotros": "hubieseis suspirado",
+      "uds": "hubiesen suspirado"
+    }
+  },
+  "afirmativo": {
+    "tu": "suspira",
+    "vosotros": "suspirad",
+    "ud": "suspire",
+    "uds": "suspiren"
+  },
+  "negativo": {
+    "tu": "no suspires",
+    "vosotros": "no suspiréis",
+    "ud": "no suspire",
+    "uds": "no suspiren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to sigh",
+    "gerundio": "sighing",
+    "participioPasado": "sighed",
+    "indicativo": {
+      "presente": "I sigh, am sighing",
+      "futuro": "I will sigh",
+      "imperfecto": "I was sighing, used to sigh, sighed",
+      "preterito": "I sighed",
+      "condicional": "I would sigh",
+      "presentePerfecto": "I have sighed",
+      "futuroPerfecto": "I will have sighed",
+      "pluscuamperfecto": "I had sighed",
+      "preteritoAnterior": "I had sighed",
+      "condicionalPerfecto": "I would have sighed"
+    },
+    "subjuntivo": {
+      "presente": "I sigh, am sighing",
+      "imperfecto": "I sighed, was sighing",
+      "futuro": "I will sigh",
+      "presentePerfecto": "I have sighed, sighed",
+      "futuroPerfecto": "I will have sighed",
+      "pluscuamperfecto": "I had sighed"
+    },
+    "afirmativo": "Sigh!",
+    "negativo": "Don't sigh!"
+  },
+  "attribution": "Fred Jehle"
+}

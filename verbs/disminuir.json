@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "disminuir",
+  "gerundio": "disminuyendo",
+  "participioPasado": "disminuido",
+  "indicativo": {
+    "presente": {
+      "yo": "disminuyo",
+      "tu": "disminuyes",
+      "ud": "disminuye",
+      "nosotros": "disminuimos",
+      "vosotros": "disminuís",
+      "uds": "disminuyen"
+    },
+    "futuro": {
+      "yo": "disminuiré",
+      "tu": "disminuirás",
+      "ud": "disminuirá",
+      "nosotros": "disminuiremos",
+      "vosotros": "disminuiréis",
+      "uds": "disminuirán"
+    },
+    "imperfecto": {
+      "yo": "disminuía",
+      "tu": "disminuías",
+      "ud": "disminuía",
+      "nosotros": "disminuíamos",
+      "vosotros": "disminuíais",
+      "uds": "disminuían"
+    },
+    "preterito": {
+      "yo": "disminuí",
+      "tu": "disminuiste",
+      "ud": "disminuyó",
+      "nosotros": "disminuimos",
+      "vosotros": "disminuisteis",
+      "uds": "disminuyeron"
+    },
+    "condicional": {
+      "yo": "disminuiría",
+      "tu": "disminuirías",
+      "ud": "disminuiría",
+      "nosotros": "disminuiríamos",
+      "vosotros": "disminuiríais",
+      "uds": "disminuirían"
+    },
+    "presentePerfecto": {
+      "yo": "he disminuido",
+      "tu": "has disminuido",
+      "ud": "ha disminuido",
+      "nosotros": "hemos disminuido",
+      "vosotros": "habéis disminuido",
+      "uds": "han disminuido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré disminuido",
+      "tu": "habrás disminuido",
+      "ud": "habrá disminuido",
+      "nosotros": "habremos disminuido",
+      "vosotros": "habréis disminuido",
+      "uds": "habrán disminuido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había disminuido",
+      "tu": "habías disminuido",
+      "ud": "había disminuido",
+      "nosotros": "habíamos disminuido",
+      "vosotros": "habíais disminuido",
+      "uds": "habían disminuido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube disminuido",
+      "tu": "hubiste disminuido",
+      "ud": "hubo disminuido",
+      "nosotros": "hubimos disminuido",
+      "vosotros": "hubisteis disminuido",
+      "uds": "hubieron disminuido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría disminuido",
+      "tu": "habrías disminuido",
+      "ud": "habría disminuido",
+      "nosotros": "habríamos disminuido",
+      "vosotros": "habríais disminuido",
+      "uds": "habrían disminuido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "disminuya",
+      "tu": "disminuyas",
+      "ud": "disminuya",
+      "nosotros": "disminuyamos",
+      "vosotros": "disminuyáis",
+      "uds": "disminuyan"
+    },
+    "imperfecto": {
+      "yo": "disminuyera",
+      "tu": "disminuyeras",
+      "ud": "disminuyera",
+      "nosotros": "disminuyéramos",
+      "vosotros": "disminuyerais",
+      "uds": "disminuyeran"
+    },
+    "futuro": {
+      "yo": "disminuyere",
+      "tu": "disminuyeres",
+      "ud": "disminuyere",
+      "nosotros": "disminuyéremos",
+      "vosotros": "disminuyereis",
+      "uds": "disminuyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya disminuido",
+      "tu": "hayas disminuido",
+      "ud": "haya disminuido",
+      "nosotros": "hayamos disminuido",
+      "vosotros": "hayáis disminuido",
+      "uds": "hayan disminuido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere disminuido",
+      "tu": "hubieres disminuido",
+      "ud": "hubiere disminuido",
+      "nosotros": "hubiéremos disminuido",
+      "vosotros": "hubiereis disminuido",
+      "uds": "hubieren disminuido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera disminuido",
+      "tu": "hubieras disminuido",
+      "ud": "hubiera disminuido",
+      "nosotros": "hubiéramos disminuido",
+      "vosotros": "hubierais disminuido",
+      "uds": "hubieran disminuido"
+    },
+    "imperfectoAlt": {
+      "yo": "disminuyese",
+      "tu": "disminuyeses",
+      "ud": "disminuyese",
+      "nosotros": "disminuyésemos",
+      "vosotros": "disminuyeseis",
+      "uds": "disminuyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese disminuido",
+      "tu": "hubieses disminuido",
+      "ud": "hubiese disminuido",
+      "nosotros": "hubiésemos disminuido",
+      "vosotros": "hubieseis disminuido",
+      "uds": "hubiesen disminuido"
+    }
+  },
+  "afirmativo": {
+    "tu": "disminuye",
+    "vosotros": "disminuid",
+    "ud": "disminuya",
+    "uds": "disminuyan"
+  },
+  "negativo": {
+    "tu": "no disminuyas",
+    "vosotros": "no disminuyáis",
+    "ud": "no disminuya",
+    "uds": "no disminuyan"
+  },
+  "english": {
+    "note": "Cambios: u > uy delante a, o y e; la i intervocálica (y sin acento escrito) > y.",
+    "infinitivo": "to diminish, decrease",
+    "gerundio": "diminishing",
+    "participioPasado": "diminished",
+    "indicativo": {
+      "presente": "I diminish, am diminishing",
+      "futuro": "I will diminish",
+      "imperfecto": "I was diminishing, used to diminish, diminished",
+      "preterito": "I diminished",
+      "condicional": "I would diminish",
+      "presentePerfecto": "I have diminished",
+      "futuroPerfecto": "I will have diminished",
+      "pluscuamperfecto": "I had diminished",
+      "preteritoAnterior": "I had diminished",
+      "condicionalPerfecto": "I would have diminished"
+    },
+    "subjuntivo": {
+      "presente": "I diminish, am diminishing",
+      "imperfecto": "I diminished, was diminishing",
+      "futuro": "I will diminish",
+      "presentePerfecto": "I have diminished, diminished",
+      "futuroPerfecto": "I will have diminished",
+      "pluscuamperfecto": "I had diminished"
+    },
+    "afirmativo": "Diminish!",
+    "negativo": "Don't diminish!"
+  },
+  "attribution": "Fred Jehle"
+}

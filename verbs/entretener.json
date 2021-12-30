@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "entretener",
+  "gerundio": "entreteniendo",
+  "participioPasado": "entretenido",
+  "indicativo": {
+    "presente": {
+      "yo": "entretengo",
+      "tu": "entretienes",
+      "ud": "entretiene",
+      "nosotros": "entretenemos",
+      "vosotros": "entretenéis",
+      "uds": "entretienen"
+    },
+    "futuro": {
+      "yo": "entretendré",
+      "tu": "entretendrás",
+      "ud": "entretendrá",
+      "nosotros": "entretendremos",
+      "vosotros": "entretendréis",
+      "uds": "entretendrán"
+    },
+    "imperfecto": {
+      "yo": "entretenía",
+      "tu": "entretenías",
+      "ud": "entretenía",
+      "nosotros": "entreteníamos",
+      "vosotros": "entreteníais",
+      "uds": "entretenían"
+    },
+    "preterito": {
+      "yo": "entretuve",
+      "tu": "entretuviste",
+      "ud": "entretuvo",
+      "nosotros": "entretuvimos",
+      "vosotros": "entretuvisteis",
+      "uds": "entretuvieron"
+    },
+    "condicional": {
+      "yo": "entretendría",
+      "tu": "entretendrías",
+      "ud": "entretendría",
+      "nosotros": "entretendríamos",
+      "vosotros": "entretendríais",
+      "uds": "entretendrían"
+    },
+    "presentePerfecto": {
+      "yo": "he entretenido",
+      "tu": "has entretenido",
+      "ud": "ha entretenido",
+      "nosotros": "hemos entretenido",
+      "vosotros": "habéis entretenido",
+      "uds": "han entretenido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré entretenido",
+      "tu": "habrás entretenido",
+      "ud": "habrá entretenido",
+      "nosotros": "habremos entretenido",
+      "vosotros": "habréis entretenido",
+      "uds": "habrán entretenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había entretenido",
+      "tu": "habías entretenido",
+      "ud": "había entretenido",
+      "nosotros": "habíamos entretenido",
+      "vosotros": "habíais entretenido",
+      "uds": "habían entretenido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube entretenido",
+      "tu": "hubiste entretenido",
+      "ud": "hubo entretenido",
+      "nosotros": "hubimos entretenido",
+      "vosotros": "hubisteis entretenido",
+      "uds": "hubieron entretenido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría entretenido",
+      "tu": "habrías entretenido",
+      "ud": "habría entretenido",
+      "nosotros": "habríamos entretenido",
+      "vosotros": "habríais entretenido",
+      "uds": "habrían entretenido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "entretenga",
+      "tu": "entretengas",
+      "ud": "entretenga",
+      "nosotros": "entretengamos",
+      "vosotros": "entretengáis",
+      "uds": "entretengan"
+    },
+    "imperfecto": {
+      "yo": "entretuviera",
+      "tu": "entretuvieras",
+      "ud": "entretuviera",
+      "nosotros": "entretuviéramos",
+      "vosotros": "entretuvierais",
+      "uds": "entretuvieran"
+    },
+    "futuro": {
+      "yo": "entretuviere",
+      "tu": "entretuvieres",
+      "ud": "entretuviere",
+      "nosotros": "entretuviéremos",
+      "vosotros": "entretuviereis",
+      "uds": "entretuvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya entretenido",
+      "tu": "hayas entretenido",
+      "ud": "haya entretenido",
+      "nosotros": "hayamos entretenido",
+      "vosotros": "hayáis entretenido",
+      "uds": "hayan entretenido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere entretenido",
+      "tu": "hubieres entretenido",
+      "ud": "hubiere entretenido",
+      "nosotros": "hubiéremos entretenido",
+      "vosotros": "hubiereis entretenido",
+      "uds": "hubieren entretenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera entretenido",
+      "tu": "hubieras entretenido",
+      "ud": "hubiera entretenido",
+      "nosotros": "hubiéramos entretenido",
+      "vosotros": "hubierais entretenido",
+      "uds": "hubieran entretenido"
+    },
+    "imperfectoAlt": {
+      "yo": "entretuviese",
+      "tu": "entretuvieses",
+      "ud": "entretuviese",
+      "nosotros": "entretuviésemos",
+      "vosotros": "entretuvieseis",
+      "uds": "entretuviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese entretenido",
+      "tu": "hubieses entretenido",
+      "ud": "hubiese entretenido",
+      "nosotros": "hubiésemos entretenido",
+      "vosotros": "hubieseis entretenido",
+      "uds": "hubiesen entretenido"
+    }
+  },
+  "afirmativo": {
+    "tu": "entretén",
+    "vosotros": "entretened",
+    "ud": "entretenga",
+    "uds": "entretengan"
+  },
+  "negativo": {
+    "tu": "no entretengas",
+    "vosotros": "no entretengáis",
+    "ud": "no entretenga",
+    "uds": "no entretengan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie. Formas irregulares: entretengo, entretenga, entretengas, etc. Radical irregular en el futuro y condicional: entretendr-. Radical fuerte en el pretérito: entretuv-. Mandato familiar singular irregular: entretén.",
+    "infinitivo": "to entertain, amuse",
+    "gerundio": "entertaining",
+    "participioPasado": "entertained",
+    "indicativo": {
+      "presente": "I entertain, am entertaining",
+      "futuro": "I will entertain",
+      "imperfecto": "I was entertaining, used to entertain, entertained",
+      "preterito": "I entertained",
+      "condicional": "I would entertain",
+      "presentePerfecto": "I have entertained",
+      "futuroPerfecto": "I will have entertained",
+      "pluscuamperfecto": "I had entertained",
+      "preteritoAnterior": "I had entertained",
+      "condicionalPerfecto": "I would have entertained"
+    },
+    "subjuntivo": {
+      "presente": "I entertain, am entertaining",
+      "imperfecto": "I entertained, was entertaining",
+      "futuro": "I will entertain",
+      "presentePerfecto": "I have entertained, entertained",
+      "futuroPerfecto": "I will have entertained",
+      "pluscuamperfecto": "I had entertained"
+    },
+    "afirmativo": "Entertain!",
+    "negativo": "Don't entertain!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "asustarse",
+  "gerundio": "asustándose",
+  "participioPasado": "asustado",
+  "indicativo": {
+    "presente": {
+      "yo": "me asusto",
+      "tu": "te asustas",
+      "ud": "se asusta",
+      "nosotros": "nos asustamos",
+      "vosotros": "os asustáis",
+      "uds": "se asustan"
+    },
+    "futuro": {
+      "yo": "me asustaré",
+      "tu": "te asustarás",
+      "ud": "se asustará",
+      "nosotros": "nos asustaremos",
+      "vosotros": "os asustaréis",
+      "uds": "se asustarán"
+    },
+    "imperfecto": {
+      "yo": "me asustaba",
+      "tu": "te asustabas",
+      "ud": "se asustaba",
+      "nosotros": "nos asustábamos",
+      "vosotros": "os asustabais",
+      "uds": "se asustaban"
+    },
+    "preterito": {
+      "yo": "me asusté",
+      "tu": "te asustaste",
+      "ud": "se asustó",
+      "nosotros": "nos asustamos",
+      "vosotros": "os asustasteis",
+      "uds": "se asustaron"
+    },
+    "condicional": {
+      "yo": "me asustaría",
+      "tu": "te asustarías",
+      "ud": "se asustaría",
+      "nosotros": "nos asustaríamos",
+      "vosotros": "os asustaríais",
+      "uds": "se asustarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he asustado",
+      "tu": "te has asustado",
+      "ud": "se ha asustado",
+      "nosotros": "nos hemos asustado",
+      "vosotros": "os habéis asustado",
+      "uds": "se han asustado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré asustado",
+      "tu": "te habrás asustado",
+      "ud": "se habrá asustado",
+      "nosotros": "nos habremos asustado",
+      "vosotros": "os habréis asustado",
+      "uds": "se habrán asustado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había asustado",
+      "tu": "te habías asustado",
+      "ud": "se había asustado",
+      "nosotros": "nos habíamos asustado",
+      "vosotros": "os habíais asustado",
+      "uds": "se habían asustado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube asustado",
+      "tu": "te hubiste asustado",
+      "ud": "se hubo asustado",
+      "nosotros": "nos hubimos asustado",
+      "vosotros": "os hubisteis asustado",
+      "uds": "se hubieron asustado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría asustado",
+      "tu": "te habrías asustado",
+      "ud": "se habría asustado",
+      "nosotros": "nos habríamos asustado",
+      "vosotros": "os habríais asustado",
+      "uds": "se habrían asustado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me asuste",
+      "tu": "te asustes",
+      "ud": "se asuste",
+      "nosotros": "nos asustemos",
+      "vosotros": "os asustéis",
+      "uds": "se asusten"
+    },
+    "imperfecto": {
+      "yo": "me asustara",
+      "tu": "te asustaras",
+      "ud": "se asustara",
+      "nosotros": "nos asustáramos",
+      "vosotros": "os asustarais",
+      "uds": "se asustaran"
+    },
+    "futuro": {
+      "yo": "me asustare",
+      "tu": "te asustares",
+      "ud": "se asustare",
+      "nosotros": "nos asustáremos",
+      "vosotros": "os asustareis",
+      "uds": "se asustaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya asustado",
+      "tu": "te hayas asustado",
+      "ud": "se haya asustado",
+      "nosotros": "nos hayamos asustado",
+      "vosotros": "os hayáis asustado",
+      "uds": "se hayan asustado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere asustado",
+      "tu": "te hubieres asustado",
+      "ud": "se hubiere asustado",
+      "nosotros": "nos hubiéremos asustado",
+      "vosotros": "os hubiereis asustado",
+      "uds": "se hubieren asustado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera asustado",
+      "tu": "te hubieras asustado",
+      "ud": "se hubiera asustado",
+      "nosotros": "nos hubiéramos asustado",
+      "vosotros": "os hubierais asustado",
+      "uds": "se hubieran asustado"
+    },
+    "imperfectoAlt": {
+      "yo": "me asustase",
+      "tu": "te asustases",
+      "ud": "se asustase",
+      "nosotros": "nos asustásemos",
+      "vosotros": "os asustaseis",
+      "uds": "se asustasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese asustado",
+      "tu": "te hubieses asustado",
+      "ud": "se hubiese asustado",
+      "nosotros": "nos hubiésemos asustado",
+      "vosotros": "os hubieseis asustado",
+      "uds": "se hubiesen asustado"
+    }
+  },
+  "afirmativo": {
+    "tu": "asústate",
+    "vosotros": "asustaos",
+    "ud": "asústese",
+    "uds": "asústense"
+  },
+  "negativo": {
+    "tu": "no te asustes",
+    "vosotros": "no os asustéis",
+    "ud": "no se asuste",
+    "uds": "no se asusten"
+  },
+  "english": {
+    "note": "Note: For to frighten someone else, use the nonreflexive form asustar.",
+    "infinitivo": "to be frightened (oneself)",
+    "gerundio": "being frightened",
+    "participioPasado": "frightened",
+    "indicativo": {
+      "presente": "I am frightened, am being frightened",
+      "futuro": "I will be frightened",
+      "imperfecto": "I was being frightened, used to be frightened, was frightened",
+      "preterito": "I was frightened",
+      "condicional": "I would be frightened",
+      "presentePerfecto": "I have been frightened",
+      "futuroPerfecto": "I will have been frightened",
+      "pluscuamperfecto": "I had been frightened",
+      "preteritoAnterior": "I had been frightened",
+      "condicionalPerfecto": "I would have been frightened"
+    },
+    "subjuntivo": {
+      "presente": "I am frightened, am being frightened",
+      "imperfecto": "I was frightened, was being frightened",
+      "futuro": "I will be frightened",
+      "presentePerfecto": "I have been frightened, was frightened",
+      "futuroPerfecto": "I will have been frightened",
+      "pluscuamperfecto": "I had been frightened"
+    },
+    "afirmativo": "Be frightened!",
+    "negativo": "Don't be frightened!"
+  },
+  "attribution": "Fred Jehle"
+}

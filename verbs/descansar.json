@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "descansar",
+  "gerundio": "descansando",
+  "participioPasado": "descansado",
+  "indicativo": {
+    "presente": {
+      "yo": "descanso",
+      "tu": "descansas",
+      "ud": "descansa",
+      "nosotros": "descansamos",
+      "vosotros": "descansáis",
+      "uds": "descansan"
+    },
+    "futuro": {
+      "yo": "descansaré",
+      "tu": "descansarás",
+      "ud": "descansará",
+      "nosotros": "descansaremos",
+      "vosotros": "descansaréis",
+      "uds": "descansarán"
+    },
+    "imperfecto": {
+      "yo": "descansaba",
+      "tu": "descansabas",
+      "ud": "descansaba",
+      "nosotros": "descansábamos",
+      "vosotros": "descansabais",
+      "uds": "descansaban"
+    },
+    "preterito": {
+      "yo": "descansé",
+      "tu": "descansaste",
+      "ud": "descansó",
+      "nosotros": "descansamos",
+      "vosotros": "descansasteis",
+      "uds": "descansaron"
+    },
+    "condicional": {
+      "yo": "descansaría",
+      "tu": "descansarías",
+      "ud": "descansaría",
+      "nosotros": "descansaríamos",
+      "vosotros": "descansaríais",
+      "uds": "descansarían"
+    },
+    "presentePerfecto": {
+      "yo": "he descansado",
+      "tu": "has descansado",
+      "ud": "ha descansado",
+      "nosotros": "hemos descansado",
+      "vosotros": "habéis descansado",
+      "uds": "han descansado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré descansado",
+      "tu": "habrás descansado",
+      "ud": "habrá descansado",
+      "nosotros": "habremos descansado",
+      "vosotros": "habréis descansado",
+      "uds": "habrán descansado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había descansado",
+      "tu": "habías descansado",
+      "ud": "había descansado",
+      "nosotros": "habíamos descansado",
+      "vosotros": "habíais descansado",
+      "uds": "habían descansado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube descansado",
+      "tu": "hubiste descansado",
+      "ud": "hubo descansado",
+      "nosotros": "hubimos descansado",
+      "vosotros": "hubisteis descansado",
+      "uds": "hubieron descansado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría descansado",
+      "tu": "habrías descansado",
+      "ud": "habría descansado",
+      "nosotros": "habríamos descansado",
+      "vosotros": "habríais descansado",
+      "uds": "habrían descansado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "descanse",
+      "tu": "descanses",
+      "ud": "descanse",
+      "nosotros": "descansemos",
+      "vosotros": "descanséis",
+      "uds": "descansen"
+    },
+    "imperfecto": {
+      "yo": "descansara",
+      "tu": "descansaras",
+      "ud": "descansara",
+      "nosotros": "descansáramos",
+      "vosotros": "descansarais",
+      "uds": "descansaran"
+    },
+    "futuro": {
+      "yo": "descansare",
+      "tu": "descansares",
+      "ud": "descansare",
+      "nosotros": "descansáremos",
+      "vosotros": "descansareis",
+      "uds": "descansaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya descansado",
+      "tu": "hayas descansado",
+      "ud": "haya descansado",
+      "nosotros": "hayamos descansado",
+      "vosotros": "hayáis descansado",
+      "uds": "hayan descansado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere descansado",
+      "tu": "hubieres descansado",
+      "ud": "hubiere descansado",
+      "nosotros": "hubiéremos descansado",
+      "vosotros": "hubiereis descansado",
+      "uds": "hubieren descansado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera descansado",
+      "tu": "hubieras descansado",
+      "ud": "hubiera descansado",
+      "nosotros": "hubiéramos descansado",
+      "vosotros": "hubierais descansado",
+      "uds": "hubieran descansado"
+    },
+    "imperfectoAlt": {
+      "yo": "descansase",
+      "tu": "descansases",
+      "ud": "descansase",
+      "nosotros": "descansásemos",
+      "vosotros": "descansaseis",
+      "uds": "descansasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese descansado",
+      "tu": "hubieses descansado",
+      "ud": "hubiese descansado",
+      "nosotros": "hubiésemos descansado",
+      "vosotros": "hubieseis descansado",
+      "uds": "hubiesen descansado"
+    }
+  },
+  "afirmativo": {
+    "tu": "descansa",
+    "vosotros": "descansad",
+    "ud": "descanse",
+    "uds": "descansen"
+  },
+  "negativo": {
+    "tu": "no descanses",
+    "vosotros": "no descanséis",
+    "ud": "no descanse",
+    "uds": "no descansen"
+  },
+  "english": {
+    "note": "Note: Descansar can be used both transtively and intranstively (that is, both with and without a direct object.",
+    "infinitivo": "to rest, take a rest; to support, lean (on)",
+    "gerundio": "resting",
+    "participioPasado": "rested",
+    "indicativo": {
+      "presente": "I rest, am resting",
+      "futuro": "I will rest",
+      "imperfecto": "I was resting, used to rest, rested",
+      "preterito": "I rested",
+      "condicional": "I would rest",
+      "presentePerfecto": "I have rested",
+      "futuroPerfecto": "I will have rested",
+      "pluscuamperfecto": "I had rested",
+      "preteritoAnterior": "I had rested",
+      "condicionalPerfecto": "I would have rested"
+    },
+    "subjuntivo": {
+      "presente": "I rest, am resting",
+      "imperfecto": "I rested, was resting",
+      "futuro": "I will rest",
+      "presentePerfecto": "I have rested, rested",
+      "futuroPerfecto": "I will have rested",
+      "pluscuamperfecto": "I had rested"
+    },
+    "afirmativo": "Rest!",
+    "negativo": "Don't rest!"
+  },
+  "attribution": "Fred Jehle"
+}

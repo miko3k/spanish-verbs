@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "matar",
+  "gerundio": "matando",
+  "participioPasado": "matado",
+  "indicativo": {
+    "presente": {
+      "yo": "mato",
+      "tu": "matas",
+      "ud": "mata",
+      "nosotros": "matamos",
+      "vosotros": "matáis",
+      "uds": "matan"
+    },
+    "futuro": {
+      "yo": "mataré",
+      "tu": "matarás",
+      "ud": "matará",
+      "nosotros": "mataremos",
+      "vosotros": "mataréis",
+      "uds": "matarán"
+    },
+    "imperfecto": {
+      "yo": "mataba",
+      "tu": "matabas",
+      "ud": "mataba",
+      "nosotros": "matábamos",
+      "vosotros": "matabais",
+      "uds": "mataban"
+    },
+    "preterito": {
+      "yo": "maté",
+      "tu": "mataste",
+      "ud": "mató",
+      "nosotros": "matamos",
+      "vosotros": "matasteis",
+      "uds": "mataron"
+    },
+    "condicional": {
+      "yo": "mataría",
+      "tu": "matarías",
+      "ud": "mataría",
+      "nosotros": "mataríamos",
+      "vosotros": "mataríais",
+      "uds": "matarían"
+    },
+    "presentePerfecto": {
+      "yo": "he matado",
+      "tu": "has matado",
+      "ud": "ha matado",
+      "nosotros": "hemos matado",
+      "vosotros": "habéis matado",
+      "uds": "han matado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré matado",
+      "tu": "habrás matado",
+      "ud": "habrá matado",
+      "nosotros": "habremos matado",
+      "vosotros": "habréis matado",
+      "uds": "habrán matado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había matado",
+      "tu": "habías matado",
+      "ud": "había matado",
+      "nosotros": "habíamos matado",
+      "vosotros": "habíais matado",
+      "uds": "habían matado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube matado",
+      "tu": "hubiste matado",
+      "ud": "hubo matado",
+      "nosotros": "hubimos matado",
+      "vosotros": "hubisteis matado",
+      "uds": "hubieron matado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría matado",
+      "tu": "habrías matado",
+      "ud": "habría matado",
+      "nosotros": "habríamos matado",
+      "vosotros": "habríais matado",
+      "uds": "habrían matado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "mate",
+      "tu": "mates",
+      "ud": "mate",
+      "nosotros": "matemos",
+      "vosotros": "matéis",
+      "uds": "maten"
+    },
+    "imperfecto": {
+      "yo": "matara",
+      "tu": "mataras",
+      "ud": "matara",
+      "nosotros": "matáramos",
+      "vosotros": "matarais",
+      "uds": "mataran"
+    },
+    "futuro": {
+      "yo": "matare",
+      "tu": "matares",
+      "ud": "matare",
+      "nosotros": "matáremos",
+      "vosotros": "matareis",
+      "uds": "mataren"
+    },
+    "presentePerfecto": {
+      "yo": "haya matado",
+      "tu": "hayas matado",
+      "ud": "haya matado",
+      "nosotros": "hayamos matado",
+      "vosotros": "hayáis matado",
+      "uds": "hayan matado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere matado",
+      "tu": "hubieres matado",
+      "ud": "hubiere matado",
+      "nosotros": "hubiéremos matado",
+      "vosotros": "hubiereis matado",
+      "uds": "hubieren matado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera matado",
+      "tu": "hubieras matado",
+      "ud": "hubiera matado",
+      "nosotros": "hubiéramos matado",
+      "vosotros": "hubierais matado",
+      "uds": "hubieran matado"
+    },
+    "imperfectoAlt": {
+      "yo": "matase",
+      "tu": "matases",
+      "ud": "matase",
+      "nosotros": "matásemos",
+      "vosotros": "mataseis",
+      "uds": "matasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese matado",
+      "tu": "hubieses matado",
+      "ud": "hubiese matado",
+      "nosotros": "hubiésemos matado",
+      "vosotros": "hubieseis matado",
+      "uds": "hubiesen matado"
+    }
+  },
+  "afirmativo": {
+    "tu": "mata",
+    "vosotros": "matad",
+    "ud": "mate",
+    "uds": "maten"
+  },
+  "negativo": {
+    "tu": "no mates",
+    "vosotros": "no matéis",
+    "ud": "no mate",
+    "uds": "no maten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to kill, slay, slaughter",
+    "gerundio": "killing",
+    "participioPasado": "killed",
+    "indicativo": {
+      "presente": "I kill, am killing",
+      "futuro": "I will kill",
+      "imperfecto": "I was killing, used to kill, killed",
+      "preterito": "I killed",
+      "condicional": "I would kill",
+      "presentePerfecto": "I have killed",
+      "futuroPerfecto": "I will have killed",
+      "pluscuamperfecto": "I had killed",
+      "preteritoAnterior": "I had killed",
+      "condicionalPerfecto": "I would have killed"
+    },
+    "subjuntivo": {
+      "presente": "I kill, am killing",
+      "imperfecto": "I killed, was killing",
+      "futuro": "I will kill",
+      "presentePerfecto": "I have killed, killed",
+      "futuroPerfecto": "I will have killed",
+      "pluscuamperfecto": "I had killed"
+    },
+    "afirmativo": "Kill!",
+    "negativo": "Don't kill!"
+  },
+  "attribution": "Fred Jehle"
+}

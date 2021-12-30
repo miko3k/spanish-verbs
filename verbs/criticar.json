@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "criticar",
+  "gerundio": "criticando",
+  "participioPasado": "criticado",
+  "indicativo": {
+    "presente": {
+      "yo": "critico",
+      "tu": "criticas",
+      "ud": "critica",
+      "nosotros": "criticamos",
+      "vosotros": "criticáis",
+      "uds": "critican"
+    },
+    "futuro": {
+      "yo": "criticaré",
+      "tu": "criticarás",
+      "ud": "criticará",
+      "nosotros": "criticaremos",
+      "vosotros": "criticaréis",
+      "uds": "criticarán"
+    },
+    "imperfecto": {
+      "yo": "criticaba",
+      "tu": "criticabas",
+      "ud": "criticaba",
+      "nosotros": "criticábamos",
+      "vosotros": "criticabais",
+      "uds": "criticaban"
+    },
+    "preterito": {
+      "yo": "critiqué",
+      "tu": "criticaste",
+      "ud": "criticó",
+      "nosotros": "criticamos",
+      "vosotros": "criticasteis",
+      "uds": "criticaron"
+    },
+    "condicional": {
+      "yo": "criticaría",
+      "tu": "criticarías",
+      "ud": "criticaría",
+      "nosotros": "criticaríamos",
+      "vosotros": "criticaríais",
+      "uds": "criticarían"
+    },
+    "presentePerfecto": {
+      "yo": "he criticado",
+      "tu": "has criticado",
+      "ud": "ha criticado",
+      "nosotros": "hemos criticado",
+      "vosotros": "habéis criticado",
+      "uds": "han criticado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré criticado",
+      "tu": "habrás criticado",
+      "ud": "habrá criticado",
+      "nosotros": "habremos criticado",
+      "vosotros": "habréis criticado",
+      "uds": "habrán criticado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había criticado",
+      "tu": "habías criticado",
+      "ud": "había criticado",
+      "nosotros": "habíamos criticado",
+      "vosotros": "habíais criticado",
+      "uds": "habían criticado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube criticado",
+      "tu": "hubiste criticado",
+      "ud": "hubo criticado",
+      "nosotros": "hubimos criticado",
+      "vosotros": "hubisteis criticado",
+      "uds": "hubieron criticado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría criticado",
+      "tu": "habrías criticado",
+      "ud": "habría criticado",
+      "nosotros": "habríamos criticado",
+      "vosotros": "habríais criticado",
+      "uds": "habrían criticado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "critique",
+      "tu": "critiques",
+      "ud": "critique",
+      "nosotros": "critiquemos",
+      "vosotros": "critiquéis",
+      "uds": "critiquen"
+    },
+    "imperfecto": {
+      "yo": "criticara",
+      "tu": "criticaras",
+      "ud": "criticara",
+      "nosotros": "criticáramos",
+      "vosotros": "criticarais",
+      "uds": "criticaran"
+    },
+    "futuro": {
+      "yo": "criticare",
+      "tu": "criticares",
+      "ud": "criticare",
+      "nosotros": "criticáremos",
+      "vosotros": "criticareis",
+      "uds": "criticaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya criticado",
+      "tu": "hayas criticado",
+      "ud": "haya criticado",
+      "nosotros": "hayamos criticado",
+      "vosotros": "hayáis criticado",
+      "uds": "hayan criticado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere criticado",
+      "tu": "hubieres criticado",
+      "ud": "hubiere criticado",
+      "nosotros": "hubiéremos criticado",
+      "vosotros": "hubiereis criticado",
+      "uds": "hubieren criticado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera criticado",
+      "tu": "hubieras criticado",
+      "ud": "hubiera criticado",
+      "nosotros": "hubiéramos criticado",
+      "vosotros": "hubierais criticado",
+      "uds": "hubieran criticado"
+    },
+    "imperfectoAlt": {
+      "yo": "criticase",
+      "tu": "criticases",
+      "ud": "criticase",
+      "nosotros": "criticásemos",
+      "vosotros": "criticaseis",
+      "uds": "criticasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese criticado",
+      "tu": "hubieses criticado",
+      "ud": "hubiese criticado",
+      "nosotros": "hubiésemos criticado",
+      "vosotros": "hubieseis criticado",
+      "uds": "hubiesen criticado"
+    }
+  },
+  "afirmativo": {
+    "tu": "critica",
+    "vosotros": "criticad",
+    "ud": "critique",
+    "uds": "critiquen"
+  },
+  "negativo": {
+    "tu": "no critiques",
+    "vosotros": "no critiquéis",
+    "ud": "no critique",
+    "uds": "no critiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to criticize",
+    "gerundio": "criticizing",
+    "participioPasado": "criticized",
+    "indicativo": {
+      "presente": "I criticize, am criticizing",
+      "futuro": "I will criticize",
+      "imperfecto": "I was criticizing, used to criticize, criticized",
+      "preterito": "I criticized",
+      "condicional": "I would criticize",
+      "presentePerfecto": "I have criticized",
+      "futuroPerfecto": "I will have criticized",
+      "pluscuamperfecto": "I had criticized",
+      "preteritoAnterior": "I had criticized",
+      "condicionalPerfecto": "I would have criticized"
+    },
+    "subjuntivo": {
+      "presente": "I criticize, am criticizing",
+      "imperfecto": "I criticized, was criticizing",
+      "futuro": "I will criticize",
+      "presentePerfecto": "I have criticized, criticized",
+      "futuroPerfecto": "I will have criticized",
+      "pluscuamperfecto": "I had criticized"
+    },
+    "afirmativo": "Criticize!",
+    "negativo": "Don't criticize!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cumplir",
+  "gerundio": "cumpliendo",
+  "participioPasado": "cumplido",
+  "indicativo": {
+    "presente": {
+      "yo": "cumplo",
+      "tu": "cumples",
+      "ud": "cumple",
+      "nosotros": "cumplimos",
+      "vosotros": "cumplís",
+      "uds": "cumplen"
+    },
+    "futuro": {
+      "yo": "cumpliré",
+      "tu": "cumplirás",
+      "ud": "cumplirá",
+      "nosotros": "cumpliremos",
+      "vosotros": "cumpliréis",
+      "uds": "cumplirán"
+    },
+    "imperfecto": {
+      "yo": "cumplía",
+      "tu": "cumplías",
+      "ud": "cumplía",
+      "nosotros": "cumplíamos",
+      "vosotros": "cumplíais",
+      "uds": "cumplían"
+    },
+    "preterito": {
+      "yo": "cumplí",
+      "tu": "cumpliste",
+      "ud": "cumplió",
+      "nosotros": "cumplimos",
+      "vosotros": "cumplisteis",
+      "uds": "cumplieron"
+    },
+    "condicional": {
+      "yo": "cumpliría",
+      "tu": "cumplirías",
+      "ud": "cumpliría",
+      "nosotros": "cumpliríamos",
+      "vosotros": "cumpliríais",
+      "uds": "cumplirían"
+    },
+    "presentePerfecto": {
+      "yo": "he cumplido",
+      "tu": "has cumplido",
+      "ud": "ha cumplido",
+      "nosotros": "hemos cumplido",
+      "vosotros": "habéis cumplido",
+      "uds": "han cumplido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cumplido",
+      "tu": "habrás cumplido",
+      "ud": "habrá cumplido",
+      "nosotros": "habremos cumplido",
+      "vosotros": "habréis cumplido",
+      "uds": "habrán cumplido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cumplido",
+      "tu": "habías cumplido",
+      "ud": "había cumplido",
+      "nosotros": "habíamos cumplido",
+      "vosotros": "habíais cumplido",
+      "uds": "habían cumplido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cumplido",
+      "tu": "hubiste cumplido",
+      "ud": "hubo cumplido",
+      "nosotros": "hubimos cumplido",
+      "vosotros": "hubisteis cumplido",
+      "uds": "hubieron cumplido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cumplido",
+      "tu": "habrías cumplido",
+      "ud": "habría cumplido",
+      "nosotros": "habríamos cumplido",
+      "vosotros": "habríais cumplido",
+      "uds": "habrían cumplido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cumpla",
+      "tu": "cumplas",
+      "ud": "cumpla",
+      "nosotros": "cumplamos",
+      "vosotros": "cumpláis",
+      "uds": "cumplan"
+    },
+    "imperfecto": {
+      "yo": "cumpliera",
+      "tu": "cumplieras",
+      "ud": "cumpliera",
+      "nosotros": "cumpliéramos",
+      "vosotros": "cumplierais",
+      "uds": "cumplieran"
+    },
+    "futuro": {
+      "yo": "cumpliere",
+      "tu": "cumplieres",
+      "ud": "cumpliere",
+      "nosotros": "cumpliéremos",
+      "vosotros": "cumpliereis",
+      "uds": "cumplieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cumplido",
+      "tu": "hayas cumplido",
+      "ud": "haya cumplido",
+      "nosotros": "hayamos cumplido",
+      "vosotros": "hayáis cumplido",
+      "uds": "hayan cumplido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cumplido",
+      "tu": "hubieres cumplido",
+      "ud": "hubiere cumplido",
+      "nosotros": "hubiéremos cumplido",
+      "vosotros": "hubiereis cumplido",
+      "uds": "hubieren cumplido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cumplido",
+      "tu": "hubieras cumplido",
+      "ud": "hubiera cumplido",
+      "nosotros": "hubiéramos cumplido",
+      "vosotros": "hubierais cumplido",
+      "uds": "hubieran cumplido"
+    },
+    "imperfectoAlt": {
+      "yo": "cumpliese",
+      "tu": "cumplieses",
+      "ud": "cumpliese",
+      "nosotros": "cumpliésemos",
+      "vosotros": "cumplieseis",
+      "uds": "cumpliesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cumplido",
+      "tu": "hubieses cumplido",
+      "ud": "hubiese cumplido",
+      "nosotros": "hubiésemos cumplido",
+      "vosotros": "hubieseis cumplido",
+      "uds": "hubiesen cumplido"
+    }
+  },
+  "afirmativo": {
+    "tu": "cumple",
+    "vosotros": "cumplid",
+    "ud": "cumpla",
+    "uds": "cumplan"
+  },
+  "negativo": {
+    "tu": "no cumplas",
+    "vosotros": "no cumpláis",
+    "ud": "no cumpla",
+    "uds": "no cumplan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "(to fulfil, carry out; to reach (",
+    "gerundio": "fulfilling",
+    "participioPasado": "fulfilled",
+    "indicativo": {
+      "presente": "I fulfil, am fulfilling",
+      "futuro": "I will fulfil",
+      "imperfecto": "I was fulfilling, used to fulfil, fulfilled",
+      "preterito": "I fulfilled",
+      "condicional": "I would fulfil",
+      "presentePerfecto": "I have fulfilled",
+      "futuroPerfecto": "I will have fulfilled",
+      "pluscuamperfecto": "I had fulfilled",
+      "preteritoAnterior": "I had fulfilled",
+      "condicionalPerfecto": "I would have fulfilled"
+    },
+    "subjuntivo": {
+      "presente": "I fulfil, am fulfilling",
+      "imperfecto": "I fulfilled, was fulfilling",
+      "futuro": "I will fulfil",
+      "presentePerfecto": "I have fulfilled, fulfilled",
+      "futuroPerfecto": "I will have fulfilled",
+      "pluscuamperfecto": "I had fulfilled"
+    },
+    "afirmativo": "Fulfil!",
+    "negativo": "Don't fulfil!"
+  },
+  "attribution": "Fred Jehle"
+}

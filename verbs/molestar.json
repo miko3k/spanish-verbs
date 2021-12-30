@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "molestar",
+  "gerundio": "molestando",
+  "participioPasado": "molestado",
+  "indicativo": {
+    "presente": {
+      "yo": "molesto",
+      "tu": "molestas",
+      "ud": "molesta",
+      "nosotros": "molestamos",
+      "vosotros": "molestáis",
+      "uds": "molestan"
+    },
+    "futuro": {
+      "yo": "molestaré",
+      "tu": "molestarás",
+      "ud": "molestará",
+      "nosotros": "molestaremos",
+      "vosotros": "molestaréis",
+      "uds": "molestarán"
+    },
+    "imperfecto": {
+      "yo": "molestaba",
+      "tu": "molestabas",
+      "ud": "molestaba",
+      "nosotros": "molestábamos",
+      "vosotros": "molestabais",
+      "uds": "molestaban"
+    },
+    "preterito": {
+      "yo": "molesté",
+      "tu": "molestaste",
+      "ud": "molestó",
+      "nosotros": "molestamos",
+      "vosotros": "molestasteis",
+      "uds": "molestaron"
+    },
+    "condicional": {
+      "yo": "molestaría",
+      "tu": "molestarías",
+      "ud": "molestaría",
+      "nosotros": "molestaríamos",
+      "vosotros": "molestaríais",
+      "uds": "molestarían"
+    },
+    "presentePerfecto": {
+      "yo": "he molestado",
+      "tu": "has molestado",
+      "ud": "ha molestado",
+      "nosotros": "hemos molestado",
+      "vosotros": "habéis molestado",
+      "uds": "han molestado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré molestado",
+      "tu": "habrás molestado",
+      "ud": "habrá molestado",
+      "nosotros": "habremos molestado",
+      "vosotros": "habréis molestado",
+      "uds": "habrán molestado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había molestado",
+      "tu": "habías molestado",
+      "ud": "había molestado",
+      "nosotros": "habíamos molestado",
+      "vosotros": "habíais molestado",
+      "uds": "habían molestado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube molestado",
+      "tu": "hubiste molestado",
+      "ud": "hubo molestado",
+      "nosotros": "hubimos molestado",
+      "vosotros": "hubisteis molestado",
+      "uds": "hubieron molestado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría molestado",
+      "tu": "habrías molestado",
+      "ud": "habría molestado",
+      "nosotros": "habríamos molestado",
+      "vosotros": "habríais molestado",
+      "uds": "habrían molestado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "moleste",
+      "tu": "molestes",
+      "ud": "moleste",
+      "nosotros": "molestemos",
+      "vosotros": "molestéis",
+      "uds": "molesten"
+    },
+    "imperfecto": {
+      "yo": "molestara",
+      "tu": "molestaras",
+      "ud": "molestara",
+      "nosotros": "molestáramos",
+      "vosotros": "molestarais",
+      "uds": "molestaran"
+    },
+    "futuro": {
+      "yo": "molestare",
+      "tu": "molestares",
+      "ud": "molestare",
+      "nosotros": "molestáremos",
+      "vosotros": "molestareis",
+      "uds": "molestaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya molestado",
+      "tu": "hayas molestado",
+      "ud": "haya molestado",
+      "nosotros": "hayamos molestado",
+      "vosotros": "hayáis molestado",
+      "uds": "hayan molestado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere molestado",
+      "tu": "hubieres molestado",
+      "ud": "hubiere molestado",
+      "nosotros": "hubiéremos molestado",
+      "vosotros": "hubiereis molestado",
+      "uds": "hubieren molestado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera molestado",
+      "tu": "hubieras molestado",
+      "ud": "hubiera molestado",
+      "nosotros": "hubiéramos molestado",
+      "vosotros": "hubierais molestado",
+      "uds": "hubieran molestado"
+    },
+    "imperfectoAlt": {
+      "yo": "molestase",
+      "tu": "molestases",
+      "ud": "molestase",
+      "nosotros": "molestásemos",
+      "vosotros": "molestaseis",
+      "uds": "molestasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese molestado",
+      "tu": "hubieses molestado",
+      "ud": "hubiese molestado",
+      "nosotros": "hubiésemos molestado",
+      "vosotros": "hubieseis molestado",
+      "uds": "hubiesen molestado"
+    }
+  },
+  "afirmativo": {
+    "tu": "molesta",
+    "vosotros": "molestad",
+    "ud": "moleste",
+    "uds": "molesten"
+  },
+  "negativo": {
+    "tu": "no molestes",
+    "vosotros": "no molestéis",
+    "ud": "no moleste",
+    "uds": "no molesten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to bother, annoy, inconovenience, put out, upset",
+    "gerundio": "bothering",
+    "participioPasado": "bothered",
+    "indicativo": {
+      "presente": "I bother, am bothering",
+      "futuro": "I will bother",
+      "imperfecto": "I was bothering, used to bother, bothered",
+      "preterito": "I bothered",
+      "condicional": "I would bother",
+      "presentePerfecto": "I have bothered",
+      "futuroPerfecto": "I will have bothered",
+      "pluscuamperfecto": "I had bothered",
+      "preteritoAnterior": "I had bothered",
+      "condicionalPerfecto": "I would have bothered"
+    },
+    "subjuntivo": {
+      "presente": "I bother, am bothering",
+      "imperfecto": "I bothered, was bothering",
+      "futuro": "I will bother",
+      "presentePerfecto": "I have bothered, bothered",
+      "futuroPerfecto": "I will have bothered",
+      "pluscuamperfecto": "I had bothered"
+    },
+    "afirmativo": "Bother!",
+    "negativo": "Don't bother!"
+  },
+  "attribution": "Fred Jehle"
+}

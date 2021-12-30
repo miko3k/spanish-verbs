@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "robar",
+  "gerundio": "robando",
+  "participioPasado": "robado",
+  "indicativo": {
+    "presente": {
+      "yo": "robo",
+      "tu": "robas",
+      "ud": "roba",
+      "nosotros": "robamos",
+      "vosotros": "robáis",
+      "uds": "roban"
+    },
+    "futuro": {
+      "yo": "robaré",
+      "tu": "robarás",
+      "ud": "robará",
+      "nosotros": "robaremos",
+      "vosotros": "robaréis",
+      "uds": "robarán"
+    },
+    "imperfecto": {
+      "yo": "robaba",
+      "tu": "robabas",
+      "ud": "robaba",
+      "nosotros": "robábamos",
+      "vosotros": "robabais",
+      "uds": "robaban"
+    },
+    "preterito": {
+      "yo": "robé",
+      "tu": "robaste",
+      "ud": "robó",
+      "nosotros": "robamos",
+      "vosotros": "robasteis",
+      "uds": "robaron"
+    },
+    "condicional": {
+      "yo": "robaría",
+      "tu": "robarías",
+      "ud": "robaría",
+      "nosotros": "robaríamos",
+      "vosotros": "robaríais",
+      "uds": "robarían"
+    },
+    "presentePerfecto": {
+      "yo": "he robado",
+      "tu": "has robado",
+      "ud": "ha robado",
+      "nosotros": "hemos robado",
+      "vosotros": "habéis robado",
+      "uds": "han robado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré robado",
+      "tu": "habrás robado",
+      "ud": "habrá robado",
+      "nosotros": "habremos robado",
+      "vosotros": "habréis robado",
+      "uds": "habrán robado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había robado",
+      "tu": "habías robado",
+      "ud": "había robado",
+      "nosotros": "habíamos robado",
+      "vosotros": "habíais robado",
+      "uds": "habían robado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube robado",
+      "tu": "hubiste robado",
+      "ud": "hubo robado",
+      "nosotros": "hubimos robado",
+      "vosotros": "hubisteis robado",
+      "uds": "hubieron robado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría robado",
+      "tu": "habrías robado",
+      "ud": "habría robado",
+      "nosotros": "habríamos robado",
+      "vosotros": "habríais robado",
+      "uds": "habrían robado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "robe",
+      "tu": "robes",
+      "ud": "robe",
+      "nosotros": "robemos",
+      "vosotros": "robéis",
+      "uds": "roben"
+    },
+    "imperfecto": {
+      "yo": "robara",
+      "tu": "robaras",
+      "ud": "robara",
+      "nosotros": "robáramos",
+      "vosotros": "robarais",
+      "uds": "robaran"
+    },
+    "futuro": {
+      "yo": "robare",
+      "tu": "robares",
+      "ud": "robare",
+      "nosotros": "robáremos",
+      "vosotros": "robareis",
+      "uds": "robaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya robado",
+      "tu": "hayas robado",
+      "ud": "haya robado",
+      "nosotros": "hayamos robado",
+      "vosotros": "hayáis robado",
+      "uds": "hayan robado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere robado",
+      "tu": "hubieres robado",
+      "ud": "hubiere robado",
+      "nosotros": "hubiéremos robado",
+      "vosotros": "hubiereis robado",
+      "uds": "hubieren robado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera robado",
+      "tu": "hubieras robado",
+      "ud": "hubiera robado",
+      "nosotros": "hubiéramos robado",
+      "vosotros": "hubierais robado",
+      "uds": "hubieran robado"
+    },
+    "imperfectoAlt": {
+      "yo": "robase",
+      "tu": "robases",
+      "ud": "robase",
+      "nosotros": "robásemos",
+      "vosotros": "robaseis",
+      "uds": "robasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese robado",
+      "tu": "hubieses robado",
+      "ud": "hubiese robado",
+      "nosotros": "hubiésemos robado",
+      "vosotros": "hubieseis robado",
+      "uds": "hubiesen robado"
+    }
+  },
+  "afirmativo": {
+    "tu": "roba",
+    "vosotros": "robad",
+    "ud": "robe",
+    "uds": "roben"
+  },
+  "negativo": {
+    "tu": "no robes",
+    "vosotros": "no robéis",
+    "ud": "no robe",
+    "uds": "no roben"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to rob, steal, burgle, break into",
+    "gerundio": "robbing",
+    "participioPasado": "robbed",
+    "indicativo": {
+      "presente": "I rob, am robbing",
+      "futuro": "I will rob",
+      "imperfecto": "I was robbing, used to rob, robbed",
+      "preterito": "I robbed",
+      "condicional": "I would rob",
+      "presentePerfecto": "I have robbed",
+      "futuroPerfecto": "I will have robbed",
+      "pluscuamperfecto": "I had robbed",
+      "preteritoAnterior": "I had robbed",
+      "condicionalPerfecto": "I would have robbed"
+    },
+    "subjuntivo": {
+      "presente": "I rob, am robbing",
+      "imperfecto": "I robbed, was robbing",
+      "futuro": "I will rob",
+      "presentePerfecto": "I have robbed, robbed",
+      "futuroPerfecto": "I will have robbed",
+      "pluscuamperfecto": "I had robbed"
+    },
+    "afirmativo": "Rob!",
+    "negativo": "Don't rob!"
+  },
+  "attribution": "Fred Jehle"
+}

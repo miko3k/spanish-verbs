@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "simbolizar",
+  "gerundio": "simbolizando",
+  "participioPasado": "simbolizado",
+  "indicativo": {
+    "presente": {
+      "yo": "simbolizo",
+      "tu": "simbolizas",
+      "ud": "simboliza",
+      "nosotros": "simbolizamos",
+      "vosotros": "simbolizáis",
+      "uds": "simbolizan"
+    },
+    "futuro": {
+      "yo": "simbolizaré",
+      "tu": "simbolizarás",
+      "ud": "simbolizará",
+      "nosotros": "simbolizaremos",
+      "vosotros": "simbolizaréis",
+      "uds": "simbolizarán"
+    },
+    "imperfecto": {
+      "yo": "simbolizaba",
+      "tu": "simbolizabas",
+      "ud": "simbolizaba",
+      "nosotros": "simbolizábamos",
+      "vosotros": "simbolizabais",
+      "uds": "simbolizaban"
+    },
+    "preterito": {
+      "yo": "simbolicé",
+      "tu": "simbolizaste",
+      "ud": "simbolizó",
+      "nosotros": "simbolizamos",
+      "vosotros": "simbolizasteis",
+      "uds": "simbolizaron"
+    },
+    "condicional": {
+      "yo": "simbolizaría",
+      "tu": "simbolizarías",
+      "ud": "simbolizaría",
+      "nosotros": "simbolizaríamos",
+      "vosotros": "simbolizaríais",
+      "uds": "simbolizarían"
+    },
+    "presentePerfecto": {
+      "yo": "he simbolizado",
+      "tu": "has simbolizado",
+      "ud": "ha simbolizado",
+      "nosotros": "hemos simbolizado",
+      "vosotros": "habéis simbolizado",
+      "uds": "han simbolizado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré simbolizado",
+      "tu": "habrás simbolizado",
+      "ud": "habrá simbolizado",
+      "nosotros": "habremos simbolizado",
+      "vosotros": "habréis simbolizado",
+      "uds": "habrán simbolizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había simbolizado",
+      "tu": "habías simbolizado",
+      "ud": "había simbolizado",
+      "nosotros": "habíamos simbolizado",
+      "vosotros": "habíais simbolizado",
+      "uds": "habían simbolizado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube simbolizado",
+      "tu": "hubiste simbolizado",
+      "ud": "hubo simbolizado",
+      "nosotros": "hubimos simbolizado",
+      "vosotros": "hubisteis simbolizado",
+      "uds": "hubieron simbolizado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría simbolizado",
+      "tu": "habrías simbolizado",
+      "ud": "habría simbolizado",
+      "nosotros": "habríamos simbolizado",
+      "vosotros": "habríais simbolizado",
+      "uds": "habrían simbolizado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "simbolice",
+      "tu": "simbolices",
+      "ud": "simbolice",
+      "nosotros": "simbolicemos",
+      "vosotros": "simbolicéis",
+      "uds": "simbolicen"
+    },
+    "imperfecto": {
+      "yo": "simbolizara",
+      "tu": "simbolizaras",
+      "ud": "simbolizara",
+      "nosotros": "simbolizáramos",
+      "vosotros": "simbolizarais",
+      "uds": "simbolizaran"
+    },
+    "futuro": {
+      "yo": "simbolizare",
+      "tu": "simbolizares",
+      "ud": "simbolizare",
+      "nosotros": "simbolizáremos",
+      "vosotros": "simbolizareis",
+      "uds": "simbolizaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya simbolizado",
+      "tu": "hayas simbolizado",
+      "ud": "haya simbolizado",
+      "nosotros": "hayamos simbolizado",
+      "vosotros": "hayáis simbolizado",
+      "uds": "hayan simbolizado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere simbolizado",
+      "tu": "hubieres simbolizado",
+      "ud": "hubiere simbolizado",
+      "nosotros": "hubiéremos simbolizado",
+      "vosotros": "hubiereis simbolizado",
+      "uds": "hubieren simbolizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera simbolizado",
+      "tu": "hubieras simbolizado",
+      "ud": "hubiera simbolizado",
+      "nosotros": "hubiéramos simbolizado",
+      "vosotros": "hubierais simbolizado",
+      "uds": "hubieran simbolizado"
+    },
+    "imperfectoAlt": {
+      "yo": "simbolizase",
+      "tu": "simbolizases",
+      "ud": "simbolizase",
+      "nosotros": "simbolizásemos",
+      "vosotros": "simbolizaseis",
+      "uds": "simbolizasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese simbolizado",
+      "tu": "hubieses simbolizado",
+      "ud": "hubiese simbolizado",
+      "nosotros": "hubiésemos simbolizado",
+      "vosotros": "hubieseis simbolizado",
+      "uds": "hubiesen simbolizado"
+    }
+  },
+  "afirmativo": {
+    "tu": "simboliza",
+    "vosotros": "simbolizad",
+    "ud": "simbolice",
+    "uds": "simbolicen"
+  },
+  "negativo": {
+    "tu": "no simbolices",
+    "vosotros": "no simbolicéis",
+    "ud": "no simbolice",
+    "uds": "no simbolicen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to symbolize, represent, stand for",
+    "gerundio": "symbolizing",
+    "participioPasado": "symbolized",
+    "indicativo": {
+      "presente": "I symbolize, am symbolizing",
+      "futuro": "I will symbolize",
+      "imperfecto": "I was symbolizing, used to symbolize, symbolized",
+      "preterito": "I symbolized",
+      "condicional": "I would symbolize",
+      "presentePerfecto": "I have symbolized",
+      "futuroPerfecto": "I will have symbolized",
+      "pluscuamperfecto": "I had symbolized",
+      "preteritoAnterior": "I had symbolized",
+      "condicionalPerfecto": "I would have symbolized"
+    },
+    "subjuntivo": {
+      "presente": "I symbolize, am symbolizing",
+      "imperfecto": "I symbolized, was symbolizing",
+      "futuro": "I will symbolize",
+      "presentePerfecto": "I have symbolized, symbolized",
+      "futuroPerfecto": "I will have symbolized",
+      "pluscuamperfecto": "I had symbolized"
+    },
+    "afirmativo": "Symbolize!",
+    "negativo": "Don't symbolize!"
+  },
+  "attribution": "Fred Jehle"
+}

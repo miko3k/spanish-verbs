@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "gustar",
+  "gerundio": "gustando",
+  "participioPasado": "gustado",
+  "indicativo": {
+    "presente": {
+      "yo": "gusto",
+      "tu": "gustas",
+      "ud": "gusta",
+      "nosotros": "gustamos",
+      "vosotros": "gustáis",
+      "uds": "gustan"
+    },
+    "futuro": {
+      "yo": "gustaré",
+      "tu": "gustarás",
+      "ud": "gustará",
+      "nosotros": "gustaremos",
+      "vosotros": "gustaréis",
+      "uds": "gustarán"
+    },
+    "imperfecto": {
+      "yo": "gustaba",
+      "tu": "gustabas",
+      "ud": "gustaba",
+      "nosotros": "gustábamos",
+      "vosotros": "gustabais",
+      "uds": "gustaban"
+    },
+    "preterito": {
+      "yo": "gusté",
+      "tu": "gustaste",
+      "ud": "gustó",
+      "nosotros": "gustamos",
+      "vosotros": "gustasteis",
+      "uds": "gustaron"
+    },
+    "condicional": {
+      "yo": "gustaría",
+      "tu": "gustarías",
+      "ud": "gustaría",
+      "nosotros": "gustaríamos",
+      "vosotros": "gustaríais",
+      "uds": "gustarían"
+    },
+    "presentePerfecto": {
+      "yo": "he gustado",
+      "tu": "has gustado",
+      "ud": "ha gustado",
+      "nosotros": "hemos gustado",
+      "vosotros": "habéis gustado",
+      "uds": "han gustado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré gustado",
+      "tu": "habrás gustado",
+      "ud": "habrá gustado",
+      "nosotros": "habremos gustado",
+      "vosotros": "habréis gustado",
+      "uds": "habrán gustado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había gustado",
+      "tu": "habías gustado",
+      "ud": "había gustado",
+      "nosotros": "habíamos gustado",
+      "vosotros": "habíais gustado",
+      "uds": "habían gustado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube gustado",
+      "tu": "hubiste gustado",
+      "ud": "hubo gustado",
+      "nosotros": "hubimos gustado",
+      "vosotros": "hubisteis gustado",
+      "uds": "hubieron gustado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría gustado",
+      "tu": "habrías gustado",
+      "ud": "habría gustado",
+      "nosotros": "habríamos gustado",
+      "vosotros": "habríais gustado",
+      "uds": "habrían gustado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "guste",
+      "tu": "gustes",
+      "ud": "guste",
+      "nosotros": "gustemos",
+      "vosotros": "gustéis",
+      "uds": "gusten"
+    },
+    "imperfecto": {
+      "yo": "gustara",
+      "tu": "gustaras",
+      "ud": "gustara",
+      "nosotros": "gustáramos",
+      "vosotros": "gustarais",
+      "uds": "gustaran"
+    },
+    "futuro": {
+      "yo": "gustare",
+      "tu": "gustares",
+      "ud": "gustare",
+      "nosotros": "gustáremos",
+      "vosotros": "gustareis",
+      "uds": "gustaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya gustado",
+      "tu": "hayas gustado",
+      "ud": "haya gustado",
+      "nosotros": "hayamos gustado",
+      "vosotros": "hayáis gustado",
+      "uds": "hayan gustado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere gustado",
+      "tu": "hubieres gustado",
+      "ud": "hubiere gustado",
+      "nosotros": "hubiéremos gustado",
+      "vosotros": "hubiereis gustado",
+      "uds": "hubieren gustado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera gustado",
+      "tu": "hubieras gustado",
+      "ud": "hubiera gustado",
+      "nosotros": "hubiéramos gustado",
+      "vosotros": "hubierais gustado",
+      "uds": "hubieran gustado"
+    },
+    "imperfectoAlt": {
+      "yo": "gustase",
+      "tu": "gustases",
+      "ud": "gustase",
+      "nosotros": "gustásemos",
+      "vosotros": "gustaseis",
+      "uds": "gustasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese gustado",
+      "tu": "hubieses gustado",
+      "ud": "hubiese gustado",
+      "nosotros": "hubiésemos gustado",
+      "vosotros": "hubieseis gustado",
+      "uds": "hubiesen gustado"
+    }
+  },
+  "afirmativo": {
+    "tu": "gusta",
+    "vosotros": "gustad",
+    "ud": "guste",
+    "uds": "gusten"
+  },
+  "negativo": {
+    "tu": "no gustes",
+    "vosotros": "no gustéis",
+    "ud": "no guste",
+    "uds": "no gusten"
+  },
+  "english": {
+    "note": "Note: The verb is used in a special type of construction to express like: Me gusta el libro = The book is pleasing to me (= I like the book); Me gustan los libros = The books are pleasing to me (= I like the books). In this construction the verb is most frequently used in the third person singular or plural, although all persons are possible, e.g., Me gustas tú = You are pleasing to me (= I like you).",
+    "infinitivo": "to please, be pleasing",
+    "gerundio": "pleasing",
+    "participioPasado": "pleased",
+    "indicativo": {
+      "presente": "I please, am pleasing",
+      "futuro": "I will please",
+      "imperfecto": "I was pleasing, used to please, pleased",
+      "preterito": "I pleased",
+      "condicional": "I would please",
+      "presentePerfecto": "I have pleased",
+      "futuroPerfecto": "I will have pleased",
+      "pluscuamperfecto": "I had pleased",
+      "preteritoAnterior": "I had pleased",
+      "condicionalPerfecto": "I would have pleased"
+    },
+    "subjuntivo": {
+      "presente": "I please, am pleasing",
+      "imperfecto": "I pleased, was pleasing",
+      "futuro": "I will please",
+      "presentePerfecto": "I have pleased, pleased",
+      "futuroPerfecto": "I will have pleased",
+      "pluscuamperfecto": "I had pleased"
+    },
+    "afirmativo": "Please!",
+    "negativo": "Don't please!"
+  },
+  "attribution": "Fred Jehle"
+}

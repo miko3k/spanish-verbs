@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "advertir",
+  "gerundio": "advirtiendo",
+  "participioPasado": "advertido",
+  "indicativo": {
+    "presente": {
+      "yo": "advierto",
+      "tu": "adviertes",
+      "ud": "advierte",
+      "nosotros": "advertimos",
+      "vosotros": "advertís",
+      "uds": "advierten"
+    },
+    "futuro": {
+      "yo": "advertiré",
+      "tu": "advertirás",
+      "ud": "advertirá",
+      "nosotros": "advertiremos",
+      "vosotros": "advertiréis",
+      "uds": "advertirán"
+    },
+    "imperfecto": {
+      "yo": "advertía",
+      "tu": "advertías",
+      "ud": "advertía",
+      "nosotros": "advertíamos",
+      "vosotros": "advertíais",
+      "uds": "advertían"
+    },
+    "preterito": {
+      "yo": "advertí",
+      "tu": "advertiste",
+      "ud": "advirtió",
+      "nosotros": "advertimos",
+      "vosotros": "advertisteis",
+      "uds": "advirtieron"
+    },
+    "condicional": {
+      "yo": "advertiría",
+      "tu": "advertirías",
+      "ud": "advertiría",
+      "nosotros": "advertiríamos",
+      "vosotros": "advertiríais",
+      "uds": "advertirían"
+    },
+    "presentePerfecto": {
+      "yo": "he advertido",
+      "tu": "has advertido",
+      "ud": "ha advertido",
+      "nosotros": "hemos advertido",
+      "vosotros": "habéis advertido",
+      "uds": "han advertido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré advertido",
+      "tu": "habrás advertido",
+      "ud": "habrá advertido",
+      "nosotros": "habremos advertido",
+      "vosotros": "habréis advertido",
+      "uds": "habrán advertido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había advertido",
+      "tu": "habías advertido",
+      "ud": "había advertido",
+      "nosotros": "habíamos advertido",
+      "vosotros": "habíais advertido",
+      "uds": "habían advertido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube advertido",
+      "tu": "hubiste advertido",
+      "ud": "hubo advertido",
+      "nosotros": "hubimos advertido",
+      "vosotros": "hubisteis advertido",
+      "uds": "hubieron advertido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría advertido",
+      "tu": "habrías advertido",
+      "ud": "habría advertido",
+      "nosotros": "habríamos advertido",
+      "vosotros": "habríais advertido",
+      "uds": "habrían advertido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "advierta",
+      "tu": "adviertas",
+      "ud": "advierta",
+      "nosotros": "advirtamos",
+      "vosotros": "advirtáis",
+      "uds": "adviertan"
+    },
+    "imperfecto": {
+      "yo": "advirtiera",
+      "tu": "advirtieras",
+      "ud": "advirtiera",
+      "nosotros": "advirtiéramos",
+      "vosotros": "advirtierais",
+      "uds": "advirtieran"
+    },
+    "futuro": {
+      "yo": "advirtiere",
+      "tu": "advirtieres",
+      "ud": "advirtiere",
+      "nosotros": "advirtiéremos",
+      "vosotros": "advirtiereis",
+      "uds": "advirtieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya advertido",
+      "tu": "hayas advertido",
+      "ud": "haya advertido",
+      "nosotros": "hayamos advertido",
+      "vosotros": "hayáis advertido",
+      "uds": "hayan advertido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere advertido",
+      "tu": "hubieres advertido",
+      "ud": "hubiere advertido",
+      "nosotros": "hubiéremos advertido",
+      "vosotros": "hubiereis advertido",
+      "uds": "hubieren advertido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera advertido",
+      "tu": "hubieras advertido",
+      "ud": "hubiera advertido",
+      "nosotros": "hubiéramos advertido",
+      "vosotros": "hubierais advertido",
+      "uds": "hubieran advertido"
+    },
+    "imperfectoAlt": {
+      "yo": "advirtiese",
+      "tu": "advirtieses",
+      "ud": "advirtiese",
+      "nosotros": "advirtiésemos",
+      "vosotros": "advirtieseis",
+      "uds": "advirtiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese advertido",
+      "tu": "hubieses advertido",
+      "ud": "hubiese advertido",
+      "nosotros": "hubiésemos advertido",
+      "vosotros": "hubieseis advertido",
+      "uds": "hubiesen advertido"
+    }
+  },
+  "afirmativo": {
+    "tu": "advierte",
+    "vosotros": "advertid",
+    "ud": "advierta",
+    "uds": "adviertan"
+  },
+  "negativo": {
+    "tu": "no adviertas",
+    "vosotros": "no advirtáis",
+    "ud": "no advierta",
+    "uds": "no adviertan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i.",
+    "infinitivo": "to notice, observe, advise, warn",
+    "gerundio": "noticing",
+    "participioPasado": "noticed",
+    "indicativo": {
+      "presente": "I notice, am noticing",
+      "futuro": "I will notice",
+      "imperfecto": "I was noticing, used to notice, noticed",
+      "preterito": "I noticed",
+      "condicional": "I would notice",
+      "presentePerfecto": "I have noticed",
+      "futuroPerfecto": "I will have noticed",
+      "pluscuamperfecto": "I had noticed",
+      "preteritoAnterior": "I had noticed",
+      "condicionalPerfecto": "I would have noticed"
+    },
+    "subjuntivo": {
+      "presente": "I notice, am noticing",
+      "imperfecto": "I noticed, was noticing",
+      "futuro": "I will notice",
+      "presentePerfecto": "I have noticed, noticed",
+      "futuroPerfecto": "I will have noticed",
+      "pluscuamperfecto": "I had noticed"
+    },
+    "afirmativo": "Notice!",
+    "negativo": "Don't notice!"
+  },
+  "attribution": "Fred Jehle"
+}

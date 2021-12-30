@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "responder",
+  "gerundio": "respondiendo",
+  "participioPasado": "respondido",
+  "indicativo": {
+    "presente": {
+      "yo": "respondo",
+      "tu": "respondes",
+      "ud": "responde",
+      "nosotros": "respondemos",
+      "vosotros": "respondéis",
+      "uds": "responden"
+    },
+    "futuro": {
+      "yo": "responderé",
+      "tu": "responderás",
+      "ud": "responderá",
+      "nosotros": "responderemos",
+      "vosotros": "responderéis",
+      "uds": "responderán"
+    },
+    "imperfecto": {
+      "yo": "respondía",
+      "tu": "respondías",
+      "ud": "respondía",
+      "nosotros": "respondíamos",
+      "vosotros": "respondíais",
+      "uds": "respondían"
+    },
+    "preterito": {
+      "yo": "respondí",
+      "tu": "respondiste",
+      "ud": "respondió",
+      "nosotros": "respondimos",
+      "vosotros": "respondisteis",
+      "uds": "respondieron"
+    },
+    "condicional": {
+      "yo": "respondería",
+      "tu": "responderías",
+      "ud": "respondería",
+      "nosotros": "responderíamos",
+      "vosotros": "responderíais",
+      "uds": "responderían"
+    },
+    "presentePerfecto": {
+      "yo": "he respondido",
+      "tu": "has respondido",
+      "ud": "ha respondido",
+      "nosotros": "hemos respondido",
+      "vosotros": "habéis respondido",
+      "uds": "han respondido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré respondido",
+      "tu": "habrás respondido",
+      "ud": "habrá respondido",
+      "nosotros": "habremos respondido",
+      "vosotros": "habréis respondido",
+      "uds": "habrán respondido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había respondido",
+      "tu": "habías respondido",
+      "ud": "había respondido",
+      "nosotros": "habíamos respondido",
+      "vosotros": "habíais respondido",
+      "uds": "habían respondido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube respondido",
+      "tu": "hubiste respondido",
+      "ud": "hubo respondido",
+      "nosotros": "hubimos respondido",
+      "vosotros": "hubisteis respondido",
+      "uds": "hubieron respondido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría respondido",
+      "tu": "habrías respondido",
+      "ud": "habría respondido",
+      "nosotros": "habríamos respondido",
+      "vosotros": "habríais respondido",
+      "uds": "habrían respondido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "responda",
+      "tu": "respondas",
+      "ud": "responda",
+      "nosotros": "respondamos",
+      "vosotros": "respondáis",
+      "uds": "respondan"
+    },
+    "imperfecto": {
+      "yo": "respondiera",
+      "tu": "respondieras",
+      "ud": "respondiera",
+      "nosotros": "respondiéramos",
+      "vosotros": "respondierais",
+      "uds": "respondieran"
+    },
+    "futuro": {
+      "yo": "respondiere",
+      "tu": "respondieres",
+      "ud": "respondiere",
+      "nosotros": "respondiéremos",
+      "vosotros": "respondiereis",
+      "uds": "respondieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya respondido",
+      "tu": "hayas respondido",
+      "ud": "haya respondido",
+      "nosotros": "hayamos respondido",
+      "vosotros": "hayáis respondido",
+      "uds": "hayan respondido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere respondido",
+      "tu": "hubieres respondido",
+      "ud": "hubiere respondido",
+      "nosotros": "hubiéremos respondido",
+      "vosotros": "hubiereis respondido",
+      "uds": "hubieren respondido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera respondido",
+      "tu": "hubieras respondido",
+      "ud": "hubiera respondido",
+      "nosotros": "hubiéramos respondido",
+      "vosotros": "hubierais respondido",
+      "uds": "hubieran respondido"
+    },
+    "imperfectoAlt": {
+      "yo": "respondiese",
+      "tu": "respondieses",
+      "ud": "respondiese",
+      "nosotros": "respondiésemos",
+      "vosotros": "respondieseis",
+      "uds": "respondiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese respondido",
+      "tu": "hubieses respondido",
+      "ud": "hubiese respondido",
+      "nosotros": "hubiésemos respondido",
+      "vosotros": "hubieseis respondido",
+      "uds": "hubiesen respondido"
+    }
+  },
+  "afirmativo": {
+    "tu": "responde",
+    "vosotros": "responded",
+    "ud": "responda",
+    "uds": "respondan"
+  },
+  "negativo": {
+    "tu": "no respondas",
+    "vosotros": "no respondáis",
+    "ud": "no responda",
+    "uds": "no respondan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to respond, answer, reply to",
+    "gerundio": "responding",
+    "participioPasado": "responded",
+    "indicativo": {
+      "presente": "I respond, am responding",
+      "futuro": "I will respond",
+      "imperfecto": "I was responding, used to respond, responded",
+      "preterito": "I responded",
+      "condicional": "I would respond",
+      "presentePerfecto": "I have responded",
+      "futuroPerfecto": "I will have responded",
+      "pluscuamperfecto": "I had responded",
+      "preteritoAnterior": "I had responded",
+      "condicionalPerfecto": "I would have responded"
+    },
+    "subjuntivo": {
+      "presente": "I respond, am responding",
+      "imperfecto": "I responded, was responding",
+      "futuro": "I will respond",
+      "presentePerfecto": "I have responded, responded",
+      "futuroPerfecto": "I will have responded",
+      "pluscuamperfecto": "I had responded"
+    },
+    "afirmativo": "Respond!",
+    "negativo": "Don't respond!"
+  },
+  "attribution": "Fred Jehle"
+}

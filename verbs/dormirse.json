@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "dormirse",
+  "gerundio": "durmiéndose",
+  "participioPasado": "dormido",
+  "indicativo": {
+    "presente": {
+      "yo": "me duermo",
+      "tu": "te duermes",
+      "ud": "se duerme",
+      "nosotros": "nos dormimos",
+      "vosotros": "os dormís",
+      "uds": "se duermen"
+    },
+    "futuro": {
+      "yo": "me dormiré",
+      "tu": "te dormirás",
+      "ud": "se dormirá",
+      "nosotros": "nos dormiremos",
+      "vosotros": "os dormiréis",
+      "uds": "se dormirán"
+    },
+    "imperfecto": {
+      "yo": "me dormía",
+      "tu": "te dormías",
+      "ud": "se dormía",
+      "nosotros": "nos dormíamos",
+      "vosotros": "os dormíais",
+      "uds": "se dormían"
+    },
+    "preterito": {
+      "yo": "me dormí",
+      "tu": "te dormiste",
+      "ud": "se durmió",
+      "nosotros": "nos dormimos",
+      "vosotros": "os dormisteis",
+      "uds": "se durmieron"
+    },
+    "condicional": {
+      "yo": "me dormiría",
+      "tu": "te dormirías",
+      "ud": "se dormiría",
+      "nosotros": "nos dormiríamos",
+      "vosotros": "os dormiríais",
+      "uds": "se dormirían"
+    },
+    "presentePerfecto": {
+      "yo": "me he dormido",
+      "tu": "te has dormido",
+      "ud": "se ha dormido",
+      "nosotros": "nos hemos dormido",
+      "vosotros": "os habéis dormido",
+      "uds": "se han dormido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré dormido",
+      "tu": "te habrás dormido",
+      "ud": "se habrá dormido",
+      "nosotros": "nos habremos dormido",
+      "vosotros": "os habréis dormido",
+      "uds": "se habrán dormido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había dormido",
+      "tu": "te habías dormido",
+      "ud": "se había dormido",
+      "nosotros": "nos habíamos dormido",
+      "vosotros": "os habíais dormido",
+      "uds": "se habían dormido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube dormido",
+      "tu": "te hubiste dormido",
+      "ud": "se hubo dormido",
+      "nosotros": "nos hubimos dormido",
+      "vosotros": "os hubisteis dormido",
+      "uds": "se hubieron dormido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría dormido",
+      "tu": "te habrías dormido",
+      "ud": "se habría dormido",
+      "nosotros": "nos habríamos dormido",
+      "vosotros": "os habríais dormido",
+      "uds": "se habrían dormido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me duerma",
+      "tu": "te duermas",
+      "ud": "se duerma",
+      "nosotros": "nos durmamos",
+      "vosotros": "os durmáis",
+      "uds": "se duerman"
+    },
+    "imperfecto": {
+      "yo": "me durmiera",
+      "tu": "te durmieras",
+      "ud": "se durmiera",
+      "nosotros": "nos durmiéramos",
+      "vosotros": "os durmierais",
+      "uds": "se durmieran"
+    },
+    "futuro": {
+      "yo": "me durmiere",
+      "tu": "te durmieres",
+      "ud": "se durmiere",
+      "nosotros": "nos durmiéremos",
+      "vosotros": "os durmiereis",
+      "uds": "se durmieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya dormido",
+      "tu": "te hayas dormido",
+      "ud": "se haya dormido",
+      "nosotros": "nos hayamos dormido",
+      "vosotros": "os hayáis dormido",
+      "uds": "se hayan dormido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere dormido",
+      "tu": "te hubieres dormido",
+      "ud": "se hubiere dormido",
+      "nosotros": "nos hubiéremos dormido",
+      "vosotros": "os hubiereis dormido",
+      "uds": "se hubieren dormido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera dormido",
+      "tu": "te hubieras dormido",
+      "ud": "se hubiera dormido",
+      "nosotros": "nos hubiéramos dormido",
+      "vosotros": "os hubierais dormido",
+      "uds": "se hubieran dormido"
+    },
+    "imperfectoAlt": {
+      "yo": "me durmiese",
+      "tu": "te durmieses",
+      "ud": "se durmiese",
+      "nosotros": "nos durmiésemos",
+      "vosotros": "os durmieseis",
+      "uds": "se durmiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese dormido",
+      "tu": "te hubieses dormido",
+      "ud": "se hubiese dormido",
+      "nosotros": "nos hubiésemos dormido",
+      "vosotros": "os hubieseis dormido",
+      "uds": "se hubiesen dormido"
+    }
+  },
+  "afirmativo": {
+    "tu": "duérmete",
+    "vosotros": "dormíos",
+    "ud": "duérmase",
+    "uds": "duérmanse"
+  },
+  "negativo": {
+    "tu": "no te duermas",
+    "vosotros": "no os durmáis",
+    "ud": "no se duerma",
+    "uds": "no se duerman"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue > u. Note: The nonreflexive form of this verb, dormir, means to sleep.",
+    "infinitivo": "to go to sleep, fall asleep",
+    "gerundio": "going to sleep",
+    "participioPasado": "asleep, gone to sleep",
+    "indicativo": {
+      "presente": "I go to sleep, am going to sleep",
+      "futuro": "I will go to sleep",
+      "imperfecto": "I was going to sleep, used to go to sleep, went to sleep",
+      "preterito": "I went to sleep",
+      "condicional": "I would go to sleep",
+      "presentePerfecto": "I have gone to sleep",
+      "futuroPerfecto": "I will have gone to sleep",
+      "pluscuamperfecto": "I had gone to sleep",
+      "preteritoAnterior": "I had gone to sleep",
+      "condicionalPerfecto": "I would have gone to sleep"
+    },
+    "subjuntivo": {
+      "presente": "I go to sleep, am going to sleep",
+      "imperfecto": "I went to sleep, was going to sleep",
+      "futuro": "I will go to sleep",
+      "presentePerfecto": "I have gone to sleep, went to sleep",
+      "futuroPerfecto": "I will have gone to sleep",
+      "pluscuamperfecto": "I had gone to sleep"
+    },
+    "afirmativo": "Go to sleep!",
+    "negativo": "Don't go to sleep!"
+  },
+  "attribution": "Fred Jehle"
+}

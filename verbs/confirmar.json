@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "confirmar",
+  "gerundio": "confirmando",
+  "participioPasado": "confirmado",
+  "indicativo": {
+    "presente": {
+      "yo": "confirmo",
+      "tu": "confirmas",
+      "ud": "confirma",
+      "nosotros": "confirmamos",
+      "vosotros": "confirmáis",
+      "uds": "confirman"
+    },
+    "futuro": {
+      "yo": "confirmaré",
+      "tu": "confirmarás",
+      "ud": "confirmará",
+      "nosotros": "confirmaremos",
+      "vosotros": "confirmaréis",
+      "uds": "confirmarán"
+    },
+    "imperfecto": {
+      "yo": "confirmaba",
+      "tu": "confirmabas",
+      "ud": "confirmaba",
+      "nosotros": "confirmábamos",
+      "vosotros": "confirmabais",
+      "uds": "confirmaban"
+    },
+    "preterito": {
+      "yo": "confirmé",
+      "tu": "confirmaste",
+      "ud": "confirmó",
+      "nosotros": "confirmamos",
+      "vosotros": "confirmasteis",
+      "uds": "confirmaron"
+    },
+    "condicional": {
+      "yo": "confirmaría",
+      "tu": "confirmarías",
+      "ud": "confirmaría",
+      "nosotros": "confirmaríamos",
+      "vosotros": "confirmaríais",
+      "uds": "confirmarían"
+    },
+    "presentePerfecto": {
+      "yo": "he confirmado",
+      "tu": "has confirmado",
+      "ud": "ha confirmado",
+      "nosotros": "hemos confirmado",
+      "vosotros": "habéis confirmado",
+      "uds": "han confirmado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré confirmado",
+      "tu": "habrás confirmado",
+      "ud": "habrá confirmado",
+      "nosotros": "habremos confirmado",
+      "vosotros": "habréis confirmado",
+      "uds": "habrán confirmado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había confirmado",
+      "tu": "habías confirmado",
+      "ud": "había confirmado",
+      "nosotros": "habíamos confirmado",
+      "vosotros": "habíais confirmado",
+      "uds": "habían confirmado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube confirmado",
+      "tu": "hubiste confirmado",
+      "ud": "hubo confirmado",
+      "nosotros": "hubimos confirmado",
+      "vosotros": "hubisteis confirmado",
+      "uds": "hubieron confirmado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría confirmado",
+      "tu": "habrías confirmado",
+      "ud": "habría confirmado",
+      "nosotros": "habríamos confirmado",
+      "vosotros": "habríais confirmado",
+      "uds": "habrían confirmado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "confirme",
+      "tu": "confirmes",
+      "ud": "confirme",
+      "nosotros": "confirmemos",
+      "vosotros": "confirméis",
+      "uds": "confirmen"
+    },
+    "imperfecto": {
+      "yo": "confirmara",
+      "tu": "confirmaras",
+      "ud": "confirmara",
+      "nosotros": "confirmáramos",
+      "vosotros": "confirmarais",
+      "uds": "confirmaran"
+    },
+    "futuro": {
+      "yo": "confirmare",
+      "tu": "confirmares",
+      "ud": "confirmare",
+      "nosotros": "confirmáremos",
+      "vosotros": "confirmareis",
+      "uds": "confirmaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya confirmado",
+      "tu": "hayas confirmado",
+      "ud": "haya confirmado",
+      "nosotros": "hayamos confirmado",
+      "vosotros": "hayáis confirmado",
+      "uds": "hayan confirmado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere confirmado",
+      "tu": "hubieres confirmado",
+      "ud": "hubiere confirmado",
+      "nosotros": "hubiéremos confirmado",
+      "vosotros": "hubiereis confirmado",
+      "uds": "hubieren confirmado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera confirmado",
+      "tu": "hubieras confirmado",
+      "ud": "hubiera confirmado",
+      "nosotros": "hubiéramos confirmado",
+      "vosotros": "hubierais confirmado",
+      "uds": "hubieran confirmado"
+    },
+    "imperfectoAlt": {
+      "yo": "confirmase",
+      "tu": "confirmases",
+      "ud": "confirmase",
+      "nosotros": "confirmásemos",
+      "vosotros": "confirmaseis",
+      "uds": "confirmasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese confirmado",
+      "tu": "hubieses confirmado",
+      "ud": "hubiese confirmado",
+      "nosotros": "hubiésemos confirmado",
+      "vosotros": "hubieseis confirmado",
+      "uds": "hubiesen confirmado"
+    }
+  },
+  "afirmativo": {
+    "tu": "confirma",
+    "vosotros": "confirmad",
+    "ud": "confirme",
+    "uds": "confirmen"
+  },
+  "negativo": {
+    "tu": "no confirmes",
+    "vosotros": "no confirméis",
+    "ud": "no confirme",
+    "uds": "no confirmen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to confirm, corroborate, endorse",
+    "gerundio": "confirming",
+    "participioPasado": "confirmed",
+    "indicativo": {
+      "presente": "I confirm, am confirming",
+      "futuro": "I will confirm",
+      "imperfecto": "I was confirming, used to confirm, confirmed",
+      "preterito": "I confirmed",
+      "condicional": "I would confirm",
+      "presentePerfecto": "I have confirmed",
+      "futuroPerfecto": "I will have confirmed",
+      "pluscuamperfecto": "I had confirmed",
+      "preteritoAnterior": "I had confirmed",
+      "condicionalPerfecto": "I would have confirmed"
+    },
+    "subjuntivo": {
+      "presente": "I confirm, am confirming",
+      "imperfecto": "I confirmed, was confirming",
+      "futuro": "I will confirm",
+      "presentePerfecto": "I have confirmed, confirmed",
+      "futuroPerfecto": "I will have confirmed",
+      "pluscuamperfecto": "I had confirmed"
+    },
+    "afirmativo": "Confirm!",
+    "negativo": "Don't confirm!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "desarrollarse",
+  "gerundio": "desarrollándose",
+  "participioPasado": "desarrollado",
+  "indicativo": {
+    "presente": {
+      "yo": "me desarrollo",
+      "tu": "te desarrollas",
+      "ud": "se desarrolla",
+      "nosotros": "nos desarrollamos",
+      "vosotros": "os desarrolláis",
+      "uds": "se desarrollan"
+    },
+    "futuro": {
+      "yo": "me desarrollaré",
+      "tu": "te desarrollarás",
+      "ud": "se desarrollará",
+      "nosotros": "nos desarrollaremos",
+      "vosotros": "os desarrollaréis",
+      "uds": "se desarrollarán"
+    },
+    "imperfecto": {
+      "yo": "me desarrollaba",
+      "tu": "te desarrollabas",
+      "ud": "se desarrollaba",
+      "nosotros": "nos desarrollábamos",
+      "vosotros": "os desarrollabais",
+      "uds": "se desarrollaban"
+    },
+    "preterito": {
+      "yo": "me desarrollé",
+      "tu": "te desarrollaste",
+      "ud": "se desarrolló",
+      "nosotros": "nos desarrollamos",
+      "vosotros": "os desarrollasteis",
+      "uds": "se desarrollaron"
+    },
+    "condicional": {
+      "yo": "me desarrollaría",
+      "tu": "te desarrollarías",
+      "ud": "se desarrollaría",
+      "nosotros": "nos desarrollaríamos",
+      "vosotros": "os desarrollaríais",
+      "uds": "se desarrollarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he desarrollado",
+      "tu": "te has desarrollado",
+      "ud": "se ha desarrollado",
+      "nosotros": "nos hemos desarrollado",
+      "vosotros": "os habéis desarrollado",
+      "uds": "se han desarrollado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré desarrollado",
+      "tu": "te habrás desarrollado",
+      "ud": "se habrá desarrollado",
+      "nosotros": "nos habremos desarrollado",
+      "vosotros": "os habréis desarrollado",
+      "uds": "se habrán desarrollado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había desarrollado",
+      "tu": "te habías desarrollado",
+      "ud": "se había desarrollado",
+      "nosotros": "nos habíamos desarrollado",
+      "vosotros": "os habíais desarrollado",
+      "uds": "se habían desarrollado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube desarrollado",
+      "tu": "te hubiste desarrollado",
+      "ud": "se hubo desarrollado",
+      "nosotros": "nos hubimos desarrollado",
+      "vosotros": "os hubisteis desarrollado",
+      "uds": "se hubieron desarrollado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría desarrollado",
+      "tu": "te habrías desarrollado",
+      "ud": "se habría desarrollado",
+      "nosotros": "nos habríamos desarrollado",
+      "vosotros": "os habríais desarrollado",
+      "uds": "se habrían desarrollado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me desarrolle",
+      "tu": "te desarrolles",
+      "ud": "se desarrolle",
+      "nosotros": "nos desarrollemos",
+      "vosotros": "os desarrolléis",
+      "uds": "se desarrollen"
+    },
+    "imperfecto": {
+      "yo": "me desarrollara",
+      "tu": "te desarrollaras",
+      "ud": "se desarrollara",
+      "nosotros": "nos desarrolláramos",
+      "vosotros": "os desarrollarais",
+      "uds": "se desarrollaran"
+    },
+    "futuro": {
+      "yo": "me desarrollare",
+      "tu": "te desarrollares",
+      "ud": "se desarrollare",
+      "nosotros": "nos desarrolláremos",
+      "vosotros": "os desarrollareis",
+      "uds": "se desarrollaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya desarrollado",
+      "tu": "te hayas desarrollado",
+      "ud": "se haya desarrollado",
+      "nosotros": "nos hayamos desarrollado",
+      "vosotros": "os hayáis desarrollado",
+      "uds": "se hayan desarrollado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere desarrollado",
+      "tu": "te hubieres desarrollado",
+      "ud": "se hubiere desarrollado",
+      "nosotros": "nos hubiéremos desarrollado",
+      "vosotros": "os hubiereis desarrollado",
+      "uds": "se hubieren desarrollado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera desarrollado",
+      "tu": "te hubieras desarrollado",
+      "ud": "se hubiera desarrollado",
+      "nosotros": "nos hubiéramos desarrollado",
+      "vosotros": "os hubierais desarrollado",
+      "uds": "se hubieran desarrollado"
+    },
+    "imperfectoAlt": {
+      "yo": "me desarrollase",
+      "tu": "te desarrollases",
+      "ud": "se desarrollase",
+      "nosotros": "nos desarrollásemos",
+      "vosotros": "os desarrollaseis",
+      "uds": "se desarrollasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese desarrollado",
+      "tu": "te hubieses desarrollado",
+      "ud": "se hubiese desarrollado",
+      "nosotros": "nos hubiésemos desarrollado",
+      "vosotros": "os hubieseis desarrollado",
+      "uds": "se hubiesen desarrollado"
+    }
+  },
+  "afirmativo": {
+    "tu": "desarróllate",
+    "vosotros": "desarrollaos",
+    "ud": "desarróllese",
+    "uds": "desarróllense"
+  },
+  "negativo": {
+    "tu": "no te desarrolles",
+    "vosotros": "no os desarrolléis",
+    "ud": "no se desarrolle",
+    "uds": "no se desarrollen"
+  },
+  "english": {
+    "note": "Note: To use to develop, unroll, unwind transitively (for example, to develop something), use the nonreflexive form desarrollar.",
+    "infinitivo": "to develop, evolve; to unwind",
+    "gerundio": "developing",
+    "participioPasado": "developed",
+    "indicativo": {
+      "presente": "I develop, am developing",
+      "futuro": "I will develop",
+      "imperfecto": "I was developing, used to develop, developed",
+      "preterito": "I developed",
+      "condicional": "I would develop",
+      "presentePerfecto": "I have developed",
+      "futuroPerfecto": "I will have developed",
+      "pluscuamperfecto": "I had developed",
+      "preteritoAnterior": "I had developed",
+      "condicionalPerfecto": "I would have developed"
+    },
+    "subjuntivo": {
+      "presente": "I develop, am developing",
+      "imperfecto": "I developed, was developing",
+      "futuro": "I will develop",
+      "presentePerfecto": "I have developed, developed",
+      "futuroPerfecto": "I will have developed",
+      "pluscuamperfecto": "I had developed"
+    },
+    "afirmativo": "Develop!",
+    "negativo": "Don't develop!"
+  },
+  "attribution": "Fred Jehle"
+}

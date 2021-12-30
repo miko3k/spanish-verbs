@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "interpretar",
+  "gerundio": "interpretando",
+  "participioPasado": "interpretado",
+  "indicativo": {
+    "presente": {
+      "yo": "interpreto",
+      "tu": "interpretas",
+      "ud": "interpreta",
+      "nosotros": "interpretamos",
+      "vosotros": "interpretáis",
+      "uds": "interpretan"
+    },
+    "futuro": {
+      "yo": "interpretaré",
+      "tu": "interpretarás",
+      "ud": "interpretará",
+      "nosotros": "interpretaremos",
+      "vosotros": "interpretaréis",
+      "uds": "interpretarán"
+    },
+    "imperfecto": {
+      "yo": "interpretaba",
+      "tu": "interpretabas",
+      "ud": "interpretaba",
+      "nosotros": "interpretábamos",
+      "vosotros": "interpretabais",
+      "uds": "interpretaban"
+    },
+    "preterito": {
+      "yo": "interpreté",
+      "tu": "interpretaste",
+      "ud": "interpretó",
+      "nosotros": "interpretamos",
+      "vosotros": "interpretasteis",
+      "uds": "interpretaron"
+    },
+    "condicional": {
+      "yo": "interpretaría",
+      "tu": "interpretarías",
+      "ud": "interpretaría",
+      "nosotros": "interpretaríamos",
+      "vosotros": "interpretaríais",
+      "uds": "interpretarían"
+    },
+    "presentePerfecto": {
+      "yo": "he interpretado",
+      "tu": "has interpretado",
+      "ud": "ha interpretado",
+      "nosotros": "hemos interpretado",
+      "vosotros": "habéis interpretado",
+      "uds": "han interpretado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré interpretado",
+      "tu": "habrás interpretado",
+      "ud": "habrá interpretado",
+      "nosotros": "habremos interpretado",
+      "vosotros": "habréis interpretado",
+      "uds": "habrán interpretado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había interpretado",
+      "tu": "habías interpretado",
+      "ud": "había interpretado",
+      "nosotros": "habíamos interpretado",
+      "vosotros": "habíais interpretado",
+      "uds": "habían interpretado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube interpretado",
+      "tu": "hubiste interpretado",
+      "ud": "hubo interpretado",
+      "nosotros": "hubimos interpretado",
+      "vosotros": "hubisteis interpretado",
+      "uds": "hubieron interpretado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría interpretado",
+      "tu": "habrías interpretado",
+      "ud": "habría interpretado",
+      "nosotros": "habríamos interpretado",
+      "vosotros": "habríais interpretado",
+      "uds": "habrían interpretado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "interprete",
+      "tu": "interpretes",
+      "ud": "interprete",
+      "nosotros": "interpretemos",
+      "vosotros": "interpretéis",
+      "uds": "interpreten"
+    },
+    "imperfecto": {
+      "yo": "interpretara",
+      "tu": "interpretaras",
+      "ud": "interpretara",
+      "nosotros": "interpretáramos",
+      "vosotros": "interpretarais",
+      "uds": "interpretaran"
+    },
+    "futuro": {
+      "yo": "interpretare",
+      "tu": "interpretares",
+      "ud": "interpretare",
+      "nosotros": "interpretáremos",
+      "vosotros": "interpretareis",
+      "uds": "interpretaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya interpretado",
+      "tu": "hayas interpretado",
+      "ud": "haya interpretado",
+      "nosotros": "hayamos interpretado",
+      "vosotros": "hayáis interpretado",
+      "uds": "hayan interpretado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere interpretado",
+      "tu": "hubieres interpretado",
+      "ud": "hubiere interpretado",
+      "nosotros": "hubiéremos interpretado",
+      "vosotros": "hubiereis interpretado",
+      "uds": "hubieren interpretado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera interpretado",
+      "tu": "hubieras interpretado",
+      "ud": "hubiera interpretado",
+      "nosotros": "hubiéramos interpretado",
+      "vosotros": "hubierais interpretado",
+      "uds": "hubieran interpretado"
+    },
+    "imperfectoAlt": {
+      "yo": "interpretase",
+      "tu": "interpretases",
+      "ud": "interpretase",
+      "nosotros": "interpretásemos",
+      "vosotros": "interpretaseis",
+      "uds": "interpretasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese interpretado",
+      "tu": "hubieses interpretado",
+      "ud": "hubiese interpretado",
+      "nosotros": "hubiésemos interpretado",
+      "vosotros": "hubieseis interpretado",
+      "uds": "hubiesen interpretado"
+    }
+  },
+  "afirmativo": {
+    "tu": "interpreta",
+    "vosotros": "interpretad",
+    "ud": "interprete",
+    "uds": "interpreten"
+  },
+  "negativo": {
+    "tu": "no interpretes",
+    "vosotros": "no interpretéis",
+    "ud": "no interprete",
+    "uds": "no interpreten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to interpret; to translate",
+    "gerundio": "interpreting",
+    "participioPasado": "interpreted",
+    "indicativo": {
+      "presente": "I interpret, am interpreting",
+      "futuro": "I will interpret",
+      "imperfecto": "I was interpreting, used to interpret, interpreted",
+      "preterito": "I interpreted",
+      "condicional": "I would interpret",
+      "presentePerfecto": "I have interpreted",
+      "futuroPerfecto": "I will have interpreted",
+      "pluscuamperfecto": "I had interpreted",
+      "preteritoAnterior": "I had interpreted",
+      "condicionalPerfecto": "I would have interpreted"
+    },
+    "subjuntivo": {
+      "presente": "I interpret, am interpreting",
+      "imperfecto": "I interpreted, was interpreting",
+      "futuro": "I will interpret",
+      "presentePerfecto": "I have interpreted, interpreted",
+      "futuroPerfecto": "I will have interpreted",
+      "pluscuamperfecto": "I had interpreted"
+    },
+    "afirmativo": "Interpret!",
+    "negativo": "Don't interpret!"
+  },
+  "attribution": "Fred Jehle"
+}

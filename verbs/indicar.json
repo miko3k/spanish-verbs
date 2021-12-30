@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "indicar",
+  "gerundio": "indicando",
+  "participioPasado": "indicado",
+  "indicativo": {
+    "presente": {
+      "yo": "indico",
+      "tu": "indicas",
+      "ud": "indica",
+      "nosotros": "indicamos",
+      "vosotros": "indicáis",
+      "uds": "indican"
+    },
+    "futuro": {
+      "yo": "indicaré",
+      "tu": "indicarás",
+      "ud": "indicará",
+      "nosotros": "indicaremos",
+      "vosotros": "indicaréis",
+      "uds": "indicarán"
+    },
+    "imperfecto": {
+      "yo": "indicaba",
+      "tu": "indicabas",
+      "ud": "indicaba",
+      "nosotros": "indicábamos",
+      "vosotros": "indicabais",
+      "uds": "indicaban"
+    },
+    "preterito": {
+      "yo": "indiqué",
+      "tu": "indicaste",
+      "ud": "indicó",
+      "nosotros": "indicamos",
+      "vosotros": "indicasteis",
+      "uds": "indicaron"
+    },
+    "condicional": {
+      "yo": "indicaría",
+      "tu": "indicarías",
+      "ud": "indicaría",
+      "nosotros": "indicaríamos",
+      "vosotros": "indicaríais",
+      "uds": "indicarían"
+    },
+    "presentePerfecto": {
+      "yo": "he indicado",
+      "tu": "has indicado",
+      "ud": "ha indicado",
+      "nosotros": "hemos indicado",
+      "vosotros": "habéis indicado",
+      "uds": "han indicado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré indicado",
+      "tu": "habrás indicado",
+      "ud": "habrá indicado",
+      "nosotros": "habremos indicado",
+      "vosotros": "habréis indicado",
+      "uds": "habrán indicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había indicado",
+      "tu": "habías indicado",
+      "ud": "había indicado",
+      "nosotros": "habíamos indicado",
+      "vosotros": "habíais indicado",
+      "uds": "habían indicado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube indicado",
+      "tu": "hubiste indicado",
+      "ud": "hubo indicado",
+      "nosotros": "hubimos indicado",
+      "vosotros": "hubisteis indicado",
+      "uds": "hubieron indicado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría indicado",
+      "tu": "habrías indicado",
+      "ud": "habría indicado",
+      "nosotros": "habríamos indicado",
+      "vosotros": "habríais indicado",
+      "uds": "habrían indicado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "indique",
+      "tu": "indiques",
+      "ud": "indique",
+      "nosotros": "indiquemos",
+      "vosotros": "indiquéis",
+      "uds": "indiquen"
+    },
+    "imperfecto": {
+      "yo": "indicara",
+      "tu": "indicaras",
+      "ud": "indicara",
+      "nosotros": "indicáramos",
+      "vosotros": "indicarais",
+      "uds": "indicaran"
+    },
+    "futuro": {
+      "yo": "indicare",
+      "tu": "indicares",
+      "ud": "indicare",
+      "nosotros": "indicáremos",
+      "vosotros": "indicareis",
+      "uds": "indicaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya indicado",
+      "tu": "hayas indicado",
+      "ud": "haya indicado",
+      "nosotros": "hayamos indicado",
+      "vosotros": "hayáis indicado",
+      "uds": "hayan indicado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere indicado",
+      "tu": "hubieres indicado",
+      "ud": "hubiere indicado",
+      "nosotros": "hubiéremos indicado",
+      "vosotros": "hubiereis indicado",
+      "uds": "hubieren indicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera indicado",
+      "tu": "hubieras indicado",
+      "ud": "hubiera indicado",
+      "nosotros": "hubiéramos indicado",
+      "vosotros": "hubierais indicado",
+      "uds": "hubieran indicado"
+    },
+    "imperfectoAlt": {
+      "yo": "indicase",
+      "tu": "indicases",
+      "ud": "indicase",
+      "nosotros": "indicásemos",
+      "vosotros": "indicaseis",
+      "uds": "indicasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese indicado",
+      "tu": "hubieses indicado",
+      "ud": "hubiese indicado",
+      "nosotros": "hubiésemos indicado",
+      "vosotros": "hubieseis indicado",
+      "uds": "hubiesen indicado"
+    }
+  },
+  "afirmativo": {
+    "tu": "indica",
+    "vosotros": "indicad",
+    "ud": "indique",
+    "uds": "indiquen"
+  },
+  "negativo": {
+    "tu": "no indiques",
+    "vosotros": "no indiquéis",
+    "ud": "no indique",
+    "uds": "no indiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to indicate",
+    "gerundio": "indicating",
+    "participioPasado": "indicated",
+    "indicativo": {
+      "presente": "I indicate, am indicating",
+      "futuro": "I will indicate",
+      "imperfecto": "I was indicating, used to indicate, indicated",
+      "preterito": "I indicated",
+      "condicional": "I would indicate",
+      "presentePerfecto": "I have indicated",
+      "futuroPerfecto": "I will have indicated",
+      "pluscuamperfecto": "I had indicated",
+      "preteritoAnterior": "I had indicated",
+      "condicionalPerfecto": "I would have indicated"
+    },
+    "subjuntivo": {
+      "presente": "I indicate, am indicating",
+      "imperfecto": "I indicated, was indicating",
+      "futuro": "I will indicate",
+      "presentePerfecto": "I have indicated, indicated",
+      "futuroPerfecto": "I will have indicated",
+      "pluscuamperfecto": "I had indicated"
+    },
+    "afirmativo": "Indicate!",
+    "negativo": "Don't indicate!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "educar",
+  "gerundio": "educando",
+  "participioPasado": "educado",
+  "indicativo": {
+    "presente": {
+      "yo": "educo",
+      "tu": "educas",
+      "ud": "educa",
+      "nosotros": "educamos",
+      "vosotros": "educáis",
+      "uds": "educan"
+    },
+    "futuro": {
+      "yo": "educaré",
+      "tu": "educarás",
+      "ud": "educará",
+      "nosotros": "educaremos",
+      "vosotros": "educaréis",
+      "uds": "educarán"
+    },
+    "imperfecto": {
+      "yo": "educaba",
+      "tu": "educabas",
+      "ud": "educaba",
+      "nosotros": "educábamos",
+      "vosotros": "educabais",
+      "uds": "educaban"
+    },
+    "preterito": {
+      "yo": "eduqué",
+      "tu": "educaste",
+      "ud": "educó",
+      "nosotros": "educamos",
+      "vosotros": "educasteis",
+      "uds": "educaron"
+    },
+    "condicional": {
+      "yo": "educaría",
+      "tu": "educarías",
+      "ud": "educaría",
+      "nosotros": "educaríamos",
+      "vosotros": "educaríais",
+      "uds": "educarían"
+    },
+    "presentePerfecto": {
+      "yo": "he educado",
+      "tu": "has educado",
+      "ud": "ha educado",
+      "nosotros": "hemos educado",
+      "vosotros": "habéis educado",
+      "uds": "han educado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré educado",
+      "tu": "habrás educado",
+      "ud": "habrá educado",
+      "nosotros": "habremos educado",
+      "vosotros": "habréis educado",
+      "uds": "habrán educado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había educado",
+      "tu": "habías educado",
+      "ud": "había educado",
+      "nosotros": "habíamos educado",
+      "vosotros": "habíais educado",
+      "uds": "habían educado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube educado",
+      "tu": "hubiste educado",
+      "ud": "hubo educado",
+      "nosotros": "hubimos educado",
+      "vosotros": "hubisteis educado",
+      "uds": "hubieron educado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría educado",
+      "tu": "habrías educado",
+      "ud": "habría educado",
+      "nosotros": "habríamos educado",
+      "vosotros": "habríais educado",
+      "uds": "habrían educado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "eduque",
+      "tu": "eduques",
+      "ud": "eduque",
+      "nosotros": "eduquemos",
+      "vosotros": "eduquéis",
+      "uds": "eduquen"
+    },
+    "imperfecto": {
+      "yo": "educara",
+      "tu": "educaras",
+      "ud": "educara",
+      "nosotros": "educáramos",
+      "vosotros": "educarais",
+      "uds": "educaran"
+    },
+    "futuro": {
+      "yo": "educare",
+      "tu": "educares",
+      "ud": "educare",
+      "nosotros": "educáremos",
+      "vosotros": "educareis",
+      "uds": "educaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya educado",
+      "tu": "hayas educado",
+      "ud": "haya educado",
+      "nosotros": "hayamos educado",
+      "vosotros": "hayáis educado",
+      "uds": "hayan educado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere educado",
+      "tu": "hubieres educado",
+      "ud": "hubiere educado",
+      "nosotros": "hubiéremos educado",
+      "vosotros": "hubiereis educado",
+      "uds": "hubieren educado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera educado",
+      "tu": "hubieras educado",
+      "ud": "hubiera educado",
+      "nosotros": "hubiéramos educado",
+      "vosotros": "hubierais educado",
+      "uds": "hubieran educado"
+    },
+    "imperfectoAlt": {
+      "yo": "educase",
+      "tu": "educases",
+      "ud": "educase",
+      "nosotros": "educásemos",
+      "vosotros": "educaseis",
+      "uds": "educasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese educado",
+      "tu": "hubieses educado",
+      "ud": "hubiese educado",
+      "nosotros": "hubiésemos educado",
+      "vosotros": "hubieseis educado",
+      "uds": "hubiesen educado"
+    }
+  },
+  "afirmativo": {
+    "tu": "educa",
+    "vosotros": "educad",
+    "ud": "eduque",
+    "uds": "eduquen"
+  },
+  "negativo": {
+    "tu": "no eduques",
+    "vosotros": "no eduquéis",
+    "ud": "no eduque",
+    "uds": "no eduquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to educate; to bring up (children)",
+    "gerundio": "educating",
+    "participioPasado": "educated",
+    "indicativo": {
+      "presente": "I educate, am educating",
+      "futuro": "I will educate",
+      "imperfecto": "I was educating, used to educate, educated",
+      "preterito": "I educated",
+      "condicional": "I would educate",
+      "presentePerfecto": "I have educated",
+      "futuroPerfecto": "I will have educated",
+      "pluscuamperfecto": "I had educated",
+      "preteritoAnterior": "I had educated",
+      "condicionalPerfecto": "I would have educated"
+    },
+    "subjuntivo": {
+      "presente": "I educate, am educating",
+      "imperfecto": "I educated, was educating",
+      "futuro": "I will educate",
+      "presentePerfecto": "I have educated, educated",
+      "futuroPerfecto": "I will have educated",
+      "pluscuamperfecto": "I had educated"
+    },
+    "afirmativo": "Educate!",
+    "negativo": "Don't educate!"
+  },
+  "attribution": "Fred Jehle"
+}

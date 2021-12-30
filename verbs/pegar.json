@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "pegar",
+  "gerundio": "pegando",
+  "participioPasado": "pegado",
+  "indicativo": {
+    "presente": {
+      "yo": "pego",
+      "tu": "pegas",
+      "ud": "pega",
+      "nosotros": "pegamos",
+      "vosotros": "pegáis",
+      "uds": "pegan"
+    },
+    "futuro": {
+      "yo": "pegaré",
+      "tu": "pegarás",
+      "ud": "pegará",
+      "nosotros": "pegaremos",
+      "vosotros": "pegaréis",
+      "uds": "pegarán"
+    },
+    "imperfecto": {
+      "yo": "pegaba",
+      "tu": "pegabas",
+      "ud": "pegaba",
+      "nosotros": "pegábamos",
+      "vosotros": "pegabais",
+      "uds": "pegaban"
+    },
+    "preterito": {
+      "yo": "pegué",
+      "tu": "pegaste",
+      "ud": "pegó",
+      "nosotros": "pegamos",
+      "vosotros": "pegasteis",
+      "uds": "pegaron"
+    },
+    "condicional": {
+      "yo": "pegaría",
+      "tu": "pegarías",
+      "ud": "pegaría",
+      "nosotros": "pegaríamos",
+      "vosotros": "pegaríais",
+      "uds": "pegarían"
+    },
+    "presentePerfecto": {
+      "yo": "he pegado",
+      "tu": "has pegado",
+      "ud": "ha pegado",
+      "nosotros": "hemos pegado",
+      "vosotros": "habéis pegado",
+      "uds": "han pegado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré pegado",
+      "tu": "habrás pegado",
+      "ud": "habrá pegado",
+      "nosotros": "habremos pegado",
+      "vosotros": "habréis pegado",
+      "uds": "habrán pegado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había pegado",
+      "tu": "habías pegado",
+      "ud": "había pegado",
+      "nosotros": "habíamos pegado",
+      "vosotros": "habíais pegado",
+      "uds": "habían pegado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube pegado",
+      "tu": "hubiste pegado",
+      "ud": "hubo pegado",
+      "nosotros": "hubimos pegado",
+      "vosotros": "hubisteis pegado",
+      "uds": "hubieron pegado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría pegado",
+      "tu": "habrías pegado",
+      "ud": "habría pegado",
+      "nosotros": "habríamos pegado",
+      "vosotros": "habríais pegado",
+      "uds": "habrían pegado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pegue",
+      "tu": "pegues",
+      "ud": "pegue",
+      "nosotros": "peguemos",
+      "vosotros": "peguéis",
+      "uds": "peguen"
+    },
+    "imperfecto": {
+      "yo": "pegara",
+      "tu": "pegaras",
+      "ud": "pegara",
+      "nosotros": "pegáramos",
+      "vosotros": "pegarais",
+      "uds": "pegaran"
+    },
+    "futuro": {
+      "yo": "pegare",
+      "tu": "pegares",
+      "ud": "pegare",
+      "nosotros": "pegáremos",
+      "vosotros": "pegareis",
+      "uds": "pegaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya pegado",
+      "tu": "hayas pegado",
+      "ud": "haya pegado",
+      "nosotros": "hayamos pegado",
+      "vosotros": "hayáis pegado",
+      "uds": "hayan pegado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere pegado",
+      "tu": "hubieres pegado",
+      "ud": "hubiere pegado",
+      "nosotros": "hubiéremos pegado",
+      "vosotros": "hubiereis pegado",
+      "uds": "hubieren pegado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera pegado",
+      "tu": "hubieras pegado",
+      "ud": "hubiera pegado",
+      "nosotros": "hubiéramos pegado",
+      "vosotros": "hubierais pegado",
+      "uds": "hubieran pegado"
+    },
+    "imperfectoAlt": {
+      "yo": "pegase",
+      "tu": "pegases",
+      "ud": "pegase",
+      "nosotros": "pegásemos",
+      "vosotros": "pegaseis",
+      "uds": "pegasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese pegado",
+      "tu": "hubieses pegado",
+      "ud": "hubiese pegado",
+      "nosotros": "hubiésemos pegado",
+      "vosotros": "hubieseis pegado",
+      "uds": "hubiesen pegado"
+    }
+  },
+  "afirmativo": {
+    "tu": "pega",
+    "vosotros": "pegad",
+    "ud": "pegue",
+    "uds": "peguen"
+  },
+  "negativo": {
+    "tu": "no pegues",
+    "vosotros": "no peguéis",
+    "ud": "no pegue",
+    "uds": "no peguen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to stick, glue, hit",
+    "gerundio": "sticking",
+    "participioPasado": "stuck",
+    "indicativo": {
+      "presente": "I stick, am sticking",
+      "futuro": "I will stick",
+      "imperfecto": "I was sticking, used to stick, stuck",
+      "preterito": "I stuck",
+      "condicional": "I would stick",
+      "presentePerfecto": "I have stuck",
+      "futuroPerfecto": "I will have stuck",
+      "pluscuamperfecto": "I had stuck",
+      "preteritoAnterior": "I had stuck",
+      "condicionalPerfecto": "I would have stuck"
+    },
+    "subjuntivo": {
+      "presente": "I stick, am sticking",
+      "imperfecto": "I stuck, was sticking",
+      "futuro": "I will stick",
+      "presentePerfecto": "I have stuck, stuck",
+      "futuroPerfecto": "I will have stuck",
+      "pluscuamperfecto": "I had stuck"
+    },
+    "afirmativo": "Stick!",
+    "negativo": "Don't stick!"
+  },
+  "attribution": "Fred Jehle"
+}

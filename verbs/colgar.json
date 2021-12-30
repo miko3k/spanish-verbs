@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "colgar",
+  "gerundio": "colgando",
+  "participioPasado": "colgado",
+  "indicativo": {
+    "presente": {
+      "yo": "cuelgo",
+      "tu": "cuelgas",
+      "ud": "cuelga",
+      "nosotros": "colgamos",
+      "vosotros": "colgáis",
+      "uds": "cuelgan"
+    },
+    "futuro": {
+      "yo": "colgaré",
+      "tu": "colgarás",
+      "ud": "colgará",
+      "nosotros": "colgaremos",
+      "vosotros": "colgaréis",
+      "uds": "colgarán"
+    },
+    "imperfecto": {
+      "yo": "colgaba",
+      "tu": "colgabas",
+      "ud": "colgaba",
+      "nosotros": "colgábamos",
+      "vosotros": "colgabais",
+      "uds": "colgaban"
+    },
+    "preterito": {
+      "yo": "colgué",
+      "tu": "colgaste",
+      "ud": "colgó",
+      "nosotros": "colgamos",
+      "vosotros": "colgasteis",
+      "uds": "colgaron"
+    },
+    "condicional": {
+      "yo": "colgaría",
+      "tu": "colgarías",
+      "ud": "colgaría",
+      "nosotros": "colgaríamos",
+      "vosotros": "colgaríais",
+      "uds": "colgarían"
+    },
+    "presentePerfecto": {
+      "yo": "he colgado",
+      "tu": "has colgado",
+      "ud": "ha colgado",
+      "nosotros": "hemos colgado",
+      "vosotros": "habéis colgado",
+      "uds": "han colgado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré colgado",
+      "tu": "habrás colgado",
+      "ud": "habrá colgado",
+      "nosotros": "habremos colgado",
+      "vosotros": "habréis colgado",
+      "uds": "habrán colgado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había colgado",
+      "tu": "habías colgado",
+      "ud": "había colgado",
+      "nosotros": "habíamos colgado",
+      "vosotros": "habíais colgado",
+      "uds": "habían colgado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube colgado",
+      "tu": "hubiste colgado",
+      "ud": "hubo colgado",
+      "nosotros": "hubimos colgado",
+      "vosotros": "hubisteis colgado",
+      "uds": "hubieron colgado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría colgado",
+      "tu": "habrías colgado",
+      "ud": "habría colgado",
+      "nosotros": "habríamos colgado",
+      "vosotros": "habríais colgado",
+      "uds": "habrían colgado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cuelgue",
+      "tu": "cuelgues",
+      "ud": "cuelgue",
+      "nosotros": "colguemos",
+      "vosotros": "colguéis",
+      "uds": "cuelguen"
+    },
+    "imperfecto": {
+      "yo": "colgara",
+      "tu": "colgaras",
+      "ud": "colgara",
+      "nosotros": "colgáramos",
+      "vosotros": "colgarais",
+      "uds": "colgaran"
+    },
+    "futuro": {
+      "yo": "colgare",
+      "tu": "colgares",
+      "ud": "colgare",
+      "nosotros": "colgáremos",
+      "vosotros": "colgareis",
+      "uds": "colgaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya colgado",
+      "tu": "hayas colgado",
+      "ud": "haya colgado",
+      "nosotros": "hayamos colgado",
+      "vosotros": "hayáis colgado",
+      "uds": "hayan colgado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere colgado",
+      "tu": "hubieres colgado",
+      "ud": "hubiere colgado",
+      "nosotros": "hubiéremos colgado",
+      "vosotros": "hubiereis colgado",
+      "uds": "hubieren colgado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera colgado",
+      "tu": "hubieras colgado",
+      "ud": "hubiera colgado",
+      "nosotros": "hubiéramos colgado",
+      "vosotros": "hubierais colgado",
+      "uds": "hubieran colgado"
+    },
+    "imperfectoAlt": {
+      "yo": "colgase",
+      "tu": "colgases",
+      "ud": "colgase",
+      "nosotros": "colgásemos",
+      "vosotros": "colgaseis",
+      "uds": "colgasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese colgado",
+      "tu": "hubieses colgado",
+      "ud": "hubiese colgado",
+      "nosotros": "hubiésemos colgado",
+      "vosotros": "hubieseis colgado",
+      "uds": "hubiesen colgado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cuelga",
+    "vosotros": "colgad",
+    "ud": "cuelgue",
+    "uds": "cuelguen"
+  },
+  "negativo": {
+    "tu": "no cuelgues",
+    "vosotros": "no colguéis",
+    "ud": "no cuelgue",
+    "uds": "no cuelguen"
+  },
+  "english": {
+    "note": "Cambio radical: u > ue cuando se acentúa. Cambio ortográfico: g > gu delante de e. Note: This verb can be used both trasitively and intranstively, for example: Cuelgo la toalla = I hang up the towel; la toalla cuelga allí = the towel is hanging there. For to hang (someone as a form of execution) use ahorcar.",
+    "infinitivo": "to hang, hang up, be hanging, be suspended",
+    "gerundio": "hanging",
+    "participioPasado": "hung",
+    "indicativo": {
+      "presente": "I hang, am hanging",
+      "futuro": "I will hang",
+      "imperfecto": "I was hanging, used to hang, hung",
+      "preterito": "I hung",
+      "condicional": "I would hang",
+      "presentePerfecto": "I have hung",
+      "futuroPerfecto": "I will have hung",
+      "pluscuamperfecto": "I had hung",
+      "preteritoAnterior": "I had hung",
+      "condicionalPerfecto": "I would have hung"
+    },
+    "subjuntivo": {
+      "presente": "I hang, am hanging",
+      "imperfecto": "I hung, was hanging",
+      "futuro": "I will hang",
+      "presentePerfecto": "I have hung, hung",
+      "futuroPerfecto": "I will have hung",
+      "pluscuamperfecto": "I had hung"
+    },
+    "afirmativo": "hang!",
+    "negativo": "Don't hang!"
+  },
+  "attribution": "Fred Jehle"
+}

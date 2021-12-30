@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "vivir",
+  "gerundio": "viviendo",
+  "participioPasado": "vivido",
+  "indicativo": {
+    "presente": {
+      "yo": "vivo",
+      "tu": "vives",
+      "ud": "vive",
+      "nosotros": "vivimos",
+      "vosotros": "vivís",
+      "uds": "viven"
+    },
+    "futuro": {
+      "yo": "viviré",
+      "tu": "vivirás",
+      "ud": "vivirá",
+      "nosotros": "viviremos",
+      "vosotros": "viviréis",
+      "uds": "vivirán"
+    },
+    "imperfecto": {
+      "yo": "vivía",
+      "tu": "vivías",
+      "ud": "vivía",
+      "nosotros": "vivíamos",
+      "vosotros": "vivíais",
+      "uds": "vivían"
+    },
+    "preterito": {
+      "yo": "viví",
+      "tu": "viviste",
+      "ud": "vivió",
+      "nosotros": "vivimos",
+      "vosotros": "vivisteis",
+      "uds": "vivieron"
+    },
+    "condicional": {
+      "yo": "viviría",
+      "tu": "vivirías",
+      "ud": "viviría",
+      "nosotros": "viviríamos",
+      "vosotros": "viviríais",
+      "uds": "vivirían"
+    },
+    "presentePerfecto": {
+      "yo": "he vivido",
+      "tu": "has vivido",
+      "ud": "ha vivido",
+      "nosotros": "hemos vivido",
+      "vosotros": "habéis vivido",
+      "uds": "han vivido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré vivido",
+      "tu": "habrás vivido",
+      "ud": "habrá vivido",
+      "nosotros": "habremos vivido",
+      "vosotros": "habréis vivido",
+      "uds": "habrán vivido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había vivido",
+      "tu": "habías vivido",
+      "ud": "había vivido",
+      "nosotros": "habíamos vivido",
+      "vosotros": "habíais vivido",
+      "uds": "habían vivido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube vivido",
+      "tu": "hubiste vivido",
+      "ud": "hubo vivido",
+      "nosotros": "hubimos vivido",
+      "vosotros": "hubisteis vivido",
+      "uds": "hubieron vivido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría vivido",
+      "tu": "habrías vivido",
+      "ud": "habría vivido",
+      "nosotros": "habríamos vivido",
+      "vosotros": "habríais vivido",
+      "uds": "habrían vivido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "viva",
+      "tu": "vivas",
+      "ud": "viva",
+      "nosotros": "vivamos",
+      "vosotros": "viváis",
+      "uds": "vivan"
+    },
+    "imperfecto": {
+      "yo": "viviera",
+      "tu": "vivieras",
+      "ud": "viviera",
+      "nosotros": "viviéramos",
+      "vosotros": "vivierais",
+      "uds": "vivieran"
+    },
+    "futuro": {
+      "yo": "viviere",
+      "tu": "vivieres",
+      "ud": "viviere",
+      "nosotros": "viviéremos",
+      "vosotros": "viviereis",
+      "uds": "vivieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya vivido",
+      "tu": "hayas vivido",
+      "ud": "haya vivido",
+      "nosotros": "hayamos vivido",
+      "vosotros": "hayáis vivido",
+      "uds": "hayan vivido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere vivido",
+      "tu": "hubieres vivido",
+      "ud": "hubiere vivido",
+      "nosotros": "hubiéremos vivido",
+      "vosotros": "hubiereis vivido",
+      "uds": "hubieren vivido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera vivido",
+      "tu": "hubieras vivido",
+      "ud": "hubiera vivido",
+      "nosotros": "hubiéramos vivido",
+      "vosotros": "hubierais vivido",
+      "uds": "hubieran vivido"
+    },
+    "imperfectoAlt": {
+      "yo": "viviese",
+      "tu": "vivieses",
+      "ud": "viviese",
+      "nosotros": "viviésemos",
+      "vosotros": "vivieseis",
+      "uds": "viviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese vivido",
+      "tu": "hubieses vivido",
+      "ud": "hubiese vivido",
+      "nosotros": "hubiésemos vivido",
+      "vosotros": "hubieseis vivido",
+      "uds": "hubiesen vivido"
+    }
+  },
+  "afirmativo": {
+    "tu": "vive",
+    "vosotros": "vivid",
+    "ud": "viva",
+    "uds": "vivan"
+  },
+  "negativo": {
+    "tu": "no vivas",
+    "vosotros": "no viváis",
+    "ud": "no viva",
+    "uds": "no vivan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to live",
+    "gerundio": "living",
+    "participioPasado": "lived",
+    "indicativo": {
+      "presente": "I live, am living",
+      "futuro": "I will live",
+      "imperfecto": "I was living, used to live, lived",
+      "preterito": "I lived",
+      "condicional": "I would live",
+      "presentePerfecto": "I have lived",
+      "futuroPerfecto": "I will have lived",
+      "pluscuamperfecto": "I had lived",
+      "preteritoAnterior": "I had lived",
+      "condicionalPerfecto": "I would have lived"
+    },
+    "subjuntivo": {
+      "presente": "I live, am living",
+      "imperfecto": "I lived, was living",
+      "futuro": "I will live",
+      "presentePerfecto": "I have lived, lived",
+      "futuroPerfecto": "I will have lived",
+      "pluscuamperfecto": "I had lived"
+    },
+    "afirmativo": "Live!",
+    "negativo": "Don't live!"
+  },
+  "attribution": "Fred Jehle"
+}

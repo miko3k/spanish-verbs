@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "amenazar",
+  "gerundio": "amenazando",
+  "participioPasado": "amenazado",
+  "indicativo": {
+    "presente": {
+      "yo": "amenazo",
+      "tu": "amenazas",
+      "ud": "amenaza",
+      "nosotros": "amenazamos",
+      "vosotros": "amenazáis",
+      "uds": "amenazan"
+    },
+    "futuro": {
+      "yo": "amenazaré",
+      "tu": "amenazarás",
+      "ud": "amenazará",
+      "nosotros": "amenazaremos",
+      "vosotros": "amenazaréis",
+      "uds": "amenazarán"
+    },
+    "imperfecto": {
+      "yo": "amenazaba",
+      "tu": "amenazabas",
+      "ud": "amenazaba",
+      "nosotros": "amenazábamos",
+      "vosotros": "amenazabais",
+      "uds": "amenazaban"
+    },
+    "preterito": {
+      "yo": "amenacé",
+      "tu": "amenazaste",
+      "ud": "amenazó",
+      "nosotros": "amenazamos",
+      "vosotros": "amenazasteis",
+      "uds": "amenazaron"
+    },
+    "condicional": {
+      "yo": "amenazaría",
+      "tu": "amenazarías",
+      "ud": "amenazaría",
+      "nosotros": "amenazaríamos",
+      "vosotros": "amenazaríais",
+      "uds": "amenazarían"
+    },
+    "presentePerfecto": {
+      "yo": "he amenazado",
+      "tu": "has amenazado",
+      "ud": "ha amenazado",
+      "nosotros": "hemos amenazado",
+      "vosotros": "habéis amenazado",
+      "uds": "han amenazado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré amenazado",
+      "tu": "habrás amenazado",
+      "ud": "habrá amenazado",
+      "nosotros": "habremos amenazado",
+      "vosotros": "habréis amenazado",
+      "uds": "habrán amenazado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había amenazado",
+      "tu": "habías amenazado",
+      "ud": "había amenazado",
+      "nosotros": "habíamos amenazado",
+      "vosotros": "habíais amenazado",
+      "uds": "habían amenazado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube amenazado",
+      "tu": "hubiste amenazado",
+      "ud": "hubo amenazado",
+      "nosotros": "hubimos amenazado",
+      "vosotros": "hubisteis amenazado",
+      "uds": "hubieron amenazado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría amenazado",
+      "tu": "habrías amenazado",
+      "ud": "habría amenazado",
+      "nosotros": "habríamos amenazado",
+      "vosotros": "habríais amenazado",
+      "uds": "habrían amenazado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "amenace",
+      "tu": "amenaces",
+      "ud": "amenace",
+      "nosotros": "amenacemos",
+      "vosotros": "amenacéis",
+      "uds": "amenacen"
+    },
+    "imperfecto": {
+      "yo": "amenazara",
+      "tu": "amenazaras",
+      "ud": "amenazara",
+      "nosotros": "amenazáramos",
+      "vosotros": "amenazarais",
+      "uds": "amenazaran"
+    },
+    "futuro": {
+      "yo": "amenazare",
+      "tu": "amenazares",
+      "ud": "amenazare",
+      "nosotros": "amenazáremos",
+      "vosotros": "amenazareis",
+      "uds": "amenazaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya amenazado",
+      "tu": "hayas amenazado",
+      "ud": "haya amenazado",
+      "nosotros": "hayamos amenazado",
+      "vosotros": "hayáis amenazado",
+      "uds": "hayan amenazado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere amenazado",
+      "tu": "hubieres amenazado",
+      "ud": "hubiere amenazado",
+      "nosotros": "hubiéremos amenazado",
+      "vosotros": "hubiereis amenazado",
+      "uds": "hubieren amenazado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera amenazado",
+      "tu": "hubieras amenazado",
+      "ud": "hubiera amenazado",
+      "nosotros": "hubiéramos amenazado",
+      "vosotros": "hubierais amenazado",
+      "uds": "hubieran amenazado"
+    },
+    "imperfectoAlt": {
+      "yo": "amenazase",
+      "tu": "amenazases",
+      "ud": "amenazase",
+      "nosotros": "amenazásemos",
+      "vosotros": "amenazaseis",
+      "uds": "amenazasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese amenazado",
+      "tu": "hubieses amenazado",
+      "ud": "hubiese amenazado",
+      "nosotros": "hubiésemos amenazado",
+      "vosotros": "hubieseis amenazado",
+      "uds": "hubiesen amenazado"
+    }
+  },
+  "afirmativo": {
+    "tu": "amenaza",
+    "vosotros": "amenazad",
+    "ud": "amenace",
+    "uds": "amenacen"
+  },
+  "negativo": {
+    "tu": "no amenaces",
+    "vosotros": "no amenacéis",
+    "ud": "no amenace",
+    "uds": "no amenacen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to threaten, menace",
+    "gerundio": "threatening",
+    "participioPasado": "threatened",
+    "indicativo": {
+      "presente": "I threaten, am threatening",
+      "futuro": "I will threaten",
+      "imperfecto": "I was threatening, used to threaten, threatened",
+      "preterito": "I threatened",
+      "condicional": "I would threaten",
+      "presentePerfecto": "I have threatened",
+      "futuroPerfecto": "I will have threatened",
+      "pluscuamperfecto": "I had threatened",
+      "preteritoAnterior": "I had threatened",
+      "condicionalPerfecto": "I would have threatened"
+    },
+    "subjuntivo": {
+      "presente": "I threaten, am threatening",
+      "imperfecto": "I threatened, was threatening",
+      "futuro": "I will threaten",
+      "presentePerfecto": "I have threatened, threatened",
+      "futuroPerfecto": "I will have threatened",
+      "pluscuamperfecto": "I had threatened"
+    },
+    "afirmativo": "Threaten!",
+    "negativo": "Don't threaten!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "entrevistar",
+  "gerundio": "entrevistando",
+  "participioPasado": "entrevistado",
+  "indicativo": {
+    "presente": {
+      "yo": "entrevisto",
+      "tu": "entrevistas",
+      "ud": "entrevista",
+      "nosotros": "entrevistamos",
+      "vosotros": "entrevistáis",
+      "uds": "entrevistan"
+    },
+    "futuro": {
+      "yo": "entrevistaré",
+      "tu": "entrevistarás",
+      "ud": "entrevistará",
+      "nosotros": "entrevistaremos",
+      "vosotros": "entrevistaréis",
+      "uds": "entrevistarán"
+    },
+    "imperfecto": {
+      "yo": "entrevistaba",
+      "tu": "entrevistabas",
+      "ud": "entrevistaba",
+      "nosotros": "entrevistábamos",
+      "vosotros": "entrevistabais",
+      "uds": "entrevistaban"
+    },
+    "preterito": {
+      "yo": "entrevisté",
+      "tu": "entrevistaste",
+      "ud": "entrevistó",
+      "nosotros": "entrevistamos",
+      "vosotros": "entrevistasteis",
+      "uds": "entrevistaron"
+    },
+    "condicional": {
+      "yo": "entrevistaría",
+      "tu": "entrevistarías",
+      "ud": "entrevistaría",
+      "nosotros": "entrevistaríamos",
+      "vosotros": "entrevistaríais",
+      "uds": "entrevistarían"
+    },
+    "presentePerfecto": {
+      "yo": "he entrevistado",
+      "tu": "has entrevistado",
+      "ud": "ha entrevistado",
+      "nosotros": "hemos entrevistado",
+      "vosotros": "habéis entrevistado",
+      "uds": "han entrevistado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré entrevistado",
+      "tu": "habrás entrevistado",
+      "ud": "habrá entrevistado",
+      "nosotros": "habremos entrevistado",
+      "vosotros": "habréis entrevistado",
+      "uds": "habrán entrevistado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había entrevistado",
+      "tu": "habías entrevistado",
+      "ud": "había entrevistado",
+      "nosotros": "habíamos entrevistado",
+      "vosotros": "habíais entrevistado",
+      "uds": "habían entrevistado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube entrevistado",
+      "tu": "hubiste entrevistado",
+      "ud": "hubo entrevistado",
+      "nosotros": "hubimos entrevistado",
+      "vosotros": "hubisteis entrevistado",
+      "uds": "hubieron entrevistado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría entrevistado",
+      "tu": "habrías entrevistado",
+      "ud": "habría entrevistado",
+      "nosotros": "habríamos entrevistado",
+      "vosotros": "habríais entrevistado",
+      "uds": "habrían entrevistado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "entreviste",
+      "tu": "entrevistes",
+      "ud": "entreviste",
+      "nosotros": "entrevistemos",
+      "vosotros": "entrevistéis",
+      "uds": "entrevisten"
+    },
+    "imperfecto": {
+      "yo": "entrevistara",
+      "tu": "entrevistaras",
+      "ud": "entrevistara",
+      "nosotros": "entrevistáramos",
+      "vosotros": "entrevistarais",
+      "uds": "entrevistaran"
+    },
+    "futuro": {
+      "yo": "entrevistare",
+      "tu": "entrevistares",
+      "ud": "entrevistare",
+      "nosotros": "entrevistáremos",
+      "vosotros": "entrevistareis",
+      "uds": "entrevistaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya entrevistado",
+      "tu": "hayas entrevistado",
+      "ud": "haya entrevistado",
+      "nosotros": "hayamos entrevistado",
+      "vosotros": "hayáis entrevistado",
+      "uds": "hayan entrevistado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere entrevistado",
+      "tu": "hubieres entrevistado",
+      "ud": "hubiere entrevistado",
+      "nosotros": "hubiéremos entrevistado",
+      "vosotros": "hubiereis entrevistado",
+      "uds": "hubieren entrevistado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera entrevistado",
+      "tu": "hubieras entrevistado",
+      "ud": "hubiera entrevistado",
+      "nosotros": "hubiéramos entrevistado",
+      "vosotros": "hubierais entrevistado",
+      "uds": "hubieran entrevistado"
+    },
+    "imperfectoAlt": {
+      "yo": "entrevistase",
+      "tu": "entrevistases",
+      "ud": "entrevistase",
+      "nosotros": "entrevistásemos",
+      "vosotros": "entrevistaseis",
+      "uds": "entrevistasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese entrevistado",
+      "tu": "hubieses entrevistado",
+      "ud": "hubiese entrevistado",
+      "nosotros": "hubiésemos entrevistado",
+      "vosotros": "hubieseis entrevistado",
+      "uds": "hubiesen entrevistado"
+    }
+  },
+  "afirmativo": {
+    "tu": "entrevista",
+    "vosotros": "entrevistad",
+    "ud": "entreviste",
+    "uds": "entrevisten"
+  },
+  "negativo": {
+    "tu": "no entrevistes",
+    "vosotros": "no entrevistéis",
+    "ud": "no entreviste",
+    "uds": "no entrevisten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to interview",
+    "gerundio": "interviewing",
+    "participioPasado": "interviewed",
+    "indicativo": {
+      "presente": "I interview, am interviewing",
+      "futuro": "I will interview",
+      "imperfecto": "I was interviewing, used to interview, interviewed",
+      "preterito": "I interviewed",
+      "condicional": "I would interview",
+      "presentePerfecto": "I have interviewed",
+      "futuroPerfecto": "I will have interviewed",
+      "pluscuamperfecto": "I had interviewed",
+      "preteritoAnterior": "I had interviewed",
+      "condicionalPerfecto": "I would have interviewed"
+    },
+    "subjuntivo": {
+      "presente": "I interview, am interviewing",
+      "imperfecto": "I interviewed, was interviewing",
+      "futuro": "I will interview",
+      "presentePerfecto": "I have interviewed, interviewed",
+      "futuroPerfecto": "I will have interviewed",
+      "pluscuamperfecto": "I had interviewed"
+    },
+    "afirmativo": "Interview!",
+    "negativo": "Don't interview!"
+  },
+  "attribution": "Fred Jehle"
+}

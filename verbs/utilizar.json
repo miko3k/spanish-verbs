@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "utilizar",
+  "gerundio": "utilizando",
+  "participioPasado": "utilizado",
+  "indicativo": {
+    "presente": {
+      "yo": "utilizo",
+      "tu": "utilizas",
+      "ud": "utiliza",
+      "nosotros": "utilizamos",
+      "vosotros": "utilizáis",
+      "uds": "utilizan"
+    },
+    "futuro": {
+      "yo": "utilizaré",
+      "tu": "utilizarás",
+      "ud": "utilizará",
+      "nosotros": "utilizaremos",
+      "vosotros": "utilizaréis",
+      "uds": "utilizarán"
+    },
+    "imperfecto": {
+      "yo": "utilizaba",
+      "tu": "utilizabas",
+      "ud": "utilizaba",
+      "nosotros": "utilizábamos",
+      "vosotros": "utilizabais",
+      "uds": "utilizaban"
+    },
+    "preterito": {
+      "yo": "utilicé",
+      "tu": "utilizaste",
+      "ud": "utilizó",
+      "nosotros": "utilizamos",
+      "vosotros": "utilizasteis",
+      "uds": "utilizaron"
+    },
+    "condicional": {
+      "yo": "utilizaría",
+      "tu": "utilizarías",
+      "ud": "utilizaría",
+      "nosotros": "utilizaríamos",
+      "vosotros": "utilizaríais",
+      "uds": "utilizarían"
+    },
+    "presentePerfecto": {
+      "yo": "he utilizado",
+      "tu": "has utilizado",
+      "ud": "ha utilizado",
+      "nosotros": "hemos utilizado",
+      "vosotros": "habéis utilizado",
+      "uds": "han utilizado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré utilizado",
+      "tu": "habrás utilizado",
+      "ud": "habrá utilizado",
+      "nosotros": "habremos utilizado",
+      "vosotros": "habréis utilizado",
+      "uds": "habrán utilizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había utilizado",
+      "tu": "habías utilizado",
+      "ud": "había utilizado",
+      "nosotros": "habíamos utilizado",
+      "vosotros": "habíais utilizado",
+      "uds": "habían utilizado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube utilizado",
+      "tu": "hubiste utilizado",
+      "ud": "hubo utilizado",
+      "nosotros": "hubimos utilizado",
+      "vosotros": "hubisteis utilizado",
+      "uds": "hubieron utilizado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría utilizado",
+      "tu": "habrías utilizado",
+      "ud": "habría utilizado",
+      "nosotros": "habríamos utilizado",
+      "vosotros": "habríais utilizado",
+      "uds": "habrían utilizado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "utilice",
+      "tu": "utilices",
+      "ud": "utilice",
+      "nosotros": "utilicemos",
+      "vosotros": "utilicéis",
+      "uds": "utilicen"
+    },
+    "imperfecto": {
+      "yo": "utilizara",
+      "tu": "utilizaras",
+      "ud": "utilizara",
+      "nosotros": "utilizáramos",
+      "vosotros": "utilizarais",
+      "uds": "utilizaran"
+    },
+    "futuro": {
+      "yo": "utilizare",
+      "tu": "utilizares",
+      "ud": "utilizare",
+      "nosotros": "utilizáremos",
+      "vosotros": "utilizareis",
+      "uds": "utilizaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya utilizado",
+      "tu": "hayas utilizado",
+      "ud": "haya utilizado",
+      "nosotros": "hayamos utilizado",
+      "vosotros": "hayáis utilizado",
+      "uds": "hayan utilizado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere utilizado",
+      "tu": "hubieres utilizado",
+      "ud": "hubiere utilizado",
+      "nosotros": "hubiéremos utilizado",
+      "vosotros": "hubiereis utilizado",
+      "uds": "hubieren utilizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera utilizado",
+      "tu": "hubieras utilizado",
+      "ud": "hubiera utilizado",
+      "nosotros": "hubiéramos utilizado",
+      "vosotros": "hubierais utilizado",
+      "uds": "hubieran utilizado"
+    },
+    "imperfectoAlt": {
+      "yo": "utilizase",
+      "tu": "utilizases",
+      "ud": "utilizase",
+      "nosotros": "utilizásemos",
+      "vosotros": "utilizaseis",
+      "uds": "utilizasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese utilizado",
+      "tu": "hubieses utilizado",
+      "ud": "hubiese utilizado",
+      "nosotros": "hubiésemos utilizado",
+      "vosotros": "hubieseis utilizado",
+      "uds": "hubiesen utilizado"
+    }
+  },
+  "afirmativo": {
+    "tu": "utiliza",
+    "vosotros": "utilizad",
+    "ud": "utilice",
+    "uds": "utilicen"
+  },
+  "negativo": {
+    "tu": "no utilices",
+    "vosotros": "no utilicéis",
+    "ud": "no utilice",
+    "uds": "no utilicen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to use, utilize",
+    "gerundio": "using",
+    "participioPasado": "used",
+    "indicativo": {
+      "presente": "I use, am using",
+      "futuro": "I will use",
+      "imperfecto": "I was using, used to use, used",
+      "preterito": "I used",
+      "condicional": "I would use",
+      "presentePerfecto": "I have used",
+      "futuroPerfecto": "I will have used",
+      "pluscuamperfecto": "I had used",
+      "preteritoAnterior": "I had used",
+      "condicionalPerfecto": "I would have used"
+    },
+    "subjuntivo": {
+      "presente": "I use, am using",
+      "imperfecto": "I used, was using",
+      "futuro": "I will use",
+      "presentePerfecto": "I have used, used",
+      "futuroPerfecto": "I will have used",
+      "pluscuamperfecto": "I had used"
+    },
+    "afirmativo": "Use!",
+    "negativo": "Don't use!"
+  },
+  "attribution": "Fred Jehle"
+}

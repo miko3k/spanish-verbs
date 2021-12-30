@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "caminar",
+  "gerundio": "caminando",
+  "participioPasado": "caminado",
+  "indicativo": {
+    "presente": {
+      "yo": "camino",
+      "tu": "caminas",
+      "ud": "camina",
+      "nosotros": "caminamos",
+      "vosotros": "camináis",
+      "uds": "caminan"
+    },
+    "futuro": {
+      "yo": "caminaré",
+      "tu": "caminarás",
+      "ud": "caminará",
+      "nosotros": "caminaremos",
+      "vosotros": "caminaréis",
+      "uds": "caminarán"
+    },
+    "imperfecto": {
+      "yo": "caminaba",
+      "tu": "caminabas",
+      "ud": "caminaba",
+      "nosotros": "caminábamos",
+      "vosotros": "caminabais",
+      "uds": "caminaban"
+    },
+    "preterito": {
+      "yo": "caminé",
+      "tu": "caminaste",
+      "ud": "caminó",
+      "nosotros": "caminamos",
+      "vosotros": "caminasteis",
+      "uds": "caminaron"
+    },
+    "condicional": {
+      "yo": "caminaría",
+      "tu": "caminarías",
+      "ud": "caminaría",
+      "nosotros": "caminaríamos",
+      "vosotros": "caminaríais",
+      "uds": "caminarían"
+    },
+    "presentePerfecto": {
+      "yo": "he caminado",
+      "tu": "has caminado",
+      "ud": "ha caminado",
+      "nosotros": "hemos caminado",
+      "vosotros": "habéis caminado",
+      "uds": "han caminado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré caminado",
+      "tu": "habrás caminado",
+      "ud": "habrá caminado",
+      "nosotros": "habremos caminado",
+      "vosotros": "habréis caminado",
+      "uds": "habrán caminado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había caminado",
+      "tu": "habías caminado",
+      "ud": "había caminado",
+      "nosotros": "habíamos caminado",
+      "vosotros": "habíais caminado",
+      "uds": "habían caminado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube caminado",
+      "tu": "hubiste caminado",
+      "ud": "hubo caminado",
+      "nosotros": "hubimos caminado",
+      "vosotros": "hubisteis caminado",
+      "uds": "hubieron caminado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría caminado",
+      "tu": "habrías caminado",
+      "ud": "habría caminado",
+      "nosotros": "habríamos caminado",
+      "vosotros": "habríais caminado",
+      "uds": "habrían caminado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "camine",
+      "tu": "camines",
+      "ud": "camine",
+      "nosotros": "caminemos",
+      "vosotros": "caminéis",
+      "uds": "caminen"
+    },
+    "imperfecto": {
+      "yo": "caminara",
+      "tu": "caminaras",
+      "ud": "caminara",
+      "nosotros": "camináramos",
+      "vosotros": "caminarais",
+      "uds": "caminaran"
+    },
+    "futuro": {
+      "yo": "caminare",
+      "tu": "caminares",
+      "ud": "caminare",
+      "nosotros": "camináremos",
+      "vosotros": "caminareis",
+      "uds": "caminaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya caminado",
+      "tu": "hayas caminado",
+      "ud": "haya caminado",
+      "nosotros": "hayamos caminado",
+      "vosotros": "hayáis caminado",
+      "uds": "hayan caminado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere caminado",
+      "tu": "hubieres caminado",
+      "ud": "hubiere caminado",
+      "nosotros": "hubiéremos caminado",
+      "vosotros": "hubiereis caminado",
+      "uds": "hubieren caminado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera caminado",
+      "tu": "hubieras caminado",
+      "ud": "hubiera caminado",
+      "nosotros": "hubiéramos caminado",
+      "vosotros": "hubierais caminado",
+      "uds": "hubieran caminado"
+    },
+    "imperfectoAlt": {
+      "yo": "caminase",
+      "tu": "caminases",
+      "ud": "caminase",
+      "nosotros": "caminásemos",
+      "vosotros": "caminaseis",
+      "uds": "caminasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese caminado",
+      "tu": "hubieses caminado",
+      "ud": "hubiese caminado",
+      "nosotros": "hubiésemos caminado",
+      "vosotros": "hubieseis caminado",
+      "uds": "hubiesen caminado"
+    }
+  },
+  "afirmativo": {
+    "tu": "camina",
+    "vosotros": "caminad",
+    "ud": "camine",
+    "uds": "caminen"
+  },
+  "negativo": {
+    "tu": "no camines",
+    "vosotros": "no caminéis",
+    "ud": "no camine",
+    "uds": "no caminen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to walk, go",
+    "gerundio": "walking",
+    "participioPasado": "walked",
+    "indicativo": {
+      "presente": "I walk, am walking",
+      "futuro": "I will walk",
+      "imperfecto": "I was walking, used to walk, walked",
+      "preterito": "I walked",
+      "condicional": "I would walk",
+      "presentePerfecto": "I have walked",
+      "futuroPerfecto": "I will have walked",
+      "pluscuamperfecto": "I had walked",
+      "preteritoAnterior": "I had walked",
+      "condicionalPerfecto": "I would have walked"
+    },
+    "subjuntivo": {
+      "presente": "I walk, am walking",
+      "imperfecto": "I walked, was walking",
+      "futuro": "I will walk",
+      "presentePerfecto": "I have walked, walked",
+      "futuroPerfecto": "I will have walked",
+      "pluscuamperfecto": "I had walked"
+    },
+    "afirmativo": "Walk!",
+    "negativo": "Don't walk!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "quedarse",
+  "gerundio": "quedándose",
+  "participioPasado": "quedado",
+  "indicativo": {
+    "presente": {
+      "yo": "me quedo",
+      "tu": "te quedas",
+      "ud": "se queda",
+      "nosotros": "nos quedamos",
+      "vosotros": "os quedáis",
+      "uds": "se quedan"
+    },
+    "futuro": {
+      "yo": "me quedaré",
+      "tu": "te quedarás",
+      "ud": "se quedará",
+      "nosotros": "nos quedaremos",
+      "vosotros": "os quedaréis",
+      "uds": "se quedarán"
+    },
+    "imperfecto": {
+      "yo": "me quedaba",
+      "tu": "te quedabas",
+      "ud": "se quedaba",
+      "nosotros": "nos quedábamos",
+      "vosotros": "os quedabais",
+      "uds": "se quedaban"
+    },
+    "preterito": {
+      "yo": "me quedé",
+      "tu": "te quedaste",
+      "ud": "se quedó",
+      "nosotros": "nos quedamos",
+      "vosotros": "os quedasteis",
+      "uds": "se quedaron"
+    },
+    "condicional": {
+      "yo": "me quedaría",
+      "tu": "te quedarías",
+      "ud": "se quedaría",
+      "nosotros": "nos quedaríamos",
+      "vosotros": "os quedaríais",
+      "uds": "se quedarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he quedado",
+      "tu": "te has quedado",
+      "ud": "se ha quedado",
+      "nosotros": "nos hemos quedado",
+      "vosotros": "os habéis quedado",
+      "uds": "se han quedado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré quedado",
+      "tu": "te habrás quedado",
+      "ud": "se habrá quedado",
+      "nosotros": "nos habremos quedado",
+      "vosotros": "os habréis quedado",
+      "uds": "se habrán quedado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había quedado",
+      "tu": "te habías quedado",
+      "ud": "se había quedado",
+      "nosotros": "nos habíamos quedado",
+      "vosotros": "os habíais quedado",
+      "uds": "se habían quedado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube quedado",
+      "tu": "te hubiste quedado",
+      "ud": "se hubo quedado",
+      "nosotros": "nos hubimos quedado",
+      "vosotros": "os hubisteis quedado",
+      "uds": "se hubieron quedado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría quedado",
+      "tu": "te habrías quedado",
+      "ud": "se habría quedado",
+      "nosotros": "nos habríamos quedado",
+      "vosotros": "os habríais quedado",
+      "uds": "se habrían quedado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me quede",
+      "tu": "te quedes",
+      "ud": "se quede",
+      "nosotros": "nos quedemos",
+      "vosotros": "os quedéis",
+      "uds": "se queden"
+    },
+    "imperfecto": {
+      "yo": "me quedara",
+      "tu": "te quedaras",
+      "ud": "se quedara",
+      "nosotros": "nos quedáramos",
+      "vosotros": "os quedarais",
+      "uds": "se quedaran"
+    },
+    "futuro": {
+      "yo": "me quedare",
+      "tu": "te quedares",
+      "ud": "se quedare",
+      "nosotros": "nos quedáremos",
+      "vosotros": "os quedareis",
+      "uds": "se quedaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya quedado",
+      "tu": "te hayas quedado",
+      "ud": "se haya quedado",
+      "nosotros": "nos hayamos quedado",
+      "vosotros": "os hayáis quedado",
+      "uds": "se hayan quedado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere quedado",
+      "tu": "te hubieres quedado",
+      "ud": "se hubiere quedado",
+      "nosotros": "nos hubiéremos quedado",
+      "vosotros": "os hubiereis quedado",
+      "uds": "se hubieren quedado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera quedado",
+      "tu": "te hubieras quedado",
+      "ud": "se hubiera quedado",
+      "nosotros": "nos hubiéramos quedado",
+      "vosotros": "os hubierais quedado",
+      "uds": "se hubieran quedado"
+    },
+    "imperfectoAlt": {
+      "yo": "me quedase",
+      "tu": "te quedases",
+      "ud": "se quedase",
+      "nosotros": "nos quedásemos",
+      "vosotros": "os quedaseis",
+      "uds": "se quedasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese quedado",
+      "tu": "te hubieses quedado",
+      "ud": "se hubiese quedado",
+      "nosotros": "nos hubiésemos quedado",
+      "vosotros": "os hubieseis quedado",
+      "uds": "se hubiesen quedado"
+    }
+  },
+  "afirmativo": {
+    "tu": "quédate",
+    "vosotros": "quedaos",
+    "ud": "quédese",
+    "uds": "quédense"
+  },
+  "negativo": {
+    "tu": "no te quedes",
+    "vosotros": "no os quedéis",
+    "ud": "no se quede",
+    "uds": "no se queden"
+  },
+  "english": {
+    "note": "Note: Quedarse can also mean to stay in the sense of stay at a hotel. Quedarse normally means to stay or stay/remain behind intentionally; in contrast, the nonreflexive form quedar typically means to stay in the sense of to be left.",
+    "infinitivo": "to stay (behind), remain (behind)",
+    "gerundio": "staying",
+    "participioPasado": "stayed",
+    "indicativo": {
+      "presente": "I stay, am staying",
+      "futuro": "I will stay",
+      "imperfecto": "I was staying, used to stay, stayed",
+      "preterito": "I stayed",
+      "condicional": "I would stay",
+      "presentePerfecto": "I have stayed",
+      "futuroPerfecto": "I will have stayed",
+      "pluscuamperfecto": "I had stayed",
+      "preteritoAnterior": "I had stayed",
+      "condicionalPerfecto": "I would have stayed"
+    },
+    "subjuntivo": {
+      "presente": "I stay, am staying",
+      "imperfecto": "I stayed, was staying",
+      "futuro": "I will stay",
+      "presentePerfecto": "I have stayed, stayed",
+      "futuroPerfecto": "I will have stayed",
+      "pluscuamperfecto": "I had stayed"
+    },
+    "afirmativo": "Stay!",
+    "negativo": "Don't stay!"
+  },
+  "attribution": "Fred Jehle"
+}

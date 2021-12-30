@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "ilustrar",
+  "gerundio": "ilustrando",
+  "participioPasado": "ilustrado",
+  "indicativo": {
+    "presente": {
+      "yo": "ilustro",
+      "tu": "ilustras",
+      "ud": "ilustra",
+      "nosotros": "ilustramos",
+      "vosotros": "ilustráis",
+      "uds": "ilustran"
+    },
+    "futuro": {
+      "yo": "ilustraré",
+      "tu": "ilustrarás",
+      "ud": "ilustrará",
+      "nosotros": "ilustraremos",
+      "vosotros": "ilustraréis",
+      "uds": "ilustrarán"
+    },
+    "imperfecto": {
+      "yo": "ilustraba",
+      "tu": "ilustrabas",
+      "ud": "ilustraba",
+      "nosotros": "ilustrábamos",
+      "vosotros": "ilustrabais",
+      "uds": "ilustraban"
+    },
+    "preterito": {
+      "yo": "ilustré",
+      "tu": "ilustraste",
+      "ud": "ilustró",
+      "nosotros": "ilustramos",
+      "vosotros": "ilustrasteis",
+      "uds": "ilustraron"
+    },
+    "condicional": {
+      "yo": "ilustraría",
+      "tu": "ilustrarías",
+      "ud": "ilustraría",
+      "nosotros": "ilustraríamos",
+      "vosotros": "ilustraríais",
+      "uds": "ilustrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he ilustrado",
+      "tu": "has ilustrado",
+      "ud": "ha ilustrado",
+      "nosotros": "hemos ilustrado",
+      "vosotros": "habéis ilustrado",
+      "uds": "han ilustrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ilustrado",
+      "tu": "habrás ilustrado",
+      "ud": "habrá ilustrado",
+      "nosotros": "habremos ilustrado",
+      "vosotros": "habréis ilustrado",
+      "uds": "habrán ilustrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ilustrado",
+      "tu": "habías ilustrado",
+      "ud": "había ilustrado",
+      "nosotros": "habíamos ilustrado",
+      "vosotros": "habíais ilustrado",
+      "uds": "habían ilustrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ilustrado",
+      "tu": "hubiste ilustrado",
+      "ud": "hubo ilustrado",
+      "nosotros": "hubimos ilustrado",
+      "vosotros": "hubisteis ilustrado",
+      "uds": "hubieron ilustrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ilustrado",
+      "tu": "habrías ilustrado",
+      "ud": "habría ilustrado",
+      "nosotros": "habríamos ilustrado",
+      "vosotros": "habríais ilustrado",
+      "uds": "habrían ilustrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ilustre",
+      "tu": "ilustres",
+      "ud": "ilustre",
+      "nosotros": "ilustremos",
+      "vosotros": "ilustréis",
+      "uds": "ilustren"
+    },
+    "imperfecto": {
+      "yo": "ilustrara",
+      "tu": "ilustraras",
+      "ud": "ilustrara",
+      "nosotros": "ilustráramos",
+      "vosotros": "ilustrarais",
+      "uds": "ilustraran"
+    },
+    "futuro": {
+      "yo": "ilustrare",
+      "tu": "ilustrares",
+      "ud": "ilustrare",
+      "nosotros": "ilustráremos",
+      "vosotros": "ilustrareis",
+      "uds": "ilustraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ilustrado",
+      "tu": "hayas ilustrado",
+      "ud": "haya ilustrado",
+      "nosotros": "hayamos ilustrado",
+      "vosotros": "hayáis ilustrado",
+      "uds": "hayan ilustrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ilustrado",
+      "tu": "hubieres ilustrado",
+      "ud": "hubiere ilustrado",
+      "nosotros": "hubiéremos ilustrado",
+      "vosotros": "hubiereis ilustrado",
+      "uds": "hubieren ilustrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ilustrado",
+      "tu": "hubieras ilustrado",
+      "ud": "hubiera ilustrado",
+      "nosotros": "hubiéramos ilustrado",
+      "vosotros": "hubierais ilustrado",
+      "uds": "hubieran ilustrado"
+    },
+    "imperfectoAlt": {
+      "yo": "ilustrase",
+      "tu": "ilustrases",
+      "ud": "ilustrase",
+      "nosotros": "ilustrásemos",
+      "vosotros": "ilustraseis",
+      "uds": "ilustrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ilustrado",
+      "tu": "hubieses ilustrado",
+      "ud": "hubiese ilustrado",
+      "nosotros": "hubiésemos ilustrado",
+      "vosotros": "hubieseis ilustrado",
+      "uds": "hubiesen ilustrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "ilustra",
+    "vosotros": "ilustrad",
+    "ud": "ilustre",
+    "uds": "ilustren"
+  },
+  "negativo": {
+    "tu": "no ilustres",
+    "vosotros": "no ilustréis",
+    "ud": "no ilustre",
+    "uds": "no ilustren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to illustrate, explain, make clear",
+    "gerundio": "illustrating",
+    "participioPasado": "illustrated",
+    "indicativo": {
+      "presente": "I illustrate, am illustrating",
+      "futuro": "I will illustrate",
+      "imperfecto": "I was illustrating, used to illustrate, illustrated",
+      "preterito": "I illustrated",
+      "condicional": "I would illustrate",
+      "presentePerfecto": "I have illustrated",
+      "futuroPerfecto": "I will have illustrated",
+      "pluscuamperfecto": "I had illustrated",
+      "preteritoAnterior": "I had illustrated",
+      "condicionalPerfecto": "I would have illustrated"
+    },
+    "subjuntivo": {
+      "presente": "I illustrate, am illustrating",
+      "imperfecto": "I illustrated, was illustrating",
+      "futuro": "I will illustrate",
+      "presentePerfecto": "I have illustrated, illustrated",
+      "futuroPerfecto": "I will have illustrated",
+      "pluscuamperfecto": "I had illustrated"
+    },
+    "afirmativo": "Illustrate!",
+    "negativo": "Don't illustrate!"
+  },
+  "attribution": "Fred Jehle"
+}

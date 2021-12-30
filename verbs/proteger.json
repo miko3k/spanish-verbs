@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "proteger",
+  "gerundio": "protegiendo",
+  "participioPasado": "protegido",
+  "indicativo": {
+    "presente": {
+      "yo": "protejo",
+      "tu": "proteges",
+      "ud": "protege",
+      "nosotros": "protegemos",
+      "vosotros": "protegéis",
+      "uds": "protegen"
+    },
+    "futuro": {
+      "yo": "protegeré",
+      "tu": "protegerás",
+      "ud": "protegerá",
+      "nosotros": "protegeremos",
+      "vosotros": "protegeréis",
+      "uds": "protegerán"
+    },
+    "imperfecto": {
+      "yo": "protegía",
+      "tu": "protegías",
+      "ud": "protegía",
+      "nosotros": "protegíamos",
+      "vosotros": "protegíais",
+      "uds": "protegían"
+    },
+    "preterito": {
+      "yo": "protegí",
+      "tu": "protegiste",
+      "ud": "protegió",
+      "nosotros": "protegimos",
+      "vosotros": "protegisteis",
+      "uds": "protegieron"
+    },
+    "condicional": {
+      "yo": "protegería",
+      "tu": "protegerías",
+      "ud": "protegería",
+      "nosotros": "protegeríamos",
+      "vosotros": "protegeríais",
+      "uds": "protegerían"
+    },
+    "presentePerfecto": {
+      "yo": "he protegido",
+      "tu": "has protegido",
+      "ud": "ha protegido",
+      "nosotros": "hemos protegido",
+      "vosotros": "habéis protegido",
+      "uds": "han protegido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré protegido",
+      "tu": "habrás protegido",
+      "ud": "habrá protegido",
+      "nosotros": "habremos protegido",
+      "vosotros": "habréis protegido",
+      "uds": "habrán protegido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había protegido",
+      "tu": "habías protegido",
+      "ud": "había protegido",
+      "nosotros": "habíamos protegido",
+      "vosotros": "habíais protegido",
+      "uds": "habían protegido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube protegido",
+      "tu": "hubiste protegido",
+      "ud": "hubo protegido",
+      "nosotros": "hubimos protegido",
+      "vosotros": "hubisteis protegido",
+      "uds": "hubieron protegido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría protegido",
+      "tu": "habrías protegido",
+      "ud": "habría protegido",
+      "nosotros": "habríamos protegido",
+      "vosotros": "habríais protegido",
+      "uds": "habrían protegido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "proteja",
+      "tu": "protejas",
+      "ud": "proteja",
+      "nosotros": "protejamos",
+      "vosotros": "protejáis",
+      "uds": "protejan"
+    },
+    "imperfecto": {
+      "yo": "protegiera",
+      "tu": "protegieras",
+      "ud": "protegiera",
+      "nosotros": "protegiéramos",
+      "vosotros": "protegierais",
+      "uds": "protegieran"
+    },
+    "futuro": {
+      "yo": "protegiere",
+      "tu": "protegieres",
+      "ud": "protegiere",
+      "nosotros": "protegiéremos",
+      "vosotros": "protegiereis",
+      "uds": "protegieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya protegido",
+      "tu": "hayas protegido",
+      "ud": "haya protegido",
+      "nosotros": "hayamos protegido",
+      "vosotros": "hayáis protegido",
+      "uds": "hayan protegido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere protegido",
+      "tu": "hubieres protegido",
+      "ud": "hubiere protegido",
+      "nosotros": "hubiéremos protegido",
+      "vosotros": "hubiereis protegido",
+      "uds": "hubieren protegido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera protegido",
+      "tu": "hubieras protegido",
+      "ud": "hubiera protegido",
+      "nosotros": "hubiéramos protegido",
+      "vosotros": "hubierais protegido",
+      "uds": "hubieran protegido"
+    },
+    "imperfectoAlt": {
+      "yo": "protegiese",
+      "tu": "protegieses",
+      "ud": "protegiese",
+      "nosotros": "protegiésemos",
+      "vosotros": "protegieseis",
+      "uds": "protegiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese protegido",
+      "tu": "hubieses protegido",
+      "ud": "hubiese protegido",
+      "nosotros": "hubiésemos protegido",
+      "vosotros": "hubieseis protegido",
+      "uds": "hubiesen protegido"
+    }
+  },
+  "afirmativo": {
+    "tu": "protege",
+    "vosotros": "proteged",
+    "ud": "proteja",
+    "uds": "protejan"
+  },
+  "negativo": {
+    "tu": "no protejas",
+    "vosotros": "no protejáis",
+    "ud": "no proteja",
+    "uds": "no protejan"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > j delante de a y o.",
+    "infinitivo": "to protect",
+    "gerundio": "protecting",
+    "participioPasado": "protected",
+    "indicativo": {
+      "presente": "I protect, am protecting",
+      "futuro": "I will protect",
+      "imperfecto": "I was protecting, used to protect, protected",
+      "preterito": "I protected",
+      "condicional": "I would protect",
+      "presentePerfecto": "I have protected",
+      "futuroPerfecto": "I will have protected",
+      "pluscuamperfecto": "I had protected",
+      "preteritoAnterior": "I had protected",
+      "condicionalPerfecto": "I would have protected"
+    },
+    "subjuntivo": {
+      "presente": "I protect, am protecting",
+      "imperfecto": "I protected, was protecting",
+      "futuro": "I will protect",
+      "presentePerfecto": "I have protected, protected",
+      "futuroPerfecto": "I will have protected",
+      "pluscuamperfecto": "I had protected"
+    },
+    "afirmativo": "Protect!",
+    "negativo": "Don't protect!"
+  },
+  "attribution": "Fred Jehle"
+}

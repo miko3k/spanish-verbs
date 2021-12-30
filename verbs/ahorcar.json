@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "ahorcar",
+  "gerundio": "ahorcando",
+  "participioPasado": "ahorcado",
+  "indicativo": {
+    "presente": {
+      "yo": "ahorco",
+      "tu": "ahorcas",
+      "ud": "ahorca",
+      "nosotros": "ahorcamos",
+      "vosotros": "ahorcáis",
+      "uds": "ahorcan"
+    },
+    "futuro": {
+      "yo": "ahorcaré",
+      "tu": "ahorcarás",
+      "ud": "ahorcará",
+      "nosotros": "ahorcaremos",
+      "vosotros": "ahorcaréis",
+      "uds": "ahorcarán"
+    },
+    "imperfecto": {
+      "yo": "ahorcaba",
+      "tu": "ahorcabas",
+      "ud": "ahorcaba",
+      "nosotros": "ahorcábamos",
+      "vosotros": "ahorcabais",
+      "uds": "ahorcaban"
+    },
+    "preterito": {
+      "yo": "ahorqué",
+      "tu": "ahorcaste",
+      "ud": "ahorcó",
+      "nosotros": "ahorcamos",
+      "vosotros": "ahorcasteis",
+      "uds": "ahorcaron"
+    },
+    "condicional": {
+      "yo": "ahorcaría",
+      "tu": "ahorcarías",
+      "ud": "ahorcaría",
+      "nosotros": "ahorcaríamos",
+      "vosotros": "ahorcaríais",
+      "uds": "ahorcarían"
+    },
+    "presentePerfecto": {
+      "yo": "he ahorcado",
+      "tu": "has ahorcado",
+      "ud": "ha ahorcado",
+      "nosotros": "hemos ahorcado",
+      "vosotros": "habéis ahorcado",
+      "uds": "han ahorcado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ahorcado",
+      "tu": "habrás ahorcado",
+      "ud": "habrá ahorcado",
+      "nosotros": "habremos ahorcado",
+      "vosotros": "habréis ahorcado",
+      "uds": "habrán ahorcado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ahorcado",
+      "tu": "habías ahorcado",
+      "ud": "había ahorcado",
+      "nosotros": "habíamos ahorcado",
+      "vosotros": "habíais ahorcado",
+      "uds": "habían ahorcado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ahorcado",
+      "tu": "hubiste ahorcado",
+      "ud": "hubo ahorcado",
+      "nosotros": "hubimos ahorcado",
+      "vosotros": "hubisteis ahorcado",
+      "uds": "hubieron ahorcado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ahorcado",
+      "tu": "habrías ahorcado",
+      "ud": "habría ahorcado",
+      "nosotros": "habríamos ahorcado",
+      "vosotros": "habríais ahorcado",
+      "uds": "habrían ahorcado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ahorque",
+      "tu": "ahorques",
+      "ud": "ahorque",
+      "nosotros": "ahorquemos",
+      "vosotros": "ahorquéis",
+      "uds": "ahorquen"
+    },
+    "imperfecto": {
+      "yo": "ahorcara",
+      "tu": "ahorcaras",
+      "ud": "ahorcara",
+      "nosotros": "ahorcáramos",
+      "vosotros": "ahorcarais",
+      "uds": "ahorcaran"
+    },
+    "futuro": {
+      "yo": "ahorcare",
+      "tu": "ahorcares",
+      "ud": "ahorcare",
+      "nosotros": "ahorcáremos",
+      "vosotros": "ahorcareis",
+      "uds": "ahorcaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ahorcado",
+      "tu": "hayas ahorcado",
+      "ud": "haya ahorcado",
+      "nosotros": "hayamos ahorcado",
+      "vosotros": "hayáis ahorcado",
+      "uds": "hayan ahorcado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ahorcado",
+      "tu": "hubieres ahorcado",
+      "ud": "hubiere ahorcado",
+      "nosotros": "hubiéremos ahorcado",
+      "vosotros": "hubiereis ahorcado",
+      "uds": "hubieren ahorcado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ahorcado",
+      "tu": "hubieras ahorcado",
+      "ud": "hubiera ahorcado",
+      "nosotros": "hubiéramos ahorcado",
+      "vosotros": "hubierais ahorcado",
+      "uds": "hubieran ahorcado"
+    },
+    "imperfectoAlt": {
+      "yo": "ahorcase",
+      "tu": "ahorcases",
+      "ud": "ahorcase",
+      "nosotros": "ahorcásemos",
+      "vosotros": "ahorcaseis",
+      "uds": "ahorcasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ahorcado",
+      "tu": "hubieses ahorcado",
+      "ud": "hubiese ahorcado",
+      "nosotros": "hubiésemos ahorcado",
+      "vosotros": "hubieseis ahorcado",
+      "uds": "hubiesen ahorcado"
+    }
+  },
+  "afirmativo": {
+    "tu": "ahorca",
+    "vosotros": "ahorcad",
+    "ud": "ahorque",
+    "uds": "ahorquen"
+  },
+  "negativo": {
+    "tu": "no ahorques",
+    "vosotros": "no ahorquéis",
+    "ud": "no ahorque",
+    "uds": "no ahorquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e. Note: This verb means to hang as a type of execution; for hang in most other contexts, see colgar.",
+    "infinitivo": "to hang",
+    "gerundio": "hanging",
+    "participioPasado": "hanged",
+    "indicativo": {
+      "presente": "I hang, am hanging",
+      "futuro": "I will hang",
+      "imperfecto": "I was hanging, used to hang, hanged",
+      "preterito": "I hanged",
+      "condicional": "I would hang",
+      "presentePerfecto": "I have hanged",
+      "futuroPerfecto": "I will have hanged",
+      "pluscuamperfecto": "I had hanged",
+      "preteritoAnterior": "I had hanged",
+      "condicionalPerfecto": "I would have hanged"
+    },
+    "subjuntivo": {
+      "presente": "I hang, am hanging",
+      "imperfecto": "I hanged, was hanging",
+      "futuro": "I will hang",
+      "presentePerfecto": "I have hanged, hanged",
+      "futuroPerfecto": "I will have hanged",
+      "pluscuamperfecto": "I had hanged"
+    },
+    "afirmativo": "Hang!",
+    "negativo": "Don't hang!"
+  },
+  "attribution": "Fred Jehle"
+}

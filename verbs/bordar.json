@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "bordar",
+  "gerundio": "bordando",
+  "participioPasado": "bordado",
+  "indicativo": {
+    "presente": {
+      "yo": "bordo",
+      "tu": "bordas",
+      "ud": "borda",
+      "nosotros": "bordamos",
+      "vosotros": "bordáis",
+      "uds": "bordan"
+    },
+    "futuro": {
+      "yo": "bordaré",
+      "tu": "bordarás",
+      "ud": "bordará",
+      "nosotros": "bordaremos",
+      "vosotros": "bordaréis",
+      "uds": "bordarán"
+    },
+    "imperfecto": {
+      "yo": "bordaba",
+      "tu": "bordabas",
+      "ud": "bordaba",
+      "nosotros": "bordábamos",
+      "vosotros": "bordabais",
+      "uds": "bordaban"
+    },
+    "preterito": {
+      "yo": "bordé",
+      "tu": "bordaste",
+      "ud": "bordó",
+      "nosotros": "bordamos",
+      "vosotros": "bordasteis",
+      "uds": "bordaron"
+    },
+    "condicional": {
+      "yo": "bordaría",
+      "tu": "bordarías",
+      "ud": "bordaría",
+      "nosotros": "bordaríamos",
+      "vosotros": "bordaríais",
+      "uds": "bordarían"
+    },
+    "presentePerfecto": {
+      "yo": "he bordado",
+      "tu": "has bordado",
+      "ud": "ha bordado",
+      "nosotros": "hemos bordado",
+      "vosotros": "habéis bordado",
+      "uds": "han bordado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré bordado",
+      "tu": "habrás bordado",
+      "ud": "habrá bordado",
+      "nosotros": "habremos bordado",
+      "vosotros": "habréis bordado",
+      "uds": "habrán bordado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había bordado",
+      "tu": "habías bordado",
+      "ud": "había bordado",
+      "nosotros": "habíamos bordado",
+      "vosotros": "habíais bordado",
+      "uds": "habían bordado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube bordado",
+      "tu": "hubiste bordado",
+      "ud": "hubo bordado",
+      "nosotros": "hubimos bordado",
+      "vosotros": "hubisteis bordado",
+      "uds": "hubieron bordado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría bordado",
+      "tu": "habrías bordado",
+      "ud": "habría bordado",
+      "nosotros": "habríamos bordado",
+      "vosotros": "habríais bordado",
+      "uds": "habrían bordado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "borde",
+      "tu": "bordes",
+      "ud": "borde",
+      "nosotros": "bordemos",
+      "vosotros": "bordéis",
+      "uds": "borden"
+    },
+    "imperfecto": {
+      "yo": "bordara",
+      "tu": "bordaras",
+      "ud": "bordara",
+      "nosotros": "bordáramos",
+      "vosotros": "bordarais",
+      "uds": "bordaran"
+    },
+    "futuro": {
+      "yo": "bordare",
+      "tu": "bordares",
+      "ud": "bordare",
+      "nosotros": "bordáremos",
+      "vosotros": "bordareis",
+      "uds": "bordaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya bordado",
+      "tu": "hayas bordado",
+      "ud": "haya bordado",
+      "nosotros": "hayamos bordado",
+      "vosotros": "hayáis bordado",
+      "uds": "hayan bordado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere bordado",
+      "tu": "hubieres bordado",
+      "ud": "hubiere bordado",
+      "nosotros": "hubiéremos bordado",
+      "vosotros": "hubiereis bordado",
+      "uds": "hubieren bordado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera bordado",
+      "tu": "hubieras bordado",
+      "ud": "hubiera bordado",
+      "nosotros": "hubiéramos bordado",
+      "vosotros": "hubierais bordado",
+      "uds": "hubieran bordado"
+    },
+    "imperfectoAlt": {
+      "yo": "bordase",
+      "tu": "bordases",
+      "ud": "bordase",
+      "nosotros": "bordásemos",
+      "vosotros": "bordaseis",
+      "uds": "bordasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese bordado",
+      "tu": "hubieses bordado",
+      "ud": "hubiese bordado",
+      "nosotros": "hubiésemos bordado",
+      "vosotros": "hubieseis bordado",
+      "uds": "hubiesen bordado"
+    }
+  },
+  "afirmativo": {
+    "tu": "borda",
+    "vosotros": "bordad",
+    "ud": "borde",
+    "uds": "borden"
+  },
+  "negativo": {
+    "tu": "no bordes",
+    "vosotros": "no bordéis",
+    "ud": "no borde",
+    "uds": "no borden"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to embroider",
+    "gerundio": "embroidering",
+    "participioPasado": "embroidered",
+    "indicativo": {
+      "presente": "I embroider, am embroidering",
+      "futuro": "I will embroider",
+      "imperfecto": "I was embroidering, used to embroider, embroidered",
+      "preterito": "I embroidered",
+      "condicional": "I would embroider",
+      "presentePerfecto": "I have embroidered",
+      "futuroPerfecto": "I will have embroidered",
+      "pluscuamperfecto": "I had embroidered",
+      "preteritoAnterior": "I had embroidered",
+      "condicionalPerfecto": "I would have embroidered"
+    },
+    "subjuntivo": {
+      "presente": "I embroider, am embroidering",
+      "imperfecto": "I embroidered, was embroidering",
+      "futuro": "I will embroider",
+      "presentePerfecto": "I have embroidered, embroidered",
+      "futuroPerfecto": "I will have embroidered",
+      "pluscuamperfecto": "I had embroidered"
+    },
+    "afirmativo": "Embroider!",
+    "negativo": "Don't embroider!"
+  },
+  "attribution": "Fred Jehle"
+}

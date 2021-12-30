@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "pagar",
+  "gerundio": "pagando",
+  "participioPasado": "pagado",
+  "indicativo": {
+    "presente": {
+      "yo": "pago",
+      "tu": "pagas",
+      "ud": "paga",
+      "nosotros": "pagamos",
+      "vosotros": "pagáis",
+      "uds": "pagan"
+    },
+    "futuro": {
+      "yo": "pagaré",
+      "tu": "pagarás",
+      "ud": "pagará",
+      "nosotros": "pagaremos",
+      "vosotros": "pagaréis",
+      "uds": "pagarán"
+    },
+    "imperfecto": {
+      "yo": "pagaba",
+      "tu": "pagabas",
+      "ud": "pagaba",
+      "nosotros": "pagábamos",
+      "vosotros": "pagabais",
+      "uds": "pagaban"
+    },
+    "preterito": {
+      "yo": "pagué",
+      "tu": "pagaste",
+      "ud": "pagó",
+      "nosotros": "pagamos",
+      "vosotros": "pagasteis",
+      "uds": "pagaron"
+    },
+    "condicional": {
+      "yo": "pagaría",
+      "tu": "pagarías",
+      "ud": "pagaría",
+      "nosotros": "pagaríamos",
+      "vosotros": "pagaríais",
+      "uds": "pagarían"
+    },
+    "presentePerfecto": {
+      "yo": "he pagado",
+      "tu": "has pagado",
+      "ud": "ha pagado",
+      "nosotros": "hemos pagado",
+      "vosotros": "habéis pagado",
+      "uds": "han pagado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré pagado",
+      "tu": "habrás pagado",
+      "ud": "habrá pagado",
+      "nosotros": "habremos pagado",
+      "vosotros": "habréis pagado",
+      "uds": "habrán pagado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había pagado",
+      "tu": "habías pagado",
+      "ud": "había pagado",
+      "nosotros": "habíamos pagado",
+      "vosotros": "habíais pagado",
+      "uds": "habían pagado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube pagado",
+      "tu": "hubiste pagado",
+      "ud": "hubo pagado",
+      "nosotros": "hubimos pagado",
+      "vosotros": "hubisteis pagado",
+      "uds": "hubieron pagado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría pagado",
+      "tu": "habrías pagado",
+      "ud": "habría pagado",
+      "nosotros": "habríamos pagado",
+      "vosotros": "habríais pagado",
+      "uds": "habrían pagado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pague",
+      "tu": "pagues",
+      "ud": "pague",
+      "nosotros": "paguemos",
+      "vosotros": "paguéis",
+      "uds": "paguen"
+    },
+    "imperfecto": {
+      "yo": "pagara",
+      "tu": "pagaras",
+      "ud": "pagara",
+      "nosotros": "pagáramos",
+      "vosotros": "pagarais",
+      "uds": "pagaran"
+    },
+    "futuro": {
+      "yo": "pagare",
+      "tu": "pagares",
+      "ud": "pagare",
+      "nosotros": "pagáremos",
+      "vosotros": "pagareis",
+      "uds": "pagaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya pagado",
+      "tu": "hayas pagado",
+      "ud": "haya pagado",
+      "nosotros": "hayamos pagado",
+      "vosotros": "hayáis pagado",
+      "uds": "hayan pagado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere pagado",
+      "tu": "hubieres pagado",
+      "ud": "hubiere pagado",
+      "nosotros": "hubiéremos pagado",
+      "vosotros": "hubiereis pagado",
+      "uds": "hubieren pagado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera pagado",
+      "tu": "hubieras pagado",
+      "ud": "hubiera pagado",
+      "nosotros": "hubiéramos pagado",
+      "vosotros": "hubierais pagado",
+      "uds": "hubieran pagado"
+    },
+    "imperfectoAlt": {
+      "yo": "pagase",
+      "tu": "pagases",
+      "ud": "pagase",
+      "nosotros": "pagásemos",
+      "vosotros": "pagaseis",
+      "uds": "pagasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese pagado",
+      "tu": "hubieses pagado",
+      "ud": "hubiese pagado",
+      "nosotros": "hubiésemos pagado",
+      "vosotros": "hubieseis pagado",
+      "uds": "hubiesen pagado"
+    }
+  },
+  "afirmativo": {
+    "tu": "paga",
+    "vosotros": "pagad",
+    "ud": "pague",
+    "uds": "paguen"
+  },
+  "negativo": {
+    "tu": "no pagues",
+    "vosotros": "no paguéis",
+    "ud": "no pague",
+    "uds": "no paguen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to pay, pay for",
+    "gerundio": "paying",
+    "participioPasado": "paid",
+    "indicativo": {
+      "presente": "I pay, am paying",
+      "futuro": "I will pay",
+      "imperfecto": "I was paying, used to pay, paid",
+      "preterito": "I paid",
+      "condicional": "I would pay",
+      "presentePerfecto": "I have paid",
+      "futuroPerfecto": "I will have paid",
+      "pluscuamperfecto": "I had paid",
+      "preteritoAnterior": "I had paid",
+      "condicionalPerfecto": "I would have paid"
+    },
+    "subjuntivo": {
+      "presente": "I pay, am paying",
+      "imperfecto": "I paid, was paying",
+      "futuro": "I will pay",
+      "presentePerfecto": "I have paid, paid",
+      "futuroPerfecto": "I will have paid",
+      "pluscuamperfecto": "I had paid"
+    },
+    "afirmativo": "Pay!",
+    "negativo": "Don't pay!"
+  },
+  "attribution": "Fred Jehle"
+}

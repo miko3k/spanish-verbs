@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "salvar",
+  "gerundio": "salvando",
+  "participioPasado": "salvado",
+  "indicativo": {
+    "presente": {
+      "yo": "salvo",
+      "tu": "salvas",
+      "ud": "salva",
+      "nosotros": "salvamos",
+      "vosotros": "salváis",
+      "uds": "salvan"
+    },
+    "futuro": {
+      "yo": "salvaré",
+      "tu": "salvarás",
+      "ud": "salvará",
+      "nosotros": "salvaremos",
+      "vosotros": "salvaréis",
+      "uds": "salvarán"
+    },
+    "imperfecto": {
+      "yo": "salvaba",
+      "tu": "salvabas",
+      "ud": "salvaba",
+      "nosotros": "salvábamos",
+      "vosotros": "salvabais",
+      "uds": "salvaban"
+    },
+    "preterito": {
+      "yo": "salvé",
+      "tu": "salvaste",
+      "ud": "salvó",
+      "nosotros": "salvamos",
+      "vosotros": "salvasteis",
+      "uds": "salvaron"
+    },
+    "condicional": {
+      "yo": "salvaría",
+      "tu": "salvarías",
+      "ud": "salvaría",
+      "nosotros": "salvaríamos",
+      "vosotros": "salvaríais",
+      "uds": "salvarían"
+    },
+    "presentePerfecto": {
+      "yo": "he salvado",
+      "tu": "has salvado",
+      "ud": "ha salvado",
+      "nosotros": "hemos salvado",
+      "vosotros": "habéis salvado",
+      "uds": "han salvado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré salvado",
+      "tu": "habrás salvado",
+      "ud": "habrá salvado",
+      "nosotros": "habremos salvado",
+      "vosotros": "habréis salvado",
+      "uds": "habrán salvado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había salvado",
+      "tu": "habías salvado",
+      "ud": "había salvado",
+      "nosotros": "habíamos salvado",
+      "vosotros": "habíais salvado",
+      "uds": "habían salvado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube salvado",
+      "tu": "hubiste salvado",
+      "ud": "hubo salvado",
+      "nosotros": "hubimos salvado",
+      "vosotros": "hubisteis salvado",
+      "uds": "hubieron salvado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría salvado",
+      "tu": "habrías salvado",
+      "ud": "habría salvado",
+      "nosotros": "habríamos salvado",
+      "vosotros": "habríais salvado",
+      "uds": "habrían salvado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "salve",
+      "tu": "salves",
+      "ud": "salve",
+      "nosotros": "salvemos",
+      "vosotros": "salvéis",
+      "uds": "salven"
+    },
+    "imperfecto": {
+      "yo": "salvara",
+      "tu": "salvaras",
+      "ud": "salvara",
+      "nosotros": "salváramos",
+      "vosotros": "salvarais",
+      "uds": "salvaran"
+    },
+    "futuro": {
+      "yo": "salvare",
+      "tu": "salvares",
+      "ud": "salvare",
+      "nosotros": "salváremos",
+      "vosotros": "salvareis",
+      "uds": "salvaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya salvado",
+      "tu": "hayas salvado",
+      "ud": "haya salvado",
+      "nosotros": "hayamos salvado",
+      "vosotros": "hayáis salvado",
+      "uds": "hayan salvado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere salvado",
+      "tu": "hubieres salvado",
+      "ud": "hubiere salvado",
+      "nosotros": "hubiéremos salvado",
+      "vosotros": "hubiereis salvado",
+      "uds": "hubieren salvado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera salvado",
+      "tu": "hubieras salvado",
+      "ud": "hubiera salvado",
+      "nosotros": "hubiéramos salvado",
+      "vosotros": "hubierais salvado",
+      "uds": "hubieran salvado"
+    },
+    "imperfectoAlt": {
+      "yo": "salvase",
+      "tu": "salvases",
+      "ud": "salvase",
+      "nosotros": "salvásemos",
+      "vosotros": "salvaseis",
+      "uds": "salvasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese salvado",
+      "tu": "hubieses salvado",
+      "ud": "hubiese salvado",
+      "nosotros": "hubiésemos salvado",
+      "vosotros": "hubieseis salvado",
+      "uds": "hubiesen salvado"
+    }
+  },
+  "afirmativo": {
+    "tu": "salva",
+    "vosotros": "salvad",
+    "ud": "salve",
+    "uds": "salven"
+  },
+  "negativo": {
+    "tu": "no salves",
+    "vosotros": "no salvéis",
+    "ud": "no salve",
+    "uds": "no salven"
+  },
+  "english": {
+    "note": "Note: Salvar is a transitive verb meaning to save such things as someone's life; for to save money or to avoid problems or danger see ahorrar; for to save or conserve resources see conservar.",
+    "infinitivo": "to save, rescue; to except, exclude",
+    "gerundio": "saving",
+    "participioPasado": "saved",
+    "indicativo": {
+      "presente": "I save, am saving",
+      "futuro": "I will save",
+      "imperfecto": "I was saving, used to save, saved",
+      "preterito": "I saved",
+      "condicional": "I would save",
+      "presentePerfecto": "I have saved",
+      "futuroPerfecto": "I will have saved",
+      "pluscuamperfecto": "I had saved",
+      "preteritoAnterior": "I had saved",
+      "condicionalPerfecto": "I would have saved"
+    },
+    "subjuntivo": {
+      "presente": "I save, am saving",
+      "imperfecto": "I saved, was saving",
+      "futuro": "I will save",
+      "presentePerfecto": "I have saved, saved",
+      "futuroPerfecto": "I will have saved",
+      "pluscuamperfecto": "I had saved"
+    },
+    "afirmativo": "Save!",
+    "negativo": "Don't save!"
+  },
+  "attribution": "Fred Jehle"
+}

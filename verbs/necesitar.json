@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "necesitar",
+  "gerundio": "necesitando",
+  "participioPasado": "necesitado",
+  "indicativo": {
+    "presente": {
+      "yo": "necesito",
+      "tu": "necesitas",
+      "ud": "necesita",
+      "nosotros": "necesitamos",
+      "vosotros": "necesitáis",
+      "uds": "necesitan"
+    },
+    "futuro": {
+      "yo": "necesitaré",
+      "tu": "necesitarás",
+      "ud": "necesitará",
+      "nosotros": "necesitaremos",
+      "vosotros": "necesitaréis",
+      "uds": "necesitarán"
+    },
+    "imperfecto": {
+      "yo": "necesitaba",
+      "tu": "necesitabas",
+      "ud": "necesitaba",
+      "nosotros": "necesitábamos",
+      "vosotros": "necesitabais",
+      "uds": "necesitaban"
+    },
+    "preterito": {
+      "yo": "necesité",
+      "tu": "necesitaste",
+      "ud": "necesitó",
+      "nosotros": "necesitamos",
+      "vosotros": "necesitasteis",
+      "uds": "necesitaron"
+    },
+    "condicional": {
+      "yo": "necesitaría",
+      "tu": "necesitarías",
+      "ud": "necesitaría",
+      "nosotros": "necesitaríamos",
+      "vosotros": "necesitaríais",
+      "uds": "necesitarían"
+    },
+    "presentePerfecto": {
+      "yo": "he necesitado",
+      "tu": "has necesitado",
+      "ud": "ha necesitado",
+      "nosotros": "hemos necesitado",
+      "vosotros": "habéis necesitado",
+      "uds": "han necesitado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré necesitado",
+      "tu": "habrás necesitado",
+      "ud": "habrá necesitado",
+      "nosotros": "habremos necesitado",
+      "vosotros": "habréis necesitado",
+      "uds": "habrán necesitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había necesitado",
+      "tu": "habías necesitado",
+      "ud": "había necesitado",
+      "nosotros": "habíamos necesitado",
+      "vosotros": "habíais necesitado",
+      "uds": "habían necesitado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube necesitado",
+      "tu": "hubiste necesitado",
+      "ud": "hubo necesitado",
+      "nosotros": "hubimos necesitado",
+      "vosotros": "hubisteis necesitado",
+      "uds": "hubieron necesitado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría necesitado",
+      "tu": "habrías necesitado",
+      "ud": "habría necesitado",
+      "nosotros": "habríamos necesitado",
+      "vosotros": "habríais necesitado",
+      "uds": "habrían necesitado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "necesite",
+      "tu": "necesites",
+      "ud": "necesite",
+      "nosotros": "necesitemos",
+      "vosotros": "necesitéis",
+      "uds": "necesiten"
+    },
+    "imperfecto": {
+      "yo": "necesitara",
+      "tu": "necesitaras",
+      "ud": "necesitara",
+      "nosotros": "necesitáramos",
+      "vosotros": "necesitarais",
+      "uds": "necesitaran"
+    },
+    "futuro": {
+      "yo": "necesitare",
+      "tu": "necesitares",
+      "ud": "necesitare",
+      "nosotros": "necesitáremos",
+      "vosotros": "necesitareis",
+      "uds": "necesitaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya necesitado",
+      "tu": "hayas necesitado",
+      "ud": "haya necesitado",
+      "nosotros": "hayamos necesitado",
+      "vosotros": "hayáis necesitado",
+      "uds": "hayan necesitado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere necesitado",
+      "tu": "hubieres necesitado",
+      "ud": "hubiere necesitado",
+      "nosotros": "hubiéremos necesitado",
+      "vosotros": "hubiereis necesitado",
+      "uds": "hubieren necesitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera necesitado",
+      "tu": "hubieras necesitado",
+      "ud": "hubiera necesitado",
+      "nosotros": "hubiéramos necesitado",
+      "vosotros": "hubierais necesitado",
+      "uds": "hubieran necesitado"
+    },
+    "imperfectoAlt": {
+      "yo": "necesitase",
+      "tu": "necesitases",
+      "ud": "necesitase",
+      "nosotros": "necesitásemos",
+      "vosotros": "necesitaseis",
+      "uds": "necesitasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese necesitado",
+      "tu": "hubieses necesitado",
+      "ud": "hubiese necesitado",
+      "nosotros": "hubiésemos necesitado",
+      "vosotros": "hubieseis necesitado",
+      "uds": "hubiesen necesitado"
+    }
+  },
+  "afirmativo": {
+    "tu": "necesita",
+    "vosotros": "necesitad",
+    "ud": "necesite",
+    "uds": "necesiten"
+  },
+  "negativo": {
+    "tu": "no necesites",
+    "vosotros": "no necesitéis",
+    "ud": "no necesite",
+    "uds": "no necesiten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to need, require",
+    "gerundio": "needing",
+    "participioPasado": "needed",
+    "indicativo": {
+      "presente": "I need, am needing",
+      "futuro": "I will need",
+      "imperfecto": "I was needing, used to need, needed",
+      "preterito": "I needed",
+      "condicional": "I would need",
+      "presentePerfecto": "I have needed",
+      "futuroPerfecto": "I will have needed",
+      "pluscuamperfecto": "I had needed",
+      "preteritoAnterior": "I had needed",
+      "condicionalPerfecto": "I would have needed"
+    },
+    "subjuntivo": {
+      "presente": "I need, am needing",
+      "imperfecto": "I needed, was needing",
+      "futuro": "I will need",
+      "presentePerfecto": "I have needed, needed",
+      "futuroPerfecto": "I will have needed",
+      "pluscuamperfecto": "I had needed"
+    },
+    "afirmativo": "Need!",
+    "negativo": "Don't need!"
+  },
+  "attribution": "Fred Jehle"
+}

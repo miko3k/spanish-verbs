@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "crecer",
+  "gerundio": "creciendo",
+  "participioPasado": "crecido",
+  "indicativo": {
+    "presente": {
+      "yo": "crezco",
+      "tu": "creces",
+      "ud": "crece",
+      "nosotros": "crecemos",
+      "vosotros": "crecéis",
+      "uds": "crecen"
+    },
+    "futuro": {
+      "yo": "creceré",
+      "tu": "crecerás",
+      "ud": "crecerá",
+      "nosotros": "creceremos",
+      "vosotros": "creceréis",
+      "uds": "crecerán"
+    },
+    "imperfecto": {
+      "yo": "crecía",
+      "tu": "crecías",
+      "ud": "crecía",
+      "nosotros": "crecíamos",
+      "vosotros": "crecíais",
+      "uds": "crecían"
+    },
+    "preterito": {
+      "yo": "crecí",
+      "tu": "creciste",
+      "ud": "creció",
+      "nosotros": "crecimos",
+      "vosotros": "crecisteis",
+      "uds": "crecieron"
+    },
+    "condicional": {
+      "yo": "crecería",
+      "tu": "crecerías",
+      "ud": "crecería",
+      "nosotros": "creceríamos",
+      "vosotros": "creceríais",
+      "uds": "crecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he crecido",
+      "tu": "has crecido",
+      "ud": "ha crecido",
+      "nosotros": "hemos crecido",
+      "vosotros": "habéis crecido",
+      "uds": "han crecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré crecido",
+      "tu": "habrás crecido",
+      "ud": "habrá crecido",
+      "nosotros": "habremos crecido",
+      "vosotros": "habréis crecido",
+      "uds": "habrán crecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había crecido",
+      "tu": "habías crecido",
+      "ud": "había crecido",
+      "nosotros": "habíamos crecido",
+      "vosotros": "habíais crecido",
+      "uds": "habían crecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube crecido",
+      "tu": "hubiste crecido",
+      "ud": "hubo crecido",
+      "nosotros": "hubimos crecido",
+      "vosotros": "hubisteis crecido",
+      "uds": "hubieron crecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría crecido",
+      "tu": "habrías crecido",
+      "ud": "habría crecido",
+      "nosotros": "habríamos crecido",
+      "vosotros": "habríais crecido",
+      "uds": "habrían crecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "crezca",
+      "tu": "crezcas",
+      "ud": "crezca",
+      "nosotros": "crezcamos",
+      "vosotros": "crezcáis",
+      "uds": "crezcan"
+    },
+    "imperfecto": {
+      "yo": "creciera",
+      "tu": "crecieras",
+      "ud": "creciera",
+      "nosotros": "creciéramos",
+      "vosotros": "crecierais",
+      "uds": "crecieran"
+    },
+    "futuro": {
+      "yo": "creciere",
+      "tu": "crecieres",
+      "ud": "creciere",
+      "nosotros": "creciéremos",
+      "vosotros": "creciereis",
+      "uds": "crecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya crecido",
+      "tu": "hayas crecido",
+      "ud": "haya crecido",
+      "nosotros": "hayamos crecido",
+      "vosotros": "hayáis crecido",
+      "uds": "hayan crecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere crecido",
+      "tu": "hubieres crecido",
+      "ud": "hubiere crecido",
+      "nosotros": "hubiéremos crecido",
+      "vosotros": "hubiereis crecido",
+      "uds": "hubieren crecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera crecido",
+      "tu": "hubieras crecido",
+      "ud": "hubiera crecido",
+      "nosotros": "hubiéramos crecido",
+      "vosotros": "hubierais crecido",
+      "uds": "hubieran crecido"
+    },
+    "imperfectoAlt": {
+      "yo": "creciese",
+      "tu": "crecieses",
+      "ud": "creciese",
+      "nosotros": "creciésemos",
+      "vosotros": "crecieseis",
+      "uds": "creciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese crecido",
+      "tu": "hubieses crecido",
+      "ud": "hubiese crecido",
+      "nosotros": "hubiésemos crecido",
+      "vosotros": "hubieseis crecido",
+      "uds": "hubiesen crecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "crece",
+    "vosotros": "creced",
+    "ud": "crezca",
+    "uds": "crezcan"
+  },
+  "negativo": {
+    "tu": "no crezcas",
+    "vosotros": "no crezcáis",
+    "ud": "no crezca",
+    "uds": "no crezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: crezco, crezca, crezcas, etc.",
+    "infinitivo": "to grow (up)",
+    "gerundio": "growing",
+    "participioPasado": "grown",
+    "indicativo": {
+      "presente": "I grow, am growing",
+      "futuro": "I will grow",
+      "imperfecto": "I was growing, used to grow, grew",
+      "preterito": "I grew",
+      "condicional": "I would grow",
+      "presentePerfecto": "I have grown",
+      "futuroPerfecto": "I will have grown",
+      "pluscuamperfecto": "I had grown",
+      "preteritoAnterior": "I had grown",
+      "condicionalPerfecto": "I would have grown"
+    },
+    "subjuntivo": {
+      "presente": "I grow, am growing",
+      "imperfecto": "I grew, was growing",
+      "futuro": "I will grow",
+      "presentePerfecto": "I have grown, grew",
+      "futuroPerfecto": "I will have grown",
+      "pluscuamperfecto": "I had grown"
+    },
+    "afirmativo": "Grow!",
+    "negativo": "Don't grow!"
+  },
+  "attribution": "Fred Jehle"
+}

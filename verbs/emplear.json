@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "emplear",
+  "gerundio": "empleando",
+  "participioPasado": "empleado",
+  "indicativo": {
+    "presente": {
+      "yo": "empleo",
+      "tu": "empleas",
+      "ud": "emplea",
+      "nosotros": "empleamos",
+      "vosotros": "empleáis",
+      "uds": "emplean"
+    },
+    "futuro": {
+      "yo": "emplearé",
+      "tu": "emplearás",
+      "ud": "empleará",
+      "nosotros": "emplearemos",
+      "vosotros": "emplearéis",
+      "uds": "emplearán"
+    },
+    "imperfecto": {
+      "yo": "empleaba",
+      "tu": "empleabas",
+      "ud": "empleaba",
+      "nosotros": "empleábamos",
+      "vosotros": "empleabais",
+      "uds": "empleaban"
+    },
+    "preterito": {
+      "yo": "empleé",
+      "tu": "empleaste",
+      "ud": "empleó",
+      "nosotros": "empleamos",
+      "vosotros": "empleasteis",
+      "uds": "emplearon"
+    },
+    "condicional": {
+      "yo": "emplearía",
+      "tu": "emplearías",
+      "ud": "emplearía",
+      "nosotros": "emplearíamos",
+      "vosotros": "emplearíais",
+      "uds": "emplearían"
+    },
+    "presentePerfecto": {
+      "yo": "he empleado",
+      "tu": "has empleado",
+      "ud": "ha empleado",
+      "nosotros": "hemos empleado",
+      "vosotros": "habéis empleado",
+      "uds": "han empleado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré empleado",
+      "tu": "habrás empleado",
+      "ud": "habrá empleado",
+      "nosotros": "habremos empleado",
+      "vosotros": "habréis empleado",
+      "uds": "habrán empleado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había empleado",
+      "tu": "habías empleado",
+      "ud": "había empleado",
+      "nosotros": "habíamos empleado",
+      "vosotros": "habíais empleado",
+      "uds": "habían empleado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube empleado",
+      "tu": "hubiste empleado",
+      "ud": "hubo empleado",
+      "nosotros": "hubimos empleado",
+      "vosotros": "hubisteis empleado",
+      "uds": "hubieron empleado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría empleado",
+      "tu": "habrías empleado",
+      "ud": "habría empleado",
+      "nosotros": "habríamos empleado",
+      "vosotros": "habríais empleado",
+      "uds": "habrían empleado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "emplee",
+      "tu": "emplees",
+      "ud": "emplee",
+      "nosotros": "empleemos",
+      "vosotros": "empleéis",
+      "uds": "empleen"
+    },
+    "imperfecto": {
+      "yo": "empleara",
+      "tu": "emplearas",
+      "ud": "empleara",
+      "nosotros": "empleáramos",
+      "vosotros": "emplearais",
+      "uds": "emplearan"
+    },
+    "futuro": {
+      "yo": "empleare",
+      "tu": "empleares",
+      "ud": "empleare",
+      "nosotros": "empleáremos",
+      "vosotros": "empleareis",
+      "uds": "emplearen"
+    },
+    "presentePerfecto": {
+      "yo": "haya empleado",
+      "tu": "hayas empleado",
+      "ud": "haya empleado",
+      "nosotros": "hayamos empleado",
+      "vosotros": "hayáis empleado",
+      "uds": "hayan empleado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere empleado",
+      "tu": "hubieres empleado",
+      "ud": "hubiere empleado",
+      "nosotros": "hubiéremos empleado",
+      "vosotros": "hubiereis empleado",
+      "uds": "hubieren empleado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera empleado",
+      "tu": "hubieras empleado",
+      "ud": "hubiera empleado",
+      "nosotros": "hubiéramos empleado",
+      "vosotros": "hubierais empleado",
+      "uds": "hubieran empleado"
+    },
+    "imperfectoAlt": {
+      "yo": "emplease",
+      "tu": "empleases",
+      "ud": "emplease",
+      "nosotros": "empleásemos",
+      "vosotros": "empleaseis",
+      "uds": "empleasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese empleado",
+      "tu": "hubieses empleado",
+      "ud": "hubiese empleado",
+      "nosotros": "hubiésemos empleado",
+      "vosotros": "hubieseis empleado",
+      "uds": "hubiesen empleado"
+    }
+  },
+  "afirmativo": {
+    "tu": "emplea",
+    "vosotros": "emplead",
+    "ud": "emplee",
+    "uds": "empleen"
+  },
+  "negativo": {
+    "tu": "no emplees",
+    "vosotros": "no empleéis",
+    "ud": "no emplee",
+    "uds": "no empleen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to employ, hire; to use",
+    "gerundio": "employing",
+    "participioPasado": "employed",
+    "indicativo": {
+      "presente": "I employ, am employing",
+      "futuro": "I will employ",
+      "imperfecto": "I was employing, used to employ, employed",
+      "preterito": "I employed",
+      "condicional": "I would employ",
+      "presentePerfecto": "I have employed",
+      "futuroPerfecto": "I will have employed",
+      "pluscuamperfecto": "I had employed",
+      "preteritoAnterior": "I had employed",
+      "condicionalPerfecto": "I would have employed"
+    },
+    "subjuntivo": {
+      "presente": "I employ, am employing",
+      "imperfecto": "I employed, was employing",
+      "futuro": "I will employ",
+      "presentePerfecto": "I have employed, employed",
+      "futuroPerfecto": "I will have employed",
+      "pluscuamperfecto": "I had employed"
+    },
+    "afirmativo": "Employ!",
+    "negativo": "Don't employ!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "colonizar",
+  "gerundio": "colonizando",
+  "participioPasado": "colonizado",
+  "indicativo": {
+    "presente": {
+      "yo": "colonizo",
+      "tu": "colonizas",
+      "ud": "coloniza",
+      "nosotros": "colonizamos",
+      "vosotros": "colonizáis",
+      "uds": "colonizan"
+    },
+    "futuro": {
+      "yo": "colonizaré",
+      "tu": "colonizarás",
+      "ud": "colonizará",
+      "nosotros": "colonizaremos",
+      "vosotros": "colonizaréis",
+      "uds": "colonizarán"
+    },
+    "imperfecto": {
+      "yo": "colonizaba",
+      "tu": "colonizabas",
+      "ud": "colonizaba",
+      "nosotros": "colonizábamos",
+      "vosotros": "colonizabais",
+      "uds": "colonizaban"
+    },
+    "preterito": {
+      "yo": "colonicé",
+      "tu": "colonizaste",
+      "ud": "colonizó",
+      "nosotros": "colonizamos",
+      "vosotros": "colonizasteis",
+      "uds": "colonizaron"
+    },
+    "condicional": {
+      "yo": "colonizaría",
+      "tu": "colonizarías",
+      "ud": "colonizaría",
+      "nosotros": "colonizaríamos",
+      "vosotros": "colonizaríais",
+      "uds": "colonizarían"
+    },
+    "presentePerfecto": {
+      "yo": "he colonizado",
+      "tu": "has colonizado",
+      "ud": "ha colonizado",
+      "nosotros": "hemos colonizado",
+      "vosotros": "habéis colonizado",
+      "uds": "han colonizado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré colonizado",
+      "tu": "habrás colonizado",
+      "ud": "habrá colonizado",
+      "nosotros": "habremos colonizado",
+      "vosotros": "habréis colonizado",
+      "uds": "habrán colonizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había colonizado",
+      "tu": "habías colonizado",
+      "ud": "había colonizado",
+      "nosotros": "habíamos colonizado",
+      "vosotros": "habíais colonizado",
+      "uds": "habían colonizado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube colonizado",
+      "tu": "hubiste colonizado",
+      "ud": "hubo colonizado",
+      "nosotros": "hubimos colonizado",
+      "vosotros": "hubisteis colonizado",
+      "uds": "hubieron colonizado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría colonizado",
+      "tu": "habrías colonizado",
+      "ud": "habría colonizado",
+      "nosotros": "habríamos colonizado",
+      "vosotros": "habríais colonizado",
+      "uds": "habrían colonizado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "colonice",
+      "tu": "colonices",
+      "ud": "colonice",
+      "nosotros": "colonicemos",
+      "vosotros": "colonicéis",
+      "uds": "colonicen"
+    },
+    "imperfecto": {
+      "yo": "colonizara",
+      "tu": "colonizaras",
+      "ud": "colonizara",
+      "nosotros": "colonizáramos",
+      "vosotros": "colonizarais",
+      "uds": "colonizaran"
+    },
+    "futuro": {
+      "yo": "colonizare",
+      "tu": "colonizares",
+      "ud": "colonizare",
+      "nosotros": "colonizáremos",
+      "vosotros": "colonizareis",
+      "uds": "colonizaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya colonizado",
+      "tu": "hayas colonizado",
+      "ud": "haya colonizado",
+      "nosotros": "hayamos colonizado",
+      "vosotros": "hayáis colonizado",
+      "uds": "hayan colonizado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere colonizado",
+      "tu": "hubieres colonizado",
+      "ud": "hubiere colonizado",
+      "nosotros": "hubiéremos colonizado",
+      "vosotros": "hubiereis colonizado",
+      "uds": "hubieren colonizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera colonizado",
+      "tu": "hubieras colonizado",
+      "ud": "hubiera colonizado",
+      "nosotros": "hubiéramos colonizado",
+      "vosotros": "hubierais colonizado",
+      "uds": "hubieran colonizado"
+    },
+    "imperfectoAlt": {
+      "yo": "colonizase",
+      "tu": "colonizases",
+      "ud": "colonizase",
+      "nosotros": "colonizásemos",
+      "vosotros": "colonizaseis",
+      "uds": "colonizasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese colonizado",
+      "tu": "hubieses colonizado",
+      "ud": "hubiese colonizado",
+      "nosotros": "hubiésemos colonizado",
+      "vosotros": "hubieseis colonizado",
+      "uds": "hubiesen colonizado"
+    }
+  },
+  "afirmativo": {
+    "tu": "coloniza",
+    "vosotros": "colonizad",
+    "ud": "colonice",
+    "uds": "colonicen"
+  },
+  "negativo": {
+    "tu": "no colonices",
+    "vosotros": "no colonicéis",
+    "ud": "no colonice",
+    "uds": "no colonicen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to colonize, settle",
+    "gerundio": "colonizing",
+    "participioPasado": "colonized",
+    "indicativo": {
+      "presente": "I colonize, am colonizing",
+      "futuro": "I will colonize",
+      "imperfecto": "I was colonizing, used to colonize, colonized",
+      "preterito": "I colonized",
+      "condicional": "I would colonize",
+      "presentePerfecto": "I have colonized",
+      "futuroPerfecto": "I will have colonized",
+      "pluscuamperfecto": "I had colonized",
+      "preteritoAnterior": "I had colonized",
+      "condicionalPerfecto": "I would have colonized"
+    },
+    "subjuntivo": {
+      "presente": "I colonize, am colonizing",
+      "imperfecto": "I colonized, was colonizing",
+      "futuro": "I will colonize",
+      "presentePerfecto": "I have colonized, colonized",
+      "futuroPerfecto": "I will have colonized",
+      "pluscuamperfecto": "I had colonized"
+    },
+    "afirmativo": "Colonize!",
+    "negativo": "Don't colonize!"
+  },
+  "attribution": "Fred Jehle"
+}

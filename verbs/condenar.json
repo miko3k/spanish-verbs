@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "condenar",
+  "gerundio": "condenando",
+  "participioPasado": "condenado",
+  "indicativo": {
+    "presente": {
+      "yo": "condeno",
+      "tu": "condenas",
+      "ud": "condena",
+      "nosotros": "condenamos",
+      "vosotros": "condenáis",
+      "uds": "condenan"
+    },
+    "futuro": {
+      "yo": "condenaré",
+      "tu": "condenarás",
+      "ud": "condenará",
+      "nosotros": "condenaremos",
+      "vosotros": "condenaréis",
+      "uds": "condenarán"
+    },
+    "imperfecto": {
+      "yo": "condenaba",
+      "tu": "condenabas",
+      "ud": "condenaba",
+      "nosotros": "condenábamos",
+      "vosotros": "condenabais",
+      "uds": "condenaban"
+    },
+    "preterito": {
+      "yo": "condené",
+      "tu": "condenaste",
+      "ud": "condenó",
+      "nosotros": "condenamos",
+      "vosotros": "condenasteis",
+      "uds": "condenaron"
+    },
+    "condicional": {
+      "yo": "condenaría",
+      "tu": "condenarías",
+      "ud": "condenaría",
+      "nosotros": "condenaríamos",
+      "vosotros": "condenaríais",
+      "uds": "condenarían"
+    },
+    "presentePerfecto": {
+      "yo": "he condenado",
+      "tu": "has condenado",
+      "ud": "ha condenado",
+      "nosotros": "hemos condenado",
+      "vosotros": "habéis condenado",
+      "uds": "han condenado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré condenado",
+      "tu": "habrás condenado",
+      "ud": "habrá condenado",
+      "nosotros": "habremos condenado",
+      "vosotros": "habréis condenado",
+      "uds": "habrán condenado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había condenado",
+      "tu": "habías condenado",
+      "ud": "había condenado",
+      "nosotros": "habíamos condenado",
+      "vosotros": "habíais condenado",
+      "uds": "habían condenado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube condenado",
+      "tu": "hubiste condenado",
+      "ud": "hubo condenado",
+      "nosotros": "hubimos condenado",
+      "vosotros": "hubisteis condenado",
+      "uds": "hubieron condenado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría condenado",
+      "tu": "habrías condenado",
+      "ud": "habría condenado",
+      "nosotros": "habríamos condenado",
+      "vosotros": "habríais condenado",
+      "uds": "habrían condenado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "condene",
+      "tu": "condenes",
+      "ud": "condene",
+      "nosotros": "condenemos",
+      "vosotros": "condenéis",
+      "uds": "condenen"
+    },
+    "imperfecto": {
+      "yo": "condenara",
+      "tu": "condenaras",
+      "ud": "condenara",
+      "nosotros": "condenáramos",
+      "vosotros": "condenarais",
+      "uds": "condenaran"
+    },
+    "futuro": {
+      "yo": "condenare",
+      "tu": "condenares",
+      "ud": "condenare",
+      "nosotros": "condenáremos",
+      "vosotros": "condenareis",
+      "uds": "condenaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya condenado",
+      "tu": "hayas condenado",
+      "ud": "haya condenado",
+      "nosotros": "hayamos condenado",
+      "vosotros": "hayáis condenado",
+      "uds": "hayan condenado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere condenado",
+      "tu": "hubieres condenado",
+      "ud": "hubiere condenado",
+      "nosotros": "hubiéremos condenado",
+      "vosotros": "hubiereis condenado",
+      "uds": "hubieren condenado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera condenado",
+      "tu": "hubieras condenado",
+      "ud": "hubiera condenado",
+      "nosotros": "hubiéramos condenado",
+      "vosotros": "hubierais condenado",
+      "uds": "hubieran condenado"
+    },
+    "imperfectoAlt": {
+      "yo": "condenase",
+      "tu": "condenases",
+      "ud": "condenase",
+      "nosotros": "condenásemos",
+      "vosotros": "condenaseis",
+      "uds": "condenasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese condenado",
+      "tu": "hubieses condenado",
+      "ud": "hubiese condenado",
+      "nosotros": "hubiésemos condenado",
+      "vosotros": "hubieseis condenado",
+      "uds": "hubiesen condenado"
+    }
+  },
+  "afirmativo": {
+    "tu": "condena",
+    "vosotros": "condenad",
+    "ud": "condene",
+    "uds": "condenen"
+  },
+  "negativo": {
+    "tu": "no condenes",
+    "vosotros": "no condenéis",
+    "ud": "no condene",
+    "uds": "no condenen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to condemn, convict, sentence",
+    "gerundio": "condemning",
+    "participioPasado": "condemned",
+    "indicativo": {
+      "presente": "I condemn, am condemning",
+      "futuro": "I will condemn",
+      "imperfecto": "I was condemning, used to condemn, condemned",
+      "preterito": "I condemned",
+      "condicional": "I would condemn",
+      "presentePerfecto": "I have condemned",
+      "futuroPerfecto": "I will have condemned",
+      "pluscuamperfecto": "I had condemned",
+      "preteritoAnterior": "I had condemned",
+      "condicionalPerfecto": "I would have condemned"
+    },
+    "subjuntivo": {
+      "presente": "I condemn, am condemning",
+      "imperfecto": "I condemned, was condemning",
+      "futuro": "I will condemn",
+      "presentePerfecto": "I have condemned, condemned",
+      "futuroPerfecto": "I will have condemned",
+      "pluscuamperfecto": "I had condemned"
+    },
+    "afirmativo": "Condemn!",
+    "negativo": "Don't condemn!"
+  },
+  "attribution": "Fred Jehle"
+}

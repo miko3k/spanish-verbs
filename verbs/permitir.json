@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "permitir",
+  "gerundio": "permitiendo",
+  "participioPasado": "permitido",
+  "indicativo": {
+    "presente": {
+      "yo": "permito",
+      "tu": "permites",
+      "ud": "permite",
+      "nosotros": "permitimos",
+      "vosotros": "permitís",
+      "uds": "permiten"
+    },
+    "futuro": {
+      "yo": "permitiré",
+      "tu": "permitirás",
+      "ud": "permitirá",
+      "nosotros": "permitiremos",
+      "vosotros": "permitiréis",
+      "uds": "permitirán"
+    },
+    "imperfecto": {
+      "yo": "permitía",
+      "tu": "permitías",
+      "ud": "permitía",
+      "nosotros": "permitíamos",
+      "vosotros": "permitíais",
+      "uds": "permitían"
+    },
+    "preterito": {
+      "yo": "permití",
+      "tu": "permitiste",
+      "ud": "permitió",
+      "nosotros": "permitimos",
+      "vosotros": "permitisteis",
+      "uds": "permitieron"
+    },
+    "condicional": {
+      "yo": "permitiría",
+      "tu": "permitirías",
+      "ud": "permitiría",
+      "nosotros": "permitiríamos",
+      "vosotros": "permitiríais",
+      "uds": "permitirían"
+    },
+    "presentePerfecto": {
+      "yo": "he permitido",
+      "tu": "has permitido",
+      "ud": "ha permitido",
+      "nosotros": "hemos permitido",
+      "vosotros": "habéis permitido",
+      "uds": "han permitido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré permitido",
+      "tu": "habrás permitido",
+      "ud": "habrá permitido",
+      "nosotros": "habremos permitido",
+      "vosotros": "habréis permitido",
+      "uds": "habrán permitido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había permitido",
+      "tu": "habías permitido",
+      "ud": "había permitido",
+      "nosotros": "habíamos permitido",
+      "vosotros": "habíais permitido",
+      "uds": "habían permitido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube permitido",
+      "tu": "hubiste permitido",
+      "ud": "hubo permitido",
+      "nosotros": "hubimos permitido",
+      "vosotros": "hubisteis permitido",
+      "uds": "hubieron permitido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría permitido",
+      "tu": "habrías permitido",
+      "ud": "habría permitido",
+      "nosotros": "habríamos permitido",
+      "vosotros": "habríais permitido",
+      "uds": "habrían permitido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "permita",
+      "tu": "permitas",
+      "ud": "permita",
+      "nosotros": "permitamos",
+      "vosotros": "permitáis",
+      "uds": "permitan"
+    },
+    "imperfecto": {
+      "yo": "permitiera",
+      "tu": "permitieras",
+      "ud": "permitiera",
+      "nosotros": "permitiéramos",
+      "vosotros": "permitierais",
+      "uds": "permitieran"
+    },
+    "futuro": {
+      "yo": "permitiere",
+      "tu": "permitieres",
+      "ud": "permitiere",
+      "nosotros": "permitiéremos",
+      "vosotros": "permitiereis",
+      "uds": "permitieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya permitido",
+      "tu": "hayas permitido",
+      "ud": "haya permitido",
+      "nosotros": "hayamos permitido",
+      "vosotros": "hayáis permitido",
+      "uds": "hayan permitido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere permitido",
+      "tu": "hubieres permitido",
+      "ud": "hubiere permitido",
+      "nosotros": "hubiéremos permitido",
+      "vosotros": "hubiereis permitido",
+      "uds": "hubieren permitido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera permitido",
+      "tu": "hubieras permitido",
+      "ud": "hubiera permitido",
+      "nosotros": "hubiéramos permitido",
+      "vosotros": "hubierais permitido",
+      "uds": "hubieran permitido"
+    },
+    "imperfectoAlt": {
+      "yo": "permitiese",
+      "tu": "permitieses",
+      "ud": "permitiese",
+      "nosotros": "permitiésemos",
+      "vosotros": "permitieseis",
+      "uds": "permitiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese permitido",
+      "tu": "hubieses permitido",
+      "ud": "hubiese permitido",
+      "nosotros": "hubiésemos permitido",
+      "vosotros": "hubieseis permitido",
+      "uds": "hubiesen permitido"
+    }
+  },
+  "afirmativo": {
+    "tu": "permite",
+    "vosotros": "permitid",
+    "ud": "permita",
+    "uds": "permitan"
+  },
+  "negativo": {
+    "tu": "no permitas",
+    "vosotros": "no permitáis",
+    "ud": "no permita",
+    "uds": "no permitan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to permit, allow",
+    "gerundio": "permitting",
+    "participioPasado": "permitted",
+    "indicativo": {
+      "presente": "I permit, am permitting",
+      "futuro": "I will permit",
+      "imperfecto": "I was permitting, used to permit, permitted",
+      "preterito": "I permitted",
+      "condicional": "I would permit",
+      "presentePerfecto": "I have permitted",
+      "futuroPerfecto": "I will have permitted",
+      "pluscuamperfecto": "I had permitted",
+      "preteritoAnterior": "I had permitted",
+      "condicionalPerfecto": "I would have permitted"
+    },
+    "subjuntivo": {
+      "presente": "I permit, am permitting",
+      "imperfecto": "I permitted, was permitting",
+      "futuro": "I will permit",
+      "presentePerfecto": "I have permitted, permitted",
+      "futuroPerfecto": "I will have permitted",
+      "pluscuamperfecto": "I had permitted"
+    },
+    "afirmativo": "Permit!",
+    "negativo": "Don't permit!"
+  },
+  "attribution": "Fred Jehle"
+}

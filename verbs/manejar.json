@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "manejar",
+  "gerundio": "manejando",
+  "participioPasado": "manejado",
+  "indicativo": {
+    "presente": {
+      "yo": "manejo",
+      "tu": "manejas",
+      "ud": "maneja",
+      "nosotros": "manejamos",
+      "vosotros": "manejáis",
+      "uds": "manejan"
+    },
+    "futuro": {
+      "yo": "manejaré",
+      "tu": "manejarás",
+      "ud": "manejará",
+      "nosotros": "manejaremos",
+      "vosotros": "manejaréis",
+      "uds": "manejarán"
+    },
+    "imperfecto": {
+      "yo": "manejaba",
+      "tu": "manejabas",
+      "ud": "manejaba",
+      "nosotros": "manejábamos",
+      "vosotros": "manejabais",
+      "uds": "manejaban"
+    },
+    "preterito": {
+      "yo": "manejé",
+      "tu": "manejaste",
+      "ud": "manejó",
+      "nosotros": "manejamos",
+      "vosotros": "manejasteis",
+      "uds": "manejaron"
+    },
+    "condicional": {
+      "yo": "manejaría",
+      "tu": "manejarías",
+      "ud": "manejaría",
+      "nosotros": "manejaríamos",
+      "vosotros": "manejaríais",
+      "uds": "manejarían"
+    },
+    "presentePerfecto": {
+      "yo": "he manejado",
+      "tu": "has manejado",
+      "ud": "ha manejado",
+      "nosotros": "hemos manejado",
+      "vosotros": "habéis manejado",
+      "uds": "han manejado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré manejado",
+      "tu": "habrás manejado",
+      "ud": "habrá manejado",
+      "nosotros": "habremos manejado",
+      "vosotros": "habréis manejado",
+      "uds": "habrán manejado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había manejado",
+      "tu": "habías manejado",
+      "ud": "había manejado",
+      "nosotros": "habíamos manejado",
+      "vosotros": "habíais manejado",
+      "uds": "habían manejado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube manejado",
+      "tu": "hubiste manejado",
+      "ud": "hubo manejado",
+      "nosotros": "hubimos manejado",
+      "vosotros": "hubisteis manejado",
+      "uds": "hubieron manejado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría manejado",
+      "tu": "habrías manejado",
+      "ud": "habría manejado",
+      "nosotros": "habríamos manejado",
+      "vosotros": "habríais manejado",
+      "uds": "habrían manejado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "maneje",
+      "tu": "manejes",
+      "ud": "maneje",
+      "nosotros": "manejemos",
+      "vosotros": "manejéis",
+      "uds": "manejen"
+    },
+    "imperfecto": {
+      "yo": "manejara",
+      "tu": "manejaras",
+      "ud": "manejara",
+      "nosotros": "manejáramos",
+      "vosotros": "manejarais",
+      "uds": "manejaran"
+    },
+    "futuro": {
+      "yo": "manejare",
+      "tu": "manejares",
+      "ud": "manejare",
+      "nosotros": "manejáremos",
+      "vosotros": "manejareis",
+      "uds": "manejaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya manejado",
+      "tu": "hayas manejado",
+      "ud": "haya manejado",
+      "nosotros": "hayamos manejado",
+      "vosotros": "hayáis manejado",
+      "uds": "hayan manejado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere manejado",
+      "tu": "hubieres manejado",
+      "ud": "hubiere manejado",
+      "nosotros": "hubiéremos manejado",
+      "vosotros": "hubiereis manejado",
+      "uds": "hubieren manejado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera manejado",
+      "tu": "hubieras manejado",
+      "ud": "hubiera manejado",
+      "nosotros": "hubiéramos manejado",
+      "vosotros": "hubierais manejado",
+      "uds": "hubieran manejado"
+    },
+    "imperfectoAlt": {
+      "yo": "manejase",
+      "tu": "manejases",
+      "ud": "manejase",
+      "nosotros": "manejásemos",
+      "vosotros": "manejaseis",
+      "uds": "manejasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese manejado",
+      "tu": "hubieses manejado",
+      "ud": "hubiese manejado",
+      "nosotros": "hubiésemos manejado",
+      "vosotros": "hubieseis manejado",
+      "uds": "hubiesen manejado"
+    }
+  },
+  "afirmativo": {
+    "tu": "maneja",
+    "vosotros": "manejad",
+    "ud": "maneje",
+    "uds": "manejen"
+  },
+  "negativo": {
+    "tu": "no manejes",
+    "vosotros": "no manejéis",
+    "ud": "no maneje",
+    "uds": "no manejen"
+  },
+  "english": {
+    "note": "Note: In Spain, use conducir for to drive.",
+    "infinitivo": "to drive (a vehicle); to run, operate (machinery); to manage (a person)",
+    "gerundio": "driving",
+    "participioPasado": "driven",
+    "indicativo": {
+      "presente": "I drive, am driving",
+      "futuro": "I will drive",
+      "imperfecto": "I was driving, used to drive, drove",
+      "preterito": "I drove",
+      "condicional": "I would drive",
+      "presentePerfecto": "I have driven",
+      "futuroPerfecto": "I will have driven",
+      "pluscuamperfecto": "I had driven",
+      "preteritoAnterior": "I had driven",
+      "condicionalPerfecto": "I would have driven"
+    },
+    "subjuntivo": {
+      "presente": "I drive, am driving",
+      "imperfecto": "I drove, was driving",
+      "futuro": "I will drive",
+      "presentePerfecto": "I have driven, drove",
+      "futuroPerfecto": "I will have driven",
+      "pluscuamperfecto": "I had driven"
+    },
+    "afirmativo": "Drive!",
+    "negativo": "Don't drive!"
+  },
+  "attribution": "Fred Jehle"
+}

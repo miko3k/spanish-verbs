@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "madurar",
+  "gerundio": "madurando",
+  "participioPasado": "madurado",
+  "indicativo": {
+    "presente": {
+      "yo": "maduro",
+      "tu": "maduras",
+      "ud": "madura",
+      "nosotros": "maduramos",
+      "vosotros": "maduráis",
+      "uds": "maduran"
+    },
+    "futuro": {
+      "yo": "maduraré",
+      "tu": "madurarás",
+      "ud": "madurará",
+      "nosotros": "maduraremos",
+      "vosotros": "maduraréis",
+      "uds": "madurarán"
+    },
+    "imperfecto": {
+      "yo": "maduraba",
+      "tu": "madurabas",
+      "ud": "maduraba",
+      "nosotros": "madurábamos",
+      "vosotros": "madurabais",
+      "uds": "maduraban"
+    },
+    "preterito": {
+      "yo": "maduré",
+      "tu": "maduraste",
+      "ud": "maduró",
+      "nosotros": "maduramos",
+      "vosotros": "madurasteis",
+      "uds": "maduraron"
+    },
+    "condicional": {
+      "yo": "maduraría",
+      "tu": "madurarías",
+      "ud": "maduraría",
+      "nosotros": "maduraríamos",
+      "vosotros": "maduraríais",
+      "uds": "madurarían"
+    },
+    "presentePerfecto": {
+      "yo": "he madurado",
+      "tu": "has madurado",
+      "ud": "ha madurado",
+      "nosotros": "hemos madurado",
+      "vosotros": "habéis madurado",
+      "uds": "han madurado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré madurado",
+      "tu": "habrás madurado",
+      "ud": "habrá madurado",
+      "nosotros": "habremos madurado",
+      "vosotros": "habréis madurado",
+      "uds": "habrán madurado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había madurado",
+      "tu": "habías madurado",
+      "ud": "había madurado",
+      "nosotros": "habíamos madurado",
+      "vosotros": "habíais madurado",
+      "uds": "habían madurado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube madurado",
+      "tu": "hubiste madurado",
+      "ud": "hubo madurado",
+      "nosotros": "hubimos madurado",
+      "vosotros": "hubisteis madurado",
+      "uds": "hubieron madurado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría madurado",
+      "tu": "habrías madurado",
+      "ud": "habría madurado",
+      "nosotros": "habríamos madurado",
+      "vosotros": "habríais madurado",
+      "uds": "habrían madurado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "madure",
+      "tu": "madures",
+      "ud": "madure",
+      "nosotros": "maduremos",
+      "vosotros": "maduréis",
+      "uds": "maduren"
+    },
+    "imperfecto": {
+      "yo": "madurara",
+      "tu": "maduraras",
+      "ud": "madurara",
+      "nosotros": "maduráramos",
+      "vosotros": "madurarais",
+      "uds": "maduraran"
+    },
+    "futuro": {
+      "yo": "madurare",
+      "tu": "madurares",
+      "ud": "madurare",
+      "nosotros": "maduráremos",
+      "vosotros": "madurareis",
+      "uds": "maduraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya madurado",
+      "tu": "hayas madurado",
+      "ud": "haya madurado",
+      "nosotros": "hayamos madurado",
+      "vosotros": "hayáis madurado",
+      "uds": "hayan madurado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere madurado",
+      "tu": "hubieres madurado",
+      "ud": "hubiere madurado",
+      "nosotros": "hubiéremos madurado",
+      "vosotros": "hubiereis madurado",
+      "uds": "hubieren madurado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera madurado",
+      "tu": "hubieras madurado",
+      "ud": "hubiera madurado",
+      "nosotros": "hubiéramos madurado",
+      "vosotros": "hubierais madurado",
+      "uds": "hubieran madurado"
+    },
+    "imperfectoAlt": {
+      "yo": "madurase",
+      "tu": "madurases",
+      "ud": "madurase",
+      "nosotros": "madurásemos",
+      "vosotros": "maduraseis",
+      "uds": "madurasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese madurado",
+      "tu": "hubieses madurado",
+      "ud": "hubiese madurado",
+      "nosotros": "hubiésemos madurado",
+      "vosotros": "hubieseis madurado",
+      "uds": "hubiesen madurado"
+    }
+  },
+  "afirmativo": {
+    "tu": "madura",
+    "vosotros": "madurad",
+    "ud": "madure",
+    "uds": "maduren"
+  },
+  "negativo": {
+    "tu": "no madures",
+    "vosotros": "no maduréis",
+    "ud": "no madure",
+    "uds": "no maduren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to mature; to ripen",
+    "gerundio": "maturing",
+    "participioPasado": "matured",
+    "indicativo": {
+      "presente": "I mature, am maturing",
+      "futuro": "I will mature",
+      "imperfecto": "I was maturing, used to mature, matured",
+      "preterito": "I matured",
+      "condicional": "I would mature",
+      "presentePerfecto": "I have matured",
+      "futuroPerfecto": "I will have matured",
+      "pluscuamperfecto": "I had matured",
+      "preteritoAnterior": "I had matured",
+      "condicionalPerfecto": "I would have matured"
+    },
+    "subjuntivo": {
+      "presente": "I mature, am maturing",
+      "imperfecto": "I matured, was maturing",
+      "futuro": "I will mature",
+      "presentePerfecto": "I have matured, matured",
+      "futuroPerfecto": "I will have matured",
+      "pluscuamperfecto": "I had matured"
+    },
+    "afirmativo": "Mature!",
+    "negativo": "Don't mature!"
+  },
+  "attribution": "Fred Jehle"
+}

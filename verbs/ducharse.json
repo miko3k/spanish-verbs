@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "ducharse",
+  "gerundio": "duchándose",
+  "participioPasado": "duchado",
+  "indicativo": {
+    "presente": {
+      "yo": "me ducho",
+      "tu": "te duchas",
+      "ud": "se ducha",
+      "nosotros": "nos duchamos",
+      "vosotros": "os ducháis",
+      "uds": "se duchan"
+    },
+    "futuro": {
+      "yo": "me ducharé",
+      "tu": "te ducharás",
+      "ud": "se duchará",
+      "nosotros": "nos ducharemos",
+      "vosotros": "os ducharéis",
+      "uds": "se ducharán"
+    },
+    "imperfecto": {
+      "yo": "me duchaba",
+      "tu": "te duchabas",
+      "ud": "se duchaba",
+      "nosotros": "nos duchábamos",
+      "vosotros": "os duchabais",
+      "uds": "se duchaban"
+    },
+    "preterito": {
+      "yo": "me duché",
+      "tu": "te duchaste",
+      "ud": "se duchó",
+      "nosotros": "nos duchamos",
+      "vosotros": "os duchasteis",
+      "uds": "se ducharon"
+    },
+    "condicional": {
+      "yo": "me ducharía",
+      "tu": "te ducharías",
+      "ud": "se ducharía",
+      "nosotros": "nos ducharíamos",
+      "vosotros": "os ducharíais",
+      "uds": "se ducharían"
+    },
+    "presentePerfecto": {
+      "yo": "me he duchado",
+      "tu": "te has duchado",
+      "ud": "se ha duchado",
+      "nosotros": "nos hemos duchado",
+      "vosotros": "os habéis duchado",
+      "uds": "se han duchado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré duchado",
+      "tu": "te habrás duchado",
+      "ud": "se habrá duchado",
+      "nosotros": "nos habremos duchado",
+      "vosotros": "os habréis duchado",
+      "uds": "se habrán duchado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había duchado",
+      "tu": "te habías duchado",
+      "ud": "se había duchado",
+      "nosotros": "nos habíamos duchado",
+      "vosotros": "os habíais duchado",
+      "uds": "se habían duchado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube duchado",
+      "tu": "te hubiste duchado",
+      "ud": "se hubo duchado",
+      "nosotros": "nos hubimos duchado",
+      "vosotros": "os hubisteis duchado",
+      "uds": "se hubieron duchado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría duchado",
+      "tu": "te habrías duchado",
+      "ud": "se habría duchado",
+      "nosotros": "nos habríamos duchado",
+      "vosotros": "os habríais duchado",
+      "uds": "se habrían duchado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me duche",
+      "tu": "te duches",
+      "ud": "se duche",
+      "nosotros": "nos duchemos",
+      "vosotros": "os duchéis",
+      "uds": "se duchen"
+    },
+    "imperfecto": {
+      "yo": "me duchara",
+      "tu": "te ducharas",
+      "ud": "se duchara",
+      "nosotros": "nos ducháramos",
+      "vosotros": "os ducharais",
+      "uds": "se ducharan"
+    },
+    "futuro": {
+      "yo": "me duchare",
+      "tu": "te duchares",
+      "ud": "se duchare",
+      "nosotros": "nos ducháremos",
+      "vosotros": "os duchareis",
+      "uds": "se ducharen"
+    },
+    "presentePerfecto": {
+      "yo": "me haya duchado",
+      "tu": "te hayas duchado",
+      "ud": "se haya duchado",
+      "nosotros": "nos hayamos duchado",
+      "vosotros": "os hayáis duchado",
+      "uds": "se hayan duchado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere duchado",
+      "tu": "te hubieres duchado",
+      "ud": "se hubiere duchado",
+      "nosotros": "nos hubiéremos duchado",
+      "vosotros": "os hubiereis duchado",
+      "uds": "se hubieren duchado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera duchado",
+      "tu": "te hubieras duchado",
+      "ud": "se hubiera duchado",
+      "nosotros": "nos hubiéramos duchado",
+      "vosotros": "os hubierais duchado",
+      "uds": "se hubieran duchado"
+    },
+    "imperfectoAlt": {
+      "yo": "me duchase",
+      "tu": "te duchases",
+      "ud": "se duchase",
+      "nosotros": "nos duchásemos",
+      "vosotros": "os duchaseis",
+      "uds": "se duchasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese duchado",
+      "tu": "te hubieses duchado",
+      "ud": "se hubiese duchado",
+      "nosotros": "nos hubiésemos duchado",
+      "vosotros": "os hubieseis duchado",
+      "uds": "se hubiesen duchado"
+    }
+  },
+  "afirmativo": {
+    "tu": "dúchate",
+    "vosotros": "duchaos",
+    "ud": "dúchese",
+    "uds": "dúchense"
+  },
+  "negativo": {
+    "tu": "no te duches",
+    "vosotros": "no os duchéis",
+    "ud": "no se duche",
+    "uds": "no se duchen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to take a shower, shower (oneself)",
+    "gerundio": "taking a shower",
+    "participioPasado": "showered, taken a shower",
+    "indicativo": {
+      "presente": "I take a shower, am taking a shower",
+      "futuro": "I will take a shower",
+      "imperfecto": "I was taking a shower, used to take a shower, took a shower",
+      "preterito": "I took a shower",
+      "condicional": "I would take a shower",
+      "presentePerfecto": "I have taken a shower",
+      "futuroPerfecto": "I will have taken a shower",
+      "pluscuamperfecto": "I had taken a shower",
+      "preteritoAnterior": "I had taken a shower",
+      "condicionalPerfecto": "I would have taken a shower"
+    },
+    "subjuntivo": {
+      "presente": "I take a shower, am taking a shower",
+      "imperfecto": "I took a shower, was taking a shower",
+      "futuro": "I will take a shower",
+      "presentePerfecto": "I have taken a shower, took a shower",
+      "futuroPerfecto": "I will have taken a shower",
+      "pluscuamperfecto": "I had taken a shower"
+    },
+    "afirmativo": "Take a shower!",
+    "negativo": "Don't take a shower!"
+  },
+  "attribution": "Fred Jehle"
+}

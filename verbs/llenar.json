@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "llenar",
+  "gerundio": "llenando",
+  "participioPasado": "llenado",
+  "indicativo": {
+    "presente": {
+      "yo": "lleno",
+      "tu": "llenas",
+      "ud": "llena",
+      "nosotros": "llenamos",
+      "vosotros": "llenáis",
+      "uds": "llenan"
+    },
+    "futuro": {
+      "yo": "llenaré",
+      "tu": "llenarás",
+      "ud": "llenará",
+      "nosotros": "llenaremos",
+      "vosotros": "llenaréis",
+      "uds": "llenarán"
+    },
+    "imperfecto": {
+      "yo": "llenaba",
+      "tu": "llenabas",
+      "ud": "llenaba",
+      "nosotros": "llenábamos",
+      "vosotros": "llenabais",
+      "uds": "llenaban"
+    },
+    "preterito": {
+      "yo": "llené",
+      "tu": "llenaste",
+      "ud": "llenó",
+      "nosotros": "llenamos",
+      "vosotros": "llenasteis",
+      "uds": "llenaron"
+    },
+    "condicional": {
+      "yo": "llenaría",
+      "tu": "llenarías",
+      "ud": "llenaría",
+      "nosotros": "llenaríamos",
+      "vosotros": "llenaríais",
+      "uds": "llenarían"
+    },
+    "presentePerfecto": {
+      "yo": "he llenado",
+      "tu": "has llenado",
+      "ud": "ha llenado",
+      "nosotros": "hemos llenado",
+      "vosotros": "habéis llenado",
+      "uds": "han llenado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré llenado",
+      "tu": "habrás llenado",
+      "ud": "habrá llenado",
+      "nosotros": "habremos llenado",
+      "vosotros": "habréis llenado",
+      "uds": "habrán llenado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había llenado",
+      "tu": "habías llenado",
+      "ud": "había llenado",
+      "nosotros": "habíamos llenado",
+      "vosotros": "habíais llenado",
+      "uds": "habían llenado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube llenado",
+      "tu": "hubiste llenado",
+      "ud": "hubo llenado",
+      "nosotros": "hubimos llenado",
+      "vosotros": "hubisteis llenado",
+      "uds": "hubieron llenado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría llenado",
+      "tu": "habrías llenado",
+      "ud": "habría llenado",
+      "nosotros": "habríamos llenado",
+      "vosotros": "habríais llenado",
+      "uds": "habrían llenado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "llene",
+      "tu": "llenes",
+      "ud": "llene",
+      "nosotros": "llenemos",
+      "vosotros": "llenéis",
+      "uds": "llenen"
+    },
+    "imperfecto": {
+      "yo": "llenara",
+      "tu": "llenaras",
+      "ud": "llenara",
+      "nosotros": "llenáramos",
+      "vosotros": "llenarais",
+      "uds": "llenaran"
+    },
+    "futuro": {
+      "yo": "llenare",
+      "tu": "llenares",
+      "ud": "llenare",
+      "nosotros": "llenáremos",
+      "vosotros": "llenareis",
+      "uds": "llenaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya llenado",
+      "tu": "hayas llenado",
+      "ud": "haya llenado",
+      "nosotros": "hayamos llenado",
+      "vosotros": "hayáis llenado",
+      "uds": "hayan llenado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere llenado",
+      "tu": "hubieres llenado",
+      "ud": "hubiere llenado",
+      "nosotros": "hubiéremos llenado",
+      "vosotros": "hubiereis llenado",
+      "uds": "hubieren llenado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera llenado",
+      "tu": "hubieras llenado",
+      "ud": "hubiera llenado",
+      "nosotros": "hubiéramos llenado",
+      "vosotros": "hubierais llenado",
+      "uds": "hubieran llenado"
+    },
+    "imperfectoAlt": {
+      "yo": "llenase",
+      "tu": "llenases",
+      "ud": "llenase",
+      "nosotros": "llenásemos",
+      "vosotros": "llenaseis",
+      "uds": "llenasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese llenado",
+      "tu": "hubieses llenado",
+      "ud": "hubiese llenado",
+      "nosotros": "hubiésemos llenado",
+      "vosotros": "hubieseis llenado",
+      "uds": "hubiesen llenado"
+    }
+  },
+  "afirmativo": {
+    "tu": "llena",
+    "vosotros": "llenad",
+    "ud": "llene",
+    "uds": "llenen"
+  },
+  "negativo": {
+    "tu": "no llenes",
+    "vosotros": "no llenéis",
+    "ud": "no llene",
+    "uds": "no llenen"
+  },
+  "english": {
+    "note": "Note: To fill with = llenar de.",
+    "infinitivo": "to fill; to fulfill",
+    "gerundio": "filling",
+    "participioPasado": "filled",
+    "indicativo": {
+      "presente": "I fill, am filling",
+      "futuro": "I will fill",
+      "imperfecto": "I was filling, used to fill, filled",
+      "preterito": "I filled",
+      "condicional": "I would fill",
+      "presentePerfecto": "I have filled",
+      "futuroPerfecto": "I will have filled",
+      "pluscuamperfecto": "I had filled",
+      "preteritoAnterior": "I had filled",
+      "condicionalPerfecto": "I would have filled"
+    },
+    "subjuntivo": {
+      "presente": "I fill, am filling",
+      "imperfecto": "I filled, was filling",
+      "futuro": "I will fill",
+      "presentePerfecto": "I have filled, filled",
+      "futuroPerfecto": "I will have filled",
+      "pluscuamperfecto": "I had filled"
+    },
+    "afirmativo": "Fill!",
+    "negativo": "Don't fill!"
+  },
+  "attribution": "Fred Jehle"
+}

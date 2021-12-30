@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "cazar",
+  "gerundio": "cazando",
+  "participioPasado": "cazado",
+  "indicativo": {
+    "presente": {
+      "yo": "cazo",
+      "tu": "cazas",
+      "ud": "caza",
+      "nosotros": "cazamos",
+      "vosotros": "cazáis",
+      "uds": "cazan"
+    },
+    "futuro": {
+      "yo": "cazaré",
+      "tu": "cazarás",
+      "ud": "cazará",
+      "nosotros": "cazaremos",
+      "vosotros": "cazaréis",
+      "uds": "cazarán"
+    },
+    "imperfecto": {
+      "yo": "cazaba",
+      "tu": "cazabas",
+      "ud": "cazaba",
+      "nosotros": "cazábamos",
+      "vosotros": "cazabais",
+      "uds": "cazaban"
+    },
+    "preterito": {
+      "yo": "cacé",
+      "tu": "cazaste",
+      "ud": "cazó",
+      "nosotros": "cazamos",
+      "vosotros": "cazasteis",
+      "uds": "cazaron"
+    },
+    "condicional": {
+      "yo": "cazaría",
+      "tu": "cazarías",
+      "ud": "cazaría",
+      "nosotros": "cazaríamos",
+      "vosotros": "cazaríais",
+      "uds": "cazarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cazado",
+      "tu": "has cazado",
+      "ud": "ha cazado",
+      "nosotros": "hemos cazado",
+      "vosotros": "habéis cazado",
+      "uds": "han cazado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cazado",
+      "tu": "habrás cazado",
+      "ud": "habrá cazado",
+      "nosotros": "habremos cazado",
+      "vosotros": "habréis cazado",
+      "uds": "habrán cazado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cazado",
+      "tu": "habías cazado",
+      "ud": "había cazado",
+      "nosotros": "habíamos cazado",
+      "vosotros": "habíais cazado",
+      "uds": "habían cazado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cazado",
+      "tu": "hubiste cazado",
+      "ud": "hubo cazado",
+      "nosotros": "hubimos cazado",
+      "vosotros": "hubisteis cazado",
+      "uds": "hubieron cazado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cazado",
+      "tu": "habrías cazado",
+      "ud": "habría cazado",
+      "nosotros": "habríamos cazado",
+      "vosotros": "habríais cazado",
+      "uds": "habrían cazado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cace",
+      "tu": "caces",
+      "ud": "cace",
+      "nosotros": "cacemos",
+      "vosotros": "cacéis",
+      "uds": "cacen"
+    },
+    "imperfecto": {
+      "yo": "cazara",
+      "tu": "cazaras",
+      "ud": "cazara",
+      "nosotros": "cazáramos",
+      "vosotros": "cazarais",
+      "uds": "cazaran"
+    },
+    "futuro": {
+      "yo": "cazare",
+      "tu": "cazares",
+      "ud": "cazare",
+      "nosotros": "cazáremos",
+      "vosotros": "cazareis",
+      "uds": "cazaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cazado",
+      "tu": "hayas cazado",
+      "ud": "haya cazado",
+      "nosotros": "hayamos cazado",
+      "vosotros": "hayáis cazado",
+      "uds": "hayan cazado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cazado",
+      "tu": "hubieres cazado",
+      "ud": "hubiere cazado",
+      "nosotros": "hubiéremos cazado",
+      "vosotros": "hubiereis cazado",
+      "uds": "hubieren cazado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cazado",
+      "tu": "hubieras cazado",
+      "ud": "hubiera cazado",
+      "nosotros": "hubiéramos cazado",
+      "vosotros": "hubierais cazado",
+      "uds": "hubieran cazado"
+    },
+    "imperfectoAlt": {
+      "yo": "cazase",
+      "tu": "cazases",
+      "ud": "cazase",
+      "nosotros": "cazásemos",
+      "vosotros": "cazaseis",
+      "uds": "cazasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cazado",
+      "tu": "hubieses cazado",
+      "ud": "hubiese cazado",
+      "nosotros": "hubiésemos cazado",
+      "vosotros": "hubieseis cazado",
+      "uds": "hubiesen cazado"
+    }
+  },
+  "afirmativo": {
+    "tu": "caza",
+    "vosotros": "cazad",
+    "ud": "cace",
+    "uds": "cacen"
+  },
+  "negativo": {
+    "tu": "no caces",
+    "vosotros": "no cacéis",
+    "ud": "no cace",
+    "uds": "no cacen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to hunt, represent, stand for",
+    "gerundio": "hunting",
+    "participioPasado": "hunted",
+    "indicativo": {
+      "presente": "I hunt, am hunting",
+      "futuro": "I will hunt",
+      "imperfecto": "I was hunting, used to hunt, hunted",
+      "preterito": "I hunted",
+      "condicional": "I would hunt",
+      "presentePerfecto": "I have hunted",
+      "futuroPerfecto": "I will have hunted",
+      "pluscuamperfecto": "I had hunted",
+      "preteritoAnterior": "I had hunted",
+      "condicionalPerfecto": "I would have hunted"
+    },
+    "subjuntivo": {
+      "presente": "I hunt, am hunting",
+      "imperfecto": "I hunted, was hunting",
+      "futuro": "I will hunt",
+      "presentePerfecto": "I have hunted, hunted",
+      "futuroPerfecto": "I will have hunted",
+      "pluscuamperfecto": "I had hunted"
+    },
+    "afirmativo": "Hunt!",
+    "negativo": "Don't hunt!"
+  },
+  "attribution": "Fred Jehle"
+}

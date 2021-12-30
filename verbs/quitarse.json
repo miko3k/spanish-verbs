@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "quitarse",
+  "gerundio": "quitándose",
+  "participioPasado": "quitado",
+  "indicativo": {
+    "presente": {
+      "yo": "me quito",
+      "tu": "te quitas",
+      "ud": "se quita",
+      "nosotros": "nos quitamos",
+      "vosotros": "os quitáis",
+      "uds": "se quitan"
+    },
+    "futuro": {
+      "yo": "me quitaré",
+      "tu": "te quitarás",
+      "ud": "se quitará",
+      "nosotros": "nos quitaremos",
+      "vosotros": "os quitaréis",
+      "uds": "se quitarán"
+    },
+    "imperfecto": {
+      "yo": "me quitaba",
+      "tu": "te quitabas",
+      "ud": "se quitaba",
+      "nosotros": "nos quitábamos",
+      "vosotros": "os quitabais",
+      "uds": "se quitaban"
+    },
+    "preterito": {
+      "yo": "me quité",
+      "tu": "te quitaste",
+      "ud": "se quitó",
+      "nosotros": "nos quitamos",
+      "vosotros": "os quitasteis",
+      "uds": "se quitaron"
+    },
+    "condicional": {
+      "yo": "me quitaría",
+      "tu": "te quitarías",
+      "ud": "se quitaría",
+      "nosotros": "nos quitaríamos",
+      "vosotros": "os quitaríais",
+      "uds": "se quitarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he quitado",
+      "tu": "te has quitado",
+      "ud": "se ha quitado",
+      "nosotros": "nos hemos quitado",
+      "vosotros": "os habéis quitado",
+      "uds": "se han quitado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré quitado",
+      "tu": "te habrás quitado",
+      "ud": "se habrá quitado",
+      "nosotros": "nos habremos quitado",
+      "vosotros": "os habréis quitado",
+      "uds": "se habrán quitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había quitado",
+      "tu": "te habías quitado",
+      "ud": "se había quitado",
+      "nosotros": "nos habíamos quitado",
+      "vosotros": "os habíais quitado",
+      "uds": "se habían quitado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube quitado",
+      "tu": "te hubiste quitado",
+      "ud": "se hubo quitado",
+      "nosotros": "nos hubimos quitado",
+      "vosotros": "os hubisteis quitado",
+      "uds": "se hubieron quitado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría quitado",
+      "tu": "te habrías quitado",
+      "ud": "se habría quitado",
+      "nosotros": "nos habríamos quitado",
+      "vosotros": "os habríais quitado",
+      "uds": "se habrían quitado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me quite",
+      "tu": "te quites",
+      "ud": "se quite",
+      "nosotros": "nos quitemos",
+      "vosotros": "os quitéis",
+      "uds": "se quiten"
+    },
+    "imperfecto": {
+      "yo": "me quitara",
+      "tu": "te quitaras",
+      "ud": "se quitara",
+      "nosotros": "nos quitáramos",
+      "vosotros": "os quitarais",
+      "uds": "se quitaran"
+    },
+    "futuro": {
+      "yo": "me quitare",
+      "tu": "te quitares",
+      "ud": "se quitare",
+      "nosotros": "nos quitáremos",
+      "vosotros": "os quitareis",
+      "uds": "se quitaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya quitado",
+      "tu": "te hayas quitado",
+      "ud": "se haya quitado",
+      "nosotros": "nos hayamos quitado",
+      "vosotros": "os hayáis quitado",
+      "uds": "se hayan quitado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere quitado",
+      "tu": "te hubieres quitado",
+      "ud": "se hubiere quitado",
+      "nosotros": "nos hubiéremos quitado",
+      "vosotros": "os hubiereis quitado",
+      "uds": "se hubieren quitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera quitado",
+      "tu": "te hubieras quitado",
+      "ud": "se hubiera quitado",
+      "nosotros": "nos hubiéramos quitado",
+      "vosotros": "os hubierais quitado",
+      "uds": "se hubieran quitado"
+    },
+    "imperfectoAlt": {
+      "yo": "me quitase",
+      "tu": "te quitases",
+      "ud": "se quitase",
+      "nosotros": "nos quitásemos",
+      "vosotros": "os quitaseis",
+      "uds": "se quitasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese quitado",
+      "tu": "te hubieses quitado",
+      "ud": "se hubiese quitado",
+      "nosotros": "nos hubiésemos quitado",
+      "vosotros": "os hubieseis quitado",
+      "uds": "se hubiesen quitado"
+    }
+  },
+  "afirmativo": {
+    "tu": "quédate",
+    "vosotros": "quitaos",
+    "ud": "quédese",
+    "uds": "quédense"
+  },
+  "negativo": {
+    "tu": "no te quites",
+    "vosotros": "no os quitéis",
+    "ud": "no se quite",
+    "uds": "no se quiten"
+  },
+  "english": {
+    "note": "Note: the nonreflexive form quitar is often used with an indirect object to remove (clothing from someone): Le quité el sombrero a mi hijo = I took my son's hat off (his head).)) The reflexive form, quitarse, is used to take one's own clothing off: Me quité el sombrero = I took off my hat.",
+    "infinitivo": "to remove, take off (one's clothing); to remove or withdraw oneself",
+    "gerundio": "removing",
+    "participioPasado": "removed",
+    "indicativo": {
+      "presente": "I remove, am removing",
+      "futuro": "I will remove",
+      "imperfecto": "I was removing, used to remove, removed",
+      "preterito": "I removed",
+      "condicional": "I would remove",
+      "presentePerfecto": "I have removed",
+      "futuroPerfecto": "I will have removed",
+      "pluscuamperfecto": "I had removed",
+      "preteritoAnterior": "I had removed",
+      "condicionalPerfecto": "I would have removed"
+    },
+    "subjuntivo": {
+      "presente": "I remove, am removing",
+      "imperfecto": "I removed, was removing",
+      "futuro": "I will remove",
+      "presentePerfecto": "I have removed, removed",
+      "futuroPerfecto": "I will have removed",
+      "pluscuamperfecto": "I had removed"
+    },
+    "afirmativo": "remove!",
+    "negativo": "Don't remove!"
+  },
+  "attribution": "Fred Jehle"
+}

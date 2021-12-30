@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "bajar",
+  "gerundio": "bajando",
+  "participioPasado": "bajado",
+  "indicativo": {
+    "presente": {
+      "yo": "bajo",
+      "tu": "bajas",
+      "ud": "baja",
+      "nosotros": "bajamos",
+      "vosotros": "bajáis",
+      "uds": "bajan"
+    },
+    "futuro": {
+      "yo": "bajaré",
+      "tu": "bajarás",
+      "ud": "bajará",
+      "nosotros": "bajaremos",
+      "vosotros": "bajaréis",
+      "uds": "bajarán"
+    },
+    "imperfecto": {
+      "yo": "bajaba",
+      "tu": "bajabas",
+      "ud": "bajaba",
+      "nosotros": "bajábamos",
+      "vosotros": "bajabais",
+      "uds": "bajaban"
+    },
+    "preterito": {
+      "yo": "bajé",
+      "tu": "bajaste",
+      "ud": "bajó",
+      "nosotros": "bajamos",
+      "vosotros": "bajasteis",
+      "uds": "bajaron"
+    },
+    "condicional": {
+      "yo": "bajaría",
+      "tu": "bajarías",
+      "ud": "bajaría",
+      "nosotros": "bajaríamos",
+      "vosotros": "bajaríais",
+      "uds": "bajarían"
+    },
+    "presentePerfecto": {
+      "yo": "he bajado",
+      "tu": "has bajado",
+      "ud": "ha bajado",
+      "nosotros": "hemos bajado",
+      "vosotros": "habéis bajado",
+      "uds": "han bajado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré bajado",
+      "tu": "habrás bajado",
+      "ud": "habrá bajado",
+      "nosotros": "habremos bajado",
+      "vosotros": "habréis bajado",
+      "uds": "habrán bajado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había bajado",
+      "tu": "habías bajado",
+      "ud": "había bajado",
+      "nosotros": "habíamos bajado",
+      "vosotros": "habíais bajado",
+      "uds": "habían bajado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube bajado",
+      "tu": "hubiste bajado",
+      "ud": "hubo bajado",
+      "nosotros": "hubimos bajado",
+      "vosotros": "hubisteis bajado",
+      "uds": "hubieron bajado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría bajado",
+      "tu": "habrías bajado",
+      "ud": "habría bajado",
+      "nosotros": "habríamos bajado",
+      "vosotros": "habríais bajado",
+      "uds": "habrían bajado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "baje",
+      "tu": "bajes",
+      "ud": "baje",
+      "nosotros": "bajemos",
+      "vosotros": "bajéis",
+      "uds": "bajen"
+    },
+    "imperfecto": {
+      "yo": "bajara",
+      "tu": "bajaras",
+      "ud": "bajara",
+      "nosotros": "bajáramos",
+      "vosotros": "bajarais",
+      "uds": "bajaran"
+    },
+    "futuro": {
+      "yo": "bajare",
+      "tu": "bajares",
+      "ud": "bajare",
+      "nosotros": "bajáremos",
+      "vosotros": "bajareis",
+      "uds": "bajaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya bajado",
+      "tu": "hayas bajado",
+      "ud": "haya bajado",
+      "nosotros": "hayamos bajado",
+      "vosotros": "hayáis bajado",
+      "uds": "hayan bajado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere bajado",
+      "tu": "hubieres bajado",
+      "ud": "hubiere bajado",
+      "nosotros": "hubiéremos bajado",
+      "vosotros": "hubiereis bajado",
+      "uds": "hubieren bajado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera bajado",
+      "tu": "hubieras bajado",
+      "ud": "hubiera bajado",
+      "nosotros": "hubiéramos bajado",
+      "vosotros": "hubierais bajado",
+      "uds": "hubieran bajado"
+    },
+    "imperfectoAlt": {
+      "yo": "bajase",
+      "tu": "bajases",
+      "ud": "bajase",
+      "nosotros": "bajásemos",
+      "vosotros": "bajaseis",
+      "uds": "bajasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese bajado",
+      "tu": "hubieses bajado",
+      "ud": "hubiese bajado",
+      "nosotros": "hubiésemos bajado",
+      "vosotros": "hubieseis bajado",
+      "uds": "hubiesen bajado"
+    }
+  },
+  "afirmativo": {
+    "tu": "baja",
+    "vosotros": "bajad",
+    "ud": "baje",
+    "uds": "bajen"
+  },
+  "negativo": {
+    "tu": "no bajes",
+    "vosotros": "no bajéis",
+    "ud": "no baje",
+    "uds": "no bajen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to lower, go down, descend, download",
+    "gerundio": "lowering",
+    "participioPasado": "lowered",
+    "indicativo": {
+      "presente": "I lower, am lowering",
+      "futuro": "I will lower",
+      "imperfecto": "I was lowering, used to lower, lowered",
+      "preterito": "I lowered",
+      "condicional": "I would lower",
+      "presentePerfecto": "I have lowered",
+      "futuroPerfecto": "I will have lowered",
+      "pluscuamperfecto": "I had lowered",
+      "preteritoAnterior": "I had lowered",
+      "condicionalPerfecto": "I would have lowered"
+    },
+    "subjuntivo": {
+      "presente": "I lower, am lowering",
+      "imperfecto": "I lowered, was lowering",
+      "futuro": "I will lower",
+      "presentePerfecto": "I have lowered, lowered",
+      "futuroPerfecto": "I will have lowered",
+      "pluscuamperfecto": "I had lowered"
+    },
+    "afirmativo": "Lower!",
+    "negativo": "Don't lower!"
+  },
+  "attribution": "Fred Jehle"
+}

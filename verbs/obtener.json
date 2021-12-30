@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "obtener",
+  "gerundio": "obteniendo",
+  "participioPasado": "obtenido",
+  "indicativo": {
+    "presente": {
+      "yo": "obtengo",
+      "tu": "obtienes",
+      "ud": "obtiene",
+      "nosotros": "obtenemos",
+      "vosotros": "obtenéis",
+      "uds": "obtienen"
+    },
+    "futuro": {
+      "yo": "obtendré",
+      "tu": "obtendrás",
+      "ud": "obtendrá",
+      "nosotros": "obtendremos",
+      "vosotros": "obtendréis",
+      "uds": "obtendrán"
+    },
+    "imperfecto": {
+      "yo": "obtenía",
+      "tu": "obtenías",
+      "ud": "obtenía",
+      "nosotros": "obteníamos",
+      "vosotros": "obteníais",
+      "uds": "obtenían"
+    },
+    "preterito": {
+      "yo": "obtuve",
+      "tu": "obtuviste",
+      "ud": "obtuvo",
+      "nosotros": "obtuvimos",
+      "vosotros": "obtuvisteis",
+      "uds": "obtuvieron"
+    },
+    "condicional": {
+      "yo": "obtendría",
+      "tu": "obtendrías",
+      "ud": "obtendría",
+      "nosotros": "obtendríamos",
+      "vosotros": "obtendríais",
+      "uds": "obtendrían"
+    },
+    "presentePerfecto": {
+      "yo": "he obtenido",
+      "tu": "has obtenido",
+      "ud": "ha obtenido",
+      "nosotros": "hemos obtenido",
+      "vosotros": "habéis obtenido",
+      "uds": "han obtenido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré obtenido",
+      "tu": "habrás obtenido",
+      "ud": "habrá obtenido",
+      "nosotros": "habremos obtenido",
+      "vosotros": "habréis obtenido",
+      "uds": "habrán obtenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había obtenido",
+      "tu": "habías obtenido",
+      "ud": "había obtenido",
+      "nosotros": "habíamos obtenido",
+      "vosotros": "habíais obtenido",
+      "uds": "habían obtenido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube obtenido",
+      "tu": "hubiste obtenido",
+      "ud": "hubo obtenido",
+      "nosotros": "hubimos obtenido",
+      "vosotros": "hubisteis obtenido",
+      "uds": "hubieron obtenido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría obtenido",
+      "tu": "habrías obtenido",
+      "ud": "habría obtenido",
+      "nosotros": "habríamos obtenido",
+      "vosotros": "habríais obtenido",
+      "uds": "habrían obtenido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "obtenga",
+      "tu": "obtengas",
+      "ud": "obtenga",
+      "nosotros": "obtengamos",
+      "vosotros": "obtengáis",
+      "uds": "obtengan"
+    },
+    "imperfecto": {
+      "yo": "obtuviera",
+      "tu": "obtuvieras",
+      "ud": "obtuviera",
+      "nosotros": "obtuviéramos",
+      "vosotros": "obtuvierais",
+      "uds": "obtuvieran"
+    },
+    "futuro": {
+      "yo": "obtuviere",
+      "tu": "obtuvieres",
+      "ud": "obtuviere",
+      "nosotros": "obtuviéremos",
+      "vosotros": "obtuviereis",
+      "uds": "obtuvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya obtenido",
+      "tu": "hayas obtenido",
+      "ud": "haya obtenido",
+      "nosotros": "hayamos obtenido",
+      "vosotros": "hayáis obtenido",
+      "uds": "hayan obtenido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere obtenido",
+      "tu": "hubieres obtenido",
+      "ud": "hubiere obtenido",
+      "nosotros": "hubiéremos obtenido",
+      "vosotros": "hubiereis obtenido",
+      "uds": "hubieren obtenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera obtenido",
+      "tu": "hubieras obtenido",
+      "ud": "hubiera obtenido",
+      "nosotros": "hubiéramos obtenido",
+      "vosotros": "hubierais obtenido",
+      "uds": "hubieran obtenido"
+    },
+    "imperfectoAlt": {
+      "yo": "obtuviese",
+      "tu": "obtuvieses",
+      "ud": "obtuviese",
+      "nosotros": "obtuviésemos",
+      "vosotros": "obtuvieseis",
+      "uds": "obtuviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese obtenido",
+      "tu": "hubieses obtenido",
+      "ud": "hubiese obtenido",
+      "nosotros": "hubiésemos obtenido",
+      "vosotros": "hubieseis obtenido",
+      "uds": "hubiesen obtenido"
+    }
+  },
+  "afirmativo": {
+    "tu": "obtén",
+    "vosotros": "obtened",
+    "ud": "obtenga",
+    "uds": "obtengan"
+  },
+  "negativo": {
+    "tu": "no obtengas",
+    "vosotros": "no obtengáis",
+    "ud": "no obtenga",
+    "uds": "no obtengan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie. Formas irregulares: obtengo, obtenga, obtengas, etc. Radical irregular en el futuro y condicional: obtendr-. Radical fuerte en el pretérito: obtuv-. Mandato familiar singular irregular: obtén.",
+    "infinitivo": "to obtain, get",
+    "gerundio": "obtaining",
+    "participioPasado": "obtained",
+    "indicativo": {
+      "presente": "I obtain, am obtaining",
+      "futuro": "I will obtain",
+      "imperfecto": "I was obtaining, used to obtain, obtained",
+      "preterito": "I obtained",
+      "condicional": "I would obtain",
+      "presentePerfecto": "I have obtained",
+      "futuroPerfecto": "I will have obtained",
+      "pluscuamperfecto": "I had obtained",
+      "preteritoAnterior": "I had obtained",
+      "condicionalPerfecto": "I would have obtained"
+    },
+    "subjuntivo": {
+      "presente": "I obtain, am obtaining",
+      "imperfecto": "I obtained, was obtaining",
+      "futuro": "I will obtain",
+      "presentePerfecto": "I have obtained, obtained",
+      "futuroPerfecto": "I will have obtained",
+      "pluscuamperfecto": "I had obtained"
+    },
+    "afirmativo": "Obtain!",
+    "negativo": "Don't obtain!"
+  },
+  "attribution": "Fred Jehle"
+}

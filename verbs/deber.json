@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "deber",
+  "gerundio": "debiendo",
+  "participioPasado": "debido",
+  "indicativo": {
+    "presente": {
+      "yo": "debo",
+      "tu": "debes",
+      "ud": "debe",
+      "nosotros": "debemos",
+      "vosotros": "debéis",
+      "uds": "deben"
+    },
+    "futuro": {
+      "yo": "deberé",
+      "tu": "deberás",
+      "ud": "deberá",
+      "nosotros": "deberemos",
+      "vosotros": "deberéis",
+      "uds": "deberán"
+    },
+    "imperfecto": {
+      "yo": "debía",
+      "tu": "debías",
+      "ud": "debía",
+      "nosotros": "debíamos",
+      "vosotros": "debíais",
+      "uds": "debían"
+    },
+    "preterito": {
+      "yo": "debí",
+      "tu": "debiste",
+      "ud": "debió",
+      "nosotros": "debimos",
+      "vosotros": "debisteis",
+      "uds": "debieron"
+    },
+    "condicional": {
+      "yo": "debería",
+      "tu": "deberías",
+      "ud": "debería",
+      "nosotros": "deberíamos",
+      "vosotros": "deberíais",
+      "uds": "deberían"
+    },
+    "presentePerfecto": {
+      "yo": "he debido",
+      "tu": "has debido",
+      "ud": "ha debido",
+      "nosotros": "hemos debido",
+      "vosotros": "habéis debido",
+      "uds": "han debido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré debido",
+      "tu": "habrás debido",
+      "ud": "habrá debido",
+      "nosotros": "habremos debido",
+      "vosotros": "habréis debido",
+      "uds": "habrán debido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había debido",
+      "tu": "habías debido",
+      "ud": "había debido",
+      "nosotros": "habíamos debido",
+      "vosotros": "habíais debido",
+      "uds": "habían debido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube debido",
+      "tu": "hubiste debido",
+      "ud": "hubo debido",
+      "nosotros": "hubimos debido",
+      "vosotros": "hubisteis debido",
+      "uds": "hubieron debido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría debido",
+      "tu": "habrías debido",
+      "ud": "habría debido",
+      "nosotros": "habríamos debido",
+      "vosotros": "habríais debido",
+      "uds": "habrían debido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "deba",
+      "tu": "debas",
+      "ud": "deba",
+      "nosotros": "debamos",
+      "vosotros": "debáis",
+      "uds": "deban"
+    },
+    "imperfecto": {
+      "yo": "debiera",
+      "tu": "debieras",
+      "ud": "debiera",
+      "nosotros": "debiéramos",
+      "vosotros": "debierais",
+      "uds": "debieran"
+    },
+    "futuro": {
+      "yo": "debiere",
+      "tu": "debieres",
+      "ud": "debiere",
+      "nosotros": "debiéremos",
+      "vosotros": "debiereis",
+      "uds": "debieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya debido",
+      "tu": "hayas debido",
+      "ud": "haya debido",
+      "nosotros": "hayamos debido",
+      "vosotros": "hayáis debido",
+      "uds": "hayan debido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere debido",
+      "tu": "hubieres debido",
+      "ud": "hubiere debido",
+      "nosotros": "hubiéremos debido",
+      "vosotros": "hubiereis debido",
+      "uds": "hubieren debido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera debido",
+      "tu": "hubieras debido",
+      "ud": "hubiera debido",
+      "nosotros": "hubiéramos debido",
+      "vosotros": "hubierais debido",
+      "uds": "hubieran debido"
+    },
+    "imperfectoAlt": {
+      "yo": "debiese",
+      "tu": "debieses",
+      "ud": "debiese",
+      "nosotros": "debiésemos",
+      "vosotros": "debieseis",
+      "uds": "debiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese debido",
+      "tu": "hubieses debido",
+      "ud": "hubiese debido",
+      "nosotros": "hubiésemos debido",
+      "vosotros": "hubieseis debido",
+      "uds": "hubiesen debido"
+    }
+  },
+  "afirmativo": {
+    "tu": "debe",
+    "vosotros": "debed",
+    "ud": "deba",
+    "uds": "deban"
+  },
+  "negativo": {
+    "tu": "no debas",
+    "vosotros": "no debáis",
+    "ud": "no deba",
+    "uds": "no deban"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to owe; must, should, ought to",
+    "gerundio": "owing",
+    "participioPasado": "owed",
+    "indicativo": {
+      "presente": "I owe, am owing",
+      "futuro": "I will owe",
+      "imperfecto": "I was owing, used to owe, owed",
+      "preterito": "I owed",
+      "condicional": "I would owe",
+      "presentePerfecto": "I have owed",
+      "futuroPerfecto": "I will have owed",
+      "pluscuamperfecto": "I had owed",
+      "preteritoAnterior": "I had owed",
+      "condicionalPerfecto": "I would have owed"
+    },
+    "subjuntivo": {
+      "presente": "I owe, am owing",
+      "imperfecto": "I owed, was owing",
+      "futuro": "I will owe",
+      "presentePerfecto": "I have owed, owed",
+      "futuroPerfecto": "I will have owed",
+      "pluscuamperfecto": "I had owed"
+    },
+    "afirmativo": "Owe!",
+    "negativo": "Don't owe!"
+  },
+  "attribution": "Fred Jehle"
+}

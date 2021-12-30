@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "aspirar",
+  "gerundio": "aspirando",
+  "participioPasado": "aspirado",
+  "indicativo": {
+    "presente": {
+      "yo": "aspiro",
+      "tu": "aspiras",
+      "ud": "aspira",
+      "nosotros": "aspiramos",
+      "vosotros": "aspiráis",
+      "uds": "aspiran"
+    },
+    "futuro": {
+      "yo": "aspiraré",
+      "tu": "aspirarás",
+      "ud": "aspirará",
+      "nosotros": "aspiraremos",
+      "vosotros": "aspiraréis",
+      "uds": "aspirarán"
+    },
+    "imperfecto": {
+      "yo": "aspiraba",
+      "tu": "aspirabas",
+      "ud": "aspiraba",
+      "nosotros": "aspirábamos",
+      "vosotros": "aspirabais",
+      "uds": "aspiraban"
+    },
+    "preterito": {
+      "yo": "aspiré",
+      "tu": "aspiraste",
+      "ud": "aspiró",
+      "nosotros": "aspiramos",
+      "vosotros": "aspirasteis",
+      "uds": "aspiraron"
+    },
+    "condicional": {
+      "yo": "aspiraría",
+      "tu": "aspirarías",
+      "ud": "aspiraría",
+      "nosotros": "aspiraríamos",
+      "vosotros": "aspiraríais",
+      "uds": "aspirarían"
+    },
+    "presentePerfecto": {
+      "yo": "he aspirado",
+      "tu": "has aspirado",
+      "ud": "ha aspirado",
+      "nosotros": "hemos aspirado",
+      "vosotros": "habéis aspirado",
+      "uds": "han aspirado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré aspirado",
+      "tu": "habrás aspirado",
+      "ud": "habrá aspirado",
+      "nosotros": "habremos aspirado",
+      "vosotros": "habréis aspirado",
+      "uds": "habrán aspirado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había aspirado",
+      "tu": "habías aspirado",
+      "ud": "había aspirado",
+      "nosotros": "habíamos aspirado",
+      "vosotros": "habíais aspirado",
+      "uds": "habían aspirado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube aspirado",
+      "tu": "hubiste aspirado",
+      "ud": "hubo aspirado",
+      "nosotros": "hubimos aspirado",
+      "vosotros": "hubisteis aspirado",
+      "uds": "hubieron aspirado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría aspirado",
+      "tu": "habrías aspirado",
+      "ud": "habría aspirado",
+      "nosotros": "habríamos aspirado",
+      "vosotros": "habríais aspirado",
+      "uds": "habrían aspirado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aspire",
+      "tu": "aspires",
+      "ud": "aspire",
+      "nosotros": "aspiremos",
+      "vosotros": "aspiréis",
+      "uds": "aspiren"
+    },
+    "imperfecto": {
+      "yo": "aspirara",
+      "tu": "aspiraras",
+      "ud": "aspirara",
+      "nosotros": "aspiráramos",
+      "vosotros": "aspirarais",
+      "uds": "aspiraran"
+    },
+    "futuro": {
+      "yo": "aspirare",
+      "tu": "aspirares",
+      "ud": "aspirare",
+      "nosotros": "aspiráremos",
+      "vosotros": "aspirareis",
+      "uds": "aspiraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya aspirado",
+      "tu": "hayas aspirado",
+      "ud": "haya aspirado",
+      "nosotros": "hayamos aspirado",
+      "vosotros": "hayáis aspirado",
+      "uds": "hayan aspirado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere aspirado",
+      "tu": "hubieres aspirado",
+      "ud": "hubiere aspirado",
+      "nosotros": "hubiéremos aspirado",
+      "vosotros": "hubiereis aspirado",
+      "uds": "hubieren aspirado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera aspirado",
+      "tu": "hubieras aspirado",
+      "ud": "hubiera aspirado",
+      "nosotros": "hubiéramos aspirado",
+      "vosotros": "hubierais aspirado",
+      "uds": "hubieran aspirado"
+    },
+    "imperfectoAlt": {
+      "yo": "aspirase",
+      "tu": "aspirases",
+      "ud": "aspirase",
+      "nosotros": "aspirásemos",
+      "vosotros": "aspiraseis",
+      "uds": "aspirasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese aspirado",
+      "tu": "hubieses aspirado",
+      "ud": "hubiese aspirado",
+      "nosotros": "hubiésemos aspirado",
+      "vosotros": "hubieseis aspirado",
+      "uds": "hubiesen aspirado"
+    }
+  },
+  "afirmativo": {
+    "tu": "aspira",
+    "vosotros": "aspirad",
+    "ud": "aspire",
+    "uds": "aspiren"
+  },
+  "negativo": {
+    "tu": "no aspires",
+    "vosotros": "no aspiréis",
+    "ud": "no aspire",
+    "uds": "no aspiren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to breath in, inhale; to suck in; to aspirate; to aspire",
+    "gerundio": "breathing in",
+    "participioPasado": "breathed in",
+    "indicativo": {
+      "presente": "I breath in, am breathing in",
+      "futuro": "I will breath in",
+      "imperfecto": "I was breathing in, used to breath in, breathed in",
+      "preterito": "I breathed in",
+      "condicional": "I would breath in",
+      "presentePerfecto": "I have breathed in",
+      "futuroPerfecto": "I will have breathed in",
+      "pluscuamperfecto": "I had breathed in",
+      "preteritoAnterior": "I had breathed in",
+      "condicionalPerfecto": "I would have breathed in"
+    },
+    "subjuntivo": {
+      "presente": "I breath in, am breathing in",
+      "imperfecto": "I breathed in, was breathing in",
+      "futuro": "I will breath in",
+      "presentePerfecto": "I have breathed in, breathed in",
+      "futuroPerfecto": "I will have breathed in",
+      "pluscuamperfecto": "I had breathed in"
+    },
+    "afirmativo": "Breath in!",
+    "negativo": "Don't breath in!"
+  },
+  "attribution": "Fred Jehle"
+}

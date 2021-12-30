@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "lanzar",
+  "gerundio": "lanzando",
+  "participioPasado": "lanzado",
+  "indicativo": {
+    "presente": {
+      "yo": "lanzo",
+      "tu": "lanzas",
+      "ud": "lanza",
+      "nosotros": "lanzamos",
+      "vosotros": "lanzáis",
+      "uds": "lanzan"
+    },
+    "futuro": {
+      "yo": "lanzaré",
+      "tu": "lanzarás",
+      "ud": "lanzará",
+      "nosotros": "lanzaremos",
+      "vosotros": "lanzaréis",
+      "uds": "lanzarán"
+    },
+    "imperfecto": {
+      "yo": "lanzaba",
+      "tu": "lanzabas",
+      "ud": "lanzaba",
+      "nosotros": "lanzábamos",
+      "vosotros": "lanzabais",
+      "uds": "lanzaban"
+    },
+    "preterito": {
+      "yo": "lancé",
+      "tu": "lanzaste",
+      "ud": "lanzó",
+      "nosotros": "lanzamos",
+      "vosotros": "lanzasteis",
+      "uds": "lanzaron"
+    },
+    "condicional": {
+      "yo": "lanzaría",
+      "tu": "lanzarías",
+      "ud": "lanzaría",
+      "nosotros": "lanzaríamos",
+      "vosotros": "lanzaríais",
+      "uds": "lanzarían"
+    },
+    "presentePerfecto": {
+      "yo": "he lanzado",
+      "tu": "has lanzado",
+      "ud": "ha lanzado",
+      "nosotros": "hemos lanzado",
+      "vosotros": "habéis lanzado",
+      "uds": "han lanzado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré lanzado",
+      "tu": "habrás lanzado",
+      "ud": "habrá lanzado",
+      "nosotros": "habremos lanzado",
+      "vosotros": "habréis lanzado",
+      "uds": "habrán lanzado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había lanzado",
+      "tu": "habías lanzado",
+      "ud": "había lanzado",
+      "nosotros": "habíamos lanzado",
+      "vosotros": "habíais lanzado",
+      "uds": "habían lanzado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube lanzado",
+      "tu": "hubiste lanzado",
+      "ud": "hubo lanzado",
+      "nosotros": "hubimos lanzado",
+      "vosotros": "hubisteis lanzado",
+      "uds": "hubieron lanzado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría lanzado",
+      "tu": "habrías lanzado",
+      "ud": "habría lanzado",
+      "nosotros": "habríamos lanzado",
+      "vosotros": "habríais lanzado",
+      "uds": "habrían lanzado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "lance",
+      "tu": "lances",
+      "ud": "lance",
+      "nosotros": "lancemos",
+      "vosotros": "lancéis",
+      "uds": "lancen"
+    },
+    "imperfecto": {
+      "yo": "lanzara",
+      "tu": "lanzaras",
+      "ud": "lanzara",
+      "nosotros": "lanzáramos",
+      "vosotros": "lanzarais",
+      "uds": "lanzaran"
+    },
+    "futuro": {
+      "yo": "lanzare",
+      "tu": "lanzares",
+      "ud": "lanzare",
+      "nosotros": "lanzáremos",
+      "vosotros": "lanzareis",
+      "uds": "lanzaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya lanzado",
+      "tu": "hayas lanzado",
+      "ud": "haya lanzado",
+      "nosotros": "hayamos lanzado",
+      "vosotros": "hayáis lanzado",
+      "uds": "hayan lanzado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere lanzado",
+      "tu": "hubieres lanzado",
+      "ud": "hubiere lanzado",
+      "nosotros": "hubiéremos lanzado",
+      "vosotros": "hubiereis lanzado",
+      "uds": "hubieren lanzado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera lanzado",
+      "tu": "hubieras lanzado",
+      "ud": "hubiera lanzado",
+      "nosotros": "hubiéramos lanzado",
+      "vosotros": "hubierais lanzado",
+      "uds": "hubieran lanzado"
+    },
+    "imperfectoAlt": {
+      "yo": "lanzase",
+      "tu": "lanzases",
+      "ud": "lanzase",
+      "nosotros": "lanzásemos",
+      "vosotros": "lanzaseis",
+      "uds": "lanzasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese lanzado",
+      "tu": "hubieses lanzado",
+      "ud": "hubiese lanzado",
+      "nosotros": "hubiésemos lanzado",
+      "vosotros": "hubieseis lanzado",
+      "uds": "hubiesen lanzado"
+    }
+  },
+  "afirmativo": {
+    "tu": "lanza",
+    "vosotros": "lanzad",
+    "ud": "lance",
+    "uds": "lancen"
+  },
+  "negativo": {
+    "tu": "no lances",
+    "vosotros": "no lancéis",
+    "ud": "no lance",
+    "uds": "no lancen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to throw, hurl, cast, fling",
+    "gerundio": "throwing",
+    "participioPasado": "thrown",
+    "indicativo": {
+      "presente": "I throw, am throwing",
+      "futuro": "I will throw",
+      "imperfecto": "I was throwing, used to throw, threw",
+      "preterito": "I threw",
+      "condicional": "I would throw",
+      "presentePerfecto": "I have thrown",
+      "futuroPerfecto": "I will have thrown",
+      "pluscuamperfecto": "I had thrown",
+      "preteritoAnterior": "I had thrown",
+      "condicionalPerfecto": "I would have thrown"
+    },
+    "subjuntivo": {
+      "presente": "I throw, am throwing",
+      "imperfecto": "I threw, was throwing",
+      "futuro": "I will throw",
+      "presentePerfecto": "I have thrown, threw",
+      "futuroPerfecto": "I will have thrown",
+      "pluscuamperfecto": "I had thrown"
+    },
+    "afirmativo": "Throw!",
+    "negativo": "Don't throw!"
+  },
+  "attribution": "Fred Jehle"
+}

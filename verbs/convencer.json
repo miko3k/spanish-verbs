@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "convencer",
+  "gerundio": "convenciendo",
+  "participioPasado": "convencido",
+  "indicativo": {
+    "presente": {
+      "yo": "convenzo",
+      "tu": "convences",
+      "ud": "convence",
+      "nosotros": "convencemos",
+      "vosotros": "convencéis",
+      "uds": "convencen"
+    },
+    "futuro": {
+      "yo": "convenceré",
+      "tu": "convencerás",
+      "ud": "convencerá",
+      "nosotros": "convenceremos",
+      "vosotros": "convenceréis",
+      "uds": "convencerán"
+    },
+    "imperfecto": {
+      "yo": "convencía",
+      "tu": "convencías",
+      "ud": "convencía",
+      "nosotros": "convencíamos",
+      "vosotros": "convencíais",
+      "uds": "convencían"
+    },
+    "preterito": {
+      "yo": "convencí",
+      "tu": "convenciste",
+      "ud": "convenció",
+      "nosotros": "convencimos",
+      "vosotros": "convencisteis",
+      "uds": "convencieron"
+    },
+    "condicional": {
+      "yo": "convencería",
+      "tu": "convencerías",
+      "ud": "convencería",
+      "nosotros": "convenceríamos",
+      "vosotros": "convenceríais",
+      "uds": "convencerían"
+    },
+    "presentePerfecto": {
+      "yo": "he convencido",
+      "tu": "has convencido",
+      "ud": "ha convencido",
+      "nosotros": "hemos convencido",
+      "vosotros": "habéis convencido",
+      "uds": "han convencido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré convencido",
+      "tu": "habrás convencido",
+      "ud": "habrá convencido",
+      "nosotros": "habremos convencido",
+      "vosotros": "habréis convencido",
+      "uds": "habrán convencido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había convencido",
+      "tu": "habías convencido",
+      "ud": "había convencido",
+      "nosotros": "habíamos convencido",
+      "vosotros": "habíais convencido",
+      "uds": "habían convencido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube convencido",
+      "tu": "hubiste convencido",
+      "ud": "hubo convencido",
+      "nosotros": "hubimos convencido",
+      "vosotros": "hubisteis convencido",
+      "uds": "hubieron convencido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría convencido",
+      "tu": "habrías convencido",
+      "ud": "habría convencido",
+      "nosotros": "habríamos convencido",
+      "vosotros": "habríais convencido",
+      "uds": "habrían convencido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "convenza",
+      "tu": "convenzas",
+      "ud": "convenza",
+      "nosotros": "convenzamos",
+      "vosotros": "convenzáis",
+      "uds": "convenzan"
+    },
+    "imperfecto": {
+      "yo": "convenciera",
+      "tu": "convencieras",
+      "ud": "convenciera",
+      "nosotros": "convenciéramos",
+      "vosotros": "convencierais",
+      "uds": "convencieran"
+    },
+    "futuro": {
+      "yo": "convenciere",
+      "tu": "convencieres",
+      "ud": "convenciere",
+      "nosotros": "convenciéremos",
+      "vosotros": "convenciereis",
+      "uds": "convencieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya convencido",
+      "tu": "hayas convencido",
+      "ud": "haya convencido",
+      "nosotros": "hayamos convencido",
+      "vosotros": "hayáis convencido",
+      "uds": "hayan convencido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere convencido",
+      "tu": "hubieres convencido",
+      "ud": "hubiere convencido",
+      "nosotros": "hubiéremos convencido",
+      "vosotros": "hubiereis convencido",
+      "uds": "hubieren convencido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera convencido",
+      "tu": "hubieras convencido",
+      "ud": "hubiera convencido",
+      "nosotros": "hubiéramos convencido",
+      "vosotros": "hubierais convencido",
+      "uds": "hubieran convencido"
+    },
+    "imperfectoAlt": {
+      "yo": "convenciese",
+      "tu": "convencieses",
+      "ud": "convenciese",
+      "nosotros": "convenciésemos",
+      "vosotros": "convencieseis",
+      "uds": "convenciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese convencido",
+      "tu": "hubieses convencido",
+      "ud": "hubiese convencido",
+      "nosotros": "hubiésemos convencido",
+      "vosotros": "hubieseis convencido",
+      "uds": "hubiesen convencido"
+    }
+  },
+  "afirmativo": {
+    "tu": "convence",
+    "vosotros": "convenced",
+    "ud": "convenza",
+    "uds": "convenzan"
+  },
+  "negativo": {
+    "tu": "no convenzas",
+    "vosotros": "no convenzáis",
+    "ud": "no convenza",
+    "uds": "no convenzan"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > z delante de o y a.",
+    "infinitivo": "to convince",
+    "gerundio": "convincing",
+    "participioPasado": "convinced",
+    "indicativo": {
+      "presente": "I convince, am convincing",
+      "futuro": "I will convince",
+      "imperfecto": "I was convincing, used to convince, convinced",
+      "preterito": "I convinced",
+      "condicional": "I would convince",
+      "presentePerfecto": "I have convinced",
+      "futuroPerfecto": "I will have convinced",
+      "pluscuamperfecto": "I had convinced",
+      "preteritoAnterior": "I had convinced",
+      "condicionalPerfecto": "I would have convinced"
+    },
+    "subjuntivo": {
+      "presente": "I convince, am convincing",
+      "imperfecto": "I convinced, was convincing",
+      "futuro": "I will convince",
+      "presentePerfecto": "I have convinced, convinced",
+      "futuroPerfecto": "I will have convinced",
+      "pluscuamperfecto": "I had convinced"
+    },
+    "afirmativo": "Convince!",
+    "negativo": "Don't convince!"
+  },
+  "attribution": "Fred Jehle"
+}

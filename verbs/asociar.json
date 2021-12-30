@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "asociar",
+  "gerundio": "asociando",
+  "participioPasado": "asociado",
+  "indicativo": {
+    "presente": {
+      "yo": "asocio",
+      "tu": "asocias",
+      "ud": "asocia",
+      "nosotros": "asociamos",
+      "vosotros": "asociáis",
+      "uds": "asocian"
+    },
+    "futuro": {
+      "yo": "asociaré",
+      "tu": "asociarás",
+      "ud": "asociará",
+      "nosotros": "asociaremos",
+      "vosotros": "asociaréis",
+      "uds": "asociarán"
+    },
+    "imperfecto": {
+      "yo": "asociaba",
+      "tu": "asociabas",
+      "ud": "asociaba",
+      "nosotros": "asociábamos",
+      "vosotros": "asociabais",
+      "uds": "asociaban"
+    },
+    "preterito": {
+      "yo": "asocié",
+      "tu": "asociaste",
+      "ud": "asoció",
+      "nosotros": "asociamos",
+      "vosotros": "asociasteis",
+      "uds": "asociaron"
+    },
+    "condicional": {
+      "yo": "asociaría",
+      "tu": "asociarías",
+      "ud": "asociaría",
+      "nosotros": "asociaríamos",
+      "vosotros": "asociaríais",
+      "uds": "asociarían"
+    },
+    "presentePerfecto": {
+      "yo": "he asociado",
+      "tu": "has asociado",
+      "ud": "ha asociado",
+      "nosotros": "hemos asociado",
+      "vosotros": "habéis asociado",
+      "uds": "han asociado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré asociado",
+      "tu": "habrás asociado",
+      "ud": "habrá asociado",
+      "nosotros": "habremos asociado",
+      "vosotros": "habréis asociado",
+      "uds": "habrán asociado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había asociado",
+      "tu": "habías asociado",
+      "ud": "había asociado",
+      "nosotros": "habíamos asociado",
+      "vosotros": "habíais asociado",
+      "uds": "habían asociado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube asociado",
+      "tu": "hubiste asociado",
+      "ud": "hubo asociado",
+      "nosotros": "hubimos asociado",
+      "vosotros": "hubisteis asociado",
+      "uds": "hubieron asociado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría asociado",
+      "tu": "habrías asociado",
+      "ud": "habría asociado",
+      "nosotros": "habríamos asociado",
+      "vosotros": "habríais asociado",
+      "uds": "habrían asociado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "asocie",
+      "tu": "asocies",
+      "ud": "asocie",
+      "nosotros": "asociemos",
+      "vosotros": "asociéis",
+      "uds": "asocien"
+    },
+    "imperfecto": {
+      "yo": "asociara",
+      "tu": "asociaras",
+      "ud": "asociara",
+      "nosotros": "asociáramos",
+      "vosotros": "asociarais",
+      "uds": "asociaran"
+    },
+    "futuro": {
+      "yo": "asociare",
+      "tu": "asociares",
+      "ud": "asociare",
+      "nosotros": "asociáremos",
+      "vosotros": "asociareis",
+      "uds": "asociaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya asociado",
+      "tu": "hayas asociado",
+      "ud": "haya asociado",
+      "nosotros": "hayamos asociado",
+      "vosotros": "hayáis asociado",
+      "uds": "hayan asociado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere asociado",
+      "tu": "hubieres asociado",
+      "ud": "hubiere asociado",
+      "nosotros": "hubiéremos asociado",
+      "vosotros": "hubiereis asociado",
+      "uds": "hubieren asociado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera asociado",
+      "tu": "hubieras asociado",
+      "ud": "hubiera asociado",
+      "nosotros": "hubiéramos asociado",
+      "vosotros": "hubierais asociado",
+      "uds": "hubieran asociado"
+    },
+    "imperfectoAlt": {
+      "yo": "asociase",
+      "tu": "asociases",
+      "ud": "asociase",
+      "nosotros": "asociásemos",
+      "vosotros": "asociaseis",
+      "uds": "asociasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese asociado",
+      "tu": "hubieses asociado",
+      "ud": "hubiese asociado",
+      "nosotros": "hubiésemos asociado",
+      "vosotros": "hubieseis asociado",
+      "uds": "hubiesen asociado"
+    }
+  },
+  "afirmativo": {
+    "tu": "asocia",
+    "vosotros": "asociad",
+    "ud": "asocie",
+    "uds": "asocien"
+  },
+  "negativo": {
+    "tu": "no asocies",
+    "vosotros": "no asociéis",
+    "ud": "no asocie",
+    "uds": "no asocien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to associate; to pool, put together (efforts, resources)",
+    "gerundio": "associating",
+    "participioPasado": "associated",
+    "indicativo": {
+      "presente": "I associate, am associating",
+      "futuro": "I will associate",
+      "imperfecto": "I was associating, used to associate, associated",
+      "preterito": "I associated",
+      "condicional": "I would associate",
+      "presentePerfecto": "I have associated",
+      "futuroPerfecto": "I will have associated",
+      "pluscuamperfecto": "I had associated",
+      "preteritoAnterior": "I had associated",
+      "condicionalPerfecto": "I would have associated"
+    },
+    "subjuntivo": {
+      "presente": "I associate, am associating",
+      "imperfecto": "I associated, was associating",
+      "futuro": "I will associate",
+      "presentePerfecto": "I have associated, associated",
+      "futuroPerfecto": "I will have associated",
+      "pluscuamperfecto": "I had associated"
+    },
+    "afirmativo": "Associate!",
+    "negativo": "Don't associate!"
+  },
+  "attribution": "Fred Jehle"
+}

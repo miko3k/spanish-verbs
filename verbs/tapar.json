@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "tapar",
+  "gerundio": "tapando",
+  "participioPasado": "tapado",
+  "indicativo": {
+    "presente": {
+      "yo": "tapo",
+      "tu": "tapas",
+      "ud": "tapa",
+      "nosotros": "tapamos",
+      "vosotros": "tapáis",
+      "uds": "tapan"
+    },
+    "futuro": {
+      "yo": "taparé",
+      "tu": "taparás",
+      "ud": "tapará",
+      "nosotros": "taparemos",
+      "vosotros": "taparéis",
+      "uds": "taparán"
+    },
+    "imperfecto": {
+      "yo": "tapaba",
+      "tu": "tapabas",
+      "ud": "tapaba",
+      "nosotros": "tapábamos",
+      "vosotros": "tapabais",
+      "uds": "tapaban"
+    },
+    "preterito": {
+      "yo": "tapé",
+      "tu": "tapaste",
+      "ud": "tapó",
+      "nosotros": "tapamos",
+      "vosotros": "tapasteis",
+      "uds": "taparon"
+    },
+    "condicional": {
+      "yo": "taparía",
+      "tu": "taparías",
+      "ud": "taparía",
+      "nosotros": "taparíamos",
+      "vosotros": "taparíais",
+      "uds": "taparían"
+    },
+    "presentePerfecto": {
+      "yo": "he tapado",
+      "tu": "has tapado",
+      "ud": "ha tapado",
+      "nosotros": "hemos tapado",
+      "vosotros": "habéis tapado",
+      "uds": "han tapado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré tapado",
+      "tu": "habrás tapado",
+      "ud": "habrá tapado",
+      "nosotros": "habremos tapado",
+      "vosotros": "habréis tapado",
+      "uds": "habrán tapado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había tapado",
+      "tu": "habías tapado",
+      "ud": "había tapado",
+      "nosotros": "habíamos tapado",
+      "vosotros": "habíais tapado",
+      "uds": "habían tapado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube tapado",
+      "tu": "hubiste tapado",
+      "ud": "hubo tapado",
+      "nosotros": "hubimos tapado",
+      "vosotros": "hubisteis tapado",
+      "uds": "hubieron tapado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría tapado",
+      "tu": "habrías tapado",
+      "ud": "habría tapado",
+      "nosotros": "habríamos tapado",
+      "vosotros": "habríais tapado",
+      "uds": "habrían tapado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "tape",
+      "tu": "tapes",
+      "ud": "tape",
+      "nosotros": "tapemos",
+      "vosotros": "tapéis",
+      "uds": "tapen"
+    },
+    "imperfecto": {
+      "yo": "tapara",
+      "tu": "taparas",
+      "ud": "tapara",
+      "nosotros": "tapáramos",
+      "vosotros": "taparais",
+      "uds": "taparan"
+    },
+    "futuro": {
+      "yo": "tapare",
+      "tu": "tapares",
+      "ud": "tapare",
+      "nosotros": "tapáremos",
+      "vosotros": "tapareis",
+      "uds": "taparen"
+    },
+    "presentePerfecto": {
+      "yo": "haya tapado",
+      "tu": "hayas tapado",
+      "ud": "haya tapado",
+      "nosotros": "hayamos tapado",
+      "vosotros": "hayáis tapado",
+      "uds": "hayan tapado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere tapado",
+      "tu": "hubieres tapado",
+      "ud": "hubiere tapado",
+      "nosotros": "hubiéremos tapado",
+      "vosotros": "hubiereis tapado",
+      "uds": "hubieren tapado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera tapado",
+      "tu": "hubieras tapado",
+      "ud": "hubiera tapado",
+      "nosotros": "hubiéramos tapado",
+      "vosotros": "hubierais tapado",
+      "uds": "hubieran tapado"
+    },
+    "imperfectoAlt": {
+      "yo": "tapase",
+      "tu": "tapases",
+      "ud": "tapase",
+      "nosotros": "tapásemos",
+      "vosotros": "tapaseis",
+      "uds": "tapasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese tapado",
+      "tu": "hubieses tapado",
+      "ud": "hubiese tapado",
+      "nosotros": "hubiésemos tapado",
+      "vosotros": "hubieseis tapado",
+      "uds": "hubiesen tapado"
+    }
+  },
+  "afirmativo": {
+    "tu": "tapa",
+    "vosotros": "tapad",
+    "ud": "tape",
+    "uds": "tapen"
+  },
+  "negativo": {
+    "tu": "no tapes",
+    "vosotros": "no tapéis",
+    "ud": "no tape",
+    "uds": "no tapen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to cover; to put the lid on, put the cap on, put the stopper in (a container); to cover up, hide, conceal",
+    "gerundio": "covering",
+    "participioPasado": "covered",
+    "indicativo": {
+      "presente": "I cover, am covering",
+      "futuro": "I will cover",
+      "imperfecto": "I was covering, used to cover, covered",
+      "preterito": "I covered",
+      "condicional": "I would cover",
+      "presentePerfecto": "I have covered",
+      "futuroPerfecto": "I will have covered",
+      "pluscuamperfecto": "I had covered",
+      "preteritoAnterior": "I had covered",
+      "condicionalPerfecto": "I would have covered"
+    },
+    "subjuntivo": {
+      "presente": "I cover, am covering",
+      "imperfecto": "I covered, was covering",
+      "futuro": "I will cover",
+      "presentePerfecto": "I have covered, covered",
+      "futuroPerfecto": "I will have covered",
+      "pluscuamperfecto": "I had covered"
+    },
+    "afirmativo": "Cover!",
+    "negativo": "Don't cover!"
+  },
+  "attribution": "Fred Jehle"
+}

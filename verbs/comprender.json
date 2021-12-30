@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "comprender",
+  "gerundio": "comprendiendo",
+  "participioPasado": "comprendido",
+  "indicativo": {
+    "presente": {
+      "yo": "comprendo",
+      "tu": "comprendes",
+      "ud": "comprende",
+      "nosotros": "comprendemos",
+      "vosotros": "comprendéis",
+      "uds": "comprenden"
+    },
+    "futuro": {
+      "yo": "comprenderé",
+      "tu": "comprenderás",
+      "ud": "comprenderá",
+      "nosotros": "comprenderemos",
+      "vosotros": "comprenderéis",
+      "uds": "comprenderán"
+    },
+    "imperfecto": {
+      "yo": "comprendía",
+      "tu": "comprendías",
+      "ud": "comprendía",
+      "nosotros": "comprendíamos",
+      "vosotros": "comprendíais",
+      "uds": "comprendían"
+    },
+    "preterito": {
+      "yo": "comprendí",
+      "tu": "comprendiste",
+      "ud": "comprendió",
+      "nosotros": "comprendimos",
+      "vosotros": "comprendisteis",
+      "uds": "comprendieron"
+    },
+    "condicional": {
+      "yo": "comprendería",
+      "tu": "comprenderías",
+      "ud": "comprendería",
+      "nosotros": "comprenderíamos",
+      "vosotros": "comprenderíais",
+      "uds": "comprenderían"
+    },
+    "presentePerfecto": {
+      "yo": "he comprendido",
+      "tu": "has comprendido",
+      "ud": "ha comprendido",
+      "nosotros": "hemos comprendido",
+      "vosotros": "habéis comprendido",
+      "uds": "han comprendido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré comprendido",
+      "tu": "habrás comprendido",
+      "ud": "habrá comprendido",
+      "nosotros": "habremos comprendido",
+      "vosotros": "habréis comprendido",
+      "uds": "habrán comprendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había comprendido",
+      "tu": "habías comprendido",
+      "ud": "había comprendido",
+      "nosotros": "habíamos comprendido",
+      "vosotros": "habíais comprendido",
+      "uds": "habían comprendido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube comprendido",
+      "tu": "hubiste comprendido",
+      "ud": "hubo comprendido",
+      "nosotros": "hubimos comprendido",
+      "vosotros": "hubisteis comprendido",
+      "uds": "hubieron comprendido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría comprendido",
+      "tu": "habrías comprendido",
+      "ud": "habría comprendido",
+      "nosotros": "habríamos comprendido",
+      "vosotros": "habríais comprendido",
+      "uds": "habrían comprendido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "comprenda",
+      "tu": "comprendas",
+      "ud": "comprenda",
+      "nosotros": "comprendamos",
+      "vosotros": "comprendáis",
+      "uds": "comprendan"
+    },
+    "imperfecto": {
+      "yo": "comprendiera",
+      "tu": "comprendieras",
+      "ud": "comprendiera",
+      "nosotros": "comprendiéramos",
+      "vosotros": "comprendierais",
+      "uds": "comprendieran"
+    },
+    "futuro": {
+      "yo": "comprendiere",
+      "tu": "comprendieres",
+      "ud": "comprendiere",
+      "nosotros": "comprendiéremos",
+      "vosotros": "comprendiereis",
+      "uds": "comprendieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya comprendido",
+      "tu": "hayas comprendido",
+      "ud": "haya comprendido",
+      "nosotros": "hayamos comprendido",
+      "vosotros": "hayáis comprendido",
+      "uds": "hayan comprendido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere comprendido",
+      "tu": "hubieres comprendido",
+      "ud": "hubiere comprendido",
+      "nosotros": "hubiéremos comprendido",
+      "vosotros": "hubiereis comprendido",
+      "uds": "hubieren comprendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera comprendido",
+      "tu": "hubieras comprendido",
+      "ud": "hubiera comprendido",
+      "nosotros": "hubiéramos comprendido",
+      "vosotros": "hubierais comprendido",
+      "uds": "hubieran comprendido"
+    },
+    "imperfectoAlt": {
+      "yo": "comprendiese",
+      "tu": "comprendieses",
+      "ud": "comprendiese",
+      "nosotros": "comprendiésemos",
+      "vosotros": "comprendieseis",
+      "uds": "comprendiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese comprendido",
+      "tu": "hubieses comprendido",
+      "ud": "hubiese comprendido",
+      "nosotros": "hubiésemos comprendido",
+      "vosotros": "hubieseis comprendido",
+      "uds": "hubiesen comprendido"
+    }
+  },
+  "afirmativo": {
+    "tu": "comprende",
+    "vosotros": "comprended",
+    "ud": "comprenda",
+    "uds": "comprendan"
+  },
+  "negativo": {
+    "tu": "no comprendas",
+    "vosotros": "no comprendáis",
+    "ud": "no comprenda",
+    "uds": "no comprendan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to understand, comprehend",
+    "gerundio": "understanding",
+    "participioPasado": "understood",
+    "indicativo": {
+      "presente": "I understand, am understanding",
+      "futuro": "I will understand",
+      "imperfecto": "I was understanding, used to understand, understood",
+      "preterito": "I understood",
+      "condicional": "I would understand",
+      "presentePerfecto": "I have understood",
+      "futuroPerfecto": "I will have understood",
+      "pluscuamperfecto": "I had understood",
+      "preteritoAnterior": "I had understood",
+      "condicionalPerfecto": "I would have understood"
+    },
+    "subjuntivo": {
+      "presente": "I understand, am understanding",
+      "imperfecto": "I understood, was understanding",
+      "futuro": "I will understand",
+      "presentePerfecto": "I have understood, understood",
+      "futuroPerfecto": "I will have understood",
+      "pluscuamperfecto": "I had understood"
+    },
+    "afirmativo": "Understand!",
+    "negativo": "Don't understand!"
+  },
+  "attribution": "Fred Jehle"
+}

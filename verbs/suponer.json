@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "suponer",
+  "gerundio": "suponiendo",
+  "participioPasado": "supuesto",
+  "indicativo": {
+    "presente": {
+      "yo": "supongo",
+      "tu": "supones",
+      "ud": "supone",
+      "nosotros": "suponemos",
+      "vosotros": "suponéis",
+      "uds": "suponen"
+    },
+    "futuro": {
+      "yo": "supondré",
+      "tu": "supondrás",
+      "ud": "supondrá",
+      "nosotros": "supondremos",
+      "vosotros": "supondréis",
+      "uds": "supondrán"
+    },
+    "imperfecto": {
+      "yo": "suponía",
+      "tu": "suponías",
+      "ud": "suponía",
+      "nosotros": "suponíamos",
+      "vosotros": "suponíais",
+      "uds": "suponían"
+    },
+    "preterito": {
+      "yo": "supuse",
+      "tu": "supusiste",
+      "ud": "supuso",
+      "nosotros": "supusimos",
+      "vosotros": "supusisteis",
+      "uds": "supusieron"
+    },
+    "condicional": {
+      "yo": "supondría",
+      "tu": "supondrías",
+      "ud": "supondría",
+      "nosotros": "supondríamos",
+      "vosotros": "supondríais",
+      "uds": "supondrían"
+    },
+    "presentePerfecto": {
+      "yo": "he supuesto",
+      "tu": "has supuesto",
+      "ud": "ha supuesto",
+      "nosotros": "hemos supuesto",
+      "vosotros": "habéis supuesto",
+      "uds": "han supuesto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré supuesto",
+      "tu": "habrás supuesto",
+      "ud": "habrá supuesto",
+      "nosotros": "habremos supuesto",
+      "vosotros": "habréis supuesto",
+      "uds": "habrán supuesto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había supuesto",
+      "tu": "habías supuesto",
+      "ud": "había supuesto",
+      "nosotros": "habíamos supuesto",
+      "vosotros": "habíais supuesto",
+      "uds": "habían supuesto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube supuesto",
+      "tu": "hubiste supuesto",
+      "ud": "hubo supuesto",
+      "nosotros": "hubimos supuesto",
+      "vosotros": "hubisteis supuesto",
+      "uds": "hubieron supuesto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría supuesto",
+      "tu": "habrías supuesto",
+      "ud": "habría supuesto",
+      "nosotros": "habríamos supuesto",
+      "vosotros": "habríais supuesto",
+      "uds": "habrían supuesto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "suponga",
+      "tu": "supongas",
+      "ud": "suponga",
+      "nosotros": "supongamos",
+      "vosotros": "supongáis",
+      "uds": "supongan"
+    },
+    "imperfecto": {
+      "yo": "supusiera",
+      "tu": "supusieras",
+      "ud": "supusiera",
+      "nosotros": "supusiéramos",
+      "vosotros": "supusierais",
+      "uds": "supusieran"
+    },
+    "futuro": {
+      "yo": "supusiere",
+      "tu": "supusieres",
+      "ud": "supusiere",
+      "nosotros": "supusiéremos",
+      "vosotros": "supusiereis",
+      "uds": "supusieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya supuesto",
+      "tu": "hayas supuesto",
+      "ud": "haya supuesto",
+      "nosotros": "hayamos supuesto",
+      "vosotros": "hayáis supuesto",
+      "uds": "hayan supuesto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere supuesto",
+      "tu": "hubieres supuesto",
+      "ud": "hubiere supuesto",
+      "nosotros": "hubiéremos supuesto",
+      "vosotros": "hubiereis supuesto",
+      "uds": "hubieren supuesto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera supuesto",
+      "tu": "hubieras supuesto",
+      "ud": "hubiera supuesto",
+      "nosotros": "hubiéramos supuesto",
+      "vosotros": "hubierais supuesto",
+      "uds": "hubieran supuesto"
+    },
+    "imperfectoAlt": {
+      "yo": "supusiese",
+      "tu": "supusieses",
+      "ud": "supusiese",
+      "nosotros": "supusiésemos",
+      "vosotros": "supusieseis",
+      "uds": "supusiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese supuesto",
+      "tu": "hubieses supuesto",
+      "ud": "hubiese supuesto",
+      "nosotros": "hubiésemos supuesto",
+      "vosotros": "hubieseis supuesto",
+      "uds": "hubiesen supuesto"
+    }
+  },
+  "afirmativo": {
+    "tu": "supón",
+    "vosotros": "suponed",
+    "ud": "suponga",
+    "uds": "supongan"
+  },
+  "negativo": {
+    "tu": "no supongas",
+    "vosotros": "no supongáis",
+    "ud": "no suponga",
+    "uds": "no supongan"
+  },
+  "english": {
+    "note": "Formas irregulares: supongo, supongas, suponga, etc. Radical irregular en el futuro y condicional: supondr-. Radical fuerte en el pretérito: supus-. Participio pasado irregular: supuesto. Mandato familiar singular irregular: supón.",
+    "infinitivo": "to suppose",
+    "gerundio": "supposing",
+    "participioPasado": "supposed",
+    "indicativo": {
+      "presente": "I suppose, am supposing",
+      "futuro": "I will suppose",
+      "imperfecto": "I was supposing, used to suppose, supposed",
+      "preterito": "I supposed",
+      "condicional": "I would suppose",
+      "presentePerfecto": "I have supposed",
+      "futuroPerfecto": "I will have supposed",
+      "pluscuamperfecto": "I had supposed",
+      "preteritoAnterior": "I had supposed",
+      "condicionalPerfecto": "I would have supposed"
+    },
+    "subjuntivo": {
+      "presente": "I suppose, am supposing",
+      "imperfecto": "I supposed, was supposing",
+      "futuro": "I will suppose",
+      "presentePerfecto": "I have supposed, supposed",
+      "futuroPerfecto": "I will have supposed",
+      "pluscuamperfecto": "I had supposed"
+    },
+    "afirmativo": "Suppose!",
+    "negativo": "Don't suppose!"
+  },
+  "attribution": "Fred Jehle"
+}

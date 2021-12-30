@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "amar",
+  "gerundio": "amando",
+  "participioPasado": "amado",
+  "indicativo": {
+    "presente": {
+      "yo": "amo",
+      "tu": "amas",
+      "ud": "ama",
+      "nosotros": "amamos",
+      "vosotros": "amáis",
+      "uds": "aman"
+    },
+    "futuro": {
+      "yo": "amaré",
+      "tu": "amarás",
+      "ud": "amará",
+      "nosotros": "amaremos",
+      "vosotros": "amaréis",
+      "uds": "amarán"
+    },
+    "imperfecto": {
+      "yo": "amaba",
+      "tu": "amabas",
+      "ud": "amaba",
+      "nosotros": "amábamos",
+      "vosotros": "amabais",
+      "uds": "amaban"
+    },
+    "preterito": {
+      "yo": "amé",
+      "tu": "amaste",
+      "ud": "amó",
+      "nosotros": "amamos",
+      "vosotros": "amasteis",
+      "uds": "amaron"
+    },
+    "condicional": {
+      "yo": "amaría",
+      "tu": "amarías",
+      "ud": "amaría",
+      "nosotros": "amaríamos",
+      "vosotros": "amaríais",
+      "uds": "amarían"
+    },
+    "presentePerfecto": {
+      "yo": "he amado",
+      "tu": "has amado",
+      "ud": "ha amado",
+      "nosotros": "hemos amado",
+      "vosotros": "habéis amado",
+      "uds": "han amado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré amado",
+      "tu": "habrás amado",
+      "ud": "habrá amado",
+      "nosotros": "habremos amado",
+      "vosotros": "habréis amado",
+      "uds": "habrán amado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había amado",
+      "tu": "habías amado",
+      "ud": "había amado",
+      "nosotros": "habíamos amado",
+      "vosotros": "habíais amado",
+      "uds": "habían amado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube amado",
+      "tu": "hubiste amado",
+      "ud": "hubo amado",
+      "nosotros": "hubimos amado",
+      "vosotros": "hubisteis amado",
+      "uds": "hubieron amado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría amado",
+      "tu": "habrías amado",
+      "ud": "habría amado",
+      "nosotros": "habríamos amado",
+      "vosotros": "habríais amado",
+      "uds": "habrían amado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ame",
+      "tu": "ames",
+      "ud": "ame",
+      "nosotros": "amemos",
+      "vosotros": "améis",
+      "uds": "amen"
+    },
+    "imperfecto": {
+      "yo": "amara",
+      "tu": "amaras",
+      "ud": "amara",
+      "nosotros": "amáramos",
+      "vosotros": "amarais",
+      "uds": "amaran"
+    },
+    "futuro": {
+      "yo": "amare",
+      "tu": "amares",
+      "ud": "amare",
+      "nosotros": "amáremos",
+      "vosotros": "amareis",
+      "uds": "amaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya amado",
+      "tu": "hayas amado",
+      "ud": "haya amado",
+      "nosotros": "hayamos amado",
+      "vosotros": "hayáis amado",
+      "uds": "hayan amado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere amado",
+      "tu": "hubieres amado",
+      "ud": "hubiere amado",
+      "nosotros": "hubiéremos amado",
+      "vosotros": "hubiereis amado",
+      "uds": "hubieren amado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera amado",
+      "tu": "hubieras amado",
+      "ud": "hubiera amado",
+      "nosotros": "hubiéramos amado",
+      "vosotros": "hubierais amado",
+      "uds": "hubieran amado"
+    },
+    "imperfectoAlt": {
+      "yo": "amase",
+      "tu": "amases",
+      "ud": "amase",
+      "nosotros": "amásemos",
+      "vosotros": "amaseis",
+      "uds": "amasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese amado",
+      "tu": "hubieses amado",
+      "ud": "hubiese amado",
+      "nosotros": "hubiésemos amado",
+      "vosotros": "hubieseis amado",
+      "uds": "hubiesen amado"
+    }
+  },
+  "afirmativo": {
+    "tu": "ama",
+    "vosotros": "amad",
+    "ud": "ame",
+    "uds": "amen"
+  },
+  "negativo": {
+    "tu": "no ames",
+    "vosotros": "no améis",
+    "ud": "no ame",
+    "uds": "no amen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to love",
+    "gerundio": "loving",
+    "participioPasado": "loved",
+    "indicativo": {
+      "presente": "I love, am loving",
+      "futuro": "I will love",
+      "imperfecto": "I was loving, used to love, loved",
+      "preterito": "I loved",
+      "condicional": "I would love",
+      "presentePerfecto": "I have loved",
+      "futuroPerfecto": "I will have loved",
+      "pluscuamperfecto": "I had loved",
+      "preteritoAnterior": "I had loved",
+      "condicionalPerfecto": "I would have loved"
+    },
+    "subjuntivo": {
+      "presente": "I love, am loving",
+      "imperfecto": "I loved, was loving",
+      "futuro": "I will love",
+      "presentePerfecto": "I have loved, loved",
+      "futuroPerfecto": "I will have loved",
+      "pluscuamperfecto": "I had loved"
+    },
+    "afirmativo": "Love!",
+    "negativo": "Don't love!"
+  },
+  "attribution": "Fred Jehle"
+}

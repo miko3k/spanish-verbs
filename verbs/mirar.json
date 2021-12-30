@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "mirar",
+  "gerundio": "mirando",
+  "participioPasado": "mirado",
+  "indicativo": {
+    "presente": {
+      "yo": "miro",
+      "tu": "miras",
+      "ud": "mira",
+      "nosotros": "miramos",
+      "vosotros": "miráis",
+      "uds": "miran"
+    },
+    "futuro": {
+      "yo": "miraré",
+      "tu": "mirarás",
+      "ud": "mirará",
+      "nosotros": "miraremos",
+      "vosotros": "miraréis",
+      "uds": "mirarán"
+    },
+    "imperfecto": {
+      "yo": "miraba",
+      "tu": "mirabas",
+      "ud": "miraba",
+      "nosotros": "mirábamos",
+      "vosotros": "mirabais",
+      "uds": "miraban"
+    },
+    "preterito": {
+      "yo": "miré",
+      "tu": "miraste",
+      "ud": "miró",
+      "nosotros": "miramos",
+      "vosotros": "mirasteis",
+      "uds": "miraron"
+    },
+    "condicional": {
+      "yo": "miraría",
+      "tu": "mirarías",
+      "ud": "miraría",
+      "nosotros": "miraríamos",
+      "vosotros": "miraríais",
+      "uds": "mirarían"
+    },
+    "presentePerfecto": {
+      "yo": "he mirado",
+      "tu": "has mirado",
+      "ud": "ha mirado",
+      "nosotros": "hemos mirado",
+      "vosotros": "habéis mirado",
+      "uds": "han mirado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré mirado",
+      "tu": "habrás mirado",
+      "ud": "habrá mirado",
+      "nosotros": "habremos mirado",
+      "vosotros": "habréis mirado",
+      "uds": "habrán mirado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había mirado",
+      "tu": "habías mirado",
+      "ud": "había mirado",
+      "nosotros": "habíamos mirado",
+      "vosotros": "habíais mirado",
+      "uds": "habían mirado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube mirado",
+      "tu": "hubiste mirado",
+      "ud": "hubo mirado",
+      "nosotros": "hubimos mirado",
+      "vosotros": "hubisteis mirado",
+      "uds": "hubieron mirado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría mirado",
+      "tu": "habrías mirado",
+      "ud": "habría mirado",
+      "nosotros": "habríamos mirado",
+      "vosotros": "habríais mirado",
+      "uds": "habrían mirado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "mire",
+      "tu": "mires",
+      "ud": "mire",
+      "nosotros": "miremos",
+      "vosotros": "miréis",
+      "uds": "miren"
+    },
+    "imperfecto": {
+      "yo": "mirara",
+      "tu": "miraras",
+      "ud": "mirara",
+      "nosotros": "miráramos",
+      "vosotros": "mirarais",
+      "uds": "miraran"
+    },
+    "futuro": {
+      "yo": "mirare",
+      "tu": "mirares",
+      "ud": "mirare",
+      "nosotros": "miráremos",
+      "vosotros": "mirareis",
+      "uds": "miraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya mirado",
+      "tu": "hayas mirado",
+      "ud": "haya mirado",
+      "nosotros": "hayamos mirado",
+      "vosotros": "hayáis mirado",
+      "uds": "hayan mirado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere mirado",
+      "tu": "hubieres mirado",
+      "ud": "hubiere mirado",
+      "nosotros": "hubiéremos mirado",
+      "vosotros": "hubiereis mirado",
+      "uds": "hubieren mirado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera mirado",
+      "tu": "hubieras mirado",
+      "ud": "hubiera mirado",
+      "nosotros": "hubiéramos mirado",
+      "vosotros": "hubierais mirado",
+      "uds": "hubieran mirado"
+    },
+    "imperfectoAlt": {
+      "yo": "mirase",
+      "tu": "mirases",
+      "ud": "mirase",
+      "nosotros": "mirásemos",
+      "vosotros": "miraseis",
+      "uds": "mirasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese mirado",
+      "tu": "hubieses mirado",
+      "ud": "hubiese mirado",
+      "nosotros": "hubiésemos mirado",
+      "vosotros": "hubieseis mirado",
+      "uds": "hubiesen mirado"
+    }
+  },
+  "afirmativo": {
+    "tu": "mira",
+    "vosotros": "mirad",
+    "ud": "mire",
+    "uds": "miren"
+  },
+  "negativo": {
+    "tu": "no mires",
+    "vosotros": "no miréis",
+    "ud": "no mire",
+    "uds": "no miren"
+  },
+  "english": {
+    "note": "Note that the verb can mean to look at, so the preposition at (a) is normally not needed.",
+    "infinitivo": "to watch, look at",
+    "gerundio": "watching",
+    "participioPasado": "watched",
+    "indicativo": {
+      "presente": "I watch, am watching",
+      "futuro": "I will watch",
+      "imperfecto": "I was watching, used to watch, watched",
+      "preterito": "I watched",
+      "condicional": "I would watch",
+      "presentePerfecto": "I have watched",
+      "futuroPerfecto": "I will have watched",
+      "pluscuamperfecto": "I had watched",
+      "preteritoAnterior": "I had watched",
+      "condicionalPerfecto": "I would have watched"
+    },
+    "subjuntivo": {
+      "presente": "I watch, am watching",
+      "imperfecto": "I watched, was watching",
+      "futuro": "I will watch",
+      "presentePerfecto": "I have watched, watched",
+      "futuroPerfecto": "I will have watched",
+      "pluscuamperfecto": "I had watched"
+    },
+    "afirmativo": "Watch!",
+    "negativo": "Don't watch!"
+  },
+  "attribution": "Fred Jehle"
+}

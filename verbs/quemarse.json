@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "quemarse",
+  "gerundio": "quemándose",
+  "participioPasado": "quemado",
+  "indicativo": {
+    "presente": {
+      "yo": "me quemo",
+      "tu": "te quemas",
+      "ud": "se quema",
+      "nosotros": "nos quemamos",
+      "vosotros": "os quemáis",
+      "uds": "se queman"
+    },
+    "futuro": {
+      "yo": "me quemaré",
+      "tu": "te quemarás",
+      "ud": "se quemará",
+      "nosotros": "nos quemaremos",
+      "vosotros": "os quemaréis",
+      "uds": "se quemarán"
+    },
+    "imperfecto": {
+      "yo": "me quemaba",
+      "tu": "te quemabas",
+      "ud": "se quemaba",
+      "nosotros": "nos quemábamos",
+      "vosotros": "os quemabais",
+      "uds": "se quemaban"
+    },
+    "preterito": {
+      "yo": "me quemé",
+      "tu": "te quemaste",
+      "ud": "se quemó",
+      "nosotros": "nos quemamos",
+      "vosotros": "os quemasteis",
+      "uds": "se quemaron"
+    },
+    "condicional": {
+      "yo": "me quemaría",
+      "tu": "te quemarías",
+      "ud": "se quemaría",
+      "nosotros": "nos quemaríamos",
+      "vosotros": "os quemaríais",
+      "uds": "se quemarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he quemado",
+      "tu": "te has quemado",
+      "ud": "se ha quemado",
+      "nosotros": "nos hemos quemado",
+      "vosotros": "os habéis quemado",
+      "uds": "se han quemado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré quemado",
+      "tu": "te habrás quemado",
+      "ud": "se habrá quemado",
+      "nosotros": "nos habremos quemado",
+      "vosotros": "os habréis quemado",
+      "uds": "se habrán quemado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había quemado",
+      "tu": "te habías quemado",
+      "ud": "se había quemado",
+      "nosotros": "nos habíamos quemado",
+      "vosotros": "os habíais quemado",
+      "uds": "se habían quemado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube quemado",
+      "tu": "te hubiste quemado",
+      "ud": "se hubo quemado",
+      "nosotros": "nos hubimos quemado",
+      "vosotros": "os hubisteis quemado",
+      "uds": "se hubieron quemado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría quemado",
+      "tu": "te habrías quemado",
+      "ud": "se habría quemado",
+      "nosotros": "nos habríamos quemado",
+      "vosotros": "os habríais quemado",
+      "uds": "se habrían quemado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me queme",
+      "tu": "te quemes",
+      "ud": "se queme",
+      "nosotros": "nos quememos",
+      "vosotros": "os queméis",
+      "uds": "se quemen"
+    },
+    "imperfecto": {
+      "yo": "me quemara",
+      "tu": "te quemaras",
+      "ud": "se quemara",
+      "nosotros": "nos quemáramos",
+      "vosotros": "os quemarais",
+      "uds": "se quemaran"
+    },
+    "futuro": {
+      "yo": "me quemare",
+      "tu": "te quemares",
+      "ud": "se quemare",
+      "nosotros": "nos quemáremos",
+      "vosotros": "os quemareis",
+      "uds": "se quemaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya quemado",
+      "tu": "te hayas quemado",
+      "ud": "se haya quemado",
+      "nosotros": "nos hayamos quemado",
+      "vosotros": "os hayáis quemado",
+      "uds": "se hayan quemado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere quemado",
+      "tu": "te hubieres quemado",
+      "ud": "se hubiere quemado",
+      "nosotros": "nos hubiéremos quemado",
+      "vosotros": "os hubiereis quemado",
+      "uds": "se hubieren quemado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera quemado",
+      "tu": "te hubieras quemado",
+      "ud": "se hubiera quemado",
+      "nosotros": "nos hubiéramos quemado",
+      "vosotros": "os hubierais quemado",
+      "uds": "se hubieran quemado"
+    },
+    "imperfectoAlt": {
+      "yo": "me quemase",
+      "tu": "te quemases",
+      "ud": "se quemase",
+      "nosotros": "nos quemásemos",
+      "vosotros": "os quemaseis",
+      "uds": "se quemasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese quemado",
+      "tu": "te hubieses quemado",
+      "ud": "se hubiese quemado",
+      "nosotros": "nos hubiésemos quemado",
+      "vosotros": "os hubieseis quemado",
+      "uds": "se hubiesen quemado"
+    }
+  },
+  "afirmativo": {
+    "tu": "quémate",
+    "vosotros": "quemaos",
+    "ud": "quémese",
+    "uds": "quémense"
+  },
+  "negativo": {
+    "tu": "no te quemes",
+    "vosotros": "no os queméis",
+    "ud": "no se queme",
+    "uds": "no se quemen"
+  },
+  "english": {
+    "note": "Note: The nonreflexive form quemar means to burn in the sense of to set fire to.",
+    "infinitivo": "to burn (oneself), to burn up, burn down (i.e, be consumed by fire)",
+    "gerundio": "burning up",
+    "participioPasado": "burned up",
+    "indicativo": {
+      "presente": "I burn up, am burning up",
+      "futuro": "I will burn up",
+      "imperfecto": "I was burning up, used to burn up, burned up",
+      "preterito": "I burned up",
+      "condicional": "I would burn up",
+      "presentePerfecto": "I have burned up",
+      "futuroPerfecto": "I will have burned up",
+      "pluscuamperfecto": "I had burned up",
+      "preteritoAnterior": "I had burned up",
+      "condicionalPerfecto": "I would have burned up"
+    },
+    "subjuntivo": {
+      "presente": "I burn up, am burning up",
+      "imperfecto": "I burned up, was burning up",
+      "futuro": "I will burn up",
+      "presentePerfecto": "I have burned up, burned up",
+      "futuroPerfecto": "I will have burned up",
+      "pluscuamperfecto": "I had burned up"
+    },
+    "afirmativo": "burn up!",
+    "negativo": "Don't burn up!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "regar",
+  "gerundio": "regando",
+  "participioPasado": "regado",
+  "indicativo": {
+    "presente": {
+      "yo": "riego",
+      "tu": "riegas",
+      "ud": "riega",
+      "nosotros": "regamos",
+      "vosotros": "regáis",
+      "uds": "riegan"
+    },
+    "futuro": {
+      "yo": "regaré",
+      "tu": "regarás",
+      "ud": "regará",
+      "nosotros": "regaremos",
+      "vosotros": "regaréis",
+      "uds": "regarán"
+    },
+    "imperfecto": {
+      "yo": "regaba",
+      "tu": "regabas",
+      "ud": "regaba",
+      "nosotros": "regábamos",
+      "vosotros": "regabais",
+      "uds": "regaban"
+    },
+    "preterito": {
+      "yo": "regué",
+      "tu": "regaste",
+      "ud": "regó",
+      "nosotros": "regamos",
+      "vosotros": "regasteis",
+      "uds": "regaron"
+    },
+    "condicional": {
+      "yo": "regaría",
+      "tu": "regarías",
+      "ud": "regaría",
+      "nosotros": "regaríamos",
+      "vosotros": "regaríais",
+      "uds": "regarían"
+    },
+    "presentePerfecto": {
+      "yo": "he regado",
+      "tu": "has regado",
+      "ud": "ha regado",
+      "nosotros": "hemos regado",
+      "vosotros": "habéis regado",
+      "uds": "han regado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré regado",
+      "tu": "habrás regado",
+      "ud": "habrá regado",
+      "nosotros": "habremos regado",
+      "vosotros": "habréis regado",
+      "uds": "habrán regado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había regado",
+      "tu": "habías regado",
+      "ud": "había regado",
+      "nosotros": "habíamos regado",
+      "vosotros": "habíais regado",
+      "uds": "habían regado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube regado",
+      "tu": "hubiste regado",
+      "ud": "hubo regado",
+      "nosotros": "hubimos regado",
+      "vosotros": "hubisteis regado",
+      "uds": "hubieron regado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría regado",
+      "tu": "habrías regado",
+      "ud": "habría regado",
+      "nosotros": "habríamos regado",
+      "vosotros": "habríais regado",
+      "uds": "habrían regado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "riegue",
+      "tu": "riegues",
+      "ud": "riegue",
+      "nosotros": "reguemos",
+      "vosotros": "reguéis",
+      "uds": "rieguen"
+    },
+    "imperfecto": {
+      "yo": "regara",
+      "tu": "regaras",
+      "ud": "regara",
+      "nosotros": "regáramos",
+      "vosotros": "regarais",
+      "uds": "regaran"
+    },
+    "futuro": {
+      "yo": "regare",
+      "tu": "regares",
+      "ud": "regare",
+      "nosotros": "regáremos",
+      "vosotros": "regareis",
+      "uds": "regaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya regado",
+      "tu": "hayas regado",
+      "ud": "haya regado",
+      "nosotros": "hayamos regado",
+      "vosotros": "hayáis regado",
+      "uds": "hayan regado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere regado",
+      "tu": "hubieres regado",
+      "ud": "hubiere regado",
+      "nosotros": "hubiéremos regado",
+      "vosotros": "hubiereis regado",
+      "uds": "hubieren regado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera regado",
+      "tu": "hubieras regado",
+      "ud": "hubiera regado",
+      "nosotros": "hubiéramos regado",
+      "vosotros": "hubierais regado",
+      "uds": "hubieran regado"
+    },
+    "imperfectoAlt": {
+      "yo": "regase",
+      "tu": "regases",
+      "ud": "regase",
+      "nosotros": "regásemos",
+      "vosotros": "regaseis",
+      "uds": "regasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese regado",
+      "tu": "hubieses regado",
+      "ud": "hubiese regado",
+      "nosotros": "hubiésemos regado",
+      "vosotros": "hubieseis regado",
+      "uds": "hubiesen regado"
+    }
+  },
+  "afirmativo": {
+    "tu": "riega",
+    "vosotros": "regad",
+    "ud": "riegue",
+    "uds": "rieguen"
+  },
+  "negativo": {
+    "tu": "no riegues",
+    "vosotros": "no reguéis",
+    "ud": "no riegue",
+    "uds": "no rieguen"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa. Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to water, irrigate, wash, sprinkle, spray",
+    "gerundio": "watering",
+    "participioPasado": "watered",
+    "indicativo": {
+      "presente": "I water, am watering",
+      "futuro": "I will water",
+      "imperfecto": "I was watering, used to water, watered",
+      "preterito": "I watered",
+      "condicional": "I would water",
+      "presentePerfecto": "I have watered",
+      "futuroPerfecto": "I will have watered",
+      "pluscuamperfecto": "I had watered",
+      "preteritoAnterior": "I had watered",
+      "condicionalPerfecto": "I would have watered"
+    },
+    "subjuntivo": {
+      "presente": "I water, am watering",
+      "imperfecto": "I water, was watering",
+      "futuro": "I will water",
+      "presentePerfecto": "I have watered, watered",
+      "futuroPerfecto": "I will have watered",
+      "pluscuamperfecto": "I had watered"
+    },
+    "afirmativo": "Water!",
+    "negativo": "Don't water!"
+  },
+  "attribution": "Fred Jehle"
+}

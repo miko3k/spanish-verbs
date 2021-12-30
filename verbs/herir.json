@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "herir",
+  "gerundio": "hiriendo",
+  "participioPasado": "herido",
+  "indicativo": {
+    "presente": {
+      "yo": "hiero",
+      "tu": "hieres",
+      "ud": "hiere",
+      "nosotros": "herimos",
+      "vosotros": "herís",
+      "uds": "hieren"
+    },
+    "futuro": {
+      "yo": "heriré",
+      "tu": "herirás",
+      "ud": "herirá",
+      "nosotros": "heriremos",
+      "vosotros": "heriréis",
+      "uds": "herirán"
+    },
+    "imperfecto": {
+      "yo": "hería",
+      "tu": "herías",
+      "ud": "hería",
+      "nosotros": "heríamos",
+      "vosotros": "heríais",
+      "uds": "herían"
+    },
+    "preterito": {
+      "yo": "herí",
+      "tu": "heriste",
+      "ud": "hirió",
+      "nosotros": "herimos",
+      "vosotros": "heristeis",
+      "uds": "hirieron"
+    },
+    "condicional": {
+      "yo": "heriría",
+      "tu": "herirías",
+      "ud": "heriría",
+      "nosotros": "heriríamos",
+      "vosotros": "heriríais",
+      "uds": "herirían"
+    },
+    "presentePerfecto": {
+      "yo": "he herido",
+      "tu": "has herido",
+      "ud": "ha herido",
+      "nosotros": "hemos herido",
+      "vosotros": "habéis herido",
+      "uds": "han herido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré herido",
+      "tu": "habrás herido",
+      "ud": "habrá herido",
+      "nosotros": "habremos herido",
+      "vosotros": "habréis herido",
+      "uds": "habrán herido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había herido",
+      "tu": "habías herido",
+      "ud": "había herido",
+      "nosotros": "habíamos herido",
+      "vosotros": "habíais herido",
+      "uds": "habían herido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube herido",
+      "tu": "hubiste herido",
+      "ud": "hubo herido",
+      "nosotros": "hubimos herido",
+      "vosotros": "hubisteis herido",
+      "uds": "hubieron herido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría herido",
+      "tu": "habrías herido",
+      "ud": "habría herido",
+      "nosotros": "habríamos herido",
+      "vosotros": "habríais herido",
+      "uds": "habrían herido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "hiera",
+      "tu": "hieras",
+      "ud": "hiera",
+      "nosotros": "hiramos",
+      "vosotros": "hiráis",
+      "uds": "hieran"
+    },
+    "imperfecto": {
+      "yo": "hiriera",
+      "tu": "hirieras",
+      "ud": "hiriera",
+      "nosotros": "hiriéramos",
+      "vosotros": "hirierais",
+      "uds": "hirieran"
+    },
+    "futuro": {
+      "yo": "hiriere",
+      "tu": "hirieres",
+      "ud": "hiriere",
+      "nosotros": "hiriéremos",
+      "vosotros": "hiriereis",
+      "uds": "hirieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya herido",
+      "tu": "hayas herido",
+      "ud": "haya herido",
+      "nosotros": "hayamos herido",
+      "vosotros": "hayáis herido",
+      "uds": "hayan herido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere herido",
+      "tu": "hubieres herido",
+      "ud": "hubiere herido",
+      "nosotros": "hubiéremos herido",
+      "vosotros": "hubiereis herido",
+      "uds": "hubieren herido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera herido",
+      "tu": "hubieras herido",
+      "ud": "hubiera herido",
+      "nosotros": "hubiéramos herido",
+      "vosotros": "hubierais herido",
+      "uds": "hubieran herido"
+    },
+    "imperfectoAlt": {
+      "yo": "hiriese",
+      "tu": "hirieses",
+      "ud": "hiriese",
+      "nosotros": "hiriésemos",
+      "vosotros": "hirieseis",
+      "uds": "hiriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese herido",
+      "tu": "hubieses herido",
+      "ud": "hubiese herido",
+      "nosotros": "hubiésemos herido",
+      "vosotros": "hubieseis herido",
+      "uds": "hubiesen herido"
+    }
+  },
+  "afirmativo": {
+    "tu": "hiere",
+    "vosotros": "herid",
+    "ud": "hiera",
+    "uds": "hieran"
+  },
+  "negativo": {
+    "tu": "no hieras",
+    "vosotros": "no hiráis",
+    "ud": "no hiera",
+    "uds": "no hieran"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i.",
+    "infinitivo": "to injure, hurt, wound; to beat, strike",
+    "gerundio": "injuring",
+    "participioPasado": "injured",
+    "indicativo": {
+      "presente": "I injure, am injuring",
+      "futuro": "I will injure",
+      "imperfecto": "I was injuring, used to injure, injured",
+      "preterito": "I injured",
+      "condicional": "I would injure",
+      "presentePerfecto": "I have injured",
+      "futuroPerfecto": "I will have injured",
+      "pluscuamperfecto": "I had injured",
+      "preteritoAnterior": "I had injured",
+      "condicionalPerfecto": "I would have injured"
+    },
+    "subjuntivo": {
+      "presente": "I injure, am injuring",
+      "imperfecto": "I injured, was injuring",
+      "futuro": "I will injure",
+      "presentePerfecto": "I have injured, injured",
+      "futuroPerfecto": "I will have injured",
+      "pluscuamperfecto": "I had injured"
+    },
+    "afirmativo": "Injure!",
+    "negativo": "Don't injure!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "platicar",
+  "gerundio": "platicando",
+  "participioPasado": "platicado",
+  "indicativo": {
+    "presente": {
+      "yo": "platico",
+      "tu": "platicas",
+      "ud": "platica",
+      "nosotros": "platicamos",
+      "vosotros": "platicáis",
+      "uds": "platican"
+    },
+    "futuro": {
+      "yo": "platicaré",
+      "tu": "platicarás",
+      "ud": "platicará",
+      "nosotros": "platicaremos",
+      "vosotros": "platicaréis",
+      "uds": "platicarán"
+    },
+    "imperfecto": {
+      "yo": "platicaba",
+      "tu": "platicabas",
+      "ud": "platicaba",
+      "nosotros": "platicábamos",
+      "vosotros": "platicabais",
+      "uds": "platicaban"
+    },
+    "preterito": {
+      "yo": "platiqué",
+      "tu": "platicaste",
+      "ud": "platicó",
+      "nosotros": "platicamos",
+      "vosotros": "platicasteis",
+      "uds": "platicaron"
+    },
+    "condicional": {
+      "yo": "platicaría",
+      "tu": "platicarías",
+      "ud": "platicaría",
+      "nosotros": "platicaríamos",
+      "vosotros": "platicaríais",
+      "uds": "platicarían"
+    },
+    "presentePerfecto": {
+      "yo": "he platicado",
+      "tu": "has platicado",
+      "ud": "ha platicado",
+      "nosotros": "hemos platicado",
+      "vosotros": "habéis platicado",
+      "uds": "han platicado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré platicado",
+      "tu": "habrás platicado",
+      "ud": "habrá platicado",
+      "nosotros": "habremos platicado",
+      "vosotros": "habréis platicado",
+      "uds": "habrán platicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había platicado",
+      "tu": "habías platicado",
+      "ud": "había platicado",
+      "nosotros": "habíamos platicado",
+      "vosotros": "habíais platicado",
+      "uds": "habían platicado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube platicado",
+      "tu": "hubiste platicado",
+      "ud": "hubo platicado",
+      "nosotros": "hubimos platicado",
+      "vosotros": "hubisteis platicado",
+      "uds": "hubieron platicado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría platicado",
+      "tu": "habrías platicado",
+      "ud": "habría platicado",
+      "nosotros": "habríamos platicado",
+      "vosotros": "habríais platicado",
+      "uds": "habrían platicado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "platique",
+      "tu": "platiques",
+      "ud": "platique",
+      "nosotros": "platiquemos",
+      "vosotros": "platiquéis",
+      "uds": "platiquen"
+    },
+    "imperfecto": {
+      "yo": "platicara",
+      "tu": "platicaras",
+      "ud": "platicara",
+      "nosotros": "platicáramos",
+      "vosotros": "platicarais",
+      "uds": "platicaran"
+    },
+    "futuro": {
+      "yo": "platicare",
+      "tu": "platicares",
+      "ud": "platicare",
+      "nosotros": "platicáremos",
+      "vosotros": "platicareis",
+      "uds": "platicaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya platicado",
+      "tu": "hayas platicado",
+      "ud": "haya platicado",
+      "nosotros": "hayamos platicado",
+      "vosotros": "hayáis platicado",
+      "uds": "hayan platicado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere platicado",
+      "tu": "hubieres platicado",
+      "ud": "hubiere platicado",
+      "nosotros": "hubiéremos platicado",
+      "vosotros": "hubiereis platicado",
+      "uds": "hubieren platicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera platicado",
+      "tu": "hubieras platicado",
+      "ud": "hubiera platicado",
+      "nosotros": "hubiéramos platicado",
+      "vosotros": "hubierais platicado",
+      "uds": "hubieran platicado"
+    },
+    "imperfectoAlt": {
+      "yo": "platicase",
+      "tu": "platicases",
+      "ud": "platicase",
+      "nosotros": "platicásemos",
+      "vosotros": "platicaseis",
+      "uds": "platicasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese platicado",
+      "tu": "hubieses platicado",
+      "ud": "hubiese platicado",
+      "nosotros": "hubiésemos platicado",
+      "vosotros": "hubieseis platicado",
+      "uds": "hubiesen platicado"
+    }
+  },
+  "afirmativo": {
+    "tu": "platica",
+    "vosotros": "platicad",
+    "ud": "platique",
+    "uds": "platiquen"
+  },
+  "negativo": {
+    "tu": "no platiques",
+    "vosotros": "no platiquéis",
+    "ud": "no platique",
+    "uds": "no platiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to chat, talk",
+    "gerundio": "chatting",
+    "participioPasado": "chatted",
+    "indicativo": {
+      "presente": "I chat, am chatting",
+      "futuro": "I will chat",
+      "imperfecto": "I was chatting, used to chat, chatted",
+      "preterito": "I chatted",
+      "condicional": "I would chat",
+      "presentePerfecto": "I have chatted",
+      "futuroPerfecto": "I will have chatted",
+      "pluscuamperfecto": "I had chatted",
+      "preteritoAnterior": "I had chatted",
+      "condicionalPerfecto": "I would have chatted"
+    },
+    "subjuntivo": {
+      "presente": "I chat, am chatting",
+      "imperfecto": "I chatted, was chatting",
+      "futuro": "I will chat",
+      "presentePerfecto": "I have chatted, chatted",
+      "futuroPerfecto": "I will have chatted",
+      "pluscuamperfecto": "I had chatted"
+    },
+    "afirmativo": "Chat!",
+    "negativo": "Don't chat!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "pesar",
+  "gerundio": "pesando",
+  "participioPasado": "pesado",
+  "indicativo": {
+    "presente": {
+      "yo": "peso",
+      "tu": "pesas",
+      "ud": "pesa",
+      "nosotros": "pesamos",
+      "vosotros": "pesáis",
+      "uds": "pesan"
+    },
+    "futuro": {
+      "yo": "pesaré",
+      "tu": "pesarás",
+      "ud": "pesará",
+      "nosotros": "pesaremos",
+      "vosotros": "pesaréis",
+      "uds": "pesarán"
+    },
+    "imperfecto": {
+      "yo": "pesaba",
+      "tu": "pesabas",
+      "ud": "pesaba",
+      "nosotros": "pesábamos",
+      "vosotros": "pesabais",
+      "uds": "pesaban"
+    },
+    "preterito": {
+      "yo": "pesé",
+      "tu": "pesaste",
+      "ud": "pesó",
+      "nosotros": "pesamos",
+      "vosotros": "pesasteis",
+      "uds": "pesaron"
+    },
+    "condicional": {
+      "yo": "pesaría",
+      "tu": "pesarías",
+      "ud": "pesaría",
+      "nosotros": "pesaríamos",
+      "vosotros": "pesaríais",
+      "uds": "pesarían"
+    },
+    "presentePerfecto": {
+      "yo": "he pesado",
+      "tu": "has pesado",
+      "ud": "ha pesado",
+      "nosotros": "hemos pesado",
+      "vosotros": "habéis pesado",
+      "uds": "han pesado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré pesado",
+      "tu": "habrás pesado",
+      "ud": "habrá pesado",
+      "nosotros": "habremos pesado",
+      "vosotros": "habréis pesado",
+      "uds": "habrán pesado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había pesado",
+      "tu": "habías pesado",
+      "ud": "había pesado",
+      "nosotros": "habíamos pesado",
+      "vosotros": "habíais pesado",
+      "uds": "habían pesado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube pesado",
+      "tu": "hubiste pesado",
+      "ud": "hubo pesado",
+      "nosotros": "hubimos pesado",
+      "vosotros": "hubisteis pesado",
+      "uds": "hubieron pesado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría pesado",
+      "tu": "habrías pesado",
+      "ud": "habría pesado",
+      "nosotros": "habríamos pesado",
+      "vosotros": "habríais pesado",
+      "uds": "habrían pesado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pese",
+      "tu": "peses",
+      "ud": "pese",
+      "nosotros": "pesemos",
+      "vosotros": "peséis",
+      "uds": "pesen"
+    },
+    "imperfecto": {
+      "yo": "pesara",
+      "tu": "pesaras",
+      "ud": "pesara",
+      "nosotros": "pesáramos",
+      "vosotros": "pesarais",
+      "uds": "pesaran"
+    },
+    "futuro": {
+      "yo": "pesare",
+      "tu": "pesares",
+      "ud": "pesare",
+      "nosotros": "pesáremos",
+      "vosotros": "pesareis",
+      "uds": "pesaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya pesado",
+      "tu": "hayas pesado",
+      "ud": "haya pesado",
+      "nosotros": "hayamos pesado",
+      "vosotros": "hayáis pesado",
+      "uds": "hayan pesado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere pesado",
+      "tu": "hubieres pesado",
+      "ud": "hubiere pesado",
+      "nosotros": "hubiéremos pesado",
+      "vosotros": "hubiereis pesado",
+      "uds": "hubieren pesado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera pesado",
+      "tu": "hubieras pesado",
+      "ud": "hubiera pesado",
+      "nosotros": "hubiéramos pesado",
+      "vosotros": "hubierais pesado",
+      "uds": "hubieran pesado"
+    },
+    "imperfectoAlt": {
+      "yo": "pesase",
+      "tu": "pesases",
+      "ud": "pesase",
+      "nosotros": "pesásemos",
+      "vosotros": "pesaseis",
+      "uds": "pesasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese pesado",
+      "tu": "hubieses pesado",
+      "ud": "hubiese pesado",
+      "nosotros": "hubiésemos pesado",
+      "vosotros": "hubieseis pesado",
+      "uds": "hubiesen pesado"
+    }
+  },
+  "afirmativo": {
+    "tu": "pesa",
+    "vosotros": "pesad",
+    "ud": "pese",
+    "uds": "pesen"
+  },
+  "negativo": {
+    "tu": "no peses",
+    "vosotros": "no peséis",
+    "ud": "no pese",
+    "uds": "no pesen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to weigh; to weigh down, weigh heavily; to appraise",
+    "gerundio": "weighing",
+    "participioPasado": "weighed",
+    "indicativo": {
+      "presente": "I weigh, am weighing",
+      "futuro": "I will weigh",
+      "imperfecto": "I was weighing, used to weigh, weighed",
+      "preterito": "I weighed",
+      "condicional": "I would weigh",
+      "presentePerfecto": "I have weighed",
+      "futuroPerfecto": "I will have weighed",
+      "pluscuamperfecto": "I had weighed",
+      "preteritoAnterior": "I had weighed",
+      "condicionalPerfecto": "I would have weighed"
+    },
+    "subjuntivo": {
+      "presente": "I weigh, am weighing",
+      "imperfecto": "I weighed, was weighing",
+      "futuro": "I will weigh",
+      "presentePerfecto": "I have weighed, weighed",
+      "futuroPerfecto": "I will have weighed",
+      "pluscuamperfecto": "I had weighed"
+    },
+    "afirmativo": "Weigh!",
+    "negativo": "Don't weigh!"
+  },
+  "attribution": "Fred Jehle"
+}

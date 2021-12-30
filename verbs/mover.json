@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "mover",
+  "gerundio": "moviendo",
+  "participioPasado": "movido",
+  "indicativo": {
+    "presente": {
+      "yo": "muevo",
+      "tu": "mueves",
+      "ud": "mueve",
+      "nosotros": "movemos",
+      "vosotros": "movéis",
+      "uds": "mueven"
+    },
+    "futuro": {
+      "yo": "moveré",
+      "tu": "moverás",
+      "ud": "moverá",
+      "nosotros": "moveremos",
+      "vosotros": "moveréis",
+      "uds": "moverán"
+    },
+    "imperfecto": {
+      "yo": "movía",
+      "tu": "movías",
+      "ud": "movía",
+      "nosotros": "movíamos",
+      "vosotros": "movíais",
+      "uds": "movían"
+    },
+    "preterito": {
+      "yo": "moví",
+      "tu": "moviste",
+      "ud": "movió",
+      "nosotros": "movimos",
+      "vosotros": "movisteis",
+      "uds": "movieron"
+    },
+    "condicional": {
+      "yo": "movería",
+      "tu": "moverías",
+      "ud": "movería",
+      "nosotros": "moveríamos",
+      "vosotros": "moveríais",
+      "uds": "moverían"
+    },
+    "presentePerfecto": {
+      "yo": "he movido",
+      "tu": "has movido",
+      "ud": "ha movido",
+      "nosotros": "hemos movido",
+      "vosotros": "habéis movido",
+      "uds": "han movido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré movido",
+      "tu": "habrás movido",
+      "ud": "habrá movido",
+      "nosotros": "habremos movido",
+      "vosotros": "habréis movido",
+      "uds": "habrán movido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había movido",
+      "tu": "habías movido",
+      "ud": "había movido",
+      "nosotros": "habíamos movido",
+      "vosotros": "habíais movido",
+      "uds": "habían movido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube movido",
+      "tu": "hubiste movido",
+      "ud": "hubo movido",
+      "nosotros": "hubimos movido",
+      "vosotros": "hubisteis movido",
+      "uds": "hubieron movido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría movido",
+      "tu": "habrías movido",
+      "ud": "habría movido",
+      "nosotros": "habríamos movido",
+      "vosotros": "habríais movido",
+      "uds": "habrían movido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "mueva",
+      "tu": "muevas",
+      "ud": "mueva",
+      "nosotros": "movamos",
+      "vosotros": "mováis",
+      "uds": "muevan"
+    },
+    "imperfecto": {
+      "yo": "moviera",
+      "tu": "movieras",
+      "ud": "moviera",
+      "nosotros": "moviéramos",
+      "vosotros": "movierais",
+      "uds": "movieran"
+    },
+    "futuro": {
+      "yo": "moviere",
+      "tu": "movieres",
+      "ud": "moviere",
+      "nosotros": "moviéremos",
+      "vosotros": "moviereis",
+      "uds": "movieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya movido",
+      "tu": "hayas movido",
+      "ud": "haya movido",
+      "nosotros": "hayamos movido",
+      "vosotros": "hayáis movido",
+      "uds": "hayan movido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere movido",
+      "tu": "hubieres movido",
+      "ud": "hubiere movido",
+      "nosotros": "hubiéremos movido",
+      "vosotros": "hubiereis movido",
+      "uds": "hubieren movido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera movido",
+      "tu": "hubieras movido",
+      "ud": "hubiera movido",
+      "nosotros": "hubiéramos movido",
+      "vosotros": "hubierais movido",
+      "uds": "hubieran movido"
+    },
+    "imperfectoAlt": {
+      "yo": "moviese",
+      "tu": "movieses",
+      "ud": "moviese",
+      "nosotros": "moviésemos",
+      "vosotros": "movieseis",
+      "uds": "moviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese movido",
+      "tu": "hubieses movido",
+      "ud": "hubiese movido",
+      "nosotros": "hubiésemos movido",
+      "vosotros": "hubieseis movido",
+      "uds": "hubiesen movido"
+    }
+  },
+  "afirmativo": {
+    "tu": "mueve",
+    "vosotros": "moved",
+    "ud": "mueva",
+    "uds": "muevan"
+  },
+  "negativo": {
+    "tu": "no muevas",
+    "vosotros": "no mováis",
+    "ud": "no mueva",
+    "uds": "no muevan"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Note: If there is no direct object, use the reflexive form, moverse; to express the idea change residence, use the verb mudar.",
+    "infinitivo": "to move",
+    "gerundio": "moving",
+    "participioPasado": "moved",
+    "indicativo": {
+      "presente": "I move, am moving",
+      "futuro": "I will move",
+      "imperfecto": "I was moving, used to move, moved",
+      "preterito": "I moved",
+      "condicional": "I would move",
+      "presentePerfecto": "I have moved",
+      "futuroPerfecto": "I will have moved",
+      "pluscuamperfecto": "I had moved",
+      "preteritoAnterior": "I had moved",
+      "condicionalPerfecto": "I would have moved"
+    },
+    "subjuntivo": {
+      "presente": "I move, am moving",
+      "imperfecto": "I moved, was moving",
+      "futuro": "I will move",
+      "presentePerfecto": "I have moved, moved",
+      "futuroPerfecto": "I will have moved",
+      "pluscuamperfecto": "I had moved"
+    },
+    "afirmativo": "Move!",
+    "negativo": "Don't move!"
+  },
+  "attribution": "Fred Jehle"
+}

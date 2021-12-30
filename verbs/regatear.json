@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "regatear",
+  "gerundio": "regateando",
+  "participioPasado": "regateado",
+  "indicativo": {
+    "presente": {
+      "yo": "regateo",
+      "tu": "regateas",
+      "ud": "regatea",
+      "nosotros": "regateamos",
+      "vosotros": "regateáis",
+      "uds": "regatean"
+    },
+    "futuro": {
+      "yo": "regatearé",
+      "tu": "regatearás",
+      "ud": "regateará",
+      "nosotros": "regatearemos",
+      "vosotros": "regatearéis",
+      "uds": "regatearán"
+    },
+    "imperfecto": {
+      "yo": "regateaba",
+      "tu": "regateabas",
+      "ud": "regateaba",
+      "nosotros": "regateábamos",
+      "vosotros": "regateabais",
+      "uds": "regateaban"
+    },
+    "preterito": {
+      "yo": "regateé",
+      "tu": "regateaste",
+      "ud": "regateó",
+      "nosotros": "regateamos",
+      "vosotros": "regateasteis",
+      "uds": "regatearon"
+    },
+    "condicional": {
+      "yo": "regatearía",
+      "tu": "regatearías",
+      "ud": "regatearía",
+      "nosotros": "regatearíamos",
+      "vosotros": "regatearíais",
+      "uds": "regatearían"
+    },
+    "presentePerfecto": {
+      "yo": "he regateado",
+      "tu": "has regateado",
+      "ud": "ha regateado",
+      "nosotros": "hemos regateado",
+      "vosotros": "habéis regateado",
+      "uds": "han regateado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré regateado",
+      "tu": "habrás regateado",
+      "ud": "habrá regateado",
+      "nosotros": "habremos regateado",
+      "vosotros": "habréis regateado",
+      "uds": "habrán regateado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había regateado",
+      "tu": "habías regateado",
+      "ud": "había regateado",
+      "nosotros": "habíamos regateado",
+      "vosotros": "habíais regateado",
+      "uds": "habían regateado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube regateado",
+      "tu": "hubiste regateado",
+      "ud": "hubo regateado",
+      "nosotros": "hubimos regateado",
+      "vosotros": "hubisteis regateado",
+      "uds": "hubieron regateado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría regateado",
+      "tu": "habrías regateado",
+      "ud": "habría regateado",
+      "nosotros": "habríamos regateado",
+      "vosotros": "habríais regateado",
+      "uds": "habrían regateado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "regatee",
+      "tu": "regatees",
+      "ud": "regatee",
+      "nosotros": "regateemos",
+      "vosotros": "regateéis",
+      "uds": "regateen"
+    },
+    "imperfecto": {
+      "yo": "regateara",
+      "tu": "regatearas",
+      "ud": "regateara",
+      "nosotros": "regateáramos",
+      "vosotros": "regatearais",
+      "uds": "regatearan"
+    },
+    "futuro": {
+      "yo": "regateare",
+      "tu": "regateares",
+      "ud": "regateare",
+      "nosotros": "regateáremos",
+      "vosotros": "regateareis",
+      "uds": "regatearen"
+    },
+    "presentePerfecto": {
+      "yo": "haya regateado",
+      "tu": "hayas regateado",
+      "ud": "haya regateado",
+      "nosotros": "hayamos regateado",
+      "vosotros": "hayáis regateado",
+      "uds": "hayan regateado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere regateado",
+      "tu": "hubieres regateado",
+      "ud": "hubiere regateado",
+      "nosotros": "hubiéremos regateado",
+      "vosotros": "hubiereis regateado",
+      "uds": "hubieren regateado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera regateado",
+      "tu": "hubieras regateado",
+      "ud": "hubiera regateado",
+      "nosotros": "hubiéramos regateado",
+      "vosotros": "hubierais regateado",
+      "uds": "hubieran regateado"
+    },
+    "imperfectoAlt": {
+      "yo": "regatease",
+      "tu": "regateases",
+      "ud": "regatease",
+      "nosotros": "regateásemos",
+      "vosotros": "regateaseis",
+      "uds": "regateasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese regateado",
+      "tu": "hubieses regateado",
+      "ud": "hubiese regateado",
+      "nosotros": "hubiésemos regateado",
+      "vosotros": "hubieseis regateado",
+      "uds": "hubiesen regateado"
+    }
+  },
+  "afirmativo": {
+    "tu": "regatea",
+    "vosotros": "regatead",
+    "ud": "regatee",
+    "uds": "regateen"
+  },
+  "negativo": {
+    "tu": "no regatees",
+    "vosotros": "no regateéis",
+    "ud": "no regatee",
+    "uds": "no regateen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to haggle (over), bargain (over)",
+    "gerundio": "haggling",
+    "participioPasado": "haggled",
+    "indicativo": {
+      "presente": "I haggle, am haggling",
+      "futuro": "I will haggle",
+      "imperfecto": "I was haggling, used to haggle, haggled",
+      "preterito": "I haggled",
+      "condicional": "I would haggle",
+      "presentePerfecto": "I have haggled",
+      "futuroPerfecto": "I will have haggled",
+      "pluscuamperfecto": "I had haggled",
+      "preteritoAnterior": "I had haggled",
+      "condicionalPerfecto": "I would have haggled"
+    },
+    "subjuntivo": {
+      "presente": "I haggle, am haggling",
+      "imperfecto": "I haggled, was haggling",
+      "futuro": "I will haggle",
+      "presentePerfecto": "I have haggled, haggled",
+      "futuroPerfecto": "I will have haggled",
+      "pluscuamperfecto": "I had haggled"
+    },
+    "afirmativo": "Haggle!",
+    "negativo": "Don't haggle!"
+  },
+  "attribution": "Fred Jehle"
+}

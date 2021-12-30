@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "acontecer",
+  "gerundio": "aconteciendo",
+  "participioPasado": "acontecido",
+  "indicativo": {
+    "presente": {
+      "yo": "acontezco",
+      "tu": "aconteces",
+      "ud": "acontece",
+      "nosotros": "acontecemos",
+      "vosotros": "acontecéis",
+      "uds": "acontecen"
+    },
+    "futuro": {
+      "yo": "aconteceré",
+      "tu": "acontecerás",
+      "ud": "acontecerá",
+      "nosotros": "aconteceremos",
+      "vosotros": "aconteceréis",
+      "uds": "acontecerán"
+    },
+    "imperfecto": {
+      "yo": "acontecía",
+      "tu": "acontecías",
+      "ud": "acontecía",
+      "nosotros": "acontecíamos",
+      "vosotros": "acontecíais",
+      "uds": "acontecían"
+    },
+    "preterito": {
+      "yo": "acontecí",
+      "tu": "aconteciste",
+      "ud": "aconteció",
+      "nosotros": "acontecimos",
+      "vosotros": "acontecisteis",
+      "uds": "acontecieron"
+    },
+    "condicional": {
+      "yo": "acontecería",
+      "tu": "acontecerías",
+      "ud": "acontecería",
+      "nosotros": "aconteceríamos",
+      "vosotros": "aconteceríais",
+      "uds": "acontecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he acontecido",
+      "tu": "has acontecido",
+      "ud": "ha acontecido",
+      "nosotros": "hemos acontecido",
+      "vosotros": "habéis acontecido",
+      "uds": "han acontecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré acontecido",
+      "tu": "habrás acontecido",
+      "ud": "habrá acontecido",
+      "nosotros": "habremos acontecido",
+      "vosotros": "habréis acontecido",
+      "uds": "habrán acontecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había acontecido",
+      "tu": "habías acontecido",
+      "ud": "había acontecido",
+      "nosotros": "habíamos acontecido",
+      "vosotros": "habíais acontecido",
+      "uds": "habían acontecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube acontecido",
+      "tu": "hubiste acontecido",
+      "ud": "hubo acontecido",
+      "nosotros": "hubimos acontecido",
+      "vosotros": "hubisteis acontecido",
+      "uds": "hubieron acontecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría acontecido",
+      "tu": "habrías acontecido",
+      "ud": "habría acontecido",
+      "nosotros": "habríamos acontecido",
+      "vosotros": "habríais acontecido",
+      "uds": "habrían acontecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "acontezca",
+      "tu": "acontezcas",
+      "ud": "acontezca",
+      "nosotros": "acontezcamos",
+      "vosotros": "acontezcáis",
+      "uds": "acontezcan"
+    },
+    "imperfecto": {
+      "yo": "aconteciera",
+      "tu": "acontecieras",
+      "ud": "aconteciera",
+      "nosotros": "aconteciéramos",
+      "vosotros": "acontecierais",
+      "uds": "acontecieran"
+    },
+    "futuro": {
+      "yo": "aconteciere",
+      "tu": "acontecieres",
+      "ud": "aconteciere",
+      "nosotros": "aconteciéremos",
+      "vosotros": "aconteciereis",
+      "uds": "acontecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya acontecido",
+      "tu": "hayas acontecido",
+      "ud": "haya acontecido",
+      "nosotros": "hayamos acontecido",
+      "vosotros": "hayáis acontecido",
+      "uds": "hayan acontecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere acontecido",
+      "tu": "hubieres acontecido",
+      "ud": "hubiere acontecido",
+      "nosotros": "hubiéremos acontecido",
+      "vosotros": "hubiereis acontecido",
+      "uds": "hubieren acontecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera acontecido",
+      "tu": "hubieras acontecido",
+      "ud": "hubiera acontecido",
+      "nosotros": "hubiéramos acontecido",
+      "vosotros": "hubierais acontecido",
+      "uds": "hubieran acontecido"
+    },
+    "imperfectoAlt": {
+      "yo": "aconteciese",
+      "tu": "acontecieses",
+      "ud": "aconteciese",
+      "nosotros": "aconteciésemos",
+      "vosotros": "acontecieseis",
+      "uds": "aconteciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese acontecido",
+      "tu": "hubieses acontecido",
+      "ud": "hubiese acontecido",
+      "nosotros": "hubiésemos acontecido",
+      "vosotros": "hubieseis acontecido",
+      "uds": "hubiesen acontecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "acontece",
+    "vosotros": "aconteced",
+    "ud": "acontezca",
+    "uds": "acontezcan"
+  },
+  "negativo": {
+    "tu": "no acontezcas",
+    "vosotros": "no acontezcáis",
+    "ud": "no acontezca",
+    "uds": "no acontezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: acontezco, acontezca, acontezcas, etc. Note: Acontecer is normally used in the third person singular or plural.",
+    "infinitivo": "to happen, occur, come about",
+    "gerundio": "happening",
+    "participioPasado": "happened",
+    "indicativo": {
+      "presente": "I happen, am happening",
+      "futuro": "I will happen",
+      "imperfecto": "I was hapening, used to happen, happened",
+      "preterito": "I happened",
+      "condicional": "I would happen",
+      "presentePerfecto": "I have happened",
+      "futuroPerfecto": "I will have happened",
+      "pluscuamperfecto": "I had happened",
+      "preteritoAnterior": "I had happened",
+      "condicionalPerfecto": "I would have happened"
+    },
+    "subjuntivo": {
+      "presente": "I happen, am happening",
+      "imperfecto": "I happened, was happening",
+      "futuro": "I will happen",
+      "presentePerfecto": "I have happened, happened",
+      "futuroPerfecto": "I will have happened",
+      "pluscuamperfecto": "I had happened"
+    },
+    "afirmativo": "Happen!",
+    "negativo": "Don't happen!"
+  },
+  "attribution": "Fred Jehle"
+}

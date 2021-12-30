@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "prepararse",
+  "gerundio": "preparándose",
+  "participioPasado": "preparado",
+  "indicativo": {
+    "presente": {
+      "yo": "me preparo",
+      "tu": "te preparas",
+      "ud": "se prepara",
+      "nosotros": "nos preparamos",
+      "vosotros": "os preparáis",
+      "uds": "se preparan"
+    },
+    "futuro": {
+      "yo": "me prepararé",
+      "tu": "te prepararás",
+      "ud": "se preparará",
+      "nosotros": "nos prepararemos",
+      "vosotros": "os prepararéis",
+      "uds": "se prepararán"
+    },
+    "imperfecto": {
+      "yo": "me preparaba",
+      "tu": "te preparabas",
+      "ud": "se preparaba",
+      "nosotros": "nos preparábamos",
+      "vosotros": "os preparabais",
+      "uds": "se preparaban"
+    },
+    "preterito": {
+      "yo": "me preparé",
+      "tu": "te preparaste",
+      "ud": "se preparó",
+      "nosotros": "nos preparamos",
+      "vosotros": "os preparasteis",
+      "uds": "se prepararon"
+    },
+    "condicional": {
+      "yo": "me prepararía",
+      "tu": "te prepararías",
+      "ud": "se prepararía",
+      "nosotros": "nos prepararíamos",
+      "vosotros": "os prepararíais",
+      "uds": "se prepararían"
+    },
+    "presentePerfecto": {
+      "yo": "me he preparado",
+      "tu": "te has preparado",
+      "ud": "se ha preparado",
+      "nosotros": "nos hemos preparado",
+      "vosotros": "os habéis preparado",
+      "uds": "se han preparado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré preparado",
+      "tu": "te habrás preparado",
+      "ud": "se habrá preparado",
+      "nosotros": "nos habremos preparado",
+      "vosotros": "os habréis preparado",
+      "uds": "se habrán preparado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había preparado",
+      "tu": "te habías preparado",
+      "ud": "se había preparado",
+      "nosotros": "nos habíamos preparado",
+      "vosotros": "os habíais preparado",
+      "uds": "se habían preparado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube preparado",
+      "tu": "te hubiste preparado",
+      "ud": "se hubo preparado",
+      "nosotros": "nos hubimos preparado",
+      "vosotros": "os hubisteis preparado",
+      "uds": "se hubieron preparado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría preparado",
+      "tu": "te habrías preparado",
+      "ud": "se habría preparado",
+      "nosotros": "nos habríamos preparado",
+      "vosotros": "os habríais preparado",
+      "uds": "se habrían preparado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me prepare",
+      "tu": "te prepares",
+      "ud": "se prepare",
+      "nosotros": "nos preparemos",
+      "vosotros": "os preparéis",
+      "uds": "se preparen"
+    },
+    "imperfecto": {
+      "yo": "me preparara",
+      "tu": "te prepararas",
+      "ud": "se preparara",
+      "nosotros": "nos preparáramos",
+      "vosotros": "os prepararais",
+      "uds": "se prepararan"
+    },
+    "futuro": {
+      "yo": "me preparare",
+      "tu": "te preparares",
+      "ud": "se preparare",
+      "nosotros": "nos preparáremos",
+      "vosotros": "os preparareis",
+      "uds": "se prepararen"
+    },
+    "presentePerfecto": {
+      "yo": "me haya preparado",
+      "tu": "te hayas preparado",
+      "ud": "se haya preparado",
+      "nosotros": "nos hayamos preparado",
+      "vosotros": "os hayáis preparado",
+      "uds": "se hayan preparado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere preparado",
+      "tu": "te hubieres preparado",
+      "ud": "se hubiere preparado",
+      "nosotros": "nos hubiéremos preparado",
+      "vosotros": "os hubiereis preparado",
+      "uds": "se hubieren preparado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera preparado",
+      "tu": "te hubieras preparado",
+      "ud": "se hubiera preparado",
+      "nosotros": "nos hubiéramos preparado",
+      "vosotros": "os hubierais preparado",
+      "uds": "se hubieran preparado"
+    },
+    "imperfectoAlt": {
+      "yo": "me preparase",
+      "tu": "te preparases",
+      "ud": "se preparase",
+      "nosotros": "nos preparásemos",
+      "vosotros": "os preparaseis",
+      "uds": "se preparasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese preparado",
+      "tu": "te hubieses preparado",
+      "ud": "se hubiese preparado",
+      "nosotros": "nos hubiésemos preparado",
+      "vosotros": "os hubieseis preparado",
+      "uds": "se hubiesen preparado"
+    }
+  },
+  "afirmativo": {
+    "tu": "prepárate",
+    "vosotros": "preparaos",
+    "ud": "prepárese",
+    "uds": "prepárense"
+  },
+  "negativo": {
+    "tu": "no te prepares",
+    "vosotros": "no os preparéis",
+    "ud": "no se prepare",
+    "uds": "no se preparen"
+  },
+  "english": {
+    "note": "Note: For to get someone else or something ready, use the nonreflexive form preparar.",
+    "infinitivo": "to get (oneself) ready, prepare (oneself)",
+    "gerundio": "getting ready",
+    "participioPasado": "gotten ready",
+    "indicativo": {
+      "presente": "I get ready, am getting ready",
+      "futuro": "I will get ready",
+      "imperfecto": "I was getting ready, used to get ready, got ready",
+      "preterito": "I got ready",
+      "condicional": "I would get ready",
+      "presentePerfecto": "I have gotten ready",
+      "futuroPerfecto": "I will have gotten ready",
+      "pluscuamperfecto": "I had gotten ready",
+      "preteritoAnterior": "I had gotten ready",
+      "condicionalPerfecto": "I would have gotten ready"
+    },
+    "subjuntivo": {
+      "presente": "I get ready, am getting ready",
+      "imperfecto": "I got ready, was getting ready",
+      "futuro": "I will get ready",
+      "presentePerfecto": "I have gotten ready, got ready",
+      "futuroPerfecto": "I will have gotten ready",
+      "pluscuamperfecto": "I had gotten ready"
+    },
+    "afirmativo": "Get ready!",
+    "negativo": "Don't get ready!"
+  },
+  "attribution": "Fred Jehle"
+}

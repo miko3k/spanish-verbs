@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "renacer",
+  "gerundio": "renaciendo",
+  "participioPasado": "renacido",
+  "indicativo": {
+    "presente": {
+      "yo": "renazco",
+      "tu": "renaces",
+      "ud": "renace",
+      "nosotros": "renacemos",
+      "vosotros": "renacéis",
+      "uds": "renacen"
+    },
+    "futuro": {
+      "yo": "renaceré",
+      "tu": "renacerás",
+      "ud": "renacerá",
+      "nosotros": "renaceremos",
+      "vosotros": "renaceréis",
+      "uds": "renacerán"
+    },
+    "imperfecto": {
+      "yo": "renacía",
+      "tu": "renacías",
+      "ud": "renacía",
+      "nosotros": "renacíamos",
+      "vosotros": "renacíais",
+      "uds": "renacían"
+    },
+    "preterito": {
+      "yo": "renací",
+      "tu": "renaciste",
+      "ud": "renació",
+      "nosotros": "renacimos",
+      "vosotros": "renacisteis",
+      "uds": "renacieron"
+    },
+    "condicional": {
+      "yo": "renacería",
+      "tu": "renacerías",
+      "ud": "renacería",
+      "nosotros": "renaceríamos",
+      "vosotros": "renaceríais",
+      "uds": "renacerían"
+    },
+    "presentePerfecto": {
+      "yo": "he renacido",
+      "tu": "has renacido",
+      "ud": "ha renacido",
+      "nosotros": "hemos renacido",
+      "vosotros": "habéis renacido",
+      "uds": "han renacido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré renacido",
+      "tu": "habrás renacido",
+      "ud": "habrá renacido",
+      "nosotros": "habremos renacido",
+      "vosotros": "habréis renacido",
+      "uds": "habrán renacido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había renacido",
+      "tu": "habías renacido",
+      "ud": "había renacido",
+      "nosotros": "habíamos renacido",
+      "vosotros": "habíais renacido",
+      "uds": "habían renacido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube renacido",
+      "tu": "hubiste renacido",
+      "ud": "hubo renacido",
+      "nosotros": "hubimos renacido",
+      "vosotros": "hubisteis renacido",
+      "uds": "hubieron renacido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría renacido",
+      "tu": "habrías renacido",
+      "ud": "habría renacido",
+      "nosotros": "habríamos renacido",
+      "vosotros": "habríais renacido",
+      "uds": "habrían renacido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "renazca",
+      "tu": "renazcas",
+      "ud": "renazca",
+      "nosotros": "renazcamos",
+      "vosotros": "renazcáis",
+      "uds": "renazcan"
+    },
+    "imperfecto": {
+      "yo": "renaciera",
+      "tu": "renacieras",
+      "ud": "renaciera",
+      "nosotros": "renaciéramos",
+      "vosotros": "renacierais",
+      "uds": "renacieran"
+    },
+    "futuro": {
+      "yo": "renaciere",
+      "tu": "renacieres",
+      "ud": "renaciere",
+      "nosotros": "renaciéremos",
+      "vosotros": "renaciereis",
+      "uds": "renacieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya renacido",
+      "tu": "hayas renacido",
+      "ud": "haya renacido",
+      "nosotros": "hayamos renacido",
+      "vosotros": "hayáis renacido",
+      "uds": "hayan renacido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere renacido",
+      "tu": "hubieres renacido",
+      "ud": "hubiere renacido",
+      "nosotros": "hubiéremos renacido",
+      "vosotros": "hubiereis renacido",
+      "uds": "hubieren renacido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera renacido",
+      "tu": "hubieras renacido",
+      "ud": "hubiera renacido",
+      "nosotros": "hubiéramos renacido",
+      "vosotros": "hubierais renacido",
+      "uds": "hubieran renacido"
+    },
+    "imperfectoAlt": {
+      "yo": "renaciese",
+      "tu": "renacieses",
+      "ud": "renaciese",
+      "nosotros": "renaciésemos",
+      "vosotros": "renacieseis",
+      "uds": "renaciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese renacido",
+      "tu": "hubieses renacido",
+      "ud": "hubiese renacido",
+      "nosotros": "hubiésemos renacido",
+      "vosotros": "hubieseis renacido",
+      "uds": "hubiesen renacido"
+    }
+  },
+  "afirmativo": {
+    "tu": "renace",
+    "vosotros": "renaced",
+    "ud": "renazca",
+    "uds": "renazcan"
+  },
+  "negativo": {
+    "tu": "no renazcas",
+    "vosotros": "no renazcáis",
+    "ud": "no renazca",
+    "uds": "no renazcan"
+  },
+  "english": {
+    "note": "Formas irregulares: renazco, renazca, renazcas, etc.",
+    "infinitivo": "to be reborn",
+    "gerundio": "being reborn",
+    "participioPasado": "(been) reborn",
+    "indicativo": {
+      "presente": "I am reborn, am being reborn",
+      "futuro": "I will be reborn",
+      "imperfecto": "I was being reborn, used to be reborn, was reborn",
+      "preterito": "I was reborn",
+      "condicional": "I would be reborn",
+      "presentePerfecto": "I have been reborn",
+      "futuroPerfecto": "I will have been reborn",
+      "pluscuamperfecto": "I had been reborn",
+      "preteritoAnterior": "I had been reborn",
+      "condicionalPerfecto": "I would have been reborn"
+    },
+    "subjuntivo": {
+      "presente": "I am reborn, am being reborn",
+      "imperfecto": "I was reborn, was being reborn",
+      "futuro": "I will be reborn",
+      "presentePerfecto": "I have been reborn, was reborn",
+      "futuroPerfecto": "I will have been reborn",
+      "pluscuamperfecto": "I had been reborn"
+    },
+    "afirmativo": "Be reborn!",
+    "negativo": "Don't be reborn!"
+  },
+  "attribution": "Fred Jehle"
+}

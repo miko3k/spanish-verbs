@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "afligir",
+  "gerundio": "afligiendo",
+  "participioPasado": "afligido",
+  "indicativo": {
+    "presente": {
+      "yo": "aflijo",
+      "tu": "afliges",
+      "ud": "aflige",
+      "nosotros": "afligimos",
+      "vosotros": "afligís",
+      "uds": "afligen"
+    },
+    "futuro": {
+      "yo": "afligiré",
+      "tu": "afligirás",
+      "ud": "afligirá",
+      "nosotros": "afligiremos",
+      "vosotros": "afligiréis",
+      "uds": "afligirán"
+    },
+    "imperfecto": {
+      "yo": "afligía",
+      "tu": "afligías",
+      "ud": "afligía",
+      "nosotros": "afligíamos",
+      "vosotros": "afligíais",
+      "uds": "afligían"
+    },
+    "preterito": {
+      "yo": "afligí",
+      "tu": "afligiste",
+      "ud": "afligió",
+      "nosotros": "afligimos",
+      "vosotros": "afligisteis",
+      "uds": "afligieron"
+    },
+    "condicional": {
+      "yo": "afligiría",
+      "tu": "afligirías",
+      "ud": "afligiría",
+      "nosotros": "afligiríamos",
+      "vosotros": "afligiríais",
+      "uds": "afligirían"
+    },
+    "presentePerfecto": {
+      "yo": "he afligido",
+      "tu": "has afligido",
+      "ud": "ha afligido",
+      "nosotros": "hemos afligido",
+      "vosotros": "habéis afligido",
+      "uds": "han afligido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré afligido",
+      "tu": "habrás afligido",
+      "ud": "habrá afligido",
+      "nosotros": "habremos afligido",
+      "vosotros": "habréis afligido",
+      "uds": "habrán afligido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había afligido",
+      "tu": "habías afligido",
+      "ud": "había afligido",
+      "nosotros": "habíamos afligido",
+      "vosotros": "habíais afligido",
+      "uds": "habían afligido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube afligido",
+      "tu": "hubiste afligido",
+      "ud": "hubo afligido",
+      "nosotros": "hubimos afligido",
+      "vosotros": "hubisteis afligido",
+      "uds": "hubieron afligido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría afligido",
+      "tu": "habrías afligido",
+      "ud": "habría afligido",
+      "nosotros": "habríamos afligido",
+      "vosotros": "habríais afligido",
+      "uds": "habrían afligido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aflija",
+      "tu": "aflijas",
+      "ud": "aflija",
+      "nosotros": "aflijamos",
+      "vosotros": "aflijáis",
+      "uds": "aflijan"
+    },
+    "imperfecto": {
+      "yo": "afligiera",
+      "tu": "afligieras",
+      "ud": "afligiera",
+      "nosotros": "afligiéramos",
+      "vosotros": "afligierais",
+      "uds": "afligieran"
+    },
+    "futuro": {
+      "yo": "afligiere",
+      "tu": "afligieres",
+      "ud": "afligiere",
+      "nosotros": "afligiéremos",
+      "vosotros": "afligiereis",
+      "uds": "afligieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya afligido",
+      "tu": "hayas afligido",
+      "ud": "haya afligido",
+      "nosotros": "hayamos afligido",
+      "vosotros": "hayáis afligido",
+      "uds": "hayan afligido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere afligido",
+      "tu": "hubieres afligido",
+      "ud": "hubiere afligido",
+      "nosotros": "hubiéremos afligido",
+      "vosotros": "hubiereis afligido",
+      "uds": "hubieren afligido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera afligido",
+      "tu": "hubieras afligido",
+      "ud": "hubiera afligido",
+      "nosotros": "hubiéramos afligido",
+      "vosotros": "hubierais afligido",
+      "uds": "hubieran afligido"
+    },
+    "imperfectoAlt": {
+      "yo": "afligiese",
+      "tu": "afligieses",
+      "ud": "afligiese",
+      "nosotros": "afligiésemos",
+      "vosotros": "afligieseis",
+      "uds": "afligiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese afligido",
+      "tu": "hubieses afligido",
+      "ud": "hubiese afligido",
+      "nosotros": "hubiésemos afligido",
+      "vosotros": "hubieseis afligido",
+      "uds": "hubiesen afligido"
+    }
+  },
+  "afirmativo": {
+    "tu": "aflige",
+    "vosotros": "afligid",
+    "ud": "aflija",
+    "uds": "aflijan"
+  },
+  "negativo": {
+    "tu": "no aflijas",
+    "vosotros": "no aflijáis",
+    "ud": "no aflija",
+    "uds": "no aflijan"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > j delante de o y a.",
+    "infinitivo": "to afflict, to grieve, to pain, to distress",
+    "gerundio": "afflicting",
+    "participioPasado": "afflicted",
+    "indicativo": {
+      "presente": "I afflict, am afflicting",
+      "futuro": "I will afflict",
+      "imperfecto": "I was afflicting, used to afflict, afflicted",
+      "preterito": "I afflicted",
+      "condicional": "I would afflict",
+      "presentePerfecto": "I have aflficted",
+      "futuroPerfecto": "I will have afflicted",
+      "pluscuamperfecto": "I had afflicted",
+      "preteritoAnterior": "I had afflicted",
+      "condicionalPerfecto": "I would have afflicted"
+    },
+    "subjuntivo": {
+      "presente": "I afflict, am afflicting",
+      "imperfecto": "I afflicted, was afflicting",
+      "futuro": "I will afflict",
+      "presentePerfecto": "I have afflicted, afflicted",
+      "futuroPerfecto": "I will have afflicted",
+      "pluscuamperfecto": "I had afflicted"
+    },
+    "afirmativo": "Afflict!",
+    "negativo": "Don't afflict!"
+  },
+  "attribution": "Fred Jehle"
+}

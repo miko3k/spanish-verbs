@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "estudiar",
+  "gerundio": "estudiando",
+  "participioPasado": "estudiado",
+  "indicativo": {
+    "presente": {
+      "yo": "estudio",
+      "tu": "estudias",
+      "ud": "estudia",
+      "nosotros": "estudiamos",
+      "vosotros": "estudiáis",
+      "uds": "estudian"
+    },
+    "futuro": {
+      "yo": "estudiaré",
+      "tu": "estudiarás",
+      "ud": "estudiará",
+      "nosotros": "estudiaremos",
+      "vosotros": "estudiaréis",
+      "uds": "estudiarán"
+    },
+    "imperfecto": {
+      "yo": "estudiaba",
+      "tu": "estudiabas",
+      "ud": "estudiaba",
+      "nosotros": "estudiábamos",
+      "vosotros": "estudiabais",
+      "uds": "estudiaban"
+    },
+    "preterito": {
+      "yo": "estudié",
+      "tu": "estudiaste",
+      "ud": "estudió",
+      "nosotros": "estudiamos",
+      "vosotros": "estudiasteis",
+      "uds": "estudiaron"
+    },
+    "condicional": {
+      "yo": "estudiaría",
+      "tu": "estudiarías",
+      "ud": "estudiaría",
+      "nosotros": "estudiaríamos",
+      "vosotros": "estudiaríais",
+      "uds": "estudiarían"
+    },
+    "presentePerfecto": {
+      "yo": "he estudiado",
+      "tu": "has estudiado",
+      "ud": "ha estudiado",
+      "nosotros": "hemos estudiado",
+      "vosotros": "habéis estudiado",
+      "uds": "han estudiado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré estudiado",
+      "tu": "habrás estudiado",
+      "ud": "habrá estudiado",
+      "nosotros": "habremos estudiado",
+      "vosotros": "habréis estudiado",
+      "uds": "habrán estudiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había estudiado",
+      "tu": "habías estudiado",
+      "ud": "había estudiado",
+      "nosotros": "habíamos estudiado",
+      "vosotros": "habíais estudiado",
+      "uds": "habían estudiado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube estudiado",
+      "tu": "hubiste estudiado",
+      "ud": "hubo estudiado",
+      "nosotros": "hubimos estudiado",
+      "vosotros": "hubisteis estudiado",
+      "uds": "hubieron estudiado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría estudiado",
+      "tu": "habrías estudiado",
+      "ud": "habría estudiado",
+      "nosotros": "habríamos estudiado",
+      "vosotros": "habríais estudiado",
+      "uds": "habrían estudiado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "estudie",
+      "tu": "estudies",
+      "ud": "estudie",
+      "nosotros": "estudiemos",
+      "vosotros": "estudiéis",
+      "uds": "estudien"
+    },
+    "imperfecto": {
+      "yo": "estudiara",
+      "tu": "estudiaras",
+      "ud": "estudiara",
+      "nosotros": "estudiáramos",
+      "vosotros": "estudiarais",
+      "uds": "estudiaran"
+    },
+    "futuro": {
+      "yo": "estudiare",
+      "tu": "estudiares",
+      "ud": "estudiare",
+      "nosotros": "estudiáremos",
+      "vosotros": "estudiareis",
+      "uds": "estudiaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya estudiado",
+      "tu": "hayas estudiado",
+      "ud": "haya estudiado",
+      "nosotros": "hayamos estudiado",
+      "vosotros": "hayáis estudiado",
+      "uds": "hayan estudiado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere estudiado",
+      "tu": "hubieres estudiado",
+      "ud": "hubiere estudiado",
+      "nosotros": "hubiéremos estudiado",
+      "vosotros": "hubiereis estudiado",
+      "uds": "hubieren estudiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera estudiado",
+      "tu": "hubieras estudiado",
+      "ud": "hubiera estudiado",
+      "nosotros": "hubiéramos estudiado",
+      "vosotros": "hubierais estudiado",
+      "uds": "hubieran estudiado"
+    },
+    "imperfectoAlt": {
+      "yo": "estudiase",
+      "tu": "estudiases",
+      "ud": "estudiase",
+      "nosotros": "estudiásemos",
+      "vosotros": "estudiaseis",
+      "uds": "estudiasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese estudiado",
+      "tu": "hubieses estudiado",
+      "ud": "hubiese estudiado",
+      "nosotros": "hubiésemos estudiado",
+      "vosotros": "hubieseis estudiado",
+      "uds": "hubiesen estudiado"
+    }
+  },
+  "afirmativo": {
+    "tu": "estudia",
+    "vosotros": "estudiad",
+    "ud": "estudie",
+    "uds": "estudien"
+  },
+  "negativo": {
+    "tu": "no estudies",
+    "vosotros": "no estudiéis",
+    "ud": "no estudie",
+    "uds": "no estudien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to study",
+    "gerundio": "studying",
+    "participioPasado": "studied",
+    "indicativo": {
+      "presente": "I study, am studying",
+      "futuro": "I will study",
+      "imperfecto": "I was studying, used to study, studied",
+      "preterito": "I studied",
+      "condicional": "I would study",
+      "presentePerfecto": "I have studied",
+      "futuroPerfecto": "I will have studied",
+      "pluscuamperfecto": "I had studied",
+      "preteritoAnterior": "I had studied",
+      "condicionalPerfecto": "I would have studied"
+    },
+    "subjuntivo": {
+      "presente": "I study, am studying",
+      "imperfecto": "I studied, was studying",
+      "futuro": "I will study",
+      "presentePerfecto": "I have studied, studied",
+      "futuroPerfecto": "I will have studied",
+      "pluscuamperfecto": "I had studied"
+    },
+    "afirmativo": "Study!",
+    "negativo": "Don't study!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "beber",
+  "gerundio": "bebiendo",
+  "participioPasado": "bebido",
+  "indicativo": {
+    "presente": {
+      "yo": "bebo",
+      "tu": "bebes",
+      "ud": "bebe",
+      "nosotros": "bebemos",
+      "vosotros": "bebéis",
+      "uds": "beben"
+    },
+    "futuro": {
+      "yo": "beberé",
+      "tu": "beberás",
+      "ud": "beberá",
+      "nosotros": "beberemos",
+      "vosotros": "beberéis",
+      "uds": "beberán"
+    },
+    "imperfecto": {
+      "yo": "bebía",
+      "tu": "bebías",
+      "ud": "bebía",
+      "nosotros": "bebíamos",
+      "vosotros": "bebíais",
+      "uds": "bebían"
+    },
+    "preterito": {
+      "yo": "bebí",
+      "tu": "bebiste",
+      "ud": "bebió",
+      "nosotros": "bebimos",
+      "vosotros": "bebisteis",
+      "uds": "bebieron"
+    },
+    "condicional": {
+      "yo": "bebería",
+      "tu": "beberías",
+      "ud": "bebería",
+      "nosotros": "beberíamos",
+      "vosotros": "beberíais",
+      "uds": "beberían"
+    },
+    "presentePerfecto": {
+      "yo": "he bebido",
+      "tu": "has bebido",
+      "ud": "ha bebido",
+      "nosotros": "hemos bebido",
+      "vosotros": "habéis bebido",
+      "uds": "han bebido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré bebido",
+      "tu": "habrás bebido",
+      "ud": "habrá bebido",
+      "nosotros": "habremos bebido",
+      "vosotros": "habréis bebido",
+      "uds": "habrán bebido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había bebido",
+      "tu": "habías bebido",
+      "ud": "había bebido",
+      "nosotros": "habíamos bebido",
+      "vosotros": "habíais bebido",
+      "uds": "habían bebido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube bebido",
+      "tu": "hubiste bebido",
+      "ud": "hubo bebido",
+      "nosotros": "hubimos bebido",
+      "vosotros": "hubisteis bebido",
+      "uds": "hubieron bebido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría bebido",
+      "tu": "habrías bebido",
+      "ud": "habría bebido",
+      "nosotros": "habríamos bebido",
+      "vosotros": "habríais bebido",
+      "uds": "habrían bebido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "beba",
+      "tu": "bebas",
+      "ud": "beba",
+      "nosotros": "bebamos",
+      "vosotros": "bebáis",
+      "uds": "beban"
+    },
+    "imperfecto": {
+      "yo": "bebiera",
+      "tu": "bebieras",
+      "ud": "bebiera",
+      "nosotros": "bebiéramos",
+      "vosotros": "bebierais",
+      "uds": "bebieran"
+    },
+    "futuro": {
+      "yo": "bebiere",
+      "tu": "bebieres",
+      "ud": "bebiere",
+      "nosotros": "bebiéremos",
+      "vosotros": "bebiereis",
+      "uds": "bebieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya bebido",
+      "tu": "hayas bebido",
+      "ud": "haya bebido",
+      "nosotros": "hayamos bebido",
+      "vosotros": "hayáis bebido",
+      "uds": "hayan bebido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere bebido",
+      "tu": "hubieres bebido",
+      "ud": "hubiere bebido",
+      "nosotros": "hubiéremos bebido",
+      "vosotros": "hubiereis bebido",
+      "uds": "hubieren bebido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera bebido",
+      "tu": "hubieras bebido",
+      "ud": "hubiera bebido",
+      "nosotros": "hubiéramos bebido",
+      "vosotros": "hubierais bebido",
+      "uds": "hubieran bebido"
+    },
+    "imperfectoAlt": {
+      "yo": "bebiese",
+      "tu": "bebieses",
+      "ud": "bebiese",
+      "nosotros": "bebiésemos",
+      "vosotros": "bebieseis",
+      "uds": "bebiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese bebido",
+      "tu": "hubieses bebido",
+      "ud": "hubiese bebido",
+      "nosotros": "hubiésemos bebido",
+      "vosotros": "hubieseis bebido",
+      "uds": "hubiesen bebido"
+    }
+  },
+  "afirmativo": {
+    "tu": "bebe",
+    "vosotros": "bebed",
+    "ud": "beba",
+    "uds": "beban"
+  },
+  "negativo": {
+    "tu": "no bebas",
+    "vosotros": "no bebáis",
+    "ud": "no beba",
+    "uds": "no beban"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to drink",
+    "gerundio": "drinking",
+    "participioPasado": "drunk",
+    "indicativo": {
+      "presente": "I drink, am drinking",
+      "futuro": "I will drink",
+      "imperfecto": "I was drinking, used to drink, drank",
+      "preterito": "I drank",
+      "condicional": "I would drink",
+      "presentePerfecto": "I have drunk",
+      "futuroPerfecto": "I will have drunk",
+      "pluscuamperfecto": "I had drunk",
+      "preteritoAnterior": "I had drunk",
+      "condicionalPerfecto": "I would have drunk"
+    },
+    "subjuntivo": {
+      "presente": "I drink, am drinking",
+      "imperfecto": "I drank, was drinking",
+      "futuro": "I will drink",
+      "presentePerfecto": "I have drunk, drank",
+      "futuroPerfecto": "I will have drunk",
+      "pluscuamperfecto": "I had drunk"
+    },
+    "afirmativo": "Drink!",
+    "negativo": "Don't drink!"
+  },
+  "attribution": "Fred Jehle"
+}

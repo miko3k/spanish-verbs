@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "broncearse",
+  "gerundio": "bronceándose",
+  "participioPasado": "bronceado",
+  "indicativo": {
+    "presente": {
+      "yo": "me bronceo",
+      "tu": "te bronceas",
+      "ud": "se broncea",
+      "nosotros": "nos bronceamos",
+      "vosotros": "os bronceáis",
+      "uds": "se broncean"
+    },
+    "futuro": {
+      "yo": "me broncearé",
+      "tu": "te broncearás",
+      "ud": "se bronceará",
+      "nosotros": "nos broncearemos",
+      "vosotros": "os broncearéis",
+      "uds": "se broncearán"
+    },
+    "imperfecto": {
+      "yo": "me bronceaba",
+      "tu": "te bronceabas",
+      "ud": "se bronceaba",
+      "nosotros": "nos bronceábamos",
+      "vosotros": "os bronceabais",
+      "uds": "se bronceaban"
+    },
+    "preterito": {
+      "yo": "me bronceé",
+      "tu": "te bronceaste",
+      "ud": "se bronceó",
+      "nosotros": "nos bronceamos",
+      "vosotros": "os bronceasteis",
+      "uds": "se broncearon"
+    },
+    "condicional": {
+      "yo": "me broncearía",
+      "tu": "te broncearías",
+      "ud": "se broncearía",
+      "nosotros": "nos broncearíamos",
+      "vosotros": "os broncearíais",
+      "uds": "se broncearían"
+    },
+    "presentePerfecto": {
+      "yo": "me he bronceado",
+      "tu": "te has bronceado",
+      "ud": "se ha bronceado",
+      "nosotros": "nos hemos bronceado",
+      "vosotros": "os habéis bronceado",
+      "uds": "se han bronceado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré bronceado",
+      "tu": "te habrás bronceado",
+      "ud": "se habrá bronceado",
+      "nosotros": "nos habremos bronceado",
+      "vosotros": "os habréis bronceado",
+      "uds": "se habrán bronceado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había bronceado",
+      "tu": "te habías bronceado",
+      "ud": "se había bronceado",
+      "nosotros": "nos habíamos bronceado",
+      "vosotros": "os habíais bronceado",
+      "uds": "se habían bronceado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube bronceado",
+      "tu": "te hubiste bronceado",
+      "ud": "se hubo bronceado",
+      "nosotros": "nos hubimos bronceado",
+      "vosotros": "os hubisteis bronceado",
+      "uds": "se hubieron bronceado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría bronceado",
+      "tu": "te habrías bronceado",
+      "ud": "se habría bronceado",
+      "nosotros": "nos habríamos bronceado",
+      "vosotros": "os habríais bronceado",
+      "uds": "se habrían bronceado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me broncee",
+      "tu": "te broncees",
+      "ud": "se broncee",
+      "nosotros": "nos bronceemos",
+      "vosotros": "os bronceéis",
+      "uds": "se bronceen"
+    },
+    "imperfecto": {
+      "yo": "me bronceara",
+      "tu": "te broncearas",
+      "ud": "se bronceara",
+      "nosotros": "nos bronceáramos",
+      "vosotros": "os broncearais",
+      "uds": "se broncearan"
+    },
+    "futuro": {
+      "yo": "me bronceare",
+      "tu": "te bronceares",
+      "ud": "se bronceare",
+      "nosotros": "nos bronceáremos",
+      "vosotros": "os bronceareis",
+      "uds": "se broncearen"
+    },
+    "presentePerfecto": {
+      "yo": "me haya bronceado",
+      "tu": "te hayas bronceado",
+      "ud": "se haya bronceado",
+      "nosotros": "nos hayamos bronceado",
+      "vosotros": "os hayáis bronceado",
+      "uds": "se hayan bronceado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere bronceado",
+      "tu": "te hubieres bronceado",
+      "ud": "se hubiere bronceado",
+      "nosotros": "nos hubiéremos bronceado",
+      "vosotros": "os hubiereis bronceado",
+      "uds": "se hubieren bronceado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera bronceado",
+      "tu": "te hubieras bronceado",
+      "ud": "se hubiera bronceado",
+      "nosotros": "nos hubiéramos bronceado",
+      "vosotros": "os hubierais bronceado",
+      "uds": "se hubieran bronceado"
+    },
+    "imperfectoAlt": {
+      "yo": "me broncease",
+      "tu": "te bronceases",
+      "ud": "se broncease",
+      "nosotros": "nos bronceásemos",
+      "vosotros": "os bronceaseis",
+      "uds": "se bronceasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese bronceado",
+      "tu": "te hubieses bronceado",
+      "ud": "se hubiese bronceado",
+      "nosotros": "nos hubiésemos bronceado",
+      "vosotros": "os hubieseis bronceado",
+      "uds": "se hubiesen bronceado"
+    }
+  },
+  "afirmativo": {
+    "tu": "broncéate",
+    "vosotros": "bronceaos",
+    "ud": "broncéese",
+    "uds": "broncéense"
+  },
+  "negativo": {
+    "tu": "no te broncees",
+    "vosotros": "no os bronceéis",
+    "ud": "no se broncee",
+    "uds": "no se bronceen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to get a suntan, tan",
+    "gerundio": "getting a suntan",
+    "participioPasado": "got a suntan",
+    "indicativo": {
+      "presente": "I get a suntan, am getting a suntan",
+      "futuro": "I will get a suntan",
+      "imperfecto": "I was getting a suntan, used to get a suntan, got a suntan",
+      "preterito": "I got a suntan",
+      "condicional": "I would get a suntan",
+      "presentePerfecto": "I have gotten a suntan",
+      "futuroPerfecto": "I will have gotten a suntan",
+      "pluscuamperfecto": "I had gotten a suntan",
+      "preteritoAnterior": "I had gotten a suntan",
+      "condicionalPerfecto": "I would have gotten a suntan"
+    },
+    "subjuntivo": {
+      "presente": "I get a suntan, am getting a suntan",
+      "imperfecto": "I got a suntan, was getting a suntan",
+      "futuro": "I will get a suntan",
+      "presentePerfecto": "I have gotten a suntan, got a suntan",
+      "futuroPerfecto": "I will have gotten a suntan",
+      "pluscuamperfecto": "I had gotten a suntan"
+    },
+    "afirmativo": "Get a suntan!",
+    "negativo": "Don't get a suntan!"
+  },
+  "attribution": "Fred Jehle"
+}

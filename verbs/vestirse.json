@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "vestirse",
+  "gerundio": "vistiéndose",
+  "participioPasado": "vestido",
+  "indicativo": {
+    "presente": {
+      "yo": "me visto",
+      "tu": "te vistes",
+      "ud": "se viste",
+      "nosotros": "nos vestimos",
+      "vosotros": "os vestís",
+      "uds": "se visten"
+    },
+    "futuro": {
+      "yo": "me vestiré",
+      "tu": "te vestirás",
+      "ud": "se vestirá",
+      "nosotros": "nos vestiremos",
+      "vosotros": "os vestiréis",
+      "uds": "se vestirán"
+    },
+    "imperfecto": {
+      "yo": "me vestía",
+      "tu": "te vestías",
+      "ud": "se vestía",
+      "nosotros": "nos vestíamos",
+      "vosotros": "os vestíais",
+      "uds": "se vestían"
+    },
+    "preterito": {
+      "yo": "me vestí",
+      "tu": "te vestiste",
+      "ud": "se vistió",
+      "nosotros": "nos vestimos",
+      "vosotros": "os vestisteis",
+      "uds": "se vistieron"
+    },
+    "condicional": {
+      "yo": "me vestiría",
+      "tu": "te vestirías",
+      "ud": "se vestiría",
+      "nosotros": "nos vestiríamos",
+      "vosotros": "os vestiríais",
+      "uds": "se vestirían"
+    },
+    "presentePerfecto": {
+      "yo": "me he vestido",
+      "tu": "te has vestido",
+      "ud": "se ha vestido",
+      "nosotros": "nos hemos vestido",
+      "vosotros": "os habéis vestido",
+      "uds": "se han vestido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré vestido",
+      "tu": "te habrás vestido",
+      "ud": "se habrá vestido",
+      "nosotros": "nos habremos vestido",
+      "vosotros": "os habréis vestido",
+      "uds": "se habrán vestido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había vestido",
+      "tu": "te habías vestido",
+      "ud": "se había vestido",
+      "nosotros": "nos habíamos vestido",
+      "vosotros": "os habíais vestido",
+      "uds": "se habían vestido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube vestido",
+      "tu": "te hubiste vestido",
+      "ud": "se hubo vestido",
+      "nosotros": "nos hubimos vestido",
+      "vosotros": "os hubisteis vestido",
+      "uds": "se hubieron vestido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría vestido",
+      "tu": "te habrías vestido",
+      "ud": "se habría vestido",
+      "nosotros": "nos habríamos vestido",
+      "vosotros": "os habríais vestido",
+      "uds": "se habrían vestido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me vista",
+      "tu": "te vistas",
+      "ud": "se vista",
+      "nosotros": "nos vistamos",
+      "vosotros": "os vistáis",
+      "uds": "se vistan"
+    },
+    "imperfecto": {
+      "yo": "me vistiera",
+      "tu": "te vistieras",
+      "ud": "se vistiera",
+      "nosotros": "nos vistiéramos",
+      "vosotros": "os vistierais",
+      "uds": "se vistieran"
+    },
+    "futuro": {
+      "yo": "me vistiere",
+      "tu": "te vistieres",
+      "ud": "se vistiere",
+      "nosotros": "nos vistiéremos",
+      "vosotros": "os vistiereis",
+      "uds": "se vistieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya vestido",
+      "tu": "te hayas vestido",
+      "ud": "se haya vestido",
+      "nosotros": "nos hayamos vestido",
+      "vosotros": "os hayáis vestido",
+      "uds": "se hayan vestido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere vestido",
+      "tu": "te hubieres vestido",
+      "ud": "se hubiere vestido",
+      "nosotros": "nos hubiéremos vestido",
+      "vosotros": "os hubiereis vestido",
+      "uds": "se hubieren vestido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera vestido",
+      "tu": "te hubieras vestido",
+      "ud": "se hubiera vestido",
+      "nosotros": "nos hubiéramos vestido",
+      "vosotros": "os hubierais vestido",
+      "uds": "se hubieran vestido"
+    },
+    "imperfectoAlt": {
+      "yo": "me vistiese",
+      "tu": "te vistieses",
+      "ud": "se vistiese",
+      "nosotros": "nos vistiésemos",
+      "vosotros": "os vistieseis",
+      "uds": "se vistiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese vestido",
+      "tu": "te hubieses vestido",
+      "ud": "se hubiese vestido",
+      "nosotros": "nos hubiésemos vestido",
+      "vosotros": "os hubieseis vestido",
+      "uds": "se hubiesen vestido"
+    }
+  },
+  "afirmativo": {
+    "tu": "vístete",
+    "vosotros": "vestíos",
+    "ud": "vístase",
+    "uds": "vístanse"
+  },
+  "negativo": {
+    "tu": "no te vistas",
+    "vosotros": "no os vistáis",
+    "ud": "no se vista",
+    "uds": "no se vistan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i. Note: Use the nonreflexive form of this verb, vestir, for to dress (someone else).",
+    "infinitivo": "to get dressed, dress (oneself), clothe (oneself)",
+    "gerundio": "getting dressed",
+    "participioPasado": "dressed, gotten dressed",
+    "indicativo": {
+      "presente": "I get dressed, am getting dressed",
+      "futuro": "I will get dressed",
+      "imperfecto": "I was getting dressed, used to get dressed, got dressed",
+      "preterito": "I got dressed",
+      "condicional": "I would get dressed",
+      "presentePerfecto": "I have gotten dressed",
+      "futuroPerfecto": "I will have gotten dressed",
+      "pluscuamperfecto": "I had gotten dressed",
+      "preteritoAnterior": "I had gotten dressed",
+      "condicionalPerfecto": "I would have gotten dressed"
+    },
+    "subjuntivo": {
+      "presente": "I get dressed, am getting dressed",
+      "imperfecto": "I got dressed, was getting dressed",
+      "futuro": "I will get dressed",
+      "presentePerfecto": "I have gotten dressed, gotten dressed",
+      "futuroPerfecto": "I will have gotten dressed",
+      "pluscuamperfecto": "I had gotten dressed"
+    },
+    "afirmativo": "Get dressed!",
+    "negativo": "Don't get dressed!"
+  },
+  "attribution": "Fred Jehle"
+}

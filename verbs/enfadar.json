@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "enfadar",
+  "gerundio": "enfadando",
+  "participioPasado": "enfadado",
+  "indicativo": {
+    "presente": {
+      "yo": "enfado",
+      "tu": "enfadas",
+      "ud": "enfada",
+      "nosotros": "enfadamos",
+      "vosotros": "enfadáis",
+      "uds": "enfadan"
+    },
+    "futuro": {
+      "yo": "enfadaré",
+      "tu": "enfadarás",
+      "ud": "enfadará",
+      "nosotros": "enfadaremos",
+      "vosotros": "enfadaréis",
+      "uds": "enfadarán"
+    },
+    "imperfecto": {
+      "yo": "enfadaba",
+      "tu": "enfadabas",
+      "ud": "enfadaba",
+      "nosotros": "enfadábamos",
+      "vosotros": "enfadabais",
+      "uds": "enfadaban"
+    },
+    "preterito": {
+      "yo": "enfadé",
+      "tu": "enfadaste",
+      "ud": "enfadó",
+      "nosotros": "enfadamos",
+      "vosotros": "enfadasteis",
+      "uds": "enfadaron"
+    },
+    "condicional": {
+      "yo": "enfadaría",
+      "tu": "enfadarías",
+      "ud": "enfadaría",
+      "nosotros": "enfadaríamos",
+      "vosotros": "enfadaríais",
+      "uds": "enfadarían"
+    },
+    "presentePerfecto": {
+      "yo": "he enfadado",
+      "tu": "has enfadado",
+      "ud": "ha enfadado",
+      "nosotros": "hemos enfadado",
+      "vosotros": "habéis enfadado",
+      "uds": "han enfadado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré enfadado",
+      "tu": "habrás enfadado",
+      "ud": "habrá enfadado",
+      "nosotros": "habremos enfadado",
+      "vosotros": "habréis enfadado",
+      "uds": "habrán enfadado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había enfadado",
+      "tu": "habías enfadado",
+      "ud": "había enfadado",
+      "nosotros": "habíamos enfadado",
+      "vosotros": "habíais enfadado",
+      "uds": "habían enfadado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube enfadado",
+      "tu": "hubiste enfadado",
+      "ud": "hubo enfadado",
+      "nosotros": "hubimos enfadado",
+      "vosotros": "hubisteis enfadado",
+      "uds": "hubieron enfadado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría enfadado",
+      "tu": "habrías enfadado",
+      "ud": "habría enfadado",
+      "nosotros": "habríamos enfadado",
+      "vosotros": "habríais enfadado",
+      "uds": "habrían enfadado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "enfade",
+      "tu": "enfades",
+      "ud": "enfade",
+      "nosotros": "enfademos",
+      "vosotros": "enfadéis",
+      "uds": "enfaden"
+    },
+    "imperfecto": {
+      "yo": "enfadara",
+      "tu": "enfadaras",
+      "ud": "enfadara",
+      "nosotros": "enfadáramos",
+      "vosotros": "enfadarais",
+      "uds": "enfadaran"
+    },
+    "futuro": {
+      "yo": "enfadare",
+      "tu": "enfadares",
+      "ud": "enfadare",
+      "nosotros": "enfadáremos",
+      "vosotros": "enfadareis",
+      "uds": "enfadaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya enfadado",
+      "tu": "hayas enfadado",
+      "ud": "haya enfadado",
+      "nosotros": "hayamos enfadado",
+      "vosotros": "hayáis enfadado",
+      "uds": "hayan enfadado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere enfadado",
+      "tu": "hubieres enfadado",
+      "ud": "hubiere enfadado",
+      "nosotros": "hubiéremos enfadado",
+      "vosotros": "hubiereis enfadado",
+      "uds": "hubieren enfadado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera enfadado",
+      "tu": "hubieras enfadado",
+      "ud": "hubiera enfadado",
+      "nosotros": "hubiéramos enfadado",
+      "vosotros": "hubierais enfadado",
+      "uds": "hubieran enfadado"
+    },
+    "imperfectoAlt": {
+      "yo": "enfadase",
+      "tu": "enfadases",
+      "ud": "enfadase",
+      "nosotros": "enfadásemos",
+      "vosotros": "enfadaseis",
+      "uds": "enfadasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese enfadado",
+      "tu": "hubieses enfadado",
+      "ud": "hubiese enfadado",
+      "nosotros": "hubiésemos enfadado",
+      "vosotros": "hubieseis enfadado",
+      "uds": "hubiesen enfadado"
+    }
+  },
+  "afirmativo": {
+    "tu": "enfada",
+    "vosotros": "enfadad",
+    "ud": "enfade",
+    "uds": "enfaden"
+  },
+  "negativo": {
+    "tu": "no enfades",
+    "vosotros": "no enfadéis",
+    "ud": "no enfade",
+    "uds": "no enfaden"
+  },
+  "english": {
+    "note": "Note: For to get angry, use the reflexive form enfadarse.",
+    "infinitivo": "to anger, irritate, annoy",
+    "gerundio": "angering",
+    "participioPasado": "angered",
+    "indicativo": {
+      "presente": "I anger, am angering",
+      "futuro": "I will anger",
+      "imperfecto": "I was angering, used to anger, angered",
+      "preterito": "I angered",
+      "condicional": "I would anger",
+      "presentePerfecto": "I have angered",
+      "futuroPerfecto": "I will have angered",
+      "pluscuamperfecto": "I had angered",
+      "preteritoAnterior": "I had angered",
+      "condicionalPerfecto": "I would have angered"
+    },
+    "subjuntivo": {
+      "presente": "I anger, am angering",
+      "imperfecto": "I angered, was angering",
+      "futuro": "I will anger",
+      "presentePerfecto": "I have angered, angered",
+      "futuroPerfecto": "I will have angered",
+      "pluscuamperfecto": "I had angered"
+    },
+    "afirmativo": "Anger!",
+    "negativo": "Don't anger!"
+  },
+  "attribution": "Fred Jehle"
+}

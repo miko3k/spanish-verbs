@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "seguir",
+  "gerundio": "siguiendo",
+  "participioPasado": "seguido",
+  "indicativo": {
+    "presente": {
+      "yo": "sigo",
+      "tu": "sigues",
+      "ud": "sigue",
+      "nosotros": "seguimos",
+      "vosotros": "seguís",
+      "uds": "siguen"
+    },
+    "futuro": {
+      "yo": "seguiré",
+      "tu": "seguirás",
+      "ud": "seguirá",
+      "nosotros": "seguiremos",
+      "vosotros": "seguiréis",
+      "uds": "seguirán"
+    },
+    "imperfecto": {
+      "yo": "seguía",
+      "tu": "seguías",
+      "ud": "seguía",
+      "nosotros": "seguíamos",
+      "vosotros": "seguíais",
+      "uds": "seguían"
+    },
+    "preterito": {
+      "yo": "seguí",
+      "tu": "seguiste",
+      "ud": "siguió",
+      "nosotros": "seguimos",
+      "vosotros": "seguisteis",
+      "uds": "siguieron"
+    },
+    "condicional": {
+      "yo": "seguiría",
+      "tu": "seguirías",
+      "ud": "seguiría",
+      "nosotros": "seguiríamos",
+      "vosotros": "seguiríais",
+      "uds": "seguirían"
+    },
+    "presentePerfecto": {
+      "yo": "he seguido",
+      "tu": "has seguido",
+      "ud": "ha seguido",
+      "nosotros": "hemos seguido",
+      "vosotros": "habéis seguido",
+      "uds": "han seguido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré seguido",
+      "tu": "habrás seguido",
+      "ud": "habrá seguido",
+      "nosotros": "habremos seguido",
+      "vosotros": "habréis seguido",
+      "uds": "habrán seguido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había seguido",
+      "tu": "habías seguido",
+      "ud": "había seguido",
+      "nosotros": "habíamos seguido",
+      "vosotros": "habíais seguido",
+      "uds": "habían seguido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube seguido",
+      "tu": "hubiste seguido",
+      "ud": "hubo seguido",
+      "nosotros": "hubimos seguido",
+      "vosotros": "hubisteis seguido",
+      "uds": "hubieron seguido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría seguido",
+      "tu": "habrías seguido",
+      "ud": "habría seguido",
+      "nosotros": "habríamos seguido",
+      "vosotros": "habríais seguido",
+      "uds": "habrían seguido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "siga",
+      "tu": "sigas",
+      "ud": "siga",
+      "nosotros": "sigamos",
+      "vosotros": "sigáis",
+      "uds": "sigan"
+    },
+    "imperfecto": {
+      "yo": "siguiera",
+      "tu": "siguieras",
+      "ud": "siguiera",
+      "nosotros": "siguiéramos",
+      "vosotros": "siguierais",
+      "uds": "siguieran"
+    },
+    "futuro": {
+      "yo": "siguiere",
+      "tu": "siguieres",
+      "ud": "siguiere",
+      "nosotros": "siguiéremos",
+      "vosotros": "siguiereis",
+      "uds": "siguieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya seguido",
+      "tu": "hayas seguido",
+      "ud": "haya seguido",
+      "nosotros": "hayamos seguido",
+      "vosotros": "hayáis seguido",
+      "uds": "hayan seguido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere seguido",
+      "tu": "hubieres seguido",
+      "ud": "hubiere seguido",
+      "nosotros": "hubiéremos seguido",
+      "vosotros": "hubiereis seguido",
+      "uds": "hubieren seguido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera seguido",
+      "tu": "hubieras seguido",
+      "ud": "hubiera seguido",
+      "nosotros": "hubiéramos seguido",
+      "vosotros": "hubierais seguido",
+      "uds": "hubieran seguido"
+    },
+    "imperfectoAlt": {
+      "yo": "siguiese",
+      "tu": "siguieses",
+      "ud": "siguiese",
+      "nosotros": "siguiésemos",
+      "vosotros": "siguieseis",
+      "uds": "siguiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese seguido",
+      "tu": "hubieses seguido",
+      "ud": "hubiese seguido",
+      "nosotros": "hubiésemos seguido",
+      "vosotros": "hubieseis seguido",
+      "uds": "hubiesen seguido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sigue",
+    "vosotros": "seguid",
+    "ud": "siga",
+    "uds": "sigan"
+  },
+  "negativo": {
+    "tu": "no sigas",
+    "vosotros": "no sigáis",
+    "ud": "no siga",
+    "uds": "no sigan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Cambio ortográfico: gu > g delante de o y a.",
+    "infinitivo": "to follow, continue",
+    "gerundio": "following",
+    "participioPasado": "followed",
+    "indicativo": {
+      "presente": "I follow, am following",
+      "futuro": "I will follow",
+      "imperfecto": "I was following, used to follow, followed",
+      "preterito": "I followed",
+      "condicional": "I would follow",
+      "presentePerfecto": "I have followed",
+      "futuroPerfecto": "I will have followed",
+      "pluscuamperfecto": "I had followed",
+      "preteritoAnterior": "I had followed",
+      "condicionalPerfecto": "I would have followed"
+    },
+    "subjuntivo": {
+      "presente": "I follow, am following",
+      "imperfecto": "I followed, was following",
+      "futuro": "I will follow",
+      "presentePerfecto": "I have followed, followed",
+      "futuroPerfecto": "I will have followed",
+      "pluscuamperfecto": "I had followed"
+    },
+    "afirmativo": "Follow!",
+    "negativo": "Don't follow!"
+  },
+  "attribution": "Fred Jehle"
+}

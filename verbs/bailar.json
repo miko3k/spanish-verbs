@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "bailar",
+  "gerundio": "bailando",
+  "participioPasado": "bailado",
+  "indicativo": {
+    "presente": {
+      "yo": "bailo",
+      "tu": "bailas",
+      "ud": "baila",
+      "nosotros": "bailamos",
+      "vosotros": "bailáis",
+      "uds": "bailan"
+    },
+    "futuro": {
+      "yo": "bailaré",
+      "tu": "bailarás",
+      "ud": "bailará",
+      "nosotros": "bailaremos",
+      "vosotros": "bailaréis",
+      "uds": "bailarán"
+    },
+    "imperfecto": {
+      "yo": "bailaba",
+      "tu": "bailabas",
+      "ud": "bailaba",
+      "nosotros": "bailábamos",
+      "vosotros": "bailabais",
+      "uds": "bailaban"
+    },
+    "preterito": {
+      "yo": "bailé",
+      "tu": "bailaste",
+      "ud": "bailó",
+      "nosotros": "bailamos",
+      "vosotros": "bailasteis",
+      "uds": "bailaron"
+    },
+    "condicional": {
+      "yo": "bailaría",
+      "tu": "bailarías",
+      "ud": "bailaría",
+      "nosotros": "bailaríamos",
+      "vosotros": "bailaríais",
+      "uds": "bailarían"
+    },
+    "presentePerfecto": {
+      "yo": "he bailado",
+      "tu": "has bailado",
+      "ud": "ha bailado",
+      "nosotros": "hemos bailado",
+      "vosotros": "habéis bailado",
+      "uds": "han bailado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré bailado",
+      "tu": "habrás bailado",
+      "ud": "habrá bailado",
+      "nosotros": "habremos bailado",
+      "vosotros": "habréis bailado",
+      "uds": "habrán bailado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había bailado",
+      "tu": "habías bailado",
+      "ud": "había bailado",
+      "nosotros": "habíamos bailado",
+      "vosotros": "habíais bailado",
+      "uds": "habían bailado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube bailado",
+      "tu": "hubiste bailado",
+      "ud": "hubo bailado",
+      "nosotros": "hubimos bailado",
+      "vosotros": "hubisteis bailado",
+      "uds": "hubieron bailado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría bailado",
+      "tu": "habrías bailado",
+      "ud": "habría bailado",
+      "nosotros": "habríamos bailado",
+      "vosotros": "habríais bailado",
+      "uds": "habrían bailado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "baile",
+      "tu": "bailes",
+      "ud": "baile",
+      "nosotros": "bailemos",
+      "vosotros": "bailéis",
+      "uds": "bailen"
+    },
+    "imperfecto": {
+      "yo": "bailara",
+      "tu": "bailaras",
+      "ud": "bailara",
+      "nosotros": "bailáramos",
+      "vosotros": "bailarais",
+      "uds": "bailaran"
+    },
+    "futuro": {
+      "yo": "bailare",
+      "tu": "bailares",
+      "ud": "bailare",
+      "nosotros": "bailáremos",
+      "vosotros": "bailareis",
+      "uds": "bailaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya bailado",
+      "tu": "hayas bailado",
+      "ud": "haya bailado",
+      "nosotros": "hayamos bailado",
+      "vosotros": "hayáis bailado",
+      "uds": "hayan bailado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere bailado",
+      "tu": "hubieres bailado",
+      "ud": "hubiere bailado",
+      "nosotros": "hubiéremos bailado",
+      "vosotros": "hubiereis bailado",
+      "uds": "hubieren bailado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera bailado",
+      "tu": "hubieras bailado",
+      "ud": "hubiera bailado",
+      "nosotros": "hubiéramos bailado",
+      "vosotros": "hubierais bailado",
+      "uds": "hubieran bailado"
+    },
+    "imperfectoAlt": {
+      "yo": "bailase",
+      "tu": "bailases",
+      "ud": "bailase",
+      "nosotros": "bailásemos",
+      "vosotros": "bailaseis",
+      "uds": "bailasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese bailado",
+      "tu": "hubieses bailado",
+      "ud": "hubiese bailado",
+      "nosotros": "hubiésemos bailado",
+      "vosotros": "hubieseis bailado",
+      "uds": "hubiesen bailado"
+    }
+  },
+  "afirmativo": {
+    "tu": "baila",
+    "vosotros": "bailad",
+    "ud": "baile",
+    "uds": "bailen"
+  },
+  "negativo": {
+    "tu": "no bailes",
+    "vosotros": "no bailéis",
+    "ud": "no baile",
+    "uds": "no bailen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to dance",
+    "gerundio": "dancing",
+    "participioPasado": "danced",
+    "indicativo": {
+      "presente": "I dance, am dancing",
+      "futuro": "I will dance",
+      "imperfecto": "I was dancing, used to dance, danced",
+      "preterito": "I danced",
+      "condicional": "I would dance",
+      "presentePerfecto": "I have danced",
+      "futuroPerfecto": "I will have danced",
+      "pluscuamperfecto": "I had danced",
+      "preteritoAnterior": "I had danced",
+      "condicionalPerfecto": "I would have danced"
+    },
+    "subjuntivo": {
+      "presente": "I dance, am dancing",
+      "imperfecto": "I danced, was dancing",
+      "futuro": "I will dance",
+      "presentePerfecto": "I have danced, danced",
+      "futuroPerfecto": "I will have danced",
+      "pluscuamperfecto": "I had danced"
+    },
+    "afirmativo": "Dance!",
+    "negativo": "Don't dance!"
+  },
+  "attribution": "Fred Jehle"
+}

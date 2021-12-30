@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "escribir",
+  "gerundio": "escribiendo",
+  "participioPasado": "escrito",
+  "indicativo": {
+    "presente": {
+      "yo": "escribo",
+      "tu": "escribes",
+      "ud": "escribe",
+      "nosotros": "escribimos",
+      "vosotros": "escribís",
+      "uds": "escriben"
+    },
+    "futuro": {
+      "yo": "escribiré",
+      "tu": "escribirás",
+      "ud": "escribirá",
+      "nosotros": "escribiremos",
+      "vosotros": "escribiréis",
+      "uds": "escribirán"
+    },
+    "imperfecto": {
+      "yo": "escribía",
+      "tu": "escribías",
+      "ud": "escribía",
+      "nosotros": "escribíamos",
+      "vosotros": "escribíais",
+      "uds": "escribían"
+    },
+    "preterito": {
+      "yo": "escribí",
+      "tu": "escribiste",
+      "ud": "escribió",
+      "nosotros": "escribimos",
+      "vosotros": "escribisteis",
+      "uds": "escribieron"
+    },
+    "condicional": {
+      "yo": "escribiría",
+      "tu": "escribirías",
+      "ud": "escribiría",
+      "nosotros": "escribiríamos",
+      "vosotros": "escribiríais",
+      "uds": "escribirían"
+    },
+    "presentePerfecto": {
+      "yo": "he escrito",
+      "tu": "has escrito",
+      "ud": "ha escrito",
+      "nosotros": "hemos escrito",
+      "vosotros": "habéis escrito",
+      "uds": "han escrito"
+    },
+    "futuroPerfecto": {
+      "yo": "habré escrito",
+      "tu": "habrás escrito",
+      "ud": "habrá escrito",
+      "nosotros": "habremos escrito",
+      "vosotros": "habréis escrito",
+      "uds": "habrán escrito"
+    },
+    "pluscuamperfecto": {
+      "yo": "había escrito",
+      "tu": "habías escrito",
+      "ud": "había escrito",
+      "nosotros": "habíamos escrito",
+      "vosotros": "habíais escrito",
+      "uds": "habían escrito"
+    },
+    "preteritoAnterior": {
+      "yo": "hube escrito",
+      "tu": "hubiste escrito",
+      "ud": "hubo escrito",
+      "nosotros": "hubimos escrito",
+      "vosotros": "hubisteis escrito",
+      "uds": "hubieron escrito"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría escrito",
+      "tu": "habrías escrito",
+      "ud": "habría escrito",
+      "nosotros": "habríamos escrito",
+      "vosotros": "habríais escrito",
+      "uds": "habrían escrito"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "escriba",
+      "tu": "escribas",
+      "ud": "escriba",
+      "nosotros": "escribamos",
+      "vosotros": "escribáis",
+      "uds": "escriban"
+    },
+    "imperfecto": {
+      "yo": "escribiera",
+      "tu": "escribieras",
+      "ud": "escribiera",
+      "nosotros": "escribiéramos",
+      "vosotros": "escribierais",
+      "uds": "escribieran"
+    },
+    "futuro": {
+      "yo": "escribiere",
+      "tu": "escribieres",
+      "ud": "escribiere",
+      "nosotros": "escribiéremos",
+      "vosotros": "escribiereis",
+      "uds": "escribieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya escrito",
+      "tu": "hayas escrito",
+      "ud": "haya escrito",
+      "nosotros": "hayamos escrito",
+      "vosotros": "hayáis escrito",
+      "uds": "hayan escrito"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere escrito",
+      "tu": "hubieres escrito",
+      "ud": "hubiere escrito",
+      "nosotros": "hubiéremos escrito",
+      "vosotros": "hubiereis escrito",
+      "uds": "hubieren escrito"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera escrito",
+      "tu": "hubieras escrito",
+      "ud": "hubiera escrito",
+      "nosotros": "hubiéramos escrito",
+      "vosotros": "hubierais escrito",
+      "uds": "hubieran escrito"
+    },
+    "imperfectoAlt": {
+      "yo": "escribiese",
+      "tu": "escribieses",
+      "ud": "escribiese",
+      "nosotros": "escribiésemos",
+      "vosotros": "escribieseis",
+      "uds": "escribiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese escrito",
+      "tu": "hubieses escrito",
+      "ud": "hubiese escrito",
+      "nosotros": "hubiésemos escrito",
+      "vosotros": "hubieseis escrito",
+      "uds": "hubiesen escrito"
+    }
+  },
+  "afirmativo": {
+    "tu": "escribe",
+    "vosotros": "escribid",
+    "ud": "escriba",
+    "uds": "escriban"
+  },
+  "negativo": {
+    "tu": "no escribas",
+    "vosotros": "no escribáis",
+    "ud": "no escriba",
+    "uds": "no escriban"
+  },
+  "english": {
+    "note": "Participio pasado irregular: escrito.",
+    "infinitivo": "to write",
+    "gerundio": "writing",
+    "participioPasado": "written",
+    "indicativo": {
+      "presente": "I write, am writing",
+      "futuro": "I will write",
+      "imperfecto": "I was writing, used to write, wrote",
+      "preterito": "I wrote",
+      "condicional": "I would write",
+      "presentePerfecto": "I have written",
+      "futuroPerfecto": "I will have written",
+      "pluscuamperfecto": "I had written",
+      "preteritoAnterior": "I had written",
+      "condicionalPerfecto": "I would have written"
+    },
+    "subjuntivo": {
+      "presente": "I write, am writing",
+      "imperfecto": "I wrote, was writing",
+      "futuro": "I will write",
+      "presentePerfecto": "I have written, wrote",
+      "futuroPerfecto": "I will have written",
+      "pluscuamperfecto": "I had written"
+    },
+    "afirmativo": "Write!",
+    "negativo": "Don't write!"
+  },
+  "attribution": "Fred Jehle"
+}

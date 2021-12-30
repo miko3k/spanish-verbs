@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "bendecir",
+  "gerundio": "bendiciendo",
+  "participioPasado": "bendito",
+  "indicativo": {
+    "presente": {
+      "yo": "bendigo",
+      "tu": "bendices",
+      "ud": "bendice",
+      "nosotros": "bendecimos",
+      "vosotros": "bendecís",
+      "uds": "bendicen"
+    },
+    "futuro": {
+      "yo": "bendeciré",
+      "tu": "bendecirás",
+      "ud": "bendecirá",
+      "nosotros": "bendeciremos",
+      "vosotros": "bendeciréis",
+      "uds": "bendecirán"
+    },
+    "imperfecto": {
+      "yo": "bendecía",
+      "tu": "bendecías",
+      "ud": "bendecía",
+      "nosotros": "bendecíamos",
+      "vosotros": "bendecíais",
+      "uds": "bendecían"
+    },
+    "preterito": {
+      "yo": "bendije",
+      "tu": "bendijiste",
+      "ud": "bendijo",
+      "nosotros": "bendijimos",
+      "vosotros": "bendijisteis",
+      "uds": "bendijeron"
+    },
+    "condicional": {
+      "yo": "bendeciría",
+      "tu": "bendecirías",
+      "ud": "bendeciría",
+      "nosotros": "bendeciríamos",
+      "vosotros": "bendeciríais",
+      "uds": "bendecirían"
+    },
+    "presentePerfecto": {
+      "yo": "he bendecido",
+      "tu": "has bendecido",
+      "ud": "ha bendecido",
+      "nosotros": "hemos bendecido",
+      "vosotros": "habéis bendecido",
+      "uds": "han bendecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré bendecido",
+      "tu": "habrás bendecido",
+      "ud": "habrá bendecido",
+      "nosotros": "habremos bendecido",
+      "vosotros": "habréis bendecido",
+      "uds": "habrán bendecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había bendecido",
+      "tu": "habías bendecido",
+      "ud": "había bendecido",
+      "nosotros": "habíamos bendecido",
+      "vosotros": "habíais bendecido",
+      "uds": "habían bendecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube bendecido",
+      "tu": "hubiste bendecido",
+      "ud": "hubo bendecido",
+      "nosotros": "hubimos bendecido",
+      "vosotros": "hubisteis bendecido",
+      "uds": "hubieron bendecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría bendecido",
+      "tu": "habrías bendecido",
+      "ud": "habría bendecido",
+      "nosotros": "habríamos bendecido",
+      "vosotros": "habríais bendecido",
+      "uds": "habrían bendecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "bendiga",
+      "tu": "bendigas",
+      "ud": "bendiga",
+      "nosotros": "bendigamos",
+      "vosotros": "bendigáis",
+      "uds": "bendigan"
+    },
+    "imperfecto": {
+      "yo": "bendijera",
+      "tu": "bendijeras",
+      "ud": "bendijera",
+      "nosotros": "bendijéramos",
+      "vosotros": "bendijerais",
+      "uds": "bendijeran"
+    },
+    "futuro": {
+      "yo": "bendijere",
+      "tu": "bendijeres",
+      "ud": "bendijere",
+      "nosotros": "bendijéremos",
+      "vosotros": "bendijereis",
+      "uds": "bendijeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya bendecido",
+      "tu": "hayas bendecido",
+      "ud": "haya bendecido",
+      "nosotros": "hayamos bendecido",
+      "vosotros": "hayáis bendecido",
+      "uds": "hayan bendecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere bendecido",
+      "tu": "hubieres bendecido",
+      "ud": "hubiere bendecido",
+      "nosotros": "hubiéremos bendecido",
+      "vosotros": "hubiereis bendecido",
+      "uds": "hubieren bendecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera bendecido",
+      "tu": "hubieras bendecido",
+      "ud": "hubiera bendecido",
+      "nosotros": "hubiéramos bendecido",
+      "vosotros": "hubierais bendecido",
+      "uds": "hubieran bendecido"
+    },
+    "imperfectoAlt": {
+      "yo": "bendijese",
+      "tu": "bendijeses",
+      "ud": "bendijese",
+      "nosotros": "bendijésemos",
+      "vosotros": "bendijeseis",
+      "uds": "bendijesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese bendecido",
+      "tu": "hubieses bendecido",
+      "ud": "hubiese bendecido",
+      "nosotros": "hubiésemos bendecido",
+      "vosotros": "hubieseis bendecido",
+      "uds": "hubiesen bendecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "bendice",
+    "vosotros": "bendecid",
+    "ud": "bendiga",
+    "uds": "bendigan"
+  },
+  "negativo": {
+    "tu": "no bendigas",
+    "vosotros": "no bendigáis",
+    "ud": "no bendiga",
+    "uds": "no bendigan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Formas irregulares: bendigo, bendiga, bendigas, etc. Radical fuerte en el pretérito: bendij-. Participios pasados: bendecido y bendito. Note: You may find either past participle used for the compound tenses.",
+    "infinitivo": "to bless, foretell, forecast",
+    "gerundio": "blessing",
+    "participioPasado": "blessed",
+    "indicativo": {
+      "presente": "I bless, am blessing",
+      "futuro": "I will bless",
+      "imperfecto": "I was blessing, used to bless, blessed",
+      "preterito": "I blessed",
+      "condicional": "I would bless",
+      "presentePerfecto": "I have blessed",
+      "futuroPerfecto": "I will have blessed",
+      "pluscuamperfecto": "I had blessed",
+      "preteritoAnterior": "I had blessed",
+      "condicionalPerfecto": "I would have blessed"
+    },
+    "subjuntivo": {
+      "presente": "I bless, am blessing",
+      "imperfecto": "I blessed, was blessing",
+      "futuro": "I will bless",
+      "presentePerfecto": "I have blessed, blessed",
+      "futuroPerfecto": "I will have blessed",
+      "pluscuamperfecto": "I had blessed"
+    },
+    "afirmativo": "Bless!",
+    "negativo": "Don't bless!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "exponer",
+  "gerundio": "exponiendo",
+  "participioPasado": "expuesto",
+  "indicativo": {
+    "presente": {
+      "yo": "expongo",
+      "tu": "expones",
+      "ud": "expone",
+      "nosotros": "exponemos",
+      "vosotros": "exponéis",
+      "uds": "exponen"
+    },
+    "futuro": {
+      "yo": "expondré",
+      "tu": "expondrás",
+      "ud": "expondrá",
+      "nosotros": "expondremos",
+      "vosotros": "expondréis",
+      "uds": "expondrán"
+    },
+    "imperfecto": {
+      "yo": "exponía",
+      "tu": "exponías",
+      "ud": "exponía",
+      "nosotros": "exponíamos",
+      "vosotros": "exponíais",
+      "uds": "exponían"
+    },
+    "preterito": {
+      "yo": "expuse",
+      "tu": "expusiste",
+      "ud": "expuso",
+      "nosotros": "expusimos",
+      "vosotros": "expusisteis",
+      "uds": "expusieron"
+    },
+    "condicional": {
+      "yo": "expondría",
+      "tu": "expondrías",
+      "ud": "expondría",
+      "nosotros": "expondríamos",
+      "vosotros": "expondríais",
+      "uds": "expondrían"
+    },
+    "presentePerfecto": {
+      "yo": "he expuesto",
+      "tu": "has expuesto",
+      "ud": "ha expuesto",
+      "nosotros": "hemos expuesto",
+      "vosotros": "habéis expuesto",
+      "uds": "han expuesto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré expuesto",
+      "tu": "habrás expuesto",
+      "ud": "habrá expuesto",
+      "nosotros": "habremos expuesto",
+      "vosotros": "habréis expuesto",
+      "uds": "habrán expuesto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había expuesto",
+      "tu": "habías expuesto",
+      "ud": "había expuesto",
+      "nosotros": "habíamos expuesto",
+      "vosotros": "habíais expuesto",
+      "uds": "habían expuesto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube expuesto",
+      "tu": "hubiste expuesto",
+      "ud": "hubo expuesto",
+      "nosotros": "hubimos expuesto",
+      "vosotros": "hubisteis expuesto",
+      "uds": "hubieron expuesto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría expuesto",
+      "tu": "habrías expuesto",
+      "ud": "habría expuesto",
+      "nosotros": "habríamos expuesto",
+      "vosotros": "habríais expuesto",
+      "uds": "habrían expuesto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "exponga",
+      "tu": "expongas",
+      "ud": "exponga",
+      "nosotros": "expongamos",
+      "vosotros": "expongáis",
+      "uds": "expongan"
+    },
+    "imperfecto": {
+      "yo": "expusiera",
+      "tu": "expusieras",
+      "ud": "expusiera",
+      "nosotros": "expusiéramos",
+      "vosotros": "expusierais",
+      "uds": "expusieran"
+    },
+    "futuro": {
+      "yo": "expusiere",
+      "tu": "expusieres",
+      "ud": "expusiere",
+      "nosotros": "expusiéremos",
+      "vosotros": "expusiereis",
+      "uds": "expusieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya expuesto",
+      "tu": "hayas expuesto",
+      "ud": "haya expuesto",
+      "nosotros": "hayamos expuesto",
+      "vosotros": "hayáis expuesto",
+      "uds": "hayan expuesto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere expuesto",
+      "tu": "hubieres expuesto",
+      "ud": "hubiere expuesto",
+      "nosotros": "hubiéremos expuesto",
+      "vosotros": "hubiereis expuesto",
+      "uds": "hubieren expuesto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera expuesto",
+      "tu": "hubieras expuesto",
+      "ud": "hubiera expuesto",
+      "nosotros": "hubiéramos expuesto",
+      "vosotros": "hubierais expuesto",
+      "uds": "hubieran expuesto"
+    },
+    "imperfectoAlt": {
+      "yo": "expusiese",
+      "tu": "expusieses",
+      "ud": "expusiese",
+      "nosotros": "expusiésemos",
+      "vosotros": "expusieseis",
+      "uds": "expusiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese expuesto",
+      "tu": "hubieses expuesto",
+      "ud": "hubiese expuesto",
+      "nosotros": "hubiésemos expuesto",
+      "vosotros": "hubieseis expuesto",
+      "uds": "hubiesen expuesto"
+    }
+  },
+  "afirmativo": {
+    "tu": "expón",
+    "vosotros": "exponed",
+    "ud": "exponga",
+    "uds": "expongan"
+  },
+  "negativo": {
+    "tu": "no expongas",
+    "vosotros": "no expongáis",
+    "ud": "no exponga",
+    "uds": "no expongan"
+  },
+  "english": {
+    "note": "Formas irregulares: expongo, expongas, exponga, etc. Radical irregular en el futuro y condicional: expondr-. Radical fuerte en el pretérito: expus-. Participio pasado irregular: expuesto. Mandato familiar singular irregular: expón.",
+    "infinitivo": "to expose",
+    "gerundio": "exposing",
+    "participioPasado": "exposed",
+    "indicativo": {
+      "presente": "I expose, am exposing",
+      "futuro": "I will expose",
+      "imperfecto": "I was exposing, used to expose, exposed",
+      "preterito": "I exposed",
+      "condicional": "I would expose",
+      "presentePerfecto": "I have exposed",
+      "futuroPerfecto": "I will have exposed",
+      "pluscuamperfecto": "I had exposed",
+      "preteritoAnterior": "I had exposed",
+      "condicionalPerfecto": "I would have exposed"
+    },
+    "subjuntivo": {
+      "presente": "I expose, am exposing",
+      "imperfecto": "I exposed, was exposing",
+      "futuro": "I will expose",
+      "presentePerfecto": "I have exposed, exposed",
+      "futuroPerfecto": "I will have exposed",
+      "pluscuamperfecto": "I had exposed"
+    },
+    "afirmativo": "Expose!",
+    "negativo": "Don't expose!"
+  },
+  "attribution": "Fred Jehle"
+}

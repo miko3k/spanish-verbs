@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "navegar",
+  "gerundio": "navegando",
+  "participioPasado": "navegado",
+  "indicativo": {
+    "presente": {
+      "yo": "navego",
+      "tu": "navegas",
+      "ud": "navega",
+      "nosotros": "navegamos",
+      "vosotros": "navegáis",
+      "uds": "navegan"
+    },
+    "futuro": {
+      "yo": "navegaré",
+      "tu": "navegarás",
+      "ud": "navegará",
+      "nosotros": "navegaremos",
+      "vosotros": "navegaréis",
+      "uds": "navegarán"
+    },
+    "imperfecto": {
+      "yo": "navegaba",
+      "tu": "navegabas",
+      "ud": "navegaba",
+      "nosotros": "navegábamos",
+      "vosotros": "navegabais",
+      "uds": "navegaban"
+    },
+    "preterito": {
+      "yo": "navegué",
+      "tu": "navegaste",
+      "ud": "navegó",
+      "nosotros": "navegamos",
+      "vosotros": "navegasteis",
+      "uds": "navegaron"
+    },
+    "condicional": {
+      "yo": "navegaría",
+      "tu": "navegarías",
+      "ud": "navegaría",
+      "nosotros": "navegaríamos",
+      "vosotros": "navegaríais",
+      "uds": "navegarían"
+    },
+    "presentePerfecto": {
+      "yo": "he navegado",
+      "tu": "has navegado",
+      "ud": "ha navegado",
+      "nosotros": "hemos navegado",
+      "vosotros": "habéis navegado",
+      "uds": "han navegado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré navegado",
+      "tu": "habrás navegado",
+      "ud": "habrá navegado",
+      "nosotros": "habremos navegado",
+      "vosotros": "habréis navegado",
+      "uds": "habrán navegado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había navegado",
+      "tu": "habías navegado",
+      "ud": "había navegado",
+      "nosotros": "habíamos navegado",
+      "vosotros": "habíais navegado",
+      "uds": "habían navegado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube navegado",
+      "tu": "hubiste navegado",
+      "ud": "hubo navegado",
+      "nosotros": "hubimos navegado",
+      "vosotros": "hubisteis navegado",
+      "uds": "hubieron navegado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría navegado",
+      "tu": "habrías navegado",
+      "ud": "habría navegado",
+      "nosotros": "habríamos navegado",
+      "vosotros": "habríais navegado",
+      "uds": "habrían navegado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "navegue",
+      "tu": "navegues",
+      "ud": "navegue",
+      "nosotros": "naveguemos",
+      "vosotros": "naveguéis",
+      "uds": "naveguen"
+    },
+    "imperfecto": {
+      "yo": "navegara",
+      "tu": "navegaras",
+      "ud": "navegara",
+      "nosotros": "navegáramos",
+      "vosotros": "navegarais",
+      "uds": "navegaran"
+    },
+    "futuro": {
+      "yo": "navegare",
+      "tu": "navegares",
+      "ud": "navegare",
+      "nosotros": "navegáremos",
+      "vosotros": "navegareis",
+      "uds": "navegaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya navegado",
+      "tu": "hayas navegado",
+      "ud": "haya navegado",
+      "nosotros": "hayamos navegado",
+      "vosotros": "hayáis navegado",
+      "uds": "hayan navegado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere navegado",
+      "tu": "hubieres navegado",
+      "ud": "hubiere navegado",
+      "nosotros": "hubiéremos navegado",
+      "vosotros": "hubiereis navegado",
+      "uds": "hubieren navegado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera navegado",
+      "tu": "hubieras navegado",
+      "ud": "hubiera navegado",
+      "nosotros": "hubiéramos navegado",
+      "vosotros": "hubierais navegado",
+      "uds": "hubieran navegado"
+    },
+    "imperfectoAlt": {
+      "yo": "navegase",
+      "tu": "navegases",
+      "ud": "navegase",
+      "nosotros": "navegásemos",
+      "vosotros": "navegaseis",
+      "uds": "navegasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese navegado",
+      "tu": "hubieses navegado",
+      "ud": "hubiese navegado",
+      "nosotros": "hubiésemos navegado",
+      "vosotros": "hubieseis navegado",
+      "uds": "hubiesen navegado"
+    }
+  },
+  "afirmativo": {
+    "tu": "navega",
+    "vosotros": "navegad",
+    "ud": "navegue",
+    "uds": "naveguen"
+  },
+  "negativo": {
+    "tu": "no navegues",
+    "vosotros": "no naveguéis",
+    "ud": "no navegue",
+    "uds": "no naveguen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to navigate, sail",
+    "gerundio": "navigating",
+    "participioPasado": "navigated",
+    "indicativo": {
+      "presente": "I navigate, am navigating",
+      "futuro": "I will navigate",
+      "imperfecto": "I was navigating, used to navigate, navigated",
+      "preterito": "I navigated",
+      "condicional": "I would navigate",
+      "presentePerfecto": "I have navigated",
+      "futuroPerfecto": "I will have navigated",
+      "pluscuamperfecto": "I had navigated",
+      "preteritoAnterior": "I had navigated",
+      "condicionalPerfecto": "I would have navigated"
+    },
+    "subjuntivo": {
+      "presente": "I navigate, am navigating",
+      "imperfecto": "I navigated, was navigating",
+      "futuro": "I will navigate",
+      "presentePerfecto": "I have navigated, navigated",
+      "futuroPerfecto": "I will have navigated",
+      "pluscuamperfecto": "I had navigated"
+    },
+    "afirmativo": "Navigate!",
+    "negativo": "Don't navigate!"
+  },
+  "attribution": "Fred Jehle"
+}

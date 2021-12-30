@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "reservar",
+  "gerundio": "reservando",
+  "participioPasado": "reservado",
+  "indicativo": {
+    "presente": {
+      "yo": "reservo",
+      "tu": "reservas",
+      "ud": "reserva",
+      "nosotros": "reservamos",
+      "vosotros": "reserváis",
+      "uds": "reservan"
+    },
+    "futuro": {
+      "yo": "reservaré",
+      "tu": "reservarás",
+      "ud": "reservará",
+      "nosotros": "reservaremos",
+      "vosotros": "reservaréis",
+      "uds": "reservarán"
+    },
+    "imperfecto": {
+      "yo": "reservaba",
+      "tu": "reservabas",
+      "ud": "reservaba",
+      "nosotros": "reservábamos",
+      "vosotros": "reservabais",
+      "uds": "reservaban"
+    },
+    "preterito": {
+      "yo": "reservé",
+      "tu": "reservaste",
+      "ud": "reservó",
+      "nosotros": "reservamos",
+      "vosotros": "reservasteis",
+      "uds": "reservaron"
+    },
+    "condicional": {
+      "yo": "reservaría",
+      "tu": "reservarías",
+      "ud": "reservaría",
+      "nosotros": "reservaríamos",
+      "vosotros": "reservaríais",
+      "uds": "reservarían"
+    },
+    "presentePerfecto": {
+      "yo": "he reservado",
+      "tu": "has reservado",
+      "ud": "ha reservado",
+      "nosotros": "hemos reservado",
+      "vosotros": "habéis reservado",
+      "uds": "han reservado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré reservado",
+      "tu": "habrás reservado",
+      "ud": "habrá reservado",
+      "nosotros": "habremos reservado",
+      "vosotros": "habréis reservado",
+      "uds": "habrán reservado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había reservado",
+      "tu": "habías reservado",
+      "ud": "había reservado",
+      "nosotros": "habíamos reservado",
+      "vosotros": "habíais reservado",
+      "uds": "habían reservado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube reservado",
+      "tu": "hubiste reservado",
+      "ud": "hubo reservado",
+      "nosotros": "hubimos reservado",
+      "vosotros": "hubisteis reservado",
+      "uds": "hubieron reservado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría reservado",
+      "tu": "habrías reservado",
+      "ud": "habría reservado",
+      "nosotros": "habríamos reservado",
+      "vosotros": "habríais reservado",
+      "uds": "habrían reservado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "reserve",
+      "tu": "reserves",
+      "ud": "reserve",
+      "nosotros": "reservemos",
+      "vosotros": "reservéis",
+      "uds": "reserven"
+    },
+    "imperfecto": {
+      "yo": "reservara",
+      "tu": "reservaras",
+      "ud": "reservara",
+      "nosotros": "reserváramos",
+      "vosotros": "reservarais",
+      "uds": "reservaran"
+    },
+    "futuro": {
+      "yo": "reservare",
+      "tu": "reservares",
+      "ud": "reservare",
+      "nosotros": "reserváremos",
+      "vosotros": "reservareis",
+      "uds": "reservaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya reservado",
+      "tu": "hayas reservado",
+      "ud": "haya reservado",
+      "nosotros": "hayamos reservado",
+      "vosotros": "hayáis reservado",
+      "uds": "hayan reservado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere reservado",
+      "tu": "hubieres reservado",
+      "ud": "hubiere reservado",
+      "nosotros": "hubiéremos reservado",
+      "vosotros": "hubiereis reservado",
+      "uds": "hubieren reservado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera reservado",
+      "tu": "hubieras reservado",
+      "ud": "hubiera reservado",
+      "nosotros": "hubiéramos reservado",
+      "vosotros": "hubierais reservado",
+      "uds": "hubieran reservado"
+    },
+    "imperfectoAlt": {
+      "yo": "reservase",
+      "tu": "reservases",
+      "ud": "reservase",
+      "nosotros": "reservásemos",
+      "vosotros": "reservaseis",
+      "uds": "reservasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese reservado",
+      "tu": "hubieses reservado",
+      "ud": "hubiese reservado",
+      "nosotros": "hubiésemos reservado",
+      "vosotros": "hubieseis reservado",
+      "uds": "hubiesen reservado"
+    }
+  },
+  "afirmativo": {
+    "tu": "reserva",
+    "vosotros": "reservad",
+    "ud": "reserve",
+    "uds": "reserven"
+  },
+  "negativo": {
+    "tu": "no reserves",
+    "vosotros": "no reservéis",
+    "ud": "no reserve",
+    "uds": "no reserven"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to reserve; to keep, keep in reserve",
+    "gerundio": "reserving",
+    "participioPasado": "reserved",
+    "indicativo": {
+      "presente": "I reserve, am reserving",
+      "futuro": "I will reserve",
+      "imperfecto": "I was reserving, used to reserve, reserved",
+      "preterito": "I reserved",
+      "condicional": "I would reserve",
+      "presentePerfecto": "I have reserved",
+      "futuroPerfecto": "I will have reserved",
+      "pluscuamperfecto": "I had reserved",
+      "preteritoAnterior": "I had reserved",
+      "condicionalPerfecto": "I would have reserved"
+    },
+    "subjuntivo": {
+      "presente": "I reserve, am reserving",
+      "imperfecto": "I reserved, was reserving",
+      "futuro": "I will reserve",
+      "presentePerfecto": "I have reserved, reserved",
+      "futuroPerfecto": "I will have reserved",
+      "pluscuamperfecto": "I had reserved"
+    },
+    "afirmativo": "Reserve!",
+    "negativo": "Don't reserve!"
+  },
+  "attribution": "Fred Jehle"
+}

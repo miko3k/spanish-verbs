@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "resolver",
+  "gerundio": "resolviendo",
+  "participioPasado": "resuelto",
+  "indicativo": {
+    "presente": {
+      "yo": "resuelvo",
+      "tu": "resuelves",
+      "ud": "resuelve",
+      "nosotros": "resolvemos",
+      "vosotros": "resolvéis",
+      "uds": "resuelven"
+    },
+    "futuro": {
+      "yo": "resolveré",
+      "tu": "resolverás",
+      "ud": "resolverá",
+      "nosotros": "resolveremos",
+      "vosotros": "resolveréis",
+      "uds": "resolverán"
+    },
+    "imperfecto": {
+      "yo": "resolvía",
+      "tu": "resolvías",
+      "ud": "resolvía",
+      "nosotros": "resolvíamos",
+      "vosotros": "resolvíais",
+      "uds": "resolvían"
+    },
+    "preterito": {
+      "yo": "resolví",
+      "tu": "resolviste",
+      "ud": "resolvió",
+      "nosotros": "resolvimos",
+      "vosotros": "resolvisteis",
+      "uds": "resolvieron"
+    },
+    "condicional": {
+      "yo": "resolvería",
+      "tu": "resolverías",
+      "ud": "resolvería",
+      "nosotros": "resolveríamos",
+      "vosotros": "resolveríais",
+      "uds": "resolverían"
+    },
+    "presentePerfecto": {
+      "yo": "he resuelto",
+      "tu": "has resuelto",
+      "ud": "ha resuelto",
+      "nosotros": "hemos resuelto",
+      "vosotros": "habéis resuelto",
+      "uds": "han resuelto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré resuelto",
+      "tu": "habrás resuelto",
+      "ud": "habrá resuelto",
+      "nosotros": "habremos resuelto",
+      "vosotros": "habréis resuelto",
+      "uds": "habrán resuelto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había resuelto",
+      "tu": "habías resuelto",
+      "ud": "había resuelto",
+      "nosotros": "habíamos resuelto",
+      "vosotros": "habíais resuelto",
+      "uds": "habían resuelto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube resuelto",
+      "tu": "hubiste resuelto",
+      "ud": "hubo resuelto",
+      "nosotros": "hubimos resuelto",
+      "vosotros": "hubisteis resuelto",
+      "uds": "hubieron resuelto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría resuelto",
+      "tu": "habrías resuelto",
+      "ud": "habría resuelto",
+      "nosotros": "habríamos resuelto",
+      "vosotros": "habríais resuelto",
+      "uds": "habrían resuelto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "resuelva",
+      "tu": "resuelvas",
+      "ud": "resuelva",
+      "nosotros": "resolvamos",
+      "vosotros": "resolváis",
+      "uds": "resuelvan"
+    },
+    "imperfecto": {
+      "yo": "resolviera",
+      "tu": "resolvieras",
+      "ud": "resolviera",
+      "nosotros": "resolviéramos",
+      "vosotros": "resolvierais",
+      "uds": "resolvieran"
+    },
+    "futuro": {
+      "yo": "resolviere",
+      "tu": "resolvieres",
+      "ud": "resolviere",
+      "nosotros": "resolviéremos",
+      "vosotros": "resolviereis",
+      "uds": "resolvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya resuelto",
+      "tu": "hayas resuelto",
+      "ud": "haya resuelto",
+      "nosotros": "hayamos resuelto",
+      "vosotros": "hayáis resuelto",
+      "uds": "hayan resuelto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere resuelto",
+      "tu": "hubieres resuelto",
+      "ud": "hubiere resuelto",
+      "nosotros": "hubiéremos resuelto",
+      "vosotros": "hubiereis resuelto",
+      "uds": "hubieren resuelto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera resuelto",
+      "tu": "hubieras resuelto",
+      "ud": "hubiera resuelto",
+      "nosotros": "hubiéramos resuelto",
+      "vosotros": "hubierais resuelto",
+      "uds": "hubieran resuelto"
+    },
+    "imperfectoAlt": {
+      "yo": "resolviese",
+      "tu": "resolvieses",
+      "ud": "resolviese",
+      "nosotros": "resolviésemos",
+      "vosotros": "resolvieseis",
+      "uds": "resolviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese resuelto",
+      "tu": "hubieses resuelto",
+      "ud": "hubiese resuelto",
+      "nosotros": "hubiésemos resuelto",
+      "vosotros": "hubieseis resuelto",
+      "uds": "hubiesen resuelto"
+    }
+  },
+  "afirmativo": {
+    "tu": "resuelve",
+    "vosotros": "resolved",
+    "ud": "resuelva",
+    "uds": "resuelvan"
+  },
+  "negativo": {
+    "tu": "no resuelvas",
+    "vosotros": "no resolváis",
+    "ud": "no resuelva",
+    "uds": "no resuelvan"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. El participio pasado es irregular: resuelto.",
+    "infinitivo": "to solve, resolve (a problem); to settle (a debt); to decide, settle (a matter)",
+    "gerundio": "solving",
+    "participioPasado": "solved",
+    "indicativo": {
+      "presente": "I solve, am solving",
+      "futuro": "I will solve",
+      "imperfecto": "I was solving, used to solve, solved",
+      "preterito": "I solved",
+      "condicional": "I would solve",
+      "presentePerfecto": "I have solved",
+      "futuroPerfecto": "I will have solved",
+      "pluscuamperfecto": "I had solved",
+      "preteritoAnterior": "I had solved",
+      "condicionalPerfecto": "I would have solved"
+    },
+    "subjuntivo": {
+      "presente": "I solve, am solving",
+      "imperfecto": "I solved, was solving",
+      "futuro": "I will solve",
+      "presentePerfecto": "I have solved, solved",
+      "futuroPerfecto": "I will have solved",
+      "pluscuamperfecto": "I had solved"
+    },
+    "afirmativo": "Solve!",
+    "negativo": "Don't solve!"
+  },
+  "attribution": "Fred Jehle"
+}

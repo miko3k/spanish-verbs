@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "explorar",
+  "gerundio": "explorando",
+  "participioPasado": "explorado",
+  "indicativo": {
+    "presente": {
+      "yo": "exploro",
+      "tu": "exploras",
+      "ud": "explora",
+      "nosotros": "exploramos",
+      "vosotros": "exploráis",
+      "uds": "exploran"
+    },
+    "futuro": {
+      "yo": "exploraré",
+      "tu": "explorarás",
+      "ud": "explorará",
+      "nosotros": "exploraremos",
+      "vosotros": "exploraréis",
+      "uds": "explorarán"
+    },
+    "imperfecto": {
+      "yo": "exploraba",
+      "tu": "explorabas",
+      "ud": "exploraba",
+      "nosotros": "explorábamos",
+      "vosotros": "explorabais",
+      "uds": "exploraban"
+    },
+    "preterito": {
+      "yo": "exploré",
+      "tu": "exploraste",
+      "ud": "exploró",
+      "nosotros": "exploramos",
+      "vosotros": "explorasteis",
+      "uds": "exploraron"
+    },
+    "condicional": {
+      "yo": "exploraría",
+      "tu": "explorarías",
+      "ud": "exploraría",
+      "nosotros": "exploraríamos",
+      "vosotros": "exploraríais",
+      "uds": "explorarían"
+    },
+    "presentePerfecto": {
+      "yo": "he explorado",
+      "tu": "has explorado",
+      "ud": "ha explorado",
+      "nosotros": "hemos explorado",
+      "vosotros": "habéis explorado",
+      "uds": "han explorado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré explorado",
+      "tu": "habrás explorado",
+      "ud": "habrá explorado",
+      "nosotros": "habremos explorado",
+      "vosotros": "habréis explorado",
+      "uds": "habrán explorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había explorado",
+      "tu": "habías explorado",
+      "ud": "había explorado",
+      "nosotros": "habíamos explorado",
+      "vosotros": "habíais explorado",
+      "uds": "habían explorado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube explorado",
+      "tu": "hubiste explorado",
+      "ud": "hubo explorado",
+      "nosotros": "hubimos explorado",
+      "vosotros": "hubisteis explorado",
+      "uds": "hubieron explorado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría explorado",
+      "tu": "habrías explorado",
+      "ud": "habría explorado",
+      "nosotros": "habríamos explorado",
+      "vosotros": "habríais explorado",
+      "uds": "habrían explorado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "explore",
+      "tu": "explores",
+      "ud": "explore",
+      "nosotros": "exploremos",
+      "vosotros": "exploréis",
+      "uds": "exploren"
+    },
+    "imperfecto": {
+      "yo": "explorara",
+      "tu": "exploraras",
+      "ud": "explorara",
+      "nosotros": "exploráramos",
+      "vosotros": "explorarais",
+      "uds": "exploraran"
+    },
+    "futuro": {
+      "yo": "explorare",
+      "tu": "explorares",
+      "ud": "explorare",
+      "nosotros": "exploráremos",
+      "vosotros": "explorareis",
+      "uds": "exploraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya explorado",
+      "tu": "hayas explorado",
+      "ud": "haya explorado",
+      "nosotros": "hayamos explorado",
+      "vosotros": "hayáis explorado",
+      "uds": "hayan explorado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere explorado",
+      "tu": "hubieres explorado",
+      "ud": "hubiere explorado",
+      "nosotros": "hubiéremos explorado",
+      "vosotros": "hubiereis explorado",
+      "uds": "hubieren explorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera explorado",
+      "tu": "hubieras explorado",
+      "ud": "hubiera explorado",
+      "nosotros": "hubiéramos explorado",
+      "vosotros": "hubierais explorado",
+      "uds": "hubieran explorado"
+    },
+    "imperfectoAlt": {
+      "yo": "explorase",
+      "tu": "explorases",
+      "ud": "explorase",
+      "nosotros": "explorásemos",
+      "vosotros": "exploraseis",
+      "uds": "explorasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese explorado",
+      "tu": "hubieses explorado",
+      "ud": "hubiese explorado",
+      "nosotros": "hubiésemos explorado",
+      "vosotros": "hubieseis explorado",
+      "uds": "hubiesen explorado"
+    }
+  },
+  "afirmativo": {
+    "tu": "explora",
+    "vosotros": "explorad",
+    "ud": "explore",
+    "uds": "exploren"
+  },
+  "negativo": {
+    "tu": "no explores",
+    "vosotros": "no exploréis",
+    "ud": "no explore",
+    "uds": "no exploren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to explore; to pioneer",
+    "gerundio": "exploring",
+    "participioPasado": "explored",
+    "indicativo": {
+      "presente": "I explore, am exploring",
+      "futuro": "I will explore",
+      "imperfecto": "I was exploring, used to explore, explored",
+      "preterito": "I explored",
+      "condicional": "I would explore",
+      "presentePerfecto": "I have explored",
+      "futuroPerfecto": "I will have explored",
+      "pluscuamperfecto": "I had explored",
+      "preteritoAnterior": "I had explored",
+      "condicionalPerfecto": "I would have explored"
+    },
+    "subjuntivo": {
+      "presente": "I explore, am exploring",
+      "imperfecto": "I explored, was exploring",
+      "futuro": "I will explore",
+      "presentePerfecto": "I have explored, explored",
+      "futuroPerfecto": "I will have explored",
+      "pluscuamperfecto": "I had explored"
+    },
+    "afirmativo": "Explore!",
+    "negativo": "Don't explore!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "acordarse",
+  "gerundio": "acordándose",
+  "participioPasado": "acordado",
+  "indicativo": {
+    "presente": {
+      "yo": "me acuerdo",
+      "tu": "te acuerdas",
+      "ud": "se acuerda",
+      "nosotros": "nos acordamos",
+      "vosotros": "os acordáis",
+      "uds": "se acuerdan"
+    },
+    "futuro": {
+      "yo": "me acordaré",
+      "tu": "te acordarás",
+      "ud": "se acordará",
+      "nosotros": "nos acordaremos",
+      "vosotros": "os acordaréis",
+      "uds": "se acordarán"
+    },
+    "imperfecto": {
+      "yo": "me acordaba",
+      "tu": "te acordabas",
+      "ud": "se acordaba",
+      "nosotros": "nos acordábamos",
+      "vosotros": "os acordabais",
+      "uds": "se acordaban"
+    },
+    "preterito": {
+      "yo": "me acordé",
+      "tu": "te acordaste",
+      "ud": "se acordó",
+      "nosotros": "nos acordamos",
+      "vosotros": "os acordasteis",
+      "uds": "se acordaron"
+    },
+    "condicional": {
+      "yo": "me acordaría",
+      "tu": "te acordarías",
+      "ud": "se acordaría",
+      "nosotros": "nos acordaríamos",
+      "vosotros": "os acordaríais",
+      "uds": "se acordarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he acordado",
+      "tu": "te has acordado",
+      "ud": "se ha acordado",
+      "nosotros": "nos hemos acordado",
+      "vosotros": "os habéis acordado",
+      "uds": "se han acordado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré acordado",
+      "tu": "te habrás acordado",
+      "ud": "se habrá acordado",
+      "nosotros": "nos habremos acordado",
+      "vosotros": "os habréis acordado",
+      "uds": "se habrán acordado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había acordado",
+      "tu": "te habías acordado",
+      "ud": "se había acordado",
+      "nosotros": "nos habíamos acordado",
+      "vosotros": "os habíais acordado",
+      "uds": "se habían acordado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube acordado",
+      "tu": "te hubiste acordado",
+      "ud": "se hubo acordado",
+      "nosotros": "nos hubimos acordado",
+      "vosotros": "os hubisteis acordado",
+      "uds": "se hubieron acordado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría acordado",
+      "tu": "te habrías acordado",
+      "ud": "se habría acordado",
+      "nosotros": "nos habríamos acordado",
+      "vosotros": "os habríais acordado",
+      "uds": "se habrían acordado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me acuerde",
+      "tu": "te acuerdes",
+      "ud": "se acuerde",
+      "nosotros": "nos acordemos",
+      "vosotros": "os acordéis",
+      "uds": "se acuerden"
+    },
+    "imperfecto": {
+      "yo": "me acordara",
+      "tu": "te acordaras",
+      "ud": "se acordara",
+      "nosotros": "nos acordáramos",
+      "vosotros": "os acordarais",
+      "uds": "se acordaran"
+    },
+    "futuro": {
+      "yo": "me acordare",
+      "tu": "te acordares",
+      "ud": "se acordare",
+      "nosotros": "nos acordáremos",
+      "vosotros": "os acordareis",
+      "uds": "se acordaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya acordado",
+      "tu": "te hayas acordado",
+      "ud": "se haya acordado",
+      "nosotros": "nos hayamos acordado",
+      "vosotros": "os hayáis acordado",
+      "uds": "se hayan acordado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere acordado",
+      "tu": "te hubieres acordado",
+      "ud": "se hubiere acordado",
+      "nosotros": "nos hubiéremos acordado",
+      "vosotros": "os hubiereis acordado",
+      "uds": "se hubieren acordado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera acordado",
+      "tu": "te hubieras acordado",
+      "ud": "se hubiera acordado",
+      "nosotros": "nos hubiéramos acordado",
+      "vosotros": "os hubierais acordado",
+      "uds": "se hubieran acordado"
+    },
+    "imperfectoAlt": {
+      "yo": "me acordase",
+      "tu": "te acordases",
+      "ud": "se acordase",
+      "nosotros": "nos acordásemos",
+      "vosotros": "os acordaseis",
+      "uds": "se acordasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese acordado",
+      "tu": "te hubieses acordado",
+      "ud": "se hubiese acordado",
+      "nosotros": "nos hubiésemos acordado",
+      "vosotros": "os hubieseis acordado",
+      "uds": "se hubiesen acordado"
+    }
+  },
+  "afirmativo": {
+    "tu": "acuérdate",
+    "vosotros": "acordaos",
+    "ud": "acuérdese",
+    "uds": "acuérdense"
+  },
+  "negativo": {
+    "tu": "no te acuerdes",
+    "vosotros": "no os acordéis",
+    "ud": "no se acuerde",
+    "uds": "no se acuerden"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Note: The nonreflexive form acordar means to decide, resolve, agree (on).",
+    "infinitivo": "to remember",
+    "gerundio": "remembering",
+    "participioPasado": "remembered",
+    "indicativo": {
+      "presente": "I remember, am remembering",
+      "futuro": "I will remember",
+      "imperfecto": "I was remembering, used to remember, remembered",
+      "preterito": "I remembered",
+      "condicional": "I would remember",
+      "presentePerfecto": "I have remembered",
+      "futuroPerfecto": "I will have remembered",
+      "pluscuamperfecto": "I had remembered",
+      "preteritoAnterior": "I had remembered",
+      "condicionalPerfecto": "I would have remembered"
+    },
+    "subjuntivo": {
+      "presente": "I remember, am remembering",
+      "imperfecto": "I remembered, was remembering",
+      "futuro": "I will remember",
+      "presentePerfecto": "I have remembered, remembered",
+      "futuroPerfecto": "I will have remembered",
+      "pluscuamperfecto": "I had remembered"
+    },
+    "afirmativo": "Remember!",
+    "negativo": "Don't remember!"
+  },
+  "attribution": "Fred Jehle"
+}

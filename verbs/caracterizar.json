@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "caracterizar",
+  "gerundio": "caracterizando",
+  "participioPasado": "caracterizado",
+  "indicativo": {
+    "presente": {
+      "yo": "caracterizo",
+      "tu": "caracterizas",
+      "ud": "caracteriza",
+      "nosotros": "caracterizamos",
+      "vosotros": "caracterizáis",
+      "uds": "caracterizan"
+    },
+    "futuro": {
+      "yo": "caracterizaré",
+      "tu": "caracterizarás",
+      "ud": "caracterizará",
+      "nosotros": "caracterizaremos",
+      "vosotros": "caracterizaréis",
+      "uds": "caracterizarán"
+    },
+    "imperfecto": {
+      "yo": "caracterizaba",
+      "tu": "caracterizabas",
+      "ud": "caracterizaba",
+      "nosotros": "caracterizábamos",
+      "vosotros": "caracterizabais",
+      "uds": "caracterizaban"
+    },
+    "preterito": {
+      "yo": "caractericé",
+      "tu": "caracterizaste",
+      "ud": "caracterizó",
+      "nosotros": "caracterizamos",
+      "vosotros": "caracterizasteis",
+      "uds": "caracterizaron"
+    },
+    "condicional": {
+      "yo": "caracterizaría",
+      "tu": "caracterizarías",
+      "ud": "caracterizaría",
+      "nosotros": "caracterizaríamos",
+      "vosotros": "caracterizaríais",
+      "uds": "caracterizarían"
+    },
+    "presentePerfecto": {
+      "yo": "he caracterizado",
+      "tu": "has caracterizado",
+      "ud": "ha caracterizado",
+      "nosotros": "hemos caracterizado",
+      "vosotros": "habéis caracterizado",
+      "uds": "han caracterizado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré caracterizado",
+      "tu": "habrás caracterizado",
+      "ud": "habrá caracterizado",
+      "nosotros": "habremos caracterizado",
+      "vosotros": "habréis caracterizado",
+      "uds": "habrán caracterizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había caracterizado",
+      "tu": "habías caracterizado",
+      "ud": "había caracterizado",
+      "nosotros": "habíamos caracterizado",
+      "vosotros": "habíais caracterizado",
+      "uds": "habían caracterizado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube caracterizado",
+      "tu": "hubiste caracterizado",
+      "ud": "hubo caracterizado",
+      "nosotros": "hubimos caracterizado",
+      "vosotros": "hubisteis caracterizado",
+      "uds": "hubieron caracterizado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría caracterizado",
+      "tu": "habrías caracterizado",
+      "ud": "habría caracterizado",
+      "nosotros": "habríamos caracterizado",
+      "vosotros": "habríais caracterizado",
+      "uds": "habrían caracterizado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "caracterice",
+      "tu": "caracterices",
+      "ud": "caracterice",
+      "nosotros": "caractericemos",
+      "vosotros": "caractericéis",
+      "uds": "caractericen"
+    },
+    "imperfecto": {
+      "yo": "caracterizara",
+      "tu": "caracterizaras",
+      "ud": "caracterizara",
+      "nosotros": "caracterizáramos",
+      "vosotros": "caracterizarais",
+      "uds": "caracterizaran"
+    },
+    "futuro": {
+      "yo": "caracterizare",
+      "tu": "caracterizares",
+      "ud": "caracterizare",
+      "nosotros": "caracterizáremos",
+      "vosotros": "caracterizareis",
+      "uds": "caracterizaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya caracterizado",
+      "tu": "hayas caracterizado",
+      "ud": "haya caracterizado",
+      "nosotros": "hayamos caracterizado",
+      "vosotros": "hayáis caracterizado",
+      "uds": "hayan caracterizado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere caracterizado",
+      "tu": "hubieres caracterizado",
+      "ud": "hubiere caracterizado",
+      "nosotros": "hubiéremos caracterizado",
+      "vosotros": "hubiereis caracterizado",
+      "uds": "hubieren caracterizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera caracterizado",
+      "tu": "hubieras caracterizado",
+      "ud": "hubiera caracterizado",
+      "nosotros": "hubiéramos caracterizado",
+      "vosotros": "hubierais caracterizado",
+      "uds": "hubieran caracterizado"
+    },
+    "imperfectoAlt": {
+      "yo": "caracterizase",
+      "tu": "caracterizases",
+      "ud": "caracterizase",
+      "nosotros": "caracterizásemos",
+      "vosotros": "caracterizaseis",
+      "uds": "caracterizasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese caracterizado",
+      "tu": "hubieses caracterizado",
+      "ud": "hubiese caracterizado",
+      "nosotros": "hubiésemos caracterizado",
+      "vosotros": "hubieseis caracterizado",
+      "uds": "hubiesen caracterizado"
+    }
+  },
+  "afirmativo": {
+    "tu": "caracteriza",
+    "vosotros": "caracterizad",
+    "ud": "caracterice",
+    "uds": "caractericen"
+  },
+  "negativo": {
+    "tu": "no caracterices",
+    "vosotros": "no caractericéis",
+    "ud": "no caracterice",
+    "uds": "no caractericen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to characterize",
+    "gerundio": "characterizing",
+    "participioPasado": "characterized",
+    "indicativo": {
+      "presente": "I characterize, am characterizing",
+      "futuro": "I will characterize",
+      "imperfecto": "I was characterizing, used to characterize, characterized",
+      "preterito": "I characterized",
+      "condicional": "I would characterize",
+      "presentePerfecto": "I have characterized",
+      "futuroPerfecto": "I will have characterized",
+      "pluscuamperfecto": "I had characterized",
+      "preteritoAnterior": "I had characterized",
+      "condicionalPerfecto": "I would have characterized"
+    },
+    "subjuntivo": {
+      "presente": "I characterize, am characterizing",
+      "imperfecto": "I characterized, was characterizing",
+      "futuro": "I will characterize",
+      "presentePerfecto": "I have characterized, characterized",
+      "futuroPerfecto": "I will have characterized",
+      "pluscuamperfecto": "I had characterized"
+    },
+    "afirmativo": "Characterize!",
+    "negativo": "Don't characterize!"
+  },
+  "attribution": "Fred Jehle"
+}

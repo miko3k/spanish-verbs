@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "funcionar",
+  "gerundio": "funcionando",
+  "participioPasado": "funcionado",
+  "indicativo": {
+    "presente": {
+      "yo": "funciono",
+      "tu": "funcionas",
+      "ud": "funciona",
+      "nosotros": "funcionamos",
+      "vosotros": "funcionáis",
+      "uds": "funcionan"
+    },
+    "futuro": {
+      "yo": "funcionaré",
+      "tu": "funcionarás",
+      "ud": "funcionará",
+      "nosotros": "funcionaremos",
+      "vosotros": "funcionaréis",
+      "uds": "funcionarán"
+    },
+    "imperfecto": {
+      "yo": "funcionaba",
+      "tu": "funcionabas",
+      "ud": "funcionaba",
+      "nosotros": "funcionábamos",
+      "vosotros": "funcionabais",
+      "uds": "funcionaban"
+    },
+    "preterito": {
+      "yo": "funcioné",
+      "tu": "funcionaste",
+      "ud": "funcionó",
+      "nosotros": "funcionamos",
+      "vosotros": "funcionasteis",
+      "uds": "funcionaron"
+    },
+    "condicional": {
+      "yo": "funcionaría",
+      "tu": "funcionarías",
+      "ud": "funcionaría",
+      "nosotros": "funcionaríamos",
+      "vosotros": "funcionaríais",
+      "uds": "funcionarían"
+    },
+    "presentePerfecto": {
+      "yo": "he funcionado",
+      "tu": "has funcionado",
+      "ud": "ha funcionado",
+      "nosotros": "hemos funcionado",
+      "vosotros": "habéis funcionado",
+      "uds": "han funcionado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré funcionado",
+      "tu": "habrás funcionado",
+      "ud": "habrá funcionado",
+      "nosotros": "habremos funcionado",
+      "vosotros": "habréis funcionado",
+      "uds": "habrán funcionado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había funcionado",
+      "tu": "habías funcionado",
+      "ud": "había funcionado",
+      "nosotros": "habíamos funcionado",
+      "vosotros": "habíais funcionado",
+      "uds": "habían funcionado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube funcionado",
+      "tu": "hubiste funcionado",
+      "ud": "hubo funcionado",
+      "nosotros": "hubimos funcionado",
+      "vosotros": "hubisteis funcionado",
+      "uds": "hubieron funcionado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría funcionado",
+      "tu": "habrías funcionado",
+      "ud": "habría funcionado",
+      "nosotros": "habríamos funcionado",
+      "vosotros": "habríais funcionado",
+      "uds": "habrían funcionado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "funcione",
+      "tu": "funciones",
+      "ud": "funcione",
+      "nosotros": "funcionemos",
+      "vosotros": "funcionéis",
+      "uds": "funcionen"
+    },
+    "imperfecto": {
+      "yo": "funcionara",
+      "tu": "funcionaras",
+      "ud": "funcionara",
+      "nosotros": "funcionáramos",
+      "vosotros": "funcionarais",
+      "uds": "funcionaran"
+    },
+    "futuro": {
+      "yo": "funcionare",
+      "tu": "funcionares",
+      "ud": "funcionare",
+      "nosotros": "funcionáremos",
+      "vosotros": "funcionareis",
+      "uds": "funcionaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya funcionado",
+      "tu": "hayas funcionado",
+      "ud": "haya funcionado",
+      "nosotros": "hayamos funcionado",
+      "vosotros": "hayáis funcionado",
+      "uds": "hayan funcionado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere funcionado",
+      "tu": "hubieres funcionado",
+      "ud": "hubiere funcionado",
+      "nosotros": "hubiéremos funcionado",
+      "vosotros": "hubiereis funcionado",
+      "uds": "hubieren funcionado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera funcionado",
+      "tu": "hubieras funcionado",
+      "ud": "hubiera funcionado",
+      "nosotros": "hubiéramos funcionado",
+      "vosotros": "hubierais funcionado",
+      "uds": "hubieran funcionado"
+    },
+    "imperfectoAlt": {
+      "yo": "funcionase",
+      "tu": "funcionases",
+      "ud": "funcionase",
+      "nosotros": "funcionásemos",
+      "vosotros": "funcionaseis",
+      "uds": "funcionasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese funcionado",
+      "tu": "hubieses funcionado",
+      "ud": "hubiese funcionado",
+      "nosotros": "hubiésemos funcionado",
+      "vosotros": "hubieseis funcionado",
+      "uds": "hubiesen funcionado"
+    }
+  },
+  "afirmativo": {
+    "tu": "funciona",
+    "vosotros": "funcionad",
+    "ud": "funcione",
+    "uds": "funcionen"
+  },
+  "negativo": {
+    "tu": "no funciones",
+    "vosotros": "no funcionéis",
+    "ud": "no funcione",
+    "uds": "no funcionen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to function; to run, work (said of machines, for example)",
+    "gerundio": "functioning",
+    "participioPasado": "functioned",
+    "indicativo": {
+      "presente": "I function, am functioning",
+      "futuro": "I will function",
+      "imperfecto": "I was functioning, used to function, functioned",
+      "preterito": "I functioned",
+      "condicional": "I would function",
+      "presentePerfecto": "I have functioned",
+      "futuroPerfecto": "I will have functioned",
+      "pluscuamperfecto": "I had functioned",
+      "preteritoAnterior": "I had functioned",
+      "condicionalPerfecto": "I would have functioned"
+    },
+    "subjuntivo": {
+      "presente": "I function, am functioning",
+      "imperfecto": "I functioned, was functioning",
+      "futuro": "I will function",
+      "presentePerfecto": "I have functioned, functioned",
+      "futuroPerfecto": "I will have functioned",
+      "pluscuamperfecto": "I had functioned"
+    },
+    "afirmativo": "Function!",
+    "negativo": "Don't function!"
+  },
+  "attribution": "Fred Jehle"
+}

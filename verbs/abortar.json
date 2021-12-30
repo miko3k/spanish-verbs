@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "abortar",
+  "gerundio": "abortando",
+  "participioPasado": "abortado",
+  "indicativo": {
+    "presente": {
+      "yo": "aborto",
+      "tu": "abortas",
+      "ud": "aborta",
+      "nosotros": "abortamos",
+      "vosotros": "abortáis",
+      "uds": "abortan"
+    },
+    "futuro": {
+      "yo": "abortaré",
+      "tu": "abortarás",
+      "ud": "abortará",
+      "nosotros": "abortaremos",
+      "vosotros": "abortaréis",
+      "uds": "abortarán"
+    },
+    "imperfecto": {
+      "yo": "abortaba",
+      "tu": "abortabas",
+      "ud": "abortaba",
+      "nosotros": "abortábamos",
+      "vosotros": "abortabais",
+      "uds": "abortaban"
+    },
+    "preterito": {
+      "yo": "aborté",
+      "tu": "abortaste",
+      "ud": "abortó",
+      "nosotros": "abortamos",
+      "vosotros": "abortasteis",
+      "uds": "abortaron"
+    },
+    "condicional": {
+      "yo": "abortaría",
+      "tu": "abortarías",
+      "ud": "abortaría",
+      "nosotros": "abortaríamos",
+      "vosotros": "abortaríais",
+      "uds": "abortarían"
+    },
+    "presentePerfecto": {
+      "yo": "he abortado",
+      "tu": "has abortado",
+      "ud": "ha abortado",
+      "nosotros": "hemos abortado",
+      "vosotros": "habéis abortado",
+      "uds": "han abortado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré abortado",
+      "tu": "habrás abortado",
+      "ud": "habrá abortado",
+      "nosotros": "habremos abortado",
+      "vosotros": "habréis abortado",
+      "uds": "habrán abortado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había abortado",
+      "tu": "habías abortado",
+      "ud": "había abortado",
+      "nosotros": "habíamos abortado",
+      "vosotros": "habíais abortado",
+      "uds": "habían abortado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube abortado",
+      "tu": "hubiste abortado",
+      "ud": "hubo abortado",
+      "nosotros": "hubimos abortado",
+      "vosotros": "hubisteis abortado",
+      "uds": "hubieron abortado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría abortado",
+      "tu": "habrías abortado",
+      "ud": "habría abortado",
+      "nosotros": "habríamos abortado",
+      "vosotros": "habríais abortado",
+      "uds": "habrían abortado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aborte",
+      "tu": "abortes",
+      "ud": "aborte",
+      "nosotros": "abortemos",
+      "vosotros": "abortéis",
+      "uds": "aborten"
+    },
+    "imperfecto": {
+      "yo": "abortara",
+      "tu": "abortaras",
+      "ud": "abortara",
+      "nosotros": "abortáramos",
+      "vosotros": "abortarais",
+      "uds": "abortaran"
+    },
+    "futuro": {
+      "yo": "abortare",
+      "tu": "abortares",
+      "ud": "abortare",
+      "nosotros": "abortáremos",
+      "vosotros": "abortareis",
+      "uds": "abortaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya abortado",
+      "tu": "hayas abortado",
+      "ud": "haya abortado",
+      "nosotros": "hayamos abortado",
+      "vosotros": "hayáis abortado",
+      "uds": "hayan abortado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere abortado",
+      "tu": "hubieres abortado",
+      "ud": "hubiere abortado",
+      "nosotros": "hubiéremos abortado",
+      "vosotros": "hubiereis abortado",
+      "uds": "hubieren abortado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera abortado",
+      "tu": "hubieras abortado",
+      "ud": "hubiera abortado",
+      "nosotros": "hubiéramos abortado",
+      "vosotros": "hubierais abortado",
+      "uds": "hubieran abortado"
+    },
+    "imperfectoAlt": {
+      "yo": "abortase",
+      "tu": "abortases",
+      "ud": "abortase",
+      "nosotros": "abortásemos",
+      "vosotros": "abortaseis",
+      "uds": "abortasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese abortado",
+      "tu": "hubieses abortado",
+      "ud": "hubiese abortado",
+      "nosotros": "hubiésemos abortado",
+      "vosotros": "hubieseis abortado",
+      "uds": "hubiesen abortado"
+    }
+  },
+  "afirmativo": {
+    "tu": "aborta",
+    "vosotros": "abortad",
+    "ud": "aborte",
+    "uds": "aborten"
+  },
+  "negativo": {
+    "tu": "no abortes",
+    "vosotros": "no abortéis",
+    "ud": "no aborte",
+    "uds": "no aborten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to abort, cause to miscarry; to have a miscarriage",
+    "gerundio": "aborting",
+    "participioPasado": "aborted",
+    "indicativo": {
+      "presente": "I abort, am aborting",
+      "futuro": "I will abort",
+      "imperfecto": "I was aborting, used to abort, aborted",
+      "preterito": "I aborted",
+      "condicional": "I would abort",
+      "presentePerfecto": "I have aborted",
+      "futuroPerfecto": "I will have aborted",
+      "pluscuamperfecto": "I had aborted",
+      "preteritoAnterior": "I had aborted",
+      "condicionalPerfecto": "I would have aborted"
+    },
+    "subjuntivo": {
+      "presente": "I abort, am aborting",
+      "imperfecto": "I aborted, was aborting",
+      "futuro": "I will abort",
+      "presentePerfecto": "I have aborted, aborted",
+      "futuroPerfecto": "I will have aborted",
+      "pluscuamperfecto": "I had aborted"
+    },
+    "afirmativo": "Abort!",
+    "negativo": "Don't abort!"
+  },
+  "attribution": "Fred Jehle"
+}

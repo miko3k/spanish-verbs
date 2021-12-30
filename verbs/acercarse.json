@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "acercarse",
+  "gerundio": "acercándose",
+  "participioPasado": "acercado",
+  "indicativo": {
+    "presente": {
+      "yo": "me acerco",
+      "tu": "te acercas",
+      "ud": "se acerca",
+      "nosotros": "nos acercamos",
+      "vosotros": "os acercáis",
+      "uds": "se acercan"
+    },
+    "futuro": {
+      "yo": "me acercaré",
+      "tu": "te acercarás",
+      "ud": "se acercará",
+      "nosotros": "nos acercaremos",
+      "vosotros": "os acercaréis",
+      "uds": "se acercarán"
+    },
+    "imperfecto": {
+      "yo": "me acercaba",
+      "tu": "te acercabas",
+      "ud": "se acercaba",
+      "nosotros": "nos acercábamos",
+      "vosotros": "os acercabais",
+      "uds": "se acercaban"
+    },
+    "preterito": {
+      "yo": "me acerqué",
+      "tu": "te acercaste",
+      "ud": "se acercó",
+      "nosotros": "nos acercamos",
+      "vosotros": "os acercasteis",
+      "uds": "se acercaron"
+    },
+    "condicional": {
+      "yo": "me acercaría",
+      "tu": "te acercarías",
+      "ud": "se acercaría",
+      "nosotros": "nos acercaríamos",
+      "vosotros": "os acercaríais",
+      "uds": "se acercarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he acercado",
+      "tu": "te has acercado",
+      "ud": "se ha acercado",
+      "nosotros": "nos hemos acercado",
+      "vosotros": "os habéis acercado",
+      "uds": "se han acercado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré acercado",
+      "tu": "te habrás acercado",
+      "ud": "se habrá acercado",
+      "nosotros": "nos habremos acercado",
+      "vosotros": "os habréis acercado",
+      "uds": "se habrán acercado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había acercado",
+      "tu": "te habías acercado",
+      "ud": "se había acercado",
+      "nosotros": "nos habíamos acercado",
+      "vosotros": "os habíais acercado",
+      "uds": "se habían acercado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube acercado",
+      "tu": "te hubiste acercado",
+      "ud": "se hubo acercado",
+      "nosotros": "nos hubimos acercado",
+      "vosotros": "os hubisteis acercado",
+      "uds": "se hubieron acercado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría acercado",
+      "tu": "te habrías acercado",
+      "ud": "se habría acercado",
+      "nosotros": "nos habríamos acercado",
+      "vosotros": "os habríais acercado",
+      "uds": "se habrían acercado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me acerque",
+      "tu": "te acerques",
+      "ud": "se acerque",
+      "nosotros": "nos acerquemos",
+      "vosotros": "os acerquéis",
+      "uds": "se acerquen"
+    },
+    "imperfecto": {
+      "yo": "me acercara",
+      "tu": "te acercaras",
+      "ud": "se acercara",
+      "nosotros": "nos acercáramos",
+      "vosotros": "os acercarais",
+      "uds": "se acercaran"
+    },
+    "futuro": {
+      "yo": "me acercare",
+      "tu": "te acercares",
+      "ud": "se acercare",
+      "nosotros": "nos acercáremos",
+      "vosotros": "os acercareis",
+      "uds": "se acercaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya acercado",
+      "tu": "te hayas acercado",
+      "ud": "se haya acercado",
+      "nosotros": "nos hayamos acercado",
+      "vosotros": "os hayáis acercado",
+      "uds": "se hayan acercado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere acercado",
+      "tu": "te hubieres acercado",
+      "ud": "se hubiere acercado",
+      "nosotros": "nos hubiéremos acercado",
+      "vosotros": "os hubiereis acercado",
+      "uds": "se hubieren acercado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera acercado",
+      "tu": "te hubieras acercado",
+      "ud": "se hubiera acercado",
+      "nosotros": "nos hubiéramos acercado",
+      "vosotros": "os hubierais acercado",
+      "uds": "se hubieran acercado"
+    },
+    "imperfectoAlt": {
+      "yo": "me acercase",
+      "tu": "te acercases",
+      "ud": "se acercase",
+      "nosotros": "nos acercásemos",
+      "vosotros": "os acercaseis",
+      "uds": "se acercasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese acercado",
+      "tu": "te hubieses acercado",
+      "ud": "se hubiese acercado",
+      "nosotros": "nos hubiésemos acercado",
+      "vosotros": "os hubieseis acercado",
+      "uds": "se hubiesen acercado"
+    }
+  },
+  "afirmativo": {
+    "tu": "acércate",
+    "vosotros": "acercaos",
+    "ud": "acérquese",
+    "uds": "acérquense"
+  },
+  "negativo": {
+    "tu": "no te acerques",
+    "vosotros": "no os acerquéis",
+    "ud": "no se acerque",
+    "uds": "no se acerquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e. Note: The nonreflexive form acercar is a transitive verby which means to bring near(er), to move (something/someone) near(er).",
+    "infinitivo": "to approach",
+    "gerundio": "approaching",
+    "participioPasado": "approached",
+    "indicativo": {
+      "presente": "I approach, am approaching",
+      "futuro": "I will approach",
+      "imperfecto": "I was approaching, used to approach, approached",
+      "preterito": "I approached",
+      "condicional": "I would approach",
+      "presentePerfecto": "I have approached",
+      "futuroPerfecto": "I will have approached",
+      "pluscuamperfecto": "I had approached",
+      "preteritoAnterior": "I had approached",
+      "condicionalPerfecto": "I would have approached"
+    },
+    "subjuntivo": {
+      "presente": "I approach, am approaching",
+      "imperfecto": "I approached, was approaching",
+      "futuro": "I will approach",
+      "presentePerfecto": "I have approached, approached",
+      "futuroPerfecto": "I will have approached",
+      "pluscuamperfecto": "I had approached"
+    },
+    "afirmativo": "Approach!",
+    "negativo": "Don't approach!"
+  },
+  "attribution": "Fred Jehle"
+}

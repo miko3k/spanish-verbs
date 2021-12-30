@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "combatir",
+  "gerundio": "combatiendo",
+  "participioPasado": "combatido",
+  "indicativo": {
+    "presente": {
+      "yo": "combato",
+      "tu": "combates",
+      "ud": "combate",
+      "nosotros": "combatimos",
+      "vosotros": "combatís",
+      "uds": "combaten"
+    },
+    "futuro": {
+      "yo": "combatiré",
+      "tu": "combatirás",
+      "ud": "combatirá",
+      "nosotros": "combatiremos",
+      "vosotros": "combatiréis",
+      "uds": "combatirán"
+    },
+    "imperfecto": {
+      "yo": "combatía",
+      "tu": "combatías",
+      "ud": "combatía",
+      "nosotros": "combatíamos",
+      "vosotros": "combatíais",
+      "uds": "combatían"
+    },
+    "preterito": {
+      "yo": "combatí",
+      "tu": "combatiste",
+      "ud": "combatió",
+      "nosotros": "combatimos",
+      "vosotros": "combatisteis",
+      "uds": "combatieron"
+    },
+    "condicional": {
+      "yo": "combatiría",
+      "tu": "combatirías",
+      "ud": "combatiría",
+      "nosotros": "combatiríamos",
+      "vosotros": "combatiríais",
+      "uds": "combatirían"
+    },
+    "presentePerfecto": {
+      "yo": "he combatido",
+      "tu": "has combatido",
+      "ud": "ha combatido",
+      "nosotros": "hemos combatido",
+      "vosotros": "habéis combatido",
+      "uds": "han combatido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré combatido",
+      "tu": "habrás combatido",
+      "ud": "habrá combatido",
+      "nosotros": "habremos combatido",
+      "vosotros": "habréis combatido",
+      "uds": "habrán combatido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había combatido",
+      "tu": "habías combatido",
+      "ud": "había combatido",
+      "nosotros": "habíamos combatido",
+      "vosotros": "habíais combatido",
+      "uds": "habían combatido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube combatido",
+      "tu": "hubiste combatido",
+      "ud": "hubo combatido",
+      "nosotros": "hubimos combatido",
+      "vosotros": "hubisteis combatido",
+      "uds": "hubieron combatido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría combatido",
+      "tu": "habrías combatido",
+      "ud": "habría combatido",
+      "nosotros": "habríamos combatido",
+      "vosotros": "habríais combatido",
+      "uds": "habrían combatido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "combata",
+      "tu": "combatas",
+      "ud": "combata",
+      "nosotros": "combatamos",
+      "vosotros": "combatáis",
+      "uds": "combatan"
+    },
+    "imperfecto": {
+      "yo": "combatiera",
+      "tu": "combatieras",
+      "ud": "combatiera",
+      "nosotros": "combatiéramos",
+      "vosotros": "combatierais",
+      "uds": "combatieran"
+    },
+    "futuro": {
+      "yo": "combatiere",
+      "tu": "combatieres",
+      "ud": "combatiere",
+      "nosotros": "combatiéremos",
+      "vosotros": "combatiereis",
+      "uds": "combatieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya combatido",
+      "tu": "hayas combatido",
+      "ud": "haya combatido",
+      "nosotros": "hayamos combatido",
+      "vosotros": "hayáis combatido",
+      "uds": "hayan combatido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere combatido",
+      "tu": "hubieres combatido",
+      "ud": "hubiere combatido",
+      "nosotros": "hubiéremos combatido",
+      "vosotros": "hubiereis combatido",
+      "uds": "hubieren combatido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera combatido",
+      "tu": "hubieras combatido",
+      "ud": "hubiera combatido",
+      "nosotros": "hubiéramos combatido",
+      "vosotros": "hubierais combatido",
+      "uds": "hubieran combatido"
+    },
+    "imperfectoAlt": {
+      "yo": "combatiese",
+      "tu": "combatieses",
+      "ud": "combatiese",
+      "nosotros": "combatiésemos",
+      "vosotros": "combatieseis",
+      "uds": "combatiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese combatido",
+      "tu": "hubieses combatido",
+      "ud": "hubiese combatido",
+      "nosotros": "hubiésemos combatido",
+      "vosotros": "hubieseis combatido",
+      "uds": "hubiesen combatido"
+    }
+  },
+  "afirmativo": {
+    "tu": "combate",
+    "vosotros": "combatid",
+    "ud": "combata",
+    "uds": "combatan"
+  },
+  "negativo": {
+    "tu": "no combatas",
+    "vosotros": "no combatáis",
+    "ud": "no combata",
+    "uds": "no combatan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to combat, fight, oppose; to attack",
+    "gerundio": "combating",
+    "participioPasado": "combated",
+    "indicativo": {
+      "presente": "I combat, am combating",
+      "futuro": "I will combat",
+      "imperfecto": "I was combating, used to combat, combated",
+      "preterito": "I combated",
+      "condicional": "I would combat",
+      "presentePerfecto": "I have combated",
+      "futuroPerfecto": "I will have combated",
+      "pluscuamperfecto": "I had combated",
+      "preteritoAnterior": "I had combated",
+      "condicionalPerfecto": "I would have combated"
+    },
+    "subjuntivo": {
+      "presente": "I combat, am combating",
+      "imperfecto": "I combated, was combating",
+      "futuro": "I will combat",
+      "presentePerfecto": "I have combated, combated",
+      "futuroPerfecto": "I will have combated",
+      "pluscuamperfecto": "I had combated"
+    },
+    "afirmativo": "Combat!",
+    "negativo": "Don't combat!"
+  },
+  "attribution": "Fred Jehle"
+}

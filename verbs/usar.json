@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "usar",
+  "gerundio": "usando",
+  "participioPasado": "usado",
+  "indicativo": {
+    "presente": {
+      "yo": "uso",
+      "tu": "usas",
+      "ud": "usa",
+      "nosotros": "usamos",
+      "vosotros": "usáis",
+      "uds": "usan"
+    },
+    "futuro": {
+      "yo": "usaré",
+      "tu": "usarás",
+      "ud": "usará",
+      "nosotros": "usaremos",
+      "vosotros": "usaréis",
+      "uds": "usarán"
+    },
+    "imperfecto": {
+      "yo": "usaba",
+      "tu": "usabas",
+      "ud": "usaba",
+      "nosotros": "usábamos",
+      "vosotros": "usabais",
+      "uds": "usaban"
+    },
+    "preterito": {
+      "yo": "usé",
+      "tu": "usaste",
+      "ud": "usó",
+      "nosotros": "usamos",
+      "vosotros": "usasteis",
+      "uds": "usaron"
+    },
+    "condicional": {
+      "yo": "usaría",
+      "tu": "usarías",
+      "ud": "usaría",
+      "nosotros": "usaríamos",
+      "vosotros": "usaríais",
+      "uds": "usarían"
+    },
+    "presentePerfecto": {
+      "yo": "he usado",
+      "tu": "has usado",
+      "ud": "ha usado",
+      "nosotros": "hemos usado",
+      "vosotros": "habéis usado",
+      "uds": "han usado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré usado",
+      "tu": "habrás usado",
+      "ud": "habrá usado",
+      "nosotros": "habremos usado",
+      "vosotros": "habréis usado",
+      "uds": "habrán usado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había usado",
+      "tu": "habías usado",
+      "ud": "había usado",
+      "nosotros": "habíamos usado",
+      "vosotros": "habíais usado",
+      "uds": "habían usado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube usado",
+      "tu": "hubiste usado",
+      "ud": "hubo usado",
+      "nosotros": "hubimos usado",
+      "vosotros": "hubisteis usado",
+      "uds": "hubieron usado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría usado",
+      "tu": "habrías usado",
+      "ud": "habría usado",
+      "nosotros": "habríamos usado",
+      "vosotros": "habríais usado",
+      "uds": "habrían usado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "use",
+      "tu": "uses",
+      "ud": "use",
+      "nosotros": "usemos",
+      "vosotros": "uséis",
+      "uds": "usen"
+    },
+    "imperfecto": {
+      "yo": "usara",
+      "tu": "usaras",
+      "ud": "usara",
+      "nosotros": "usáramos",
+      "vosotros": "usarais",
+      "uds": "usaran"
+    },
+    "futuro": {
+      "yo": "usare",
+      "tu": "usares",
+      "ud": "usare",
+      "nosotros": "usáremos",
+      "vosotros": "usareis",
+      "uds": "usaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya usado",
+      "tu": "hayas usado",
+      "ud": "haya usado",
+      "nosotros": "hayamos usado",
+      "vosotros": "hayáis usado",
+      "uds": "hayan usado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere usado",
+      "tu": "hubieres usado",
+      "ud": "hubiere usado",
+      "nosotros": "hubiéremos usado",
+      "vosotros": "hubiereis usado",
+      "uds": "hubieren usado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera usado",
+      "tu": "hubieras usado",
+      "ud": "hubiera usado",
+      "nosotros": "hubiéramos usado",
+      "vosotros": "hubierais usado",
+      "uds": "hubieran usado"
+    },
+    "imperfectoAlt": {
+      "yo": "usase",
+      "tu": "usases",
+      "ud": "usase",
+      "nosotros": "usásemos",
+      "vosotros": "usaseis",
+      "uds": "usasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese usado",
+      "tu": "hubieses usado",
+      "ud": "hubiese usado",
+      "nosotros": "hubiésemos usado",
+      "vosotros": "hubieseis usado",
+      "uds": "hubiesen usado"
+    }
+  },
+  "afirmativo": {
+    "tu": "usa",
+    "vosotros": "usad",
+    "ud": "use",
+    "uds": "usen"
+  },
+  "negativo": {
+    "tu": "no uses",
+    "vosotros": "no uséis",
+    "ud": "no use",
+    "uds": "no usen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to use",
+    "gerundio": "using",
+    "participioPasado": "used",
+    "indicativo": {
+      "presente": "I use, am using",
+      "futuro": "I will use",
+      "imperfecto": "I was using, used to use, used",
+      "preterito": "I used",
+      "condicional": "I would use",
+      "presentePerfecto": "I have used",
+      "futuroPerfecto": "I will have used",
+      "pluscuamperfecto": "I had used",
+      "preteritoAnterior": "I had used",
+      "condicionalPerfecto": "I would have used"
+    },
+    "subjuntivo": {
+      "presente": "I use, am using",
+      "imperfecto": "I used, was using",
+      "futuro": "I will use",
+      "presentePerfecto": "I have used, used",
+      "futuroPerfecto": "I will have used",
+      "pluscuamperfecto": "I had used"
+    },
+    "afirmativo": "Use!",
+    "negativo": "Don't use!"
+  },
+  "attribution": "Fred Jehle"
+}

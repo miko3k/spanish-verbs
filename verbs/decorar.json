@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "decorar",
+  "gerundio": "decorando",
+  "participioPasado": "decorado",
+  "indicativo": {
+    "presente": {
+      "yo": "decoro",
+      "tu": "decoras",
+      "ud": "decora",
+      "nosotros": "decoramos",
+      "vosotros": "decoráis",
+      "uds": "decoran"
+    },
+    "futuro": {
+      "yo": "decoraré",
+      "tu": "decorarás",
+      "ud": "decorará",
+      "nosotros": "decoraremos",
+      "vosotros": "decoraréis",
+      "uds": "decorarán"
+    },
+    "imperfecto": {
+      "yo": "decoraba",
+      "tu": "decorabas",
+      "ud": "decoraba",
+      "nosotros": "decorábamos",
+      "vosotros": "decorabais",
+      "uds": "decoraban"
+    },
+    "preterito": {
+      "yo": "decoré",
+      "tu": "decoraste",
+      "ud": "decoró",
+      "nosotros": "decoramos",
+      "vosotros": "decorasteis",
+      "uds": "decoraron"
+    },
+    "condicional": {
+      "yo": "decoraría",
+      "tu": "decorarías",
+      "ud": "decoraría",
+      "nosotros": "decoraríamos",
+      "vosotros": "decoraríais",
+      "uds": "decorarían"
+    },
+    "presentePerfecto": {
+      "yo": "he decorado",
+      "tu": "has decorado",
+      "ud": "ha decorado",
+      "nosotros": "hemos decorado",
+      "vosotros": "habéis decorado",
+      "uds": "han decorado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré decorado",
+      "tu": "habrás decorado",
+      "ud": "habrá decorado",
+      "nosotros": "habremos decorado",
+      "vosotros": "habréis decorado",
+      "uds": "habrán decorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había decorado",
+      "tu": "habías decorado",
+      "ud": "había decorado",
+      "nosotros": "habíamos decorado",
+      "vosotros": "habíais decorado",
+      "uds": "habían decorado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube decorado",
+      "tu": "hubiste decorado",
+      "ud": "hubo decorado",
+      "nosotros": "hubimos decorado",
+      "vosotros": "hubisteis decorado",
+      "uds": "hubieron decorado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría decorado",
+      "tu": "habrías decorado",
+      "ud": "habría decorado",
+      "nosotros": "habríamos decorado",
+      "vosotros": "habríais decorado",
+      "uds": "habrían decorado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "decore",
+      "tu": "decores",
+      "ud": "decore",
+      "nosotros": "decoremos",
+      "vosotros": "decoréis",
+      "uds": "decoren"
+    },
+    "imperfecto": {
+      "yo": "decorara",
+      "tu": "decoraras",
+      "ud": "decorara",
+      "nosotros": "decoráramos",
+      "vosotros": "decorarais",
+      "uds": "decoraran"
+    },
+    "futuro": {
+      "yo": "decorare",
+      "tu": "decorares",
+      "ud": "decorare",
+      "nosotros": "decoráremos",
+      "vosotros": "decorareis",
+      "uds": "decoraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya decorado",
+      "tu": "hayas decorado",
+      "ud": "haya decorado",
+      "nosotros": "hayamos decorado",
+      "vosotros": "hayáis decorado",
+      "uds": "hayan decorado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere decorado",
+      "tu": "hubieres decorado",
+      "ud": "hubiere decorado",
+      "nosotros": "hubiéremos decorado",
+      "vosotros": "hubiereis decorado",
+      "uds": "hubieren decorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera decorado",
+      "tu": "hubieras decorado",
+      "ud": "hubiera decorado",
+      "nosotros": "hubiéramos decorado",
+      "vosotros": "hubierais decorado",
+      "uds": "hubieran decorado"
+    },
+    "imperfectoAlt": {
+      "yo": "decorase",
+      "tu": "decorases",
+      "ud": "decorase",
+      "nosotros": "decorásemos",
+      "vosotros": "decoraseis",
+      "uds": "decorasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese decorado",
+      "tu": "hubieses decorado",
+      "ud": "hubiese decorado",
+      "nosotros": "hubiésemos decorado",
+      "vosotros": "hubieseis decorado",
+      "uds": "hubiesen decorado"
+    }
+  },
+  "afirmativo": {
+    "tu": "decora",
+    "vosotros": "decorad",
+    "ud": "decore",
+    "uds": "decoren"
+  },
+  "negativo": {
+    "tu": "no decores",
+    "vosotros": "no decoréis",
+    "ud": "no decore",
+    "uds": "no decoren"
+  },
+  "english": {
+    "note": "Note: To decorate/adorn with = decorar de.",
+    "infinitivo": "to decorate, adorn",
+    "gerundio": "decorating",
+    "participioPasado": "decorated",
+    "indicativo": {
+      "presente": "I decorate, am decorating",
+      "futuro": "I will decorate",
+      "imperfecto": "I was decorating, used to decorate, decorated",
+      "preterito": "I decorated",
+      "condicional": "I would decorate",
+      "presentePerfecto": "I have decorated",
+      "futuroPerfecto": "I will have decorated",
+      "pluscuamperfecto": "I had decorated",
+      "preteritoAnterior": "I had decorated",
+      "condicionalPerfecto": "I would have decorated"
+    },
+    "subjuntivo": {
+      "presente": "I decorate, am decorating",
+      "imperfecto": "I decorated, was decorating",
+      "futuro": "I will decorate",
+      "presentePerfecto": "I have decorated, decorated",
+      "futuroPerfecto": "I will have decorated",
+      "pluscuamperfecto": "I had decorated"
+    },
+    "afirmativo": "Decorate!",
+    "negativo": "Don't decorate!"
+  },
+  "attribution": "Fred Jehle"
+}

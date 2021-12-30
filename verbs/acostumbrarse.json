@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "acostumbrarse",
+  "gerundio": "acostumbrándose",
+  "participioPasado": "acostumbrado",
+  "indicativo": {
+    "presente": {
+      "yo": "me acostumbro",
+      "tu": "te acostumbras",
+      "ud": "se acostumbra",
+      "nosotros": "nos acostumbramos",
+      "vosotros": "os acostumbráis",
+      "uds": "se acostumbran"
+    },
+    "futuro": {
+      "yo": "me acostumbraré",
+      "tu": "te acostumbrarás",
+      "ud": "se acostumbrará",
+      "nosotros": "nos acostumbraremos",
+      "vosotros": "os acostumbraréis",
+      "uds": "se acostumbrarán"
+    },
+    "imperfecto": {
+      "yo": "me acostumbraba",
+      "tu": "te acostumbrabas",
+      "ud": "se acostumbraba",
+      "nosotros": "nos acostumbrábamos",
+      "vosotros": "os acostumbrabais",
+      "uds": "se acostumbraban"
+    },
+    "preterito": {
+      "yo": "me acostumbré",
+      "tu": "te acostumbraste",
+      "ud": "se acostumbró",
+      "nosotros": "nos acostumbramos",
+      "vosotros": "os acostumbrasteis",
+      "uds": "se acostumbraron"
+    },
+    "condicional": {
+      "yo": "me acostumbraría",
+      "tu": "te acostumbrarías",
+      "ud": "se acostumbraría",
+      "nosotros": "nos acostumbraríamos",
+      "vosotros": "os acostumbraríais",
+      "uds": "se acostumbrarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he acostumbrado",
+      "tu": "te has acostumbrado",
+      "ud": "se ha acostumbrado",
+      "nosotros": "nos hemos acostumbrado",
+      "vosotros": "os habéis acostumbrado",
+      "uds": "se han acostumbrado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré acostumbrado",
+      "tu": "te habrás acostumbrado",
+      "ud": "se habrá acostumbrado",
+      "nosotros": "nos habremos acostumbrado",
+      "vosotros": "os habréis acostumbrado",
+      "uds": "se habrán acostumbrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había acostumbrado",
+      "tu": "te habías acostumbrado",
+      "ud": "se había acostumbrado",
+      "nosotros": "nos habíamos acostumbrado",
+      "vosotros": "os habíais acostumbrado",
+      "uds": "se habían acostumbrado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube acostumbrado",
+      "tu": "te hubiste acostumbrado",
+      "ud": "se hubo acostumbrado",
+      "nosotros": "nos hubimos acostumbrado",
+      "vosotros": "os hubisteis acostumbrado",
+      "uds": "se hubieron acostumbrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría acostumbrado",
+      "tu": "te habrías acostumbrado",
+      "ud": "se habría acostumbrado",
+      "nosotros": "nos habríamos acostumbrado",
+      "vosotros": "os habríais acostumbrado",
+      "uds": "se habrían acostumbrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me acostumbre",
+      "tu": "te acostumbres",
+      "ud": "se acostumbre",
+      "nosotros": "nos acostumbremos",
+      "vosotros": "os acostumbréis",
+      "uds": "se acostumbren"
+    },
+    "imperfecto": {
+      "yo": "me acostumbrara",
+      "tu": "te acostumbraras",
+      "ud": "se acostumbrara",
+      "nosotros": "nos acostumbráramos",
+      "vosotros": "os acostumbrarais",
+      "uds": "se acostumbraran"
+    },
+    "futuro": {
+      "yo": "me acostumbrare",
+      "tu": "te acostumbrares",
+      "ud": "se acostumbrare",
+      "nosotros": "nos acostumbráremos",
+      "vosotros": "os acostumbrareis",
+      "uds": "se acostumbraren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya acostumbrado",
+      "tu": "te hayas acostumbrado",
+      "ud": "se haya acostumbrado",
+      "nosotros": "nos hayamos acostumbrado",
+      "vosotros": "os hayáis acostumbrado",
+      "uds": "se hayan acostumbrado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere acostumbrado",
+      "tu": "te hubieres acostumbrado",
+      "ud": "se hubiere acostumbrado",
+      "nosotros": "nos hubiéremos acostumbrado",
+      "vosotros": "os hubiereis acostumbrado",
+      "uds": "se hubieren acostumbrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera acostumbrado",
+      "tu": "te hubieras acostumbrado",
+      "ud": "se hubiera acostumbrado",
+      "nosotros": "nos hubiéramos acostumbrado",
+      "vosotros": "os hubierais acostumbrado",
+      "uds": "se hubieran acostumbrado"
+    },
+    "imperfectoAlt": {
+      "yo": "me acostumbrase",
+      "tu": "te acostumbrases",
+      "ud": "se acostumbrase",
+      "nosotros": "nos acostumbrásemos",
+      "vosotros": "os acostumbraseis",
+      "uds": "se acostumbrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese acostumbrado",
+      "tu": "te hubieses acostumbrado",
+      "ud": "se hubiese acostumbrado",
+      "nosotros": "nos hubiésemos acostumbrado",
+      "vosotros": "os hubieseis acostumbrado",
+      "uds": "se hubiesen acostumbrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "acostúmbrate",
+    "vosotros": "acostumbraos",
+    "ud": "acostúmbrese",
+    "uds": "acostúmbrense"
+  },
+  "negativo": {
+    "tu": "no te acostumbres",
+    "vosotros": "no os acostumbréis",
+    "ud": "no se acostumbre",
+    "uds": "no se acostumbren"
+  },
+  "english": {
+    "note": "Note: For to be used to, or be in the habit of, or to get someone used to something, use the nonreflexive form acostumbrar.",
+    "infinitivo": "to get used to, get accustomed to",
+    "gerundio": "getting used to",
+    "participioPasado": "got used to",
+    "indicativo": {
+      "presente": "I get used to, am getting used to",
+      "futuro": "I will get used to",
+      "imperfecto": "I was getting used to, used to get used to, got used to",
+      "preterito": "I got used to",
+      "condicional": "I would get used to",
+      "presentePerfecto": "I have gotten used to",
+      "futuroPerfecto": "I will have gotten used to",
+      "pluscuamperfecto": "I had gotten used to",
+      "preteritoAnterior": "I had gotten used to",
+      "condicionalPerfecto": "I would have gotten used to"
+    },
+    "subjuntivo": {
+      "presente": "I get used to, am getting used to",
+      "imperfecto": "I got used to, was getting used to",
+      "futuro": "I will get used to",
+      "presentePerfecto": "I have gotten used to, got used to",
+      "futuroPerfecto": "I will have gotten used to",
+      "pluscuamperfecto": "I had gotten used to"
+    },
+    "afirmativo": "get used to!",
+    "negativo": "Don't get used to!"
+  },
+  "attribution": "Fred Jehle"
+}

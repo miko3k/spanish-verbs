@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "extender",
+  "gerundio": "extendiendo",
+  "participioPasado": "extendido",
+  "indicativo": {
+    "presente": {
+      "yo": "extiendo",
+      "tu": "extiendes",
+      "ud": "extiende",
+      "nosotros": "extendemos",
+      "vosotros": "extendéis",
+      "uds": "extienden"
+    },
+    "futuro": {
+      "yo": "extenderé",
+      "tu": "extenderás",
+      "ud": "extenderá",
+      "nosotros": "extenderemos",
+      "vosotros": "extenderéis",
+      "uds": "extenderán"
+    },
+    "imperfecto": {
+      "yo": "extendía",
+      "tu": "extendías",
+      "ud": "extendía",
+      "nosotros": "extendíamos",
+      "vosotros": "extendíais",
+      "uds": "extendían"
+    },
+    "preterito": {
+      "yo": "extendí",
+      "tu": "extendiste",
+      "ud": "extendió",
+      "nosotros": "extendimos",
+      "vosotros": "extendisteis",
+      "uds": "extendieron"
+    },
+    "condicional": {
+      "yo": "extendería",
+      "tu": "extenderías",
+      "ud": "extendería",
+      "nosotros": "extenderíamos",
+      "vosotros": "extenderíais",
+      "uds": "extenderían"
+    },
+    "presentePerfecto": {
+      "yo": "he extendido",
+      "tu": "has extendido",
+      "ud": "ha extendido",
+      "nosotros": "hemos extendido",
+      "vosotros": "habéis extendido",
+      "uds": "han extendido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré extendido",
+      "tu": "habrás extendido",
+      "ud": "habrá extendido",
+      "nosotros": "habremos extendido",
+      "vosotros": "habréis extendido",
+      "uds": "habrán extendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había extendido",
+      "tu": "habías extendido",
+      "ud": "había extendido",
+      "nosotros": "habíamos extendido",
+      "vosotros": "habíais extendido",
+      "uds": "habían extendido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube extendido",
+      "tu": "hubiste extendido",
+      "ud": "hubo extendido",
+      "nosotros": "hubimos extendido",
+      "vosotros": "hubisteis extendido",
+      "uds": "hubieron extendido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría extendido",
+      "tu": "habrías extendido",
+      "ud": "habría extendido",
+      "nosotros": "habríamos extendido",
+      "vosotros": "habríais extendido",
+      "uds": "habrían extendido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "extienda",
+      "tu": "extiendas",
+      "ud": "extienda",
+      "nosotros": "extendamos",
+      "vosotros": "extendáis",
+      "uds": "extiendan"
+    },
+    "imperfecto": {
+      "yo": "extendiera",
+      "tu": "extendieras",
+      "ud": "extendiera",
+      "nosotros": "extendiéramos",
+      "vosotros": "extendierais",
+      "uds": "extendieran"
+    },
+    "futuro": {
+      "yo": "extendiere",
+      "tu": "extendieres",
+      "ud": "extendiere",
+      "nosotros": "extendiéremos",
+      "vosotros": "extendiereis",
+      "uds": "extendieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya extendido",
+      "tu": "hayas extendido",
+      "ud": "haya extendido",
+      "nosotros": "hayamos extendido",
+      "vosotros": "hayáis extendido",
+      "uds": "hayan extendido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere extendido",
+      "tu": "hubieres extendido",
+      "ud": "hubiere extendido",
+      "nosotros": "hubiéremos extendido",
+      "vosotros": "hubiereis extendido",
+      "uds": "hubieren extendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera extendido",
+      "tu": "hubieras extendido",
+      "ud": "hubiera extendido",
+      "nosotros": "hubiéramos extendido",
+      "vosotros": "hubierais extendido",
+      "uds": "hubieran extendido"
+    },
+    "imperfectoAlt": {
+      "yo": "extendiese",
+      "tu": "extendieses",
+      "ud": "extendiese",
+      "nosotros": "extendiésemos",
+      "vosotros": "extendieseis",
+      "uds": "extendiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese extendido",
+      "tu": "hubieses extendido",
+      "ud": "hubiese extendido",
+      "nosotros": "hubiésemos extendido",
+      "vosotros": "hubieseis extendido",
+      "uds": "hubiesen extendido"
+    }
+  },
+  "afirmativo": {
+    "tu": "extiende",
+    "vosotros": "extended",
+    "ud": "extienda",
+    "uds": "extiendan"
+  },
+  "negativo": {
+    "tu": "no extiendas",
+    "vosotros": "no extendáis",
+    "ud": "no extienda",
+    "uds": "no extiendan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa.",
+    "infinitivo": "to extend",
+    "gerundio": "extending",
+    "participioPasado": "extended",
+    "indicativo": {
+      "presente": "I extend, am extending",
+      "futuro": "I will extend",
+      "imperfecto": "I was extending, used to extend, extended",
+      "preterito": "I extended",
+      "condicional": "I would extend",
+      "presentePerfecto": "I have extended",
+      "futuroPerfecto": "I will have extended",
+      "pluscuamperfecto": "I had extended",
+      "preteritoAnterior": "I had extended",
+      "condicionalPerfecto": "I would have extended"
+    },
+    "subjuntivo": {
+      "presente": "I extend, am extending",
+      "imperfecto": "I extended, was extending",
+      "futuro": "I will extend",
+      "presentePerfecto": "I have extended, extended",
+      "futuroPerfecto": "I will have extended",
+      "pluscuamperfecto": "I had extended"
+    },
+    "afirmativo": "Extend!",
+    "negativo": "Don't extend!"
+  },
+  "attribution": "Fred Jehle"
+}

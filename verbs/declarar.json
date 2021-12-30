@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "declarar",
+  "gerundio": "declarando",
+  "participioPasado": "declarado",
+  "indicativo": {
+    "presente": {
+      "yo": "declaro",
+      "tu": "declaras",
+      "ud": "declara",
+      "nosotros": "declaramos",
+      "vosotros": "declaráis",
+      "uds": "declaran"
+    },
+    "futuro": {
+      "yo": "declararé",
+      "tu": "declararás",
+      "ud": "declarará",
+      "nosotros": "declararemos",
+      "vosotros": "declararéis",
+      "uds": "declararán"
+    },
+    "imperfecto": {
+      "yo": "declaraba",
+      "tu": "declarabas",
+      "ud": "declaraba",
+      "nosotros": "declarábamos",
+      "vosotros": "declarabais",
+      "uds": "declaraban"
+    },
+    "preterito": {
+      "yo": "declaré",
+      "tu": "declaraste",
+      "ud": "declaró",
+      "nosotros": "declaramos",
+      "vosotros": "declarasteis",
+      "uds": "declararon"
+    },
+    "condicional": {
+      "yo": "declararía",
+      "tu": "declararías",
+      "ud": "declararía",
+      "nosotros": "declararíamos",
+      "vosotros": "declararíais",
+      "uds": "declararían"
+    },
+    "presentePerfecto": {
+      "yo": "he declarado",
+      "tu": "has declarado",
+      "ud": "ha declarado",
+      "nosotros": "hemos declarado",
+      "vosotros": "habéis declarado",
+      "uds": "han declarado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré declarado",
+      "tu": "habrás declarado",
+      "ud": "habrá declarado",
+      "nosotros": "habremos declarado",
+      "vosotros": "habréis declarado",
+      "uds": "habrán declarado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había declarado",
+      "tu": "habías declarado",
+      "ud": "había declarado",
+      "nosotros": "habíamos declarado",
+      "vosotros": "habíais declarado",
+      "uds": "habían declarado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube declarado",
+      "tu": "hubiste declarado",
+      "ud": "hubo declarado",
+      "nosotros": "hubimos declarado",
+      "vosotros": "hubisteis declarado",
+      "uds": "hubieron declarado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría declarado",
+      "tu": "habrías declarado",
+      "ud": "habría declarado",
+      "nosotros": "habríamos declarado",
+      "vosotros": "habríais declarado",
+      "uds": "habrían declarado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "declare",
+      "tu": "declares",
+      "ud": "declare",
+      "nosotros": "declaremos",
+      "vosotros": "declaréis",
+      "uds": "declaren"
+    },
+    "imperfecto": {
+      "yo": "declarara",
+      "tu": "declararas",
+      "ud": "declarara",
+      "nosotros": "declaráramos",
+      "vosotros": "declararais",
+      "uds": "declararan"
+    },
+    "futuro": {
+      "yo": "declarare",
+      "tu": "declarares",
+      "ud": "declarare",
+      "nosotros": "declaráremos",
+      "vosotros": "declarareis",
+      "uds": "declararen"
+    },
+    "presentePerfecto": {
+      "yo": "haya declarado",
+      "tu": "hayas declarado",
+      "ud": "haya declarado",
+      "nosotros": "hayamos declarado",
+      "vosotros": "hayáis declarado",
+      "uds": "hayan declarado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere declarado",
+      "tu": "hubieres declarado",
+      "ud": "hubiere declarado",
+      "nosotros": "hubiéremos declarado",
+      "vosotros": "hubiereis declarado",
+      "uds": "hubieren declarado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera declarado",
+      "tu": "hubieras declarado",
+      "ud": "hubiera declarado",
+      "nosotros": "hubiéramos declarado",
+      "vosotros": "hubierais declarado",
+      "uds": "hubieran declarado"
+    },
+    "imperfectoAlt": {
+      "yo": "declarase",
+      "tu": "declarases",
+      "ud": "declarase",
+      "nosotros": "declarásemos",
+      "vosotros": "declaraseis",
+      "uds": "declarasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese declarado",
+      "tu": "hubieses declarado",
+      "ud": "hubiese declarado",
+      "nosotros": "hubiésemos declarado",
+      "vosotros": "hubieseis declarado",
+      "uds": "hubiesen declarado"
+    }
+  },
+  "afirmativo": {
+    "tu": "declara",
+    "vosotros": "declarad",
+    "ud": "declare",
+    "uds": "declaren"
+  },
+  "negativo": {
+    "tu": "no declares",
+    "vosotros": "no declaréis",
+    "ud": "no declare",
+    "uds": "no declaren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to declare, state; to bid (in cards)",
+    "gerundio": "declaring",
+    "participioPasado": "declared",
+    "indicativo": {
+      "presente": "I declare, am declaring",
+      "futuro": "I will declare",
+      "imperfecto": "I was declaring, used to declare, declared",
+      "preterito": "I declared",
+      "condicional": "I would declare",
+      "presentePerfecto": "I have declared",
+      "futuroPerfecto": "I will have declared",
+      "pluscuamperfecto": "I had declared",
+      "preteritoAnterior": "I had declared",
+      "condicionalPerfecto": "I would have declared"
+    },
+    "subjuntivo": {
+      "presente": "I declare, am declaring",
+      "imperfecto": "I declared, was declaring",
+      "futuro": "I will declare",
+      "presentePerfecto": "I have declared, declared",
+      "futuroPerfecto": "I will have declared",
+      "pluscuamperfecto": "I had declared"
+    },
+    "afirmativo": "Declare!",
+    "negativo": "Don't declare!"
+  },
+  "attribution": "Fred Jehle"
+}

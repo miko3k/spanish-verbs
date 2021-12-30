@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "convenir",
+  "gerundio": "conviniendo",
+  "participioPasado": "convenido",
+  "indicativo": {
+    "presente": {
+      "yo": "convengo",
+      "tu": "convienes",
+      "ud": "conviene",
+      "nosotros": "convenimos",
+      "vosotros": "convenís",
+      "uds": "convienen"
+    },
+    "futuro": {
+      "yo": "convendré",
+      "tu": "convendrás",
+      "ud": "convendrá",
+      "nosotros": "convendremos",
+      "vosotros": "convendréis",
+      "uds": "convendrán"
+    },
+    "imperfecto": {
+      "yo": "convenía",
+      "tu": "convenías",
+      "ud": "convenía",
+      "nosotros": "conveníamos",
+      "vosotros": "conveníais",
+      "uds": "convenían"
+    },
+    "preterito": {
+      "yo": "convine",
+      "tu": "conviniste",
+      "ud": "convino",
+      "nosotros": "convinimos",
+      "vosotros": "convinisteis",
+      "uds": "convinieron"
+    },
+    "condicional": {
+      "yo": "convendría",
+      "tu": "convendrías",
+      "ud": "convendría",
+      "nosotros": "convendríamos",
+      "vosotros": "convendríais",
+      "uds": "convendrían"
+    },
+    "presentePerfecto": {
+      "yo": "he convenido",
+      "tu": "has convenido",
+      "ud": "ha convenido",
+      "nosotros": "hemos convenido",
+      "vosotros": "habéis convenido",
+      "uds": "han convenido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré convenido",
+      "tu": "habrás convenido",
+      "ud": "habrá convenido",
+      "nosotros": "habremos convenido",
+      "vosotros": "habréis convenido",
+      "uds": "habrán convenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había convenido",
+      "tu": "habías convenido",
+      "ud": "había convenido",
+      "nosotros": "habíamos convenido",
+      "vosotros": "habíais convenido",
+      "uds": "habían convenido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube convenido",
+      "tu": "hubiste convenido",
+      "ud": "hubo convenido",
+      "nosotros": "hubimos convenido",
+      "vosotros": "hubisteis convenido",
+      "uds": "hubieron convenido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría convenido",
+      "tu": "habrías convenido",
+      "ud": "habría convenido",
+      "nosotros": "habríamos convenido",
+      "vosotros": "habríais convenido",
+      "uds": "habrían convenido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "convenga",
+      "tu": "convengas",
+      "ud": "convenga",
+      "nosotros": "convengamos",
+      "vosotros": "convengáis",
+      "uds": "convengan"
+    },
+    "imperfecto": {
+      "yo": "conviniera",
+      "tu": "convinieras",
+      "ud": "conviniera",
+      "nosotros": "conviniéramos",
+      "vosotros": "convinierais",
+      "uds": "convinieran"
+    },
+    "futuro": {
+      "yo": "conviniere",
+      "tu": "convinieres",
+      "ud": "conviniere",
+      "nosotros": "conviniéremos",
+      "vosotros": "conviniereis",
+      "uds": "convinieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya convenido",
+      "tu": "hayas convenido",
+      "ud": "haya convenido",
+      "nosotros": "hayamos convenido",
+      "vosotros": "hayáis convenido",
+      "uds": "hayan convenido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere convenido",
+      "tu": "hubieres convenido",
+      "ud": "hubiere convenido",
+      "nosotros": "hubiéremos convenido",
+      "vosotros": "hubiereis convenido",
+      "uds": "hubieren convenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera convenido",
+      "tu": "hubieras convenido",
+      "ud": "hubiera convenido",
+      "nosotros": "hubiéramos convenido",
+      "vosotros": "hubierais convenido",
+      "uds": "hubieran convenido"
+    },
+    "imperfectoAlt": {
+      "yo": "conviniese",
+      "tu": "convinieses",
+      "ud": "conviniese",
+      "nosotros": "conviniésemos",
+      "vosotros": "convinieseis",
+      "uds": "conviniesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese convenido",
+      "tu": "hubieses convenido",
+      "ud": "hubiese convenido",
+      "nosotros": "hubiésemos convenido",
+      "vosotros": "hubieseis convenido",
+      "uds": "hubiesen convenido"
+    }
+  },
+  "afirmativo": {
+    "tu": "convén",
+    "vosotros": "convenid",
+    "ud": "convenga",
+    "uds": "convengan"
+  },
+  "negativo": {
+    "tu": "no convengas",
+    "vosotros": "no convengáis",
+    "ud": "no convenga",
+    "uds": "no convengan"
+  },
+  "english": {
+    "note": "Formas irregulares: convengo, convenga, convengas, etc. Cambio radical: e > ie cuando se acentúa. Radical irregular en el futuro y condicional: convendr-. Radical fuerte en el pretérito: convin-. Mandato familiar singular irregular: convén. Note: Convenir con = to agree with; convenir en = to agree on; conviene (hacer algo) = it is important/desirable (to do something).",
+    "infinitivo": "to agree; to suit, be suited to; to be good for",
+    "gerundio": "agreeing",
+    "participioPasado": "agreed",
+    "indicativo": {
+      "presente": "I agree, am agreeing",
+      "futuro": "I will agree",
+      "imperfecto": "I was agreeing, used to agree, agreed",
+      "preterito": "I agreed",
+      "condicional": "I would agree",
+      "presentePerfecto": "I have agreed",
+      "futuroPerfecto": "I will have agreed",
+      "pluscuamperfecto": "I had agreed",
+      "preteritoAnterior": "I had agreed",
+      "condicionalPerfecto": "I would have agreed"
+    },
+    "subjuntivo": {
+      "presente": "I agree, am agreeing",
+      "imperfecto": "I agreed, was agreeing",
+      "futuro": "I will agree",
+      "presentePerfecto": "I have agreed, agreed",
+      "futuroPerfecto": "I will have agreed",
+      "pluscuamperfecto": "I had agreed"
+    },
+    "afirmativo": "Agree!",
+    "negativo": "Don't agree!"
+  },
+  "attribution": "Fred Jehle"
+}

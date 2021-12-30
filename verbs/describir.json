@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "describir",
+  "gerundio": "describiendo",
+  "participioPasado": "descrito",
+  "indicativo": {
+    "presente": {
+      "yo": "describo",
+      "tu": "describes",
+      "ud": "describe",
+      "nosotros": "describimos",
+      "vosotros": "describís",
+      "uds": "describen"
+    },
+    "futuro": {
+      "yo": "describiré",
+      "tu": "describirás",
+      "ud": "describirá",
+      "nosotros": "describiremos",
+      "vosotros": "describiréis",
+      "uds": "describirán"
+    },
+    "imperfecto": {
+      "yo": "describía",
+      "tu": "describías",
+      "ud": "describía",
+      "nosotros": "describíamos",
+      "vosotros": "describíais",
+      "uds": "describían"
+    },
+    "preterito": {
+      "yo": "describí",
+      "tu": "describiste",
+      "ud": "describió",
+      "nosotros": "describimos",
+      "vosotros": "describisteis",
+      "uds": "describieron"
+    },
+    "condicional": {
+      "yo": "describiría",
+      "tu": "describirías",
+      "ud": "describiría",
+      "nosotros": "describiríamos",
+      "vosotros": "describiríais",
+      "uds": "describirían"
+    },
+    "presentePerfecto": {
+      "yo": "he descrito",
+      "tu": "has descrito",
+      "ud": "ha descrito",
+      "nosotros": "hemos descrito",
+      "vosotros": "habéis descrito",
+      "uds": "han descrito"
+    },
+    "futuroPerfecto": {
+      "yo": "habré descrito",
+      "tu": "habrás descrito",
+      "ud": "habrá descrito",
+      "nosotros": "habremos descrito",
+      "vosotros": "habréis descrito",
+      "uds": "habrán descrito"
+    },
+    "pluscuamperfecto": {
+      "yo": "había descrito",
+      "tu": "habías descrito",
+      "ud": "había descrito",
+      "nosotros": "habíamos descrito",
+      "vosotros": "habíais descrito",
+      "uds": "habían descrito"
+    },
+    "preteritoAnterior": {
+      "yo": "hube descrito",
+      "tu": "hubiste descrito",
+      "ud": "hubo descrito",
+      "nosotros": "hubimos descrito",
+      "vosotros": "hubisteis descrito",
+      "uds": "hubieron descrito"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría descrito",
+      "tu": "habrías descrito",
+      "ud": "habría descrito",
+      "nosotros": "habríamos descrito",
+      "vosotros": "habríais descrito",
+      "uds": "habrían descrito"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "describa",
+      "tu": "describas",
+      "ud": "describa",
+      "nosotros": "describamos",
+      "vosotros": "describáis",
+      "uds": "describan"
+    },
+    "imperfecto": {
+      "yo": "describiera",
+      "tu": "describieras",
+      "ud": "describiera",
+      "nosotros": "describiéramos",
+      "vosotros": "describierais",
+      "uds": "describieran"
+    },
+    "futuro": {
+      "yo": "describiere",
+      "tu": "describieres",
+      "ud": "describiere",
+      "nosotros": "describiéremos",
+      "vosotros": "describiereis",
+      "uds": "describieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya descrito",
+      "tu": "hayas descrito",
+      "ud": "haya descrito",
+      "nosotros": "hayamos descrito",
+      "vosotros": "hayáis descrito",
+      "uds": "hayan descrito"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere descrito",
+      "tu": "hubieres descrito",
+      "ud": "hubiere descrito",
+      "nosotros": "hubiéremos descrito",
+      "vosotros": "hubiereis descrito",
+      "uds": "hubieren descrito"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera descrito",
+      "tu": "hubieras descrito",
+      "ud": "hubiera descrito",
+      "nosotros": "hubiéramos descrito",
+      "vosotros": "hubierais descrito",
+      "uds": "hubieran descrito"
+    },
+    "imperfectoAlt": {
+      "yo": "describiese",
+      "tu": "describieses",
+      "ud": "describiese",
+      "nosotros": "describiésemos",
+      "vosotros": "describieseis",
+      "uds": "describiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese descrito",
+      "tu": "hubieses descrito",
+      "ud": "hubiese descrito",
+      "nosotros": "hubiésemos descrito",
+      "vosotros": "hubieseis descrito",
+      "uds": "hubiesen descrito"
+    }
+  },
+  "afirmativo": {
+    "tu": "describe",
+    "vosotros": "describid",
+    "ud": "describa",
+    "uds": "describan"
+  },
+  "negativo": {
+    "tu": "no describas",
+    "vosotros": "no describáis",
+    "ud": "no describa",
+    "uds": "no describan"
+  },
+  "english": {
+    "note": "Participio pasado irregular: descrito.",
+    "infinitivo": "to describe",
+    "gerundio": "describing",
+    "participioPasado": "described",
+    "indicativo": {
+      "presente": "I describe, am describing",
+      "futuro": "I will describe",
+      "imperfecto": "I was describing, used to describe, described",
+      "preterito": "I described",
+      "condicional": "I would describe",
+      "presentePerfecto": "I have described",
+      "futuroPerfecto": "I will have described",
+      "pluscuamperfecto": "I had described",
+      "preteritoAnterior": "I had described",
+      "condicionalPerfecto": "I would have described"
+    },
+    "subjuntivo": {
+      "presente": "I describe, am describing",
+      "imperfecto": "I described, was describing",
+      "futuro": "I will describe",
+      "presentePerfecto": "I have described, described",
+      "futuroPerfecto": "I will have described",
+      "pluscuamperfecto": "I had described"
+    },
+    "afirmativo": "Describe!",
+    "negativo": "Don't describe!"
+  },
+  "attribution": "Fred Jehle"
+}

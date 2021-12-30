@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "nacer",
+  "gerundio": "naciendo",
+  "participioPasado": "nacido",
+  "indicativo": {
+    "presente": {
+      "yo": "nazco",
+      "tu": "naces",
+      "ud": "nace",
+      "nosotros": "nacemos",
+      "vosotros": "nacéis",
+      "uds": "nacen"
+    },
+    "futuro": {
+      "yo": "naceré",
+      "tu": "nacerás",
+      "ud": "nacerá",
+      "nosotros": "naceremos",
+      "vosotros": "naceréis",
+      "uds": "nacerán"
+    },
+    "imperfecto": {
+      "yo": "nacía",
+      "tu": "nacías",
+      "ud": "nacía",
+      "nosotros": "nacíamos",
+      "vosotros": "nacíais",
+      "uds": "nacían"
+    },
+    "preterito": {
+      "yo": "nací",
+      "tu": "naciste",
+      "ud": "nació",
+      "nosotros": "nacimos",
+      "vosotros": "nacisteis",
+      "uds": "nacieron"
+    },
+    "condicional": {
+      "yo": "nacería",
+      "tu": "nacerías",
+      "ud": "nacería",
+      "nosotros": "naceríamos",
+      "vosotros": "naceríais",
+      "uds": "nacerían"
+    },
+    "presentePerfecto": {
+      "yo": "he nacido",
+      "tu": "has nacido",
+      "ud": "ha nacido",
+      "nosotros": "hemos nacido",
+      "vosotros": "habéis nacido",
+      "uds": "han nacido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré nacido",
+      "tu": "habrás nacido",
+      "ud": "habrá nacido",
+      "nosotros": "habremos nacido",
+      "vosotros": "habréis nacido",
+      "uds": "habrán nacido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había nacido",
+      "tu": "habías nacido",
+      "ud": "había nacido",
+      "nosotros": "habíamos nacido",
+      "vosotros": "habíais nacido",
+      "uds": "habían nacido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube nacido",
+      "tu": "hubiste nacido",
+      "ud": "hubo nacido",
+      "nosotros": "hubimos nacido",
+      "vosotros": "hubisteis nacido",
+      "uds": "hubieron nacido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría nacido",
+      "tu": "habrías nacido",
+      "ud": "habría nacido",
+      "nosotros": "habríamos nacido",
+      "vosotros": "habríais nacido",
+      "uds": "habrían nacido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "nazca",
+      "tu": "nazcas",
+      "ud": "nazca",
+      "nosotros": "nazcamos",
+      "vosotros": "nazcáis",
+      "uds": "nazcan"
+    },
+    "imperfecto": {
+      "yo": "naciera",
+      "tu": "nacieras",
+      "ud": "naciera",
+      "nosotros": "naciéramos",
+      "vosotros": "nacierais",
+      "uds": "nacieran"
+    },
+    "futuro": {
+      "yo": "naciere",
+      "tu": "nacieres",
+      "ud": "naciere",
+      "nosotros": "naciéremos",
+      "vosotros": "naciereis",
+      "uds": "nacieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya nacido",
+      "tu": "hayas nacido",
+      "ud": "haya nacido",
+      "nosotros": "hayamos nacido",
+      "vosotros": "hayáis nacido",
+      "uds": "hayan nacido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere nacido",
+      "tu": "hubieres nacido",
+      "ud": "hubiere nacido",
+      "nosotros": "hubiéremos nacido",
+      "vosotros": "hubiereis nacido",
+      "uds": "hubieren nacido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera nacido",
+      "tu": "hubieras nacido",
+      "ud": "hubiera nacido",
+      "nosotros": "hubiéramos nacido",
+      "vosotros": "hubierais nacido",
+      "uds": "hubieran nacido"
+    },
+    "imperfectoAlt": {
+      "yo": "naciese",
+      "tu": "nacieses",
+      "ud": "naciese",
+      "nosotros": "naciésemos",
+      "vosotros": "nacieseis",
+      "uds": "naciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese nacido",
+      "tu": "hubieses nacido",
+      "ud": "hubiese nacido",
+      "nosotros": "hubiésemos nacido",
+      "vosotros": "hubieseis nacido",
+      "uds": "hubiesen nacido"
+    }
+  },
+  "afirmativo": {
+    "tu": "nace",
+    "vosotros": "naced",
+    "ud": "nazca",
+    "uds": "nazcan"
+  },
+  "negativo": {
+    "tu": "no nazcas",
+    "vosotros": "no nazcáis",
+    "ud": "no nazca",
+    "uds": "no nazcan"
+  },
+  "english": {
+    "note": "Formas irregulares: nazco, nazca, nazcas, etc.",
+    "infinitivo": "to be born",
+    "gerundio": "being born",
+    "participioPasado": "(been) born",
+    "indicativo": {
+      "presente": "I am born, am being born",
+      "futuro": "I will be born",
+      "imperfecto": "I was being born, used to be born, was born",
+      "preterito": "I was born",
+      "condicional": "I would be born",
+      "presentePerfecto": "I have been born",
+      "futuroPerfecto": "I will have been born",
+      "pluscuamperfecto": "I had been born",
+      "preteritoAnterior": "I had been born",
+      "condicionalPerfecto": "I would have been born"
+    },
+    "subjuntivo": {
+      "presente": "I am born, am being born",
+      "imperfecto": "I was born, was being born",
+      "futuro": "I will be born",
+      "presentePerfecto": "I have been born, was born",
+      "futuroPerfecto": "I will have been born",
+      "pluscuamperfecto": "I had been born"
+    },
+    "afirmativo": "Be born!",
+    "negativo": "Don't be born!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "mantener",
+  "gerundio": "manteniendo",
+  "participioPasado": "mantenido",
+  "indicativo": {
+    "presente": {
+      "yo": "mantengo",
+      "tu": "mantienes",
+      "ud": "mantiene",
+      "nosotros": "mantenemos",
+      "vosotros": "mantenéis",
+      "uds": "mantienen"
+    },
+    "futuro": {
+      "yo": "mantendré",
+      "tu": "mantendrás",
+      "ud": "mantendrá",
+      "nosotros": "mantendremos",
+      "vosotros": "mantendréis",
+      "uds": "mantendrán"
+    },
+    "imperfecto": {
+      "yo": "mantenía",
+      "tu": "mantenías",
+      "ud": "mantenía",
+      "nosotros": "manteníamos",
+      "vosotros": "manteníais",
+      "uds": "mantenían"
+    },
+    "preterito": {
+      "yo": "mantuve",
+      "tu": "mantuviste",
+      "ud": "mantuvo",
+      "nosotros": "mantuvimos",
+      "vosotros": "mantuvisteis",
+      "uds": "mantuvieron"
+    },
+    "condicional": {
+      "yo": "mantendría",
+      "tu": "mantendrías",
+      "ud": "mantendría",
+      "nosotros": "mantendríamos",
+      "vosotros": "mantendríais",
+      "uds": "mantendrían"
+    },
+    "presentePerfecto": {
+      "yo": "he mantenido",
+      "tu": "has mantenido",
+      "ud": "ha mantenido",
+      "nosotros": "hemos mantenido",
+      "vosotros": "habéis mantenido",
+      "uds": "han mantenido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré mantenido",
+      "tu": "habrás mantenido",
+      "ud": "habrá mantenido",
+      "nosotros": "habremos mantenido",
+      "vosotros": "habréis mantenido",
+      "uds": "habrán mantenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había mantenido",
+      "tu": "habías mantenido",
+      "ud": "había mantenido",
+      "nosotros": "habíamos mantenido",
+      "vosotros": "habíais mantenido",
+      "uds": "habían mantenido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube mantenido",
+      "tu": "hubiste mantenido",
+      "ud": "hubo mantenido",
+      "nosotros": "hubimos mantenido",
+      "vosotros": "hubisteis mantenido",
+      "uds": "hubieron mantenido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría mantenido",
+      "tu": "habrías mantenido",
+      "ud": "habría mantenido",
+      "nosotros": "habríamos mantenido",
+      "vosotros": "habríais mantenido",
+      "uds": "habrían mantenido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "mantenga",
+      "tu": "mantengas",
+      "ud": "mantenga",
+      "nosotros": "mantengamos",
+      "vosotros": "mantengáis",
+      "uds": "mantengan"
+    },
+    "imperfecto": {
+      "yo": "mantuviera",
+      "tu": "mantuvieras",
+      "ud": "mantuviera",
+      "nosotros": "mantuviéramos",
+      "vosotros": "mantuvierais",
+      "uds": "mantuvieran"
+    },
+    "futuro": {
+      "yo": "mantuviere",
+      "tu": "mantuvieres",
+      "ud": "mantuviere",
+      "nosotros": "mantuviéremos",
+      "vosotros": "mantuviereis",
+      "uds": "mantuvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya mantenido",
+      "tu": "hayas mantenido",
+      "ud": "haya mantenido",
+      "nosotros": "hayamos mantenido",
+      "vosotros": "hayáis mantenido",
+      "uds": "hayan mantenido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere mantenido",
+      "tu": "hubieres mantenido",
+      "ud": "hubiere mantenido",
+      "nosotros": "hubiéremos mantenido",
+      "vosotros": "hubiereis mantenido",
+      "uds": "hubieren mantenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera mantenido",
+      "tu": "hubieras mantenido",
+      "ud": "hubiera mantenido",
+      "nosotros": "hubiéramos mantenido",
+      "vosotros": "hubierais mantenido",
+      "uds": "hubieran mantenido"
+    },
+    "imperfectoAlt": {
+      "yo": "mantuviese",
+      "tu": "mantuvieses",
+      "ud": "mantuviese",
+      "nosotros": "mantuviésemos",
+      "vosotros": "mantuvieseis",
+      "uds": "mantuviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese mantenido",
+      "tu": "hubieses mantenido",
+      "ud": "hubiese mantenido",
+      "nosotros": "hubiésemos mantenido",
+      "vosotros": "hubieseis mantenido",
+      "uds": "hubiesen mantenido"
+    }
+  },
+  "afirmativo": {
+    "tu": "mantén",
+    "vosotros": "mantened",
+    "ud": "mantenga",
+    "uds": "mantengan"
+  },
+  "negativo": {
+    "tu": "no mantengas",
+    "vosotros": "no mantengáis",
+    "ud": "no mantenga",
+    "uds": "no mantengan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie. Formas irregulares: mantengo, mantenga, mantengas, etc. Radical irregular en el futuro y condicional: mantendr-. Radical fuerte en el pretérito: mantuv-. Mandato familiar singular irregular: mantén.",
+    "infinitivo": "to maintain, get",
+    "gerundio": "maintaining",
+    "participioPasado": "maintained",
+    "indicativo": {
+      "presente": "I maintain, am maintaining",
+      "futuro": "I will maintain",
+      "imperfecto": "I was maintaining, used to maintain, maintained",
+      "preterito": "I maintained",
+      "condicional": "I would maintain",
+      "presentePerfecto": "I have maintained",
+      "futuroPerfecto": "I will have maintained",
+      "pluscuamperfecto": "I had maintained",
+      "preteritoAnterior": "I had maintained",
+      "condicionalPerfecto": "I would have maintained"
+    },
+    "subjuntivo": {
+      "presente": "I maintain, am maintaining",
+      "imperfecto": "I maintained, was maintaining",
+      "futuro": "I will maintain",
+      "presentePerfecto": "I have maintained, maintained",
+      "futuroPerfecto": "I will have maintained",
+      "pluscuamperfecto": "I had maintained"
+    },
+    "afirmativo": "Maintain!",
+    "negativo": "Don't maintain!"
+  },
+  "attribution": "Fred Jehle"
+}

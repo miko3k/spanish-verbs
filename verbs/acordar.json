@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "acordar",
+  "gerundio": "acordando",
+  "participioPasado": "acordado",
+  "indicativo": {
+    "presente": {
+      "yo": "acuerdo",
+      "tu": "acuerdas",
+      "ud": "acuerda",
+      "nosotros": "acordamos",
+      "vosotros": "acordáis",
+      "uds": "acuerdan"
+    },
+    "futuro": {
+      "yo": "acordaré",
+      "tu": "acordarás",
+      "ud": "acordará",
+      "nosotros": "acordaremos",
+      "vosotros": "acordaréis",
+      "uds": "acordarán"
+    },
+    "imperfecto": {
+      "yo": "acordaba",
+      "tu": "acordabas",
+      "ud": "acordaba",
+      "nosotros": "acordábamos",
+      "vosotros": "acordabais",
+      "uds": "acordaban"
+    },
+    "preterito": {
+      "yo": "acordé",
+      "tu": "acordaste",
+      "ud": "acordó",
+      "nosotros": "acordamos",
+      "vosotros": "acordasteis",
+      "uds": "acordaron"
+    },
+    "condicional": {
+      "yo": "acordaría",
+      "tu": "acordarías",
+      "ud": "acordaría",
+      "nosotros": "acordaríamos",
+      "vosotros": "acordaríais",
+      "uds": "acordarían"
+    },
+    "presentePerfecto": {
+      "yo": "he acordado",
+      "tu": "has acordado",
+      "ud": "ha acordado",
+      "nosotros": "hemos acordado",
+      "vosotros": "habéis acordado",
+      "uds": "han acordado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré acordado",
+      "tu": "habrás acordado",
+      "ud": "habrá acordado",
+      "nosotros": "habremos acordado",
+      "vosotros": "habréis acordado",
+      "uds": "habrán acordado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había acordado",
+      "tu": "habías acordado",
+      "ud": "había acordado",
+      "nosotros": "habíamos acordado",
+      "vosotros": "habíais acordado",
+      "uds": "habían acordado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube acordado",
+      "tu": "hubiste acordado",
+      "ud": "hubo acordado",
+      "nosotros": "hubimos acordado",
+      "vosotros": "hubisteis acordado",
+      "uds": "hubieron acordado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría acordado",
+      "tu": "habrías acordado",
+      "ud": "habría acordado",
+      "nosotros": "habríamos acordado",
+      "vosotros": "habríais acordado",
+      "uds": "habrían acordado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "acuerde",
+      "tu": "acuerdes",
+      "ud": "acuerde",
+      "nosotros": "acordemos",
+      "vosotros": "acordéis",
+      "uds": "acuerden"
+    },
+    "imperfecto": {
+      "yo": "acordara",
+      "tu": "acordaras",
+      "ud": "acordara",
+      "nosotros": "acordáramos",
+      "vosotros": "acordarais",
+      "uds": "acordaran"
+    },
+    "futuro": {
+      "yo": "acordare",
+      "tu": "acordares",
+      "ud": "acordare",
+      "nosotros": "acordáremos",
+      "vosotros": "acordareis",
+      "uds": "acordaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya acordado",
+      "tu": "hayas acordado",
+      "ud": "haya acordado",
+      "nosotros": "hayamos acordado",
+      "vosotros": "hayáis acordado",
+      "uds": "hayan acordado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere acordado",
+      "tu": "hubieres acordado",
+      "ud": "hubiere acordado",
+      "nosotros": "hubiéremos acordado",
+      "vosotros": "hubiereis acordado",
+      "uds": "hubieren acordado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera acordado",
+      "tu": "hubieras acordado",
+      "ud": "hubiera acordado",
+      "nosotros": "hubiéramos acordado",
+      "vosotros": "hubierais acordado",
+      "uds": "hubieran acordado"
+    },
+    "imperfectoAlt": {
+      "yo": "acordase",
+      "tu": "acordases",
+      "ud": "acordase",
+      "nosotros": "acordásemos",
+      "vosotros": "acordaseis",
+      "uds": "acordasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese acordado",
+      "tu": "hubieses acordado",
+      "ud": "hubiese acordado",
+      "nosotros": "hubiésemos acordado",
+      "vosotros": "hubieseis acordado",
+      "uds": "hubiesen acordado"
+    }
+  },
+  "afirmativo": {
+    "tu": "acuerda",
+    "vosotros": "acordad",
+    "ud": "acuerde",
+    "uds": "acuerden"
+  },
+  "negativo": {
+    "tu": "no acuerdes",
+    "vosotros": "no acordéis",
+    "ud": "no acuerde",
+    "uds": "no acuerden"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Note: The reflexive form acordarse means to remember.",
+    "infinitivo": "to decide, resolve, agree (on)",
+    "gerundio": "deciding",
+    "participioPasado": "decided",
+    "indicativo": {
+      "presente": "I decide, am deciding",
+      "futuro": "I will decide",
+      "imperfecto": "I was deciding, used to decide, decided",
+      "preterito": "I decided",
+      "condicional": "I would decide",
+      "presentePerfecto": "I have decided",
+      "futuroPerfecto": "I will have decided",
+      "pluscuamperfecto": "I had decided",
+      "preteritoAnterior": "I had decided",
+      "condicionalPerfecto": "I would have decided"
+    },
+    "subjuntivo": {
+      "presente": "I decide, am deciding",
+      "imperfecto": "I decided, was deciding",
+      "futuro": "I will decide",
+      "presentePerfecto": "I have decided, decided",
+      "futuroPerfecto": "I will have decided",
+      "pluscuamperfecto": "I had decided"
+    },
+    "afirmativo": "Decide!",
+    "negativo": "Don't decide!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "aparecer",
+  "gerundio": "apareciendo",
+  "participioPasado": "aparecido",
+  "indicativo": {
+    "presente": {
+      "yo": "aparezco",
+      "tu": "apareces",
+      "ud": "aparece",
+      "nosotros": "aparecemos",
+      "vosotros": "aparecéis",
+      "uds": "aparecen"
+    },
+    "futuro": {
+      "yo": "apareceré",
+      "tu": "aparecerás",
+      "ud": "aparecerá",
+      "nosotros": "apareceremos",
+      "vosotros": "apareceréis",
+      "uds": "aparecerán"
+    },
+    "imperfecto": {
+      "yo": "aparecía",
+      "tu": "aparecías",
+      "ud": "aparecía",
+      "nosotros": "aparecíamos",
+      "vosotros": "aparecíais",
+      "uds": "aparecían"
+    },
+    "preterito": {
+      "yo": "aparecí",
+      "tu": "apareciste",
+      "ud": "apareció",
+      "nosotros": "aparecimos",
+      "vosotros": "aparecisteis",
+      "uds": "aparecieron"
+    },
+    "condicional": {
+      "yo": "aparecería",
+      "tu": "aparecerías",
+      "ud": "aparecería",
+      "nosotros": "apareceríamos",
+      "vosotros": "apareceríais",
+      "uds": "aparecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he aparecido",
+      "tu": "has aparecido",
+      "ud": "ha aparecido",
+      "nosotros": "hemos aparecido",
+      "vosotros": "habéis aparecido",
+      "uds": "han aparecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré aparecido",
+      "tu": "habrás aparecido",
+      "ud": "habrá aparecido",
+      "nosotros": "habremos aparecido",
+      "vosotros": "habréis aparecido",
+      "uds": "habrán aparecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había aparecido",
+      "tu": "habías aparecido",
+      "ud": "había aparecido",
+      "nosotros": "habíamos aparecido",
+      "vosotros": "habíais aparecido",
+      "uds": "habían aparecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube aparecido",
+      "tu": "hubiste aparecido",
+      "ud": "hubo aparecido",
+      "nosotros": "hubimos aparecido",
+      "vosotros": "hubisteis aparecido",
+      "uds": "hubieron aparecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría aparecido",
+      "tu": "habrías aparecido",
+      "ud": "habría aparecido",
+      "nosotros": "habríamos aparecido",
+      "vosotros": "habríais aparecido",
+      "uds": "habrían aparecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aparezca",
+      "tu": "aparezcas",
+      "ud": "aparezca",
+      "nosotros": "aparezcamos",
+      "vosotros": "aparezcáis",
+      "uds": "aparezcan"
+    },
+    "imperfecto": {
+      "yo": "apareciera",
+      "tu": "aparecieras",
+      "ud": "apareciera",
+      "nosotros": "apareciéramos",
+      "vosotros": "aparecierais",
+      "uds": "aparecieran"
+    },
+    "futuro": {
+      "yo": "apareciere",
+      "tu": "aparecieres",
+      "ud": "apareciere",
+      "nosotros": "apareciéremos",
+      "vosotros": "apareciereis",
+      "uds": "aparecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya aparecido",
+      "tu": "hayas aparecido",
+      "ud": "haya aparecido",
+      "nosotros": "hayamos aparecido",
+      "vosotros": "hayáis aparecido",
+      "uds": "hayan aparecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere aparecido",
+      "tu": "hubieres aparecido",
+      "ud": "hubiere aparecido",
+      "nosotros": "hubiéremos aparecido",
+      "vosotros": "hubiereis aparecido",
+      "uds": "hubieren aparecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera aparecido",
+      "tu": "hubieras aparecido",
+      "ud": "hubiera aparecido",
+      "nosotros": "hubiéramos aparecido",
+      "vosotros": "hubierais aparecido",
+      "uds": "hubieran aparecido"
+    },
+    "imperfectoAlt": {
+      "yo": "apareciese",
+      "tu": "aparecieses",
+      "ud": "apareciese",
+      "nosotros": "apareciésemos",
+      "vosotros": "aparecieseis",
+      "uds": "apareciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese aparecido",
+      "tu": "hubieses aparecido",
+      "ud": "hubiese aparecido",
+      "nosotros": "hubiésemos aparecido",
+      "vosotros": "hubieseis aparecido",
+      "uds": "hubiesen aparecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "aparece",
+    "vosotros": "apareced",
+    "ud": "aparezca",
+    "uds": "aparezcan"
+  },
+  "negativo": {
+    "tu": "no aparezcas",
+    "vosotros": "no aparezcáis",
+    "ud": "no aparezca",
+    "uds": "no aparezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: aparezco, aparezca, aparezcas, etc. Note: For appear in the sense of to seem, use parecer.",
+    "infinitivo": "to appear (i.e., make an appearance)",
+    "gerundio": "appearing",
+    "participioPasado": "appeared",
+    "indicativo": {
+      "presente": "I appear, am appearing",
+      "futuro": "I will appear",
+      "imperfecto": "I was appearing, used to appear, appeared",
+      "preterito": "I appeared",
+      "condicional": "I would appear",
+      "presentePerfecto": "I have appeared",
+      "futuroPerfecto": "I will have appeared",
+      "pluscuamperfecto": "I had appeared",
+      "preteritoAnterior": "I had appeared",
+      "condicionalPerfecto": "I would have appeared"
+    },
+    "subjuntivo": {
+      "presente": "I appear, am appearing",
+      "imperfecto": "I appeared, was appearing",
+      "futuro": "I will appear",
+      "presentePerfecto": "I have appeared, appeared",
+      "futuroPerfecto": "I will have appeared",
+      "pluscuamperfecto": "I had appeared"
+    },
+    "afirmativo": "Appear!",
+    "negativo": "Don't appear!"
+  },
+  "attribution": "Fred Jehle"
+}

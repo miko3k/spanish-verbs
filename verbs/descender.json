@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "descender",
+  "gerundio": "descendiendo",
+  "participioPasado": "descendido",
+  "indicativo": {
+    "presente": {
+      "yo": "desciendo",
+      "tu": "desciendes",
+      "ud": "desciende",
+      "nosotros": "descendemos",
+      "vosotros": "descendéis",
+      "uds": "descienden"
+    },
+    "futuro": {
+      "yo": "descenderé",
+      "tu": "descenderás",
+      "ud": "descenderá",
+      "nosotros": "descenderemos",
+      "vosotros": "descenderéis",
+      "uds": "descenderán"
+    },
+    "imperfecto": {
+      "yo": "descendía",
+      "tu": "descendías",
+      "ud": "descendía",
+      "nosotros": "descendíamos",
+      "vosotros": "descendíais",
+      "uds": "descendían"
+    },
+    "preterito": {
+      "yo": "descendí",
+      "tu": "descendiste",
+      "ud": "descendió",
+      "nosotros": "descendimos",
+      "vosotros": "descendisteis",
+      "uds": "descendieron"
+    },
+    "condicional": {
+      "yo": "descendería",
+      "tu": "descenderías",
+      "ud": "descendería",
+      "nosotros": "descenderíamos",
+      "vosotros": "descenderíais",
+      "uds": "descenderían"
+    },
+    "presentePerfecto": {
+      "yo": "he descendido",
+      "tu": "has descendido",
+      "ud": "ha descendido",
+      "nosotros": "hemos descendido",
+      "vosotros": "habéis descendido",
+      "uds": "han descendido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré descendido",
+      "tu": "habrás descendido",
+      "ud": "habrá descendido",
+      "nosotros": "habremos descendido",
+      "vosotros": "habréis descendido",
+      "uds": "habrán descendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había descendido",
+      "tu": "habías descendido",
+      "ud": "había descendido",
+      "nosotros": "habíamos descendido",
+      "vosotros": "habíais descendido",
+      "uds": "habían descendido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube descendido",
+      "tu": "hubiste descendido",
+      "ud": "hubo descendido",
+      "nosotros": "hubimos descendido",
+      "vosotros": "hubisteis descendido",
+      "uds": "hubieron descendido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría descendido",
+      "tu": "habrías descendido",
+      "ud": "habría descendido",
+      "nosotros": "habríamos descendido",
+      "vosotros": "habríais descendido",
+      "uds": "habrían descendido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "descienda",
+      "tu": "desciendas",
+      "ud": "descienda",
+      "nosotros": "descendamos",
+      "vosotros": "descendáis",
+      "uds": "desciendan"
+    },
+    "imperfecto": {
+      "yo": "descendiera",
+      "tu": "descendieras",
+      "ud": "descendiera",
+      "nosotros": "descendiéramos",
+      "vosotros": "descendierais",
+      "uds": "descendieran"
+    },
+    "futuro": {
+      "yo": "descendiere",
+      "tu": "descendieres",
+      "ud": "descendiere",
+      "nosotros": "descendiéremos",
+      "vosotros": "descendiereis",
+      "uds": "descendieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya descendido",
+      "tu": "hayas descendido",
+      "ud": "haya descendido",
+      "nosotros": "hayamos descendido",
+      "vosotros": "hayáis descendido",
+      "uds": "hayan descendido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere descendido",
+      "tu": "hubieres descendido",
+      "ud": "hubiere descendido",
+      "nosotros": "hubiéremos descendido",
+      "vosotros": "hubiereis descendido",
+      "uds": "hubieren descendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera descendido",
+      "tu": "hubieras descendido",
+      "ud": "hubiera descendido",
+      "nosotros": "hubiéramos descendido",
+      "vosotros": "hubierais descendido",
+      "uds": "hubieran descendido"
+    },
+    "imperfectoAlt": {
+      "yo": "descendiese",
+      "tu": "descendieses",
+      "ud": "descendiese",
+      "nosotros": "descendiésemos",
+      "vosotros": "descendieseis",
+      "uds": "descendiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese descendido",
+      "tu": "hubieses descendido",
+      "ud": "hubiese descendido",
+      "nosotros": "hubiésemos descendido",
+      "vosotros": "hubieseis descendido",
+      "uds": "hubiesen descendido"
+    }
+  },
+  "afirmativo": {
+    "tu": "desciende",
+    "vosotros": "descended",
+    "ud": "descienda",
+    "uds": "desciendan"
+  },
+  "negativo": {
+    "tu": "no desciendas",
+    "vosotros": "no descendáis",
+    "ud": "no descienda",
+    "uds": "no desciendan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa.",
+    "infinitivo": "to descend, lower",
+    "gerundio": "descending",
+    "participioPasado": "descended",
+    "indicativo": {
+      "presente": "I descend, am descending",
+      "futuro": "I will descend",
+      "imperfecto": "I was descending, used to descend, descended",
+      "preterito": "I descended",
+      "condicional": "I would descend",
+      "presentePerfecto": "I have descended",
+      "futuroPerfecto": "I will have descended",
+      "pluscuamperfecto": "I had descended",
+      "preteritoAnterior": "I had descended",
+      "condicionalPerfecto": "I would have descended"
+    },
+    "subjuntivo": {
+      "presente": "I descend, am descending",
+      "imperfecto": "I descended, was descending",
+      "futuro": "I will descend",
+      "presentePerfecto": "I have descended, descended",
+      "futuroPerfecto": "I will have descended",
+      "pluscuamperfecto": "I had descended"
+    },
+    "afirmativo": "Descend!",
+    "negativo": "Don't descend!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "volar",
+  "gerundio": "volando",
+  "participioPasado": "volado",
+  "indicativo": {
+    "presente": {
+      "yo": "vuelo",
+      "tu": "vuelas",
+      "ud": "vuela",
+      "nosotros": "volamos",
+      "vosotros": "voláis",
+      "uds": "vuelan"
+    },
+    "futuro": {
+      "yo": "volaré",
+      "tu": "volarás",
+      "ud": "volará",
+      "nosotros": "volaremos",
+      "vosotros": "volaréis",
+      "uds": "volarán"
+    },
+    "imperfecto": {
+      "yo": "volaba",
+      "tu": "volabas",
+      "ud": "volaba",
+      "nosotros": "volábamos",
+      "vosotros": "volabais",
+      "uds": "volaban"
+    },
+    "preterito": {
+      "yo": "volé",
+      "tu": "volaste",
+      "ud": "voló",
+      "nosotros": "volamos",
+      "vosotros": "volasteis",
+      "uds": "volaron"
+    },
+    "condicional": {
+      "yo": "volaría",
+      "tu": "volarías",
+      "ud": "volaría",
+      "nosotros": "volaríamos",
+      "vosotros": "volaríais",
+      "uds": "volarían"
+    },
+    "presentePerfecto": {
+      "yo": "he volado",
+      "tu": "has volado",
+      "ud": "ha volado",
+      "nosotros": "hemos volado",
+      "vosotros": "habéis volado",
+      "uds": "han volado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré volado",
+      "tu": "habrás volado",
+      "ud": "habrá volado",
+      "nosotros": "habremos volado",
+      "vosotros": "habréis volado",
+      "uds": "habrán volado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había volado",
+      "tu": "habías volado",
+      "ud": "había volado",
+      "nosotros": "habíamos volado",
+      "vosotros": "habíais volado",
+      "uds": "habían volado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube volado",
+      "tu": "hubiste volado",
+      "ud": "hubo volado",
+      "nosotros": "hubimos volado",
+      "vosotros": "hubisteis volado",
+      "uds": "hubieron volado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría volado",
+      "tu": "habrías volado",
+      "ud": "habría volado",
+      "nosotros": "habríamos volado",
+      "vosotros": "habríais volado",
+      "uds": "habrían volado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "vuele",
+      "tu": "vueles",
+      "ud": "vuele",
+      "nosotros": "volemos",
+      "vosotros": "voléis",
+      "uds": "vuelen"
+    },
+    "imperfecto": {
+      "yo": "volara",
+      "tu": "volaras",
+      "ud": "volara",
+      "nosotros": "voláramos",
+      "vosotros": "volarais",
+      "uds": "volaran"
+    },
+    "futuro": {
+      "yo": "volare",
+      "tu": "volares",
+      "ud": "volare",
+      "nosotros": "voláremos",
+      "vosotros": "volareis",
+      "uds": "volaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya volado",
+      "tu": "hayas volado",
+      "ud": "haya volado",
+      "nosotros": "hayamos volado",
+      "vosotros": "hayáis volado",
+      "uds": "hayan volado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere volado",
+      "tu": "hubieres volado",
+      "ud": "hubiere volado",
+      "nosotros": "hubiéremos volado",
+      "vosotros": "hubiereis volado",
+      "uds": "hubieren volado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera volado",
+      "tu": "hubieras volado",
+      "ud": "hubiera volado",
+      "nosotros": "hubiéramos volado",
+      "vosotros": "hubierais volado",
+      "uds": "hubieran volado"
+    },
+    "imperfectoAlt": {
+      "yo": "volase",
+      "tu": "volases",
+      "ud": "volase",
+      "nosotros": "volásemos",
+      "vosotros": "volaseis",
+      "uds": "volasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese volado",
+      "tu": "hubieses volado",
+      "ud": "hubiese volado",
+      "nosotros": "hubiésemos volado",
+      "vosotros": "hubieseis volado",
+      "uds": "hubiesen volado"
+    }
+  },
+  "afirmativo": {
+    "tu": "vuela",
+    "vosotros": "volad",
+    "ud": "vuele",
+    "uds": "vuelen"
+  },
+  "negativo": {
+    "tu": "no vueles",
+    "vosotros": "no voléis",
+    "ud": "no vuele",
+    "uds": "no vuelen"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue.",
+    "infinitivo": "to fly",
+    "gerundio": "flying",
+    "participioPasado": "flown",
+    "indicativo": {
+      "presente": "I fly, am flying",
+      "futuro": "I will fly",
+      "imperfecto": "I was flying, used to fly, flew",
+      "preterito": "I flew",
+      "condicional": "I would fly",
+      "presentePerfecto": "I have flown",
+      "futuroPerfecto": "I will have flown",
+      "pluscuamperfecto": "I had flown",
+      "preteritoAnterior": "I had flown",
+      "condicionalPerfecto": "I would have flown"
+    },
+    "subjuntivo": {
+      "presente": "I fly, am flying",
+      "imperfecto": "I flew, was flying",
+      "futuro": "I will fly",
+      "presentePerfecto": "I have flown, flew",
+      "futuroPerfecto": "I will have flown",
+      "pluscuamperfecto": "I had flown"
+    },
+    "afirmativo": "Fly!",
+    "negativo": "Don't fly!"
+  },
+  "attribution": "Fred Jehle"
+}

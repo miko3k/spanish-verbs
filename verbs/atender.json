@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "atender",
+  "gerundio": "atendiendo",
+  "participioPasado": "atendido",
+  "indicativo": {
+    "presente": {
+      "yo": "atiendo",
+      "tu": "atiendes",
+      "ud": "atiende",
+      "nosotros": "atendemos",
+      "vosotros": "atendéis",
+      "uds": "atienden"
+    },
+    "futuro": {
+      "yo": "atenderé",
+      "tu": "atenderás",
+      "ud": "atenderá",
+      "nosotros": "atenderemos",
+      "vosotros": "atenderéis",
+      "uds": "atenderán"
+    },
+    "imperfecto": {
+      "yo": "atendía",
+      "tu": "atendías",
+      "ud": "atendía",
+      "nosotros": "atendíamos",
+      "vosotros": "atendíais",
+      "uds": "atendían"
+    },
+    "preterito": {
+      "yo": "atendí",
+      "tu": "atendiste",
+      "ud": "atendió",
+      "nosotros": "atendimos",
+      "vosotros": "atendisteis",
+      "uds": "atendieron"
+    },
+    "condicional": {
+      "yo": "atendería",
+      "tu": "atenderías",
+      "ud": "atendería",
+      "nosotros": "atenderíamos",
+      "vosotros": "atenderíais",
+      "uds": "atenderían"
+    },
+    "presentePerfecto": {
+      "yo": "he atendido",
+      "tu": "has atendido",
+      "ud": "ha atendido",
+      "nosotros": "hemos atendido",
+      "vosotros": "habéis atendido",
+      "uds": "han atendido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré atendido",
+      "tu": "habrás atendido",
+      "ud": "habrá atendido",
+      "nosotros": "habremos atendido",
+      "vosotros": "habréis atendido",
+      "uds": "habrán atendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había atendido",
+      "tu": "habías atendido",
+      "ud": "había atendido",
+      "nosotros": "habíamos atendido",
+      "vosotros": "habíais atendido",
+      "uds": "habían atendido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube atendido",
+      "tu": "hubiste atendido",
+      "ud": "hubo atendido",
+      "nosotros": "hubimos atendido",
+      "vosotros": "hubisteis atendido",
+      "uds": "hubieron atendido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría atendido",
+      "tu": "habrías atendido",
+      "ud": "habría atendido",
+      "nosotros": "habríamos atendido",
+      "vosotros": "habríais atendido",
+      "uds": "habrían atendido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "atienda",
+      "tu": "atiendas",
+      "ud": "atienda",
+      "nosotros": "atendamos",
+      "vosotros": "atendáis",
+      "uds": "atiendan"
+    },
+    "imperfecto": {
+      "yo": "atendiera",
+      "tu": "atendieras",
+      "ud": "atendiera",
+      "nosotros": "atendiéramos",
+      "vosotros": "atendierais",
+      "uds": "atendieran"
+    },
+    "futuro": {
+      "yo": "atendiere",
+      "tu": "atendieres",
+      "ud": "atendiere",
+      "nosotros": "atendiéremos",
+      "vosotros": "atendiereis",
+      "uds": "atendieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya atendido",
+      "tu": "hayas atendido",
+      "ud": "haya atendido",
+      "nosotros": "hayamos atendido",
+      "vosotros": "hayáis atendido",
+      "uds": "hayan atendido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere atendido",
+      "tu": "hubieres atendido",
+      "ud": "hubiere atendido",
+      "nosotros": "hubiéremos atendido",
+      "vosotros": "hubiereis atendido",
+      "uds": "hubieren atendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera atendido",
+      "tu": "hubieras atendido",
+      "ud": "hubiera atendido",
+      "nosotros": "hubiéramos atendido",
+      "vosotros": "hubierais atendido",
+      "uds": "hubieran atendido"
+    },
+    "imperfectoAlt": {
+      "yo": "atendiese",
+      "tu": "atendieses",
+      "ud": "atendiese",
+      "nosotros": "atendiésemos",
+      "vosotros": "atendieseis",
+      "uds": "atendiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese atendido",
+      "tu": "hubieses atendido",
+      "ud": "hubiese atendido",
+      "nosotros": "hubiésemos atendido",
+      "vosotros": "hubieseis atendido",
+      "uds": "hubiesen atendido"
+    }
+  },
+  "afirmativo": {
+    "tu": "atiende",
+    "vosotros": "atended",
+    "ud": "atienda",
+    "uds": "atiendan"
+  },
+  "negativo": {
+    "tu": "no atiendas",
+    "vosotros": "no atendáis",
+    "ud": "no atienda",
+    "uds": "no atiendan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa. Note: For attend in the sense of to attend an event such as a meeting, use the verb asistir.",
+    "infinitivo": "to attend to, pay attention to",
+    "gerundio": "attending to",
+    "participioPasado": "attended to",
+    "indicativo": {
+      "presente": "I attend to, am attending to",
+      "futuro": "I will attend to",
+      "imperfecto": "I was attending to, used to attend to, attended to",
+      "preterito": "I attended to",
+      "condicional": "I would attend to",
+      "presentePerfecto": "I have attended to",
+      "futuroPerfecto": "I will have attended to",
+      "pluscuamperfecto": "I had attended to",
+      "preteritoAnterior": "I had attended to",
+      "condicionalPerfecto": "I would have attended to"
+    },
+    "subjuntivo": {
+      "presente": "I attend to, am attending to",
+      "imperfecto": "I attended to, was attending to",
+      "futuro": "I will attend to",
+      "presentePerfecto": "I have attended to, attended to",
+      "futuroPerfecto": "I will have attended to",
+      "pluscuamperfecto": "I had attended to"
+    },
+    "afirmativo": "Attend to!",
+    "negativo": "Don't attend to!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "pedir",
+  "gerundio": "pidiendo",
+  "participioPasado": "pedido",
+  "indicativo": {
+    "presente": {
+      "yo": "pido",
+      "tu": "pides",
+      "ud": "pide",
+      "nosotros": "pedimos",
+      "vosotros": "pedís",
+      "uds": "piden"
+    },
+    "futuro": {
+      "yo": "pediré",
+      "tu": "pedirás",
+      "ud": "pedirá",
+      "nosotros": "pediremos",
+      "vosotros": "pediréis",
+      "uds": "pedirán"
+    },
+    "imperfecto": {
+      "yo": "pedía",
+      "tu": "pedías",
+      "ud": "pedía",
+      "nosotros": "pedíamos",
+      "vosotros": "pedíais",
+      "uds": "pedían"
+    },
+    "preterito": {
+      "yo": "pedí",
+      "tu": "pediste",
+      "ud": "pidió",
+      "nosotros": "pedimos",
+      "vosotros": "pedisteis",
+      "uds": "pidieron"
+    },
+    "condicional": {
+      "yo": "pediría",
+      "tu": "pedirías",
+      "ud": "pediría",
+      "nosotros": "pediríamos",
+      "vosotros": "pediríais",
+      "uds": "pedirían"
+    },
+    "presentePerfecto": {
+      "yo": "he pedido",
+      "tu": "has pedido",
+      "ud": "ha pedido",
+      "nosotros": "hemos pedido",
+      "vosotros": "habéis pedido",
+      "uds": "han pedido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré pedido",
+      "tu": "habrás pedido",
+      "ud": "habrá pedido",
+      "nosotros": "habremos pedido",
+      "vosotros": "habréis pedido",
+      "uds": "habrán pedido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había pedido",
+      "tu": "habías pedido",
+      "ud": "había pedido",
+      "nosotros": "habíamos pedido",
+      "vosotros": "habíais pedido",
+      "uds": "habían pedido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube pedido",
+      "tu": "hubiste pedido",
+      "ud": "hubo pedido",
+      "nosotros": "hubimos pedido",
+      "vosotros": "hubisteis pedido",
+      "uds": "hubieron pedido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría pedido",
+      "tu": "habrías pedido",
+      "ud": "habría pedido",
+      "nosotros": "habríamos pedido",
+      "vosotros": "habríais pedido",
+      "uds": "habrían pedido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pida",
+      "tu": "pidas",
+      "ud": "pida",
+      "nosotros": "pidamos",
+      "vosotros": "pidáis",
+      "uds": "pidan"
+    },
+    "imperfecto": {
+      "yo": "pidiera",
+      "tu": "pidieras",
+      "ud": "pidiera",
+      "nosotros": "pidiéramos",
+      "vosotros": "pidierais",
+      "uds": "pidieran"
+    },
+    "futuro": {
+      "yo": "pidiere",
+      "tu": "pidieres",
+      "ud": "pidiere",
+      "nosotros": "pidiéremos",
+      "vosotros": "pidiereis",
+      "uds": "pidieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya pedido",
+      "tu": "hayas pedido",
+      "ud": "haya pedido",
+      "nosotros": "hayamos pedido",
+      "vosotros": "hayáis pedido",
+      "uds": "hayan pedido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere pedido",
+      "tu": "hubieres pedido",
+      "ud": "hubiere pedido",
+      "nosotros": "hubiéremos pedido",
+      "vosotros": "hubiereis pedido",
+      "uds": "hubieren pedido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera pedido",
+      "tu": "hubieras pedido",
+      "ud": "hubiera pedido",
+      "nosotros": "hubiéramos pedido",
+      "vosotros": "hubierais pedido",
+      "uds": "hubieran pedido"
+    },
+    "imperfectoAlt": {
+      "yo": "pidiese",
+      "tu": "pidieses",
+      "ud": "pidiese",
+      "nosotros": "pidiésemos",
+      "vosotros": "pidieseis",
+      "uds": "pidiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese pedido",
+      "tu": "hubieses pedido",
+      "ud": "hubiese pedido",
+      "nosotros": "hubiésemos pedido",
+      "vosotros": "hubieseis pedido",
+      "uds": "hubiesen pedido"
+    }
+  },
+  "afirmativo": {
+    "tu": "pide",
+    "vosotros": "pedid",
+    "ud": "pida",
+    "uds": "pidan"
+  },
+  "negativo": {
+    "tu": "no pidas",
+    "vosotros": "no pidáis",
+    "ud": "no pida",
+    "uds": "no pidan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i.",
+    "infinitivo": "to request, ask for",
+    "gerundio": "requesting",
+    "participioPasado": "requested",
+    "indicativo": {
+      "presente": "I request, am requesting",
+      "futuro": "I will request",
+      "imperfecto": "I was requesting, used to request, requested",
+      "preterito": "I requested",
+      "condicional": "I would request",
+      "presentePerfecto": "I have requested",
+      "futuroPerfecto": "I will have requested",
+      "pluscuamperfecto": "I had requested",
+      "preteritoAnterior": "I had requested",
+      "condicionalPerfecto": "I would have requested"
+    },
+    "subjuntivo": {
+      "presente": "I request, am requesting",
+      "imperfecto": "I requested, was requesting",
+      "futuro": "I will request",
+      "presentePerfecto": "I have requested, requested",
+      "futuroPerfecto": "I will have requested",
+      "pluscuamperfecto": "I had requested"
+    },
+    "afirmativo": "Request!",
+    "negativo": "Don't request!"
+  },
+  "attribution": "Fred Jehle"
+}

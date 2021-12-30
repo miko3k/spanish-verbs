@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "limpiar",
+  "gerundio": "limpiando",
+  "participioPasado": "limpiado",
+  "indicativo": {
+    "presente": {
+      "yo": "limpio",
+      "tu": "limpias",
+      "ud": "limpia",
+      "nosotros": "limpiamos",
+      "vosotros": "limpiáis",
+      "uds": "limpian"
+    },
+    "futuro": {
+      "yo": "limpiaré",
+      "tu": "limpiarás",
+      "ud": "limpiará",
+      "nosotros": "limpiaremos",
+      "vosotros": "limpiaréis",
+      "uds": "limpiarán"
+    },
+    "imperfecto": {
+      "yo": "limpiaba",
+      "tu": "limpiabas",
+      "ud": "limpiaba",
+      "nosotros": "limpiábamos",
+      "vosotros": "limpiabais",
+      "uds": "limpiaban"
+    },
+    "preterito": {
+      "yo": "limpié",
+      "tu": "limpiaste",
+      "ud": "limpió",
+      "nosotros": "limpiamos",
+      "vosotros": "limpiasteis",
+      "uds": "limpiaron"
+    },
+    "condicional": {
+      "yo": "limpiaría",
+      "tu": "limpiarías",
+      "ud": "limpiaría",
+      "nosotros": "limpiaríamos",
+      "vosotros": "limpiaríais",
+      "uds": "limpiarían"
+    },
+    "presentePerfecto": {
+      "yo": "he limpiado",
+      "tu": "has limpiado",
+      "ud": "ha limpiado",
+      "nosotros": "hemos limpiado",
+      "vosotros": "habéis limpiado",
+      "uds": "han limpiado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré limpiado",
+      "tu": "habrás limpiado",
+      "ud": "habrá limpiado",
+      "nosotros": "habremos limpiado",
+      "vosotros": "habréis limpiado",
+      "uds": "habrán limpiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había limpiado",
+      "tu": "habías limpiado",
+      "ud": "había limpiado",
+      "nosotros": "habíamos limpiado",
+      "vosotros": "habíais limpiado",
+      "uds": "habían limpiado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube limpiado",
+      "tu": "hubiste limpiado",
+      "ud": "hubo limpiado",
+      "nosotros": "hubimos limpiado",
+      "vosotros": "hubisteis limpiado",
+      "uds": "hubieron limpiado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría limpiado",
+      "tu": "habrías limpiado",
+      "ud": "habría limpiado",
+      "nosotros": "habríamos limpiado",
+      "vosotros": "habríais limpiado",
+      "uds": "habrían limpiado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "limpie",
+      "tu": "limpies",
+      "ud": "limpie",
+      "nosotros": "limpiemos",
+      "vosotros": "limpiéis",
+      "uds": "limpien"
+    },
+    "imperfecto": {
+      "yo": "limpiara",
+      "tu": "limpiaras",
+      "ud": "limpiara",
+      "nosotros": "limpiáramos",
+      "vosotros": "limpiarais",
+      "uds": "limpiaran"
+    },
+    "futuro": {
+      "yo": "limpiare",
+      "tu": "limpiares",
+      "ud": "limpiare",
+      "nosotros": "limpiáremos",
+      "vosotros": "limpiareis",
+      "uds": "limpiaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya limpiado",
+      "tu": "hayas limpiado",
+      "ud": "haya limpiado",
+      "nosotros": "hayamos limpiado",
+      "vosotros": "hayáis limpiado",
+      "uds": "hayan limpiado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere limpiado",
+      "tu": "hubieres limpiado",
+      "ud": "hubiere limpiado",
+      "nosotros": "hubiéremos limpiado",
+      "vosotros": "hubiereis limpiado",
+      "uds": "hubieren limpiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera limpiado",
+      "tu": "hubieras limpiado",
+      "ud": "hubiera limpiado",
+      "nosotros": "hubiéramos limpiado",
+      "vosotros": "hubierais limpiado",
+      "uds": "hubieran limpiado"
+    },
+    "imperfectoAlt": {
+      "yo": "limpiase",
+      "tu": "limpiases",
+      "ud": "limpiase",
+      "nosotros": "limpiásemos",
+      "vosotros": "limpiaseis",
+      "uds": "limpiasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese limpiado",
+      "tu": "hubieses limpiado",
+      "ud": "hubiese limpiado",
+      "nosotros": "hubiésemos limpiado",
+      "vosotros": "hubieseis limpiado",
+      "uds": "hubiesen limpiado"
+    }
+  },
+  "afirmativo": {
+    "tu": "limpia",
+    "vosotros": "limpiad",
+    "ud": "limpie",
+    "uds": "limpien"
+  },
+  "negativo": {
+    "tu": "no limpies",
+    "vosotros": "no limpiéis",
+    "ud": "no limpie",
+    "uds": "no limpien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to clean",
+    "gerundio": "cleaning",
+    "participioPasado": "cleaned",
+    "indicativo": {
+      "presente": "I clean, am cleaning",
+      "futuro": "I will clean",
+      "imperfecto": "I was cleaning, used to clean, cleaned",
+      "preterito": "I cleaned",
+      "condicional": "I would clean",
+      "presentePerfecto": "I have cleaned",
+      "futuroPerfecto": "I will have cleaned",
+      "pluscuamperfecto": "I had cleaned",
+      "preteritoAnterior": "I had cleaned",
+      "condicionalPerfecto": "I would have cleaned"
+    },
+    "subjuntivo": {
+      "presente": "I clean, am cleaning",
+      "imperfecto": "I cleaned, was cleaning",
+      "futuro": "I will clean",
+      "presentePerfecto": "I have cleaned, cleaned",
+      "futuroPerfecto": "I will have cleaned",
+      "pluscuamperfecto": "I had cleaned"
+    },
+    "afirmativo": "Clean!",
+    "negativo": "Don't clean!"
+  },
+  "attribution": "Fred Jehle"
+}

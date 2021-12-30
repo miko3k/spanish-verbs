@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "agradar",
+  "gerundio": "agradando",
+  "participioPasado": "agradado",
+  "indicativo": {
+    "presente": {
+      "yo": "agrado",
+      "tu": "agradas",
+      "ud": "agrada",
+      "nosotros": "agradamos",
+      "vosotros": "agradáis",
+      "uds": "agradan"
+    },
+    "futuro": {
+      "yo": "agradaré",
+      "tu": "agradarás",
+      "ud": "agradará",
+      "nosotros": "agradaremos",
+      "vosotros": "agradaréis",
+      "uds": "agradarán"
+    },
+    "imperfecto": {
+      "yo": "agradaba",
+      "tu": "agradabas",
+      "ud": "agradaba",
+      "nosotros": "agradábamos",
+      "vosotros": "agradabais",
+      "uds": "agradaban"
+    },
+    "preterito": {
+      "yo": "agradé",
+      "tu": "agradaste",
+      "ud": "agradó",
+      "nosotros": "agradamos",
+      "vosotros": "agradasteis",
+      "uds": "agradaron"
+    },
+    "condicional": {
+      "yo": "agradaría",
+      "tu": "agradarías",
+      "ud": "agradaría",
+      "nosotros": "agradaríamos",
+      "vosotros": "agradaríais",
+      "uds": "agradarían"
+    },
+    "presentePerfecto": {
+      "yo": "he agradado",
+      "tu": "has agradado",
+      "ud": "ha agradado",
+      "nosotros": "hemos agradado",
+      "vosotros": "habéis agradado",
+      "uds": "han agradado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré agradado",
+      "tu": "habrás agradado",
+      "ud": "habrá agradado",
+      "nosotros": "habremos agradado",
+      "vosotros": "habréis agradado",
+      "uds": "habrán agradado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había agradado",
+      "tu": "habías agradado",
+      "ud": "había agradado",
+      "nosotros": "habíamos agradado",
+      "vosotros": "habíais agradado",
+      "uds": "habían agradado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube agradado",
+      "tu": "hubiste agradado",
+      "ud": "hubo agradado",
+      "nosotros": "hubimos agradado",
+      "vosotros": "hubisteis agradado",
+      "uds": "hubieron agradado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría agradado",
+      "tu": "habrías agradado",
+      "ud": "habría agradado",
+      "nosotros": "habríamos agradado",
+      "vosotros": "habríais agradado",
+      "uds": "habrían agradado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "agrade",
+      "tu": "agrades",
+      "ud": "agrade",
+      "nosotros": "agrademos",
+      "vosotros": "agradéis",
+      "uds": "agraden"
+    },
+    "imperfecto": {
+      "yo": "agradara",
+      "tu": "agradaras",
+      "ud": "agradara",
+      "nosotros": "agradáramos",
+      "vosotros": "agradarais",
+      "uds": "agradaran"
+    },
+    "futuro": {
+      "yo": "agradare",
+      "tu": "agradares",
+      "ud": "agradare",
+      "nosotros": "agradáremos",
+      "vosotros": "agradareis",
+      "uds": "agradaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya agradado",
+      "tu": "hayas agradado",
+      "ud": "haya agradado",
+      "nosotros": "hayamos agradado",
+      "vosotros": "hayáis agradado",
+      "uds": "hayan agradado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere agradado",
+      "tu": "hubieres agradado",
+      "ud": "hubiere agradado",
+      "nosotros": "hubiéremos agradado",
+      "vosotros": "hubiereis agradado",
+      "uds": "hubieren agradado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera agradado",
+      "tu": "hubieras agradado",
+      "ud": "hubiera agradado",
+      "nosotros": "hubiéramos agradado",
+      "vosotros": "hubierais agradado",
+      "uds": "hubieran agradado"
+    },
+    "imperfectoAlt": {
+      "yo": "agradase",
+      "tu": "agradases",
+      "ud": "agradase",
+      "nosotros": "agradásemos",
+      "vosotros": "agradaseis",
+      "uds": "agradasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese agradado",
+      "tu": "hubieses agradado",
+      "ud": "hubiese agradado",
+      "nosotros": "hubiésemos agradado",
+      "vosotros": "hubieseis agradado",
+      "uds": "hubiesen agradado"
+    }
+  },
+  "afirmativo": {
+    "tu": "agrada",
+    "vosotros": "agradad",
+    "ud": "agrade",
+    "uds": "agraden"
+  },
+  "negativo": {
+    "tu": "no agrades",
+    "vosotros": "no agradéis",
+    "ud": "no agrade",
+    "uds": "no agraden"
+  },
+  "english": {
+    "note": "Note: Agradar is a synomym of gustar; like gustar, the verb is used in a special type of construction to express like: Me agrada el libro = The book is pleasing to me (= I like the book); Me agradan los libros = The books are pleasing to me (= I like the books). In this construction the verb is most frequently used in the third person singular or plural, although all persons are possible, e.g., Me agradas tú = You are pleasing to me (= I like you).",
+    "infinitivo": "to please, be pleasing",
+    "gerundio": "pleasing",
+    "participioPasado": "pleased",
+    "indicativo": {
+      "presente": "I please, am pleasing",
+      "futuro": "I will please",
+      "imperfecto": "I was pleasing, used to please, pleased",
+      "preterito": "I pleased",
+      "condicional": "I would please",
+      "presentePerfecto": "I have pleased",
+      "futuroPerfecto": "I will have pleased",
+      "pluscuamperfecto": "I had pleased",
+      "preteritoAnterior": "I had pleased",
+      "condicionalPerfecto": "I would have pleased"
+    },
+    "subjuntivo": {
+      "presente": "I please, am pleasing",
+      "imperfecto": "I pleased, was pleasing",
+      "futuro": "I will please",
+      "presentePerfecto": "I have pleased, pleased",
+      "futuroPerfecto": "I will have pleased",
+      "pluscuamperfecto": "I had pleased"
+    },
+    "afirmativo": "Please!",
+    "negativo": "Don't please!"
+  },
+  "attribution": "Fred Jehle"
+}

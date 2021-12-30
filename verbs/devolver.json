@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "devolver",
+  "gerundio": "devolviendo",
+  "participioPasado": "devuelto",
+  "indicativo": {
+    "presente": {
+      "yo": "devuelvo",
+      "tu": "devuelves",
+      "ud": "devuelve",
+      "nosotros": "devolvemos",
+      "vosotros": "devolvéis",
+      "uds": "devuelven"
+    },
+    "futuro": {
+      "yo": "devolveré",
+      "tu": "devolverás",
+      "ud": "devolverá",
+      "nosotros": "devolveremos",
+      "vosotros": "devolveréis",
+      "uds": "devolverán"
+    },
+    "imperfecto": {
+      "yo": "devolvía",
+      "tu": "devolvías",
+      "ud": "devolvía",
+      "nosotros": "devolvíamos",
+      "vosotros": "devolvíais",
+      "uds": "devolvían"
+    },
+    "preterito": {
+      "yo": "devolví",
+      "tu": "devolviste",
+      "ud": "devolvió",
+      "nosotros": "devolvimos",
+      "vosotros": "devolvisteis",
+      "uds": "devolvieron"
+    },
+    "condicional": {
+      "yo": "devolvería",
+      "tu": "devolverías",
+      "ud": "devolvería",
+      "nosotros": "devolveríamos",
+      "vosotros": "devolveríais",
+      "uds": "devolverían"
+    },
+    "presentePerfecto": {
+      "yo": "he devuelto",
+      "tu": "has devuelto",
+      "ud": "ha devuelto",
+      "nosotros": "hemos devuelto",
+      "vosotros": "habéis devuelto",
+      "uds": "han devuelto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré devuelto",
+      "tu": "habrás devuelto",
+      "ud": "habrá devuelto",
+      "nosotros": "habremos devuelto",
+      "vosotros": "habréis devuelto",
+      "uds": "habrán devuelto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había devuelto",
+      "tu": "habías devuelto",
+      "ud": "había devuelto",
+      "nosotros": "habíamos devuelto",
+      "vosotros": "habíais devuelto",
+      "uds": "habían devuelto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube devuelto",
+      "tu": "hubiste devuelto",
+      "ud": "hubo devuelto",
+      "nosotros": "hubimos devuelto",
+      "vosotros": "hubisteis devuelto",
+      "uds": "hubieron devuelto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría devuelto",
+      "tu": "habrías devuelto",
+      "ud": "habría devuelto",
+      "nosotros": "habríamos devuelto",
+      "vosotros": "habríais devuelto",
+      "uds": "habrían devuelto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "devuelva",
+      "tu": "devuelvas",
+      "ud": "devuelva",
+      "nosotros": "devolvamos",
+      "vosotros": "devolváis",
+      "uds": "devuelvan"
+    },
+    "imperfecto": {
+      "yo": "devolviera",
+      "tu": "devolvieras",
+      "ud": "devolviera",
+      "nosotros": "devolviéramos",
+      "vosotros": "devolvierais",
+      "uds": "devolvieran"
+    },
+    "futuro": {
+      "yo": "devolviere",
+      "tu": "devolvieres",
+      "ud": "devolviere",
+      "nosotros": "devolviéremos",
+      "vosotros": "devolviereis",
+      "uds": "devolvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya devuelto",
+      "tu": "hayas devuelto",
+      "ud": "haya devuelto",
+      "nosotros": "hayamos devuelto",
+      "vosotros": "hayáis devuelto",
+      "uds": "hayan devuelto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere devuelto",
+      "tu": "hubieres devuelto",
+      "ud": "hubiere devuelto",
+      "nosotros": "hubiéremos devuelto",
+      "vosotros": "hubiereis devuelto",
+      "uds": "hubieren devuelto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera devuelto",
+      "tu": "hubieras devuelto",
+      "ud": "hubiera devuelto",
+      "nosotros": "hubiéramos devuelto",
+      "vosotros": "hubierais devuelto",
+      "uds": "hubieran devuelto"
+    },
+    "imperfectoAlt": {
+      "yo": "devolviese",
+      "tu": "devolvieses",
+      "ud": "devolviese",
+      "nosotros": "devolviésemos",
+      "vosotros": "devolvieseis",
+      "uds": "devolviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese devuelto",
+      "tu": "hubieses devuelto",
+      "ud": "hubiese devuelto",
+      "nosotros": "hubiésemos devuelto",
+      "vosotros": "hubieseis devuelto",
+      "uds": "hubiesen devuelto"
+    }
+  },
+  "afirmativo": {
+    "tu": "devuelve",
+    "vosotros": "devolved",
+    "ud": "devuelva",
+    "uds": "devuelvan"
+  },
+  "negativo": {
+    "tu": "no devuelvas",
+    "vosotros": "no devolváis",
+    "ud": "no devuelva",
+    "uds": "no devuelvan"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Participio pasado irregular: devuelto. Note: For return in the sense of go back, use volver or regresar.",
+    "infinitivo": "to return, give back",
+    "gerundio": "returning",
+    "participioPasado": "returned",
+    "indicativo": {
+      "presente": "I return, am returning",
+      "futuro": "I will return",
+      "imperfecto": "I was returning, used to return, returned",
+      "preterito": "I returned",
+      "condicional": "I would return",
+      "presentePerfecto": "I have returned",
+      "futuroPerfecto": "I will have returned",
+      "pluscuamperfecto": "I had returned",
+      "preteritoAnterior": "I had returned",
+      "condicionalPerfecto": "I would have returned"
+    },
+    "subjuntivo": {
+      "presente": "I return, am returning",
+      "imperfecto": "I returned, was returning",
+      "futuro": "I will return",
+      "presentePerfecto": "I have returned, returned",
+      "futuroPerfecto": "I will have returned",
+      "pluscuamperfecto": "I had returned"
+    },
+    "afirmativo": "Return!",
+    "negativo": "Don't return!"
+  },
+  "attribution": "Fred Jehle"
+}

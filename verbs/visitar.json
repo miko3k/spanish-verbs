@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "visitar",
+  "gerundio": "visitando",
+  "participioPasado": "visitado",
+  "indicativo": {
+    "presente": {
+      "yo": "visito",
+      "tu": "visitas",
+      "ud": "visita",
+      "nosotros": "visitamos",
+      "vosotros": "visitáis",
+      "uds": "visitan"
+    },
+    "futuro": {
+      "yo": "visitaré",
+      "tu": "visitarás",
+      "ud": "visitará",
+      "nosotros": "visitaremos",
+      "vosotros": "visitaréis",
+      "uds": "visitarán"
+    },
+    "imperfecto": {
+      "yo": "visitaba",
+      "tu": "visitabas",
+      "ud": "visitaba",
+      "nosotros": "visitábamos",
+      "vosotros": "visitabais",
+      "uds": "visitaban"
+    },
+    "preterito": {
+      "yo": "visité",
+      "tu": "visitaste",
+      "ud": "visitó",
+      "nosotros": "visitamos",
+      "vosotros": "visitasteis",
+      "uds": "visitaron"
+    },
+    "condicional": {
+      "yo": "visitaría",
+      "tu": "visitarías",
+      "ud": "visitaría",
+      "nosotros": "visitaríamos",
+      "vosotros": "visitaríais",
+      "uds": "visitarían"
+    },
+    "presentePerfecto": {
+      "yo": "he visitado",
+      "tu": "has visitado",
+      "ud": "ha visitado",
+      "nosotros": "hemos visitado",
+      "vosotros": "habéis visitado",
+      "uds": "han visitado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré visitado",
+      "tu": "habrás visitado",
+      "ud": "habrá visitado",
+      "nosotros": "habremos visitado",
+      "vosotros": "habréis visitado",
+      "uds": "habrán visitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había visitado",
+      "tu": "habías visitado",
+      "ud": "había visitado",
+      "nosotros": "habíamos visitado",
+      "vosotros": "habíais visitado",
+      "uds": "habían visitado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube visitado",
+      "tu": "hubiste visitado",
+      "ud": "hubo visitado",
+      "nosotros": "hubimos visitado",
+      "vosotros": "hubisteis visitado",
+      "uds": "hubieron visitado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría visitado",
+      "tu": "habrías visitado",
+      "ud": "habría visitado",
+      "nosotros": "habríamos visitado",
+      "vosotros": "habríais visitado",
+      "uds": "habrían visitado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "visite",
+      "tu": "visites",
+      "ud": "visite",
+      "nosotros": "visitemos",
+      "vosotros": "visitéis",
+      "uds": "visiten"
+    },
+    "imperfecto": {
+      "yo": "visitara",
+      "tu": "visitaras",
+      "ud": "visitara",
+      "nosotros": "visitáramos",
+      "vosotros": "visitarais",
+      "uds": "visitaran"
+    },
+    "futuro": {
+      "yo": "visitare",
+      "tu": "visitares",
+      "ud": "visitare",
+      "nosotros": "visitáremos",
+      "vosotros": "visitareis",
+      "uds": "visitaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya visitado",
+      "tu": "hayas visitado",
+      "ud": "haya visitado",
+      "nosotros": "hayamos visitado",
+      "vosotros": "hayáis visitado",
+      "uds": "hayan visitado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere visitado",
+      "tu": "hubieres visitado",
+      "ud": "hubiere visitado",
+      "nosotros": "hubiéremos visitado",
+      "vosotros": "hubiereis visitado",
+      "uds": "hubieren visitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera visitado",
+      "tu": "hubieras visitado",
+      "ud": "hubiera visitado",
+      "nosotros": "hubiéramos visitado",
+      "vosotros": "hubierais visitado",
+      "uds": "hubieran visitado"
+    },
+    "imperfectoAlt": {
+      "yo": "visitase",
+      "tu": "visitases",
+      "ud": "visitase",
+      "nosotros": "visitásemos",
+      "vosotros": "visitaseis",
+      "uds": "visitasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese visitado",
+      "tu": "hubieses visitado",
+      "ud": "hubiese visitado",
+      "nosotros": "hubiésemos visitado",
+      "vosotros": "hubieseis visitado",
+      "uds": "hubiesen visitado"
+    }
+  },
+  "afirmativo": {
+    "tu": "visita",
+    "vosotros": "visitad",
+    "ud": "visite",
+    "uds": "visiten"
+  },
+  "negativo": {
+    "tu": "no visites",
+    "vosotros": "no visitéis",
+    "ud": "no visite",
+    "uds": "no visiten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to visit",
+    "gerundio": "visiting",
+    "participioPasado": "visited",
+    "indicativo": {
+      "presente": "I visit, am visiting",
+      "futuro": "I will visit",
+      "imperfecto": "I was visiting, used to visit, visited",
+      "preterito": "I visited",
+      "condicional": "I would visit",
+      "presentePerfecto": "I have visited",
+      "futuroPerfecto": "I will have visited",
+      "pluscuamperfecto": "I had visited",
+      "preteritoAnterior": "I had visited",
+      "condicionalPerfecto": "I would have visited"
+    },
+    "subjuntivo": {
+      "presente": "I visit, am visiting",
+      "imperfecto": "I visited, was visiting",
+      "futuro": "I will visit",
+      "presentePerfecto": "I have visited, visited",
+      "futuroPerfecto": "I will have visited",
+      "pluscuamperfecto": "I had visited"
+    },
+    "afirmativo": "Visit!",
+    "negativo": "Don't visit!"
+  },
+  "attribution": "Fred Jehle"
+}

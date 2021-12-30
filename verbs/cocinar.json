@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cocinar",
+  "gerundio": "cocinando",
+  "participioPasado": "cocinado",
+  "indicativo": {
+    "presente": {
+      "yo": "cocino",
+      "tu": "cocinas",
+      "ud": "cocina",
+      "nosotros": "cocinamos",
+      "vosotros": "cocináis",
+      "uds": "cocinan"
+    },
+    "futuro": {
+      "yo": "cocinaré",
+      "tu": "cocinarás",
+      "ud": "cocinará",
+      "nosotros": "cocinaremos",
+      "vosotros": "cocinaréis",
+      "uds": "cocinarán"
+    },
+    "imperfecto": {
+      "yo": "cocinaba",
+      "tu": "cocinabas",
+      "ud": "cocinaba",
+      "nosotros": "cocinábamos",
+      "vosotros": "cocinabais",
+      "uds": "cocinaban"
+    },
+    "preterito": {
+      "yo": "cociné",
+      "tu": "cocinaste",
+      "ud": "cocinó",
+      "nosotros": "cocinamos",
+      "vosotros": "cocinasteis",
+      "uds": "cocinaron"
+    },
+    "condicional": {
+      "yo": "cocinaría",
+      "tu": "cocinarías",
+      "ud": "cocinaría",
+      "nosotros": "cocinaríamos",
+      "vosotros": "cocinaríais",
+      "uds": "cocinarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cocinado",
+      "tu": "has cocinado",
+      "ud": "ha cocinado",
+      "nosotros": "hemos cocinado",
+      "vosotros": "habéis cocinado",
+      "uds": "han cocinado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cocinado",
+      "tu": "habrás cocinado",
+      "ud": "habrá cocinado",
+      "nosotros": "habremos cocinado",
+      "vosotros": "habréis cocinado",
+      "uds": "habrán cocinado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cocinado",
+      "tu": "habías cocinado",
+      "ud": "había cocinado",
+      "nosotros": "habíamos cocinado",
+      "vosotros": "habíais cocinado",
+      "uds": "habían cocinado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cocinado",
+      "tu": "hubiste cocinado",
+      "ud": "hubo cocinado",
+      "nosotros": "hubimos cocinado",
+      "vosotros": "hubisteis cocinado",
+      "uds": "hubieron cocinado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cocinado",
+      "tu": "habrías cocinado",
+      "ud": "habría cocinado",
+      "nosotros": "habríamos cocinado",
+      "vosotros": "habríais cocinado",
+      "uds": "habrían cocinado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cocine",
+      "tu": "cocines",
+      "ud": "cocine",
+      "nosotros": "cocinemos",
+      "vosotros": "cocinéis",
+      "uds": "cocinen"
+    },
+    "imperfecto": {
+      "yo": "cocinara",
+      "tu": "cocinaras",
+      "ud": "cocinara",
+      "nosotros": "cocináramos",
+      "vosotros": "cocinarais",
+      "uds": "cocinaran"
+    },
+    "futuro": {
+      "yo": "cocinare",
+      "tu": "cocinares",
+      "ud": "cocinare",
+      "nosotros": "cocináremos",
+      "vosotros": "cocinareis",
+      "uds": "cocinaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cocinado",
+      "tu": "hayas cocinado",
+      "ud": "haya cocinado",
+      "nosotros": "hayamos cocinado",
+      "vosotros": "hayáis cocinado",
+      "uds": "hayan cocinado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cocinado",
+      "tu": "hubieres cocinado",
+      "ud": "hubiere cocinado",
+      "nosotros": "hubiéremos cocinado",
+      "vosotros": "hubiereis cocinado",
+      "uds": "hubieren cocinado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cocinado",
+      "tu": "hubieras cocinado",
+      "ud": "hubiera cocinado",
+      "nosotros": "hubiéramos cocinado",
+      "vosotros": "hubierais cocinado",
+      "uds": "hubieran cocinado"
+    },
+    "imperfectoAlt": {
+      "yo": "cocinase",
+      "tu": "cocinases",
+      "ud": "cocinase",
+      "nosotros": "cocinásemos",
+      "vosotros": "cocinaseis",
+      "uds": "cocinasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cocinado",
+      "tu": "hubieses cocinado",
+      "ud": "hubiese cocinado",
+      "nosotros": "hubiésemos cocinado",
+      "vosotros": "hubieseis cocinado",
+      "uds": "hubiesen cocinado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cocina",
+    "vosotros": "cocinad",
+    "ud": "cocine",
+    "uds": "cocinen"
+  },
+  "negativo": {
+    "tu": "no cocines",
+    "vosotros": "no cocinéis",
+    "ud": "no cocine",
+    "uds": "no cocinen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to cook; to do the cooking",
+    "gerundio": "cooking",
+    "participioPasado": "cooked",
+    "indicativo": {
+      "presente": "I cook, am cooking",
+      "futuro": "I will cook",
+      "imperfecto": "I was cooking, used to cook, cooked",
+      "preterito": "I cooked",
+      "condicional": "I would cook",
+      "presentePerfecto": "I have cooked",
+      "futuroPerfecto": "I will have cooked",
+      "pluscuamperfecto": "I had cooked",
+      "preteritoAnterior": "I had cooked",
+      "condicionalPerfecto": "I would have cooked"
+    },
+    "subjuntivo": {
+      "presente": "I cook, am cooking",
+      "imperfecto": "I cooked, was cooking",
+      "futuro": "I will cook",
+      "presentePerfecto": "I have cooked, cooked",
+      "futuroPerfecto": "I will have cooked",
+      "pluscuamperfecto": "I had cooked"
+    },
+    "afirmativo": "Cook!",
+    "negativo": "Don't cook!"
+  },
+  "attribution": "Fred Jehle"
+}

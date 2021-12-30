@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "alcanzar",
+  "gerundio": "alcanzando",
+  "participioPasado": "alcanzado",
+  "indicativo": {
+    "presente": {
+      "yo": "alcanzo",
+      "tu": "alcanzas",
+      "ud": "alcanza",
+      "nosotros": "alcanzamos",
+      "vosotros": "alcanzáis",
+      "uds": "alcanzan"
+    },
+    "futuro": {
+      "yo": "alcanzaré",
+      "tu": "alcanzarás",
+      "ud": "alcanzará",
+      "nosotros": "alcanzaremos",
+      "vosotros": "alcanzaréis",
+      "uds": "alcanzarán"
+    },
+    "imperfecto": {
+      "yo": "alcanzaba",
+      "tu": "alcanzabas",
+      "ud": "alcanzaba",
+      "nosotros": "alcanzábamos",
+      "vosotros": "alcanzabais",
+      "uds": "alcanzaban"
+    },
+    "preterito": {
+      "yo": "alcancé",
+      "tu": "alcanzaste",
+      "ud": "alcanzó",
+      "nosotros": "alcanzamos",
+      "vosotros": "alcanzasteis",
+      "uds": "alcanzaron"
+    },
+    "condicional": {
+      "yo": "alcanzaría",
+      "tu": "alcanzarías",
+      "ud": "alcanzaría",
+      "nosotros": "alcanzaríamos",
+      "vosotros": "alcanzaríais",
+      "uds": "alcanzarían"
+    },
+    "presentePerfecto": {
+      "yo": "he alcanzado",
+      "tu": "has alcanzado",
+      "ud": "ha alcanzado",
+      "nosotros": "hemos alcanzado",
+      "vosotros": "habéis alcanzado",
+      "uds": "han alcanzado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré alcanzado",
+      "tu": "habrás alcanzado",
+      "ud": "habrá alcanzado",
+      "nosotros": "habremos alcanzado",
+      "vosotros": "habréis alcanzado",
+      "uds": "habrán alcanzado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había alcanzado",
+      "tu": "habías alcanzado",
+      "ud": "había alcanzado",
+      "nosotros": "habíamos alcanzado",
+      "vosotros": "habíais alcanzado",
+      "uds": "habían alcanzado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube alcanzado",
+      "tu": "hubiste alcanzado",
+      "ud": "hubo alcanzado",
+      "nosotros": "hubimos alcanzado",
+      "vosotros": "hubisteis alcanzado",
+      "uds": "hubieron alcanzado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría alcanzado",
+      "tu": "habrías alcanzado",
+      "ud": "habría alcanzado",
+      "nosotros": "habríamos alcanzado",
+      "vosotros": "habríais alcanzado",
+      "uds": "habrían alcanzado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "alcance",
+      "tu": "alcances",
+      "ud": "alcance",
+      "nosotros": "alcancemos",
+      "vosotros": "alcancéis",
+      "uds": "alcancen"
+    },
+    "imperfecto": {
+      "yo": "alcanzara",
+      "tu": "alcanzaras",
+      "ud": "alcanzara",
+      "nosotros": "alcanzáramos",
+      "vosotros": "alcanzarais",
+      "uds": "alcanzaran"
+    },
+    "futuro": {
+      "yo": "alcanzare",
+      "tu": "alcanzares",
+      "ud": "alcanzare",
+      "nosotros": "alcanzáremos",
+      "vosotros": "alcanzareis",
+      "uds": "alcanzaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya alcanzado",
+      "tu": "hayas alcanzado",
+      "ud": "haya alcanzado",
+      "nosotros": "hayamos alcanzado",
+      "vosotros": "hayáis alcanzado",
+      "uds": "hayan alcanzado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere alcanzado",
+      "tu": "hubieres alcanzado",
+      "ud": "hubiere alcanzado",
+      "nosotros": "hubiéremos alcanzado",
+      "vosotros": "hubiereis alcanzado",
+      "uds": "hubieren alcanzado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera alcanzado",
+      "tu": "hubieras alcanzado",
+      "ud": "hubiera alcanzado",
+      "nosotros": "hubiéramos alcanzado",
+      "vosotros": "hubierais alcanzado",
+      "uds": "hubieran alcanzado"
+    },
+    "imperfectoAlt": {
+      "yo": "alcanzase",
+      "tu": "alcanzases",
+      "ud": "alcanzase",
+      "nosotros": "alcanzásemos",
+      "vosotros": "alcanzaseis",
+      "uds": "alcanzasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese alcanzado",
+      "tu": "hubieses alcanzado",
+      "ud": "hubiese alcanzado",
+      "nosotros": "hubiésemos alcanzado",
+      "vosotros": "hubieseis alcanzado",
+      "uds": "hubiesen alcanzado"
+    }
+  },
+  "afirmativo": {
+    "tu": "alcanza",
+    "vosotros": "alcanzad",
+    "ud": "alcance",
+    "uds": "alcancen"
+  },
+  "negativo": {
+    "tu": "no alcances",
+    "vosotros": "no alcancéis",
+    "ud": "no alcance",
+    "uds": "no alcancen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to reach, catch, catch up to, catch up with",
+    "gerundio": "reaching",
+    "participioPasado": "reached",
+    "indicativo": {
+      "presente": "I reach, am reaching",
+      "futuro": "I will reach",
+      "imperfecto": "I was reaching, used to reach, reached",
+      "preterito": "I reached",
+      "condicional": "I would reach",
+      "presentePerfecto": "I have reached",
+      "futuroPerfecto": "I will have reached",
+      "pluscuamperfecto": "I had reached",
+      "preteritoAnterior": "I had reached",
+      "condicionalPerfecto": "I would have reached"
+    },
+    "subjuntivo": {
+      "presente": "I reach, am reaching",
+      "imperfecto": "I reached, was reaching",
+      "futuro": "I will reach",
+      "presentePerfecto": "I have reached, reached",
+      "futuroPerfecto": "I will have reached",
+      "pluscuamperfecto": "I had reached"
+    },
+    "afirmativo": "Reach!",
+    "negativo": "Don't reach!"
+  },
+  "attribution": "Fred Jehle"
+}

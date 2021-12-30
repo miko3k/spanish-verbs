@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "chismear",
+  "gerundio": "chismeando",
+  "participioPasado": "chismeado",
+  "indicativo": {
+    "presente": {
+      "yo": "chismeo",
+      "tu": "chismeas",
+      "ud": "chismea",
+      "nosotros": "chismeamos",
+      "vosotros": "chismeáis",
+      "uds": "chismean"
+    },
+    "futuro": {
+      "yo": "chismearé",
+      "tu": "chismearás",
+      "ud": "chismeará",
+      "nosotros": "chismearemos",
+      "vosotros": "chismearéis",
+      "uds": "chismearán"
+    },
+    "imperfecto": {
+      "yo": "chismeaba",
+      "tu": "chismeabas",
+      "ud": "chismeaba",
+      "nosotros": "chismeábamos",
+      "vosotros": "chismeabais",
+      "uds": "chismeaban"
+    },
+    "preterito": {
+      "yo": "chismeé",
+      "tu": "chismeaste",
+      "ud": "chismeó",
+      "nosotros": "chismeamos",
+      "vosotros": "chismeasteis",
+      "uds": "chismearon"
+    },
+    "condicional": {
+      "yo": "chismearía",
+      "tu": "chismearías",
+      "ud": "chismearía",
+      "nosotros": "chismearíamos",
+      "vosotros": "chismearíais",
+      "uds": "chismearían"
+    },
+    "presentePerfecto": {
+      "yo": "he chismeado",
+      "tu": "has chismeado",
+      "ud": "ha chismeado",
+      "nosotros": "hemos chismeado",
+      "vosotros": "habéis chismeado",
+      "uds": "han chismeado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré chismeado",
+      "tu": "habrás chismeado",
+      "ud": "habrá chismeado",
+      "nosotros": "habremos chismeado",
+      "vosotros": "habréis chismeado",
+      "uds": "habrán chismeado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había chismeado",
+      "tu": "habías chismeado",
+      "ud": "había chismeado",
+      "nosotros": "habíamos chismeado",
+      "vosotros": "habíais chismeado",
+      "uds": "habían chismeado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube chismeado",
+      "tu": "hubiste chismeado",
+      "ud": "hubo chismeado",
+      "nosotros": "hubimos chismeado",
+      "vosotros": "hubisteis chismeado",
+      "uds": "hubieron chismeado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría chismeado",
+      "tu": "habrías chismeado",
+      "ud": "habría chismeado",
+      "nosotros": "habríamos chismeado",
+      "vosotros": "habríais chismeado",
+      "uds": "habrían chismeado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "chismee",
+      "tu": "chismees",
+      "ud": "chismee",
+      "nosotros": "chismeemos",
+      "vosotros": "chismeéis",
+      "uds": "chismeen"
+    },
+    "imperfecto": {
+      "yo": "chismeara",
+      "tu": "chismearas",
+      "ud": "chismeara",
+      "nosotros": "chismeáramos",
+      "vosotros": "chismearais",
+      "uds": "chismearan"
+    },
+    "futuro": {
+      "yo": "chismeare",
+      "tu": "chismeares",
+      "ud": "chismeare",
+      "nosotros": "chismeáremos",
+      "vosotros": "chismeareis",
+      "uds": "chismearen"
+    },
+    "presentePerfecto": {
+      "yo": "haya chismeado",
+      "tu": "hayas chismeado",
+      "ud": "haya chismeado",
+      "nosotros": "hayamos chismeado",
+      "vosotros": "hayáis chismeado",
+      "uds": "hayan chismeado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere chismeado",
+      "tu": "hubieres chismeado",
+      "ud": "hubiere chismeado",
+      "nosotros": "hubiéremos chismeado",
+      "vosotros": "hubiereis chismeado",
+      "uds": "hubieren chismeado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera chismeado",
+      "tu": "hubieras chismeado",
+      "ud": "hubiera chismeado",
+      "nosotros": "hubiéramos chismeado",
+      "vosotros": "hubierais chismeado",
+      "uds": "hubieran chismeado"
+    },
+    "imperfectoAlt": {
+      "yo": "chismease",
+      "tu": "chismeases",
+      "ud": "chismease",
+      "nosotros": "chismeásemos",
+      "vosotros": "chismeaseis",
+      "uds": "chismeasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese chismeado",
+      "tu": "hubieses chismeado",
+      "ud": "hubiese chismeado",
+      "nosotros": "hubiésemos chismeado",
+      "vosotros": "hubieseis chismeado",
+      "uds": "hubiesen chismeado"
+    }
+  },
+  "afirmativo": {
+    "tu": "chismea",
+    "vosotros": "chismead",
+    "ud": "chismee",
+    "uds": "chismeen"
+  },
+  "negativo": {
+    "tu": "no chismees",
+    "vosotros": "no chismeéis",
+    "ud": "no chismee",
+    "uds": "no chismeen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to gossip",
+    "gerundio": "gossiping",
+    "participioPasado": "gossiped",
+    "indicativo": {
+      "presente": "I gossip, am gossiping",
+      "futuro": "I will gossip",
+      "imperfecto": "I was gossiping, used to gossip, gossiped",
+      "preterito": "I gossiped",
+      "condicional": "I would gossip",
+      "presentePerfecto": "I have gossiped",
+      "futuroPerfecto": "I will have gossiped",
+      "pluscuamperfecto": "I had gossiped",
+      "preteritoAnterior": "I had gossiped",
+      "condicionalPerfecto": "I would have gossiped"
+    },
+    "subjuntivo": {
+      "presente": "I gossip, am gossiping",
+      "imperfecto": "I gossiped, was gossiping",
+      "futuro": "I will gossip",
+      "presentePerfecto": "I have gossiped, gossiped",
+      "futuroPerfecto": "I will have gossiped",
+      "pluscuamperfecto": "I had gossiped"
+    },
+    "afirmativo": "Gossip!",
+    "negativo": "Don't gossip!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "oír",
+  "gerundio": "oyendo",
+  "participioPasado": "oído",
+  "indicativo": {
+    "presente": {
+      "yo": "oigo",
+      "tu": "oyes",
+      "ud": "oye",
+      "nosotros": "oímos",
+      "vosotros": "oís",
+      "uds": "oyen"
+    },
+    "futuro": {
+      "yo": "oiré",
+      "tu": "oirás",
+      "ud": "oirá",
+      "nosotros": "oiremos",
+      "vosotros": "oiréis",
+      "uds": "oirán"
+    },
+    "imperfecto": {
+      "yo": "oía",
+      "tu": "oías",
+      "ud": "oía",
+      "nosotros": "oíamos",
+      "vosotros": "oíais",
+      "uds": "oían"
+    },
+    "preterito": {
+      "yo": "oí",
+      "tu": "oíste",
+      "ud": "oyó",
+      "nosotros": "oímos",
+      "vosotros": "oísteis",
+      "uds": "oyeron"
+    },
+    "condicional": {
+      "yo": "oiría",
+      "tu": "oirías",
+      "ud": "oiría",
+      "nosotros": "oiríamos",
+      "vosotros": "oiríais",
+      "uds": "oirían"
+    },
+    "presentePerfecto": {
+      "yo": "he oído",
+      "tu": "has oído",
+      "ud": "ha oído",
+      "nosotros": "hemos oído",
+      "vosotros": "habéis oído",
+      "uds": "han oído"
+    },
+    "futuroPerfecto": {
+      "yo": "habré oído",
+      "tu": "habrás oído",
+      "ud": "habrá oído",
+      "nosotros": "habremos oído",
+      "vosotros": "habréis oído",
+      "uds": "habrán oído"
+    },
+    "pluscuamperfecto": {
+      "yo": "había oído",
+      "tu": "habías oído",
+      "ud": "había oído",
+      "nosotros": "habíamos oído",
+      "vosotros": "habíais oído",
+      "uds": "habían oído"
+    },
+    "preteritoAnterior": {
+      "yo": "hube oído",
+      "tu": "hubiste oído",
+      "ud": "hubo oído",
+      "nosotros": "hubimos oído",
+      "vosotros": "hubisteis oído",
+      "uds": "hubieron oído"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría oído",
+      "tu": "habrías oído",
+      "ud": "habría oído",
+      "nosotros": "habríamos oído",
+      "vosotros": "habríais oído",
+      "uds": "habrían oído"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "oiga",
+      "tu": "oigas",
+      "ud": "oiga",
+      "nosotros": "oigamos",
+      "vosotros": "oigáis",
+      "uds": "oigan"
+    },
+    "imperfecto": {
+      "yo": "oyera",
+      "tu": "oyeras",
+      "ud": "oyera",
+      "nosotros": "oyéramos",
+      "vosotros": "oyerais",
+      "uds": "oyeran"
+    },
+    "futuro": {
+      "yo": "oyere",
+      "tu": "oyeres",
+      "ud": "oyere",
+      "nosotros": "oyéremos",
+      "vosotros": "oyereis",
+      "uds": "oyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya oído",
+      "tu": "hayas oído",
+      "ud": "haya oído",
+      "nosotros": "hayamos oído",
+      "vosotros": "hayáis oído",
+      "uds": "hayan oído"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere oído",
+      "tu": "hubieres oído",
+      "ud": "hubiere oído",
+      "nosotros": "hubiéremos oído",
+      "vosotros": "hubiereis oído",
+      "uds": "hubieren oído"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera oído",
+      "tu": "hubieras oído",
+      "ud": "hubiera oído",
+      "nosotros": "hubiéramos oído",
+      "vosotros": "hubierais oído",
+      "uds": "hubieran oído"
+    },
+    "imperfectoAlt": {
+      "yo": "oyese",
+      "tu": "oyeses",
+      "ud": "oyese",
+      "nosotros": "oyésemos",
+      "vosotros": "oyeseis",
+      "uds": "oyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese oído",
+      "tu": "hubieses oído",
+      "ud": "hubiese oído",
+      "nosotros": "hubiésemos oído",
+      "vosotros": "hubieseis oído",
+      "uds": "hubiesen oído"
+    }
+  },
+  "afirmativo": {
+    "tu": "oye",
+    "vosotros": "oíd",
+    "ud": "oiga",
+    "uds": "oigan"
+  },
+  "negativo": {
+    "tu": "no oigas",
+    "vosotros": "no oigáis",
+    "ud": "no oiga",
+    "uds": "no oigan"
+  },
+  "english": {
+    "note": "Formas irregulares: oigo, oiga, oigas, etc. La i intervocálica (cuando no se acentúa) > y: oye, oyeron, oyendo, etc. Participio pasado: oído. Mandato familiar plural: oíd.",
+    "infinitivo": "to hear",
+    "gerundio": "hearing",
+    "participioPasado": "heard",
+    "indicativo": {
+      "presente": "I hear, am hearing",
+      "futuro": "I will hear",
+      "imperfecto": "I was hearing, used to hear, heard",
+      "preterito": "I heard",
+      "condicional": "I would hear",
+      "presentePerfecto": "I have heard",
+      "futuroPerfecto": "I will have heard",
+      "pluscuamperfecto": "I had heard",
+      "preteritoAnterior": "I had heard",
+      "condicionalPerfecto": "I would have heard"
+    },
+    "subjuntivo": {
+      "presente": "I hear, am hearing",
+      "imperfecto": "I heard, was hearing",
+      "futuro": "I will hear",
+      "presentePerfecto": "I have heard, heard",
+      "futuroPerfecto": "I will have heard",
+      "pluscuamperfecto": "I had heard"
+    },
+    "afirmativo": "Hear!",
+    "negativo": "Don't hear!"
+  },
+  "attribution": "Fred Jehle"
+}

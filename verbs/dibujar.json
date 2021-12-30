@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "dibujar",
+  "gerundio": "dibujando",
+  "participioPasado": "dibujado",
+  "indicativo": {
+    "presente": {
+      "yo": "dibujo",
+      "tu": "dibujas",
+      "ud": "dibuja",
+      "nosotros": "dibujamos",
+      "vosotros": "dibujáis",
+      "uds": "dibujan"
+    },
+    "futuro": {
+      "yo": "dibujaré",
+      "tu": "dibujarás",
+      "ud": "dibujará",
+      "nosotros": "dibujaremos",
+      "vosotros": "dibujaréis",
+      "uds": "dibujarán"
+    },
+    "imperfecto": {
+      "yo": "dibujaba",
+      "tu": "dibujabas",
+      "ud": "dibujaba",
+      "nosotros": "dibujábamos",
+      "vosotros": "dibujabais",
+      "uds": "dibujaban"
+    },
+    "preterito": {
+      "yo": "dibujé",
+      "tu": "dibujaste",
+      "ud": "dibujó",
+      "nosotros": "dibujamos",
+      "vosotros": "dibujasteis",
+      "uds": "dibujaron"
+    },
+    "condicional": {
+      "yo": "dibujaría",
+      "tu": "dibujarías",
+      "ud": "dibujaría",
+      "nosotros": "dibujaríamos",
+      "vosotros": "dibujaríais",
+      "uds": "dibujarían"
+    },
+    "presentePerfecto": {
+      "yo": "he dibujado",
+      "tu": "has dibujado",
+      "ud": "ha dibujado",
+      "nosotros": "hemos dibujado",
+      "vosotros": "habéis dibujado",
+      "uds": "han dibujado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré dibujado",
+      "tu": "habrás dibujado",
+      "ud": "habrá dibujado",
+      "nosotros": "habremos dibujado",
+      "vosotros": "habréis dibujado",
+      "uds": "habrán dibujado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había dibujado",
+      "tu": "habías dibujado",
+      "ud": "había dibujado",
+      "nosotros": "habíamos dibujado",
+      "vosotros": "habíais dibujado",
+      "uds": "habían dibujado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube dibujado",
+      "tu": "hubiste dibujado",
+      "ud": "hubo dibujado",
+      "nosotros": "hubimos dibujado",
+      "vosotros": "hubisteis dibujado",
+      "uds": "hubieron dibujado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría dibujado",
+      "tu": "habrías dibujado",
+      "ud": "habría dibujado",
+      "nosotros": "habríamos dibujado",
+      "vosotros": "habríais dibujado",
+      "uds": "habrían dibujado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "dibuje",
+      "tu": "dibujes",
+      "ud": "dibuje",
+      "nosotros": "dibujemos",
+      "vosotros": "dibujéis",
+      "uds": "dibujen"
+    },
+    "imperfecto": {
+      "yo": "dibujara",
+      "tu": "dibujaras",
+      "ud": "dibujara",
+      "nosotros": "dibujáramos",
+      "vosotros": "dibujarais",
+      "uds": "dibujaran"
+    },
+    "futuro": {
+      "yo": "dibujare",
+      "tu": "dibujares",
+      "ud": "dibujare",
+      "nosotros": "dibujáremos",
+      "vosotros": "dibujareis",
+      "uds": "dibujaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya dibujado",
+      "tu": "hayas dibujado",
+      "ud": "haya dibujado",
+      "nosotros": "hayamos dibujado",
+      "vosotros": "hayáis dibujado",
+      "uds": "hayan dibujado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere dibujado",
+      "tu": "hubieres dibujado",
+      "ud": "hubiere dibujado",
+      "nosotros": "hubiéremos dibujado",
+      "vosotros": "hubiereis dibujado",
+      "uds": "hubieren dibujado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera dibujado",
+      "tu": "hubieras dibujado",
+      "ud": "hubiera dibujado",
+      "nosotros": "hubiéramos dibujado",
+      "vosotros": "hubierais dibujado",
+      "uds": "hubieran dibujado"
+    },
+    "imperfectoAlt": {
+      "yo": "dibujase",
+      "tu": "dibujases",
+      "ud": "dibujase",
+      "nosotros": "dibujásemos",
+      "vosotros": "dibujaseis",
+      "uds": "dibujasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese dibujado",
+      "tu": "hubieses dibujado",
+      "ud": "hubiese dibujado",
+      "nosotros": "hubiésemos dibujado",
+      "vosotros": "hubieseis dibujado",
+      "uds": "hubiesen dibujado"
+    }
+  },
+  "afirmativo": {
+    "tu": "dibuja",
+    "vosotros": "dibujad",
+    "ud": "dibuje",
+    "uds": "dibujen"
+  },
+  "negativo": {
+    "tu": "no dibujes",
+    "vosotros": "no dibujéis",
+    "ud": "no dibuje",
+    "uds": "no dibujen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to draw, sketch, depict",
+    "gerundio": "drawing",
+    "participioPasado": "drawn",
+    "indicativo": {
+      "presente": "I draw, am drawing",
+      "futuro": "I will draw",
+      "imperfecto": "I was drawing, used to draw, drew",
+      "preterito": "I drew",
+      "condicional": "I would draw",
+      "presentePerfecto": "I have drawn",
+      "futuroPerfecto": "I will have drawn",
+      "pluscuamperfecto": "I had drawn",
+      "preteritoAnterior": "I had drawn",
+      "condicionalPerfecto": "I would have drawn"
+    },
+    "subjuntivo": {
+      "presente": "I draw, am drawing",
+      "imperfecto": "I drew, was drawing",
+      "futuro": "I will draw",
+      "presentePerfecto": "I have drawn, drew",
+      "futuroPerfecto": "I will have drawn",
+      "pluscuamperfecto": "I had drawn"
+    },
+    "afirmativo": "Draw!",
+    "negativo": "Don't draw!"
+  },
+  "attribution": "Fred Jehle"
+}

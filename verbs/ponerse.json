@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "ponerse",
+  "gerundio": "poniéndose",
+  "participioPasado": "puesto",
+  "indicativo": {
+    "presente": {
+      "yo": "me pongo",
+      "tu": "te pones",
+      "ud": "se pone",
+      "nosotros": "nos ponemos",
+      "vosotros": "os ponéis",
+      "uds": "se ponen"
+    },
+    "futuro": {
+      "yo": "me pondré",
+      "tu": "te pondrás",
+      "ud": "se pondrá",
+      "nosotros": "nos pondremos",
+      "vosotros": "os pondréis",
+      "uds": "se pondrán"
+    },
+    "imperfecto": {
+      "yo": "me ponía",
+      "tu": "te ponías",
+      "ud": "se ponía",
+      "nosotros": "nos poníamos",
+      "vosotros": "os poníais",
+      "uds": "se ponían"
+    },
+    "preterito": {
+      "yo": "me puse",
+      "tu": "te pusiste",
+      "ud": "se puso",
+      "nosotros": "nos pusimos",
+      "vosotros": "os pusisteis",
+      "uds": "se pusieron"
+    },
+    "condicional": {
+      "yo": "me pondría",
+      "tu": "te pondrías",
+      "ud": "se pondría",
+      "nosotros": "nos pondríamos",
+      "vosotros": "os pondríais",
+      "uds": "se pondrían"
+    },
+    "presentePerfecto": {
+      "yo": "me he puesto",
+      "tu": "te has puesto",
+      "ud": "se ha puesto",
+      "nosotros": "nos hemos puesto",
+      "vosotros": "os habéis puesto",
+      "uds": "se han puesto"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré puesto",
+      "tu": "te habrás puesto",
+      "ud": "se habrá puesto",
+      "nosotros": "nos habremos puesto",
+      "vosotros": "os habréis puesto",
+      "uds": "se habrán puesto"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había puesto",
+      "tu": "te habías puesto",
+      "ud": "se había puesto",
+      "nosotros": "nos habíamos puesto",
+      "vosotros": "os habíais puesto",
+      "uds": "se habían puesto"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube puesto",
+      "tu": "te hubiste puesto",
+      "ud": "se hubo puesto",
+      "nosotros": "nos hubimos puesto",
+      "vosotros": "os hubisteis puesto",
+      "uds": "se hubieron puesto"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría puesto",
+      "tu": "te habrías puesto",
+      "ud": "se habría puesto",
+      "nosotros": "nos habríamos puesto",
+      "vosotros": "os habríais puesto",
+      "uds": "se habrían puesto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me ponga",
+      "tu": "te pongas",
+      "ud": "se ponga",
+      "nosotros": "nos pongamos",
+      "vosotros": "os pongáis",
+      "uds": "se pongan"
+    },
+    "imperfecto": {
+      "yo": "me pusiera",
+      "tu": "te pusieras",
+      "ud": "se pusiera",
+      "nosotros": "nos pusiéramos",
+      "vosotros": "os pusierais",
+      "uds": "se pusieran"
+    },
+    "futuro": {
+      "yo": "me pusiere",
+      "tu": "te pusieres",
+      "ud": "se pusiere",
+      "nosotros": "nos pusiéremos",
+      "vosotros": "os pusiereis",
+      "uds": "se pusieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya puesto",
+      "tu": "te hayas puesto",
+      "ud": "se haya puesto",
+      "nosotros": "nos hayamos puesto",
+      "vosotros": "os hayáis puesto",
+      "uds": "se hayan puesto"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere puesto",
+      "tu": "te hubieres puesto",
+      "ud": "se hubiere puesto",
+      "nosotros": "nos hubiéremos puesto",
+      "vosotros": "os hubiereis puesto",
+      "uds": "se hubieren puesto"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera puesto",
+      "tu": "te hubieras puesto",
+      "ud": "se hubiera puesto",
+      "nosotros": "nos hubiéramos puesto",
+      "vosotros": "os hubierais puesto",
+      "uds": "se hubieran puesto"
+    },
+    "imperfectoAlt": {
+      "yo": "me pusiese",
+      "tu": "te pusieses",
+      "ud": "se pusiese",
+      "nosotros": "nos pusiésemos",
+      "vosotros": "os pusieseis",
+      "uds": "se pusiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese puesto",
+      "tu": "te hubieses puesto",
+      "ud": "se hubiese puesto",
+      "nosotros": "nos hubiésemos puesto",
+      "vosotros": "os hubieseis puesto",
+      "uds": "se hubiesen puesto"
+    }
+  },
+  "afirmativo": {
+    "tu": "ponte",
+    "vosotros": "poneos",
+    "ud": "póngase",
+    "uds": "pónganse"
+  },
+  "negativo": {
+    "tu": "no te pongas",
+    "vosotros": "no os pongáis",
+    "ud": "no se ponga",
+    "uds": "no se pongan"
+  },
+  "english": {
+    "note": "Formas irregulares: pongo, pongas, ponga, etc. Radical irregular en el futuro y condicional: pondr-. Radical fuerte en el pretérito: pus-. Participio pasado irregular: puesto. Mandato familiar singular irregular: pon. Note: Use poner (without the reflexive) for to put, place, set, etc.",
+    "infinitivo": "to put on (clothing); to put/place (oneself); to turn/get/become (+ adjective of physical/mental state)",
+    "gerundio": "putting on",
+    "participioPasado": "put on",
+    "indicativo": {
+      "presente": "I put on, am putting on",
+      "futuro": "I will put on",
+      "imperfecto": "I was putting on, used to put on, put on",
+      "preterito": "I put on",
+      "condicional": "I would put on",
+      "presentePerfecto": "I have put on",
+      "futuroPerfecto": "I will have put on",
+      "pluscuamperfecto": "I had put on",
+      "preteritoAnterior": "I had put on",
+      "condicionalPerfecto": "I would have put on"
+    },
+    "subjuntivo": {
+      "presente": "I put on, am putting on",
+      "imperfecto": "I put on, was putting on",
+      "futuro": "I will put on",
+      "presentePerfecto": "I have put on, put on",
+      "futuroPerfecto": "I will have put on",
+      "pluscuamperfecto": "I had put on"
+    },
+    "afirmativo": "Put on!",
+    "negativo": "Don't put on!"
+  },
+  "attribution": "Fred Jehle"
+}

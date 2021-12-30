@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "marcar",
+  "gerundio": "marcando",
+  "participioPasado": "marcado",
+  "indicativo": {
+    "presente": {
+      "yo": "marco",
+      "tu": "marcas",
+      "ud": "marca",
+      "nosotros": "marcamos",
+      "vosotros": "marcáis",
+      "uds": "marcan"
+    },
+    "futuro": {
+      "yo": "marcaré",
+      "tu": "marcarás",
+      "ud": "marcará",
+      "nosotros": "marcaremos",
+      "vosotros": "marcaréis",
+      "uds": "marcarán"
+    },
+    "imperfecto": {
+      "yo": "marcaba",
+      "tu": "marcabas",
+      "ud": "marcaba",
+      "nosotros": "marcábamos",
+      "vosotros": "marcabais",
+      "uds": "marcaban"
+    },
+    "preterito": {
+      "yo": "marqué",
+      "tu": "marcaste",
+      "ud": "marcó",
+      "nosotros": "marcamos",
+      "vosotros": "marcasteis",
+      "uds": "marcaron"
+    },
+    "condicional": {
+      "yo": "marcaría",
+      "tu": "marcarías",
+      "ud": "marcaría",
+      "nosotros": "marcaríamos",
+      "vosotros": "marcaríais",
+      "uds": "marcarían"
+    },
+    "presentePerfecto": {
+      "yo": "he marcado",
+      "tu": "has marcado",
+      "ud": "ha marcado",
+      "nosotros": "hemos marcado",
+      "vosotros": "habéis marcado",
+      "uds": "han marcado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré marcado",
+      "tu": "habrás marcado",
+      "ud": "habrá marcado",
+      "nosotros": "habremos marcado",
+      "vosotros": "habréis marcado",
+      "uds": "habrán marcado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había marcado",
+      "tu": "habías marcado",
+      "ud": "había marcado",
+      "nosotros": "habíamos marcado",
+      "vosotros": "habíais marcado",
+      "uds": "habían marcado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube marcado",
+      "tu": "hubiste marcado",
+      "ud": "hubo marcado",
+      "nosotros": "hubimos marcado",
+      "vosotros": "hubisteis marcado",
+      "uds": "hubieron marcado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría marcado",
+      "tu": "habrías marcado",
+      "ud": "habría marcado",
+      "nosotros": "habríamos marcado",
+      "vosotros": "habríais marcado",
+      "uds": "habrían marcado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "marque",
+      "tu": "marques",
+      "ud": "marque",
+      "nosotros": "marquemos",
+      "vosotros": "marquéis",
+      "uds": "marquen"
+    },
+    "imperfecto": {
+      "yo": "marcara",
+      "tu": "marcaras",
+      "ud": "marcara",
+      "nosotros": "marcáramos",
+      "vosotros": "marcarais",
+      "uds": "marcaran"
+    },
+    "futuro": {
+      "yo": "marcare",
+      "tu": "marcares",
+      "ud": "marcare",
+      "nosotros": "marcáremos",
+      "vosotros": "marcareis",
+      "uds": "marcaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya marcado",
+      "tu": "hayas marcado",
+      "ud": "haya marcado",
+      "nosotros": "hayamos marcado",
+      "vosotros": "hayáis marcado",
+      "uds": "hayan marcado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere marcado",
+      "tu": "hubieres marcado",
+      "ud": "hubiere marcado",
+      "nosotros": "hubiéremos marcado",
+      "vosotros": "hubiereis marcado",
+      "uds": "hubieren marcado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera marcado",
+      "tu": "hubieras marcado",
+      "ud": "hubiera marcado",
+      "nosotros": "hubiéramos marcado",
+      "vosotros": "hubierais marcado",
+      "uds": "hubieran marcado"
+    },
+    "imperfectoAlt": {
+      "yo": "marcase",
+      "tu": "marcases",
+      "ud": "marcase",
+      "nosotros": "marcásemos",
+      "vosotros": "marcaseis",
+      "uds": "marcasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese marcado",
+      "tu": "hubieses marcado",
+      "ud": "hubiese marcado",
+      "nosotros": "hubiésemos marcado",
+      "vosotros": "hubieseis marcado",
+      "uds": "hubiesen marcado"
+    }
+  },
+  "afirmativo": {
+    "tu": "marca",
+    "vosotros": "marcad",
+    "ud": "marque",
+    "uds": "marquen"
+  },
+  "negativo": {
+    "tu": "no marques",
+    "vosotros": "no marquéis",
+    "ud": "no marque",
+    "uds": "no marquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to mark, stamp, to show, indicate; to dial (e.g., a phone)",
+    "gerundio": "marking",
+    "participioPasado": "marked",
+    "indicativo": {
+      "presente": "I mark, am marking",
+      "futuro": "I will mark",
+      "imperfecto": "I was marking, used to mark, marked",
+      "preterito": "I marked",
+      "condicional": "I would mark",
+      "presentePerfecto": "I have marked",
+      "futuroPerfecto": "I will have marked",
+      "pluscuamperfecto": "I had marked",
+      "preteritoAnterior": "I had marked",
+      "condicionalPerfecto": "I would have marked"
+    },
+    "subjuntivo": {
+      "presente": "I mark, am marking",
+      "imperfecto": "I marked, was marking",
+      "futuro": "I will mark",
+      "presentePerfecto": "I have marked, marked",
+      "futuroPerfecto": "I will have marked",
+      "pluscuamperfecto": "I had marked"
+    },
+    "afirmativo": "Mark!",
+    "negativo": "Don't mark!"
+  },
+  "attribution": "Fred Jehle"
+}

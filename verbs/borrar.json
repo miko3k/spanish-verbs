@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "borrar",
+  "gerundio": "borrando",
+  "participioPasado": "borrado",
+  "indicativo": {
+    "presente": {
+      "yo": "borro",
+      "tu": "borras",
+      "ud": "borra",
+      "nosotros": "borramos",
+      "vosotros": "borráis",
+      "uds": "borran"
+    },
+    "futuro": {
+      "yo": "borraré",
+      "tu": "borrarás",
+      "ud": "borrará",
+      "nosotros": "borraremos",
+      "vosotros": "borraréis",
+      "uds": "borrarán"
+    },
+    "imperfecto": {
+      "yo": "borraba",
+      "tu": "borrabas",
+      "ud": "borraba",
+      "nosotros": "borrábamos",
+      "vosotros": "borrabais",
+      "uds": "borraban"
+    },
+    "preterito": {
+      "yo": "borré",
+      "tu": "borraste",
+      "ud": "borró",
+      "nosotros": "borramos",
+      "vosotros": "borrasteis",
+      "uds": "borraron"
+    },
+    "condicional": {
+      "yo": "borraría",
+      "tu": "borrarías",
+      "ud": "borraría",
+      "nosotros": "borraríamos",
+      "vosotros": "borraríais",
+      "uds": "borrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he borrado",
+      "tu": "has borrado",
+      "ud": "ha borrado",
+      "nosotros": "hemos borrado",
+      "vosotros": "habéis borrado",
+      "uds": "han borrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré borrado",
+      "tu": "habrás borrado",
+      "ud": "habrá borrado",
+      "nosotros": "habremos borrado",
+      "vosotros": "habréis borrado",
+      "uds": "habrán borrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había borrado",
+      "tu": "habías borrado",
+      "ud": "había borrado",
+      "nosotros": "habíamos borrado",
+      "vosotros": "habíais borrado",
+      "uds": "habían borrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube borrado",
+      "tu": "hubiste borrado",
+      "ud": "hubo borrado",
+      "nosotros": "hubimos borrado",
+      "vosotros": "hubisteis borrado",
+      "uds": "hubieron borrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría borrado",
+      "tu": "habrías borrado",
+      "ud": "habría borrado",
+      "nosotros": "habríamos borrado",
+      "vosotros": "habríais borrado",
+      "uds": "habrían borrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "borre",
+      "tu": "borres",
+      "ud": "borre",
+      "nosotros": "borremos",
+      "vosotros": "borréis",
+      "uds": "borren"
+    },
+    "imperfecto": {
+      "yo": "borrara",
+      "tu": "borraras",
+      "ud": "borrara",
+      "nosotros": "borráramos",
+      "vosotros": "borrarais",
+      "uds": "borraran"
+    },
+    "futuro": {
+      "yo": "borrare",
+      "tu": "borrares",
+      "ud": "borrare",
+      "nosotros": "borráremos",
+      "vosotros": "borrareis",
+      "uds": "borraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya borrado",
+      "tu": "hayas borrado",
+      "ud": "haya borrado",
+      "nosotros": "hayamos borrado",
+      "vosotros": "hayáis borrado",
+      "uds": "hayan borrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere borrado",
+      "tu": "hubieres borrado",
+      "ud": "hubiere borrado",
+      "nosotros": "hubiéremos borrado",
+      "vosotros": "hubiereis borrado",
+      "uds": "hubieren borrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera borrado",
+      "tu": "hubieras borrado",
+      "ud": "hubiera borrado",
+      "nosotros": "hubiéramos borrado",
+      "vosotros": "hubierais borrado",
+      "uds": "hubieran borrado"
+    },
+    "imperfectoAlt": {
+      "yo": "borrase",
+      "tu": "borrases",
+      "ud": "borrase",
+      "nosotros": "borrásemos",
+      "vosotros": "borraseis",
+      "uds": "borrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese borrado",
+      "tu": "hubieses borrado",
+      "ud": "hubiese borrado",
+      "nosotros": "hubiésemos borrado",
+      "vosotros": "hubieseis borrado",
+      "uds": "hubiesen borrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "borra",
+    "vosotros": "borrad",
+    "ud": "borre",
+    "uds": "borren"
+  },
+  "negativo": {
+    "tu": "no borres",
+    "vosotros": "no borréis",
+    "ud": "no borre",
+    "uds": "no borren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to erase, rub out, to cross out, obliterate, wipe out",
+    "gerundio": "erasing",
+    "participioPasado": "erased",
+    "indicativo": {
+      "presente": "I erase, am erasing",
+      "futuro": "I will erase",
+      "imperfecto": "I was erasing, used to erase, erased",
+      "preterito": "I erased",
+      "condicional": "I would erase",
+      "presentePerfecto": "I have erased",
+      "futuroPerfecto": "I will have erased",
+      "pluscuamperfecto": "I had erased",
+      "preteritoAnterior": "I had erased",
+      "condicionalPerfecto": "I would have erased"
+    },
+    "subjuntivo": {
+      "presente": "I erase, am erasing",
+      "imperfecto": "I erased, was erasing",
+      "futuro": "I will erase",
+      "presentePerfecto": "I have erased, erased",
+      "futuroPerfecto": "I will have erased",
+      "pluscuamperfecto": "I had erased"
+    },
+    "afirmativo": "Erase!",
+    "negativo": "Don't erase!"
+  },
+  "attribution": "Fred Jehle"
+}

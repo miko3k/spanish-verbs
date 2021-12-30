@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "sobrevivir",
+  "gerundio": "sobreviviendo",
+  "participioPasado": "sobrevivido",
+  "indicativo": {
+    "presente": {
+      "yo": "sobrevivo",
+      "tu": "sobrevives",
+      "ud": "sobrevive",
+      "nosotros": "sobrevivimos",
+      "vosotros": "sobrevivís",
+      "uds": "sobreviven"
+    },
+    "futuro": {
+      "yo": "sobreviviré",
+      "tu": "sobrevivirás",
+      "ud": "sobrevivirá",
+      "nosotros": "sobreviviremos",
+      "vosotros": "sobreviviréis",
+      "uds": "sobrevivirán"
+    },
+    "imperfecto": {
+      "yo": "sobrevivía",
+      "tu": "sobrevivías",
+      "ud": "sobrevivía",
+      "nosotros": "sobrevivíamos",
+      "vosotros": "sobrevivíais",
+      "uds": "sobrevivían"
+    },
+    "preterito": {
+      "yo": "sobreviví",
+      "tu": "sobreviviste",
+      "ud": "sobrevivió",
+      "nosotros": "sobrevivimos",
+      "vosotros": "sobrevivisteis",
+      "uds": "sobrevivieron"
+    },
+    "condicional": {
+      "yo": "sobreviviría",
+      "tu": "sobrevivirías",
+      "ud": "sobreviviría",
+      "nosotros": "sobreviviríamos",
+      "vosotros": "sobreviviríais",
+      "uds": "sobrevivirían"
+    },
+    "presentePerfecto": {
+      "yo": "he sobrevivido",
+      "tu": "has sobrevivido",
+      "ud": "ha sobrevivido",
+      "nosotros": "hemos sobrevivido",
+      "vosotros": "habéis sobrevivido",
+      "uds": "han sobrevivido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sobrevivido",
+      "tu": "habrás sobrevivido",
+      "ud": "habrá sobrevivido",
+      "nosotros": "habremos sobrevivido",
+      "vosotros": "habréis sobrevivido",
+      "uds": "habrán sobrevivido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sobrevivido",
+      "tu": "habías sobrevivido",
+      "ud": "había sobrevivido",
+      "nosotros": "habíamos sobrevivido",
+      "vosotros": "habíais sobrevivido",
+      "uds": "habían sobrevivido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sobrevivido",
+      "tu": "hubiste sobrevivido",
+      "ud": "hubo sobrevivido",
+      "nosotros": "hubimos sobrevivido",
+      "vosotros": "hubisteis sobrevivido",
+      "uds": "hubieron sobrevivido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sobrevivido",
+      "tu": "habrías sobrevivido",
+      "ud": "habría sobrevivido",
+      "nosotros": "habríamos sobrevivido",
+      "vosotros": "habríais sobrevivido",
+      "uds": "habrían sobrevivido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sobreviva",
+      "tu": "sobrevivas",
+      "ud": "sobreviva",
+      "nosotros": "sobrevivamos",
+      "vosotros": "sobreviváis",
+      "uds": "sobrevivan"
+    },
+    "imperfecto": {
+      "yo": "sobreviviera",
+      "tu": "sobrevivieras",
+      "ud": "sobreviviera",
+      "nosotros": "sobreviviéramos",
+      "vosotros": "sobrevivierais",
+      "uds": "sobrevivieran"
+    },
+    "futuro": {
+      "yo": "sobreviviere",
+      "tu": "sobrevivieres",
+      "ud": "sobreviviere",
+      "nosotros": "sobreviviéremos",
+      "vosotros": "sobreviviereis",
+      "uds": "sobrevivieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sobrevivido",
+      "tu": "hayas sobrevivido",
+      "ud": "haya sobrevivido",
+      "nosotros": "hayamos sobrevivido",
+      "vosotros": "hayáis sobrevivido",
+      "uds": "hayan sobrevivido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sobrevivido",
+      "tu": "hubieres sobrevivido",
+      "ud": "hubiere sobrevivido",
+      "nosotros": "hubiéremos sobrevivido",
+      "vosotros": "hubiereis sobrevivido",
+      "uds": "hubieren sobrevivido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sobrevivido",
+      "tu": "hubieras sobrevivido",
+      "ud": "hubiera sobrevivido",
+      "nosotros": "hubiéramos sobrevivido",
+      "vosotros": "hubierais sobrevivido",
+      "uds": "hubieran sobrevivido"
+    },
+    "imperfectoAlt": {
+      "yo": "sobreviviese",
+      "tu": "sobrevivieses",
+      "ud": "sobreviviese",
+      "nosotros": "sobreviviésemos",
+      "vosotros": "sobrevivieseis",
+      "uds": "sobreviviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sobrevivido",
+      "tu": "hubieses sobrevivido",
+      "ud": "hubiese sobrevivido",
+      "nosotros": "hubiésemos sobrevivido",
+      "vosotros": "hubieseis sobrevivido",
+      "uds": "hubiesen sobrevivido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sobrevive",
+    "vosotros": "sobrevivid",
+    "ud": "sobreviva",
+    "uds": "sobrevivan"
+  },
+  "negativo": {
+    "tu": "no sobrevivas",
+    "vosotros": "no sobreviváis",
+    "ud": "no sobreviva",
+    "uds": "no sobrevivan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to survive, outlive, outlast",
+    "gerundio": "surviving",
+    "participioPasado": "survived",
+    "indicativo": {
+      "presente": "I survive, am surviving",
+      "futuro": "I will survive",
+      "imperfecto": "I was surviving, used to survive, survived",
+      "preterito": "I survived",
+      "condicional": "I would survive",
+      "presentePerfecto": "I have survived",
+      "futuroPerfecto": "I will have survived",
+      "pluscuamperfecto": "I had survived",
+      "preteritoAnterior": "I had survived",
+      "condicionalPerfecto": "I would have survived"
+    },
+    "subjuntivo": {
+      "presente": "I survive, am surviving",
+      "imperfecto": "I survived, was surviving",
+      "futuro": "I will survive",
+      "presentePerfecto": "I have survived, survived",
+      "futuroPerfecto": "I will have survived",
+      "pluscuamperfecto": "I had survived"
+    },
+    "afirmativo": "Survive!",
+    "negativo": "Don't survive!"
+  },
+  "attribution": "Fred Jehle"
+}

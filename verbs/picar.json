@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "picar",
+  "gerundio": "picando",
+  "participioPasado": "picado",
+  "indicativo": {
+    "presente": {
+      "yo": "pico",
+      "tu": "picas",
+      "ud": "pica",
+      "nosotros": "picamos",
+      "vosotros": "picáis",
+      "uds": "pican"
+    },
+    "futuro": {
+      "yo": "picaré",
+      "tu": "picarás",
+      "ud": "picará",
+      "nosotros": "picaremos",
+      "vosotros": "picaréis",
+      "uds": "picarán"
+    },
+    "imperfecto": {
+      "yo": "picaba",
+      "tu": "picabas",
+      "ud": "picaba",
+      "nosotros": "picábamos",
+      "vosotros": "picabais",
+      "uds": "picaban"
+    },
+    "preterito": {
+      "yo": "piqué",
+      "tu": "picaste",
+      "ud": "picó",
+      "nosotros": "picamos",
+      "vosotros": "picasteis",
+      "uds": "picaron"
+    },
+    "condicional": {
+      "yo": "picaría",
+      "tu": "picarías",
+      "ud": "picaría",
+      "nosotros": "picaríamos",
+      "vosotros": "picaríais",
+      "uds": "picarían"
+    },
+    "presentePerfecto": {
+      "yo": "he picado",
+      "tu": "has picado",
+      "ud": "ha picado",
+      "nosotros": "hemos picado",
+      "vosotros": "habéis picado",
+      "uds": "han picado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré picado",
+      "tu": "habrás picado",
+      "ud": "habrá picado",
+      "nosotros": "habremos picado",
+      "vosotros": "habréis picado",
+      "uds": "habrán picado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había picado",
+      "tu": "habías picado",
+      "ud": "había picado",
+      "nosotros": "habíamos picado",
+      "vosotros": "habíais picado",
+      "uds": "habían picado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube picado",
+      "tu": "hubiste picado",
+      "ud": "hubo picado",
+      "nosotros": "hubimos picado",
+      "vosotros": "hubisteis picado",
+      "uds": "hubieron picado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría picado",
+      "tu": "habrías picado",
+      "ud": "habría picado",
+      "nosotros": "habríamos picado",
+      "vosotros": "habríais picado",
+      "uds": "habrían picado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pique",
+      "tu": "piques",
+      "ud": "pique",
+      "nosotros": "piquemos",
+      "vosotros": "piquéis",
+      "uds": "piquen"
+    },
+    "imperfecto": {
+      "yo": "picara",
+      "tu": "picaras",
+      "ud": "picara",
+      "nosotros": "picáramos",
+      "vosotros": "picarais",
+      "uds": "picaran"
+    },
+    "futuro": {
+      "yo": "picare",
+      "tu": "picares",
+      "ud": "picare",
+      "nosotros": "picáremos",
+      "vosotros": "picareis",
+      "uds": "picaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya picado",
+      "tu": "hayas picado",
+      "ud": "haya picado",
+      "nosotros": "hayamos picado",
+      "vosotros": "hayáis picado",
+      "uds": "hayan picado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere picado",
+      "tu": "hubieres picado",
+      "ud": "hubiere picado",
+      "nosotros": "hubiéremos picado",
+      "vosotros": "hubiereis picado",
+      "uds": "hubieren picado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera picado",
+      "tu": "hubieras picado",
+      "ud": "hubiera picado",
+      "nosotros": "hubiéramos picado",
+      "vosotros": "hubierais picado",
+      "uds": "hubieran picado"
+    },
+    "imperfectoAlt": {
+      "yo": "picase",
+      "tu": "picases",
+      "ud": "picase",
+      "nosotros": "picásemos",
+      "vosotros": "picaseis",
+      "uds": "picasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese picado",
+      "tu": "hubieses picado",
+      "ud": "hubiese picado",
+      "nosotros": "hubiésemos picado",
+      "vosotros": "hubieseis picado",
+      "uds": "hubiesen picado"
+    }
+  },
+  "afirmativo": {
+    "tu": "pica",
+    "vosotros": "picad",
+    "ud": "pique",
+    "uds": "piquen"
+  },
+  "negativo": {
+    "tu": "no piques",
+    "vosotros": "no piquéis",
+    "ud": "no pique",
+    "uds": "no piquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to prick, puncture, perforate; to sting, bite (said of an insect or snake); to peck (at); to itch, sting",
+    "gerundio": "pricking",
+    "participioPasado": "pricked",
+    "indicativo": {
+      "presente": "I prick, am pricking",
+      "futuro": "I will prick",
+      "imperfecto": "I was pricking, used to prick, pricked",
+      "preterito": "I pricked",
+      "condicional": "I would prick",
+      "presentePerfecto": "I have pricked",
+      "futuroPerfecto": "I will have pricked",
+      "pluscuamperfecto": "I had pricked",
+      "preteritoAnterior": "I had pricked",
+      "condicionalPerfecto": "I would have pricked"
+    },
+    "subjuntivo": {
+      "presente": "I prick, am pricking",
+      "imperfecto": "I pricked, was pricking",
+      "futuro": "I will prick",
+      "presentePerfecto": "I have pricked, pricked",
+      "futuroPerfecto": "I will have pricked",
+      "pluscuamperfecto": "I had pricked"
+    },
+    "afirmativo": "Prick!",
+    "negativo": "Don't prick!"
+  },
+  "attribution": "Fred Jehle"
+}

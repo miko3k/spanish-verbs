@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "introducir",
+  "gerundio": "introduciendo",
+  "participioPasado": "introducido",
+  "indicativo": {
+    "presente": {
+      "yo": "introduzco",
+      "tu": "introduces",
+      "ud": "introduce",
+      "nosotros": "introducimos",
+      "vosotros": "introducís",
+      "uds": "introducen"
+    },
+    "futuro": {
+      "yo": "introduciré",
+      "tu": "introducirás",
+      "ud": "introducirá",
+      "nosotros": "introduciremos",
+      "vosotros": "introduciréis",
+      "uds": "introducirán"
+    },
+    "imperfecto": {
+      "yo": "introducía",
+      "tu": "introducías",
+      "ud": "introducía",
+      "nosotros": "introducíamos",
+      "vosotros": "introducíais",
+      "uds": "introducían"
+    },
+    "preterito": {
+      "yo": "introduje",
+      "tu": "introdujiste",
+      "ud": "introdujo",
+      "nosotros": "introdujimos",
+      "vosotros": "introdujisteis",
+      "uds": "introdujeron"
+    },
+    "condicional": {
+      "yo": "introduciría",
+      "tu": "introducirías",
+      "ud": "introduciría",
+      "nosotros": "introduciríamos",
+      "vosotros": "introduciríais",
+      "uds": "introducirían"
+    },
+    "presentePerfecto": {
+      "yo": "he introducido",
+      "tu": "has introducido",
+      "ud": "ha introducido",
+      "nosotros": "hemos introducido",
+      "vosotros": "habéis introducido",
+      "uds": "han introducido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré introducido",
+      "tu": "habrás introducido",
+      "ud": "habrá introducido",
+      "nosotros": "habremos introducido",
+      "vosotros": "habréis introducido",
+      "uds": "habrán introducido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había introducido",
+      "tu": "habías introducido",
+      "ud": "había introducido",
+      "nosotros": "habíamos introducido",
+      "vosotros": "habíais introducido",
+      "uds": "habían introducido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube introducido",
+      "tu": "hubiste introducido",
+      "ud": "hubo introducido",
+      "nosotros": "hubimos introducido",
+      "vosotros": "hubisteis introducido",
+      "uds": "hubieron introducido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría introducido",
+      "tu": "habrías introducido",
+      "ud": "habría introducido",
+      "nosotros": "habríamos introducido",
+      "vosotros": "habríais introducido",
+      "uds": "habrían introducido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "introduzca",
+      "tu": "introduzcas",
+      "ud": "introduzca",
+      "nosotros": "introduzcamos",
+      "vosotros": "introduzcáis",
+      "uds": "introduzcan"
+    },
+    "imperfecto": {
+      "yo": "introdujera",
+      "tu": "introdujeras",
+      "ud": "introdujera",
+      "nosotros": "introdujéramos",
+      "vosotros": "introdujerais",
+      "uds": "introdujeran"
+    },
+    "futuro": {
+      "yo": "introdujere",
+      "tu": "introdujeres",
+      "ud": "introdujere",
+      "nosotros": "introdujéremos",
+      "vosotros": "introdujereis",
+      "uds": "introdujeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya introducido",
+      "tu": "hayas introducido",
+      "ud": "haya introducido",
+      "nosotros": "hayamos introducido",
+      "vosotros": "hayáis introducido",
+      "uds": "hayan introducido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere introducido",
+      "tu": "hubieres introducido",
+      "ud": "hubiere introducido",
+      "nosotros": "hubiéremos introducido",
+      "vosotros": "hubiereis introducido",
+      "uds": "hubieren introducido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera introducido",
+      "tu": "hubieras introducido",
+      "ud": "hubiera introducido",
+      "nosotros": "hubiéramos introducido",
+      "vosotros": "hubierais introducido",
+      "uds": "hubieran introducido"
+    },
+    "imperfectoAlt": {
+      "yo": "introdujese",
+      "tu": "introdujeses",
+      "ud": "introdujese",
+      "nosotros": "introdujésemos",
+      "vosotros": "introdujeseis",
+      "uds": "introdujesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese introducido",
+      "tu": "hubieses introducido",
+      "ud": "hubiese introducido",
+      "nosotros": "hubiésemos introducido",
+      "vosotros": "hubieseis introducido",
+      "uds": "hubiesen introducido"
+    }
+  },
+  "afirmativo": {
+    "tu": "introduce",
+    "vosotros": "introducid",
+    "ud": "introduzca",
+    "uds": "introduzcan"
+  },
+  "negativo": {
+    "tu": "no introduzcas",
+    "vosotros": "no introduzcáis",
+    "ud": "no introduzca",
+    "uds": "no introduzcan"
+  },
+  "english": {
+    "note": "Formas irregulares: introduzco, introduzca, introduzcas, etc. Note: Use the verb presentar to introduce people.",
+    "infinitivo": "to introduce, insert",
+    "gerundio": "introducing",
+    "participioPasado": "introduced",
+    "indicativo": {
+      "presente": "I introduce, am introducing",
+      "futuro": "I will introduce",
+      "imperfecto": "I was introducing, used to introduce, introduced",
+      "preterito": "I introduced",
+      "condicional": "I would introduce",
+      "presentePerfecto": "I have introduced",
+      "futuroPerfecto": "I will have introduced",
+      "pluscuamperfecto": "I had introduced",
+      "preteritoAnterior": "I had introduced",
+      "condicionalPerfecto": "I would have introduced"
+    },
+    "subjuntivo": {
+      "presente": "I introduce, am introducing",
+      "imperfecto": "I introduced, was introducing",
+      "futuro": "I will introduce",
+      "presentePerfecto": "I have introduced, introduced",
+      "futuroPerfecto": "I will have introduced",
+      "pluscuamperfecto": "I had introduced"
+    },
+    "afirmativo": "Introduce!",
+    "negativo": "Don't introduce!"
+  },
+  "attribution": "Fred Jehle"
+}

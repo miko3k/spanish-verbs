@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "consentir",
+  "gerundio": "consintiendo",
+  "participioPasado": "consentido",
+  "indicativo": {
+    "presente": {
+      "yo": "consiento",
+      "tu": "consientes",
+      "ud": "consiente",
+      "nosotros": "consentimos",
+      "vosotros": "consentís",
+      "uds": "consienten"
+    },
+    "futuro": {
+      "yo": "consentiré",
+      "tu": "consentirás",
+      "ud": "consentirá",
+      "nosotros": "consentiremos",
+      "vosotros": "consentiréis",
+      "uds": "consentirán"
+    },
+    "imperfecto": {
+      "yo": "consentía",
+      "tu": "consentías",
+      "ud": "consentía",
+      "nosotros": "consentíamos",
+      "vosotros": "consentíais",
+      "uds": "consentían"
+    },
+    "preterito": {
+      "yo": "consentí",
+      "tu": "consentiste",
+      "ud": "consintió",
+      "nosotros": "consentimos",
+      "vosotros": "consentisteis",
+      "uds": "consintieron"
+    },
+    "condicional": {
+      "yo": "consentiría",
+      "tu": "consentirías",
+      "ud": "consentiría",
+      "nosotros": "consentiríamos",
+      "vosotros": "consentiríais",
+      "uds": "consentirían"
+    },
+    "presentePerfecto": {
+      "yo": "he consentido",
+      "tu": "has consentido",
+      "ud": "ha consentido",
+      "nosotros": "hemos consentido",
+      "vosotros": "habéis consentido",
+      "uds": "han consentido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré consentido",
+      "tu": "habrás consentido",
+      "ud": "habrá consentido",
+      "nosotros": "habremos consentido",
+      "vosotros": "habréis consentido",
+      "uds": "habrán consentido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había consentido",
+      "tu": "habías consentido",
+      "ud": "había consentido",
+      "nosotros": "habíamos consentido",
+      "vosotros": "habíais consentido",
+      "uds": "habían consentido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube consentido",
+      "tu": "hubiste consentido",
+      "ud": "hubo consentido",
+      "nosotros": "hubimos consentido",
+      "vosotros": "hubisteis consentido",
+      "uds": "hubieron consentido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría consentido",
+      "tu": "habrías consentido",
+      "ud": "habría consentido",
+      "nosotros": "habríamos consentido",
+      "vosotros": "habríais consentido",
+      "uds": "habrían consentido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "consienta",
+      "tu": "consientas",
+      "ud": "consienta",
+      "nosotros": "consintamos",
+      "vosotros": "consintáis",
+      "uds": "consientan"
+    },
+    "imperfecto": {
+      "yo": "consintiera",
+      "tu": "consintieras",
+      "ud": "consintiera",
+      "nosotros": "consintiéramos",
+      "vosotros": "consintierais",
+      "uds": "consintieran"
+    },
+    "futuro": {
+      "yo": "consintiere",
+      "tu": "consintieres",
+      "ud": "consintiere",
+      "nosotros": "consintiéremos",
+      "vosotros": "consintiereis",
+      "uds": "consintieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya consentido",
+      "tu": "hayas consentido",
+      "ud": "haya consentido",
+      "nosotros": "hayamos consentido",
+      "vosotros": "hayáis consentido",
+      "uds": "hayan consentido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere consentido",
+      "tu": "hubieres consentido",
+      "ud": "hubiere consentido",
+      "nosotros": "hubiéremos consentido",
+      "vosotros": "hubiereis consentido",
+      "uds": "hubieren consentido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera consentido",
+      "tu": "hubieras consentido",
+      "ud": "hubiera consentido",
+      "nosotros": "hubiéramos consentido",
+      "vosotros": "hubierais consentido",
+      "uds": "hubieran consentido"
+    },
+    "imperfectoAlt": {
+      "yo": "consintiese",
+      "tu": "consintieses",
+      "ud": "consintiese",
+      "nosotros": "consintiésemos",
+      "vosotros": "consintieseis",
+      "uds": "consintiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese consentido",
+      "tu": "hubieses consentido",
+      "ud": "hubiese consentido",
+      "nosotros": "hubiésemos consentido",
+      "vosotros": "hubieseis consentido",
+      "uds": "hubiesen consentido"
+    }
+  },
+  "afirmativo": {
+    "tu": "consiente",
+    "vosotros": "consentid",
+    "ud": "consienta",
+    "uds": "consientan"
+  },
+  "negativo": {
+    "tu": "no consientas",
+    "vosotros": "no consintáis",
+    "ud": "no consienta",
+    "uds": "no consientan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i.",
+    "infinitivo": "to consent to; to allow, permit; to tolerate, put up with; to admit; to agree, consent",
+    "gerundio": "consenting to",
+    "participioPasado": "consented to",
+    "indicativo": {
+      "presente": "I consent to, am consenting to",
+      "futuro": "I will consent to",
+      "imperfecto": "I was consenting to, used to consent to, consented to",
+      "preterito": "I consented to",
+      "condicional": "I would consent to",
+      "presentePerfecto": "I have consented to",
+      "futuroPerfecto": "I will have consented to",
+      "pluscuamperfecto": "I had consented to",
+      "preteritoAnterior": "I had consented to",
+      "condicionalPerfecto": "I would have consented to"
+    },
+    "subjuntivo": {
+      "presente": "I consent to, am consenting to",
+      "imperfecto": "I consented to, was consenting to",
+      "futuro": "I will consent to",
+      "presentePerfecto": "I have consented to, consented to",
+      "futuroPerfecto": "I will have consented to",
+      "pluscuamperfecto": "I had consented to"
+    },
+    "afirmativo": "Consent to!",
+    "negativo": "Don't consent to!"
+  },
+  "attribution": "Fred Jehle"
+}

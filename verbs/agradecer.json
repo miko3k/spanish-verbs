@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "agradecer",
+  "gerundio": "agradeciendo",
+  "participioPasado": "agradecido",
+  "indicativo": {
+    "presente": {
+      "yo": "agradezco",
+      "tu": "agradeces",
+      "ud": "agradece",
+      "nosotros": "agradecemos",
+      "vosotros": "agradecéis",
+      "uds": "agradecen"
+    },
+    "futuro": {
+      "yo": "agradeceré",
+      "tu": "agradecerás",
+      "ud": "agradecerá",
+      "nosotros": "agradeceremos",
+      "vosotros": "agradeceréis",
+      "uds": "agradecerán"
+    },
+    "imperfecto": {
+      "yo": "agradecía",
+      "tu": "agradecías",
+      "ud": "agradecía",
+      "nosotros": "agradecíamos",
+      "vosotros": "agradecíais",
+      "uds": "agradecían"
+    },
+    "preterito": {
+      "yo": "agradecí",
+      "tu": "agradeciste",
+      "ud": "agradeció",
+      "nosotros": "agradecimos",
+      "vosotros": "agradecisteis",
+      "uds": "agradecieron"
+    },
+    "condicional": {
+      "yo": "agradecería",
+      "tu": "agradecerías",
+      "ud": "agradecería",
+      "nosotros": "agradeceríamos",
+      "vosotros": "agradeceríais",
+      "uds": "agradecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he agradecido",
+      "tu": "has agradecido",
+      "ud": "ha agradecido",
+      "nosotros": "hemos agradecido",
+      "vosotros": "habéis agradecido",
+      "uds": "han agradecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré agradecido",
+      "tu": "habrás agradecido",
+      "ud": "habrá agradecido",
+      "nosotros": "habremos agradecido",
+      "vosotros": "habréis agradecido",
+      "uds": "habrán agradecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había agradecido",
+      "tu": "habías agradecido",
+      "ud": "había agradecido",
+      "nosotros": "habíamos agradecido",
+      "vosotros": "habíais agradecido",
+      "uds": "habían agradecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube agradecido",
+      "tu": "hubiste agradecido",
+      "ud": "hubo agradecido",
+      "nosotros": "hubimos agradecido",
+      "vosotros": "hubisteis agradecido",
+      "uds": "hubieron agradecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría agradecido",
+      "tu": "habrías agradecido",
+      "ud": "habría agradecido",
+      "nosotros": "habríamos agradecido",
+      "vosotros": "habríais agradecido",
+      "uds": "habrían agradecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "agradezca",
+      "tu": "agradezcas",
+      "ud": "agradezca",
+      "nosotros": "agradezcamos",
+      "vosotros": "agradezcáis",
+      "uds": "agradezcan"
+    },
+    "imperfecto": {
+      "yo": "agradeciera",
+      "tu": "agradecieras",
+      "ud": "agradeciera",
+      "nosotros": "agradeciéramos",
+      "vosotros": "agradecierais",
+      "uds": "agradecieran"
+    },
+    "futuro": {
+      "yo": "agradeciere",
+      "tu": "agradecieres",
+      "ud": "agradeciere",
+      "nosotros": "agradeciéremos",
+      "vosotros": "agradeciereis",
+      "uds": "agradecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya agradecido",
+      "tu": "hayas agradecido",
+      "ud": "haya agradecido",
+      "nosotros": "hayamos agradecido",
+      "vosotros": "hayáis agradecido",
+      "uds": "hayan agradecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere agradecido",
+      "tu": "hubieres agradecido",
+      "ud": "hubiere agradecido",
+      "nosotros": "hubiéremos agradecido",
+      "vosotros": "hubiereis agradecido",
+      "uds": "hubieren agradecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera agradecido",
+      "tu": "hubieras agradecido",
+      "ud": "hubiera agradecido",
+      "nosotros": "hubiéramos agradecido",
+      "vosotros": "hubierais agradecido",
+      "uds": "hubieran agradecido"
+    },
+    "imperfectoAlt": {
+      "yo": "agradeciese",
+      "tu": "agradecieses",
+      "ud": "agradeciese",
+      "nosotros": "agradeciésemos",
+      "vosotros": "agradecieseis",
+      "uds": "agradeciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese agradecido",
+      "tu": "hubieses agradecido",
+      "ud": "hubiese agradecido",
+      "nosotros": "hubiésemos agradecido",
+      "vosotros": "hubieseis agradecido",
+      "uds": "hubiesen agradecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "agradece",
+    "vosotros": "agradeced",
+    "ud": "agradezca",
+    "uds": "agradezcan"
+  },
+  "negativo": {
+    "tu": "no agradezcas",
+    "vosotros": "no agradezcáis",
+    "ud": "no agradezca",
+    "uds": "no agradezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: agradezco, agradezca, agradezcas, etc. Example: Te agradezco tu ayuda. = I'm thankful for your help, I thank you for your help.",
+    "infinitivo": "to be thankful for; to thank (for)",
+    "gerundio": "being thankful for",
+    "participioPasado": "thankful for",
+    "indicativo": {
+      "presente": "I am thankful for",
+      "futuro": "I will be thankful for",
+      "imperfecto": "I was being thankful for, used to be thankful for, was thankful for",
+      "preterito": "I was thankful for",
+      "condicional": "I would be thankful for",
+      "presentePerfecto": "I have been thankful for",
+      "futuroPerfecto": "I will have been thankful for",
+      "pluscuamperfecto": "I had been thankful for",
+      "preteritoAnterior": "I had been thankful for",
+      "condicionalPerfecto": "I would have been thankful for"
+    },
+    "subjuntivo": {
+      "presente": "I am thankful for",
+      "imperfecto": "I was thankful for, was being thankful for",
+      "futuro": "I will be thankful for",
+      "presentePerfecto": "I have been thankful for, was thankful for",
+      "futuroPerfecto": "I will have been thankful for",
+      "pluscuamperfecto": "I had been thankful for"
+    },
+    "afirmativo": "Be thankful for!",
+    "negativo": "Don't be thankful for!"
+  },
+  "attribution": "Fred Jehle"
+}

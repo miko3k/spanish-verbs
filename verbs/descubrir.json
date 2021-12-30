@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "descubrir",
+  "gerundio": "descubriendo",
+  "participioPasado": "descubierto",
+  "indicativo": {
+    "presente": {
+      "yo": "descubro",
+      "tu": "descubres",
+      "ud": "descubre",
+      "nosotros": "descubrimos",
+      "vosotros": "descubrís",
+      "uds": "descubren"
+    },
+    "futuro": {
+      "yo": "descubriré",
+      "tu": "descubrirás",
+      "ud": "descubrirá",
+      "nosotros": "descubriremos",
+      "vosotros": "descubriréis",
+      "uds": "descubrirán"
+    },
+    "imperfecto": {
+      "yo": "descubría",
+      "tu": "descubrías",
+      "ud": "descubría",
+      "nosotros": "descubríamos",
+      "vosotros": "descubríais",
+      "uds": "descubrían"
+    },
+    "preterito": {
+      "yo": "descubrí",
+      "tu": "descubriste",
+      "ud": "descubrió",
+      "nosotros": "descubrimos",
+      "vosotros": "descubristeis",
+      "uds": "descubrieron"
+    },
+    "condicional": {
+      "yo": "descubriría",
+      "tu": "descubrirías",
+      "ud": "descubriría",
+      "nosotros": "descubriríamos",
+      "vosotros": "descubriríais",
+      "uds": "descubrirían"
+    },
+    "presentePerfecto": {
+      "yo": "he descubierto",
+      "tu": "has descubierto",
+      "ud": "ha descubierto",
+      "nosotros": "hemos descubierto",
+      "vosotros": "habéis descubierto",
+      "uds": "han descubierto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré descubierto",
+      "tu": "habrás descubierto",
+      "ud": "habrá descubierto",
+      "nosotros": "habremos descubierto",
+      "vosotros": "habréis descubierto",
+      "uds": "habrán descubierto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había descubierto",
+      "tu": "habías descubierto",
+      "ud": "había descubierto",
+      "nosotros": "habíamos descubierto",
+      "vosotros": "habíais descubierto",
+      "uds": "habían descubierto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube descubierto",
+      "tu": "hubiste descubierto",
+      "ud": "hubo descubierto",
+      "nosotros": "hubimos descubierto",
+      "vosotros": "hubisteis descubierto",
+      "uds": "hubieron descubierto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría descubierto",
+      "tu": "habrías descubierto",
+      "ud": "habría descubierto",
+      "nosotros": "habríamos descubierto",
+      "vosotros": "habríais descubierto",
+      "uds": "habrían descubierto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "descubra",
+      "tu": "descubras",
+      "ud": "descubra",
+      "nosotros": "descubramos",
+      "vosotros": "descubráis",
+      "uds": "descubran"
+    },
+    "imperfecto": {
+      "yo": "descubriera",
+      "tu": "descubrieras",
+      "ud": "descubriera",
+      "nosotros": "descubriéramos",
+      "vosotros": "descubrierais",
+      "uds": "descubrieran"
+    },
+    "futuro": {
+      "yo": "descubriere",
+      "tu": "descubrieres",
+      "ud": "descubriere",
+      "nosotros": "descubriéremos",
+      "vosotros": "descubriereis",
+      "uds": "descubrieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya descubierto",
+      "tu": "hayas descubierto",
+      "ud": "haya descubierto",
+      "nosotros": "hayamos descubierto",
+      "vosotros": "hayáis descubierto",
+      "uds": "hayan descubierto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere descubierto",
+      "tu": "hubieres descubierto",
+      "ud": "hubiere descubierto",
+      "nosotros": "hubiéremos descubierto",
+      "vosotros": "hubiereis descubierto",
+      "uds": "hubieren descubierto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera descubierto",
+      "tu": "hubieras descubierto",
+      "ud": "hubiera descubierto",
+      "nosotros": "hubiéramos descubierto",
+      "vosotros": "hubierais descubierto",
+      "uds": "hubieran descubierto"
+    },
+    "imperfectoAlt": {
+      "yo": "descubriese",
+      "tu": "descubrieses",
+      "ud": "descubriese",
+      "nosotros": "descubriésemos",
+      "vosotros": "descubrieseis",
+      "uds": "descubriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese descubierto",
+      "tu": "hubieses descubierto",
+      "ud": "hubiese descubierto",
+      "nosotros": "hubiésemos descubierto",
+      "vosotros": "hubieseis descubierto",
+      "uds": "hubiesen descubierto"
+    }
+  },
+  "afirmativo": {
+    "tu": "descubre",
+    "vosotros": "descubrid",
+    "ud": "descubra",
+    "uds": "descubran"
+  },
+  "negativo": {
+    "tu": "no descubras",
+    "vosotros": "no descubráis",
+    "ud": "no descubra",
+    "uds": "no descubran"
+  },
+  "english": {
+    "note": "Participio pasado irregular: descubierto.",
+    "infinitivo": "to discover",
+    "gerundio": "discovering",
+    "participioPasado": "discovered",
+    "indicativo": {
+      "presente": "I discover, am discovering",
+      "futuro": "I will discover",
+      "imperfecto": "I was discovering, used to discover, discovered",
+      "preterito": "I discovered",
+      "condicional": "I would discover",
+      "presentePerfecto": "I have discovered",
+      "futuroPerfecto": "I will have discovered",
+      "pluscuamperfecto": "I had discovered",
+      "preteritoAnterior": "I had discovered",
+      "condicionalPerfecto": "I would have discovered"
+    },
+    "subjuntivo": {
+      "presente": "I discover, am discovering",
+      "imperfecto": "I discovered, was discovering",
+      "futuro": "I will discover",
+      "presentePerfecto": "I have discovered, discovered",
+      "futuroPerfecto": "I will have discovered",
+      "pluscuamperfecto": "I had discovered"
+    },
+    "afirmativo": "Discover!",
+    "negativo": "Don't discover!"
+  },
+  "attribution": "Fred Jehle"
+}

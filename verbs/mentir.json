@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "mentir",
+  "gerundio": "mintiendo",
+  "participioPasado": "mentido",
+  "indicativo": {
+    "presente": {
+      "yo": "miento",
+      "tu": "mientes",
+      "ud": "miente",
+      "nosotros": "mentimos",
+      "vosotros": "mentís",
+      "uds": "mienten"
+    },
+    "futuro": {
+      "yo": "mentiré",
+      "tu": "mentirás",
+      "ud": "mentirá",
+      "nosotros": "mentiremos",
+      "vosotros": "mentiréis",
+      "uds": "mentirán"
+    },
+    "imperfecto": {
+      "yo": "mentía",
+      "tu": "mentías",
+      "ud": "mentía",
+      "nosotros": "mentíamos",
+      "vosotros": "mentíais",
+      "uds": "mentían"
+    },
+    "preterito": {
+      "yo": "mentí",
+      "tu": "mentiste",
+      "ud": "mintió",
+      "nosotros": "mentimos",
+      "vosotros": "mentisteis",
+      "uds": "mintieron"
+    },
+    "condicional": {
+      "yo": "mentiría",
+      "tu": "mentirías",
+      "ud": "mentiría",
+      "nosotros": "mentiríamos",
+      "vosotros": "mentiríais",
+      "uds": "mentirían"
+    },
+    "presentePerfecto": {
+      "yo": "he mentido",
+      "tu": "has mentido",
+      "ud": "ha mentido",
+      "nosotros": "hemos mentido",
+      "vosotros": "habéis mentido",
+      "uds": "han mentido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré mentido",
+      "tu": "habrás mentido",
+      "ud": "habrá mentido",
+      "nosotros": "habremos mentido",
+      "vosotros": "habréis mentido",
+      "uds": "habrán mentido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había mentido",
+      "tu": "habías mentido",
+      "ud": "había mentido",
+      "nosotros": "habíamos mentido",
+      "vosotros": "habíais mentido",
+      "uds": "habían mentido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube mentido",
+      "tu": "hubiste mentido",
+      "ud": "hubo mentido",
+      "nosotros": "hubimos mentido",
+      "vosotros": "hubisteis mentido",
+      "uds": "hubieron mentido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría mentido",
+      "tu": "habrías mentido",
+      "ud": "habría mentido",
+      "nosotros": "habríamos mentido",
+      "vosotros": "habríais mentido",
+      "uds": "habrían mentido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "mienta",
+      "tu": "mientas",
+      "ud": "mienta",
+      "nosotros": "mintamos",
+      "vosotros": "mintáis",
+      "uds": "mientan"
+    },
+    "imperfecto": {
+      "yo": "mintiera",
+      "tu": "mintieras",
+      "ud": "mintiera",
+      "nosotros": "mintiéramos",
+      "vosotros": "mintierais",
+      "uds": "mintieran"
+    },
+    "futuro": {
+      "yo": "mintiere",
+      "tu": "mintieres",
+      "ud": "mintiere",
+      "nosotros": "mintiéremos",
+      "vosotros": "mintiereis",
+      "uds": "mintieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya mentido",
+      "tu": "hayas mentido",
+      "ud": "haya mentido",
+      "nosotros": "hayamos mentido",
+      "vosotros": "hayáis mentido",
+      "uds": "hayan mentido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere mentido",
+      "tu": "hubieres mentido",
+      "ud": "hubiere mentido",
+      "nosotros": "hubiéremos mentido",
+      "vosotros": "hubiereis mentido",
+      "uds": "hubieren mentido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera mentido",
+      "tu": "hubieras mentido",
+      "ud": "hubiera mentido",
+      "nosotros": "hubiéramos mentido",
+      "vosotros": "hubierais mentido",
+      "uds": "hubieran mentido"
+    },
+    "imperfectoAlt": {
+      "yo": "mintiese",
+      "tu": "mintieses",
+      "ud": "mintiese",
+      "nosotros": "mintiésemos",
+      "vosotros": "mintieseis",
+      "uds": "mintiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese mentido",
+      "tu": "hubieses mentido",
+      "ud": "hubiese mentido",
+      "nosotros": "hubiésemos mentido",
+      "vosotros": "hubieseis mentido",
+      "uds": "hubiesen mentido"
+    }
+  },
+  "afirmativo": {
+    "tu": "miente",
+    "vosotros": "mentid",
+    "ud": "mienta",
+    "uds": "mientan"
+  },
+  "negativo": {
+    "tu": "no mientas",
+    "vosotros": "no mintáis",
+    "ud": "no mienta",
+    "uds": "no mientan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i.",
+    "infinitivo": "to lie (i.e., not tell the truth)",
+    "gerundio": "lying",
+    "participioPasado": "lied",
+    "indicativo": {
+      "presente": "I lie, am lying",
+      "futuro": "I will lie",
+      "imperfecto": "I was lying, used to lie, lied",
+      "preterito": "I lied",
+      "condicional": "I would lie",
+      "presentePerfecto": "I have lied",
+      "futuroPerfecto": "I will have lied",
+      "pluscuamperfecto": "I had lied",
+      "preteritoAnterior": "I had lied",
+      "condicionalPerfecto": "I would have lied"
+    },
+    "subjuntivo": {
+      "presente": "I lie, am lying",
+      "imperfecto": "I lied, was lying",
+      "futuro": "I will lie",
+      "presentePerfecto": "I have lied, lied",
+      "futuroPerfecto": "I will have lied",
+      "pluscuamperfecto": "I had lied"
+    },
+    "afirmativo": "Lie!",
+    "negativo": "Don't lie!"
+  },
+  "attribution": "Fred Jehle"
+}

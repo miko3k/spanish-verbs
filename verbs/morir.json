@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "morir",
+  "gerundio": "muriendo",
+  "participioPasado": "muerto",
+  "indicativo": {
+    "presente": {
+      "yo": "muero",
+      "tu": "mueres",
+      "ud": "muere",
+      "nosotros": "morimos",
+      "vosotros": "morís",
+      "uds": "mueren"
+    },
+    "futuro": {
+      "yo": "moriré",
+      "tu": "morirás",
+      "ud": "morirá",
+      "nosotros": "moriremos",
+      "vosotros": "moriréis",
+      "uds": "morirán"
+    },
+    "imperfecto": {
+      "yo": "moría",
+      "tu": "morías",
+      "ud": "moría",
+      "nosotros": "moríamos",
+      "vosotros": "moríais",
+      "uds": "morían"
+    },
+    "preterito": {
+      "yo": "morí",
+      "tu": "moriste",
+      "ud": "murió",
+      "nosotros": "morimos",
+      "vosotros": "moristeis",
+      "uds": "murieron"
+    },
+    "condicional": {
+      "yo": "moriría",
+      "tu": "morirías",
+      "ud": "moriría",
+      "nosotros": "moriríamos",
+      "vosotros": "moriríais",
+      "uds": "morirían"
+    },
+    "presentePerfecto": {
+      "yo": "he muerto",
+      "tu": "has muerto",
+      "ud": "ha muerto",
+      "nosotros": "hemos muerto",
+      "vosotros": "habéis muerto",
+      "uds": "han muerto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré muerto",
+      "tu": "habrás muerto",
+      "ud": "habrá muerto",
+      "nosotros": "habremos muerto",
+      "vosotros": "habréis muerto",
+      "uds": "habrán muerto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había muerto",
+      "tu": "habías muerto",
+      "ud": "había muerto",
+      "nosotros": "habíamos muerto",
+      "vosotros": "habíais muerto",
+      "uds": "habían muerto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube muerto",
+      "tu": "hubiste muerto",
+      "ud": "hubo muerto",
+      "nosotros": "hubimos muerto",
+      "vosotros": "hubisteis muerto",
+      "uds": "hubieron muerto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría muerto",
+      "tu": "habrías muerto",
+      "ud": "habría muerto",
+      "nosotros": "habríamos muerto",
+      "vosotros": "habríais muerto",
+      "uds": "habrían muerto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "muera",
+      "tu": "mueras",
+      "ud": "muera",
+      "nosotros": "muramos",
+      "vosotros": "muráis",
+      "uds": "mueran"
+    },
+    "imperfecto": {
+      "yo": "muriera",
+      "tu": "murieras",
+      "ud": "muriera",
+      "nosotros": "muriéramos",
+      "vosotros": "murierais",
+      "uds": "murieran"
+    },
+    "futuro": {
+      "yo": "muriere",
+      "tu": "murieres",
+      "ud": "muriere",
+      "nosotros": "muriéremos",
+      "vosotros": "muriereis",
+      "uds": "murieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya muerto",
+      "tu": "hayas muerto",
+      "ud": "haya muerto",
+      "nosotros": "hayamos muerto",
+      "vosotros": "hayáis muerto",
+      "uds": "hayan muerto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere muerto",
+      "tu": "hubieres muerto",
+      "ud": "hubiere muerto",
+      "nosotros": "hubiéremos muerto",
+      "vosotros": "hubiereis muerto",
+      "uds": "hubieren muerto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera muerto",
+      "tu": "hubieras muerto",
+      "ud": "hubiera muerto",
+      "nosotros": "hubiéramos muerto",
+      "vosotros": "hubierais muerto",
+      "uds": "hubieran muerto"
+    },
+    "imperfectoAlt": {
+      "yo": "muriese",
+      "tu": "murieses",
+      "ud": "muriese",
+      "nosotros": "muriésemos",
+      "vosotros": "murieseis",
+      "uds": "muriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese muerto",
+      "tu": "hubieses muerto",
+      "ud": "hubiese muerto",
+      "nosotros": "hubiésemos muerto",
+      "vosotros": "hubieseis muerto",
+      "uds": "hubiesen muerto"
+    }
+  },
+  "afirmativo": {
+    "tu": "muere",
+    "vosotros": "morid",
+    "ud": "muera",
+    "uds": "mueran"
+  },
+  "negativo": {
+    "tu": "no mueras",
+    "vosotros": "no muráis",
+    "ud": "no muera",
+    "uds": "no mueran"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue > u. Participio pasado irregular: muerto.",
+    "infinitivo": "to die",
+    "gerundio": "dying",
+    "participioPasado": "died",
+    "indicativo": {
+      "presente": "I die, am dying",
+      "futuro": "I will die",
+      "imperfecto": "I was dying, used to die, died",
+      "preterito": "I died",
+      "condicional": "I would die",
+      "presentePerfecto": "I have died",
+      "futuroPerfecto": "I will have died",
+      "pluscuamperfecto": "I had died",
+      "preteritoAnterior": "I had died",
+      "condicionalPerfecto": "I would have died"
+    },
+    "subjuntivo": {
+      "presente": "I die, am dying",
+      "imperfecto": "I died, was dying",
+      "futuro": "I will die",
+      "presentePerfecto": "I have died, died",
+      "futuroPerfecto": "I will have died",
+      "pluscuamperfecto": "I had died"
+    },
+    "afirmativo": "Die!",
+    "negativo": "Don't die!"
+  },
+  "attribution": "Fred Jehle"
+}

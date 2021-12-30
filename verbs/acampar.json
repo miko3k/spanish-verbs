@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "acampar",
+  "gerundio": "acampando",
+  "participioPasado": "acampado",
+  "indicativo": {
+    "presente": {
+      "yo": "acampo",
+      "tu": "acampas",
+      "ud": "acampa",
+      "nosotros": "acampamos",
+      "vosotros": "acampáis",
+      "uds": "acampan"
+    },
+    "futuro": {
+      "yo": "acamparé",
+      "tu": "acamparás",
+      "ud": "acampará",
+      "nosotros": "acamparemos",
+      "vosotros": "acamparéis",
+      "uds": "acamparán"
+    },
+    "imperfecto": {
+      "yo": "acampaba",
+      "tu": "acampabas",
+      "ud": "acampaba",
+      "nosotros": "acampábamos",
+      "vosotros": "acampabais",
+      "uds": "acampaban"
+    },
+    "preterito": {
+      "yo": "acampé",
+      "tu": "acampaste",
+      "ud": "acampó",
+      "nosotros": "acampamos",
+      "vosotros": "acampasteis",
+      "uds": "acamparon"
+    },
+    "condicional": {
+      "yo": "acamparía",
+      "tu": "acamparías",
+      "ud": "acamparía",
+      "nosotros": "acamparíamos",
+      "vosotros": "acamparíais",
+      "uds": "acamparían"
+    },
+    "presentePerfecto": {
+      "yo": "he acampado",
+      "tu": "has acampado",
+      "ud": "ha acampado",
+      "nosotros": "hemos acampado",
+      "vosotros": "habéis acampado",
+      "uds": "han acampado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré acampado",
+      "tu": "habrás acampado",
+      "ud": "habrá acampado",
+      "nosotros": "habremos acampado",
+      "vosotros": "habréis acampado",
+      "uds": "habrán acampado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había acampado",
+      "tu": "habías acampado",
+      "ud": "había acampado",
+      "nosotros": "habíamos acampado",
+      "vosotros": "habíais acampado",
+      "uds": "habían acampado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube acampado",
+      "tu": "hubiste acampado",
+      "ud": "hubo acampado",
+      "nosotros": "hubimos acampado",
+      "vosotros": "hubisteis acampado",
+      "uds": "hubieron acampado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría acampado",
+      "tu": "habrías acampado",
+      "ud": "habría acampado",
+      "nosotros": "habríamos acampado",
+      "vosotros": "habríais acampado",
+      "uds": "habrían acampado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "acampe",
+      "tu": "acampes",
+      "ud": "acampe",
+      "nosotros": "acampemos",
+      "vosotros": "acampéis",
+      "uds": "acampen"
+    },
+    "imperfecto": {
+      "yo": "acampara",
+      "tu": "acamparas",
+      "ud": "acampara",
+      "nosotros": "acampáramos",
+      "vosotros": "acamparais",
+      "uds": "acamparan"
+    },
+    "futuro": {
+      "yo": "acampare",
+      "tu": "acampares",
+      "ud": "acampare",
+      "nosotros": "acampáremos",
+      "vosotros": "acampareis",
+      "uds": "acamparen"
+    },
+    "presentePerfecto": {
+      "yo": "haya acampado",
+      "tu": "hayas acampado",
+      "ud": "haya acampado",
+      "nosotros": "hayamos acampado",
+      "vosotros": "hayáis acampado",
+      "uds": "hayan acampado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere acampado",
+      "tu": "hubieres acampado",
+      "ud": "hubiere acampado",
+      "nosotros": "hubiéremos acampado",
+      "vosotros": "hubiereis acampado",
+      "uds": "hubieren acampado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera acampado",
+      "tu": "hubieras acampado",
+      "ud": "hubiera acampado",
+      "nosotros": "hubiéramos acampado",
+      "vosotros": "hubierais acampado",
+      "uds": "hubieran acampado"
+    },
+    "imperfectoAlt": {
+      "yo": "acampase",
+      "tu": "acampases",
+      "ud": "acampase",
+      "nosotros": "acampásemos",
+      "vosotros": "acampaseis",
+      "uds": "acampasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese acampado",
+      "tu": "hubieses acampado",
+      "ud": "hubiese acampado",
+      "nosotros": "hubiésemos acampado",
+      "vosotros": "hubieseis acampado",
+      "uds": "hubiesen acampado"
+    }
+  },
+  "afirmativo": {
+    "tu": "acampa",
+    "vosotros": "acampad",
+    "ud": "acampe",
+    "uds": "acampen"
+  },
+  "negativo": {
+    "tu": "no acampes",
+    "vosotros": "no acampéis",
+    "ud": "no acampe",
+    "uds": "no acampen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to camp, encamp, go camping",
+    "gerundio": "camping",
+    "participioPasado": "camped",
+    "indicativo": {
+      "presente": "I camp, am camping",
+      "futuro": "I will camp",
+      "imperfecto": "I was camping, used to camp, camped",
+      "preterito": "I camped",
+      "condicional": "I would camp",
+      "presentePerfecto": "I have camped",
+      "futuroPerfecto": "I will have camped",
+      "pluscuamperfecto": "I had camped",
+      "preteritoAnterior": "I had camped",
+      "condicionalPerfecto": "I would have camped"
+    },
+    "subjuntivo": {
+      "presente": "I camp, am camping",
+      "imperfecto": "I camped, was camping",
+      "futuro": "I will camp",
+      "presentePerfecto": "I have camped, camped",
+      "futuroPerfecto": "I will have camped",
+      "pluscuamperfecto": "I had camped"
+    },
+    "afirmativo": "Camp!",
+    "negativo": "Don't camp!"
+  },
+  "attribution": "Fred Jehle"
+}

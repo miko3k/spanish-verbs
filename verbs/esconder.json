@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "esconder",
+  "gerundio": "escondiendo",
+  "participioPasado": "escondido",
+  "indicativo": {
+    "presente": {
+      "yo": "escondo",
+      "tu": "escondes",
+      "ud": "esconde",
+      "nosotros": "escondemos",
+      "vosotros": "escondéis",
+      "uds": "esconden"
+    },
+    "futuro": {
+      "yo": "esconderé",
+      "tu": "esconderás",
+      "ud": "esconderá",
+      "nosotros": "esconderemos",
+      "vosotros": "esconderéis",
+      "uds": "esconderán"
+    },
+    "imperfecto": {
+      "yo": "escondía",
+      "tu": "escondías",
+      "ud": "escondía",
+      "nosotros": "escondíamos",
+      "vosotros": "escondíais",
+      "uds": "escondían"
+    },
+    "preterito": {
+      "yo": "escondí",
+      "tu": "escondiste",
+      "ud": "escondió",
+      "nosotros": "escondimos",
+      "vosotros": "escondisteis",
+      "uds": "escondieron"
+    },
+    "condicional": {
+      "yo": "escondería",
+      "tu": "esconderías",
+      "ud": "escondería",
+      "nosotros": "esconderíamos",
+      "vosotros": "esconderíais",
+      "uds": "esconderían"
+    },
+    "presentePerfecto": {
+      "yo": "he escondido",
+      "tu": "has escondido",
+      "ud": "ha escondido",
+      "nosotros": "hemos escondido",
+      "vosotros": "habéis escondido",
+      "uds": "han escondido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré escondido",
+      "tu": "habrás escondido",
+      "ud": "habrá escondido",
+      "nosotros": "habremos escondido",
+      "vosotros": "habréis escondido",
+      "uds": "habrán escondido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había escondido",
+      "tu": "habías escondido",
+      "ud": "había escondido",
+      "nosotros": "habíamos escondido",
+      "vosotros": "habíais escondido",
+      "uds": "habían escondido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube escondido",
+      "tu": "hubiste escondido",
+      "ud": "hubo escondido",
+      "nosotros": "hubimos escondido",
+      "vosotros": "hubisteis escondido",
+      "uds": "hubieron escondido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría escondido",
+      "tu": "habrías escondido",
+      "ud": "habría escondido",
+      "nosotros": "habríamos escondido",
+      "vosotros": "habríais escondido",
+      "uds": "habrían escondido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "esconda",
+      "tu": "escondas",
+      "ud": "esconda",
+      "nosotros": "escondamos",
+      "vosotros": "escondáis",
+      "uds": "escondan"
+    },
+    "imperfecto": {
+      "yo": "escondiera",
+      "tu": "escondieras",
+      "ud": "escondiera",
+      "nosotros": "escondiéramos",
+      "vosotros": "escondierais",
+      "uds": "escondieran"
+    },
+    "futuro": {
+      "yo": "escondiere",
+      "tu": "escondieres",
+      "ud": "escondiere",
+      "nosotros": "escondiéremos",
+      "vosotros": "escondiereis",
+      "uds": "escondieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya escondido",
+      "tu": "hayas escondido",
+      "ud": "haya escondido",
+      "nosotros": "hayamos escondido",
+      "vosotros": "hayáis escondido",
+      "uds": "hayan escondido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere escondido",
+      "tu": "hubieres escondido",
+      "ud": "hubiere escondido",
+      "nosotros": "hubiéremos escondido",
+      "vosotros": "hubiereis escondido",
+      "uds": "hubieren escondido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera escondido",
+      "tu": "hubieras escondido",
+      "ud": "hubiera escondido",
+      "nosotros": "hubiéramos escondido",
+      "vosotros": "hubierais escondido",
+      "uds": "hubieran escondido"
+    },
+    "imperfectoAlt": {
+      "yo": "escondiese",
+      "tu": "escondieses",
+      "ud": "escondiese",
+      "nosotros": "escondiésemos",
+      "vosotros": "escondieseis",
+      "uds": "escondiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese escondido",
+      "tu": "hubieses escondido",
+      "ud": "hubiese escondido",
+      "nosotros": "hubiésemos escondido",
+      "vosotros": "hubieseis escondido",
+      "uds": "hubiesen escondido"
+    }
+  },
+  "afirmativo": {
+    "tu": "esconde",
+    "vosotros": "esconded",
+    "ud": "esconda",
+    "uds": "escondan"
+  },
+  "negativo": {
+    "tu": "no escondas",
+    "vosotros": "no escondáis",
+    "ud": "no esconda",
+    "uds": "no escondan"
+  },
+  "english": {
+    "note": "Note: This verb is used transitively, to hide something; to express to hide as intranstive verb, or to hide oneself, use the reflexive form, esconderse.",
+    "infinitivo": "to hide, conceal",
+    "gerundio": "hiding",
+    "participioPasado": "hiddenk",
+    "indicativo": {
+      "presente": "I hide, am hiding",
+      "futuro": "I will hide",
+      "imperfecto": "I was hiding, used to hide, hid",
+      "preterito": "I hid",
+      "condicional": "I would hide",
+      "presentePerfecto": "I have hidden",
+      "futuroPerfecto": "I will have hidden",
+      "pluscuamperfecto": "I had hidden",
+      "preteritoAnterior": "I had hidden",
+      "condicionalPerfecto": "I would have hidden"
+    },
+    "subjuntivo": {
+      "presente": "I hide, am hiding",
+      "imperfecto": "I hid, was hiding",
+      "futuro": "I will hide",
+      "presentePerfecto": "I have hidden, hid",
+      "futuroPerfecto": "I will have hidden",
+      "pluscuamperfecto": "I had hidden"
+    },
+    "afirmativo": "Hide!",
+    "negativo": "Don't hide!"
+  },
+  "attribution": "Fred Jehle"
+}

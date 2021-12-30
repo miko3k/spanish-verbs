@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "zambullirse",
+  "gerundio": "zambulléndose",
+  "participioPasado": "zambullido",
+  "indicativo": {
+    "presente": {
+      "yo": "me zambullo",
+      "tu": "te zambulles",
+      "ud": "se zambulle",
+      "nosotros": "nos zambullimos",
+      "vosotros": "os zambullís",
+      "uds": "se zambullen"
+    },
+    "futuro": {
+      "yo": "me zambulliré",
+      "tu": "te zambullirás",
+      "ud": "se zambullirá",
+      "nosotros": "nos zambulliremos",
+      "vosotros": "os zambulliréis",
+      "uds": "se zambullirán"
+    },
+    "imperfecto": {
+      "yo": "me zambullía",
+      "tu": "te zambullías",
+      "ud": "se zambullía",
+      "nosotros": "nos zambullíamos",
+      "vosotros": "os zambullíais",
+      "uds": "se zambullían"
+    },
+    "preterito": {
+      "yo": "me zambullí",
+      "tu": "te zambulliste",
+      "ud": "se zambulló",
+      "nosotros": "nos zambullimos",
+      "vosotros": "os zambullisteis",
+      "uds": "se zambulleron"
+    },
+    "condicional": {
+      "yo": "me zambulliría",
+      "tu": "te zambullirías",
+      "ud": "se zambulliría",
+      "nosotros": "nos zambulliríamos",
+      "vosotros": "os zambulliríais",
+      "uds": "se zambullirían"
+    },
+    "presentePerfecto": {
+      "yo": "me he zambullido",
+      "tu": "te has zambullido",
+      "ud": "se ha zambullido",
+      "nosotros": "nos hemos zambullido",
+      "vosotros": "os habéis zambullido",
+      "uds": "se han zambullido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré zambullido",
+      "tu": "te habrás zambullido",
+      "ud": "se habrá zambullido",
+      "nosotros": "nos habremos zambullido",
+      "vosotros": "os habréis zambullido",
+      "uds": "se habrán zambullido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había zambullido",
+      "tu": "te habías zambullido",
+      "ud": "se había zambullido",
+      "nosotros": "nos habíamos zambullido",
+      "vosotros": "os habíais zambullido",
+      "uds": "se habían zambullido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube zambullido",
+      "tu": "te hubiste zambullido",
+      "ud": "se hubo zambullido",
+      "nosotros": "nos hubimos zambullido",
+      "vosotros": "os hubisteis zambullido",
+      "uds": "se hubieron zambullido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría zambullido",
+      "tu": "te habrías zambullido",
+      "ud": "se habría zambullido",
+      "nosotros": "nos habríamos zambullido",
+      "vosotros": "os habríais zambullido",
+      "uds": "se habrían zambullido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me zambulla",
+      "tu": "te zambullas",
+      "ud": "se zambulla",
+      "nosotros": "nos zambullamos",
+      "vosotros": "os zambulláis",
+      "uds": "se zambullan"
+    },
+    "imperfecto": {
+      "yo": "me zambullera",
+      "tu": "te zambulleras",
+      "ud": "se zambullera",
+      "nosotros": "nos zambulléramos",
+      "vosotros": "os zambullerais",
+      "uds": "se zambulleran"
+    },
+    "futuro": {
+      "yo": "me zambullere",
+      "tu": "te zambulleres",
+      "ud": "se zambullere",
+      "nosotros": "nos zambulléremos",
+      "vosotros": "os zambullereis",
+      "uds": "se zambulleren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya zambullido",
+      "tu": "te hayas zambullido",
+      "ud": "se haya zambullido",
+      "nosotros": "nos hayamos zambullido",
+      "vosotros": "os hayáis zambullido",
+      "uds": "se hayan zambullido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere zambullido",
+      "tu": "te hubieres zambullido",
+      "ud": "se hubiere zambullido",
+      "nosotros": "nos hubiéremos zambullido",
+      "vosotros": "os hubiereis zambullido",
+      "uds": "se hubieren zambullido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera zambullido",
+      "tu": "te hubieras zambullido",
+      "ud": "se hubiera zambullido",
+      "nosotros": "nos hubiéramos zambullido",
+      "vosotros": "os hubierais zambullido",
+      "uds": "se hubieran zambullido"
+    },
+    "imperfectoAlt": {
+      "yo": "me zambullese",
+      "tu": "te zambulleses",
+      "ud": "se zambullese",
+      "nosotros": "nos zambullésemos",
+      "vosotros": "os zambulleseis",
+      "uds": "se zambullesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese zambullido",
+      "tu": "te hubieses zambullido",
+      "ud": "se hubiese zambullido",
+      "nosotros": "nos hubiésemos zambullido",
+      "vosotros": "os hubieseis zambullido",
+      "uds": "se hubiesen zambullido"
+    }
+  },
+  "afirmativo": {
+    "tu": "zambúllete",
+    "vosotros": "zambullíos",
+    "ud": "zambúllase",
+    "uds": "zambúllanse"
+  },
+  "negativo": {
+    "tu": "no te zambullas",
+    "vosotros": "no os zambulláis",
+    "ud": "no se zambulla",
+    "uds": "no se zambullan"
+  },
+  "english": {
+    "note": "La i (cuando no se acentúa) detrás de ll desaparece delante de otra vocal, por ejemplo: zambulló, zambulleron, zambullendo. Note: This form is used intransitively, in the sense of to take/make a dive/plunge, for example, into the water.",
+    "infinitivo": "to dive, plunge",
+    "gerundio": "diving",
+    "participioPasado": "dove",
+    "indicativo": {
+      "presente": "I dive, am diving",
+      "futuro": "I will dive",
+      "imperfecto": "I was diving, used to dive, dove",
+      "preterito": "I dove",
+      "condicional": "I would dive",
+      "presentePerfecto": "I have dived",
+      "futuroPerfecto": "I will have dived",
+      "pluscuamperfecto": "I had dived",
+      "preteritoAnterior": "I had dived",
+      "condicionalPerfecto": "I would have dived"
+    },
+    "subjuntivo": {
+      "presente": "I dive, am diving",
+      "imperfecto": "I dove, was diving",
+      "futuro": "I will dive",
+      "presentePerfecto": "I have dived, dove",
+      "futuroPerfecto": "I will have dived",
+      "pluscuamperfecto": "I had dived"
+    },
+    "afirmativo": "Dive!",
+    "negativo": "Don't dive!"
+  },
+  "attribution": "Fred Jehle"
+}

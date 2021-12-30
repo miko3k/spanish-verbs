@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "saltar",
+  "gerundio": "saltando",
+  "participioPasado": "saltado",
+  "indicativo": {
+    "presente": {
+      "yo": "salto",
+      "tu": "saltas",
+      "ud": "salta",
+      "nosotros": "saltamos",
+      "vosotros": "saltáis",
+      "uds": "saltan"
+    },
+    "futuro": {
+      "yo": "saltaré",
+      "tu": "saltarás",
+      "ud": "saltará",
+      "nosotros": "saltaremos",
+      "vosotros": "saltaréis",
+      "uds": "saltarán"
+    },
+    "imperfecto": {
+      "yo": "saltaba",
+      "tu": "saltabas",
+      "ud": "saltaba",
+      "nosotros": "saltábamos",
+      "vosotros": "saltabais",
+      "uds": "saltaban"
+    },
+    "preterito": {
+      "yo": "salté",
+      "tu": "saltaste",
+      "ud": "saltó",
+      "nosotros": "saltamos",
+      "vosotros": "saltasteis",
+      "uds": "saltaron"
+    },
+    "condicional": {
+      "yo": "saltaría",
+      "tu": "saltarías",
+      "ud": "saltaría",
+      "nosotros": "saltaríamos",
+      "vosotros": "saltaríais",
+      "uds": "saltarían"
+    },
+    "presentePerfecto": {
+      "yo": "he saltado",
+      "tu": "has saltado",
+      "ud": "ha saltado",
+      "nosotros": "hemos saltado",
+      "vosotros": "habéis saltado",
+      "uds": "han saltado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré saltado",
+      "tu": "habrás saltado",
+      "ud": "habrá saltado",
+      "nosotros": "habremos saltado",
+      "vosotros": "habréis saltado",
+      "uds": "habrán saltado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había saltado",
+      "tu": "habías saltado",
+      "ud": "había saltado",
+      "nosotros": "habíamos saltado",
+      "vosotros": "habíais saltado",
+      "uds": "habían saltado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube saltado",
+      "tu": "hubiste saltado",
+      "ud": "hubo saltado",
+      "nosotros": "hubimos saltado",
+      "vosotros": "hubisteis saltado",
+      "uds": "hubieron saltado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría saltado",
+      "tu": "habrías saltado",
+      "ud": "habría saltado",
+      "nosotros": "habríamos saltado",
+      "vosotros": "habríais saltado",
+      "uds": "habrían saltado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "salte",
+      "tu": "saltes",
+      "ud": "salte",
+      "nosotros": "saltemos",
+      "vosotros": "saltéis",
+      "uds": "salten"
+    },
+    "imperfecto": {
+      "yo": "saltara",
+      "tu": "saltaras",
+      "ud": "saltara",
+      "nosotros": "saltáramos",
+      "vosotros": "saltarais",
+      "uds": "saltaran"
+    },
+    "futuro": {
+      "yo": "saltare",
+      "tu": "saltares",
+      "ud": "saltare",
+      "nosotros": "saltáremos",
+      "vosotros": "saltareis",
+      "uds": "saltaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya saltado",
+      "tu": "hayas saltado",
+      "ud": "haya saltado",
+      "nosotros": "hayamos saltado",
+      "vosotros": "hayáis saltado",
+      "uds": "hayan saltado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere saltado",
+      "tu": "hubieres saltado",
+      "ud": "hubiere saltado",
+      "nosotros": "hubiéremos saltado",
+      "vosotros": "hubiereis saltado",
+      "uds": "hubieren saltado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera saltado",
+      "tu": "hubieras saltado",
+      "ud": "hubiera saltado",
+      "nosotros": "hubiéramos saltado",
+      "vosotros": "hubierais saltado",
+      "uds": "hubieran saltado"
+    },
+    "imperfectoAlt": {
+      "yo": "saltase",
+      "tu": "saltases",
+      "ud": "saltase",
+      "nosotros": "saltásemos",
+      "vosotros": "saltaseis",
+      "uds": "saltasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese saltado",
+      "tu": "hubieses saltado",
+      "ud": "hubiese saltado",
+      "nosotros": "hubiésemos saltado",
+      "vosotros": "hubieseis saltado",
+      "uds": "hubiesen saltado"
+    }
+  },
+  "afirmativo": {
+    "tu": "salta",
+    "vosotros": "saltad",
+    "ud": "salte",
+    "uds": "salten"
+  },
+  "negativo": {
+    "tu": "no saltes",
+    "vosotros": "no saltéis",
+    "ud": "no salte",
+    "uds": "no salten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to jump, leap; to jump over, leap over; to omit, skip, leave out",
+    "gerundio": "jumping",
+    "participioPasado": "jumped",
+    "indicativo": {
+      "presente": "I jump, am jumping",
+      "futuro": "I will jump",
+      "imperfecto": "I was jumping, used to jump, jumped",
+      "preterito": "I jumped",
+      "condicional": "I would jump",
+      "presentePerfecto": "I have jumped",
+      "futuroPerfecto": "I will have jumped",
+      "pluscuamperfecto": "I had jumped",
+      "preteritoAnterior": "I had jumped",
+      "condicionalPerfecto": "I would have jumped"
+    },
+    "subjuntivo": {
+      "presente": "I jump, am jumping",
+      "imperfecto": "I jumped, was jumping",
+      "futuro": "I will jump",
+      "presentePerfecto": "I have jumped, jumped",
+      "futuroPerfecto": "I will have jumped",
+      "pluscuamperfecto": "I had jumped"
+    },
+    "afirmativo": "Jump!",
+    "negativo": "Don't jump!"
+  },
+  "attribution": "Fred Jehle"
+}

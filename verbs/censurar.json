@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "censurar",
+  "gerundio": "censurando",
+  "participioPasado": "censurado",
+  "indicativo": {
+    "presente": {
+      "yo": "censuro",
+      "tu": "censuras",
+      "ud": "censura",
+      "nosotros": "censuramos",
+      "vosotros": "censuráis",
+      "uds": "censuran"
+    },
+    "futuro": {
+      "yo": "censuraré",
+      "tu": "censurarás",
+      "ud": "censurará",
+      "nosotros": "censuraremos",
+      "vosotros": "censuraréis",
+      "uds": "censurarán"
+    },
+    "imperfecto": {
+      "yo": "censuraba",
+      "tu": "censurabas",
+      "ud": "censuraba",
+      "nosotros": "censurábamos",
+      "vosotros": "censurabais",
+      "uds": "censuraban"
+    },
+    "preterito": {
+      "yo": "censuré",
+      "tu": "censuraste",
+      "ud": "censuró",
+      "nosotros": "censuramos",
+      "vosotros": "censurasteis",
+      "uds": "censuraron"
+    },
+    "condicional": {
+      "yo": "censuraría",
+      "tu": "censurarías",
+      "ud": "censuraría",
+      "nosotros": "censuraríamos",
+      "vosotros": "censuraríais",
+      "uds": "censurarían"
+    },
+    "presentePerfecto": {
+      "yo": "he censurado",
+      "tu": "has censurado",
+      "ud": "ha censurado",
+      "nosotros": "hemos censurado",
+      "vosotros": "habéis censurado",
+      "uds": "han censurado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré censurado",
+      "tu": "habrás censurado",
+      "ud": "habrá censurado",
+      "nosotros": "habremos censurado",
+      "vosotros": "habréis censurado",
+      "uds": "habrán censurado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había censurado",
+      "tu": "habías censurado",
+      "ud": "había censurado",
+      "nosotros": "habíamos censurado",
+      "vosotros": "habíais censurado",
+      "uds": "habían censurado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube censurado",
+      "tu": "hubiste censurado",
+      "ud": "hubo censurado",
+      "nosotros": "hubimos censurado",
+      "vosotros": "hubisteis censurado",
+      "uds": "hubieron censurado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría censurado",
+      "tu": "habrías censurado",
+      "ud": "habría censurado",
+      "nosotros": "habríamos censurado",
+      "vosotros": "habríais censurado",
+      "uds": "habrían censurado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "censure",
+      "tu": "censures",
+      "ud": "censure",
+      "nosotros": "censuremos",
+      "vosotros": "censuréis",
+      "uds": "censuren"
+    },
+    "imperfecto": {
+      "yo": "censurara",
+      "tu": "censuraras",
+      "ud": "censurara",
+      "nosotros": "censuráramos",
+      "vosotros": "censurarais",
+      "uds": "censuraran"
+    },
+    "futuro": {
+      "yo": "censurare",
+      "tu": "censurares",
+      "ud": "censurare",
+      "nosotros": "censuráremos",
+      "vosotros": "censurareis",
+      "uds": "censuraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya censurado",
+      "tu": "hayas censurado",
+      "ud": "haya censurado",
+      "nosotros": "hayamos censurado",
+      "vosotros": "hayáis censurado",
+      "uds": "hayan censurado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere censurado",
+      "tu": "hubieres censurado",
+      "ud": "hubiere censurado",
+      "nosotros": "hubiéremos censurado",
+      "vosotros": "hubiereis censurado",
+      "uds": "hubieren censurado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera censurado",
+      "tu": "hubieras censurado",
+      "ud": "hubiera censurado",
+      "nosotros": "hubiéramos censurado",
+      "vosotros": "hubierais censurado",
+      "uds": "hubieran censurado"
+    },
+    "imperfectoAlt": {
+      "yo": "censurase",
+      "tu": "censurases",
+      "ud": "censurase",
+      "nosotros": "censurásemos",
+      "vosotros": "censuraseis",
+      "uds": "censurasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese censurado",
+      "tu": "hubieses censurado",
+      "ud": "hubiese censurado",
+      "nosotros": "hubiésemos censurado",
+      "vosotros": "hubieseis censurado",
+      "uds": "hubiesen censurado"
+    }
+  },
+  "afirmativo": {
+    "tu": "censura",
+    "vosotros": "censurad",
+    "ud": "censure",
+    "uds": "censuren"
+  },
+  "negativo": {
+    "tu": "no censures",
+    "vosotros": "no censuréis",
+    "ud": "no censure",
+    "uds": "no censuren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to censor; to censure, criticize, blame",
+    "gerundio": "censoring",
+    "participioPasado": "censored",
+    "indicativo": {
+      "presente": "I censor, am censoring",
+      "futuro": "I will censor",
+      "imperfecto": "I was censoring, used to censor, censored",
+      "preterito": "I censored",
+      "condicional": "I would censor",
+      "presentePerfecto": "I have censored",
+      "futuroPerfecto": "I will have censored",
+      "pluscuamperfecto": "I had censored",
+      "preteritoAnterior": "I had censored",
+      "condicionalPerfecto": "I would have censored"
+    },
+    "subjuntivo": {
+      "presente": "I censor, am censoring",
+      "imperfecto": "I censored, was censoring",
+      "futuro": "I will censor",
+      "presentePerfecto": "I have censored, censored",
+      "futuroPerfecto": "I will have censored",
+      "pluscuamperfecto": "I had censored"
+    },
+    "afirmativo": "Censor!",
+    "negativo": "Don't censor!"
+  },
+  "attribution": "Fred Jehle"
+}

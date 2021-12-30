@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "creer",
+  "gerundio": "creyendo",
+  "participioPasado": "creído",
+  "indicativo": {
+    "presente": {
+      "yo": "creo",
+      "tu": "crees",
+      "ud": "cree",
+      "nosotros": "creemos",
+      "vosotros": "creéis",
+      "uds": "creen"
+    },
+    "futuro": {
+      "yo": "creeré",
+      "tu": "creerás",
+      "ud": "creerá",
+      "nosotros": "creeremos",
+      "vosotros": "creeréis",
+      "uds": "creerán"
+    },
+    "imperfecto": {
+      "yo": "creía",
+      "tu": "creías",
+      "ud": "creía",
+      "nosotros": "creíamos",
+      "vosotros": "creíais",
+      "uds": "creían"
+    },
+    "preterito": {
+      "yo": "creí",
+      "tu": "creíste",
+      "ud": "creyó",
+      "nosotros": "creímos",
+      "vosotros": "creísteis",
+      "uds": "creyeron"
+    },
+    "condicional": {
+      "yo": "creería",
+      "tu": "creerías",
+      "ud": "creería",
+      "nosotros": "creeríamos",
+      "vosotros": "creeríais",
+      "uds": "creerían"
+    },
+    "presentePerfecto": {
+      "yo": "he creído",
+      "tu": "has creído",
+      "ud": "ha creído",
+      "nosotros": "hemos creído",
+      "vosotros": "habéis creído",
+      "uds": "han creído"
+    },
+    "futuroPerfecto": {
+      "yo": "habré creído",
+      "tu": "habrás creído",
+      "ud": "habrá creído",
+      "nosotros": "habremos creído",
+      "vosotros": "habréis creído",
+      "uds": "habrán creído"
+    },
+    "pluscuamperfecto": {
+      "yo": "había creído",
+      "tu": "habías creído",
+      "ud": "había creído",
+      "nosotros": "habíamos creído",
+      "vosotros": "habíais creído",
+      "uds": "habían creído"
+    },
+    "preteritoAnterior": {
+      "yo": "hube creído",
+      "tu": "hubiste creído",
+      "ud": "hubo creído",
+      "nosotros": "hubimos creído",
+      "vosotros": "hubisteis creído",
+      "uds": "hubieron creído"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría creído",
+      "tu": "habrías creído",
+      "ud": "habría creído",
+      "nosotros": "habríamos creído",
+      "vosotros": "habríais creído",
+      "uds": "habrían creído"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "crea",
+      "tu": "creas",
+      "ud": "crea",
+      "nosotros": "creamos",
+      "vosotros": "creáis",
+      "uds": "crean"
+    },
+    "imperfecto": {
+      "yo": "creyera",
+      "tu": "creyeras",
+      "ud": "creyera",
+      "nosotros": "creyéramos",
+      "vosotros": "creyerais",
+      "uds": "creyeran"
+    },
+    "futuro": {
+      "yo": "creyere",
+      "tu": "creyeres",
+      "ud": "creyere",
+      "nosotros": "creyéremos",
+      "vosotros": "creyereis",
+      "uds": "creyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya creído",
+      "tu": "hayas creído",
+      "ud": "haya creído",
+      "nosotros": "hayamos creído",
+      "vosotros": "hayáis creído",
+      "uds": "hayan creído"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere creído",
+      "tu": "hubieres creído",
+      "ud": "hubiere creído",
+      "nosotros": "hubiéremos creído",
+      "vosotros": "hubiereis creído",
+      "uds": "hubieren creído"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera creído",
+      "tu": "hubieras creído",
+      "ud": "hubiera creído",
+      "nosotros": "hubiéramos creído",
+      "vosotros": "hubierais creído",
+      "uds": "hubieran creído"
+    },
+    "imperfectoAlt": {
+      "yo": "creyese",
+      "tu": "creyeses",
+      "ud": "creyese",
+      "nosotros": "creyésemos",
+      "vosotros": "creyeseis",
+      "uds": "creyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese creído",
+      "tu": "hubieses creído",
+      "ud": "hubiese creído",
+      "nosotros": "hubiésemos creído",
+      "vosotros": "hubieseis creído",
+      "uds": "hubiesen creído"
+    }
+  },
+  "afirmativo": {
+    "tu": "cree",
+    "vosotros": "creed",
+    "ud": "crea",
+    "uds": "crean"
+  },
+  "negativo": {
+    "tu": "no creas",
+    "vosotros": "no creáis",
+    "ud": "no crea",
+    "uds": "no crean"
+  },
+  "english": {
+    "note": "La i intervocálica (cuand no se acentúa) > y, por ejemplo: creyeron. Participio pasado: creído.",
+    "infinitivo": "to believe",
+    "gerundio": "believing",
+    "participioPasado": "believed",
+    "indicativo": {
+      "presente": "I believe, am believing",
+      "futuro": "I will believe",
+      "imperfecto": "I was believing, used to believe, believed",
+      "preterito": "I believed",
+      "condicional": "I would believe",
+      "presentePerfecto": "I have believed",
+      "futuroPerfecto": "I will have believed",
+      "pluscuamperfecto": "I had believed",
+      "preteritoAnterior": "I had believed",
+      "condicionalPerfecto": "I would have believed"
+    },
+    "subjuntivo": {
+      "presente": "I believe, am believing",
+      "imperfecto": "I believed, was believing",
+      "futuro": "I will believe",
+      "presentePerfecto": "I have believed, believed",
+      "futuroPerfecto": "I will have believed",
+      "pluscuamperfecto": "I had believed"
+    },
+    "afirmativo": "Believe!",
+    "negativo": "Don't believe!"
+  },
+  "attribution": "Fred Jehle"
+}

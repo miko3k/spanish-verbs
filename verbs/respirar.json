@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "respirar",
+  "gerundio": "respirando",
+  "participioPasado": "respirado",
+  "indicativo": {
+    "presente": {
+      "yo": "respiro",
+      "tu": "respiras",
+      "ud": "respira",
+      "nosotros": "respiramos",
+      "vosotros": "respiráis",
+      "uds": "respiran"
+    },
+    "futuro": {
+      "yo": "respiraré",
+      "tu": "respirarás",
+      "ud": "respirará",
+      "nosotros": "respiraremos",
+      "vosotros": "respiraréis",
+      "uds": "respirarán"
+    },
+    "imperfecto": {
+      "yo": "respiraba",
+      "tu": "respirabas",
+      "ud": "respiraba",
+      "nosotros": "respirábamos",
+      "vosotros": "respirabais",
+      "uds": "respiraban"
+    },
+    "preterito": {
+      "yo": "respiré",
+      "tu": "respiraste",
+      "ud": "respiró",
+      "nosotros": "respiramos",
+      "vosotros": "respirasteis",
+      "uds": "respiraron"
+    },
+    "condicional": {
+      "yo": "respiraría",
+      "tu": "respirarías",
+      "ud": "respiraría",
+      "nosotros": "respiraríamos",
+      "vosotros": "respiraríais",
+      "uds": "respirarían"
+    },
+    "presentePerfecto": {
+      "yo": "he respirado",
+      "tu": "has respirado",
+      "ud": "ha respirado",
+      "nosotros": "hemos respirado",
+      "vosotros": "habéis respirado",
+      "uds": "han respirado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré respirado",
+      "tu": "habrás respirado",
+      "ud": "habrá respirado",
+      "nosotros": "habremos respirado",
+      "vosotros": "habréis respirado",
+      "uds": "habrán respirado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había respirado",
+      "tu": "habías respirado",
+      "ud": "había respirado",
+      "nosotros": "habíamos respirado",
+      "vosotros": "habíais respirado",
+      "uds": "habían respirado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube respirado",
+      "tu": "hubiste respirado",
+      "ud": "hubo respirado",
+      "nosotros": "hubimos respirado",
+      "vosotros": "hubisteis respirado",
+      "uds": "hubieron respirado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría respirado",
+      "tu": "habrías respirado",
+      "ud": "habría respirado",
+      "nosotros": "habríamos respirado",
+      "vosotros": "habríais respirado",
+      "uds": "habrían respirado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "respire",
+      "tu": "respires",
+      "ud": "respire",
+      "nosotros": "respiremos",
+      "vosotros": "respiréis",
+      "uds": "respiren"
+    },
+    "imperfecto": {
+      "yo": "respirara",
+      "tu": "respiraras",
+      "ud": "respirara",
+      "nosotros": "respiráramos",
+      "vosotros": "respirarais",
+      "uds": "respiraran"
+    },
+    "futuro": {
+      "yo": "respirare",
+      "tu": "respirares",
+      "ud": "respirare",
+      "nosotros": "respiráremos",
+      "vosotros": "respirareis",
+      "uds": "respiraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya respirado",
+      "tu": "hayas respirado",
+      "ud": "haya respirado",
+      "nosotros": "hayamos respirado",
+      "vosotros": "hayáis respirado",
+      "uds": "hayan respirado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere respirado",
+      "tu": "hubieres respirado",
+      "ud": "hubiere respirado",
+      "nosotros": "hubiéremos respirado",
+      "vosotros": "hubiereis respirado",
+      "uds": "hubieren respirado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera respirado",
+      "tu": "hubieras respirado",
+      "ud": "hubiera respirado",
+      "nosotros": "hubiéramos respirado",
+      "vosotros": "hubierais respirado",
+      "uds": "hubieran respirado"
+    },
+    "imperfectoAlt": {
+      "yo": "respirase",
+      "tu": "respirases",
+      "ud": "respirase",
+      "nosotros": "respirásemos",
+      "vosotros": "respiraseis",
+      "uds": "respirasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese respirado",
+      "tu": "hubieses respirado",
+      "ud": "hubiese respirado",
+      "nosotros": "hubiésemos respirado",
+      "vosotros": "hubieseis respirado",
+      "uds": "hubiesen respirado"
+    }
+  },
+  "afirmativo": {
+    "tu": "respira",
+    "vosotros": "respirad",
+    "ud": "respire",
+    "uds": "respiren"
+  },
+  "negativo": {
+    "tu": "no respires",
+    "vosotros": "no respiréis",
+    "ud": "no respire",
+    "uds": "no respiren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to breathe, breathe in, inhale",
+    "gerundio": "breathing",
+    "participioPasado": "breathed",
+    "indicativo": {
+      "presente": "I breathe, am breathing",
+      "futuro": "I will breathe",
+      "imperfecto": "I was breathing, used to breathe, breathed",
+      "preterito": "I breathed",
+      "condicional": "I would breathe",
+      "presentePerfecto": "I have breathed",
+      "futuroPerfecto": "I will have breathed",
+      "pluscuamperfecto": "I had breathed",
+      "preteritoAnterior": "I had breathed",
+      "condicionalPerfecto": "I would have breathed"
+    },
+    "subjuntivo": {
+      "presente": "I breathe, am breathing",
+      "imperfecto": "I breathed, was breathing",
+      "futuro": "I will breathe",
+      "presentePerfecto": "I have breathed, breathed",
+      "futuroPerfecto": "I will have breathed",
+      "pluscuamperfecto": "I had breathed"
+    },
+    "afirmativo": "Breathe!",
+    "negativo": "Don't breathe!"
+  },
+  "attribution": "Fred Jehle"
+}

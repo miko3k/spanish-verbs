@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "instalar",
+  "gerundio": "instalando",
+  "participioPasado": "instalado",
+  "indicativo": {
+    "presente": {
+      "yo": "instalo",
+      "tu": "instalas",
+      "ud": "instala",
+      "nosotros": "instalamos",
+      "vosotros": "instaláis",
+      "uds": "instalan"
+    },
+    "futuro": {
+      "yo": "instalaré",
+      "tu": "instalarás",
+      "ud": "instalará",
+      "nosotros": "instalaremos",
+      "vosotros": "instalaréis",
+      "uds": "instalarán"
+    },
+    "imperfecto": {
+      "yo": "instalaba",
+      "tu": "instalabas",
+      "ud": "instalaba",
+      "nosotros": "instalábamos",
+      "vosotros": "instalabais",
+      "uds": "instalaban"
+    },
+    "preterito": {
+      "yo": "instalé",
+      "tu": "instalaste",
+      "ud": "instaló",
+      "nosotros": "instalamos",
+      "vosotros": "instalasteis",
+      "uds": "instalaron"
+    },
+    "condicional": {
+      "yo": "instalaría",
+      "tu": "instalarías",
+      "ud": "instalaría",
+      "nosotros": "instalaríamos",
+      "vosotros": "instalaríais",
+      "uds": "instalarían"
+    },
+    "presentePerfecto": {
+      "yo": "he instalado",
+      "tu": "has instalado",
+      "ud": "ha instalado",
+      "nosotros": "hemos instalado",
+      "vosotros": "habéis instalado",
+      "uds": "han instalado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré instalado",
+      "tu": "habrás instalado",
+      "ud": "habrá instalado",
+      "nosotros": "habremos instalado",
+      "vosotros": "habréis instalado",
+      "uds": "habrán instalado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había instalado",
+      "tu": "habías instalado",
+      "ud": "había instalado",
+      "nosotros": "habíamos instalado",
+      "vosotros": "habíais instalado",
+      "uds": "habían instalado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube instalado",
+      "tu": "hubiste instalado",
+      "ud": "hubo instalado",
+      "nosotros": "hubimos instalado",
+      "vosotros": "hubisteis instalado",
+      "uds": "hubieron instalado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría instalado",
+      "tu": "habrías instalado",
+      "ud": "habría instalado",
+      "nosotros": "habríamos instalado",
+      "vosotros": "habríais instalado",
+      "uds": "habrían instalado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "instale",
+      "tu": "instales",
+      "ud": "instale",
+      "nosotros": "instalemos",
+      "vosotros": "instaléis",
+      "uds": "instalen"
+    },
+    "imperfecto": {
+      "yo": "instalara",
+      "tu": "instalaras",
+      "ud": "instalara",
+      "nosotros": "instaláramos",
+      "vosotros": "instalarais",
+      "uds": "instalaran"
+    },
+    "futuro": {
+      "yo": "instalare",
+      "tu": "instalares",
+      "ud": "instalare",
+      "nosotros": "instaláremos",
+      "vosotros": "instalareis",
+      "uds": "instalaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya instalado",
+      "tu": "hayas instalado",
+      "ud": "haya instalado",
+      "nosotros": "hayamos instalado",
+      "vosotros": "hayáis instalado",
+      "uds": "hayan instalado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere instalado",
+      "tu": "hubieres instalado",
+      "ud": "hubiere instalado",
+      "nosotros": "hubiéremos instalado",
+      "vosotros": "hubiereis instalado",
+      "uds": "hubieren instalado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera instalado",
+      "tu": "hubieras instalado",
+      "ud": "hubiera instalado",
+      "nosotros": "hubiéramos instalado",
+      "vosotros": "hubierais instalado",
+      "uds": "hubieran instalado"
+    },
+    "imperfectoAlt": {
+      "yo": "instalase",
+      "tu": "instalases",
+      "ud": "instalase",
+      "nosotros": "instalásemos",
+      "vosotros": "instalaseis",
+      "uds": "instalasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese instalado",
+      "tu": "hubieses instalado",
+      "ud": "hubiese instalado",
+      "nosotros": "hubiésemos instalado",
+      "vosotros": "hubieseis instalado",
+      "uds": "hubiesen instalado"
+    }
+  },
+  "afirmativo": {
+    "tu": "instala",
+    "vosotros": "instalad",
+    "ud": "instale",
+    "uds": "instalen"
+  },
+  "negativo": {
+    "tu": "no instales",
+    "vosotros": "no instaléis",
+    "ud": "no instale",
+    "uds": "no instalen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to install; to set up, erect",
+    "gerundio": "installing",
+    "participioPasado": "installed",
+    "indicativo": {
+      "presente": "I install, am installing",
+      "futuro": "I will install",
+      "imperfecto": "I was installing, used to install, installed",
+      "preterito": "I installed",
+      "condicional": "I would install",
+      "presentePerfecto": "I have installed",
+      "futuroPerfecto": "I will have installed",
+      "pluscuamperfecto": "I had installed",
+      "preteritoAnterior": "I had installed",
+      "condicionalPerfecto": "I would have installed"
+    },
+    "subjuntivo": {
+      "presente": "I install, am installing",
+      "imperfecto": "I installed, was installing",
+      "futuro": "I will install",
+      "presentePerfecto": "I have installed, installed",
+      "futuroPerfecto": "I will have installed",
+      "pluscuamperfecto": "I had installed"
+    },
+    "afirmativo": "Install!",
+    "negativo": "Don't install!"
+  },
+  "attribution": "Fred Jehle"
+}

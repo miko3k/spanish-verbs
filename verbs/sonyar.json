@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "soñar",
+  "gerundio": "soñando",
+  "participioPasado": "soñado",
+  "indicativo": {
+    "presente": {
+      "yo": "sueño",
+      "tu": "sueñas",
+      "ud": "sueña",
+      "nosotros": "soñamos",
+      "vosotros": "soñáis",
+      "uds": "sueñan"
+    },
+    "futuro": {
+      "yo": "soñaré",
+      "tu": "soñarás",
+      "ud": "soñará",
+      "nosotros": "soñaremos",
+      "vosotros": "soñaréis",
+      "uds": "soñarán"
+    },
+    "imperfecto": {
+      "yo": "soñaba",
+      "tu": "soñabas",
+      "ud": "soñaba",
+      "nosotros": "soñábamos",
+      "vosotros": "soñabais",
+      "uds": "soñaban"
+    },
+    "preterito": {
+      "yo": "soñé",
+      "tu": "soñaste",
+      "ud": "soñó",
+      "nosotros": "soñamos",
+      "vosotros": "soñasteis",
+      "uds": "soñaron"
+    },
+    "condicional": {
+      "yo": "soñaría",
+      "tu": "soñarías",
+      "ud": "soñaría",
+      "nosotros": "soñaríamos",
+      "vosotros": "soñaríais",
+      "uds": "soñarían"
+    },
+    "presentePerfecto": {
+      "yo": "he soñado",
+      "tu": "has soñado",
+      "ud": "ha soñado",
+      "nosotros": "hemos soñado",
+      "vosotros": "habéis soñado",
+      "uds": "han soñado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré soñado",
+      "tu": "habrás soñado",
+      "ud": "habrá soñado",
+      "nosotros": "habremos soñado",
+      "vosotros": "habréis soñado",
+      "uds": "habrán soñado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había soñado",
+      "tu": "habías soñado",
+      "ud": "había soñado",
+      "nosotros": "habíamos soñado",
+      "vosotros": "habíais soñado",
+      "uds": "habían soñado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube soñado",
+      "tu": "hubiste soñado",
+      "ud": "hubo soñado",
+      "nosotros": "hubimos soñado",
+      "vosotros": "hubisteis soñado",
+      "uds": "hubieron soñado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría soñado",
+      "tu": "habrías soñado",
+      "ud": "habría soñado",
+      "nosotros": "habríamos soñado",
+      "vosotros": "habríais soñado",
+      "uds": "habrían soñado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sueñe",
+      "tu": "sueñes",
+      "ud": "sueñe",
+      "nosotros": "soñemos",
+      "vosotros": "soñéis",
+      "uds": "sueñen"
+    },
+    "imperfecto": {
+      "yo": "soñara",
+      "tu": "soñaras",
+      "ud": "soñara",
+      "nosotros": "soñáramos",
+      "vosotros": "soñarais",
+      "uds": "soñaran"
+    },
+    "futuro": {
+      "yo": "soñare",
+      "tu": "soñares",
+      "ud": "soñare",
+      "nosotros": "soñáremos",
+      "vosotros": "soñareis",
+      "uds": "soñaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya soñado",
+      "tu": "hayas soñado",
+      "ud": "haya soñado",
+      "nosotros": "hayamos soñado",
+      "vosotros": "hayáis soñado",
+      "uds": "hayan soñado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere soñado",
+      "tu": "hubieres soñado",
+      "ud": "hubiere soñado",
+      "nosotros": "hubiéremos soñado",
+      "vosotros": "hubiereis soñado",
+      "uds": "hubieren soñado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera soñado",
+      "tu": "hubieras soñado",
+      "ud": "hubiera soñado",
+      "nosotros": "hubiéramos soñado",
+      "vosotros": "hubierais soñado",
+      "uds": "hubieran soñado"
+    },
+    "imperfectoAlt": {
+      "yo": "soñase",
+      "tu": "soñases",
+      "ud": "soñase",
+      "nosotros": "soñásemos",
+      "vosotros": "soñaseis",
+      "uds": "soñasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese soñado",
+      "tu": "hubieses soñado",
+      "ud": "hubiese soñado",
+      "nosotros": "hubiésemos soñado",
+      "vosotros": "hubieseis soñado",
+      "uds": "hubiesen soñado"
+    }
+  },
+  "afirmativo": {
+    "tu": "sueña",
+    "vosotros": "soñad",
+    "ud": "sueñe",
+    "uds": "sueñen"
+  },
+  "negativo": {
+    "tu": "no sueñes",
+    "vosotros": "no soñéis",
+    "ud": "no sueñe",
+    "uds": "no sueñen"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa.",
+    "infinitivo": "to dream",
+    "gerundio": "dreaming",
+    "participioPasado": "dreamed",
+    "indicativo": {
+      "presente": "I dream, am dreaming",
+      "futuro": "I will dream",
+      "imperfecto": "I was dreaming, used to dream, dreamed",
+      "preterito": "I dreamed",
+      "condicional": "I would dream",
+      "presentePerfecto": "I have dreamed",
+      "futuroPerfecto": "I will have dreamed",
+      "pluscuamperfecto": "I had dreamed",
+      "preteritoAnterior": "I had dreamed",
+      "condicionalPerfecto": "I would have dreamed"
+    },
+    "subjuntivo": {
+      "presente": "I dream, am dreaming",
+      "imperfecto": "I dreamed, was dreaming",
+      "futuro": "I will dream",
+      "presentePerfecto": "I have dreamed, dreamed",
+      "futuroPerfecto": "I will have dreamed",
+      "pluscuamperfecto": "I had dreamed"
+    },
+    "afirmativo": "Dream!",
+    "negativo": "Don't dream!"
+  },
+  "attribution": "Fred Jehle"
+}

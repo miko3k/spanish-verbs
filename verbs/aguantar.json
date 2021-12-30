@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "aguantar",
+  "gerundio": "aguantando",
+  "participioPasado": "aguantado",
+  "indicativo": {
+    "presente": {
+      "yo": "aguanto",
+      "tu": "aguantas",
+      "ud": "aguanta",
+      "nosotros": "aguantamos",
+      "vosotros": "aguantáis",
+      "uds": "aguantan"
+    },
+    "futuro": {
+      "yo": "aguantaré",
+      "tu": "aguantarás",
+      "ud": "aguantará",
+      "nosotros": "aguantaremos",
+      "vosotros": "aguantaréis",
+      "uds": "aguantarán"
+    },
+    "imperfecto": {
+      "yo": "aguantaba",
+      "tu": "aguantabas",
+      "ud": "aguantaba",
+      "nosotros": "aguantábamos",
+      "vosotros": "aguantabais",
+      "uds": "aguantaban"
+    },
+    "preterito": {
+      "yo": "aguanté",
+      "tu": "aguantaste",
+      "ud": "aguantó",
+      "nosotros": "aguantamos",
+      "vosotros": "aguantasteis",
+      "uds": "aguantaron"
+    },
+    "condicional": {
+      "yo": "aguantaría",
+      "tu": "aguantarías",
+      "ud": "aguantaría",
+      "nosotros": "aguantaríamos",
+      "vosotros": "aguantaríais",
+      "uds": "aguantarían"
+    },
+    "presentePerfecto": {
+      "yo": "he aguantado",
+      "tu": "has aguantado",
+      "ud": "ha aguantado",
+      "nosotros": "hemos aguantado",
+      "vosotros": "habéis aguantado",
+      "uds": "han aguantado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré aguantado",
+      "tu": "habrás aguantado",
+      "ud": "habrá aguantado",
+      "nosotros": "habremos aguantado",
+      "vosotros": "habréis aguantado",
+      "uds": "habrán aguantado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había aguantado",
+      "tu": "habías aguantado",
+      "ud": "había aguantado",
+      "nosotros": "habíamos aguantado",
+      "vosotros": "habíais aguantado",
+      "uds": "habían aguantado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube aguantado",
+      "tu": "hubiste aguantado",
+      "ud": "hubo aguantado",
+      "nosotros": "hubimos aguantado",
+      "vosotros": "hubisteis aguantado",
+      "uds": "hubieron aguantado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría aguantado",
+      "tu": "habrías aguantado",
+      "ud": "habría aguantado",
+      "nosotros": "habríamos aguantado",
+      "vosotros": "habríais aguantado",
+      "uds": "habrían aguantado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aguante",
+      "tu": "aguantes",
+      "ud": "aguante",
+      "nosotros": "aguantemos",
+      "vosotros": "aguantéis",
+      "uds": "aguanten"
+    },
+    "imperfecto": {
+      "yo": "aguantara",
+      "tu": "aguantaras",
+      "ud": "aguantara",
+      "nosotros": "aguantáramos",
+      "vosotros": "aguantarais",
+      "uds": "aguantaran"
+    },
+    "futuro": {
+      "yo": "aguantare",
+      "tu": "aguantares",
+      "ud": "aguantare",
+      "nosotros": "aguantáremos",
+      "vosotros": "aguantareis",
+      "uds": "aguantaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya aguantado",
+      "tu": "hayas aguantado",
+      "ud": "haya aguantado",
+      "nosotros": "hayamos aguantado",
+      "vosotros": "hayáis aguantado",
+      "uds": "hayan aguantado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere aguantado",
+      "tu": "hubieres aguantado",
+      "ud": "hubiere aguantado",
+      "nosotros": "hubiéremos aguantado",
+      "vosotros": "hubiereis aguantado",
+      "uds": "hubieren aguantado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera aguantado",
+      "tu": "hubieras aguantado",
+      "ud": "hubiera aguantado",
+      "nosotros": "hubiéramos aguantado",
+      "vosotros": "hubierais aguantado",
+      "uds": "hubieran aguantado"
+    },
+    "imperfectoAlt": {
+      "yo": "aguantase",
+      "tu": "aguantases",
+      "ud": "aguantase",
+      "nosotros": "aguantásemos",
+      "vosotros": "aguantaseis",
+      "uds": "aguantasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese aguantado",
+      "tu": "hubieses aguantado",
+      "ud": "hubiese aguantado",
+      "nosotros": "hubiésemos aguantado",
+      "vosotros": "hubieseis aguantado",
+      "uds": "hubiesen aguantado"
+    }
+  },
+  "afirmativo": {
+    "tu": "aguanta",
+    "vosotros": "aguantad",
+    "ud": "aguante",
+    "uds": "aguanten"
+  },
+  "negativo": {
+    "tu": "no aguantes",
+    "vosotros": "no aguantéis",
+    "ud": "no aguante",
+    "uds": "no aguanten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to put up with, endure, bear, stand",
+    "gerundio": "putting up with",
+    "participioPasado": "put up with",
+    "indicativo": {
+      "presente": "I put up with, am putting up with",
+      "futuro": "I will put up with",
+      "imperfecto": "I was putting up with, used to put up with, put up with",
+      "preterito": "I put up with",
+      "condicional": "I would put up with",
+      "presentePerfecto": "I have put up with",
+      "futuroPerfecto": "I will have put up with",
+      "pluscuamperfecto": "I had put up with",
+      "preteritoAnterior": "I had put up with",
+      "condicionalPerfecto": "I would have put up with"
+    },
+    "subjuntivo": {
+      "presente": "I put up with, am putting up with",
+      "imperfecto": "I put up with, was putting up with",
+      "futuro": "I will put up with",
+      "presentePerfecto": "I have put up with, put up with",
+      "futuroPerfecto": "I will have put up with",
+      "pluscuamperfecto": "I had put up with"
+    },
+    "afirmativo": "Put up with!",
+    "negativo": "Don't put up with!"
+  },
+  "attribution": "Fred Jehle"
+}

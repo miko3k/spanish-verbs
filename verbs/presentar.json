@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "presentar",
+  "gerundio": "presentando",
+  "participioPasado": "presentado",
+  "indicativo": {
+    "presente": {
+      "yo": "presento",
+      "tu": "presentas",
+      "ud": "presenta",
+      "nosotros": "presentamos",
+      "vosotros": "presentáis",
+      "uds": "presentan"
+    },
+    "futuro": {
+      "yo": "presentaré",
+      "tu": "presentarás",
+      "ud": "presentará",
+      "nosotros": "presentaremos",
+      "vosotros": "presentaréis",
+      "uds": "presentarán"
+    },
+    "imperfecto": {
+      "yo": "presentaba",
+      "tu": "presentabas",
+      "ud": "presentaba",
+      "nosotros": "presentábamos",
+      "vosotros": "presentabais",
+      "uds": "presentaban"
+    },
+    "preterito": {
+      "yo": "presenté",
+      "tu": "presentaste",
+      "ud": "presentó",
+      "nosotros": "presentamos",
+      "vosotros": "presentasteis",
+      "uds": "presentaron"
+    },
+    "condicional": {
+      "yo": "presentaría",
+      "tu": "presentarías",
+      "ud": "presentaría",
+      "nosotros": "presentaríamos",
+      "vosotros": "presentaríais",
+      "uds": "presentarían"
+    },
+    "presentePerfecto": {
+      "yo": "he presentado",
+      "tu": "has presentado",
+      "ud": "ha presentado",
+      "nosotros": "hemos presentado",
+      "vosotros": "habéis presentado",
+      "uds": "han presentado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré presentado",
+      "tu": "habrás presentado",
+      "ud": "habrá presentado",
+      "nosotros": "habremos presentado",
+      "vosotros": "habréis presentado",
+      "uds": "habrán presentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había presentado",
+      "tu": "habías presentado",
+      "ud": "había presentado",
+      "nosotros": "habíamos presentado",
+      "vosotros": "habíais presentado",
+      "uds": "habían presentado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube presentado",
+      "tu": "hubiste presentado",
+      "ud": "hubo presentado",
+      "nosotros": "hubimos presentado",
+      "vosotros": "hubisteis presentado",
+      "uds": "hubieron presentado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría presentado",
+      "tu": "habrías presentado",
+      "ud": "habría presentado",
+      "nosotros": "habríamos presentado",
+      "vosotros": "habríais presentado",
+      "uds": "habrían presentado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "presente",
+      "tu": "presentes",
+      "ud": "presente",
+      "nosotros": "presentemos",
+      "vosotros": "presentéis",
+      "uds": "presenten"
+    },
+    "imperfecto": {
+      "yo": "presentara",
+      "tu": "presentaras",
+      "ud": "presentara",
+      "nosotros": "presentáramos",
+      "vosotros": "presentarais",
+      "uds": "presentaran"
+    },
+    "futuro": {
+      "yo": "presentare",
+      "tu": "presentares",
+      "ud": "presentare",
+      "nosotros": "presentáremos",
+      "vosotros": "presentareis",
+      "uds": "presentaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya presentado",
+      "tu": "hayas presentado",
+      "ud": "haya presentado",
+      "nosotros": "hayamos presentado",
+      "vosotros": "hayáis presentado",
+      "uds": "hayan presentado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere presentado",
+      "tu": "hubieres presentado",
+      "ud": "hubiere presentado",
+      "nosotros": "hubiéremos presentado",
+      "vosotros": "hubiereis presentado",
+      "uds": "hubieren presentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera presentado",
+      "tu": "hubieras presentado",
+      "ud": "hubiera presentado",
+      "nosotros": "hubiéramos presentado",
+      "vosotros": "hubierais presentado",
+      "uds": "hubieran presentado"
+    },
+    "imperfectoAlt": {
+      "yo": "presentase",
+      "tu": "presentases",
+      "ud": "presentase",
+      "nosotros": "presentásemos",
+      "vosotros": "presentaseis",
+      "uds": "presentasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese presentado",
+      "tu": "hubieses presentado",
+      "ud": "hubiese presentado",
+      "nosotros": "hubiésemos presentado",
+      "vosotros": "hubieseis presentado",
+      "uds": "hubiesen presentado"
+    }
+  },
+  "afirmativo": {
+    "tu": "presenta",
+    "vosotros": "presentad",
+    "ud": "presente",
+    "uds": "presenten"
+  },
+  "negativo": {
+    "tu": "no presentes",
+    "vosotros": "no presentéis",
+    "ud": "no presente",
+    "uds": "no presenten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to introduce",
+    "gerundio": "introducing",
+    "participioPasado": "introduced",
+    "indicativo": {
+      "presente": "I introduce, am introducing",
+      "futuro": "I will introduce",
+      "imperfecto": "I was introducing, used to introduce, introduced",
+      "preterito": "I introduced",
+      "condicional": "I would introduce",
+      "presentePerfecto": "I have introduced",
+      "futuroPerfecto": "I will have introduced",
+      "pluscuamperfecto": "I had introduced",
+      "preteritoAnterior": "I had introduced",
+      "condicionalPerfecto": "I would have introduced"
+    },
+    "subjuntivo": {
+      "presente": "I introduce, am introducing",
+      "imperfecto": "I introduced, was introducing",
+      "futuro": "I will introduce",
+      "presentePerfecto": "I have introduced, introduced",
+      "futuroPerfecto": "I will have introduced",
+      "pluscuamperfecto": "I had introduced"
+    },
+    "afirmativo": "Introduce!",
+    "negativo": "Don't introduce!"
+  },
+  "attribution": "Fred Jehle"
+}

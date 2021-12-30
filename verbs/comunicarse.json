@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "comunicarse",
+  "gerundio": "comunicándose",
+  "participioPasado": "comunicado",
+  "indicativo": {
+    "presente": {
+      "yo": "me comunico",
+      "tu": "te comunicas",
+      "ud": "se comunica",
+      "nosotros": "nos comunicamos",
+      "vosotros": "os comunicáis",
+      "uds": "se comunican"
+    },
+    "futuro": {
+      "yo": "me comunicaré",
+      "tu": "te comunicarás",
+      "ud": "se comunicará",
+      "nosotros": "nos comunicaremos",
+      "vosotros": "os comunicaréis",
+      "uds": "se comunicarán"
+    },
+    "imperfecto": {
+      "yo": "me comunicaba",
+      "tu": "te comunicabas",
+      "ud": "se comunicaba",
+      "nosotros": "nos comunicábamos",
+      "vosotros": "os comunicabais",
+      "uds": "se comunicaban"
+    },
+    "preterito": {
+      "yo": "me comuniqué",
+      "tu": "te comunicaste",
+      "ud": "se comunicó",
+      "nosotros": "nos comunicamos",
+      "vosotros": "os comunicasteis",
+      "uds": "se comunicaron"
+    },
+    "condicional": {
+      "yo": "me comunicaría",
+      "tu": "te comunicarías",
+      "ud": "se comunicaría",
+      "nosotros": "nos comunicaríamos",
+      "vosotros": "os comunicaríais",
+      "uds": "se comunicarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he comunicado",
+      "tu": "te has comunicado",
+      "ud": "se ha comunicado",
+      "nosotros": "nos hemos comunicado",
+      "vosotros": "os habéis comunicado",
+      "uds": "se han comunicado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré comunicado",
+      "tu": "te habrás comunicado",
+      "ud": "se habrá comunicado",
+      "nosotros": "nos habremos comunicado",
+      "vosotros": "os habréis comunicado",
+      "uds": "se habrán comunicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había comunicado",
+      "tu": "te habías comunicado",
+      "ud": "se había comunicado",
+      "nosotros": "nos habíamos comunicado",
+      "vosotros": "os habíais comunicado",
+      "uds": "se habían comunicado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube comunicado",
+      "tu": "te hubiste comunicado",
+      "ud": "se hubo comunicado",
+      "nosotros": "nos hubimos comunicado",
+      "vosotros": "os hubisteis comunicado",
+      "uds": "se hubieron comunicado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría comunicado",
+      "tu": "te habrías comunicado",
+      "ud": "se habría comunicado",
+      "nosotros": "nos habríamos comunicado",
+      "vosotros": "os habríais comunicado",
+      "uds": "se habrían comunicado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me comunique",
+      "tu": "te comuniques",
+      "ud": "se comunique",
+      "nosotros": "nos comuniquemos",
+      "vosotros": "os comuniquéis",
+      "uds": "se comuniquen"
+    },
+    "imperfecto": {
+      "yo": "me comunicara",
+      "tu": "te comunicaras",
+      "ud": "se comunicara",
+      "nosotros": "nos comunicáramos",
+      "vosotros": "os comunicarais",
+      "uds": "se comunicaran"
+    },
+    "futuro": {
+      "yo": "me comunicare",
+      "tu": "te comunicares",
+      "ud": "se comunicare",
+      "nosotros": "nos comunicáremos",
+      "vosotros": "os comunicareis",
+      "uds": "se comunicaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya comunicado",
+      "tu": "te hayas comunicado",
+      "ud": "se haya comunicado",
+      "nosotros": "nos hayamos comunicado",
+      "vosotros": "os hayáis comunicado",
+      "uds": "se hayan comunicado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere comunicado",
+      "tu": "te hubieres comunicado",
+      "ud": "se hubiere comunicado",
+      "nosotros": "nos hubiéremos comunicado",
+      "vosotros": "os hubiereis comunicado",
+      "uds": "se hubieren comunicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera comunicado",
+      "tu": "te hubieras comunicado",
+      "ud": "se hubiera comunicado",
+      "nosotros": "nos hubiéramos comunicado",
+      "vosotros": "os hubierais comunicado",
+      "uds": "se hubieran comunicado"
+    },
+    "imperfectoAlt": {
+      "yo": "me comunicase",
+      "tu": "te comunicases",
+      "ud": "se comunicase",
+      "nosotros": "nos comunicásemos",
+      "vosotros": "os comunicaseis",
+      "uds": "se comunicasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese comunicado",
+      "tu": "te hubieses comunicado",
+      "ud": "se hubiese comunicado",
+      "nosotros": "nos hubiésemos comunicado",
+      "vosotros": "os hubieseis comunicado",
+      "uds": "se hubiesen comunicado"
+    }
+  },
+  "afirmativo": {
+    "tu": "comunícate",
+    "vosotros": "comunicaos",
+    "ud": "comuníquese",
+    "uds": "comuníquense"
+  },
+  "negativo": {
+    "tu": "no te comuniques",
+    "vosotros": "no os comuniquéis",
+    "ud": "no se comunique",
+    "uds": "no se comuniquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e. Note: For to communicate something, use the nonreflexive form comunicar.",
+    "infinitivo": "to communicate (e.g., with someone), be in touch, correspond; to be transmitted",
+    "gerundio": "communicating",
+    "participioPasado": "communicated",
+    "indicativo": {
+      "presente": "I communicate, am communicating",
+      "futuro": "I will communicate",
+      "imperfecto": "I was communicating, used to communicate, communicated",
+      "preterito": "I communicated",
+      "condicional": "I would communicate",
+      "presentePerfecto": "I have communicated",
+      "futuroPerfecto": "I will have communicated",
+      "pluscuamperfecto": "I had communicated",
+      "preteritoAnterior": "I had communicated",
+      "condicionalPerfecto": "I would have communicated"
+    },
+    "subjuntivo": {
+      "presente": "I communicate, am communicating",
+      "imperfecto": "I communicated, was communicating",
+      "futuro": "I will communicate",
+      "presentePerfecto": "I have communicated, communicated",
+      "futuroPerfecto": "I will have communicated",
+      "pluscuamperfecto": "I had communicated"
+    },
+    "afirmativo": "Communicate!",
+    "negativo": "Don't communicate!"
+  },
+  "attribution": "Fred Jehle"
+}

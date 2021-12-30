@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "ubicar",
+  "gerundio": "ubicando",
+  "participioPasado": "ubicado",
+  "indicativo": {
+    "presente": {
+      "yo": "ubico",
+      "tu": "ubicas",
+      "ud": "ubica",
+      "nosotros": "ubicamos",
+      "vosotros": "ubicáis",
+      "uds": "ubican"
+    },
+    "futuro": {
+      "yo": "ubicaré",
+      "tu": "ubicarás",
+      "ud": "ubicará",
+      "nosotros": "ubicaremos",
+      "vosotros": "ubicaréis",
+      "uds": "ubicarán"
+    },
+    "imperfecto": {
+      "yo": "ubicaba",
+      "tu": "ubicabas",
+      "ud": "ubicaba",
+      "nosotros": "ubicábamos",
+      "vosotros": "ubicabais",
+      "uds": "ubicaban"
+    },
+    "preterito": {
+      "yo": "ubiqué",
+      "tu": "ubicaste",
+      "ud": "ubicó",
+      "nosotros": "ubicamos",
+      "vosotros": "ubicasteis",
+      "uds": "ubicaron"
+    },
+    "condicional": {
+      "yo": "ubicaría",
+      "tu": "ubicarías",
+      "ud": "ubicaría",
+      "nosotros": "ubicaríamos",
+      "vosotros": "ubicaríais",
+      "uds": "ubicarían"
+    },
+    "presentePerfecto": {
+      "yo": "he ubicado",
+      "tu": "has ubicado",
+      "ud": "ha ubicado",
+      "nosotros": "hemos ubicado",
+      "vosotros": "habéis ubicado",
+      "uds": "han ubicado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ubicado",
+      "tu": "habrás ubicado",
+      "ud": "habrá ubicado",
+      "nosotros": "habremos ubicado",
+      "vosotros": "habréis ubicado",
+      "uds": "habrán ubicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ubicado",
+      "tu": "habías ubicado",
+      "ud": "había ubicado",
+      "nosotros": "habíamos ubicado",
+      "vosotros": "habíais ubicado",
+      "uds": "habían ubicado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ubicado",
+      "tu": "hubiste ubicado",
+      "ud": "hubo ubicado",
+      "nosotros": "hubimos ubicado",
+      "vosotros": "hubisteis ubicado",
+      "uds": "hubieron ubicado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ubicado",
+      "tu": "habrías ubicado",
+      "ud": "habría ubicado",
+      "nosotros": "habríamos ubicado",
+      "vosotros": "habríais ubicado",
+      "uds": "habrían ubicado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ubique",
+      "tu": "ubiques",
+      "ud": "ubique",
+      "nosotros": "ubiquemos",
+      "vosotros": "ubiquéis",
+      "uds": "ubiquen"
+    },
+    "imperfecto": {
+      "yo": "ubicara",
+      "tu": "ubicaras",
+      "ud": "ubicara",
+      "nosotros": "ubicáramos",
+      "vosotros": "ubicarais",
+      "uds": "ubicaran"
+    },
+    "futuro": {
+      "yo": "ubicare",
+      "tu": "ubicares",
+      "ud": "ubicare",
+      "nosotros": "ubicáremos",
+      "vosotros": "ubicareis",
+      "uds": "ubicaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ubicado",
+      "tu": "hayas ubicado",
+      "ud": "haya ubicado",
+      "nosotros": "hayamos ubicado",
+      "vosotros": "hayáis ubicado",
+      "uds": "hayan ubicado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ubicado",
+      "tu": "hubieres ubicado",
+      "ud": "hubiere ubicado",
+      "nosotros": "hubiéremos ubicado",
+      "vosotros": "hubiereis ubicado",
+      "uds": "hubieren ubicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ubicado",
+      "tu": "hubieras ubicado",
+      "ud": "hubiera ubicado",
+      "nosotros": "hubiéramos ubicado",
+      "vosotros": "hubierais ubicado",
+      "uds": "hubieran ubicado"
+    },
+    "imperfectoAlt": {
+      "yo": "ubicase",
+      "tu": "ubicases",
+      "ud": "ubicase",
+      "nosotros": "ubicásemos",
+      "vosotros": "ubicaseis",
+      "uds": "ubicasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ubicado",
+      "tu": "hubieses ubicado",
+      "ud": "hubiese ubicado",
+      "nosotros": "hubiésemos ubicado",
+      "vosotros": "hubieseis ubicado",
+      "uds": "hubiesen ubicado"
+    }
+  },
+  "afirmativo": {
+    "tu": "ubica",
+    "vosotros": "ubicad",
+    "ud": "ubique",
+    "uds": "ubiquen"
+  },
+  "negativo": {
+    "tu": "no ubiques",
+    "vosotros": "no ubiquéis",
+    "ud": "no ubique",
+    "uds": "no ubiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to place, locate; to be located, be situated",
+    "gerundio": "placing",
+    "participioPasado": "placed",
+    "indicativo": {
+      "presente": "I place, am placing",
+      "futuro": "I will place",
+      "imperfecto": "I was placing, used to place, placed",
+      "preterito": "I placed",
+      "condicional": "I would place",
+      "presentePerfecto": "I have placed",
+      "futuroPerfecto": "I will have placed",
+      "pluscuamperfecto": "I had placed",
+      "preteritoAnterior": "I had placed",
+      "condicionalPerfecto": "I would have placed"
+    },
+    "subjuntivo": {
+      "presente": "I place, am placing",
+      "imperfecto": "I placed, was placing",
+      "futuro": "I will place",
+      "presentePerfecto": "I have placed, placed",
+      "futuroPerfecto": "I will have placed",
+      "pluscuamperfecto": "I had placed"
+    },
+    "afirmativo": "Place!",
+    "negativo": "Don't place!"
+  },
+  "attribution": "Fred Jehle"
+}

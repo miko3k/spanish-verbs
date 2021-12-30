@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "unir",
+  "gerundio": "uniendo",
+  "participioPasado": "unido",
+  "indicativo": {
+    "presente": {
+      "yo": "uno",
+      "tu": "unes",
+      "ud": "une",
+      "nosotros": "unimos",
+      "vosotros": "unís",
+      "uds": "unen"
+    },
+    "futuro": {
+      "yo": "uniré",
+      "tu": "unirás",
+      "ud": "unirá",
+      "nosotros": "uniremos",
+      "vosotros": "uniréis",
+      "uds": "unirán"
+    },
+    "imperfecto": {
+      "yo": "unía",
+      "tu": "unías",
+      "ud": "unía",
+      "nosotros": "uníamos",
+      "vosotros": "uníais",
+      "uds": "unían"
+    },
+    "preterito": {
+      "yo": "uní",
+      "tu": "uniste",
+      "ud": "unió",
+      "nosotros": "unimos",
+      "vosotros": "unisteis",
+      "uds": "unieron"
+    },
+    "condicional": {
+      "yo": "uniría",
+      "tu": "unirías",
+      "ud": "uniría",
+      "nosotros": "uniríamos",
+      "vosotros": "uniríais",
+      "uds": "unirían"
+    },
+    "presentePerfecto": {
+      "yo": "he unido",
+      "tu": "has unido",
+      "ud": "ha unido",
+      "nosotros": "hemos unido",
+      "vosotros": "habéis unido",
+      "uds": "han unido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré unido",
+      "tu": "habrás unido",
+      "ud": "habrá unido",
+      "nosotros": "habremos unido",
+      "vosotros": "habréis unido",
+      "uds": "habrán unido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había unido",
+      "tu": "habías unido",
+      "ud": "había unido",
+      "nosotros": "habíamos unido",
+      "vosotros": "habíais unido",
+      "uds": "habían unido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube unido",
+      "tu": "hubiste unido",
+      "ud": "hubo unido",
+      "nosotros": "hubimos unido",
+      "vosotros": "hubisteis unido",
+      "uds": "hubieron unido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría unido",
+      "tu": "habrías unido",
+      "ud": "habría unido",
+      "nosotros": "habríamos unido",
+      "vosotros": "habríais unido",
+      "uds": "habrían unido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "una",
+      "tu": "unas",
+      "ud": "una",
+      "nosotros": "unamos",
+      "vosotros": "unáis",
+      "uds": "unan"
+    },
+    "imperfecto": {
+      "yo": "uniera",
+      "tu": "unieras",
+      "ud": "uniera",
+      "nosotros": "uniéramos",
+      "vosotros": "unierais",
+      "uds": "unieran"
+    },
+    "futuro": {
+      "yo": "uniere",
+      "tu": "unieres",
+      "ud": "uniere",
+      "nosotros": "uniéremos",
+      "vosotros": "uniereis",
+      "uds": "unieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya unido",
+      "tu": "hayas unido",
+      "ud": "haya unido",
+      "nosotros": "hayamos unido",
+      "vosotros": "hayáis unido",
+      "uds": "hayan unido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere unido",
+      "tu": "hubieres unido",
+      "ud": "hubiere unido",
+      "nosotros": "hubiéremos unido",
+      "vosotros": "hubiereis unido",
+      "uds": "hubieren unido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera unido",
+      "tu": "hubieras unido",
+      "ud": "hubiera unido",
+      "nosotros": "hubiéramos unido",
+      "vosotros": "hubierais unido",
+      "uds": "hubieran unido"
+    },
+    "imperfectoAlt": {
+      "yo": "uniese",
+      "tu": "unieses",
+      "ud": "uniese",
+      "nosotros": "uniésemos",
+      "vosotros": "unieseis",
+      "uds": "uniesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese unido",
+      "tu": "hubieses unido",
+      "ud": "hubiese unido",
+      "nosotros": "hubiésemos unido",
+      "vosotros": "hubieseis unido",
+      "uds": "hubiesen unido"
+    }
+  },
+  "afirmativo": {
+    "tu": "une",
+    "vosotros": "unid",
+    "ud": "una",
+    "uds": "unan"
+  },
+  "negativo": {
+    "tu": "no unas",
+    "vosotros": "no unáis",
+    "ud": "no una",
+    "uds": "no unan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to unite, join; to tie together; to merge",
+    "gerundio": "uniting",
+    "participioPasado": "united",
+    "indicativo": {
+      "presente": "I unite, am uniting",
+      "futuro": "I will unite",
+      "imperfecto": "I was uniting, used to unite, united",
+      "preterito": "I united",
+      "condicional": "I would unite",
+      "presentePerfecto": "I have united",
+      "futuroPerfecto": "I will have united",
+      "pluscuamperfecto": "I had united",
+      "preteritoAnterior": "I had united",
+      "condicionalPerfecto": "I would have united"
+    },
+    "subjuntivo": {
+      "presente": "I unite, am uniting",
+      "imperfecto": "I united, was uniting",
+      "futuro": "I will unite",
+      "presentePerfecto": "I have united, united",
+      "futuroPerfecto": "I will have united",
+      "pluscuamperfecto": "I had united"
+    },
+    "afirmativo": "Unite!",
+    "negativo": "Don't unite!"
+  },
+  "attribution": "Fred Jehle"
+}

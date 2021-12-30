@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "llevar",
+  "gerundio": "llevando",
+  "participioPasado": "llevado",
+  "indicativo": {
+    "presente": {
+      "yo": "llevo",
+      "tu": "llevas",
+      "ud": "lleva",
+      "nosotros": "llevamos",
+      "vosotros": "lleváis",
+      "uds": "llevan"
+    },
+    "futuro": {
+      "yo": "llevaré",
+      "tu": "llevarás",
+      "ud": "llevará",
+      "nosotros": "llevaremos",
+      "vosotros": "llevaréis",
+      "uds": "llevarán"
+    },
+    "imperfecto": {
+      "yo": "llevaba",
+      "tu": "llevabas",
+      "ud": "llevaba",
+      "nosotros": "llevábamos",
+      "vosotros": "llevabais",
+      "uds": "llevaban"
+    },
+    "preterito": {
+      "yo": "llevé",
+      "tu": "llevaste",
+      "ud": "llevó",
+      "nosotros": "llevamos",
+      "vosotros": "llevasteis",
+      "uds": "llevaron"
+    },
+    "condicional": {
+      "yo": "llevaría",
+      "tu": "llevarías",
+      "ud": "llevaría",
+      "nosotros": "llevaríamos",
+      "vosotros": "llevaríais",
+      "uds": "llevarían"
+    },
+    "presentePerfecto": {
+      "yo": "he llevado",
+      "tu": "has llevado",
+      "ud": "ha llevado",
+      "nosotros": "hemos llevado",
+      "vosotros": "habéis llevado",
+      "uds": "han llevado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré llevado",
+      "tu": "habrás llevado",
+      "ud": "habrá llevado",
+      "nosotros": "habremos llevado",
+      "vosotros": "habréis llevado",
+      "uds": "habrán llevado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había llevado",
+      "tu": "habías llevado",
+      "ud": "había llevado",
+      "nosotros": "habíamos llevado",
+      "vosotros": "habíais llevado",
+      "uds": "habían llevado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube llevado",
+      "tu": "hubiste llevado",
+      "ud": "hubo llevado",
+      "nosotros": "hubimos llevado",
+      "vosotros": "hubisteis llevado",
+      "uds": "hubieron llevado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría llevado",
+      "tu": "habrías llevado",
+      "ud": "habría llevado",
+      "nosotros": "habríamos llevado",
+      "vosotros": "habríais llevado",
+      "uds": "habrían llevado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "lleve",
+      "tu": "lleves",
+      "ud": "lleve",
+      "nosotros": "llevemos",
+      "vosotros": "llevéis",
+      "uds": "lleven"
+    },
+    "imperfecto": {
+      "yo": "llevara",
+      "tu": "llevaras",
+      "ud": "llevara",
+      "nosotros": "lleváramos",
+      "vosotros": "llevarais",
+      "uds": "llevaran"
+    },
+    "futuro": {
+      "yo": "llevare",
+      "tu": "llevares",
+      "ud": "llevare",
+      "nosotros": "lleváremos",
+      "vosotros": "llevareis",
+      "uds": "llevaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya llevado",
+      "tu": "hayas llevado",
+      "ud": "haya llevado",
+      "nosotros": "hayamos llevado",
+      "vosotros": "hayáis llevado",
+      "uds": "hayan llevado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere llevado",
+      "tu": "hubieres llevado",
+      "ud": "hubiere llevado",
+      "nosotros": "hubiéremos llevado",
+      "vosotros": "hubiereis llevado",
+      "uds": "hubieren llevado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera llevado",
+      "tu": "hubieras llevado",
+      "ud": "hubiera llevado",
+      "nosotros": "hubiéramos llevado",
+      "vosotros": "hubierais llevado",
+      "uds": "hubieran llevado"
+    },
+    "imperfectoAlt": {
+      "yo": "llevase",
+      "tu": "llevases",
+      "ud": "llevase",
+      "nosotros": "llevásemos",
+      "vosotros": "llevaseis",
+      "uds": "llevasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese llevado",
+      "tu": "hubieses llevado",
+      "ud": "hubiese llevado",
+      "nosotros": "hubiésemos llevado",
+      "vosotros": "hubieseis llevado",
+      "uds": "hubiesen llevado"
+    }
+  },
+  "afirmativo": {
+    "tu": "lleva",
+    "vosotros": "llevad",
+    "ud": "lleve",
+    "uds": "lleven"
+  },
+  "negativo": {
+    "tu": "no lleves",
+    "vosotros": "no llevéis",
+    "ud": "no lleve",
+    "uds": "no lleven"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to carry, bring",
+    "gerundio": "carrying",
+    "participioPasado": "carried",
+    "indicativo": {
+      "presente": "I carry, am carrying",
+      "futuro": "I will carry",
+      "imperfecto": "I was carrying, used to carry, carried",
+      "preterito": "I carried",
+      "condicional": "I would carry",
+      "presentePerfecto": "I have carried",
+      "futuroPerfecto": "I will have carried",
+      "pluscuamperfecto": "I had carried",
+      "preteritoAnterior": "I had carried",
+      "condicionalPerfecto": "I would have carried"
+    },
+    "subjuntivo": {
+      "presente": "I carry, am carrying",
+      "imperfecto": "I carried, was carrying",
+      "futuro": "I will carry",
+      "presentePerfecto": "I have carried, carried",
+      "futuroPerfecto": "I will have carried",
+      "pluscuamperfecto": "I had carried"
+    },
+    "afirmativo": "Carry!",
+    "negativo": "Don't carry!"
+  },
+  "attribution": "Fred Jehle"
+}

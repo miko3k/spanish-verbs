@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "calcular",
+  "gerundio": "calculando",
+  "participioPasado": "calculado",
+  "indicativo": {
+    "presente": {
+      "yo": "calculo",
+      "tu": "calculas",
+      "ud": "calcula",
+      "nosotros": "calculamos",
+      "vosotros": "calculáis",
+      "uds": "calculan"
+    },
+    "futuro": {
+      "yo": "calcularé",
+      "tu": "calcularás",
+      "ud": "calculará",
+      "nosotros": "calcularemos",
+      "vosotros": "calcularéis",
+      "uds": "calcularán"
+    },
+    "imperfecto": {
+      "yo": "calculaba",
+      "tu": "calculabas",
+      "ud": "calculaba",
+      "nosotros": "calculábamos",
+      "vosotros": "calculabais",
+      "uds": "calculaban"
+    },
+    "preterito": {
+      "yo": "calculé",
+      "tu": "calculaste",
+      "ud": "calculó",
+      "nosotros": "calculamos",
+      "vosotros": "calculasteis",
+      "uds": "calcularon"
+    },
+    "condicional": {
+      "yo": "calcularía",
+      "tu": "calcularías",
+      "ud": "calcularía",
+      "nosotros": "calcularíamos",
+      "vosotros": "calcularíais",
+      "uds": "calcularían"
+    },
+    "presentePerfecto": {
+      "yo": "he calculado",
+      "tu": "has calculado",
+      "ud": "ha calculado",
+      "nosotros": "hemos calculado",
+      "vosotros": "habéis calculado",
+      "uds": "han calculado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré calculado",
+      "tu": "habrás calculado",
+      "ud": "habrá calculado",
+      "nosotros": "habremos calculado",
+      "vosotros": "habréis calculado",
+      "uds": "habrán calculado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había calculado",
+      "tu": "habías calculado",
+      "ud": "había calculado",
+      "nosotros": "habíamos calculado",
+      "vosotros": "habíais calculado",
+      "uds": "habían calculado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube calculado",
+      "tu": "hubiste calculado",
+      "ud": "hubo calculado",
+      "nosotros": "hubimos calculado",
+      "vosotros": "hubisteis calculado",
+      "uds": "hubieron calculado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría calculado",
+      "tu": "habrías calculado",
+      "ud": "habría calculado",
+      "nosotros": "habríamos calculado",
+      "vosotros": "habríais calculado",
+      "uds": "habrían calculado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "calcule",
+      "tu": "calcules",
+      "ud": "calcule",
+      "nosotros": "calculemos",
+      "vosotros": "calculéis",
+      "uds": "calculen"
+    },
+    "imperfecto": {
+      "yo": "calculara",
+      "tu": "calcularas",
+      "ud": "calculara",
+      "nosotros": "calculáramos",
+      "vosotros": "calcularais",
+      "uds": "calcularan"
+    },
+    "futuro": {
+      "yo": "calculare",
+      "tu": "calculares",
+      "ud": "calculare",
+      "nosotros": "calculáremos",
+      "vosotros": "calculareis",
+      "uds": "calcularen"
+    },
+    "presentePerfecto": {
+      "yo": "haya calculado",
+      "tu": "hayas calculado",
+      "ud": "haya calculado",
+      "nosotros": "hayamos calculado",
+      "vosotros": "hayáis calculado",
+      "uds": "hayan calculado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere calculado",
+      "tu": "hubieres calculado",
+      "ud": "hubiere calculado",
+      "nosotros": "hubiéremos calculado",
+      "vosotros": "hubiereis calculado",
+      "uds": "hubieren calculado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera calculado",
+      "tu": "hubieras calculado",
+      "ud": "hubiera calculado",
+      "nosotros": "hubiéramos calculado",
+      "vosotros": "hubierais calculado",
+      "uds": "hubieran calculado"
+    },
+    "imperfectoAlt": {
+      "yo": "calculase",
+      "tu": "calculases",
+      "ud": "calculase",
+      "nosotros": "calculásemos",
+      "vosotros": "calculaseis",
+      "uds": "calculasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese calculado",
+      "tu": "hubieses calculado",
+      "ud": "hubiese calculado",
+      "nosotros": "hubiésemos calculado",
+      "vosotros": "hubieseis calculado",
+      "uds": "hubiesen calculado"
+    }
+  },
+  "afirmativo": {
+    "tu": "calcula",
+    "vosotros": "calculad",
+    "ud": "calcule",
+    "uds": "calculen"
+  },
+  "negativo": {
+    "tu": "no calcules",
+    "vosotros": "no calculéis",
+    "ud": "no calcule",
+    "uds": "no calculen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to calculate, compute, add up",
+    "gerundio": "calculating",
+    "participioPasado": "calculated",
+    "indicativo": {
+      "presente": "I calculate, am calculating",
+      "futuro": "I will calculate",
+      "imperfecto": "I was calculating, used to calculate, calculated",
+      "preterito": "I calculated",
+      "condicional": "I would calculate",
+      "presentePerfecto": "I have calculated",
+      "futuroPerfecto": "I will have calculated",
+      "pluscuamperfecto": "I had calculated",
+      "preteritoAnterior": "I had calculated",
+      "condicionalPerfecto": "I would have calculated"
+    },
+    "subjuntivo": {
+      "presente": "I calculate, am calculating",
+      "imperfecto": "I calculated, was calculating",
+      "futuro": "I will calculate",
+      "presentePerfecto": "I have calculated, calculated",
+      "futuroPerfecto": "I will have calculated",
+      "pluscuamperfecto": "I had calculated"
+    },
+    "afirmativo": "Calculate!",
+    "negativo": "Don't calculate!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "olvidar",
+  "gerundio": "olvidando",
+  "participioPasado": "olvidado",
+  "indicativo": {
+    "presente": {
+      "yo": "olvido",
+      "tu": "olvidas",
+      "ud": "olvida",
+      "nosotros": "olvidamos",
+      "vosotros": "olvidáis",
+      "uds": "olvidan"
+    },
+    "futuro": {
+      "yo": "olvidaré",
+      "tu": "olvidarás",
+      "ud": "olvidará",
+      "nosotros": "olvidaremos",
+      "vosotros": "olvidaréis",
+      "uds": "olvidarán"
+    },
+    "imperfecto": {
+      "yo": "olvidaba",
+      "tu": "olvidabas",
+      "ud": "olvidaba",
+      "nosotros": "olvidábamos",
+      "vosotros": "olvidabais",
+      "uds": "olvidaban"
+    },
+    "preterito": {
+      "yo": "olvidé",
+      "tu": "olvidaste",
+      "ud": "olvidó",
+      "nosotros": "olvidamos",
+      "vosotros": "olvidasteis",
+      "uds": "olvidaron"
+    },
+    "condicional": {
+      "yo": "olvidaría",
+      "tu": "olvidarías",
+      "ud": "olvidaría",
+      "nosotros": "olvidaríamos",
+      "vosotros": "olvidaríais",
+      "uds": "olvidarían"
+    },
+    "presentePerfecto": {
+      "yo": "he olvidado",
+      "tu": "has olvidado",
+      "ud": "ha olvidado",
+      "nosotros": "hemos olvidado",
+      "vosotros": "habéis olvidado",
+      "uds": "han olvidado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré olvidado",
+      "tu": "habrás olvidado",
+      "ud": "habrá olvidado",
+      "nosotros": "habremos olvidado",
+      "vosotros": "habréis olvidado",
+      "uds": "habrán olvidado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había olvidado",
+      "tu": "habías olvidado",
+      "ud": "había olvidado",
+      "nosotros": "habíamos olvidado",
+      "vosotros": "habíais olvidado",
+      "uds": "habían olvidado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube olvidado",
+      "tu": "hubiste olvidado",
+      "ud": "hubo olvidado",
+      "nosotros": "hubimos olvidado",
+      "vosotros": "hubisteis olvidado",
+      "uds": "hubieron olvidado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría olvidado",
+      "tu": "habrías olvidado",
+      "ud": "habría olvidado",
+      "nosotros": "habríamos olvidado",
+      "vosotros": "habríais olvidado",
+      "uds": "habrían olvidado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "olvide",
+      "tu": "olvides",
+      "ud": "olvide",
+      "nosotros": "olvidemos",
+      "vosotros": "olvidéis",
+      "uds": "olviden"
+    },
+    "imperfecto": {
+      "yo": "olvidara",
+      "tu": "olvidaras",
+      "ud": "olvidara",
+      "nosotros": "olvidáramos",
+      "vosotros": "olvidarais",
+      "uds": "olvidaran"
+    },
+    "futuro": {
+      "yo": "olvidare",
+      "tu": "olvidares",
+      "ud": "olvidare",
+      "nosotros": "olvidáremos",
+      "vosotros": "olvidareis",
+      "uds": "olvidaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya olvidado",
+      "tu": "hayas olvidado",
+      "ud": "haya olvidado",
+      "nosotros": "hayamos olvidado",
+      "vosotros": "hayáis olvidado",
+      "uds": "hayan olvidado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere olvidado",
+      "tu": "hubieres olvidado",
+      "ud": "hubiere olvidado",
+      "nosotros": "hubiéremos olvidado",
+      "vosotros": "hubiereis olvidado",
+      "uds": "hubieren olvidado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera olvidado",
+      "tu": "hubieras olvidado",
+      "ud": "hubiera olvidado",
+      "nosotros": "hubiéramos olvidado",
+      "vosotros": "hubierais olvidado",
+      "uds": "hubieran olvidado"
+    },
+    "imperfectoAlt": {
+      "yo": "olvidase",
+      "tu": "olvidases",
+      "ud": "olvidase",
+      "nosotros": "olvidásemos",
+      "vosotros": "olvidaseis",
+      "uds": "olvidasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese olvidado",
+      "tu": "hubieses olvidado",
+      "ud": "hubiese olvidado",
+      "nosotros": "hubiésemos olvidado",
+      "vosotros": "hubieseis olvidado",
+      "uds": "hubiesen olvidado"
+    }
+  },
+  "afirmativo": {
+    "tu": "olvida",
+    "vosotros": "olvidad",
+    "ud": "olvide",
+    "uds": "olviden"
+  },
+  "negativo": {
+    "tu": "no olvides",
+    "vosotros": "no olvidéis",
+    "ud": "no olvide",
+    "uds": "no olviden"
+  },
+  "english": {
+    "note": "The reflexive form olvidarse (de algo) may also be used.",
+    "infinitivo": "to forget",
+    "gerundio": "forgetting",
+    "participioPasado": "forgotten",
+    "indicativo": {
+      "presente": "I forget, am forgetting",
+      "futuro": "I will forget",
+      "imperfecto": "I was forgetting, used to forget, forgot",
+      "preterito": "I forgot",
+      "condicional": "I would forget",
+      "presentePerfecto": "I have forgotten",
+      "futuroPerfecto": "I will have forgotten",
+      "pluscuamperfecto": "I had forgotten",
+      "preteritoAnterior": "I had forgotten",
+      "condicionalPerfecto": "I would have forgotten"
+    },
+    "subjuntivo": {
+      "presente": "I forget, am forgetting",
+      "imperfecto": "I forgot, was forgetting",
+      "futuro": "I will forget",
+      "presentePerfecto": "I have forgotten, forgot",
+      "futuroPerfecto": "I will have forgotten",
+      "pluscuamperfecto": "I had forgotten"
+    },
+    "afirmativo": "Forget!",
+    "negativo": "Don't forget!"
+  },
+  "attribution": "Fred Jehle"
+}

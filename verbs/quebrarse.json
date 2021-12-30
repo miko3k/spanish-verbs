@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "quebrarse",
+  "gerundio": "quebrándose",
+  "participioPasado": "quebrado",
+  "indicativo": {
+    "presente": {
+      "yo": "me quiebro",
+      "tu": "te quiebras",
+      "ud": "se quiebra",
+      "nosotros": "nos quebramos",
+      "vosotros": "os quebráis",
+      "uds": "se quiebran"
+    },
+    "futuro": {
+      "yo": "me quebraré",
+      "tu": "te quebrarás",
+      "ud": "se quebrará",
+      "nosotros": "nos quebraremos",
+      "vosotros": "os quebraréis",
+      "uds": "se quebrarán"
+    },
+    "imperfecto": {
+      "yo": "me quebraba",
+      "tu": "te quebrabas",
+      "ud": "se quebraba",
+      "nosotros": "nos quebrábamos",
+      "vosotros": "os quebrabais",
+      "uds": "se quebraban"
+    },
+    "preterito": {
+      "yo": "me quebré",
+      "tu": "te quebraste",
+      "ud": "se quebró",
+      "nosotros": "nos quebramos",
+      "vosotros": "quebrasteis",
+      "uds": "se quebraron"
+    },
+    "condicional": {
+      "yo": "me quebraría",
+      "tu": "te quebrarías",
+      "ud": "se quebraría",
+      "nosotros": "nos quebraríamos",
+      "vosotros": "os quebraríais",
+      "uds": "se quebrarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he quebrado",
+      "tu": "te has quebrado",
+      "ud": "se ha quebrado",
+      "nosotros": "nos hemos quebrado",
+      "vosotros": "os habéis quebrado",
+      "uds": "se han quebrado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré quebrado",
+      "tu": "te habrás quebrado",
+      "ud": "se habrá quebrado",
+      "nosotros": "nos habremos quebrado",
+      "vosotros": "os habréis quebrado",
+      "uds": "se habrán quebrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había quebrado",
+      "tu": "te habías quebrado",
+      "ud": "se había quebrado",
+      "nosotros": "nos habíamos quebrado",
+      "vosotros": "os habíais quebrado",
+      "uds": "se habían quebrado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube quebrado",
+      "tu": "te hubiste quebrado",
+      "ud": "se hubo quebrado",
+      "nosotros": "nos hubimos quebrado",
+      "vosotros": "os hubisteis quebrado",
+      "uds": "se hubieron quebrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría quebrado",
+      "tu": "te habrías quebrado",
+      "ud": "se habría quebrado",
+      "nosotros": "nos habríamos quebrado",
+      "vosotros": "os habríais quebrado",
+      "uds": "se habrían quebrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me quiebre",
+      "tu": "te quiebres",
+      "ud": "se quiebre",
+      "nosotros": "nos quebremos",
+      "vosotros": "os quebréis",
+      "uds": "se quiebren"
+    },
+    "imperfecto": {
+      "yo": "me quebrara",
+      "tu": "te quebraras",
+      "ud": "se quebrara",
+      "nosotros": "nos quebráramos",
+      "vosotros": "os quebrarais",
+      "uds": "se quebraran"
+    },
+    "futuro": {
+      "yo": "me quebrare",
+      "tu": "te quebrares",
+      "ud": "se quebrare",
+      "nosotros": "nos quebráremos",
+      "vosotros": "os quebrareis",
+      "uds": "se quebraren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya quebrado",
+      "tu": "te hayas quebrado",
+      "ud": "se haya quebrado",
+      "nosotros": "nos hayamos quebrado",
+      "vosotros": "os hayáis quebrado",
+      "uds": "se hayan quebrado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere quebrado",
+      "tu": "te hubieres quebrado",
+      "ud": "se hubiere quebrado",
+      "nosotros": "nos hubiéremos quebrado",
+      "vosotros": "os hubiereis quebrado",
+      "uds": "se hubieren quebrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera quebrado",
+      "tu": "te hubieras quebrado",
+      "ud": "se hubiera quebrado",
+      "nosotros": "nos hubiéramos quebrado",
+      "vosotros": "os hubierais quebrado",
+      "uds": "se hubieran quebrado"
+    },
+    "imperfectoAlt": {
+      "yo": "me quebrase",
+      "tu": "te quebrases",
+      "ud": "se quebrase",
+      "nosotros": "nos quebrásemos",
+      "vosotros": "os quebraseis",
+      "uds": "se quebrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese quebrado",
+      "tu": "te hubieses quebrado",
+      "ud": "se hubiese quebrado",
+      "nosotros": "nos hubiésemos quebrado",
+      "vosotros": "os hubieseis quebrado",
+      "uds": "se hubiesen quebrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "quiébrate",
+    "vosotros": "quebraos",
+    "ud": "quiébrese",
+    "uds": "quiébrense"
+  },
+  "negativo": {
+    "tu": "no te quiebres",
+    "vosotros": "no os quebréis",
+    "ud": "no se quiebre",
+    "uds": "no se quiebren"
+  },
+  "english": {
+    "note": "Cambio radical: i > ie cuando se acentúa. Note: This is used intranstitively as to break, smash in the sense to get broken/smashed; use nonreflexive form quebrar as the transitive verb to bread, smash (something).",
+    "infinitivo": "to break, smash, get broken",
+    "gerundio": "breaking",
+    "participioPasado": "broken",
+    "indicativo": {
+      "presente": "I break, am breaking",
+      "futuro": "I will break",
+      "imperfecto": "I was breaking, used to break, broke",
+      "preterito": "I broke",
+      "condicional": "I would break",
+      "presentePerfecto": "I have broken",
+      "futuroPerfecto": "I will have broken",
+      "pluscuamperfecto": "I had broken",
+      "preteritoAnterior": "I had broken",
+      "condicionalPerfecto": "I would have broken"
+    },
+    "subjuntivo": {
+      "presente": "I break, am breaking",
+      "imperfecto": "I broke, was breaking",
+      "futuro": "I will break",
+      "presentePerfecto": "I have broken, broke",
+      "futuroPerfecto": "I will have broken",
+      "pluscuamperfecto": "I had broken"
+    },
+    "afirmativo": "Break!",
+    "negativo": "Don't break!"
+  },
+  "attribution": "Fred Jehle"
+}

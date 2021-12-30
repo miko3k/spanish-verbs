@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "maquillarse",
+  "gerundio": "maquillándose",
+  "participioPasado": "maquillado",
+  "indicativo": {
+    "presente": {
+      "yo": "me maquillo",
+      "tu": "te maquillas",
+      "ud": "se maquilla",
+      "nosotros": "nos maquillamos",
+      "vosotros": "os maquilláis",
+      "uds": "se maquillan"
+    },
+    "futuro": {
+      "yo": "me maquillaré",
+      "tu": "te maquillarás",
+      "ud": "se maquillará",
+      "nosotros": "nos maquillaremos",
+      "vosotros": "os maquillaréis",
+      "uds": "se maquillarán"
+    },
+    "imperfecto": {
+      "yo": "me maquillaba",
+      "tu": "te maquillabas",
+      "ud": "se maquillaba",
+      "nosotros": "nos maquillábamos",
+      "vosotros": "os maquillabais",
+      "uds": "se maquillaban"
+    },
+    "preterito": {
+      "yo": "me maquillé",
+      "tu": "te maquillaste",
+      "ud": "se maquilló",
+      "nosotros": "nos maquillamos",
+      "vosotros": "os maquillasteis",
+      "uds": "se maquillaron"
+    },
+    "condicional": {
+      "yo": "me maquillaría",
+      "tu": "te maquillarías",
+      "ud": "se maquillaría",
+      "nosotros": "nos maquillaríamos",
+      "vosotros": "os maquillaríais",
+      "uds": "se maquillarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he maquillado",
+      "tu": "te has maquillado",
+      "ud": "se ha maquillado",
+      "nosotros": "nos hemos maquillado",
+      "vosotros": "os habéis maquillado",
+      "uds": "se han maquillado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré maquillado",
+      "tu": "te habrás maquillado",
+      "ud": "se habrá maquillado",
+      "nosotros": "nos habremos maquillado",
+      "vosotros": "os habréis maquillado",
+      "uds": "se habrán maquillado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había maquillado",
+      "tu": "te habías maquillado",
+      "ud": "se había maquillado",
+      "nosotros": "nos habíamos maquillado",
+      "vosotros": "os habíais maquillado",
+      "uds": "se habían maquillado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube maquillado",
+      "tu": "te hubiste maquillado",
+      "ud": "se hubo maquillado",
+      "nosotros": "nos hubimos maquillado",
+      "vosotros": "os hubisteis maquillado",
+      "uds": "se hubieron maquillado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría maquillado",
+      "tu": "te habrías maquillado",
+      "ud": "se habría maquillado",
+      "nosotros": "nos habríamos maquillado",
+      "vosotros": "os habríais maquillado",
+      "uds": "se habrían maquillado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me maquille",
+      "tu": "te maquilles",
+      "ud": "se maquille",
+      "nosotros": "nos maquillemos",
+      "vosotros": "os maquilléis",
+      "uds": "se maquillen"
+    },
+    "imperfecto": {
+      "yo": "me maquillara",
+      "tu": "te maquillaras",
+      "ud": "se maquillara",
+      "nosotros": "nos maquilláramos",
+      "vosotros": "os maquillarais",
+      "uds": "se maquillaran"
+    },
+    "futuro": {
+      "yo": "me maquillare",
+      "tu": "te maquillares",
+      "ud": "se maquillare",
+      "nosotros": "nos maquilláremos",
+      "vosotros": "os maquillareis",
+      "uds": "se maquillaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya maquillado",
+      "tu": "te hayas maquillado",
+      "ud": "se haya maquillado",
+      "nosotros": "nos hayamos maquillado",
+      "vosotros": "os hayáis maquillado",
+      "uds": "se hayan maquillado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere maquillado",
+      "tu": "te hubieres maquillado",
+      "ud": "se hubiere maquillado",
+      "nosotros": "nos hubiéremos maquillado",
+      "vosotros": "os hubiereis maquillado",
+      "uds": "se hubieren maquillado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera maquillado",
+      "tu": "te hubieras maquillado",
+      "ud": "se hubiera maquillado",
+      "nosotros": "nos hubiéramos maquillado",
+      "vosotros": "os hubierais maquillado",
+      "uds": "se hubieran maquillado"
+    },
+    "imperfectoAlt": {
+      "yo": "me maquillase",
+      "tu": "te maquillases",
+      "ud": "se maquillase",
+      "nosotros": "nos maquillásemos",
+      "vosotros": "os maquillaseis",
+      "uds": "se maquillasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese maquillado",
+      "tu": "te hubieses maquillado",
+      "ud": "se hubiese maquillado",
+      "nosotros": "nos hubiésemos maquillado",
+      "vosotros": "os hubieseis maquillado",
+      "uds": "se hubiesen maquillado"
+    }
+  },
+  "afirmativo": {
+    "tu": "no te maquíllate",
+    "vosotros": "maquillaos",
+    "ud": "no te maquíllese",
+    "uds": "maquíllense"
+  },
+  "negativo": {
+    "tu": "no te maquilles",
+    "vosotros": "no os maquilléis",
+    "ud": "no se maquille",
+    "uds": "no se maquillen"
+  },
+  "english": {
+    "note": "Note: For to put make-up on someone else, use the nonreflexive form maquillar.",
+    "infinitivo": "to put on make-up (on oneself)",
+    "gerundio": "putting on make-up",
+    "participioPasado": "put on make-up",
+    "indicativo": {
+      "presente": "I put on make-up, am putting on make-up",
+      "futuro": "I will put on make-up",
+      "imperfecto": "I was putting on make-up, used to put on make-up, put on make-up",
+      "preterito": "I put on make-up",
+      "condicional": "I would put on make-up",
+      "presentePerfecto": "I have put on make-up",
+      "futuroPerfecto": "I will have put on make-up",
+      "pluscuamperfecto": "I had put on make-up",
+      "preteritoAnterior": "I had put on make-up",
+      "condicionalPerfecto": "I would have put on make-up"
+    },
+    "subjuntivo": {
+      "presente": "I put on make-up, am putting on make-up",
+      "imperfecto": "I put on make-up, was putting on make-up",
+      "futuro": "I will put on make-up",
+      "presentePerfecto": "I have put on make-up, put on make-up",
+      "futuroPerfecto": "I will have put on make-up",
+      "pluscuamperfecto": "I had put on make-up"
+    },
+    "afirmativo": "Put on make-up!",
+    "negativo": "Don't put on make-up!"
+  },
+  "attribution": "Fred Jehle"
+}

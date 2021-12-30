@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "estimar",
+  "gerundio": "estimando",
+  "participioPasado": "estimado",
+  "indicativo": {
+    "presente": {
+      "yo": "estimo",
+      "tu": "estimas",
+      "ud": "estima",
+      "nosotros": "estimamos",
+      "vosotros": "estimáis",
+      "uds": "estiman"
+    },
+    "futuro": {
+      "yo": "estimaré",
+      "tu": "estimarás",
+      "ud": "estimará",
+      "nosotros": "estimaremos",
+      "vosotros": "estimaréis",
+      "uds": "estimarán"
+    },
+    "imperfecto": {
+      "yo": "estimaba",
+      "tu": "estimabas",
+      "ud": "estimaba",
+      "nosotros": "estimábamos",
+      "vosotros": "estimabais",
+      "uds": "estimaban"
+    },
+    "preterito": {
+      "yo": "estimé",
+      "tu": "estimaste",
+      "ud": "estimó",
+      "nosotros": "estimamos",
+      "vosotros": "estimasteis",
+      "uds": "estimaron"
+    },
+    "condicional": {
+      "yo": "estimaría",
+      "tu": "estimarías",
+      "ud": "estimaría",
+      "nosotros": "estimaríamos",
+      "vosotros": "estimaríais",
+      "uds": "estimarían"
+    },
+    "presentePerfecto": {
+      "yo": "he estimado",
+      "tu": "has estimado",
+      "ud": "ha estimado",
+      "nosotros": "hemos estimado",
+      "vosotros": "habéis estimado",
+      "uds": "han estimado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré estimado",
+      "tu": "habrás estimado",
+      "ud": "habrá estimado",
+      "nosotros": "habremos estimado",
+      "vosotros": "habréis estimado",
+      "uds": "habrán estimado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había estimado",
+      "tu": "habías estimado",
+      "ud": "había estimado",
+      "nosotros": "habíamos estimado",
+      "vosotros": "habíais estimado",
+      "uds": "habían estimado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube estimado",
+      "tu": "hubiste estimado",
+      "ud": "hubo estimado",
+      "nosotros": "hubimos estimado",
+      "vosotros": "hubisteis estimado",
+      "uds": "hubieron estimado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría estimado",
+      "tu": "habrías estimado",
+      "ud": "habría estimado",
+      "nosotros": "habríamos estimado",
+      "vosotros": "habríais estimado",
+      "uds": "habrían estimado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "estime",
+      "tu": "estimes",
+      "ud": "estime",
+      "nosotros": "estimemos",
+      "vosotros": "estiméis",
+      "uds": "estimen"
+    },
+    "imperfecto": {
+      "yo": "estimara",
+      "tu": "estimaras",
+      "ud": "estimara",
+      "nosotros": "estimáramos",
+      "vosotros": "estimarais",
+      "uds": "estimaran"
+    },
+    "futuro": {
+      "yo": "estimare",
+      "tu": "estimares",
+      "ud": "estimare",
+      "nosotros": "estimáremos",
+      "vosotros": "estimareis",
+      "uds": "estimaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya estimado",
+      "tu": "hayas estimado",
+      "ud": "haya estimado",
+      "nosotros": "hayamos estimado",
+      "vosotros": "hayáis estimado",
+      "uds": "hayan estimado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere estimado",
+      "tu": "hubieres estimado",
+      "ud": "hubiere estimado",
+      "nosotros": "hubiéremos estimado",
+      "vosotros": "hubiereis estimado",
+      "uds": "hubieren estimado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera estimado",
+      "tu": "hubieras estimado",
+      "ud": "hubiera estimado",
+      "nosotros": "hubiéramos estimado",
+      "vosotros": "hubierais estimado",
+      "uds": "hubieran estimado"
+    },
+    "imperfectoAlt": {
+      "yo": "estimase",
+      "tu": "estimases",
+      "ud": "estimase",
+      "nosotros": "estimásemos",
+      "vosotros": "estimaseis",
+      "uds": "estimasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese estimado",
+      "tu": "hubieses estimado",
+      "ud": "hubiese estimado",
+      "nosotros": "hubiésemos estimado",
+      "vosotros": "hubieseis estimado",
+      "uds": "hubiesen estimado"
+    }
+  },
+  "afirmativo": {
+    "tu": "estima",
+    "vosotros": "estimad",
+    "ud": "estime",
+    "uds": "estimen"
+  },
+  "negativo": {
+    "tu": "no estimes",
+    "vosotros": "no estiméis",
+    "ud": "no estime",
+    "uds": "no estimen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to estimate; to appraise; to esteem, respect",
+    "gerundio": "estimating",
+    "participioPasado": "estimated",
+    "indicativo": {
+      "presente": "I estimate, am estimating",
+      "futuro": "I will estimate",
+      "imperfecto": "I was estimating, used to estimate, estimated",
+      "preterito": "I estimated",
+      "condicional": "I would estimate",
+      "presentePerfecto": "I have estimated",
+      "futuroPerfecto": "I will have estimated",
+      "pluscuamperfecto": "I had estimated",
+      "preteritoAnterior": "I had estimated",
+      "condicionalPerfecto": "I would have estimated"
+    },
+    "subjuntivo": {
+      "presente": "I estimate, am estimating",
+      "imperfecto": "I estimated, was estimating",
+      "futuro": "I will estimate",
+      "presentePerfecto": "I have estimated, estimated",
+      "futuroPerfecto": "I will have estimated",
+      "pluscuamperfecto": "I had estimated"
+    },
+    "afirmativo": "Estimate!",
+    "negativo": "Don't estimate!"
+  },
+  "attribution": "Fred Jehle"
+}

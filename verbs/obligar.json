@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "obligar",
+  "gerundio": "obligando",
+  "participioPasado": "obligado",
+  "indicativo": {
+    "presente": {
+      "yo": "obligo",
+      "tu": "obligas",
+      "ud": "obliga",
+      "nosotros": "obligamos",
+      "vosotros": "obligáis",
+      "uds": "obligan"
+    },
+    "futuro": {
+      "yo": "obligaré",
+      "tu": "obligarás",
+      "ud": "obligará",
+      "nosotros": "obligaremos",
+      "vosotros": "obligaréis",
+      "uds": "obligarán"
+    },
+    "imperfecto": {
+      "yo": "obligaba",
+      "tu": "obligabas",
+      "ud": "obligaba",
+      "nosotros": "obligábamos",
+      "vosotros": "obligabais",
+      "uds": "obligaban"
+    },
+    "preterito": {
+      "yo": "obligué",
+      "tu": "obligaste",
+      "ud": "obligó",
+      "nosotros": "obligamos",
+      "vosotros": "obligasteis",
+      "uds": "obligaron"
+    },
+    "condicional": {
+      "yo": "obligaría",
+      "tu": "obligarías",
+      "ud": "obligaría",
+      "nosotros": "obligaríamos",
+      "vosotros": "obligaríais",
+      "uds": "obligarían"
+    },
+    "presentePerfecto": {
+      "yo": "he obligado",
+      "tu": "has obligado",
+      "ud": "ha obligado",
+      "nosotros": "hemos obligado",
+      "vosotros": "habéis obligado",
+      "uds": "han obligado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré obligado",
+      "tu": "habrás obligado",
+      "ud": "habrá obligado",
+      "nosotros": "habremos obligado",
+      "vosotros": "habréis obligado",
+      "uds": "habrán obligado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había obligado",
+      "tu": "habías obligado",
+      "ud": "había obligado",
+      "nosotros": "habíamos obligado",
+      "vosotros": "habíais obligado",
+      "uds": "habían obligado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube obligado",
+      "tu": "hubiste obligado",
+      "ud": "hubo obligado",
+      "nosotros": "hubimos obligado",
+      "vosotros": "hubisteis obligado",
+      "uds": "hubieron obligado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría obligado",
+      "tu": "habrías obligado",
+      "ud": "habría obligado",
+      "nosotros": "habríamos obligado",
+      "vosotros": "habríais obligado",
+      "uds": "habrían obligado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "obligue",
+      "tu": "obligues",
+      "ud": "obligue",
+      "nosotros": "obliguemos",
+      "vosotros": "obliguéis",
+      "uds": "obliguen"
+    },
+    "imperfecto": {
+      "yo": "obligara",
+      "tu": "obligaras",
+      "ud": "obligara",
+      "nosotros": "obligáramos",
+      "vosotros": "obligarais",
+      "uds": "obligaran"
+    },
+    "futuro": {
+      "yo": "obligare",
+      "tu": "obligares",
+      "ud": "obligare",
+      "nosotros": "obligáremos",
+      "vosotros": "obligareis",
+      "uds": "obligaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya obligado",
+      "tu": "hayas obligado",
+      "ud": "haya obligado",
+      "nosotros": "hayamos obligado",
+      "vosotros": "hayáis obligado",
+      "uds": "hayan obligado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere obligado",
+      "tu": "hubieres obligado",
+      "ud": "hubiere obligado",
+      "nosotros": "hubiéremos obligado",
+      "vosotros": "hubiereis obligado",
+      "uds": "hubieren obligado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera obligado",
+      "tu": "hubieras obligado",
+      "ud": "hubiera obligado",
+      "nosotros": "hubiéramos obligado",
+      "vosotros": "hubierais obligado",
+      "uds": "hubieran obligado"
+    },
+    "imperfectoAlt": {
+      "yo": "obligase",
+      "tu": "obligases",
+      "ud": "obligase",
+      "nosotros": "obligásemos",
+      "vosotros": "obligaseis",
+      "uds": "obligasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese obligado",
+      "tu": "hubieses obligado",
+      "ud": "hubiese obligado",
+      "nosotros": "hubiésemos obligado",
+      "vosotros": "hubieseis obligado",
+      "uds": "hubiesen obligado"
+    }
+  },
+  "afirmativo": {
+    "tu": "obliga",
+    "vosotros": "obligad",
+    "ud": "obligue",
+    "uds": "obliguen"
+  },
+  "negativo": {
+    "tu": "no obligues",
+    "vosotros": "no obliguéis",
+    "ud": "no obligue",
+    "uds": "no obliguen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to oblige",
+    "gerundio": "obliging",
+    "participioPasado": "obliged",
+    "indicativo": {
+      "presente": "I oblige, am obliging",
+      "futuro": "I will oblige",
+      "imperfecto": "I was obliging, used to oblige, obliged",
+      "preterito": "I obliged",
+      "condicional": "I would oblige",
+      "presentePerfecto": "I have obliged",
+      "futuroPerfecto": "I will have obliged",
+      "pluscuamperfecto": "I had obliged",
+      "preteritoAnterior": "I had obliged",
+      "condicionalPerfecto": "I would have obliged"
+    },
+    "subjuntivo": {
+      "presente": "I oblige, am obliging",
+      "imperfecto": "I obliged, was obliging",
+      "futuro": "I will oblige",
+      "presentePerfecto": "I have obliged, obliged",
+      "futuroPerfecto": "I will have obliged",
+      "pluscuamperfecto": "I had obliged"
+    },
+    "afirmativo": "Oblige!",
+    "negativo": "Don't oblige!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "convertir",
+  "gerundio": "convirtiendo",
+  "participioPasado": "convertido",
+  "indicativo": {
+    "presente": {
+      "yo": "convierto",
+      "tu": "conviertes",
+      "ud": "convierte",
+      "nosotros": "convertimos",
+      "vosotros": "convertís",
+      "uds": "convierten"
+    },
+    "futuro": {
+      "yo": "convertiré",
+      "tu": "convertirás",
+      "ud": "convertirá",
+      "nosotros": "convertiremos",
+      "vosotros": "convertiréis",
+      "uds": "convertirán"
+    },
+    "imperfecto": {
+      "yo": "convertía",
+      "tu": "convertías",
+      "ud": "convertía",
+      "nosotros": "convertíamos",
+      "vosotros": "convertíais",
+      "uds": "convertían"
+    },
+    "preterito": {
+      "yo": "convertí",
+      "tu": "convertiste",
+      "ud": "convirtió",
+      "nosotros": "convertimos",
+      "vosotros": "convertisteis",
+      "uds": "convirtieron"
+    },
+    "condicional": {
+      "yo": "convertiría",
+      "tu": "convertirías",
+      "ud": "convertiría",
+      "nosotros": "convertiríamos",
+      "vosotros": "convertiríais",
+      "uds": "convertirían"
+    },
+    "presentePerfecto": {
+      "yo": "he convertido",
+      "tu": "has convertido",
+      "ud": "ha convertido",
+      "nosotros": "hemos convertido",
+      "vosotros": "habéis convertido",
+      "uds": "han convertido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré convertido",
+      "tu": "habrás convertido",
+      "ud": "habrá convertido",
+      "nosotros": "habremos convertido",
+      "vosotros": "habréis convertido",
+      "uds": "habrán convertido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había convertido",
+      "tu": "habías convertido",
+      "ud": "había convertido",
+      "nosotros": "habíamos convertido",
+      "vosotros": "habíais convertido",
+      "uds": "habían convertido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube convertido",
+      "tu": "hubiste convertido",
+      "ud": "hubo convertido",
+      "nosotros": "hubimos convertido",
+      "vosotros": "hubisteis convertido",
+      "uds": "hubieron convertido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría convertido",
+      "tu": "habrías convertido",
+      "ud": "habría convertido",
+      "nosotros": "habríamos convertido",
+      "vosotros": "habríais convertido",
+      "uds": "habrían convertido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "convierta",
+      "tu": "conviertas",
+      "ud": "convierta",
+      "nosotros": "convirtamos",
+      "vosotros": "convirtáis",
+      "uds": "conviertan"
+    },
+    "imperfecto": {
+      "yo": "convirtiera",
+      "tu": "convirtieras",
+      "ud": "convirtiera",
+      "nosotros": "convirtiéramos",
+      "vosotros": "convirtierais",
+      "uds": "convirtieran"
+    },
+    "futuro": {
+      "yo": "convirtiere",
+      "tu": "convirtieres",
+      "ud": "convirtiere",
+      "nosotros": "convirtiéremos",
+      "vosotros": "convirtiereis",
+      "uds": "convirtieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya convertido",
+      "tu": "hayas convertido",
+      "ud": "haya convertido",
+      "nosotros": "hayamos convertido",
+      "vosotros": "hayáis convertido",
+      "uds": "hayan convertido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere convertido",
+      "tu": "hubieres convertido",
+      "ud": "hubiere convertido",
+      "nosotros": "hubiéremos convertido",
+      "vosotros": "hubiereis convertido",
+      "uds": "hubieren convertido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera convertido",
+      "tu": "hubieras convertido",
+      "ud": "hubiera convertido",
+      "nosotros": "hubiéramos convertido",
+      "vosotros": "hubierais convertido",
+      "uds": "hubieran convertido"
+    },
+    "imperfectoAlt": {
+      "yo": "convirtiese",
+      "tu": "convirtieses",
+      "ud": "convirtiese",
+      "nosotros": "convirtiésemos",
+      "vosotros": "convirtieseis",
+      "uds": "convirtiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese convertido",
+      "tu": "hubieses convertido",
+      "ud": "hubiese convertido",
+      "nosotros": "hubiésemos convertido",
+      "vosotros": "hubieseis convertido",
+      "uds": "hubiesen convertido"
+    }
+  },
+  "afirmativo": {
+    "tu": "convierte",
+    "vosotros": "convertid",
+    "ud": "convierta",
+    "uds": "conviertan"
+  },
+  "negativo": {
+    "tu": "no conviertas",
+    "vosotros": "no convirtáis",
+    "ud": "no convierta",
+    "uds": "no conviertan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i.",
+    "infinitivo": "to convert",
+    "gerundio": "converting",
+    "participioPasado": "converted",
+    "indicativo": {
+      "presente": "I convert, am converting",
+      "futuro": "I will convert",
+      "imperfecto": "I was converting, used to convert, converted",
+      "preterito": "I converted",
+      "condicional": "I would convert",
+      "presentePerfecto": "I have converted",
+      "futuroPerfecto": "I will have converted",
+      "pluscuamperfecto": "I had converted",
+      "preteritoAnterior": "I had converted",
+      "condicionalPerfecto": "I would have converted"
+    },
+    "subjuntivo": {
+      "presente": "I convert, am converting",
+      "imperfecto": "I converted, was converting",
+      "futuro": "I will convert",
+      "presentePerfecto": "I have converted, converted",
+      "futuroPerfecto": "I will have converted",
+      "pluscuamperfecto": "I had converted"
+    },
+    "afirmativo": "Convert!",
+    "negativo": "Don't convert!"
+  },
+  "attribution": "Fred Jehle"
+}

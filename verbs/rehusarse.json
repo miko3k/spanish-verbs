@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "rehusarse",
+  "gerundio": "rehusándose",
+  "participioPasado": "rehusado",
+  "indicativo": {
+    "presente": {
+      "yo": "me rehúso",
+      "tu": "te rehúsas",
+      "ud": "se rehúsa",
+      "nosotros": "nos rehusamos",
+      "vosotros": "os rehusáis",
+      "uds": "se rehúsan"
+    },
+    "futuro": {
+      "yo": "me rehusaré",
+      "tu": "te rehusarás",
+      "ud": "se rehusará",
+      "nosotros": "nos rehusaremos",
+      "vosotros": "os rehusaréis",
+      "uds": "se rehusarán"
+    },
+    "imperfecto": {
+      "yo": "me rehusaba",
+      "tu": "te rehusabas",
+      "ud": "se rehusaba",
+      "nosotros": "nos rehusábamos",
+      "vosotros": "os rehusabais",
+      "uds": "se rehusaban"
+    },
+    "preterito": {
+      "yo": "me rehusé",
+      "tu": "te rehusaste",
+      "ud": "se rehusó",
+      "nosotros": "nos rehusamos",
+      "vosotros": "os rehusasteis",
+      "uds": "se rehusaron"
+    },
+    "condicional": {
+      "yo": "me rehusaría",
+      "tu": "te rehusarías",
+      "ud": "se rehusaría",
+      "nosotros": "nos rehusaríamos",
+      "vosotros": "os rehusaríais",
+      "uds": "se rehusarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he rehusado",
+      "tu": "te has rehusado",
+      "ud": "se ha rehusado",
+      "nosotros": "nos hemos rehusado",
+      "vosotros": "os habéis rehusado",
+      "uds": "se han rehusado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré rehusado",
+      "tu": "te habrás rehusado",
+      "ud": "se habrá rehusado",
+      "nosotros": "nos habremos rehusado",
+      "vosotros": "os habréis rehusado",
+      "uds": "se habrán rehusado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había rehusado",
+      "tu": "te habías rehusado",
+      "ud": "se había rehusado",
+      "nosotros": "nos habíamos rehusado",
+      "vosotros": "os habíais rehusado",
+      "uds": "se habían rehusado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube rehusado",
+      "tu": "te hubiste rehusado",
+      "ud": "se hubo rehusado",
+      "nosotros": "nos hubimos rehusado",
+      "vosotros": "os hubisteis rehusado",
+      "uds": "se hubieron rehusado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría rehusado",
+      "tu": "te habrías rehusado",
+      "ud": "se habría rehusado",
+      "nosotros": "nos habríamos rehusado",
+      "vosotros": "os habríais rehusado",
+      "uds": "se habrían rehusado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me rehúse",
+      "tu": "te rehúses",
+      "ud": "se rehúse",
+      "nosotros": "nos rehusemos",
+      "vosotros": "os rehuséis",
+      "uds": "se rehúsen"
+    },
+    "imperfecto": {
+      "yo": "me rehusara",
+      "tu": "te rehusaras",
+      "ud": "se rehusara",
+      "nosotros": "nos rehusáramos",
+      "vosotros": "os rehusarais",
+      "uds": "se rehusaran"
+    },
+    "futuro": {
+      "yo": "me rehusare",
+      "tu": "te rehusares",
+      "ud": "se rehusare",
+      "nosotros": "nos rehusáremos",
+      "vosotros": "os rehusareis",
+      "uds": "se rehusaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya rehusado",
+      "tu": "te hayas rehusado",
+      "ud": "se haya rehusado",
+      "nosotros": "nos hayamos rehusado",
+      "vosotros": "os hayáis rehusado",
+      "uds": "se hayan rehusado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere rehusado",
+      "tu": "te hubieres rehusado",
+      "ud": "se hubiere rehusado",
+      "nosotros": "nos hubiéremos rehusado",
+      "vosotros": "os hubiereis rehusado",
+      "uds": "se hubieren rehusado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera rehusado",
+      "tu": "te hubieras rehusado",
+      "ud": "se hubiera rehusado",
+      "nosotros": "nos hubiéramos rehusado",
+      "vosotros": "os hubierais rehusado",
+      "uds": "se hubieran rehusado"
+    },
+    "imperfectoAlt": {
+      "yo": "me rehusase",
+      "tu": "te rehusases",
+      "ud": "se rehusase",
+      "nosotros": "nos rehusásemos",
+      "vosotros": "os rehusaseis",
+      "uds": "se rehusasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese rehusado",
+      "tu": "te hubieses rehusado",
+      "ud": "se hubiese rehusado",
+      "nosotros": "nos hubiésemos rehusado",
+      "vosotros": "os hubieseis rehusado",
+      "uds": "se hubiesen rehusado"
+    }
+  },
+  "afirmativo": {
+    "tu": "rehúsate",
+    "vosotros": "rehusaos",
+    "ud": "rehúsese",
+    "uds": "rehúsense"
+  },
+  "negativo": {
+    "tu": "no te rehúses",
+    "vosotros": "no os rehuséis",
+    "ud": "no se rehúse",
+    "uds": "no se rehúsen"
+  },
+  "english": {
+    "note": "Cambio:u > ú cuando esta vocal radical se acentúa. Véase tambien la forma no-reflexiva: rehusar (to refuse); rehusar {hacer algo} (to refuse {to do something})",
+    "infinitivo": "to refuse); rehusarse a hacer algo (to refuse to do something",
+    "gerundio": "refusing",
+    "participioPasado": "refused",
+    "indicativo": {
+      "presente": "I refuse, am refusing",
+      "futuro": "I will refuse",
+      "imperfecto": "I was refusing, used to refuse, refused",
+      "preterito": "I refused",
+      "condicional": "I would refuse",
+      "presentePerfecto": "I have refused",
+      "futuroPerfecto": "I will have refused",
+      "pluscuamperfecto": "I had refused",
+      "preteritoAnterior": "I had refused",
+      "condicionalPerfecto": "I would have refused"
+    },
+    "subjuntivo": {
+      "presente": "I refuse, am refusing",
+      "imperfecto": "I refused, was refusing",
+      "futuro": "I will refuse",
+      "presentePerfecto": "I have refused, refused",
+      "futuroPerfecto": "I will have refused",
+      "pluscuamperfecto": "I had refused"
+    },
+    "afirmativo": "refuse!",
+    "negativo": "Don't refuse!"
+  },
+  "attribution": "Fred Jehle"
+}

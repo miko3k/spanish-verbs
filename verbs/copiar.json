@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "copiar",
+  "gerundio": "copiando",
+  "participioPasado": "copiado",
+  "indicativo": {
+    "presente": {
+      "yo": "copio",
+      "tu": "copias",
+      "ud": "copia",
+      "nosotros": "copiamos",
+      "vosotros": "copiáis",
+      "uds": "copian"
+    },
+    "futuro": {
+      "yo": "copiaré",
+      "tu": "copiarás",
+      "ud": "copiará",
+      "nosotros": "copiaremos",
+      "vosotros": "copiaréis",
+      "uds": "copiarán"
+    },
+    "imperfecto": {
+      "yo": "copiaba",
+      "tu": "copiabas",
+      "ud": "copiaba",
+      "nosotros": "copiábamos",
+      "vosotros": "copiabais",
+      "uds": "copiaban"
+    },
+    "preterito": {
+      "yo": "copié",
+      "tu": "copiaste",
+      "ud": "copió",
+      "nosotros": "copiamos",
+      "vosotros": "copiasteis",
+      "uds": "copiaron"
+    },
+    "condicional": {
+      "yo": "copiaría",
+      "tu": "copiarías",
+      "ud": "copiaría",
+      "nosotros": "copiaríamos",
+      "vosotros": "copiaríais",
+      "uds": "copiarían"
+    },
+    "presentePerfecto": {
+      "yo": "he copiado",
+      "tu": "has copiado",
+      "ud": "ha copiado",
+      "nosotros": "hemos copiado",
+      "vosotros": "habéis copiado",
+      "uds": "han copiado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré copiado",
+      "tu": "habrás copiado",
+      "ud": "habrá copiado",
+      "nosotros": "habremos copiado",
+      "vosotros": "habréis copiado",
+      "uds": "habrán copiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había copiado",
+      "tu": "habías copiado",
+      "ud": "había copiado",
+      "nosotros": "habíamos copiado",
+      "vosotros": "habíais copiado",
+      "uds": "habían copiado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube copiado",
+      "tu": "hubiste copiado",
+      "ud": "hubo copiado",
+      "nosotros": "hubimos copiado",
+      "vosotros": "hubisteis copiado",
+      "uds": "hubieron copiado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría copiado",
+      "tu": "habrías copiado",
+      "ud": "habría copiado",
+      "nosotros": "habríamos copiado",
+      "vosotros": "habríais copiado",
+      "uds": "habrían copiado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "copie",
+      "tu": "copies",
+      "ud": "copie",
+      "nosotros": "copiemos",
+      "vosotros": "copiéis",
+      "uds": "copien"
+    },
+    "imperfecto": {
+      "yo": "copiara",
+      "tu": "copiaras",
+      "ud": "copiara",
+      "nosotros": "copiáramos",
+      "vosotros": "copiarais",
+      "uds": "copiaran"
+    },
+    "futuro": {
+      "yo": "copiare",
+      "tu": "copiares",
+      "ud": "copiare",
+      "nosotros": "copiáremos",
+      "vosotros": "copiareis",
+      "uds": "copiaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya copiado",
+      "tu": "hayas copiado",
+      "ud": "haya copiado",
+      "nosotros": "hayamos copiado",
+      "vosotros": "hayáis copiado",
+      "uds": "hayan copiado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere copiado",
+      "tu": "hubieres copiado",
+      "ud": "hubiere copiado",
+      "nosotros": "hubiéremos copiado",
+      "vosotros": "hubiereis copiado",
+      "uds": "hubieren copiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera copiado",
+      "tu": "hubieras copiado",
+      "ud": "hubiera copiado",
+      "nosotros": "hubiéramos copiado",
+      "vosotros": "hubierais copiado",
+      "uds": "hubieran copiado"
+    },
+    "imperfectoAlt": {
+      "yo": "copiase",
+      "tu": "copiases",
+      "ud": "copiase",
+      "nosotros": "copiásemos",
+      "vosotros": "copiaseis",
+      "uds": "copiasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese copiado",
+      "tu": "hubieses copiado",
+      "ud": "hubiese copiado",
+      "nosotros": "hubiésemos copiado",
+      "vosotros": "hubieseis copiado",
+      "uds": "hubiesen copiado"
+    }
+  },
+  "afirmativo": {
+    "tu": "copia",
+    "vosotros": "copiad",
+    "ud": "copie",
+    "uds": "copien"
+  },
+  "negativo": {
+    "tu": "no copies",
+    "vosotros": "no copiéis",
+    "ud": "no copie",
+    "uds": "no copien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to copy",
+    "gerundio": "copying",
+    "participioPasado": "copied",
+    "indicativo": {
+      "presente": "I copy, am copying",
+      "futuro": "I will copy",
+      "imperfecto": "I was copying, used to copy, copied",
+      "preterito": "I copied",
+      "condicional": "I would copy",
+      "presentePerfecto": "I have copied",
+      "futuroPerfecto": "I will have copied",
+      "pluscuamperfecto": "I had copied",
+      "preteritoAnterior": "I had copied",
+      "condicionalPerfecto": "I would have copied"
+    },
+    "subjuntivo": {
+      "presente": "I copy, am copying",
+      "imperfecto": "I copied, was copying",
+      "futuro": "I will copy",
+      "presentePerfecto": "I have copied, copied",
+      "futuroPerfecto": "I will have copied",
+      "pluscuamperfecto": "I had copied"
+    },
+    "afirmativo": "Copy!",
+    "negativo": "Don't copy!"
+  },
+  "attribution": "Fred Jehle"
+}

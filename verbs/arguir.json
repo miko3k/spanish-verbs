@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "argüir",
+  "gerundio": "arguyendo",
+  "participioPasado": "argüido",
+  "indicativo": {
+    "presente": {
+      "yo": "arguyo",
+      "tu": "arguyes",
+      "ud": "arguye",
+      "nosotros": "argüimos",
+      "vosotros": "argüís",
+      "uds": "arguyen"
+    },
+    "futuro": {
+      "yo": "argüiré",
+      "tu": "argüirás",
+      "ud": "argüirá",
+      "nosotros": "argüiremos",
+      "vosotros": "argüiréis",
+      "uds": "argüirán"
+    },
+    "imperfecto": {
+      "yo": "argüía",
+      "tu": "argüías",
+      "ud": "argüía",
+      "nosotros": "argüíamos",
+      "vosotros": "argüíais",
+      "uds": "argüían"
+    },
+    "preterito": {
+      "yo": "argüí",
+      "tu": "argüiste",
+      "ud": "arguyó",
+      "nosotros": "argüimos",
+      "vosotros": "argüisteis",
+      "uds": "arguyeron"
+    },
+    "condicional": {
+      "yo": "argüiría",
+      "tu": "argüirías",
+      "ud": "argüiría",
+      "nosotros": "argüiríamos",
+      "vosotros": "argüiríais",
+      "uds": "argüirían"
+    },
+    "presentePerfecto": {
+      "yo": "he argüido",
+      "tu": "has argüido",
+      "ud": "ha argüido",
+      "nosotros": "hemos argüido",
+      "vosotros": "habéis argüido",
+      "uds": "han argüido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré argüido",
+      "tu": "habrás argüido",
+      "ud": "habrá argüido",
+      "nosotros": "habremos argüido",
+      "vosotros": "habréis argüido",
+      "uds": "habrán argüido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había argüido",
+      "tu": "habías argüido",
+      "ud": "había argüido",
+      "nosotros": "habíamos argüido",
+      "vosotros": "habíais argüido",
+      "uds": "habían argüido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube argüido",
+      "tu": "hubiste argüido",
+      "ud": "hubo argüido",
+      "nosotros": "hubimos argüido",
+      "vosotros": "hubisteis argüido",
+      "uds": "hubieron argüido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría argüido",
+      "tu": "habrías argüido",
+      "ud": "habría argüido",
+      "nosotros": "habríamos argüido",
+      "vosotros": "habríais argüido",
+      "uds": "habrían argüido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "arguya",
+      "tu": "arguyas",
+      "ud": "arguya",
+      "nosotros": "arguyamos",
+      "vosotros": "arguyáis",
+      "uds": "arguyan"
+    },
+    "imperfecto": {
+      "yo": "arguyera",
+      "tu": "arguyeras",
+      "ud": "arguyera",
+      "nosotros": "arguyéramos",
+      "vosotros": "arguyerais",
+      "uds": "arguyeran"
+    },
+    "futuro": {
+      "yo": "arguyere",
+      "tu": "arguyeres",
+      "ud": "arguyere",
+      "nosotros": "arguyéremos",
+      "vosotros": "arguyereis",
+      "uds": "arguyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya argüido",
+      "tu": "hayas argüido",
+      "ud": "haya argüido",
+      "nosotros": "hayamos argüido",
+      "vosotros": "hayáis argüido",
+      "uds": "hayan argüido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere argüido",
+      "tu": "hubieres argüido",
+      "ud": "hubiere argüido",
+      "nosotros": "hubiéremos argüido",
+      "vosotros": "hubiereis argüido",
+      "uds": "hubieren argüido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera argüido",
+      "tu": "hubieras argüido",
+      "ud": "hubiera argüido",
+      "nosotros": "hubiéramos argüido",
+      "vosotros": "hubierais argüido",
+      "uds": "hubieran argüido"
+    },
+    "imperfectoAlt": {
+      "yo": "arguyese",
+      "tu": "arguyeses",
+      "ud": "arguyese",
+      "nosotros": "arguyésemos",
+      "vosotros": "arguyeseis",
+      "uds": "arguyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese argüido",
+      "tu": "hubieses argüido",
+      "ud": "hubiese argüido",
+      "nosotros": "hubiésemos argüido",
+      "vosotros": "hubieseis argüido",
+      "uds": "hubiesen argüido"
+    }
+  },
+  "afirmativo": {
+    "tu": "arguye",
+    "vosotros": "argüid",
+    "ud": "arguya",
+    "uds": "arguyan"
+  },
+  "negativo": {
+    "tu": "no arguyas",
+    "vosotros": "no arguyáis",
+    "ud": "no arguya",
+    "uds": "no arguyan"
+  },
+  "english": {
+    "note": "Cambios: ü > uy delante a, o y e (e.g., arguyo, arguya); ü + i intervocalica > uy (e,g., arguyó, arguyeron).",
+    "infinitivo": "to argue, contend, imply; to reproach, accuse",
+    "gerundio": "arguing",
+    "participioPasado": "argued",
+    "indicativo": {
+      "presente": "I argue, am arguing",
+      "futuro": "I will argue",
+      "imperfecto": "I was arguing, used to argue, argued",
+      "preterito": "I argued",
+      "condicional": "I would argue",
+      "presentePerfecto": "I have argued",
+      "futuroPerfecto": "I will haveargued",
+      "pluscuamperfecto": "I had argued",
+      "preteritoAnterior": "I had argued",
+      "condicionalPerfecto": "I would have argued"
+    },
+    "subjuntivo": {
+      "presente": "I argue, am arguing",
+      "imperfecto": "I argued, was arguing",
+      "futuro": "I will argue",
+      "presentePerfecto": "I have argued, argued",
+      "futuroPerfecto": "I will have argued",
+      "pluscuamperfecto": "I had argued"
+    },
+    "afirmativo": "argue!",
+    "negativo": "Don't argue!"
+  },
+  "attribution": "Fred Jehle"
+}

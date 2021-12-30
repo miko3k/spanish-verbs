@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "conversar",
+  "gerundio": "conversando",
+  "participioPasado": "conversado",
+  "indicativo": {
+    "presente": {
+      "yo": "converso",
+      "tu": "conversas",
+      "ud": "conversa",
+      "nosotros": "conversamos",
+      "vosotros": "conversáis",
+      "uds": "conversan"
+    },
+    "futuro": {
+      "yo": "conversaré",
+      "tu": "conversarás",
+      "ud": "conversará",
+      "nosotros": "conversaremos",
+      "vosotros": "conversaréis",
+      "uds": "conversarán"
+    },
+    "imperfecto": {
+      "yo": "conversaba",
+      "tu": "conversabas",
+      "ud": "conversaba",
+      "nosotros": "conversábamos",
+      "vosotros": "conversabais",
+      "uds": "conversaban"
+    },
+    "preterito": {
+      "yo": "conversé",
+      "tu": "conversaste",
+      "ud": "conversó",
+      "nosotros": "conversamos",
+      "vosotros": "conversasteis",
+      "uds": "conversaron"
+    },
+    "condicional": {
+      "yo": "conversaría",
+      "tu": "conversarías",
+      "ud": "conversaría",
+      "nosotros": "conversaríamos",
+      "vosotros": "conversaríais",
+      "uds": "conversarían"
+    },
+    "presentePerfecto": {
+      "yo": "he conversado",
+      "tu": "has conversado",
+      "ud": "ha conversado",
+      "nosotros": "hemos conversado",
+      "vosotros": "habéis conversado",
+      "uds": "han conversado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré conversado",
+      "tu": "habrás conversado",
+      "ud": "habrá conversado",
+      "nosotros": "habremos conversado",
+      "vosotros": "habréis conversado",
+      "uds": "habrán conversado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había conversado",
+      "tu": "habías conversado",
+      "ud": "había conversado",
+      "nosotros": "habíamos conversado",
+      "vosotros": "habíais conversado",
+      "uds": "habían conversado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube conversado",
+      "tu": "hubiste conversado",
+      "ud": "hubo conversado",
+      "nosotros": "hubimos conversado",
+      "vosotros": "hubisteis conversado",
+      "uds": "hubieron conversado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría conversado",
+      "tu": "habrías conversado",
+      "ud": "habría conversado",
+      "nosotros": "habríamos conversado",
+      "vosotros": "habríais conversado",
+      "uds": "habrían conversado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "converse",
+      "tu": "converses",
+      "ud": "converse",
+      "nosotros": "conversemos",
+      "vosotros": "converséis",
+      "uds": "conversen"
+    },
+    "imperfecto": {
+      "yo": "conversara",
+      "tu": "conversaras",
+      "ud": "conversara",
+      "nosotros": "conversáramos",
+      "vosotros": "conversarais",
+      "uds": "conversaran"
+    },
+    "futuro": {
+      "yo": "conversare",
+      "tu": "conversares",
+      "ud": "conversare",
+      "nosotros": "conversáremos",
+      "vosotros": "conversareis",
+      "uds": "conversaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya conversado",
+      "tu": "hayas conversado",
+      "ud": "haya conversado",
+      "nosotros": "hayamos conversado",
+      "vosotros": "hayáis conversado",
+      "uds": "hayan conversado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere conversado",
+      "tu": "hubieres conversado",
+      "ud": "hubiere conversado",
+      "nosotros": "hubiéremos conversado",
+      "vosotros": "hubiereis conversado",
+      "uds": "hubieren conversado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera conversado",
+      "tu": "hubieras conversado",
+      "ud": "hubiera conversado",
+      "nosotros": "hubiéramos conversado",
+      "vosotros": "hubierais conversado",
+      "uds": "hubieran conversado"
+    },
+    "imperfectoAlt": {
+      "yo": "conversase",
+      "tu": "conversases",
+      "ud": "conversase",
+      "nosotros": "conversásemos",
+      "vosotros": "conversaseis",
+      "uds": "conversasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese conversado",
+      "tu": "hubieses conversado",
+      "ud": "hubiese conversado",
+      "nosotros": "hubiésemos conversado",
+      "vosotros": "hubieseis conversado",
+      "uds": "hubiesen conversado"
+    }
+  },
+  "afirmativo": {
+    "tu": "conversa",
+    "vosotros": "conversad",
+    "ud": "converse",
+    "uds": "conversen"
+  },
+  "negativo": {
+    "tu": "no converses",
+    "vosotros": "no converséis",
+    "ud": "no converse",
+    "uds": "no conversen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to talk, converse; to tell, relate",
+    "gerundio": "talking",
+    "participioPasado": "talked",
+    "indicativo": {
+      "presente": "I talk, am talking",
+      "futuro": "I will talk",
+      "imperfecto": "I was talking, used to talk, talked",
+      "preterito": "I talked",
+      "condicional": "I would talk",
+      "presentePerfecto": "I have talked",
+      "futuroPerfecto": "I will have talked",
+      "pluscuamperfecto": "I had talked",
+      "preteritoAnterior": "I had talked",
+      "condicionalPerfecto": "I would have talked"
+    },
+    "subjuntivo": {
+      "presente": "I talk, am talking",
+      "imperfecto": "I talked, was talking",
+      "futuro": "I will talk",
+      "presentePerfecto": "I have talked, talked",
+      "futuroPerfecto": "I will have talked",
+      "pluscuamperfecto": "I had talked"
+    },
+    "afirmativo": "Talk!",
+    "negativo": "Don't talk!"
+  },
+  "attribution": "Fred Jehle"
+}

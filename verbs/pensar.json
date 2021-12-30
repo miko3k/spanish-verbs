@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "pensar",
+  "gerundio": "pensando",
+  "participioPasado": "pensado",
+  "indicativo": {
+    "presente": {
+      "yo": "pienso",
+      "tu": "piensas",
+      "ud": "piensa",
+      "nosotros": "pensamos",
+      "vosotros": "pensáis",
+      "uds": "piensan"
+    },
+    "futuro": {
+      "yo": "pensaré",
+      "tu": "pensarás",
+      "ud": "pensará",
+      "nosotros": "pensaremos",
+      "vosotros": "pensaréis",
+      "uds": "pensarán"
+    },
+    "imperfecto": {
+      "yo": "pensaba",
+      "tu": "pensabas",
+      "ud": "pensaba",
+      "nosotros": "pensábamos",
+      "vosotros": "pensabais",
+      "uds": "pensaban"
+    },
+    "preterito": {
+      "yo": "pensé",
+      "tu": "pensaste",
+      "ud": "pensó",
+      "nosotros": "pensamos",
+      "vosotros": "pensasteis",
+      "uds": "pensaron"
+    },
+    "condicional": {
+      "yo": "pensaría",
+      "tu": "pensarías",
+      "ud": "pensaría",
+      "nosotros": "pensaríamos",
+      "vosotros": "pensaríais",
+      "uds": "pensarían"
+    },
+    "presentePerfecto": {
+      "yo": "he pensado",
+      "tu": "has pensado",
+      "ud": "ha pensado",
+      "nosotros": "hemos pensado",
+      "vosotros": "habéis pensado",
+      "uds": "han pensado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré pensado",
+      "tu": "habrás pensado",
+      "ud": "habrá pensado",
+      "nosotros": "habremos pensado",
+      "vosotros": "habréis pensado",
+      "uds": "habrán pensado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había pensado",
+      "tu": "habías pensado",
+      "ud": "había pensado",
+      "nosotros": "habíamos pensado",
+      "vosotros": "habíais pensado",
+      "uds": "habían pensado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube pensado",
+      "tu": "hubiste pensado",
+      "ud": "hubo pensado",
+      "nosotros": "hubimos pensado",
+      "vosotros": "hubisteis pensado",
+      "uds": "hubieron pensado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría pensado",
+      "tu": "habrías pensado",
+      "ud": "habría pensado",
+      "nosotros": "habríamos pensado",
+      "vosotros": "habríais pensado",
+      "uds": "habrían pensado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "piense",
+      "tu": "pienses",
+      "ud": "piense",
+      "nosotros": "pensemos",
+      "vosotros": "penséis",
+      "uds": "piensen"
+    },
+    "imperfecto": {
+      "yo": "pensara",
+      "tu": "pensaras",
+      "ud": "pensara",
+      "nosotros": "pensáramos",
+      "vosotros": "pensarais",
+      "uds": "pensaran"
+    },
+    "futuro": {
+      "yo": "pensare",
+      "tu": "pensares",
+      "ud": "pensare",
+      "nosotros": "pensáremos",
+      "vosotros": "pensareis",
+      "uds": "pensaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya pensado",
+      "tu": "hayas pensado",
+      "ud": "haya pensado",
+      "nosotros": "hayamos pensado",
+      "vosotros": "hayáis pensado",
+      "uds": "hayan pensado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere pensado",
+      "tu": "hubieres pensado",
+      "ud": "hubiere pensado",
+      "nosotros": "hubiéremos pensado",
+      "vosotros": "hubiereis pensado",
+      "uds": "hubieren pensado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera pensado",
+      "tu": "hubieras pensado",
+      "ud": "hubiera pensado",
+      "nosotros": "hubiéramos pensado",
+      "vosotros": "hubierais pensado",
+      "uds": "hubieran pensado"
+    },
+    "imperfectoAlt": {
+      "yo": "pensase",
+      "tu": "pensases",
+      "ud": "pensase",
+      "nosotros": "pensásemos",
+      "vosotros": "pensaseis",
+      "uds": "pensasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese pensado",
+      "tu": "hubieses pensado",
+      "ud": "hubiese pensado",
+      "nosotros": "hubiésemos pensado",
+      "vosotros": "hubieseis pensado",
+      "uds": "hubiesen pensado"
+    }
+  },
+  "afirmativo": {
+    "tu": "piensa",
+    "vosotros": "pensad",
+    "ud": "piense",
+    "uds": "piensen"
+  },
+  "negativo": {
+    "tu": "no pienses",
+    "vosotros": "no penséis",
+    "ud": "no piense",
+    "uds": "no piensen"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa.",
+    "infinitivo": "to think",
+    "gerundio": "thinking",
+    "participioPasado": "thought",
+    "indicativo": {
+      "presente": "I think, am thinking",
+      "futuro": "I will think",
+      "imperfecto": "I was thinking, used to think, thought",
+      "preterito": "I thought",
+      "condicional": "I would think",
+      "presentePerfecto": "I have thought",
+      "futuroPerfecto": "I will have thought",
+      "pluscuamperfecto": "I had thought",
+      "preteritoAnterior": "I had thought",
+      "condicionalPerfecto": "I would have thought"
+    },
+    "subjuntivo": {
+      "presente": "I think, am thinking",
+      "imperfecto": "I thought, was thinking",
+      "futuro": "I will think",
+      "presentePerfecto": "I have thought, thought",
+      "futuroPerfecto": "I will have thought",
+      "pluscuamperfecto": "I had thought"
+    },
+    "afirmativo": "Think!",
+    "negativo": "Don't think!"
+  },
+  "attribution": "Fred Jehle"
+}

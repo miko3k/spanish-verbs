@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "sonar",
+  "gerundio": "sonando",
+  "participioPasado": "sonado",
+  "indicativo": {
+    "presente": {
+      "yo": "sueno",
+      "tu": "suenas",
+      "ud": "suena",
+      "nosotros": "sonamos",
+      "vosotros": "sonáis",
+      "uds": "suenan"
+    },
+    "futuro": {
+      "yo": "sonaré",
+      "tu": "sonarás",
+      "ud": "sonará",
+      "nosotros": "sonaremos",
+      "vosotros": "sonaréis",
+      "uds": "sonarán"
+    },
+    "imperfecto": {
+      "yo": "sonaba",
+      "tu": "sonabas",
+      "ud": "sonaba",
+      "nosotros": "sonábamos",
+      "vosotros": "sonabais",
+      "uds": "sonaban"
+    },
+    "preterito": {
+      "yo": "soné",
+      "tu": "sonaste",
+      "ud": "sonó",
+      "nosotros": "sonamos",
+      "vosotros": "sonasteis",
+      "uds": "sonaron"
+    },
+    "condicional": {
+      "yo": "sonaría",
+      "tu": "sonarías",
+      "ud": "sonaría",
+      "nosotros": "sonaríamos",
+      "vosotros": "sonaríais",
+      "uds": "sonarían"
+    },
+    "presentePerfecto": {
+      "yo": "he sonado",
+      "tu": "has sonado",
+      "ud": "ha sonado",
+      "nosotros": "hemos sonado",
+      "vosotros": "habéis sonado",
+      "uds": "han sonado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sonado",
+      "tu": "habrás sonado",
+      "ud": "habrá sonado",
+      "nosotros": "habremos sonado",
+      "vosotros": "habréis sonado",
+      "uds": "habrán sonado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sonado",
+      "tu": "habías sonado",
+      "ud": "había sonado",
+      "nosotros": "habíamos sonado",
+      "vosotros": "habíais sonado",
+      "uds": "habían sonado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sonado",
+      "tu": "hubiste sonado",
+      "ud": "hubo sonado",
+      "nosotros": "hubimos sonado",
+      "vosotros": "hubisteis sonado",
+      "uds": "hubieron sonado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sonado",
+      "tu": "habrías sonado",
+      "ud": "habría sonado",
+      "nosotros": "habríamos sonado",
+      "vosotros": "habríais sonado",
+      "uds": "habrían sonado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "suene",
+      "tu": "suenes",
+      "ud": "suene",
+      "nosotros": "sonemos",
+      "vosotros": "sonéis",
+      "uds": "suenen"
+    },
+    "imperfecto": {
+      "yo": "sonara",
+      "tu": "sonaras",
+      "ud": "sonara",
+      "nosotros": "sonáramos",
+      "vosotros": "sonarais",
+      "uds": "sonaran"
+    },
+    "futuro": {
+      "yo": "sonare",
+      "tu": "sonares",
+      "ud": "sonare",
+      "nosotros": "sonáremos",
+      "vosotros": "sonareis",
+      "uds": "sonaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sonado",
+      "tu": "hayas sonado",
+      "ud": "haya sonado",
+      "nosotros": "hayamos sonado",
+      "vosotros": "hayáis sonado",
+      "uds": "hayan sonado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sonado",
+      "tu": "hubieres sonado",
+      "ud": "hubiere sonado",
+      "nosotros": "hubiéremos sonado",
+      "vosotros": "hubiereis sonado",
+      "uds": "hubieren sonado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sonado",
+      "tu": "hubieras sonado",
+      "ud": "hubiera sonado",
+      "nosotros": "hubiéramos sonado",
+      "vosotros": "hubierais sonado",
+      "uds": "hubieran sonado"
+    },
+    "imperfectoAlt": {
+      "yo": "sonase",
+      "tu": "sonases",
+      "ud": "sonase",
+      "nosotros": "sonásemos",
+      "vosotros": "sonaseis",
+      "uds": "sonasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sonado",
+      "tu": "hubieses sonado",
+      "ud": "hubiese sonado",
+      "nosotros": "hubiésemos sonado",
+      "vosotros": "hubieseis sonado",
+      "uds": "hubiesen sonado"
+    }
+  },
+  "afirmativo": {
+    "tu": "suena",
+    "vosotros": "sonad",
+    "ud": "suene",
+    "uds": "suenen"
+  },
+  "negativo": {
+    "tu": "no suenes",
+    "vosotros": "no sonéis",
+    "ud": "no suene",
+    "uds": "no suenen"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa.",
+    "infinitivo": "to sound; to ring (said of a phone)",
+    "gerundio": "sounding",
+    "participioPasado": "sounded",
+    "indicativo": {
+      "presente": "I sound, am sounding",
+      "futuro": "I will sound",
+      "imperfecto": "I was sounding, used to sound, sounded",
+      "preterito": "I sounded",
+      "condicional": "I would sound",
+      "presentePerfecto": "I have sounded",
+      "futuroPerfecto": "I will have sounded",
+      "pluscuamperfecto": "I had sounded",
+      "preteritoAnterior": "I had sounded",
+      "condicionalPerfecto": "I would have sounded"
+    },
+    "subjuntivo": {
+      "presente": "I sound, am sounding",
+      "imperfecto": "I sounded, was sounding",
+      "futuro": "I will sound",
+      "presentePerfecto": "I have sounded, sounded",
+      "futuroPerfecto": "I will have sounded",
+      "pluscuamperfecto": "I had sounded"
+    },
+    "afirmativo": "Sound!",
+    "negativo": "Don't sound!"
+  },
+  "attribution": "Fred Jehle"
+}

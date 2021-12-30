@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "vomitar",
+  "gerundio": "vomitando",
+  "participioPasado": "vomitado",
+  "indicativo": {
+    "presente": {
+      "yo": "vomito",
+      "tu": "vomitas",
+      "ud": "vomita",
+      "nosotros": "vomitamos",
+      "vosotros": "vomitáis",
+      "uds": "vomitan"
+    },
+    "futuro": {
+      "yo": "vomitaré",
+      "tu": "vomitarás",
+      "ud": "vomitará",
+      "nosotros": "vomitaremos",
+      "vosotros": "vomitaréis",
+      "uds": "vomitarán"
+    },
+    "imperfecto": {
+      "yo": "vomitaba",
+      "tu": "vomitabas",
+      "ud": "vomitaba",
+      "nosotros": "vomitábamos",
+      "vosotros": "vomitabais",
+      "uds": "vomitaban"
+    },
+    "preterito": {
+      "yo": "vomité",
+      "tu": "vomitaste",
+      "ud": "vomitó",
+      "nosotros": "vomitamos",
+      "vosotros": "vomitasteis",
+      "uds": "vomitaron"
+    },
+    "condicional": {
+      "yo": "vomitaría",
+      "tu": "vomitarías",
+      "ud": "vomitaría",
+      "nosotros": "vomitaríamos",
+      "vosotros": "vomitaríais",
+      "uds": "vomitarían"
+    },
+    "presentePerfecto": {
+      "yo": "he vomitado",
+      "tu": "has vomitado",
+      "ud": "ha vomitado",
+      "nosotros": "hemos vomitado",
+      "vosotros": "habéis vomitado",
+      "uds": "han vomitado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré vomitado",
+      "tu": "habrás vomitado",
+      "ud": "habrá vomitado",
+      "nosotros": "habremos vomitado",
+      "vosotros": "habréis vomitado",
+      "uds": "habrán vomitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había vomitado",
+      "tu": "habías vomitado",
+      "ud": "había vomitado",
+      "nosotros": "habíamos vomitado",
+      "vosotros": "habíais vomitado",
+      "uds": "habían vomitado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube vomitado",
+      "tu": "hubiste vomitado",
+      "ud": "hubo vomitado",
+      "nosotros": "hubimos vomitado",
+      "vosotros": "hubisteis vomitado",
+      "uds": "hubieron vomitado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría vomitado",
+      "tu": "habrías vomitado",
+      "ud": "habría vomitado",
+      "nosotros": "habríamos vomitado",
+      "vosotros": "habríais vomitado",
+      "uds": "habrían vomitado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "vomite",
+      "tu": "vomites",
+      "ud": "vomite",
+      "nosotros": "vomitemos",
+      "vosotros": "vomitéis",
+      "uds": "vomiten"
+    },
+    "imperfecto": {
+      "yo": "vomitara",
+      "tu": "vomitaras",
+      "ud": "vomitara",
+      "nosotros": "vomitáramos",
+      "vosotros": "vomitarais",
+      "uds": "vomitaran"
+    },
+    "futuro": {
+      "yo": "vomitare",
+      "tu": "vomitares",
+      "ud": "vomitare",
+      "nosotros": "vomitáremos",
+      "vosotros": "vomitareis",
+      "uds": "vomitaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya vomitado",
+      "tu": "hayas vomitado",
+      "ud": "haya vomitado",
+      "nosotros": "hayamos vomitado",
+      "vosotros": "hayáis vomitado",
+      "uds": "hayan vomitado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere vomitado",
+      "tu": "hubieres vomitado",
+      "ud": "hubiere vomitado",
+      "nosotros": "hubiéremos vomitado",
+      "vosotros": "hubiereis vomitado",
+      "uds": "hubieren vomitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera vomitado",
+      "tu": "hubieras vomitado",
+      "ud": "hubiera vomitado",
+      "nosotros": "hubiéramos vomitado",
+      "vosotros": "hubierais vomitado",
+      "uds": "hubieran vomitado"
+    },
+    "imperfectoAlt": {
+      "yo": "vomitase",
+      "tu": "vomitases",
+      "ud": "vomitase",
+      "nosotros": "vomitásemos",
+      "vosotros": "vomitaseis",
+      "uds": "vomitasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese vomitado",
+      "tu": "hubieses vomitado",
+      "ud": "hubiese vomitado",
+      "nosotros": "hubiésemos vomitado",
+      "vosotros": "hubieseis vomitado",
+      "uds": "hubiesen vomitado"
+    }
+  },
+  "afirmativo": {
+    "tu": "vomita",
+    "vosotros": "vomitad",
+    "ud": "vomite",
+    "uds": "vomiten"
+  },
+  "negativo": {
+    "tu": "no vomites",
+    "vosotros": "no vomitéis",
+    "ud": "no vomite",
+    "uds": "no vomiten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to vomit, throw up, bring up",
+    "gerundio": "vomiting",
+    "participioPasado": "vomited",
+    "indicativo": {
+      "presente": "I vomit, am vomiting",
+      "futuro": "I will vomit",
+      "imperfecto": "I was vomiting, used to vomit, vomited",
+      "preterito": "I vomited",
+      "condicional": "I would vomit",
+      "presentePerfecto": "I have vomited",
+      "futuroPerfecto": "I will have vomited",
+      "pluscuamperfecto": "I had vomited",
+      "preteritoAnterior": "I had vomited",
+      "condicionalPerfecto": "I would have vomited"
+    },
+    "subjuntivo": {
+      "presente": "I vomit, am vomiting",
+      "imperfecto": "I vomited, was vomiting",
+      "futuro": "I will vomit",
+      "presentePerfecto": "I have vomited, vomited",
+      "futuroPerfecto": "I will have vomited",
+      "pluscuamperfecto": "I had vomited"
+    },
+    "afirmativo": "Vomit!",
+    "negativo": "Don't vomit!"
+  },
+  "attribution": "Fred Jehle"
+}

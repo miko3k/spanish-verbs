@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "esquiar",
+  "gerundio": "esquiando",
+  "participioPasado": "esquiado",
+  "indicativo": {
+    "presente": {
+      "yo": "esquío",
+      "tu": "esquías",
+      "ud": "esquía",
+      "nosotros": "esquiamos",
+      "vosotros": "esquiáis",
+      "uds": "esquían"
+    },
+    "futuro": {
+      "yo": "esquiaré",
+      "tu": "esquiarás",
+      "ud": "esquiará",
+      "nosotros": "esquiaremos",
+      "vosotros": "esquiaréis",
+      "uds": "esquiarán"
+    },
+    "imperfecto": {
+      "yo": "esquiaba",
+      "tu": "esquiabas",
+      "ud": "esquiaba",
+      "nosotros": "esquiábamos",
+      "vosotros": "esquiabais",
+      "uds": "esquiaban"
+    },
+    "preterito": {
+      "yo": "esquié",
+      "tu": "esquiaste",
+      "ud": "esquió",
+      "nosotros": "esquiamos",
+      "vosotros": "esquiasteis",
+      "uds": "esquiaron"
+    },
+    "condicional": {
+      "yo": "esquiaría",
+      "tu": "esquiarías",
+      "ud": "esquiaría",
+      "nosotros": "esquiaríamos",
+      "vosotros": "esquiaríais",
+      "uds": "esquiarían"
+    },
+    "presentePerfecto": {
+      "yo": "he esquiado",
+      "tu": "has esquiado",
+      "ud": "ha esquiado",
+      "nosotros": "hemos esquiado",
+      "vosotros": "habéis esquiado",
+      "uds": "han esquiado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré esquiado",
+      "tu": "habrás esquiado",
+      "ud": "habrá esquiado",
+      "nosotros": "habremos esquiado",
+      "vosotros": "habréis esquiado",
+      "uds": "habrán esquiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había esquiado",
+      "tu": "habías esquiado",
+      "ud": "había esquiado",
+      "nosotros": "habíamos esquiado",
+      "vosotros": "habíais esquiado",
+      "uds": "habían esquiado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube esquiado",
+      "tu": "hubiste esquiado",
+      "ud": "hubo esquiado",
+      "nosotros": "hubimos esquiado",
+      "vosotros": "hubisteis esquiado",
+      "uds": "hubieron esquiado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría esquiado",
+      "tu": "habrías esquiado",
+      "ud": "habría esquiado",
+      "nosotros": "habríamos esquiado",
+      "vosotros": "habríais esquiado",
+      "uds": "habrían esquiado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "esquíe",
+      "tu": "esquíes",
+      "ud": "esquíe",
+      "nosotros": "esquiemos",
+      "vosotros": "esquiéis",
+      "uds": "esquíen"
+    },
+    "imperfecto": {
+      "yo": "esquiara",
+      "tu": "esquiaras",
+      "ud": "esquiara",
+      "nosotros": "esquiáramos",
+      "vosotros": "esquiarais",
+      "uds": "esquiaran"
+    },
+    "futuro": {
+      "yo": "esquiare",
+      "tu": "esquiares",
+      "ud": "esquiare",
+      "nosotros": "esquiáremos",
+      "vosotros": "esquiareis",
+      "uds": "esquiaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya esquiado",
+      "tu": "hayas esquiado",
+      "ud": "haya esquiado",
+      "nosotros": "hayamos esquiado",
+      "vosotros": "hayáis esquiado",
+      "uds": "hayan esquiado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere esquiado",
+      "tu": "hubieres esquiado",
+      "ud": "hubiere esquiado",
+      "nosotros": "hubiéremos esquiado",
+      "vosotros": "hubiereis esquiado",
+      "uds": "hubieren esquiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera esquiado",
+      "tu": "hubieras esquiado",
+      "ud": "hubiera esquiado",
+      "nosotros": "hubiéramos esquiado",
+      "vosotros": "hubierais esquiado",
+      "uds": "hubieran esquiado"
+    },
+    "imperfectoAlt": {
+      "yo": "esquiase",
+      "tu": "esquiases",
+      "ud": "esquiase",
+      "nosotros": "esquiásemos",
+      "vosotros": "esquiaseis",
+      "uds": "esquiasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese esquiado",
+      "tu": "hubieses esquiado",
+      "ud": "hubiese esquiado",
+      "nosotros": "hubiésemos esquiado",
+      "vosotros": "hubieseis esquiado",
+      "uds": "hubiesen esquiado"
+    }
+  },
+  "afirmativo": {
+    "tu": "esquía",
+    "vosotros": "esquiad",
+    "ud": "esquíe",
+    "uds": "esquíen"
+  },
+  "negativo": {
+    "tu": "no esquíes",
+    "vosotros": "no esquiéis",
+    "ud": "no esquíe",
+    "uds": "no esquíen"
+  },
+  "english": {
+    "note": "Cambio: i > í cuando la radical tiene el acento tónico.",
+    "infinitivo": "to ski",
+    "gerundio": "skiing",
+    "participioPasado": "skied",
+    "indicativo": {
+      "presente": "I ski, am skiing",
+      "futuro": "I will ski",
+      "imperfecto": "I was skiing, used to ski, skied",
+      "preterito": "I skied",
+      "condicional": "I would ski",
+      "presentePerfecto": "I have skied",
+      "futuroPerfecto": "I will have skied",
+      "pluscuamperfecto": "I had skied",
+      "preteritoAnterior": "I had skied",
+      "condicionalPerfecto": "I would have skied"
+    },
+    "subjuntivo": {
+      "presente": "I ski, am skiing",
+      "imperfecto": "I skied, was skiing",
+      "futuro": "I will ski",
+      "presentePerfecto": "I have skied, skied",
+      "futuroPerfecto": "I will have skied",
+      "pluscuamperfecto": "I had skied"
+    },
+    "afirmativo": "Ski!",
+    "negativo": "Don't ski!"
+  },
+  "attribution": "Fred Jehle"
+}

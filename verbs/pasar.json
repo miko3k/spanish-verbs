@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "pasar",
+  "gerundio": "pasando",
+  "participioPasado": "pasado",
+  "indicativo": {
+    "presente": {
+      "yo": "paso",
+      "tu": "pasas",
+      "ud": "pasa",
+      "nosotros": "pasamos",
+      "vosotros": "pasáis",
+      "uds": "pasan"
+    },
+    "futuro": {
+      "yo": "pasaré",
+      "tu": "pasarás",
+      "ud": "pasará",
+      "nosotros": "pasaremos",
+      "vosotros": "pasaréis",
+      "uds": "pasarán"
+    },
+    "imperfecto": {
+      "yo": "pasaba",
+      "tu": "pasabas",
+      "ud": "pasaba",
+      "nosotros": "pasábamos",
+      "vosotros": "pasabais",
+      "uds": "pasaban"
+    },
+    "preterito": {
+      "yo": "pasé",
+      "tu": "pasaste",
+      "ud": "pasó",
+      "nosotros": "pasamos",
+      "vosotros": "pasasteis",
+      "uds": "pasaron"
+    },
+    "condicional": {
+      "yo": "pasaría",
+      "tu": "pasarías",
+      "ud": "pasaría",
+      "nosotros": "pasaríamos",
+      "vosotros": "pasaríais",
+      "uds": "pasarían"
+    },
+    "presentePerfecto": {
+      "yo": "he pasado",
+      "tu": "has pasado",
+      "ud": "ha pasado",
+      "nosotros": "hemos pasado",
+      "vosotros": "habéis pasado",
+      "uds": "han pasado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré pasado",
+      "tu": "habrás pasado",
+      "ud": "habrá pasado",
+      "nosotros": "habremos pasado",
+      "vosotros": "habréis pasado",
+      "uds": "habrán pasado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había pasado",
+      "tu": "habías pasado",
+      "ud": "había pasado",
+      "nosotros": "habíamos pasado",
+      "vosotros": "habíais pasado",
+      "uds": "habían pasado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube pasado",
+      "tu": "hubiste pasado",
+      "ud": "hubo pasado",
+      "nosotros": "hubimos pasado",
+      "vosotros": "hubisteis pasado",
+      "uds": "hubieron pasado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría pasado",
+      "tu": "habrías pasado",
+      "ud": "habría pasado",
+      "nosotros": "habríamos pasado",
+      "vosotros": "habríais pasado",
+      "uds": "habrían pasado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pase",
+      "tu": "pases",
+      "ud": "pase",
+      "nosotros": "pasemos",
+      "vosotros": "paséis",
+      "uds": "pasen"
+    },
+    "imperfecto": {
+      "yo": "pasara",
+      "tu": "pasaras",
+      "ud": "pasara",
+      "nosotros": "pasáramos",
+      "vosotros": "pasarais",
+      "uds": "pasaran"
+    },
+    "futuro": {
+      "yo": "pasare",
+      "tu": "pasares",
+      "ud": "pasare",
+      "nosotros": "pasáremos",
+      "vosotros": "pasareis",
+      "uds": "pasaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya pasado",
+      "tu": "hayas pasado",
+      "ud": "haya pasado",
+      "nosotros": "hayamos pasado",
+      "vosotros": "hayáis pasado",
+      "uds": "hayan pasado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere pasado",
+      "tu": "hubieres pasado",
+      "ud": "hubiere pasado",
+      "nosotros": "hubiéremos pasado",
+      "vosotros": "hubiereis pasado",
+      "uds": "hubieren pasado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera pasado",
+      "tu": "hubieras pasado",
+      "ud": "hubiera pasado",
+      "nosotros": "hubiéramos pasado",
+      "vosotros": "hubierais pasado",
+      "uds": "hubieran pasado"
+    },
+    "imperfectoAlt": {
+      "yo": "pasase",
+      "tu": "pasases",
+      "ud": "pasase",
+      "nosotros": "pasásemos",
+      "vosotros": "pasaseis",
+      "uds": "pasasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese pasado",
+      "tu": "hubieses pasado",
+      "ud": "hubiese pasado",
+      "nosotros": "hubiésemos pasado",
+      "vosotros": "hubieseis pasado",
+      "uds": "hubiesen pasado"
+    }
+  },
+  "afirmativo": {
+    "tu": "pasa",
+    "vosotros": "pasad",
+    "ud": "pase",
+    "uds": "pasen"
+  },
+  "negativo": {
+    "tu": "no pases",
+    "vosotros": "no paséis",
+    "ud": "no pase",
+    "uds": "no pasen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to pass, pass by, go; to pass on, hand; to spend (time); to happen",
+    "gerundio": "passing",
+    "participioPasado": "passed",
+    "indicativo": {
+      "presente": "I pass, am passing",
+      "futuro": "I will pass",
+      "imperfecto": "I was passing, used to pass, passed",
+      "preterito": "I passed",
+      "condicional": "I would pass",
+      "presentePerfecto": "I have passed",
+      "futuroPerfecto": "I will have passed",
+      "pluscuamperfecto": "I had passed",
+      "preteritoAnterior": "I had passed",
+      "condicionalPerfecto": "I would have passed"
+    },
+    "subjuntivo": {
+      "presente": "I pass, am passing",
+      "imperfecto": "I passed, was passing",
+      "futuro": "I will pass",
+      "presentePerfecto": "I have passed, passed",
+      "futuroPerfecto": "I will have passed",
+      "pluscuamperfecto": "I had passed"
+    },
+    "afirmativo": "Pass!",
+    "negativo": "Don't pass!"
+  },
+  "attribution": "Fred Jehle"
+}

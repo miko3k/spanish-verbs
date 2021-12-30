@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "atacar",
+  "gerundio": "atacando",
+  "participioPasado": "atacado",
+  "indicativo": {
+    "presente": {
+      "yo": "ataco",
+      "tu": "atacas",
+      "ud": "ataca",
+      "nosotros": "atacamos",
+      "vosotros": "atacáis",
+      "uds": "atacan"
+    },
+    "futuro": {
+      "yo": "atacaré",
+      "tu": "atacarás",
+      "ud": "atacará",
+      "nosotros": "atacaremos",
+      "vosotros": "atacaréis",
+      "uds": "atacarán"
+    },
+    "imperfecto": {
+      "yo": "atacaba",
+      "tu": "atacabas",
+      "ud": "atacaba",
+      "nosotros": "atacábamos",
+      "vosotros": "atacabais",
+      "uds": "atacaban"
+    },
+    "preterito": {
+      "yo": "ataqué",
+      "tu": "atacaste",
+      "ud": "atacó",
+      "nosotros": "atacamos",
+      "vosotros": "atacasteis",
+      "uds": "atacaron"
+    },
+    "condicional": {
+      "yo": "atacaría",
+      "tu": "atacarías",
+      "ud": "atacaría",
+      "nosotros": "atacaríamos",
+      "vosotros": "atacaríais",
+      "uds": "atacarían"
+    },
+    "presentePerfecto": {
+      "yo": "he atacado",
+      "tu": "has atacado",
+      "ud": "ha atacado",
+      "nosotros": "hemos atacado",
+      "vosotros": "habéis atacado",
+      "uds": "han atacado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré atacado",
+      "tu": "habrás atacado",
+      "ud": "habrá atacado",
+      "nosotros": "habremos atacado",
+      "vosotros": "habréis atacado",
+      "uds": "habrán atacado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había atacado",
+      "tu": "habías atacado",
+      "ud": "había atacado",
+      "nosotros": "habíamos atacado",
+      "vosotros": "habíais atacado",
+      "uds": "habían atacado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube atacado",
+      "tu": "hubiste atacado",
+      "ud": "hubo atacado",
+      "nosotros": "hubimos atacado",
+      "vosotros": "hubisteis atacado",
+      "uds": "hubieron atacado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría atacado",
+      "tu": "habrías atacado",
+      "ud": "habría atacado",
+      "nosotros": "habríamos atacado",
+      "vosotros": "habríais atacado",
+      "uds": "habrían atacado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ataque",
+      "tu": "ataques",
+      "ud": "ataque",
+      "nosotros": "ataquemos",
+      "vosotros": "ataquéis",
+      "uds": "ataquen"
+    },
+    "imperfecto": {
+      "yo": "atacara",
+      "tu": "atacaras",
+      "ud": "atacara",
+      "nosotros": "atacáramos",
+      "vosotros": "atacarais",
+      "uds": "atacaran"
+    },
+    "futuro": {
+      "yo": "atacare",
+      "tu": "atacares",
+      "ud": "atacare",
+      "nosotros": "atacáremos",
+      "vosotros": "atacareis",
+      "uds": "atacaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya atacado",
+      "tu": "hayas atacado",
+      "ud": "haya atacado",
+      "nosotros": "hayamos atacado",
+      "vosotros": "hayáis atacado",
+      "uds": "hayan atacado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere atacado",
+      "tu": "hubieres atacado",
+      "ud": "hubiere atacado",
+      "nosotros": "hubiéremos atacado",
+      "vosotros": "hubiereis atacado",
+      "uds": "hubieren atacado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera atacado",
+      "tu": "hubieras atacado",
+      "ud": "hubiera atacado",
+      "nosotros": "hubiéramos atacado",
+      "vosotros": "hubierais atacado",
+      "uds": "hubieran atacado"
+    },
+    "imperfectoAlt": {
+      "yo": "atacase",
+      "tu": "atacases",
+      "ud": "atacase",
+      "nosotros": "atacásemos",
+      "vosotros": "atacaseis",
+      "uds": "atacasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese atacado",
+      "tu": "hubieses atacado",
+      "ud": "hubiese atacado",
+      "nosotros": "hubiésemos atacado",
+      "vosotros": "hubieseis atacado",
+      "uds": "hubiesen atacado"
+    }
+  },
+  "afirmativo": {
+    "tu": "ataca",
+    "vosotros": "atacad",
+    "ud": "ataque",
+    "uds": "ataquen"
+  },
+  "negativo": {
+    "tu": "no ataques",
+    "vosotros": "no ataquéis",
+    "ud": "no ataque",
+    "uds": "no ataquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to attack",
+    "gerundio": "attacking",
+    "participioPasado": "attacked",
+    "indicativo": {
+      "presente": "I attack, am attacking",
+      "futuro": "I will attack",
+      "imperfecto": "I was attacking, used to attack, attacked",
+      "preterito": "I attacked",
+      "condicional": "I would attack",
+      "presentePerfecto": "I have attacked",
+      "futuroPerfecto": "I will have attacked",
+      "pluscuamperfecto": "I had attacked",
+      "preteritoAnterior": "I had attacked",
+      "condicionalPerfecto": "I would have attacked"
+    },
+    "subjuntivo": {
+      "presente": "I attack, am attacking",
+      "imperfecto": "I attacked, was attacking",
+      "futuro": "I will attack",
+      "presentePerfecto": "I have attacked, attacked",
+      "futuroPerfecto": "I will have attacked",
+      "pluscuamperfecto": "I had attacked"
+    },
+    "afirmativo": "Attack!",
+    "negativo": "Don't attack!"
+  },
+  "attribution": "Fred Jehle"
+}

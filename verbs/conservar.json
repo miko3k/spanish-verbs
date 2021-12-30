@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "conservar",
+  "gerundio": "conservando",
+  "participioPasado": "conservado",
+  "indicativo": {
+    "presente": {
+      "yo": "conservo",
+      "tu": "conservas",
+      "ud": "conserva",
+      "nosotros": "conservamos",
+      "vosotros": "conserváis",
+      "uds": "conservan"
+    },
+    "futuro": {
+      "yo": "conservaré",
+      "tu": "conservarás",
+      "ud": "conservará",
+      "nosotros": "conservaremos",
+      "vosotros": "conservaréis",
+      "uds": "conservarán"
+    },
+    "imperfecto": {
+      "yo": "conservaba",
+      "tu": "conservabas",
+      "ud": "conservaba",
+      "nosotros": "conservábamos",
+      "vosotros": "conservabais",
+      "uds": "conservaban"
+    },
+    "preterito": {
+      "yo": "conservé",
+      "tu": "conservaste",
+      "ud": "conservó",
+      "nosotros": "conservamos",
+      "vosotros": "conservasteis",
+      "uds": "conservaron"
+    },
+    "condicional": {
+      "yo": "conservaría",
+      "tu": "conservarías",
+      "ud": "conservaría",
+      "nosotros": "conservaríamos",
+      "vosotros": "conservaríais",
+      "uds": "conservarían"
+    },
+    "presentePerfecto": {
+      "yo": "he conservado",
+      "tu": "has conservado",
+      "ud": "ha conservado",
+      "nosotros": "hemos conservado",
+      "vosotros": "habéis conservado",
+      "uds": "han conservado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré conservado",
+      "tu": "habrás conservado",
+      "ud": "habrá conservado",
+      "nosotros": "habremos conservado",
+      "vosotros": "habréis conservado",
+      "uds": "habrán conservado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había conservado",
+      "tu": "habías conservado",
+      "ud": "había conservado",
+      "nosotros": "habíamos conservado",
+      "vosotros": "habíais conservado",
+      "uds": "habían conservado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube conservado",
+      "tu": "hubiste conservado",
+      "ud": "hubo conservado",
+      "nosotros": "hubimos conservado",
+      "vosotros": "hubisteis conservado",
+      "uds": "hubieron conservado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría conservado",
+      "tu": "habrías conservado",
+      "ud": "habría conservado",
+      "nosotros": "habríamos conservado",
+      "vosotros": "habríais conservado",
+      "uds": "habrían conservado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "conserve",
+      "tu": "conserves",
+      "ud": "conserve",
+      "nosotros": "conservemos",
+      "vosotros": "conservéis",
+      "uds": "conserven"
+    },
+    "imperfecto": {
+      "yo": "conservara",
+      "tu": "conservaras",
+      "ud": "conservara",
+      "nosotros": "conserváramos",
+      "vosotros": "conservarais",
+      "uds": "conservaran"
+    },
+    "futuro": {
+      "yo": "conservare",
+      "tu": "conservares",
+      "ud": "conservare",
+      "nosotros": "conserváremos",
+      "vosotros": "conservareis",
+      "uds": "conservaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya conservado",
+      "tu": "hayas conservado",
+      "ud": "haya conservado",
+      "nosotros": "hayamos conservado",
+      "vosotros": "hayáis conservado",
+      "uds": "hayan conservado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere conservado",
+      "tu": "hubieres conservado",
+      "ud": "hubiere conservado",
+      "nosotros": "hubiéremos conservado",
+      "vosotros": "hubiereis conservado",
+      "uds": "hubieren conservado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera conservado",
+      "tu": "hubieras conservado",
+      "ud": "hubiera conservado",
+      "nosotros": "hubiéramos conservado",
+      "vosotros": "hubierais conservado",
+      "uds": "hubieran conservado"
+    },
+    "imperfectoAlt": {
+      "yo": "conservase",
+      "tu": "conservases",
+      "ud": "conservase",
+      "nosotros": "conservásemos",
+      "vosotros": "conservaseis",
+      "uds": "conservasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese conservado",
+      "tu": "hubieses conservado",
+      "ud": "hubiese conservado",
+      "nosotros": "hubiésemos conservado",
+      "vosotros": "hubieseis conservado",
+      "uds": "hubiesen conservado"
+    }
+  },
+  "afirmativo": {
+    "tu": "conserva",
+    "vosotros": "conservad",
+    "ud": "conserve",
+    "uds": "conserven"
+  },
+  "negativo": {
+    "tu": "no conserves",
+    "vosotros": "no conservéis",
+    "ud": "no conserve",
+    "uds": "no conserven"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to preserve, conserve; to keep, retain",
+    "gerundio": "preserving",
+    "participioPasado": "preserved",
+    "indicativo": {
+      "presente": "I preserve, am preserving",
+      "futuro": "I will preserve",
+      "imperfecto": "I was preserving, used to preserve, preserved",
+      "preterito": "I preserved",
+      "condicional": "I would preserve",
+      "presentePerfecto": "I have preserved",
+      "futuroPerfecto": "I will have preserved",
+      "pluscuamperfecto": "I had preserved",
+      "preteritoAnterior": "I had preserved",
+      "condicionalPerfecto": "I would have preserved"
+    },
+    "subjuntivo": {
+      "presente": "I preserve, am preserving",
+      "imperfecto": "I preserved, was preserving",
+      "futuro": "I will preserve",
+      "presentePerfecto": "I have preserved, preserved",
+      "futuroPerfecto": "I will have preserved",
+      "pluscuamperfecto": "I had preserved"
+    },
+    "afirmativo": "Preserve!",
+    "negativo": "Don't preserve!"
+  },
+  "attribution": "Fred Jehle"
+}

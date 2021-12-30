@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "hervir",
+  "gerundio": "hirviendo",
+  "participioPasado": "hervido",
+  "indicativo": {
+    "presente": {
+      "yo": "hiervo",
+      "tu": "hierves",
+      "ud": "hierve",
+      "nosotros": "hervimos",
+      "vosotros": "hervís",
+      "uds": "hierven"
+    },
+    "futuro": {
+      "yo": "herviré",
+      "tu": "hervirás",
+      "ud": "hervirá",
+      "nosotros": "herviremos",
+      "vosotros": "herviréis",
+      "uds": "hervirán"
+    },
+    "imperfecto": {
+      "yo": "hervía",
+      "tu": "hervías",
+      "ud": "hervía",
+      "nosotros": "hervíamos",
+      "vosotros": "hervíais",
+      "uds": "hervían"
+    },
+    "preterito": {
+      "yo": "herví",
+      "tu": "herviste",
+      "ud": "hirvió",
+      "nosotros": "hervimos",
+      "vosotros": "hervisteis",
+      "uds": "hirvieron"
+    },
+    "condicional": {
+      "yo": "herviría",
+      "tu": "hervirías",
+      "ud": "herviría",
+      "nosotros": "herviríamos",
+      "vosotros": "herviríais",
+      "uds": "hervirían"
+    },
+    "presentePerfecto": {
+      "yo": "he hervido",
+      "tu": "has hervido",
+      "ud": "ha hervido",
+      "nosotros": "hemos hervido",
+      "vosotros": "habéis hervido",
+      "uds": "han hervido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré hervido",
+      "tu": "habrás hervido",
+      "ud": "habrá hervido",
+      "nosotros": "habremos hervido",
+      "vosotros": "habréis hervido",
+      "uds": "habrán hervido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había hervido",
+      "tu": "habías hervido",
+      "ud": "había hervido",
+      "nosotros": "habíamos hervido",
+      "vosotros": "habíais hervido",
+      "uds": "habían hervido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube hervido",
+      "tu": "hubiste hervido",
+      "ud": "hubo hervido",
+      "nosotros": "hubimos hervido",
+      "vosotros": "hubisteis hervido",
+      "uds": "hubieron hervido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría hervido",
+      "tu": "habrías hervido",
+      "ud": "habría hervido",
+      "nosotros": "habríamos hervido",
+      "vosotros": "habríais hervido",
+      "uds": "habrían hervido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "hierva",
+      "tu": "hiervas",
+      "ud": "hierva",
+      "nosotros": "hirvamos",
+      "vosotros": "hirváis",
+      "uds": "hiervan"
+    },
+    "imperfecto": {
+      "yo": "hirviera",
+      "tu": "hirvieras",
+      "ud": "hirviera",
+      "nosotros": "hirviéramos",
+      "vosotros": "hirvierais",
+      "uds": "hirvieran"
+    },
+    "futuro": {
+      "yo": "hirviere",
+      "tu": "hirvieres",
+      "ud": "hirviere",
+      "nosotros": "hirviéremos",
+      "vosotros": "hirviereis",
+      "uds": "hirvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya hervido",
+      "tu": "hayas hervido",
+      "ud": "haya hervido",
+      "nosotros": "hayamos hervido",
+      "vosotros": "hayáis hervido",
+      "uds": "hayan hervido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere hervido",
+      "tu": "hubieres hervido",
+      "ud": "hubiere hervido",
+      "nosotros": "hubiéremos hervido",
+      "vosotros": "hubiereis hervido",
+      "uds": "hubieren hervido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera hervido",
+      "tu": "hubieras hervido",
+      "ud": "hubiera hervido",
+      "nosotros": "hubiéramos hervido",
+      "vosotros": "hubierais hervido",
+      "uds": "hubieran hervido"
+    },
+    "imperfectoAlt": {
+      "yo": "hirviese",
+      "tu": "hirvieses",
+      "ud": "hirviese",
+      "nosotros": "hirviésemos",
+      "vosotros": "hirvieseis",
+      "uds": "hirviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese hervido",
+      "tu": "hubieses hervido",
+      "ud": "hubiese hervido",
+      "nosotros": "hubiésemos hervido",
+      "vosotros": "hubieseis hervido",
+      "uds": "hubiesen hervido"
+    }
+  },
+  "afirmativo": {
+    "tu": "hierve",
+    "vosotros": "hervid",
+    "ud": "hierva",
+    "uds": "hiervan"
+  },
+  "negativo": {
+    "tu": "no hiervas",
+    "vosotros": "no hirváis",
+    "ud": "no hierva",
+    "uds": "no hiervan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i. Note: Hervir can be used both transitively (to boil something) and intransitively (to be in a boiling state.",
+    "infinitivo": "to boil, entertain",
+    "gerundio": "boiling",
+    "participioPasado": "boiled",
+    "indicativo": {
+      "presente": "I boil, am boiling",
+      "futuro": "I will boil",
+      "imperfecto": "I was boiling, used to boil, boiled",
+      "preterito": "I boiled",
+      "condicional": "I would boil",
+      "presentePerfecto": "I have boiled",
+      "futuroPerfecto": "I will have boiled",
+      "pluscuamperfecto": "I had boiled",
+      "preteritoAnterior": "I had boiled",
+      "condicionalPerfecto": "I would have boiled"
+    },
+    "subjuntivo": {
+      "presente": "I boil, am boiling",
+      "imperfecto": "I boiled, was boiling",
+      "futuro": "I will boil",
+      "presentePerfecto": "I have boiled, boiled",
+      "futuroPerfecto": "I will have boiled",
+      "pluscuamperfecto": "I had boiled"
+    },
+    "afirmativo": "Boil!",
+    "negativo": "Don't boil!"
+  },
+  "attribution": "Fred Jehle"
+}

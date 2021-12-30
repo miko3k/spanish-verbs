@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "señalar",
+  "gerundio": "señalando",
+  "participioPasado": "señalado",
+  "indicativo": {
+    "presente": {
+      "yo": "señalo",
+      "tu": "señalas",
+      "ud": "señala",
+      "nosotros": "señalamos",
+      "vosotros": "señaláis",
+      "uds": "señalan"
+    },
+    "futuro": {
+      "yo": "señalaré",
+      "tu": "señalarás",
+      "ud": "señalará",
+      "nosotros": "señalaremos",
+      "vosotros": "señalaréis",
+      "uds": "señalarán"
+    },
+    "imperfecto": {
+      "yo": "señalaba",
+      "tu": "señalabas",
+      "ud": "señalaba",
+      "nosotros": "señalábamos",
+      "vosotros": "señalabais",
+      "uds": "señalaban"
+    },
+    "preterito": {
+      "yo": "señalé",
+      "tu": "señalaste",
+      "ud": "señaló",
+      "nosotros": "señalamos",
+      "vosotros": "señalasteis",
+      "uds": "señalaron"
+    },
+    "condicional": {
+      "yo": "señalaría",
+      "tu": "señalarías",
+      "ud": "señalaría",
+      "nosotros": "señalaríamos",
+      "vosotros": "señalaríais",
+      "uds": "señalarían"
+    },
+    "presentePerfecto": {
+      "yo": "he señalado",
+      "tu": "has señalado",
+      "ud": "ha señalado",
+      "nosotros": "hemos señalado",
+      "vosotros": "habéis señalado",
+      "uds": "han señalado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré señalado",
+      "tu": "habrás señalado",
+      "ud": "habrá señalado",
+      "nosotros": "habremos señalado",
+      "vosotros": "habréis señalado",
+      "uds": "habrán señalado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había señalado",
+      "tu": "habías señalado",
+      "ud": "había señalado",
+      "nosotros": "habíamos señalado",
+      "vosotros": "habíais señalado",
+      "uds": "habían señalado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube señalado",
+      "tu": "hubiste señalado",
+      "ud": "hubo señalado",
+      "nosotros": "hubimos señalado",
+      "vosotros": "hubisteis señalado",
+      "uds": "hubieron señalado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría señalado",
+      "tu": "habrías señalado",
+      "ud": "habría señalado",
+      "nosotros": "habríamos señalado",
+      "vosotros": "habríais señalado",
+      "uds": "habrían señalado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "señale",
+      "tu": "señales",
+      "ud": "señale",
+      "nosotros": "señalemos",
+      "vosotros": "señaléis",
+      "uds": "señalen"
+    },
+    "imperfecto": {
+      "yo": "señalara",
+      "tu": "señalaras",
+      "ud": "señalara",
+      "nosotros": "señaláramos",
+      "vosotros": "señalarais",
+      "uds": "señalaran"
+    },
+    "futuro": {
+      "yo": "señalare",
+      "tu": "señalares",
+      "ud": "señalare",
+      "nosotros": "señaláremos",
+      "vosotros": "señalareis",
+      "uds": "señalaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya señalado",
+      "tu": "hayas señalado",
+      "ud": "haya señalado",
+      "nosotros": "hayamos señalado",
+      "vosotros": "hayáis señalado",
+      "uds": "hayan señalado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere señalado",
+      "tu": "hubieres señalado",
+      "ud": "hubiere señalado",
+      "nosotros": "hubiéremos señalado",
+      "vosotros": "hubiereis señalado",
+      "uds": "hubieren señalado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera señalado",
+      "tu": "hubieras señalado",
+      "ud": "hubiera señalado",
+      "nosotros": "hubiéramos señalado",
+      "vosotros": "hubierais señalado",
+      "uds": "hubieran señalado"
+    },
+    "imperfectoAlt": {
+      "yo": "señalase",
+      "tu": "señalases",
+      "ud": "señalase",
+      "nosotros": "señalásemos",
+      "vosotros": "señalaseis",
+      "uds": "señalasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese señalado",
+      "tu": "hubieses señalado",
+      "ud": "hubiese señalado",
+      "nosotros": "hubiésemos señalado",
+      "vosotros": "hubieseis señalado",
+      "uds": "hubiesen señalado"
+    }
+  },
+  "afirmativo": {
+    "tu": "señala",
+    "vosotros": "señalad",
+    "ud": "señale",
+    "uds": "señalen"
+  },
+  "negativo": {
+    "tu": "no señales",
+    "vosotros": "no señaléis",
+    "ud": "no señale",
+    "uds": "no señalen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to point out, point to, indicate; to signal; to mark",
+    "gerundio": "pointing out",
+    "participioPasado": "pointed out",
+    "indicativo": {
+      "presente": "I point out, am pointing out",
+      "futuro": "I will point out",
+      "imperfecto": "I was pointing out, used to point out, pointed out",
+      "preterito": "I pointed out",
+      "condicional": "I would point out",
+      "presentePerfecto": "I have pointed out",
+      "futuroPerfecto": "I will have pointed out",
+      "pluscuamperfecto": "I had pointed out",
+      "preteritoAnterior": "I had pointed out",
+      "condicionalPerfecto": "I would have pointed out"
+    },
+    "subjuntivo": {
+      "presente": "I point out, am pointing out",
+      "imperfecto": "I pointed out, was pointing out",
+      "futuro": "I will point out",
+      "presentePerfecto": "I have pointed out, pointed out",
+      "futuroPerfecto": "I will have pointed out",
+      "pluscuamperfecto": "I had pointed out"
+    },
+    "afirmativo": "Point out!",
+    "negativo": "Don't point out!"
+  },
+  "attribution": "Fred Jehle"
+}

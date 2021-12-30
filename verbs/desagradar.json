@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "desagradar",
+  "gerundio": "desagradando",
+  "participioPasado": "desagradado",
+  "indicativo": {
+    "presente": {
+      "yo": "desagrado",
+      "tu": "desagradas",
+      "ud": "desagrada",
+      "nosotros": "desagradamos",
+      "vosotros": "desagradáis",
+      "uds": "desagradan"
+    },
+    "futuro": {
+      "yo": "desagradaré",
+      "tu": "desagradarás",
+      "ud": "desagradará",
+      "nosotros": "desagradaremos",
+      "vosotros": "desagradaréis",
+      "uds": "desagradarán"
+    },
+    "imperfecto": {
+      "yo": "desagradaba",
+      "tu": "desagradabas",
+      "ud": "desagradaba",
+      "nosotros": "desagradábamos",
+      "vosotros": "desagradabais",
+      "uds": "desagradaban"
+    },
+    "preterito": {
+      "yo": "desagradé",
+      "tu": "desagradaste",
+      "ud": "desagradó",
+      "nosotros": "desagradamos",
+      "vosotros": "desagradasteis",
+      "uds": "desagradaron"
+    },
+    "condicional": {
+      "yo": "desagradaría",
+      "tu": "desagradarías",
+      "ud": "desagradaría",
+      "nosotros": "desagradaríamos",
+      "vosotros": "desagradaríais",
+      "uds": "desagradarían"
+    },
+    "presentePerfecto": {
+      "yo": "he desagradado",
+      "tu": "has desagradado",
+      "ud": "ha desagradado",
+      "nosotros": "hemos desagradado",
+      "vosotros": "habéis desagradado",
+      "uds": "han desagradado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré desagradado",
+      "tu": "habrás desagradado",
+      "ud": "habrá desagradado",
+      "nosotros": "habremos desagradado",
+      "vosotros": "habréis desagradado",
+      "uds": "habrán desagradado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había desagradado",
+      "tu": "habías desagradado",
+      "ud": "había desagradado",
+      "nosotros": "habíamos desagradado",
+      "vosotros": "habíais desagradado",
+      "uds": "habían desagradado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube desagradado",
+      "tu": "hubiste desagradado",
+      "ud": "hubo desagradado",
+      "nosotros": "hubimos desagradado",
+      "vosotros": "hubisteis desagradado",
+      "uds": "hubieron desagradado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría desagradado",
+      "tu": "habrías desagradado",
+      "ud": "habría desagradado",
+      "nosotros": "habríamos desagradado",
+      "vosotros": "habríais desagradado",
+      "uds": "habrían desagradado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "desagrade",
+      "tu": "desagrades",
+      "ud": "desagrade",
+      "nosotros": "desagrademos",
+      "vosotros": "desagradéis",
+      "uds": "desagraden"
+    },
+    "imperfecto": {
+      "yo": "desagradara",
+      "tu": "desagradaras",
+      "ud": "desagradara",
+      "nosotros": "desagradáramos",
+      "vosotros": "desagradarais",
+      "uds": "desagradaran"
+    },
+    "futuro": {
+      "yo": "desagradare",
+      "tu": "desagradares",
+      "ud": "desagradare",
+      "nosotros": "desagradáremos",
+      "vosotros": "desagradareis",
+      "uds": "desagradaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya desagradado",
+      "tu": "hayas desagradado",
+      "ud": "haya desagradado",
+      "nosotros": "hayamos desagradado",
+      "vosotros": "hayáis desagradado",
+      "uds": "hayan desagradado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere desagradado",
+      "tu": "hubieres desagradado",
+      "ud": "hubiere desagradado",
+      "nosotros": "hubiéremos desagradado",
+      "vosotros": "hubiereis desagradado",
+      "uds": "hubieren desagradado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera desagradado",
+      "tu": "hubieras desagradado",
+      "ud": "hubiera desagradado",
+      "nosotros": "hubiéramos desagradado",
+      "vosotros": "hubierais desagradado",
+      "uds": "hubieran desagradado"
+    },
+    "imperfectoAlt": {
+      "yo": "desagradase",
+      "tu": "desagradases",
+      "ud": "desagradase",
+      "nosotros": "desagradásemos",
+      "vosotros": "desagradaseis",
+      "uds": "desagradasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese desagradado",
+      "tu": "hubieses desagradado",
+      "ud": "hubiese desagradado",
+      "nosotros": "hubiésemos desagradado",
+      "vosotros": "hubieseis desagradado",
+      "uds": "hubiesen desagradado"
+    }
+  },
+  "afirmativo": {
+    "tu": "desagrada",
+    "vosotros": "desagradad",
+    "ud": "desagrade",
+    "uds": "desagraden"
+  },
+  "negativo": {
+    "tu": "no desagrades",
+    "vosotros": "no desagradéis",
+    "ud": "no desagrade",
+    "uds": "no desagraden"
+  },
+  "english": {
+    "note": "Note: desagradar expresses the opposite idea of gustar; like gustar, the verb is used in a special type of construction, in this case to express dislike or to not like: Me desagrada el libro = The book is displeasing to me (= I dislike the book); Me desagradan los libros = The books are displeasing to me (= I don't like the books). In this construction the verb is most frequently used in the third person singular or plural, although all persons are possible, e.g., Me desagradas tú = You are displeasing to me (= I don't like you).",
+    "infinitivo": "to displease, be displeasing",
+    "gerundio": "displeasing",
+    "participioPasado": "displeased",
+    "indicativo": {
+      "presente": "I displease, am displeasing",
+      "futuro": "I will displease",
+      "imperfecto": "I was displeasing, used to displease, displeased",
+      "preterito": "I displeased",
+      "condicional": "I would displease",
+      "presentePerfecto": "I have displeased",
+      "futuroPerfecto": "I will have displeased",
+      "pluscuamperfecto": "I had displeased",
+      "preteritoAnterior": "I had displeased",
+      "condicionalPerfecto": "I would have displeased"
+    },
+    "subjuntivo": {
+      "presente": "I displease, am displeasing",
+      "imperfecto": "I displeased, was displeasing",
+      "futuro": "I will displease",
+      "presentePerfecto": "I have displeased, displeased",
+      "futuroPerfecto": "I will have displeased",
+      "pluscuamperfecto": "I had displeased"
+    },
+    "afirmativo": "Displease!",
+    "negativo": "Don't displease!"
+  },
+  "attribution": "Fred Jehle"
+}

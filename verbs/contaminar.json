@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "contaminar",
+  "gerundio": "contaminando",
+  "participioPasado": "contaminado",
+  "indicativo": {
+    "presente": {
+      "yo": "contamino",
+      "tu": "contaminas",
+      "ud": "contamina",
+      "nosotros": "contaminamos",
+      "vosotros": "contamináis",
+      "uds": "contaminan"
+    },
+    "futuro": {
+      "yo": "contaminaré",
+      "tu": "contaminarás",
+      "ud": "contaminará",
+      "nosotros": "contaminaremos",
+      "vosotros": "contaminaréis",
+      "uds": "contaminarán"
+    },
+    "imperfecto": {
+      "yo": "contaminaba",
+      "tu": "contaminabas",
+      "ud": "contaminaba",
+      "nosotros": "contaminábamos",
+      "vosotros": "contaminabais",
+      "uds": "contaminaban"
+    },
+    "preterito": {
+      "yo": "contaminé",
+      "tu": "contaminaste",
+      "ud": "contaminó",
+      "nosotros": "contaminamos",
+      "vosotros": "contaminasteis",
+      "uds": "contaminaron"
+    },
+    "condicional": {
+      "yo": "contaminaría",
+      "tu": "contaminarías",
+      "ud": "contaminaría",
+      "nosotros": "contaminaríamos",
+      "vosotros": "contaminaríais",
+      "uds": "contaminarían"
+    },
+    "presentePerfecto": {
+      "yo": "he contaminado",
+      "tu": "has contaminado",
+      "ud": "ha contaminado",
+      "nosotros": "hemos contaminado",
+      "vosotros": "habéis contaminado",
+      "uds": "han contaminado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré contaminado",
+      "tu": "habrás contaminado",
+      "ud": "habrá contaminado",
+      "nosotros": "habremos contaminado",
+      "vosotros": "habréis contaminado",
+      "uds": "habrán contaminado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había contaminado",
+      "tu": "habías contaminado",
+      "ud": "había contaminado",
+      "nosotros": "habíamos contaminado",
+      "vosotros": "habíais contaminado",
+      "uds": "habían contaminado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube contaminado",
+      "tu": "hubiste contaminado",
+      "ud": "hubo contaminado",
+      "nosotros": "hubimos contaminado",
+      "vosotros": "hubisteis contaminado",
+      "uds": "hubieron contaminado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría contaminado",
+      "tu": "habrías contaminado",
+      "ud": "habría contaminado",
+      "nosotros": "habríamos contaminado",
+      "vosotros": "habríais contaminado",
+      "uds": "habrían contaminado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "contamine",
+      "tu": "contamines",
+      "ud": "contamine",
+      "nosotros": "contaminemos",
+      "vosotros": "contaminéis",
+      "uds": "contaminen"
+    },
+    "imperfecto": {
+      "yo": "contaminara",
+      "tu": "contaminaras",
+      "ud": "contaminara",
+      "nosotros": "contamináramos",
+      "vosotros": "contaminarais",
+      "uds": "contaminaran"
+    },
+    "futuro": {
+      "yo": "contaminare",
+      "tu": "contaminares",
+      "ud": "contaminare",
+      "nosotros": "contamináremos",
+      "vosotros": "contaminareis",
+      "uds": "contaminaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya contaminado",
+      "tu": "hayas contaminado",
+      "ud": "haya contaminado",
+      "nosotros": "hayamos contaminado",
+      "vosotros": "hayáis contaminado",
+      "uds": "hayan contaminado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere contaminado",
+      "tu": "hubieres contaminado",
+      "ud": "hubiere contaminado",
+      "nosotros": "hubiéremos contaminado",
+      "vosotros": "hubiereis contaminado",
+      "uds": "hubieren contaminado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera contaminado",
+      "tu": "hubieras contaminado",
+      "ud": "hubiera contaminado",
+      "nosotros": "hubiéramos contaminado",
+      "vosotros": "hubierais contaminado",
+      "uds": "hubieran contaminado"
+    },
+    "imperfectoAlt": {
+      "yo": "contaminase",
+      "tu": "contaminases",
+      "ud": "contaminase",
+      "nosotros": "contaminásemos",
+      "vosotros": "contaminaseis",
+      "uds": "contaminasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese contaminado",
+      "tu": "hubieses contaminado",
+      "ud": "hubiese contaminado",
+      "nosotros": "hubiésemos contaminado",
+      "vosotros": "hubieseis contaminado",
+      "uds": "hubiesen contaminado"
+    }
+  },
+  "afirmativo": {
+    "tu": "contamina",
+    "vosotros": "contaminad",
+    "ud": "contamine",
+    "uds": "contaminen"
+  },
+  "negativo": {
+    "tu": "no contamines",
+    "vosotros": "no contaminéis",
+    "ud": "no contamine",
+    "uds": "no contaminen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to contaminate, pollute; to corrupt",
+    "gerundio": "contaminating",
+    "participioPasado": "contaminated",
+    "indicativo": {
+      "presente": "I contaminate, am contaminating",
+      "futuro": "I will contaminate",
+      "imperfecto": "I was contaminating, used to contaminate, contaminated",
+      "preterito": "I contaminated",
+      "condicional": "I would contaminate",
+      "presentePerfecto": "I have contaminated",
+      "futuroPerfecto": "I will have contaminated",
+      "pluscuamperfecto": "I had contaminated",
+      "preteritoAnterior": "I had contaminated",
+      "condicionalPerfecto": "I would have contaminated"
+    },
+    "subjuntivo": {
+      "presente": "I contaminate, am contaminating",
+      "imperfecto": "I contaminated, was contaminating",
+      "futuro": "I will contaminate",
+      "presentePerfecto": "I have contaminated, contaminated",
+      "futuroPerfecto": "I will have contaminated",
+      "pluscuamperfecto": "I had contaminated"
+    },
+    "afirmativo": "Contaminate!",
+    "negativo": "Don't contaminate!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "buscar",
+  "gerundio": "buscando",
+  "participioPasado": "buscado",
+  "indicativo": {
+    "presente": {
+      "yo": "busco",
+      "tu": "buscas",
+      "ud": "busca",
+      "nosotros": "buscamos",
+      "vosotros": "buscáis",
+      "uds": "buscan"
+    },
+    "futuro": {
+      "yo": "buscaré",
+      "tu": "buscarás",
+      "ud": "buscará",
+      "nosotros": "buscaremos",
+      "vosotros": "buscaréis",
+      "uds": "buscarán"
+    },
+    "imperfecto": {
+      "yo": "buscaba",
+      "tu": "buscabas",
+      "ud": "buscaba",
+      "nosotros": "buscábamos",
+      "vosotros": "buscabais",
+      "uds": "buscaban"
+    },
+    "preterito": {
+      "yo": "busqué",
+      "tu": "buscaste",
+      "ud": "buscó",
+      "nosotros": "buscamos",
+      "vosotros": "buscasteis",
+      "uds": "buscaron"
+    },
+    "condicional": {
+      "yo": "buscaría",
+      "tu": "buscarías",
+      "ud": "buscaría",
+      "nosotros": "buscaríamos",
+      "vosotros": "buscaríais",
+      "uds": "buscarían"
+    },
+    "presentePerfecto": {
+      "yo": "he buscado",
+      "tu": "has buscado",
+      "ud": "ha buscado",
+      "nosotros": "hemos buscado",
+      "vosotros": "habéis buscado",
+      "uds": "han buscado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré buscado",
+      "tu": "habrás buscado",
+      "ud": "habrá buscado",
+      "nosotros": "habremos buscado",
+      "vosotros": "habréis buscado",
+      "uds": "habrán buscado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había buscado",
+      "tu": "habías buscado",
+      "ud": "había buscado",
+      "nosotros": "habíamos buscado",
+      "vosotros": "habíais buscado",
+      "uds": "habían buscado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube buscado",
+      "tu": "hubiste buscado",
+      "ud": "hubo buscado",
+      "nosotros": "hubimos buscado",
+      "vosotros": "hubisteis buscado",
+      "uds": "hubieron buscado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría buscado",
+      "tu": "habrías buscado",
+      "ud": "habría buscado",
+      "nosotros": "habríamos buscado",
+      "vosotros": "habríais buscado",
+      "uds": "habrían buscado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "busque",
+      "tu": "busques",
+      "ud": "busque",
+      "nosotros": "busquemos",
+      "vosotros": "busquéis",
+      "uds": "busquen"
+    },
+    "imperfecto": {
+      "yo": "buscara",
+      "tu": "buscaras",
+      "ud": "buscara",
+      "nosotros": "buscáramos",
+      "vosotros": "buscarais",
+      "uds": "buscaran"
+    },
+    "futuro": {
+      "yo": "buscare",
+      "tu": "buscares",
+      "ud": "buscare",
+      "nosotros": "buscáremos",
+      "vosotros": "buscareis",
+      "uds": "buscaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya buscado",
+      "tu": "hayas buscado",
+      "ud": "haya buscado",
+      "nosotros": "hayamos buscado",
+      "vosotros": "hayáis buscado",
+      "uds": "hayan buscado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere buscado",
+      "tu": "hubieres buscado",
+      "ud": "hubiere buscado",
+      "nosotros": "hubiéremos buscado",
+      "vosotros": "hubiereis buscado",
+      "uds": "hubieren buscado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera buscado",
+      "tu": "hubieras buscado",
+      "ud": "hubiera buscado",
+      "nosotros": "hubiéramos buscado",
+      "vosotros": "hubierais buscado",
+      "uds": "hubieran buscado"
+    },
+    "imperfectoAlt": {
+      "yo": "buscase",
+      "tu": "buscases",
+      "ud": "buscase",
+      "nosotros": "buscásemos",
+      "vosotros": "buscaseis",
+      "uds": "buscasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese buscado",
+      "tu": "hubieses buscado",
+      "ud": "hubiese buscado",
+      "nosotros": "hubiésemos buscado",
+      "vosotros": "hubieseis buscado",
+      "uds": "hubiesen buscado"
+    }
+  },
+  "afirmativo": {
+    "tu": "busca",
+    "vosotros": "buscad",
+    "ud": "busque",
+    "uds": "busquen"
+  },
+  "negativo": {
+    "tu": "no busques",
+    "vosotros": "no busquéis",
+    "ud": "no busque",
+    "uds": "no busquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to search for, look for",
+    "gerundio": "searching for",
+    "participioPasado": "searched for",
+    "indicativo": {
+      "presente": "I search for, am searching for",
+      "futuro": "I will search for",
+      "imperfecto": "I was searching for, used to search for, searched for",
+      "preterito": "I searched for",
+      "condicional": "I would search for",
+      "presentePerfecto": "I have searched for",
+      "futuroPerfecto": "I will have searched for",
+      "pluscuamperfecto": "I had searched for",
+      "preteritoAnterior": "I had searched for",
+      "condicionalPerfecto": "I would have searched for"
+    },
+    "subjuntivo": {
+      "presente": "I search for, am searching for",
+      "imperfecto": "I searched for, was searching for",
+      "futuro": "I will search for",
+      "presentePerfecto": "I have searched for, searched for",
+      "futuroPerfecto": "I will have searched for",
+      "pluscuamperfecto": "I had searched for"
+    },
+    "afirmativo": "Search for!",
+    "negativo": "Don't search for!"
+  },
+  "attribution": "Fred Jehle"
+}

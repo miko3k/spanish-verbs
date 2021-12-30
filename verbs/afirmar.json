@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "afirmar",
+  "gerundio": "afirmando",
+  "participioPasado": "afirmado",
+  "indicativo": {
+    "presente": {
+      "yo": "afirmo",
+      "tu": "afirmas",
+      "ud": "afirma",
+      "nosotros": "afirmamos",
+      "vosotros": "afirmáis",
+      "uds": "afirman"
+    },
+    "futuro": {
+      "yo": "afirmaré",
+      "tu": "afirmarás",
+      "ud": "afirmará",
+      "nosotros": "afirmaremos",
+      "vosotros": "afirmaréis",
+      "uds": "afirmarán"
+    },
+    "imperfecto": {
+      "yo": "afirmaba",
+      "tu": "afirmabas",
+      "ud": "afirmaba",
+      "nosotros": "afirmábamos",
+      "vosotros": "afirmabais",
+      "uds": "afirmaban"
+    },
+    "preterito": {
+      "yo": "afirmé",
+      "tu": "afirmaste",
+      "ud": "afirmó",
+      "nosotros": "afirmamos",
+      "vosotros": "afirmasteis",
+      "uds": "afirmaron"
+    },
+    "condicional": {
+      "yo": "afirmaría",
+      "tu": "afirmarías",
+      "ud": "afirmaría",
+      "nosotros": "afirmaríamos",
+      "vosotros": "afirmaríais",
+      "uds": "afirmarían"
+    },
+    "presentePerfecto": {
+      "yo": "he afirmado",
+      "tu": "has afirmado",
+      "ud": "ha afirmado",
+      "nosotros": "hemos afirmado",
+      "vosotros": "habéis afirmado",
+      "uds": "han afirmado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré afirmado",
+      "tu": "habrás afirmado",
+      "ud": "habrá afirmado",
+      "nosotros": "habremos afirmado",
+      "vosotros": "habréis afirmado",
+      "uds": "habrán afirmado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había afirmado",
+      "tu": "habías afirmado",
+      "ud": "había afirmado",
+      "nosotros": "habíamos afirmado",
+      "vosotros": "habíais afirmado",
+      "uds": "habían afirmado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube afirmado",
+      "tu": "hubiste afirmado",
+      "ud": "hubo afirmado",
+      "nosotros": "hubimos afirmado",
+      "vosotros": "hubisteis afirmado",
+      "uds": "hubieron afirmado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría afirmado",
+      "tu": "habrías afirmado",
+      "ud": "habría afirmado",
+      "nosotros": "habríamos afirmado",
+      "vosotros": "habríais afirmado",
+      "uds": "habrían afirmado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "afirme",
+      "tu": "afirmes",
+      "ud": "afirme",
+      "nosotros": "afirmemos",
+      "vosotros": "afirméis",
+      "uds": "afirmen"
+    },
+    "imperfecto": {
+      "yo": "afirmara",
+      "tu": "afirmaras",
+      "ud": "afirmara",
+      "nosotros": "afirmáramos",
+      "vosotros": "afirmarais",
+      "uds": "afirmaran"
+    },
+    "futuro": {
+      "yo": "afirmare",
+      "tu": "afirmares",
+      "ud": "afirmare",
+      "nosotros": "afirmáremos",
+      "vosotros": "afirmareis",
+      "uds": "afirmaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya afirmado",
+      "tu": "hayas afirmado",
+      "ud": "haya afirmado",
+      "nosotros": "hayamos afirmado",
+      "vosotros": "hayáis afirmado",
+      "uds": "hayan afirmado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere afirmado",
+      "tu": "hubieres afirmado",
+      "ud": "hubiere afirmado",
+      "nosotros": "hubiéremos afirmado",
+      "vosotros": "hubiereis afirmado",
+      "uds": "hubieren afirmado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera afirmado",
+      "tu": "hubieras afirmado",
+      "ud": "hubiera afirmado",
+      "nosotros": "hubiéramos afirmado",
+      "vosotros": "hubierais afirmado",
+      "uds": "hubieran afirmado"
+    },
+    "imperfectoAlt": {
+      "yo": "afirmase",
+      "tu": "afirmases",
+      "ud": "afirmase",
+      "nosotros": "afirmásemos",
+      "vosotros": "afirmaseis",
+      "uds": "afirmasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese afirmado",
+      "tu": "hubieses afirmado",
+      "ud": "hubiese afirmado",
+      "nosotros": "hubiésemos afirmado",
+      "vosotros": "hubieseis afirmado",
+      "uds": "hubiesen afirmado"
+    }
+  },
+  "afirmativo": {
+    "tu": "afirma",
+    "vosotros": "afirmad",
+    "ud": "afirme",
+    "uds": "afirmen"
+  },
+  "negativo": {
+    "tu": "no afirmes",
+    "vosotros": "no afirméis",
+    "ud": "no afirme",
+    "uds": "no afirmen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to make firm, steady, strengthen; to affirm, state, assert",
+    "gerundio": "making firm",
+    "participioPasado": "made firm",
+    "indicativo": {
+      "presente": "I make firm, am making firm",
+      "futuro": "I will make firm",
+      "imperfecto": "I was making firm, used to make firm, made firm",
+      "preterito": "I made firm",
+      "condicional": "I would make firm",
+      "presentePerfecto": "I have made firm",
+      "futuroPerfecto": "I will have made firm",
+      "pluscuamperfecto": "I had made firm",
+      "preteritoAnterior": "I had made firm",
+      "condicionalPerfecto": "I would have made firm"
+    },
+    "subjuntivo": {
+      "presente": "I make firm, am making firm",
+      "imperfecto": "I made firm, was making firm",
+      "futuro": "I will make firm",
+      "presentePerfecto": "I have made firm, made firm",
+      "futuroPerfecto": "I will have made firm",
+      "pluscuamperfecto": "I had made firm"
+    },
+    "afirmativo": "Make firm!",
+    "negativo": "Don't make firm!"
+  },
+  "attribution": "Fred Jehle"
+}

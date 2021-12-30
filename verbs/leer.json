@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "leer",
+  "gerundio": "leyendo",
+  "participioPasado": "leído",
+  "indicativo": {
+    "presente": {
+      "yo": "leo",
+      "tu": "lees",
+      "ud": "lee",
+      "nosotros": "leemos",
+      "vosotros": "leéis",
+      "uds": "leen"
+    },
+    "futuro": {
+      "yo": "leeré",
+      "tu": "leerás",
+      "ud": "leerá",
+      "nosotros": "leeremos",
+      "vosotros": "leeréis",
+      "uds": "leerán"
+    },
+    "imperfecto": {
+      "yo": "leía",
+      "tu": "leías",
+      "ud": "leía",
+      "nosotros": "leíamos",
+      "vosotros": "leíais",
+      "uds": "leían"
+    },
+    "preterito": {
+      "yo": "leí",
+      "tu": "leíste",
+      "ud": "leyó",
+      "nosotros": "leímos",
+      "vosotros": "leísteis",
+      "uds": "leyeron"
+    },
+    "condicional": {
+      "yo": "leería",
+      "tu": "leerías",
+      "ud": "leería",
+      "nosotros": "leeríamos",
+      "vosotros": "leeríais",
+      "uds": "leerían"
+    },
+    "presentePerfecto": {
+      "yo": "he leído",
+      "tu": "has leído",
+      "ud": "ha leído",
+      "nosotros": "hemos leído",
+      "vosotros": "habéis leído",
+      "uds": "han leído"
+    },
+    "futuroPerfecto": {
+      "yo": "habré leído",
+      "tu": "habrás leído",
+      "ud": "habrá leído",
+      "nosotros": "habremos leído",
+      "vosotros": "habréis leído",
+      "uds": "habrán leído"
+    },
+    "pluscuamperfecto": {
+      "yo": "había leído",
+      "tu": "habías leído",
+      "ud": "había leído",
+      "nosotros": "habíamos leído",
+      "vosotros": "habíais leído",
+      "uds": "habían leído"
+    },
+    "preteritoAnterior": {
+      "yo": "hube leído",
+      "tu": "hubiste leído",
+      "ud": "hubo leído",
+      "nosotros": "hubimos leído",
+      "vosotros": "hubisteis leído",
+      "uds": "hubieron leído"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría leído",
+      "tu": "habrías leído",
+      "ud": "habría leído",
+      "nosotros": "habríamos leído",
+      "vosotros": "habríais leído",
+      "uds": "habrían leído"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "lea",
+      "tu": "leas",
+      "ud": "lea",
+      "nosotros": "leamos",
+      "vosotros": "leáis",
+      "uds": "lean"
+    },
+    "imperfecto": {
+      "yo": "leyera",
+      "tu": "leyeras",
+      "ud": "leyera",
+      "nosotros": "leyéramos",
+      "vosotros": "leyerais",
+      "uds": "leyeran"
+    },
+    "futuro": {
+      "yo": "leyere",
+      "tu": "leyeres",
+      "ud": "leyere",
+      "nosotros": "leyéremos",
+      "vosotros": "leyereis",
+      "uds": "leyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya leído",
+      "tu": "hayas leído",
+      "ud": "haya leído",
+      "nosotros": "hayamos leído",
+      "vosotros": "hayáis leído",
+      "uds": "hayan leído"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere leído",
+      "tu": "hubieres leído",
+      "ud": "hubiere leído",
+      "nosotros": "hubiéremos leído",
+      "vosotros": "hubiereis leído",
+      "uds": "hubieren leído"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera leído",
+      "tu": "hubieras leído",
+      "ud": "hubiera leído",
+      "nosotros": "hubiéramos leído",
+      "vosotros": "hubierais leído",
+      "uds": "hubieran leído"
+    },
+    "imperfectoAlt": {
+      "yo": "leyese",
+      "tu": "leyeses",
+      "ud": "leyese",
+      "nosotros": "leyésemos",
+      "vosotros": "leyeseis",
+      "uds": "leyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese leído",
+      "tu": "hubieses leído",
+      "ud": "hubiese leído",
+      "nosotros": "hubiésemos leído",
+      "vosotros": "hubieseis leído",
+      "uds": "hubiesen leído"
+    }
+  },
+  "afirmativo": {
+    "tu": "lee",
+    "vosotros": "leed",
+    "ud": "lea",
+    "uds": "lean"
+  },
+  "negativo": {
+    "tu": "no leas",
+    "vosotros": "no leáis",
+    "ud": "no lea",
+    "uds": "no lean"
+  },
+  "english": {
+    "note": "La i intervocálica (cuando no se acentúa) > y: leyó, leyeron, leyendo, etc. Participio pasado: leído.",
+    "infinitivo": "to read",
+    "gerundio": "reading",
+    "participioPasado": "read",
+    "indicativo": {
+      "presente": "I read, am reading",
+      "futuro": "I will read",
+      "imperfecto": "I was reading, used to read, read",
+      "preterito": "I read",
+      "condicional": "I would read",
+      "presentePerfecto": "I have read",
+      "futuroPerfecto": "I will have read",
+      "pluscuamperfecto": "I had read",
+      "preteritoAnterior": "I had read",
+      "condicionalPerfecto": "I would have read"
+    },
+    "subjuntivo": {
+      "presente": "I read, am reading",
+      "imperfecto": "I read, was reading",
+      "futuro": "I will read",
+      "presentePerfecto": "I have read, read",
+      "futuroPerfecto": "I will have read",
+      "pluscuamperfecto": "I had read"
+    },
+    "afirmativo": "Read!",
+    "negativo": "Don't read!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "arrojar",
+  "gerundio": "arrojando",
+  "participioPasado": "arrojado",
+  "indicativo": {
+    "presente": {
+      "yo": "arrojo",
+      "tu": "arrojas",
+      "ud": "arroja",
+      "nosotros": "arrojamos",
+      "vosotros": "arrojáis",
+      "uds": "arrojan"
+    },
+    "futuro": {
+      "yo": "arrojaré",
+      "tu": "arrojarás",
+      "ud": "arrojará",
+      "nosotros": "arrojaremos",
+      "vosotros": "arrojaréis",
+      "uds": "arrojarán"
+    },
+    "imperfecto": {
+      "yo": "arrojaba",
+      "tu": "arrojabas",
+      "ud": "arrojaba",
+      "nosotros": "arrojábamos",
+      "vosotros": "arrojabais",
+      "uds": "arrojaban"
+    },
+    "preterito": {
+      "yo": "arrojé",
+      "tu": "arrojaste",
+      "ud": "arrojó",
+      "nosotros": "arrojamos",
+      "vosotros": "arrojasteis",
+      "uds": "arrojaron"
+    },
+    "condicional": {
+      "yo": "arrojaría",
+      "tu": "arrojarías",
+      "ud": "arrojaría",
+      "nosotros": "arrojaríamos",
+      "vosotros": "arrojaríais",
+      "uds": "arrojarían"
+    },
+    "presentePerfecto": {
+      "yo": "he arrojado",
+      "tu": "has arrojado",
+      "ud": "ha arrojado",
+      "nosotros": "hemos arrojado",
+      "vosotros": "habéis arrojado",
+      "uds": "han arrojado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré arrojado",
+      "tu": "habrás arrojado",
+      "ud": "habrá arrojado",
+      "nosotros": "habremos arrojado",
+      "vosotros": "habréis arrojado",
+      "uds": "habrán arrojado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había arrojado",
+      "tu": "habías arrojado",
+      "ud": "había arrojado",
+      "nosotros": "habíamos arrojado",
+      "vosotros": "habíais arrojado",
+      "uds": "habían arrojado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube arrojado",
+      "tu": "hubiste arrojado",
+      "ud": "hubo arrojado",
+      "nosotros": "hubimos arrojado",
+      "vosotros": "hubisteis arrojado",
+      "uds": "hubieron arrojado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría arrojado",
+      "tu": "habrías arrojado",
+      "ud": "habría arrojado",
+      "nosotros": "habríamos arrojado",
+      "vosotros": "habríais arrojado",
+      "uds": "habrían arrojado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "arroje",
+      "tu": "arrojes",
+      "ud": "arroje",
+      "nosotros": "arrojemos",
+      "vosotros": "arrojéis",
+      "uds": "arrojen"
+    },
+    "imperfecto": {
+      "yo": "arrojara",
+      "tu": "arrojaras",
+      "ud": "arrojara",
+      "nosotros": "arrojáramos",
+      "vosotros": "arrojarais",
+      "uds": "arrojaran"
+    },
+    "futuro": {
+      "yo": "arrojare",
+      "tu": "arrojares",
+      "ud": "arrojare",
+      "nosotros": "arrojáremos",
+      "vosotros": "arrojareis",
+      "uds": "arrojaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya arrojado",
+      "tu": "hayas arrojado",
+      "ud": "haya arrojado",
+      "nosotros": "hayamos arrojado",
+      "vosotros": "hayáis arrojado",
+      "uds": "hayan arrojado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere arrojado",
+      "tu": "hubieres arrojado",
+      "ud": "hubiere arrojado",
+      "nosotros": "hubiéremos arrojado",
+      "vosotros": "hubiereis arrojado",
+      "uds": "hubieren arrojado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera arrojado",
+      "tu": "hubieras arrojado",
+      "ud": "hubiera arrojado",
+      "nosotros": "hubiéramos arrojado",
+      "vosotros": "hubierais arrojado",
+      "uds": "hubieran arrojado"
+    },
+    "imperfectoAlt": {
+      "yo": "arrojase",
+      "tu": "arrojases",
+      "ud": "arrojase",
+      "nosotros": "arrojásemos",
+      "vosotros": "arrojaseis",
+      "uds": "arrojasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese arrojado",
+      "tu": "hubieses arrojado",
+      "ud": "hubiese arrojado",
+      "nosotros": "hubiésemos arrojado",
+      "vosotros": "hubieseis arrojado",
+      "uds": "hubiesen arrojado"
+    }
+  },
+  "afirmativo": {
+    "tu": "arroja",
+    "vosotros": "arrojad",
+    "ud": "arroje",
+    "uds": "arrojen"
+  },
+  "negativo": {
+    "tu": "no arrojes",
+    "vosotros": "no arrojéis",
+    "ud": "no arroje",
+    "uds": "no arrojen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to throw, hurl, cast, toss",
+    "gerundio": "throwing",
+    "participioPasado": "thrown",
+    "indicativo": {
+      "presente": "I throw, am throwing",
+      "futuro": "I will throw",
+      "imperfecto": "I was throwing, used to throw, threw",
+      "preterito": "I threw",
+      "condicional": "I would throw",
+      "presentePerfecto": "I have thrown",
+      "futuroPerfecto": "I will have thrown",
+      "pluscuamperfecto": "I had thrown",
+      "preteritoAnterior": "I had thrown",
+      "condicionalPerfecto": "I would have thrown"
+    },
+    "subjuntivo": {
+      "presente": "I throw, am throwing",
+      "imperfecto": "I threw, was throwing",
+      "futuro": "I will throw",
+      "presentePerfecto": "I have thrown, threw",
+      "futuroPerfecto": "I will have thrown",
+      "pluscuamperfecto": "I had thrown"
+    },
+    "afirmativo": "Throw!",
+    "negativo": "Don't throw!"
+  },
+  "attribution": "Fred Jehle"
+}

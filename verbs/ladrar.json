@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "ladrar",
+  "gerundio": "ladrando",
+  "participioPasado": "ladrado",
+  "indicativo": {
+    "presente": {
+      "yo": "ladro",
+      "tu": "ladras",
+      "ud": "ladra",
+      "nosotros": "ladramos",
+      "vosotros": "ladráis",
+      "uds": "ladran"
+    },
+    "futuro": {
+      "yo": "ladraré",
+      "tu": "ladrarás",
+      "ud": "ladrará",
+      "nosotros": "ladraremos",
+      "vosotros": "ladraréis",
+      "uds": "ladrarán"
+    },
+    "imperfecto": {
+      "yo": "ladraba",
+      "tu": "ladrabas",
+      "ud": "ladraba",
+      "nosotros": "ladrábamos",
+      "vosotros": "ladrabais",
+      "uds": "ladraban"
+    },
+    "preterito": {
+      "yo": "ladré",
+      "tu": "ladraste",
+      "ud": "ladró",
+      "nosotros": "ladramos",
+      "vosotros": "ladrasteis",
+      "uds": "ladraron"
+    },
+    "condicional": {
+      "yo": "ladraría",
+      "tu": "ladrarías",
+      "ud": "ladraría",
+      "nosotros": "ladraríamos",
+      "vosotros": "ladraríais",
+      "uds": "ladrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he ladrado",
+      "tu": "has ladrado",
+      "ud": "ha ladrado",
+      "nosotros": "hemos ladrado",
+      "vosotros": "habéis ladrado",
+      "uds": "han ladrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ladrado",
+      "tu": "habrás ladrado",
+      "ud": "habrá ladrado",
+      "nosotros": "habremos ladrado",
+      "vosotros": "habréis ladrado",
+      "uds": "habrán ladrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ladrado",
+      "tu": "habías ladrado",
+      "ud": "había ladrado",
+      "nosotros": "habíamos ladrado",
+      "vosotros": "habíais ladrado",
+      "uds": "habían ladrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ladrado",
+      "tu": "hubiste ladrado",
+      "ud": "hubo ladrado",
+      "nosotros": "hubimos ladrado",
+      "vosotros": "hubisteis ladrado",
+      "uds": "hubieron ladrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ladrado",
+      "tu": "habrías ladrado",
+      "ud": "habría ladrado",
+      "nosotros": "habríamos ladrado",
+      "vosotros": "habríais ladrado",
+      "uds": "habrían ladrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ladre",
+      "tu": "ladres",
+      "ud": "ladre",
+      "nosotros": "ladremos",
+      "vosotros": "ladréis",
+      "uds": "ladren"
+    },
+    "imperfecto": {
+      "yo": "ladrara",
+      "tu": "ladraras",
+      "ud": "ladrara",
+      "nosotros": "ladráramos",
+      "vosotros": "ladrarais",
+      "uds": "ladraran"
+    },
+    "futuro": {
+      "yo": "ladrare",
+      "tu": "ladrares",
+      "ud": "ladrare",
+      "nosotros": "ladráremos",
+      "vosotros": "ladrareis",
+      "uds": "ladraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ladrado",
+      "tu": "hayas ladrado",
+      "ud": "haya ladrado",
+      "nosotros": "hayamos ladrado",
+      "vosotros": "hayáis ladrado",
+      "uds": "hayan ladrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ladrado",
+      "tu": "hubieres ladrado",
+      "ud": "hubiere ladrado",
+      "nosotros": "hubiéremos ladrado",
+      "vosotros": "hubiereis ladrado",
+      "uds": "hubieren ladrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ladrado",
+      "tu": "hubieras ladrado",
+      "ud": "hubiera ladrado",
+      "nosotros": "hubiéramos ladrado",
+      "vosotros": "hubierais ladrado",
+      "uds": "hubieran ladrado"
+    },
+    "imperfectoAlt": {
+      "yo": "ladrase",
+      "tu": "ladrases",
+      "ud": "ladrase",
+      "nosotros": "ladrásemos",
+      "vosotros": "ladraseis",
+      "uds": "ladrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ladrado",
+      "tu": "hubieses ladrado",
+      "ud": "hubiese ladrado",
+      "nosotros": "hubiésemos ladrado",
+      "vosotros": "hubieseis ladrado",
+      "uds": "hubiesen ladrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "ladra",
+    "vosotros": "ladrad",
+    "ud": "ladre",
+    "uds": "ladren"
+  },
+  "negativo": {
+    "tu": "no ladres",
+    "vosotros": "no ladréis",
+    "ud": "no ladre",
+    "uds": "no ladren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to bark",
+    "gerundio": "barking",
+    "participioPasado": "barked",
+    "indicativo": {
+      "presente": "I bark, am barking",
+      "futuro": "I will bark",
+      "imperfecto": "I was barking, used to bark, barked",
+      "preterito": "I barked",
+      "condicional": "I would bark",
+      "presentePerfecto": "I have barked",
+      "futuroPerfecto": "I will have barked",
+      "pluscuamperfecto": "I had barked",
+      "preteritoAnterior": "I had barked",
+      "condicionalPerfecto": "I would have barked"
+    },
+    "subjuntivo": {
+      "presente": "I bark, am barking",
+      "imperfecto": "I barked, was barking",
+      "futuro": "I will bark",
+      "presentePerfecto": "I have barked, barked",
+      "futuroPerfecto": "I will have barked",
+      "pluscuamperfecto": "I had barked"
+    },
+    "afirmativo": "Bark!",
+    "negativo": "Don't bark!"
+  },
+  "attribution": "Fred Jehle"
+}

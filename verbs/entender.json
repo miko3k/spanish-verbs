@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "entender",
+  "gerundio": "entendiendo",
+  "participioPasado": "entendido",
+  "indicativo": {
+    "presente": {
+      "yo": "entiendo",
+      "tu": "entiendes",
+      "ud": "entiende",
+      "nosotros": "entendemos",
+      "vosotros": "entendéis",
+      "uds": "entienden"
+    },
+    "futuro": {
+      "yo": "entenderé",
+      "tu": "entenderás",
+      "ud": "entenderá",
+      "nosotros": "entenderemos",
+      "vosotros": "entenderéis",
+      "uds": "entenderán"
+    },
+    "imperfecto": {
+      "yo": "entendía",
+      "tu": "entendías",
+      "ud": "entendía",
+      "nosotros": "entendíamos",
+      "vosotros": "entendíais",
+      "uds": "entendían"
+    },
+    "preterito": {
+      "yo": "entendí",
+      "tu": "entendiste",
+      "ud": "entendió",
+      "nosotros": "entendimos",
+      "vosotros": "entendisteis",
+      "uds": "entendieron"
+    },
+    "condicional": {
+      "yo": "entendería",
+      "tu": "entenderías",
+      "ud": "entendería",
+      "nosotros": "entenderíamos",
+      "vosotros": "entenderíais",
+      "uds": "entenderían"
+    },
+    "presentePerfecto": {
+      "yo": "he entendido",
+      "tu": "has entendido",
+      "ud": "ha entendido",
+      "nosotros": "hemos entendido",
+      "vosotros": "habéis entendido",
+      "uds": "han entendido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré entendido",
+      "tu": "habrás entendido",
+      "ud": "habrá entendido",
+      "nosotros": "habremos entendido",
+      "vosotros": "habréis entendido",
+      "uds": "habrán entendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había entendido",
+      "tu": "habías entendido",
+      "ud": "había entendido",
+      "nosotros": "habíamos entendido",
+      "vosotros": "habíais entendido",
+      "uds": "habían entendido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube entendido",
+      "tu": "hubiste entendido",
+      "ud": "hubo entendido",
+      "nosotros": "hubimos entendido",
+      "vosotros": "hubisteis entendido",
+      "uds": "hubieron entendido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría entendido",
+      "tu": "habrías entendido",
+      "ud": "habría entendido",
+      "nosotros": "habríamos entendido",
+      "vosotros": "habríais entendido",
+      "uds": "habrían entendido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "entienda",
+      "tu": "entiendas",
+      "ud": "entienda",
+      "nosotros": "entendamos",
+      "vosotros": "entendáis",
+      "uds": "entiendan"
+    },
+    "imperfecto": {
+      "yo": "entendiera",
+      "tu": "entendieras",
+      "ud": "entendiera",
+      "nosotros": "entendiéramos",
+      "vosotros": "entendierais",
+      "uds": "entendieran"
+    },
+    "futuro": {
+      "yo": "entendiere",
+      "tu": "entendieres",
+      "ud": "entendiere",
+      "nosotros": "entendiéremos",
+      "vosotros": "entendiereis",
+      "uds": "entendieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya entendido",
+      "tu": "hayas entendido",
+      "ud": "haya entendido",
+      "nosotros": "hayamos entendido",
+      "vosotros": "hayáis entendido",
+      "uds": "hayan entendido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere entendido",
+      "tu": "hubieres entendido",
+      "ud": "hubiere entendido",
+      "nosotros": "hubiéremos entendido",
+      "vosotros": "hubiereis entendido",
+      "uds": "hubieren entendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera entendido",
+      "tu": "hubieras entendido",
+      "ud": "hubiera entendido",
+      "nosotros": "hubiéramos entendido",
+      "vosotros": "hubierais entendido",
+      "uds": "hubieran entendido"
+    },
+    "imperfectoAlt": {
+      "yo": "entendiese",
+      "tu": "entendieses",
+      "ud": "entendiese",
+      "nosotros": "entendiésemos",
+      "vosotros": "entendieseis",
+      "uds": "entendiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese entendido",
+      "tu": "hubieses entendido",
+      "ud": "hubiese entendido",
+      "nosotros": "hubiésemos entendido",
+      "vosotros": "hubieseis entendido",
+      "uds": "hubiesen entendido"
+    }
+  },
+  "afirmativo": {
+    "tu": "entiende",
+    "vosotros": "entended",
+    "ud": "entienda",
+    "uds": "entiendan"
+  },
+  "negativo": {
+    "tu": "no entiendas",
+    "vosotros": "no entendáis",
+    "ud": "no entienda",
+    "uds": "no entiendan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa.",
+    "infinitivo": "to understand",
+    "gerundio": "understanding",
+    "participioPasado": "understood",
+    "indicativo": {
+      "presente": "I understand, am understanding",
+      "futuro": "I will understand",
+      "imperfecto": "I was understanding, used to understand, understood",
+      "preterito": "I understood",
+      "condicional": "I would understand",
+      "presentePerfecto": "I have understood",
+      "futuroPerfecto": "I will have understood",
+      "pluscuamperfecto": "I had understood",
+      "preteritoAnterior": "I had understood",
+      "condicionalPerfecto": "I would have understood"
+    },
+    "subjuntivo": {
+      "presente": "I understand, am understanding",
+      "imperfecto": "I understood, was understanding",
+      "futuro": "I will understand",
+      "presentePerfecto": "I have understood, understood",
+      "futuroPerfecto": "I will have understood",
+      "pluscuamperfecto": "I had understood"
+    },
+    "afirmativo": "Understand!",
+    "negativo": "Don't understand!"
+  },
+  "attribution": "Fred Jehle"
+}

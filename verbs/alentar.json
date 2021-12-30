@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "alentar",
+  "gerundio": "alentando",
+  "participioPasado": "alentado",
+  "indicativo": {
+    "presente": {
+      "yo": "aliento",
+      "tu": "alientas",
+      "ud": "alienta",
+      "nosotros": "alentamos",
+      "vosotros": "alentáis",
+      "uds": "alientan"
+    },
+    "futuro": {
+      "yo": "alentaré",
+      "tu": "alentarás",
+      "ud": "alentará",
+      "nosotros": "alentaremos",
+      "vosotros": "alentaréis",
+      "uds": "alentarán"
+    },
+    "imperfecto": {
+      "yo": "alentaba",
+      "tu": "alentabas",
+      "ud": "alentaba",
+      "nosotros": "alentábamos",
+      "vosotros": "alentabais",
+      "uds": "alentaban"
+    },
+    "preterito": {
+      "yo": "alenté",
+      "tu": "alentaste",
+      "ud": "alentó",
+      "nosotros": "alentamos",
+      "vosotros": "alentasteis",
+      "uds": "alentaron"
+    },
+    "condicional": {
+      "yo": "alentaría",
+      "tu": "alentarías",
+      "ud": "alentaría",
+      "nosotros": "alentaríamos",
+      "vosotros": "alentaríais",
+      "uds": "alentarían"
+    },
+    "presentePerfecto": {
+      "yo": "he alentado",
+      "tu": "has alentado",
+      "ud": "ha alentado",
+      "nosotros": "hemos alentado",
+      "vosotros": "habéis alentado",
+      "uds": "han alentado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré alentado",
+      "tu": "habrás alentado",
+      "ud": "habrá alentado",
+      "nosotros": "habremos alentado",
+      "vosotros": "habréis alentado",
+      "uds": "habrán alentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había alentado",
+      "tu": "habías alentado",
+      "ud": "había alentado",
+      "nosotros": "habíamos alentado",
+      "vosotros": "habíais alentado",
+      "uds": "habían alentado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube alentado",
+      "tu": "hubiste alentado",
+      "ud": "hubo alentado",
+      "nosotros": "hubimos alentado",
+      "vosotros": "hubisteis alentado",
+      "uds": "hubieron alentado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría alentado",
+      "tu": "habrías alentado",
+      "ud": "habría alentado",
+      "nosotros": "habríamos alentado",
+      "vosotros": "habríais alentado",
+      "uds": "habrían alentado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aliente",
+      "tu": "alientes",
+      "ud": "aliente",
+      "nosotros": "alentemos",
+      "vosotros": "alentéis",
+      "uds": "alienten"
+    },
+    "imperfecto": {
+      "yo": "alentara",
+      "tu": "alentaras",
+      "ud": "alentara",
+      "nosotros": "alentáramos",
+      "vosotros": "alentarais",
+      "uds": "alentaran"
+    },
+    "futuro": {
+      "yo": "alentare",
+      "tu": "alentares",
+      "ud": "alentare",
+      "nosotros": "alentáremos",
+      "vosotros": "alentareis",
+      "uds": "alentaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya alentado",
+      "tu": "hayas alentado",
+      "ud": "haya alentado",
+      "nosotros": "hayamos alentado",
+      "vosotros": "hayáis alentado",
+      "uds": "hayan alentado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere alentado",
+      "tu": "hubieres alentado",
+      "ud": "hubiere alentado",
+      "nosotros": "hubiéremos alentado",
+      "vosotros": "hubiereis alentado",
+      "uds": "hubieren alentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera alentado",
+      "tu": "hubieras alentado",
+      "ud": "hubiera alentado",
+      "nosotros": "hubiéramos alentado",
+      "vosotros": "hubierais alentado",
+      "uds": "hubieran alentado"
+    },
+    "imperfectoAlt": {
+      "yo": "alentase",
+      "tu": "alentases",
+      "ud": "alentase",
+      "nosotros": "alentásemos",
+      "vosotros": "alentaseis",
+      "uds": "alentasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese alentado",
+      "tu": "hubieses alentado",
+      "ud": "hubiese alentado",
+      "nosotros": "hubiésemos alentado",
+      "vosotros": "hubieseis alentado",
+      "uds": "hubiesen alentado"
+    }
+  },
+  "afirmativo": {
+    "tu": "alienta",
+    "vosotros": "alentad",
+    "ud": "aliente",
+    "uds": "alienten"
+  },
+  "negativo": {
+    "tu": "no alientes",
+    "vosotros": "no alentéis",
+    "ud": "no aliente",
+    "uds": "no alienten"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa.",
+    "infinitivo": "to encourage, cheer, inspire, bolster up",
+    "gerundio": "encouraging",
+    "participioPasado": "encouraged",
+    "indicativo": {
+      "presente": "I encourage, am encouraging",
+      "futuro": "I will encourage",
+      "imperfecto": "I was encouraging, used to encourage, encouraged",
+      "preterito": "I encouraged",
+      "condicional": "I would encourage",
+      "presentePerfecto": "I have encouraged",
+      "futuroPerfecto": "I will have encouraged",
+      "pluscuamperfecto": "I had encouraged",
+      "preteritoAnterior": "I had encouraged",
+      "condicionalPerfecto": "I would have encouraged"
+    },
+    "subjuntivo": {
+      "presente": "I encourage, am encouraging",
+      "imperfecto": "I encouraged, was encouraging",
+      "futuro": "I will encourage",
+      "presentePerfecto": "I have encouraged, encouraged",
+      "futuroPerfecto": "I will have encouraged",
+      "pluscuamperfecto": "I had encouraged"
+    },
+    "afirmativo": "Encourage!",
+    "negativo": "Don't encourage!"
+  },
+  "attribution": "Fred Jehle"
+}

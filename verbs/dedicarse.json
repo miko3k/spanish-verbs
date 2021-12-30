@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "dedicarse",
+  "gerundio": "dedicándose",
+  "participioPasado": "dedicado",
+  "indicativo": {
+    "presente": {
+      "yo": "me dedico",
+      "tu": "te dedicas",
+      "ud": "se dedica",
+      "nosotros": "nos dedicamos",
+      "vosotros": "os dedicáis",
+      "uds": "se dedican"
+    },
+    "futuro": {
+      "yo": "me dedicaré",
+      "tu": "te dedicarás",
+      "ud": "se dedicará",
+      "nosotros": "nos dedicaremos",
+      "vosotros": "os dedicaréis",
+      "uds": "se dedicarán"
+    },
+    "imperfecto": {
+      "yo": "me dedicaba",
+      "tu": "te dedicabas",
+      "ud": "se dedicaba",
+      "nosotros": "nos dedicábamos",
+      "vosotros": "os dedicabais",
+      "uds": "se dedicaban"
+    },
+    "preterito": {
+      "yo": "me dediqué",
+      "tu": "te dedicaste",
+      "ud": "se dedicó",
+      "nosotros": "nos dedicamos",
+      "vosotros": "os dedicasteis",
+      "uds": "se dedicaron"
+    },
+    "condicional": {
+      "yo": "me dedicaría",
+      "tu": "te dedicarías",
+      "ud": "se dedicaría",
+      "nosotros": "nos dedicaríamos",
+      "vosotros": "os dedicaríais",
+      "uds": "se dedicarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he dedicado",
+      "tu": "te has dedicado",
+      "ud": "se ha dedicado",
+      "nosotros": "nos hemos dedicado",
+      "vosotros": "os habéis dedicado",
+      "uds": "se han dedicado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré dedicado",
+      "tu": "te habrás dedicado",
+      "ud": "se habrá dedicado",
+      "nosotros": "nos habremos dedicado",
+      "vosotros": "os habréis dedicado",
+      "uds": "se habrán dedicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había dedicado",
+      "tu": "te habías dedicado",
+      "ud": "se había dedicado",
+      "nosotros": "nos habíamos dedicado",
+      "vosotros": "os habíais dedicado",
+      "uds": "se habían dedicado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube dedicado",
+      "tu": "te hubiste dedicado",
+      "ud": "se hubo dedicado",
+      "nosotros": "nos hubimos dedicado",
+      "vosotros": "os hubisteis dedicado",
+      "uds": "se hubieron dedicado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría dedicado",
+      "tu": "te habrías dedicado",
+      "ud": "se habría dedicado",
+      "nosotros": "nos habríamos dedicado",
+      "vosotros": "os habríais dedicado",
+      "uds": "se habrían dedicado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me dedique",
+      "tu": "te dediques",
+      "ud": "se dedique",
+      "nosotros": "nos dediquemos",
+      "vosotros": "os dediquéis",
+      "uds": "se dediquen"
+    },
+    "imperfecto": {
+      "yo": "me dedicara",
+      "tu": "te dedicaras",
+      "ud": "se dedicara",
+      "nosotros": "nos dedicáramos",
+      "vosotros": "os dedicarais",
+      "uds": "se dedicaran"
+    },
+    "futuro": {
+      "yo": "me dedicare",
+      "tu": "te dedicares",
+      "ud": "se dedicare",
+      "nosotros": "nos dedicáremos",
+      "vosotros": "os dedicareis",
+      "uds": "se dedicaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya dedicado",
+      "tu": "te hayas dedicado",
+      "ud": "se haya dedicado",
+      "nosotros": "nos hayamos dedicado",
+      "vosotros": "os hayáis dedicado",
+      "uds": "se hayan dedicado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere dedicado",
+      "tu": "te hubieres dedicado",
+      "ud": "se hubiere dedicado",
+      "nosotros": "nos hubiéremos dedicado",
+      "vosotros": "os hubiereis dedicado",
+      "uds": "se hubieren dedicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera dedicado",
+      "tu": "te hubieras dedicado",
+      "ud": "se hubiera dedicado",
+      "nosotros": "nos hubiéramos dedicado",
+      "vosotros": "os hubierais dedicado",
+      "uds": "se hubieran dedicado"
+    },
+    "imperfectoAlt": {
+      "yo": "me dedicase",
+      "tu": "te dedicases",
+      "ud": "se dedicase",
+      "nosotros": "nos dedicásemos",
+      "vosotros": "os dedicaseis",
+      "uds": "se dedicasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese dedicado",
+      "tu": "te hubieses dedicado",
+      "ud": "se hubiese dedicado",
+      "nosotros": "nos hubiésemos dedicado",
+      "vosotros": "os hubieseis dedicado",
+      "uds": "se hubiesen dedicado"
+    }
+  },
+  "afirmativo": {
+    "tu": "dedícate",
+    "vosotros": "dedicaos",
+    "ud": "dedíquese",
+    "uds": "dedíquense"
+  },
+  "negativo": {
+    "tu": "no te dediques",
+    "vosotros": "no os dediquéis",
+    "ud": "no se dedique",
+    "uds": "no se dediquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to devote oneself, dedicate oneself, go in for, take up (carrer/interest in something)",
+    "gerundio": "devoting oneself",
+    "participioPasado": "devoted",
+    "indicativo": {
+      "presente": "I devote myself, am devoting myself",
+      "futuro": "I will devote myself",
+      "imperfecto": "I was devoting myself, used to devote myself, devoted myself",
+      "preterito": "I devoted myself",
+      "condicional": "I would devote myself",
+      "presentePerfecto": "I have devoted myself",
+      "futuroPerfecto": "I will have devoted myself",
+      "pluscuamperfecto": "I had devoted myself",
+      "preteritoAnterior": "I had devoted myself",
+      "condicionalPerfecto": "I would have devoted myself"
+    },
+    "subjuntivo": {
+      "presente": "I devote myself, am devoting myself",
+      "imperfecto": "I devoted myself, was devoting myself",
+      "futuro": "I will devote myself",
+      "presentePerfecto": "I have devoted myself, devoted myself",
+      "futuroPerfecto": "I will have devoted myself",
+      "pluscuamperfecto": "I had devoted myself"
+    },
+    "afirmativo": "Devote yourself!",
+    "negativo": "Don't devote yourself!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "despertarse",
+  "gerundio": "despertándose",
+  "participioPasado": "despertado",
+  "indicativo": {
+    "presente": {
+      "yo": "me despierto",
+      "tu": "te despiertas",
+      "ud": "se despierta",
+      "nosotros": "nos despertamos",
+      "vosotros": "os despertáis",
+      "uds": "se despiertan"
+    },
+    "futuro": {
+      "yo": "me despertaré",
+      "tu": "te despertarás",
+      "ud": "se despertará",
+      "nosotros": "nos despertaremos",
+      "vosotros": "os despertaréis",
+      "uds": "se despertarán"
+    },
+    "imperfecto": {
+      "yo": "me despertaba",
+      "tu": "te despertabas",
+      "ud": "se despertaba",
+      "nosotros": "nos despertábamos",
+      "vosotros": "os despertabais",
+      "uds": "se despertaban"
+    },
+    "preterito": {
+      "yo": "me desperté",
+      "tu": "te despertaste",
+      "ud": "se despertó",
+      "nosotros": "nos despertamos",
+      "vosotros": "os despertasteis",
+      "uds": "se despertaron"
+    },
+    "condicional": {
+      "yo": "me despertaría",
+      "tu": "te despertarías",
+      "ud": "se despertaría",
+      "nosotros": "nos despertaríamos",
+      "vosotros": "os despertaríais",
+      "uds": "se despertarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he despertado",
+      "tu": "te has despertado",
+      "ud": "se ha despertado",
+      "nosotros": "nos hemos despertado",
+      "vosotros": "os habéis despertado",
+      "uds": "se han despertado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré despertado",
+      "tu": "te habrás despertado",
+      "ud": "se habrá despertado",
+      "nosotros": "nos habremos despertado",
+      "vosotros": "os habréis despertado",
+      "uds": "se habrán despertado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había despertado",
+      "tu": "te habías despertado",
+      "ud": "se había despertado",
+      "nosotros": "nos habíamos despertado",
+      "vosotros": "os habíais despertado",
+      "uds": "se habían despertado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube despertado",
+      "tu": "te hubiste despertado",
+      "ud": "se hubo despertado",
+      "nosotros": "nos hubimos despertado",
+      "vosotros": "os hubisteis despertado",
+      "uds": "se hubieron despertado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría despertado",
+      "tu": "te habrías despertado",
+      "ud": "se habría despertado",
+      "nosotros": "nos habríamos despertado",
+      "vosotros": "os habríais despertado",
+      "uds": "se habrían despertado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me despierte",
+      "tu": "te despiertes",
+      "ud": "se despierte",
+      "nosotros": "nos despertemos",
+      "vosotros": "os despertéis",
+      "uds": "se despierten"
+    },
+    "imperfecto": {
+      "yo": "me despertara",
+      "tu": "te despertaras",
+      "ud": "se despertara",
+      "nosotros": "nos despertáramos",
+      "vosotros": "os despertarais",
+      "uds": "se despertaran"
+    },
+    "futuro": {
+      "yo": "me despertare",
+      "tu": "te despertares",
+      "ud": "se despertare",
+      "nosotros": "nos despertáremos",
+      "vosotros": "os despertareis",
+      "uds": "se despertaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya despertado",
+      "tu": "te hayas despertado",
+      "ud": "se haya despertado",
+      "nosotros": "nos hayamos despertado",
+      "vosotros": "os hayáis despertado",
+      "uds": "se hayan despertado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere despertado",
+      "tu": "te hubieres despertado",
+      "ud": "se hubiere despertado",
+      "nosotros": "nos hubiéremos despertado",
+      "vosotros": "os hubiereis despertado",
+      "uds": "se hubieren despertado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera despertado",
+      "tu": "te hubieras despertado",
+      "ud": "se hubiera despertado",
+      "nosotros": "nos hubiéramos despertado",
+      "vosotros": "os hubierais despertado",
+      "uds": "se hubieran despertado"
+    },
+    "imperfectoAlt": {
+      "yo": "me despertase",
+      "tu": "te despertases",
+      "ud": "se despertase",
+      "nosotros": "nos despertásemos",
+      "vosotros": "os despertaseis",
+      "uds": "se despertasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese despertado",
+      "tu": "te hubieses despertado",
+      "ud": "se hubiese despertado",
+      "nosotros": "nos hubiésemos despertado",
+      "vosotros": "os hubieseis despertado",
+      "uds": "se hubiesen despertado"
+    }
+  },
+  "afirmativo": {
+    "tu": "despiértate",
+    "vosotros": "despertaos",
+    "ud": "despiértese",
+    "uds": "despiértense"
+  },
+  "negativo": {
+    "tu": "no te despiertes",
+    "vosotros": "no os despertéis",
+    "ud": "no se despierte",
+    "uds": "no se despierten"
+  },
+  "english": {
+    "note": "Cambio radical: i > ie cuando se acentúa. Note: The nonreflexive form despertar means to wake (someone else) up.",
+    "infinitivo": "to wake up, lie down",
+    "gerundio": "waking up",
+    "participioPasado": "waken up",
+    "indicativo": {
+      "presente": "I wake up, am waking up",
+      "futuro": "I will wake up",
+      "imperfecto": "I was waking up, used to wake up, woke up",
+      "preterito": "I woke up",
+      "condicional": "I would wake up",
+      "presentePerfecto": "I have waken up",
+      "futuroPerfecto": "I will have waken up",
+      "pluscuamperfecto": "I had waken up",
+      "preteritoAnterior": "I had waken up",
+      "condicionalPerfecto": "I would have waken up"
+    },
+    "subjuntivo": {
+      "presente": "I wake up, am waking up",
+      "imperfecto": "I woke up, was waking up",
+      "futuro": "I will wake up",
+      "presentePerfecto": "I have waken up, woke up",
+      "futuroPerfecto": "I will have waken up",
+      "pluscuamperfecto": "I had waken up"
+    },
+    "afirmativo": "Wake up!",
+    "negativo": "Don't wake up!"
+  },
+  "attribution": "Fred Jehle"
+}

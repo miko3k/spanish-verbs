@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "rechazar",
+  "gerundio": "rechazando",
+  "participioPasado": "rechazado",
+  "indicativo": {
+    "presente": {
+      "yo": "rechazo",
+      "tu": "rechazas",
+      "ud": "rechaza",
+      "nosotros": "rechazamos",
+      "vosotros": "rechazáis",
+      "uds": "rechazan"
+    },
+    "futuro": {
+      "yo": "rechazaré",
+      "tu": "rechazarás",
+      "ud": "rechazará",
+      "nosotros": "rechazaremos",
+      "vosotros": "rechazaréis",
+      "uds": "rechazarán"
+    },
+    "imperfecto": {
+      "yo": "rechazaba",
+      "tu": "rechazabas",
+      "ud": "rechazaba",
+      "nosotros": "rechazábamos",
+      "vosotros": "rechazabais",
+      "uds": "rechazaban"
+    },
+    "preterito": {
+      "yo": "rechacé",
+      "tu": "rechazaste",
+      "ud": "rechazó",
+      "nosotros": "rechazamos",
+      "vosotros": "rechazasteis",
+      "uds": "rechazaron"
+    },
+    "condicional": {
+      "yo": "rechazaría",
+      "tu": "rechazarías",
+      "ud": "rechazaría",
+      "nosotros": "rechazaríamos",
+      "vosotros": "rechazaríais",
+      "uds": "rechazarían"
+    },
+    "presentePerfecto": {
+      "yo": "he rechazado",
+      "tu": "has rechazado",
+      "ud": "ha rechazado",
+      "nosotros": "hemos rechazado",
+      "vosotros": "habéis rechazado",
+      "uds": "han rechazado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré rechazado",
+      "tu": "habrás rechazado",
+      "ud": "habrá rechazado",
+      "nosotros": "habremos rechazado",
+      "vosotros": "habréis rechazado",
+      "uds": "habrán rechazado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había rechazado",
+      "tu": "habías rechazado",
+      "ud": "había rechazado",
+      "nosotros": "habíamos rechazado",
+      "vosotros": "habíais rechazado",
+      "uds": "habían rechazado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube rechazado",
+      "tu": "hubiste rechazado",
+      "ud": "hubo rechazado",
+      "nosotros": "hubimos rechazado",
+      "vosotros": "hubisteis rechazado",
+      "uds": "hubieron rechazado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría rechazado",
+      "tu": "habrías rechazado",
+      "ud": "habría rechazado",
+      "nosotros": "habríamos rechazado",
+      "vosotros": "habríais rechazado",
+      "uds": "habrían rechazado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "rechace",
+      "tu": "rechaces",
+      "ud": "rechace",
+      "nosotros": "rechacemos",
+      "vosotros": "rechacéis",
+      "uds": "rechacen"
+    },
+    "imperfecto": {
+      "yo": "rechazara",
+      "tu": "rechazaras",
+      "ud": "rechazara",
+      "nosotros": "rechazáramos",
+      "vosotros": "rechazarais",
+      "uds": "rechazaran"
+    },
+    "futuro": {
+      "yo": "rechazare",
+      "tu": "rechazares",
+      "ud": "rechazare",
+      "nosotros": "rechazáremos",
+      "vosotros": "rechazareis",
+      "uds": "rechazaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya rechazado",
+      "tu": "hayas rechazado",
+      "ud": "haya rechazado",
+      "nosotros": "hayamos rechazado",
+      "vosotros": "hayáis rechazado",
+      "uds": "hayan rechazado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere rechazado",
+      "tu": "hubieres rechazado",
+      "ud": "hubiere rechazado",
+      "nosotros": "hubiéremos rechazado",
+      "vosotros": "hubiereis rechazado",
+      "uds": "hubieren rechazado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera rechazado",
+      "tu": "hubieras rechazado",
+      "ud": "hubiera rechazado",
+      "nosotros": "hubiéramos rechazado",
+      "vosotros": "hubierais rechazado",
+      "uds": "hubieran rechazado"
+    },
+    "imperfectoAlt": {
+      "yo": "rechazase",
+      "tu": "rechazases",
+      "ud": "rechazase",
+      "nosotros": "rechazásemos",
+      "vosotros": "rechazaseis",
+      "uds": "rechazasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese rechazado",
+      "tu": "hubieses rechazado",
+      "ud": "hubiese rechazado",
+      "nosotros": "hubiésemos rechazado",
+      "vosotros": "hubieseis rechazado",
+      "uds": "hubiesen rechazado"
+    }
+  },
+  "afirmativo": {
+    "tu": "rechaza",
+    "vosotros": "rechazad",
+    "ud": "rechace",
+    "uds": "rechacen"
+  },
+  "negativo": {
+    "tu": "no rechaces",
+    "vosotros": "no rechacéis",
+    "ud": "no rechace",
+    "uds": "no rechacen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to reject; to push back, repel",
+    "gerundio": "rejecting",
+    "participioPasado": "rejected",
+    "indicativo": {
+      "presente": "I reject, am rejecting",
+      "futuro": "I will reject",
+      "imperfecto": "I was rejecting, used to reject, rejected",
+      "preterito": "I rejected",
+      "condicional": "I would reject",
+      "presentePerfecto": "I have rejected",
+      "futuroPerfecto": "I will have rejected",
+      "pluscuamperfecto": "I had rejected",
+      "preteritoAnterior": "I had rejected",
+      "condicionalPerfecto": "I would have rejected"
+    },
+    "subjuntivo": {
+      "presente": "I reject, am rejecting",
+      "imperfecto": "I rejected, was rejecting",
+      "futuro": "I will reject",
+      "presentePerfecto": "I have rejected, rejected",
+      "futuroPerfecto": "I will have rejected",
+      "pluscuamperfecto": "I had rejected"
+    },
+    "afirmativo": "Reject!",
+    "negativo": "Don't reject!"
+  },
+  "attribution": "Fred Jehle"
+}

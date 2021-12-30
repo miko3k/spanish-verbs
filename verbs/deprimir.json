@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "deprimir",
+  "gerundio": "deprimiendo",
+  "participioPasado": "deprimido",
+  "indicativo": {
+    "presente": {
+      "yo": "deprimo",
+      "tu": "deprimes",
+      "ud": "deprime",
+      "nosotros": "deprimimos",
+      "vosotros": "deprimís",
+      "uds": "deprimen"
+    },
+    "futuro": {
+      "yo": "deprimiré",
+      "tu": "deprimirás",
+      "ud": "deprimirá",
+      "nosotros": "deprimiremos",
+      "vosotros": "deprimiréis",
+      "uds": "deprimirán"
+    },
+    "imperfecto": {
+      "yo": "deprimía",
+      "tu": "deprimías",
+      "ud": "deprimía",
+      "nosotros": "deprimíamos",
+      "vosotros": "deprimíais",
+      "uds": "deprimían"
+    },
+    "preterito": {
+      "yo": "deprimí",
+      "tu": "deprimiste",
+      "ud": "deprimió",
+      "nosotros": "deprimimos",
+      "vosotros": "deprimisteis",
+      "uds": "deprimieron"
+    },
+    "condicional": {
+      "yo": "deprimiría",
+      "tu": "deprimirías",
+      "ud": "deprimiría",
+      "nosotros": "deprimiríamos",
+      "vosotros": "deprimiríais",
+      "uds": "deprimirían"
+    },
+    "presentePerfecto": {
+      "yo": "he deprimido",
+      "tu": "has deprimido",
+      "ud": "ha deprimido",
+      "nosotros": "hemos deprimido",
+      "vosotros": "habéis deprimido",
+      "uds": "han deprimido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré deprimido",
+      "tu": "habrás deprimido",
+      "ud": "habrá deprimido",
+      "nosotros": "habremos deprimido",
+      "vosotros": "habréis deprimido",
+      "uds": "habrán deprimido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había deprimido",
+      "tu": "habías deprimido",
+      "ud": "había deprimido",
+      "nosotros": "habíamos deprimido",
+      "vosotros": "habíais deprimido",
+      "uds": "habían deprimido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube deprimido",
+      "tu": "hubiste deprimido",
+      "ud": "hubo deprimido",
+      "nosotros": "hubimos deprimido",
+      "vosotros": "hubisteis deprimido",
+      "uds": "hubieron deprimido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría deprimido",
+      "tu": "habrías deprimido",
+      "ud": "habría deprimido",
+      "nosotros": "habríamos deprimido",
+      "vosotros": "habríais deprimido",
+      "uds": "habrían deprimido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "deprima",
+      "tu": "deprimas",
+      "ud": "deprima",
+      "nosotros": "deprimamos",
+      "vosotros": "deprimáis",
+      "uds": "depriman"
+    },
+    "imperfecto": {
+      "yo": "deprimiera",
+      "tu": "deprimieras",
+      "ud": "deprimiera",
+      "nosotros": "deprimiéramos",
+      "vosotros": "deprimierais",
+      "uds": "deprimieran"
+    },
+    "futuro": {
+      "yo": "deprimiere",
+      "tu": "deprimieres",
+      "ud": "deprimiere",
+      "nosotros": "deprimiéremos",
+      "vosotros": "deprimiereis",
+      "uds": "deprimieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya deprimido",
+      "tu": "hayas deprimido",
+      "ud": "haya deprimido",
+      "nosotros": "hayamos deprimido",
+      "vosotros": "hayáis deprimido",
+      "uds": "hayan deprimido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere deprimido",
+      "tu": "hubieres deprimido",
+      "ud": "hubiere deprimido",
+      "nosotros": "hubiéremos deprimido",
+      "vosotros": "hubiereis deprimido",
+      "uds": "hubieren deprimido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera deprimido",
+      "tu": "hubieras deprimido",
+      "ud": "hubiera deprimido",
+      "nosotros": "hubiéramos deprimido",
+      "vosotros": "hubierais deprimido",
+      "uds": "hubieran deprimido"
+    },
+    "imperfectoAlt": {
+      "yo": "deprimiese",
+      "tu": "deprimieses",
+      "ud": "deprimiese",
+      "nosotros": "deprimiésemos",
+      "vosotros": "deprimieseis",
+      "uds": "deprimiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese deprimido",
+      "tu": "hubieses deprimido",
+      "ud": "hubiese deprimido",
+      "nosotros": "hubiésemos deprimido",
+      "vosotros": "hubieseis deprimido",
+      "uds": "hubiesen deprimido"
+    }
+  },
+  "afirmativo": {
+    "tu": "deprime",
+    "vosotros": "deprimid",
+    "ud": "deprima",
+    "uds": "depriman"
+  },
+  "negativo": {
+    "tu": "no deprimas",
+    "vosotros": "no deprimáis",
+    "ud": "no deprima",
+    "uds": "no depriman"
+  },
+  "english": {
+    "note": "Note: Deprimir is also used to mean to depress mentally or emotionally.",
+    "infinitivo": "to depress, press down, flatten",
+    "gerundio": "depressing",
+    "participioPasado": "depressed",
+    "indicativo": {
+      "presente": "I depress, am depressing",
+      "futuro": "I will depress",
+      "imperfecto": "I was depressing, used to depress, depressed",
+      "preterito": "I depressed",
+      "condicional": "I would depress",
+      "presentePerfecto": "I have depressed",
+      "futuroPerfecto": "I will have depressed",
+      "pluscuamperfecto": "I had depressed",
+      "preteritoAnterior": "I had depressed",
+      "condicionalPerfecto": "I would have depressed"
+    },
+    "subjuntivo": {
+      "presente": "I depress, am depressing",
+      "imperfecto": "I depressed, was depressing",
+      "futuro": "I will depress",
+      "presentePerfecto": "I have depressed, depressed",
+      "futuroPerfecto": "I will have depressed",
+      "pluscuamperfecto": "I had depressed"
+    },
+    "afirmativo": "Depress!",
+    "negativo": "Don't depress!"
+  },
+  "attribution": "Fred Jehle"
+}

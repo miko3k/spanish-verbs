@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "mostrar",
+  "gerundio": "mostrando",
+  "participioPasado": "mostrado",
+  "indicativo": {
+    "presente": {
+      "yo": "muestro",
+      "tu": "muestras",
+      "ud": "muestra",
+      "nosotros": "mostramos",
+      "vosotros": "mostráis",
+      "uds": "muestran"
+    },
+    "futuro": {
+      "yo": "mostraré",
+      "tu": "mostrarás",
+      "ud": "mostrará",
+      "nosotros": "mostraremos",
+      "vosotros": "mostraréis",
+      "uds": "mostrarán"
+    },
+    "imperfecto": {
+      "yo": "mostraba",
+      "tu": "mostrabas",
+      "ud": "mostraba",
+      "nosotros": "mostrábamos",
+      "vosotros": "mostrabais",
+      "uds": "mostraban"
+    },
+    "preterito": {
+      "yo": "mostré",
+      "tu": "mostraste",
+      "ud": "mostró",
+      "nosotros": "mostramos",
+      "vosotros": "mostrasteis",
+      "uds": "mostraron"
+    },
+    "condicional": {
+      "yo": "mostraría",
+      "tu": "mostrarías",
+      "ud": "mostraría",
+      "nosotros": "mostraríamos",
+      "vosotros": "mostraríais",
+      "uds": "mostrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he mostrado",
+      "tu": "has mostrado",
+      "ud": "ha mostrado",
+      "nosotros": "hemos mostrado",
+      "vosotros": "habéis mostrado",
+      "uds": "han mostrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré mostrado",
+      "tu": "habrás mostrado",
+      "ud": "habrá mostrado",
+      "nosotros": "habremos mostrado",
+      "vosotros": "habréis mostrado",
+      "uds": "habrán mostrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había mostrado",
+      "tu": "habías mostrado",
+      "ud": "había mostrado",
+      "nosotros": "habíamos mostrado",
+      "vosotros": "habíais mostrado",
+      "uds": "habían mostrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube mostrado",
+      "tu": "hubiste mostrado",
+      "ud": "hubo mostrado",
+      "nosotros": "hubimos mostrado",
+      "vosotros": "hubisteis mostrado",
+      "uds": "hubieron mostrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría mostrado",
+      "tu": "habrías mostrado",
+      "ud": "habría mostrado",
+      "nosotros": "habríamos mostrado",
+      "vosotros": "habríais mostrado",
+      "uds": "habrían mostrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "muestre",
+      "tu": "muestres",
+      "ud": "muestre",
+      "nosotros": "mostremos",
+      "vosotros": "mostréis",
+      "uds": "muestren"
+    },
+    "imperfecto": {
+      "yo": "mostrara",
+      "tu": "mostraras",
+      "ud": "mostrara",
+      "nosotros": "mostráramos",
+      "vosotros": "mostrarais",
+      "uds": "mostraran"
+    },
+    "futuro": {
+      "yo": "mostrare",
+      "tu": "mostrares",
+      "ud": "mostrare",
+      "nosotros": "mostráremos",
+      "vosotros": "mostrareis",
+      "uds": "mostraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya mostrado",
+      "tu": "hayas mostrado",
+      "ud": "haya mostrado",
+      "nosotros": "hayamos mostrado",
+      "vosotros": "hayáis mostrado",
+      "uds": "hayan mostrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere mostrado",
+      "tu": "hubieres mostrado",
+      "ud": "hubiere mostrado",
+      "nosotros": "hubiéremos mostrado",
+      "vosotros": "hubiereis mostrado",
+      "uds": "hubieren mostrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera mostrado",
+      "tu": "hubieras mostrado",
+      "ud": "hubiera mostrado",
+      "nosotros": "hubiéramos mostrado",
+      "vosotros": "hubierais mostrado",
+      "uds": "hubieran mostrado"
+    },
+    "imperfectoAlt": {
+      "yo": "mostrase",
+      "tu": "mostrases",
+      "ud": "mostrase",
+      "nosotros": "mostrásemos",
+      "vosotros": "mostraseis",
+      "uds": "mostrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese mostrado",
+      "tu": "hubieses mostrado",
+      "ud": "hubiese mostrado",
+      "nosotros": "hubiésemos mostrado",
+      "vosotros": "hubieseis mostrado",
+      "uds": "hubiesen mostrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "muestra",
+    "vosotros": "mostrad",
+    "ud": "muestre",
+    "uds": "muestren"
+  },
+  "negativo": {
+    "tu": "no muestres",
+    "vosotros": "no mostréis",
+    "ud": "no muestre",
+    "uds": "no muestren"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa.",
+    "infinitivo": "to show",
+    "gerundio": "showing",
+    "participioPasado": "shown",
+    "indicativo": {
+      "presente": "I show, am showing",
+      "futuro": "I will show",
+      "imperfecto": "I was showing, used to show, showed",
+      "preterito": "I showed",
+      "condicional": "I would show",
+      "presentePerfecto": "I have shown",
+      "futuroPerfecto": "I will have shown",
+      "pluscuamperfecto": "I had shown",
+      "preteritoAnterior": "I had shown",
+      "condicionalPerfecto": "I would have shown"
+    },
+    "subjuntivo": {
+      "presente": "I show, am showing",
+      "imperfecto": "I showed, was showing",
+      "futuro": "I will show",
+      "presentePerfecto": "I have shown, showed",
+      "futuroPerfecto": "I will have shown",
+      "pluscuamperfecto": "I had shown"
+    },
+    "afirmativo": "Show!",
+    "negativo": "Don't show!"
+  },
+  "attribution": "Fred Jehle"
+}

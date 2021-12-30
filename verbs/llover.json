@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "llover",
+  "gerundio": "lloviendo",
+  "participioPasado": "llovido",
+  "indicativo": {
+    "presente": {
+      "yo": "lluevo",
+      "tu": "llueves",
+      "ud": "llueve",
+      "nosotros": "llovemos",
+      "vosotros": "llovéis",
+      "uds": "llueven"
+    },
+    "futuro": {
+      "yo": "lloveré",
+      "tu": "lloverás",
+      "ud": "lloverá",
+      "nosotros": "lloveremos",
+      "vosotros": "lloveréis",
+      "uds": "lloverán"
+    },
+    "imperfecto": {
+      "yo": "llovía",
+      "tu": "llovías",
+      "ud": "llovía",
+      "nosotros": "llovíamos",
+      "vosotros": "llovíais",
+      "uds": "llovían"
+    },
+    "preterito": {
+      "yo": "lloví",
+      "tu": "lloviste",
+      "ud": "llovió",
+      "nosotros": "llovimos",
+      "vosotros": "llovisteis",
+      "uds": "llovieron"
+    },
+    "condicional": {
+      "yo": "llovería",
+      "tu": "lloverías",
+      "ud": "llovería",
+      "nosotros": "lloveríamos",
+      "vosotros": "lloveríais",
+      "uds": "lloverían"
+    },
+    "presentePerfecto": {
+      "yo": "he llovido",
+      "tu": "has llovido",
+      "ud": "ha llovido",
+      "nosotros": "hemos llovido",
+      "vosotros": "habéis llovido",
+      "uds": "han llovido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré llovido",
+      "tu": "habrás llovido",
+      "ud": "habrá llovido",
+      "nosotros": "habremos llovido",
+      "vosotros": "habréis llovido",
+      "uds": "habrán llovido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había llovido",
+      "tu": "habías llovido",
+      "ud": "había llovido",
+      "nosotros": "habíamos llovido",
+      "vosotros": "habíais llovido",
+      "uds": "habían llovido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube llovido",
+      "tu": "hubiste llovido",
+      "ud": "hubo llovido",
+      "nosotros": "hubimos llovido",
+      "vosotros": "hubisteis llovido",
+      "uds": "hubieron llovido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría llovido",
+      "tu": "habrías llovido",
+      "ud": "habría llovido",
+      "nosotros": "habríamos llovido",
+      "vosotros": "habríais llovido",
+      "uds": "habrían llovido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "llueva",
+      "tu": "lluevas",
+      "ud": "llueva",
+      "nosotros": "llovamos",
+      "vosotros": "llováis",
+      "uds": "lluevan"
+    },
+    "imperfecto": {
+      "yo": "lloviera",
+      "tu": "llovieras",
+      "ud": "lloviera",
+      "nosotros": "lloviéramos",
+      "vosotros": "llovierais",
+      "uds": "llovieran"
+    },
+    "futuro": {
+      "yo": "lloviere",
+      "tu": "llovieres",
+      "ud": "lloviere",
+      "nosotros": "lloviéremos",
+      "vosotros": "lloviereis",
+      "uds": "llovieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya llovido",
+      "tu": "hayas llovido",
+      "ud": "haya llovido",
+      "nosotros": "hayamos llovido",
+      "vosotros": "hayáis llovido",
+      "uds": "hayan llovido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere llovido",
+      "tu": "hubieres llovido",
+      "ud": "hubiere llovido",
+      "nosotros": "hubiéremos llovido",
+      "vosotros": "hubiereis llovido",
+      "uds": "hubieren llovido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera llovido",
+      "tu": "hubieras llovido",
+      "ud": "hubiera llovido",
+      "nosotros": "hubiéramos llovido",
+      "vosotros": "hubierais llovido",
+      "uds": "hubieran llovido"
+    },
+    "imperfectoAlt": {
+      "yo": "lloviese",
+      "tu": "llovieses",
+      "ud": "lloviese",
+      "nosotros": "lloviésemos",
+      "vosotros": "llovieseis",
+      "uds": "lloviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese llovido",
+      "tu": "hubieses llovido",
+      "ud": "hubiese llovido",
+      "nosotros": "hubiésemos llovido",
+      "vosotros": "hubieseis llovido",
+      "uds": "hubiesen llovido"
+    }
+  },
+  "afirmativo": {
+    "tu": "llueve",
+    "vosotros": "lloved",
+    "ud": "llueva",
+    "uds": "lluevan"
+  },
+  "negativo": {
+    "tu": "no lluevas",
+    "vosotros": "no llováis",
+    "ud": "no llueva",
+    "uds": "no lluevan"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Note: Although this verb can be conjugated for any person, it normally is only used (impersonally) in the third person singular, e.g.: llueve, it rains, it is raining.",
+    "infinitivo": "to rain",
+    "gerundio": "raining",
+    "participioPasado": "rained",
+    "indicativo": {
+      "presente": "it rains, is raining",
+      "futuro": "it will rain",
+      "imperfecto": "it was raining, used to rain, rained",
+      "preterito": "it rained",
+      "condicional": "it would rain",
+      "presentePerfecto": "it has rained",
+      "futuroPerfecto": "it will have rained",
+      "pluscuamperfecto": "it had rained",
+      "preteritoAnterior": "it had rained",
+      "condicionalPerfecto": "it would have rained"
+    },
+    "subjuntivo": {
+      "presente": "it rains, is raining",
+      "imperfecto": "it rained, was raining",
+      "futuro": "it will rain",
+      "presentePerfecto": "it has rained, rained",
+      "futuroPerfecto": "it will have rained",
+      "pluscuamperfecto": "it had rained"
+    },
+    "afirmativo": "Rain!",
+    "negativo": "Don't rain!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "actuar",
+  "gerundio": "actuando",
+  "participioPasado": "actuado",
+  "indicativo": {
+    "presente": {
+      "yo": "actúo",
+      "tu": "actúas",
+      "ud": "actúa",
+      "nosotros": "actuamos",
+      "vosotros": "actuáis",
+      "uds": "actúan"
+    },
+    "futuro": {
+      "yo": "actuaré",
+      "tu": "actuarás",
+      "ud": "actuará",
+      "nosotros": "actuaremos",
+      "vosotros": "actuaréis",
+      "uds": "actuarán"
+    },
+    "imperfecto": {
+      "yo": "actuaba",
+      "tu": "actuabas",
+      "ud": "actuaba",
+      "nosotros": "actuábamos",
+      "vosotros": "actuabais",
+      "uds": "actuaban"
+    },
+    "preterito": {
+      "yo": "actué",
+      "tu": "actuaste",
+      "ud": "actuó",
+      "nosotros": "actuamos",
+      "vosotros": "actuasteis",
+      "uds": "actuaron"
+    },
+    "condicional": {
+      "yo": "actuaría",
+      "tu": "actuarías",
+      "ud": "actuaría",
+      "nosotros": "actuaríamos",
+      "vosotros": "actuaríais",
+      "uds": "actuarían"
+    },
+    "presentePerfecto": {
+      "yo": "he actuado",
+      "tu": "has actuado",
+      "ud": "ha actuado",
+      "nosotros": "hemos actuado",
+      "vosotros": "habéis actuado",
+      "uds": "han actuado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré actuado",
+      "tu": "habrás actuado",
+      "ud": "habrá actuado",
+      "nosotros": "habremos actuado",
+      "vosotros": "habréis actuado",
+      "uds": "habrán actuado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había actuado",
+      "tu": "habías actuado",
+      "ud": "había actuado",
+      "nosotros": "habíamos actuado",
+      "vosotros": "habíais actuado",
+      "uds": "habían actuado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube actuado",
+      "tu": "hubiste actuado",
+      "ud": "hubo actuado",
+      "nosotros": "hubimos actuado",
+      "vosotros": "hubisteis actuado",
+      "uds": "hubieron actuado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría actuado",
+      "tu": "habrías actuado",
+      "ud": "habría actuado",
+      "nosotros": "habríamos actuado",
+      "vosotros": "habríais actuado",
+      "uds": "habrían actuado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "actúe",
+      "tu": "actúes",
+      "ud": "actúe",
+      "nosotros": "actuemos",
+      "vosotros": "actuéis",
+      "uds": "actúen"
+    },
+    "imperfecto": {
+      "yo": "actuara",
+      "tu": "actuaras",
+      "ud": "actuara",
+      "nosotros": "actuáramos",
+      "vosotros": "actuarais",
+      "uds": "actuaran"
+    },
+    "futuro": {
+      "yo": "actuare",
+      "tu": "actuares",
+      "ud": "actuare",
+      "nosotros": "actuáremos",
+      "vosotros": "actuareis",
+      "uds": "actuaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya actuado",
+      "tu": "hayas actuado",
+      "ud": "haya actuado",
+      "nosotros": "hayamos actuado",
+      "vosotros": "hayáis actuado",
+      "uds": "hayan actuado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere actuado",
+      "tu": "hubieres actuado",
+      "ud": "hubiere actuado",
+      "nosotros": "hubiéremos actuado",
+      "vosotros": "hubiereis actuado",
+      "uds": "hubieren actuado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera actuado",
+      "tu": "hubieras actuado",
+      "ud": "hubiera actuado",
+      "nosotros": "hubiéramos actuado",
+      "vosotros": "hubierais actuado",
+      "uds": "hubieran actuado"
+    },
+    "imperfectoAlt": {
+      "yo": "actuase",
+      "tu": "actuases",
+      "ud": "actuase",
+      "nosotros": "actuásemos",
+      "vosotros": "actuaseis",
+      "uds": "actuasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese actuado",
+      "tu": "hubieses actuado",
+      "ud": "hubiese actuado",
+      "nosotros": "hubiésemos actuado",
+      "vosotros": "hubieseis actuado",
+      "uds": "hubiesen actuado"
+    }
+  },
+  "afirmativo": {
+    "tu": "actúa",
+    "vosotros": "actuad",
+    "ud": "actúe",
+    "uds": "actúen"
+  },
+  "negativo": {
+    "tu": "no actúes",
+    "vosotros": "no actuéis",
+    "ud": "no actúe",
+    "uds": "no actúen"
+  },
+  "english": {
+    "note": "Cambio: u > ú cuando la radical tiene el acento tónico.",
+    "infinitivo": "to act, perform, actuate, operate",
+    "gerundio": "acting",
+    "participioPasado": "acted",
+    "indicativo": {
+      "presente": "I act, am acting",
+      "futuro": "I will act",
+      "imperfecto": "I was acting, used to act, acted",
+      "preterito": "I acted",
+      "condicional": "I would act",
+      "presentePerfecto": "I have acted",
+      "futuroPerfecto": "I will have acted",
+      "pluscuamperfecto": "I had acted",
+      "preteritoAnterior": "I had acted",
+      "condicionalPerfecto": "I would have acted"
+    },
+    "subjuntivo": {
+      "presente": "I act, am acting",
+      "imperfecto": "I acted, was acting",
+      "futuro": "I will act",
+      "presentePerfecto": "I have acted, acted",
+      "futuroPerfecto": "I will have acted",
+      "pluscuamperfecto": "I had acted"
+    },
+    "afirmativo": "Act!",
+    "negativo": "Don't act!"
+  },
+  "attribution": "Fred Jehle"
+}

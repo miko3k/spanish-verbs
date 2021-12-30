@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "aplicar",
+  "gerundio": "aplicando",
+  "participioPasado": "aplicado",
+  "indicativo": {
+    "presente": {
+      "yo": "aplico",
+      "tu": "aplicas",
+      "ud": "aplica",
+      "nosotros": "aplicamos",
+      "vosotros": "aplicáis",
+      "uds": "aplican"
+    },
+    "futuro": {
+      "yo": "aplicaré",
+      "tu": "aplicarás",
+      "ud": "aplicará",
+      "nosotros": "aplicaremos",
+      "vosotros": "aplicaréis",
+      "uds": "aplicarán"
+    },
+    "imperfecto": {
+      "yo": "aplicaba",
+      "tu": "aplicabas",
+      "ud": "aplicaba",
+      "nosotros": "aplicábamos",
+      "vosotros": "aplicabais",
+      "uds": "aplicaban"
+    },
+    "preterito": {
+      "yo": "apliqué",
+      "tu": "aplicaste",
+      "ud": "aplicó",
+      "nosotros": "aplicamos",
+      "vosotros": "aplicasteis",
+      "uds": "aplicaron"
+    },
+    "condicional": {
+      "yo": "aplicaría",
+      "tu": "aplicarías",
+      "ud": "aplicaría",
+      "nosotros": "aplicaríamos",
+      "vosotros": "aplicaríais",
+      "uds": "aplicarían"
+    },
+    "presentePerfecto": {
+      "yo": "he aplicado",
+      "tu": "has aplicado",
+      "ud": "ha aplicado",
+      "nosotros": "hemos aplicado",
+      "vosotros": "habéis aplicado",
+      "uds": "han aplicado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré aplicado",
+      "tu": "habrás aplicado",
+      "ud": "habrá aplicado",
+      "nosotros": "habremos aplicado",
+      "vosotros": "habréis aplicado",
+      "uds": "habrán aplicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había aplicado",
+      "tu": "habías aplicado",
+      "ud": "había aplicado",
+      "nosotros": "habíamos aplicado",
+      "vosotros": "habíais aplicado",
+      "uds": "habían aplicado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube aplicado",
+      "tu": "hubiste aplicado",
+      "ud": "hubo aplicado",
+      "nosotros": "hubimos aplicado",
+      "vosotros": "hubisteis aplicado",
+      "uds": "hubieron aplicado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría aplicado",
+      "tu": "habrías aplicado",
+      "ud": "habría aplicado",
+      "nosotros": "habríamos aplicado",
+      "vosotros": "habríais aplicado",
+      "uds": "habrían aplicado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aplique",
+      "tu": "apliques",
+      "ud": "aplique",
+      "nosotros": "apliquemos",
+      "vosotros": "apliquéis",
+      "uds": "apliquen"
+    },
+    "imperfecto": {
+      "yo": "aplicara",
+      "tu": "aplicaras",
+      "ud": "aplicara",
+      "nosotros": "aplicáramos",
+      "vosotros": "aplicarais",
+      "uds": "aplicaran"
+    },
+    "futuro": {
+      "yo": "aplicare",
+      "tu": "aplicares",
+      "ud": "aplicare",
+      "nosotros": "aplicáremos",
+      "vosotros": "aplicareis",
+      "uds": "aplicaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya aplicado",
+      "tu": "hayas aplicado",
+      "ud": "haya aplicado",
+      "nosotros": "hayamos aplicado",
+      "vosotros": "hayáis aplicado",
+      "uds": "hayan aplicado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere aplicado",
+      "tu": "hubieres aplicado",
+      "ud": "hubiere aplicado",
+      "nosotros": "hubiéremos aplicado",
+      "vosotros": "hubiereis aplicado",
+      "uds": "hubieren aplicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera aplicado",
+      "tu": "hubieras aplicado",
+      "ud": "hubiera aplicado",
+      "nosotros": "hubiéramos aplicado",
+      "vosotros": "hubierais aplicado",
+      "uds": "hubieran aplicado"
+    },
+    "imperfectoAlt": {
+      "yo": "aplicase",
+      "tu": "aplicases",
+      "ud": "aplicase",
+      "nosotros": "aplicásemos",
+      "vosotros": "aplicaseis",
+      "uds": "aplicasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese aplicado",
+      "tu": "hubieses aplicado",
+      "ud": "hubiese aplicado",
+      "nosotros": "hubiésemos aplicado",
+      "vosotros": "hubieseis aplicado",
+      "uds": "hubiesen aplicado"
+    }
+  },
+  "afirmativo": {
+    "tu": "aplica",
+    "vosotros": "aplicad",
+    "ud": "aplique",
+    "uds": "apliquen"
+  },
+  "negativo": {
+    "tu": "no apliques",
+    "vosotros": "no apliquéis",
+    "ud": "no aplique",
+    "uds": "no apliquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to apply",
+    "gerundio": "applying",
+    "participioPasado": "applied",
+    "indicativo": {
+      "presente": "I apply, am applying",
+      "futuro": "I will apply",
+      "imperfecto": "I was applying, used to apply, applied",
+      "preterito": "I applied",
+      "condicional": "I would apply",
+      "presentePerfecto": "I have applied",
+      "futuroPerfecto": "I will have applied",
+      "pluscuamperfecto": "I had applied",
+      "preteritoAnterior": "I had applied",
+      "condicionalPerfecto": "I would have applied"
+    },
+    "subjuntivo": {
+      "presente": "I apply, am applying",
+      "imperfecto": "I applied, was applying",
+      "futuro": "I will apply",
+      "presentePerfecto": "I have applied, applied",
+      "futuroPerfecto": "I will have applied",
+      "pluscuamperfecto": "I had applied"
+    },
+    "afirmativo": "Apply!",
+    "negativo": "Don't apply!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "plantar",
+  "gerundio": "plantando",
+  "participioPasado": "plantado",
+  "indicativo": {
+    "presente": {
+      "yo": "planto",
+      "tu": "plantas",
+      "ud": "planta",
+      "nosotros": "plantamos",
+      "vosotros": "plantáis",
+      "uds": "plantan"
+    },
+    "futuro": {
+      "yo": "plantaré",
+      "tu": "plantarás",
+      "ud": "plantará",
+      "nosotros": "plantaremos",
+      "vosotros": "plantaréis",
+      "uds": "plantarán"
+    },
+    "imperfecto": {
+      "yo": "plantaba",
+      "tu": "plantabas",
+      "ud": "plantaba",
+      "nosotros": "plantábamos",
+      "vosotros": "plantabais",
+      "uds": "plantaban"
+    },
+    "preterito": {
+      "yo": "planté",
+      "tu": "plantaste",
+      "ud": "plantó",
+      "nosotros": "plantamos",
+      "vosotros": "plantasteis",
+      "uds": "plantaron"
+    },
+    "condicional": {
+      "yo": "plantaría",
+      "tu": "plantarías",
+      "ud": "plantaría",
+      "nosotros": "plantaríamos",
+      "vosotros": "plantaríais",
+      "uds": "plantarían"
+    },
+    "presentePerfecto": {
+      "yo": "he plantado",
+      "tu": "has plantado",
+      "ud": "ha plantado",
+      "nosotros": "hemos plantado",
+      "vosotros": "habéis plantado",
+      "uds": "han plantado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré plantado",
+      "tu": "habrás plantado",
+      "ud": "habrá plantado",
+      "nosotros": "habremos plantado",
+      "vosotros": "habréis plantado",
+      "uds": "habrán plantado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había plantado",
+      "tu": "habías plantado",
+      "ud": "había plantado",
+      "nosotros": "habíamos plantado",
+      "vosotros": "habíais plantado",
+      "uds": "habían plantado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube plantado",
+      "tu": "hubiste plantado",
+      "ud": "hubo plantado",
+      "nosotros": "hubimos plantado",
+      "vosotros": "hubisteis plantado",
+      "uds": "hubieron plantado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría plantado",
+      "tu": "habrías plantado",
+      "ud": "habría plantado",
+      "nosotros": "habríamos plantado",
+      "vosotros": "habríais plantado",
+      "uds": "habrían plantado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "plante",
+      "tu": "plantes",
+      "ud": "plante",
+      "nosotros": "plantemos",
+      "vosotros": "plantéis",
+      "uds": "planten"
+    },
+    "imperfecto": {
+      "yo": "plantara",
+      "tu": "plantaras",
+      "ud": "plantara",
+      "nosotros": "plantáramos",
+      "vosotros": "plantarais",
+      "uds": "plantaran"
+    },
+    "futuro": {
+      "yo": "plantare",
+      "tu": "plantares",
+      "ud": "plantare",
+      "nosotros": "plantáremos",
+      "vosotros": "plantareis",
+      "uds": "plantaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya plantado",
+      "tu": "hayas plantado",
+      "ud": "haya plantado",
+      "nosotros": "hayamos plantado",
+      "vosotros": "hayáis plantado",
+      "uds": "hayan plantado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere plantado",
+      "tu": "hubieres plantado",
+      "ud": "hubiere plantado",
+      "nosotros": "hubiéremos plantado",
+      "vosotros": "hubiereis plantado",
+      "uds": "hubieren plantado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera plantado",
+      "tu": "hubieras plantado",
+      "ud": "hubiera plantado",
+      "nosotros": "hubiéramos plantado",
+      "vosotros": "hubierais plantado",
+      "uds": "hubieran plantado"
+    },
+    "imperfectoAlt": {
+      "yo": "plantase",
+      "tu": "plantases",
+      "ud": "plantase",
+      "nosotros": "plantásemos",
+      "vosotros": "plantaseis",
+      "uds": "plantasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese plantado",
+      "tu": "hubieses plantado",
+      "ud": "hubiese plantado",
+      "nosotros": "hubiésemos plantado",
+      "vosotros": "hubieseis plantado",
+      "uds": "hubiesen plantado"
+    }
+  },
+  "afirmativo": {
+    "tu": "planta",
+    "vosotros": "plantad",
+    "ud": "plante",
+    "uds": "planten"
+  },
+  "negativo": {
+    "tu": "no plantes",
+    "vosotros": "no plantéis",
+    "ud": "no plante",
+    "uds": "no planten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to plant",
+    "gerundio": "planting",
+    "participioPasado": "planted",
+    "indicativo": {
+      "presente": "I plant, am planting",
+      "futuro": "I will plant",
+      "imperfecto": "I was planting, used to plant, planted",
+      "preterito": "I planted",
+      "condicional": "I would plant",
+      "presentePerfecto": "I have planted",
+      "futuroPerfecto": "I will have planted",
+      "pluscuamperfecto": "I had planted",
+      "preteritoAnterior": "I had planted",
+      "condicionalPerfecto": "I would have planted"
+    },
+    "subjuntivo": {
+      "presente": "I plant, am planting",
+      "imperfecto": "I planted, was planting",
+      "futuro": "I will plant",
+      "presentePerfecto": "I have planted, planted",
+      "futuroPerfecto": "I will have planted",
+      "pluscuamperfecto": "I had planted"
+    },
+    "afirmativo": "Plant!",
+    "negativo": "Don't plant!"
+  },
+  "attribution": "Fred Jehle"
+}

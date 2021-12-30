@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "disgustar",
+  "gerundio": "disgustando",
+  "participioPasado": "disgustado",
+  "indicativo": {
+    "presente": {
+      "yo": "disgusto",
+      "tu": "disgustas",
+      "ud": "disgusta",
+      "nosotros": "disgustamos",
+      "vosotros": "disgustáis",
+      "uds": "disgustan"
+    },
+    "futuro": {
+      "yo": "disgustaré",
+      "tu": "disgustarás",
+      "ud": "disgustará",
+      "nosotros": "disgustaremos",
+      "vosotros": "disgustaréis",
+      "uds": "disgustarán"
+    },
+    "imperfecto": {
+      "yo": "disgustaba",
+      "tu": "disgustabas",
+      "ud": "disgustaba",
+      "nosotros": "disgustábamos",
+      "vosotros": "disgustabais",
+      "uds": "disgustaban"
+    },
+    "preterito": {
+      "yo": "disgusté",
+      "tu": "disgustaste",
+      "ud": "disgustó",
+      "nosotros": "disgustamos",
+      "vosotros": "disgustasteis",
+      "uds": "disgustaron"
+    },
+    "condicional": {
+      "yo": "disgustaría",
+      "tu": "disgustarías",
+      "ud": "disgustaría",
+      "nosotros": "disgustaríamos",
+      "vosotros": "disgustaríais",
+      "uds": "disgustarían"
+    },
+    "presentePerfecto": {
+      "yo": "he disgustado",
+      "tu": "has disgustado",
+      "ud": "ha disgustado",
+      "nosotros": "hemos disgustado",
+      "vosotros": "habéis disgustado",
+      "uds": "han disgustado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré disgustado",
+      "tu": "habrás disgustado",
+      "ud": "habrá disgustado",
+      "nosotros": "habremos disgustado",
+      "vosotros": "habréis disgustado",
+      "uds": "habrán disgustado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había disgustado",
+      "tu": "habías disgustado",
+      "ud": "había disgustado",
+      "nosotros": "habíamos disgustado",
+      "vosotros": "habíais disgustado",
+      "uds": "habían disgustado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube disgustado",
+      "tu": "hubiste disgustado",
+      "ud": "hubo disgustado",
+      "nosotros": "hubimos disgustado",
+      "vosotros": "hubisteis disgustado",
+      "uds": "hubieron disgustado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría disgustado",
+      "tu": "habrías disgustado",
+      "ud": "habría disgustado",
+      "nosotros": "habríamos disgustado",
+      "vosotros": "habríais disgustado",
+      "uds": "habrían disgustado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "disguste",
+      "tu": "disgustes",
+      "ud": "disguste",
+      "nosotros": "disgustemos",
+      "vosotros": "disgustéis",
+      "uds": "disgusten"
+    },
+    "imperfecto": {
+      "yo": "disgustara",
+      "tu": "disgustaras",
+      "ud": "disgustara",
+      "nosotros": "disgustáramos",
+      "vosotros": "disgustarais",
+      "uds": "disgustaran"
+    },
+    "futuro": {
+      "yo": "disgustare",
+      "tu": "disgustares",
+      "ud": "disgustare",
+      "nosotros": "disgustáremos",
+      "vosotros": "disgustareis",
+      "uds": "disgustaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya disgustado",
+      "tu": "hayas disgustado",
+      "ud": "haya disgustado",
+      "nosotros": "hayamos disgustado",
+      "vosotros": "hayáis disgustado",
+      "uds": "hayan disgustado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere disgustado",
+      "tu": "hubieres disgustado",
+      "ud": "hubiere disgustado",
+      "nosotros": "hubiéremos disgustado",
+      "vosotros": "hubiereis disgustado",
+      "uds": "hubieren disgustado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera disgustado",
+      "tu": "hubieras disgustado",
+      "ud": "hubiera disgustado",
+      "nosotros": "hubiéramos disgustado",
+      "vosotros": "hubierais disgustado",
+      "uds": "hubieran disgustado"
+    },
+    "imperfectoAlt": {
+      "yo": "disgustase",
+      "tu": "disgustases",
+      "ud": "disgustase",
+      "nosotros": "disgustásemos",
+      "vosotros": "disgustaseis",
+      "uds": "disgustasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese disgustado",
+      "tu": "hubieses disgustado",
+      "ud": "hubiese disgustado",
+      "nosotros": "hubiésemos disgustado",
+      "vosotros": "hubieseis disgustado",
+      "uds": "hubiesen disgustado"
+    }
+  },
+  "afirmativo": {
+    "tu": "disgusta",
+    "vosotros": "disgustad",
+    "ud": "disguste",
+    "uds": "disgusten"
+  },
+  "negativo": {
+    "tu": "no disgustes",
+    "vosotros": "no disgustéis",
+    "ud": "no disguste",
+    "uds": "no disgusten"
+  },
+  "english": {
+    "note": "Note: The verb is used in a special type of construction to express dislike: Me disgusta el libro = The book is displeasing to me (= I dislike the book); Me disgustan los libros = The books are displeasing to me (= I dislike the books). In this construction the verb is most frequently used in the third person singular or plural, although all persons are possible, e.g., Me disgustas tú = You are displeasing to me (= I dislike you).",
+    "infinitivo": "to displease, be displeasing; to annoy, upset",
+    "gerundio": "displeasing",
+    "participioPasado": "displeased",
+    "indicativo": {
+      "presente": "I displease, am displeasing",
+      "futuro": "I will displease",
+      "imperfecto": "I was displeasing, used to displease, displeased",
+      "preterito": "I displeased",
+      "condicional": "I would displease",
+      "presentePerfecto": "I have displeased",
+      "futuroPerfecto": "I will have displeased",
+      "pluscuamperfecto": "I had displeased",
+      "preteritoAnterior": "I had displeased",
+      "condicionalPerfecto": "I would have displeased"
+    },
+    "subjuntivo": {
+      "presente": "I displease, am displeasing",
+      "imperfecto": "I displeased, was displeasing",
+      "futuro": "I will displease",
+      "presentePerfecto": "I have displeased, displeased",
+      "futuroPerfecto": "I will have displeased",
+      "pluscuamperfecto": "I had displeased"
+    },
+    "afirmativo": "Displease!",
+    "negativo": "Don't displease!"
+  },
+  "attribution": "Fred Jehle"
+}

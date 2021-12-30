@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "parar",
+  "gerundio": "parando",
+  "participioPasado": "parado",
+  "indicativo": {
+    "presente": {
+      "yo": "paro",
+      "tu": "paras",
+      "ud": "para",
+      "nosotros": "paramos",
+      "vosotros": "paráis",
+      "uds": "paran"
+    },
+    "futuro": {
+      "yo": "pararé",
+      "tu": "pararás",
+      "ud": "parará",
+      "nosotros": "pararemos",
+      "vosotros": "pararéis",
+      "uds": "pararán"
+    },
+    "imperfecto": {
+      "yo": "paraba",
+      "tu": "parabas",
+      "ud": "paraba",
+      "nosotros": "parábamos",
+      "vosotros": "parabais",
+      "uds": "paraban"
+    },
+    "preterito": {
+      "yo": "paré",
+      "tu": "paraste",
+      "ud": "paró",
+      "nosotros": "paramos",
+      "vosotros": "parasteis",
+      "uds": "pararon"
+    },
+    "condicional": {
+      "yo": "pararía",
+      "tu": "pararías",
+      "ud": "pararía",
+      "nosotros": "pararíamos",
+      "vosotros": "pararíais",
+      "uds": "pararían"
+    },
+    "presentePerfecto": {
+      "yo": "he parado",
+      "tu": "has parado",
+      "ud": "ha parado",
+      "nosotros": "hemos parado",
+      "vosotros": "habéis parado",
+      "uds": "han parado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré parado",
+      "tu": "habrás parado",
+      "ud": "habrá parado",
+      "nosotros": "habremos parado",
+      "vosotros": "habréis parado",
+      "uds": "habrán parado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había parado",
+      "tu": "habías parado",
+      "ud": "había parado",
+      "nosotros": "habíamos parado",
+      "vosotros": "habíais parado",
+      "uds": "habían parado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube parado",
+      "tu": "hubiste parado",
+      "ud": "hubo parado",
+      "nosotros": "hubimos parado",
+      "vosotros": "hubisteis parado",
+      "uds": "hubieron parado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría parado",
+      "tu": "habrías parado",
+      "ud": "habría parado",
+      "nosotros": "habríamos parado",
+      "vosotros": "habríais parado",
+      "uds": "habrían parado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pare",
+      "tu": "pares",
+      "ud": "pare",
+      "nosotros": "paremos",
+      "vosotros": "paréis",
+      "uds": "paren"
+    },
+    "imperfecto": {
+      "yo": "parara",
+      "tu": "pararas",
+      "ud": "parara",
+      "nosotros": "paráramos",
+      "vosotros": "pararais",
+      "uds": "pararan"
+    },
+    "futuro": {
+      "yo": "parare",
+      "tu": "parares",
+      "ud": "parare",
+      "nosotros": "paráremos",
+      "vosotros": "parareis",
+      "uds": "pararen"
+    },
+    "presentePerfecto": {
+      "yo": "haya parado",
+      "tu": "hayas parado",
+      "ud": "haya parado",
+      "nosotros": "hayamos parado",
+      "vosotros": "hayáis parado",
+      "uds": "hayan parado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere parado",
+      "tu": "hubieres parado",
+      "ud": "hubiere parado",
+      "nosotros": "hubiéremos parado",
+      "vosotros": "hubiereis parado",
+      "uds": "hubieren parado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera parado",
+      "tu": "hubieras parado",
+      "ud": "hubiera parado",
+      "nosotros": "hubiéramos parado",
+      "vosotros": "hubierais parado",
+      "uds": "hubieran parado"
+    },
+    "imperfectoAlt": {
+      "yo": "parase",
+      "tu": "parases",
+      "ud": "parase",
+      "nosotros": "parásemos",
+      "vosotros": "paraseis",
+      "uds": "parasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese parado",
+      "tu": "hubieses parado",
+      "ud": "hubiese parado",
+      "nosotros": "hubiésemos parado",
+      "vosotros": "hubieseis parado",
+      "uds": "hubiesen parado"
+    }
+  },
+  "afirmativo": {
+    "tu": "para",
+    "vosotros": "parad",
+    "ud": "pare",
+    "uds": "paren"
+  },
+  "negativo": {
+    "tu": "no pares",
+    "vosotros": "no paréis",
+    "ud": "no pare",
+    "uds": "no paren"
+  },
+  "english": {
+    "note": "Note: This verb can mean both to stop (somebody/something) or to come to a stop. Parar de (hacer algo) = to stop (doing something).",
+    "infinitivo": "to stop, halt",
+    "gerundio": "stopping",
+    "participioPasado": "stopped",
+    "indicativo": {
+      "presente": "I stop, am stopping",
+      "futuro": "I will stop",
+      "imperfecto": "I was stopping, used to stop, stopped",
+      "preterito": "I stopped",
+      "condicional": "I would stop",
+      "presentePerfecto": "I have stopped",
+      "futuroPerfecto": "I will have stopped",
+      "pluscuamperfecto": "I had stopped",
+      "preteritoAnterior": "I had stopped",
+      "condicionalPerfecto": "I would have stopped"
+    },
+    "subjuntivo": {
+      "presente": "I stop, am stopping",
+      "imperfecto": "I stopped, was stopping",
+      "futuro": "I will stop",
+      "presentePerfecto": "I have stopped, stopped",
+      "futuroPerfecto": "I will have stopped",
+      "pluscuamperfecto": "I had stopped"
+    },
+    "afirmativo": "Stop!",
+    "negativo": "Don't stop!"
+  },
+  "attribution": "Fred Jehle"
+}

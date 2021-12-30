@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "mudarse",
+  "gerundio": "mudándose",
+  "participioPasado": "mudado",
+  "indicativo": {
+    "presente": {
+      "yo": "me mudo",
+      "tu": "te mudas",
+      "ud": "se muda",
+      "nosotros": "nos mudamos",
+      "vosotros": "os mudáis",
+      "uds": "se mudan"
+    },
+    "futuro": {
+      "yo": "me mudaré",
+      "tu": "te mudarás",
+      "ud": "se mudará",
+      "nosotros": "nos mudaremos",
+      "vosotros": "os mudaréis",
+      "uds": "se mudarán"
+    },
+    "imperfecto": {
+      "yo": "me mudaba",
+      "tu": "te mudabas",
+      "ud": "se mudaba",
+      "nosotros": "nos mudábamos",
+      "vosotros": "os mudabais",
+      "uds": "se mudaban"
+    },
+    "preterito": {
+      "yo": "me mudé",
+      "tu": "te mudaste",
+      "ud": "se mudó",
+      "nosotros": "nos mudamos",
+      "vosotros": "os mudasteis",
+      "uds": "se mudaron"
+    },
+    "condicional": {
+      "yo": "me mudaría",
+      "tu": "te mudarías",
+      "ud": "se mudaría",
+      "nosotros": "nos mudaríamos",
+      "vosotros": "os mudaríais",
+      "uds": "se mudarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he mudado",
+      "tu": "te has mudado",
+      "ud": "se ha mudado",
+      "nosotros": "nos hemos mudado",
+      "vosotros": "os habéis mudado",
+      "uds": "se han mudado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré mudado",
+      "tu": "te habrás mudado",
+      "ud": "se habrá mudado",
+      "nosotros": "nos habremos mudado",
+      "vosotros": "os habréis mudado",
+      "uds": "se habrán mudado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había mudado",
+      "tu": "te habías mudado",
+      "ud": "se había mudado",
+      "nosotros": "nos habíamos mudado",
+      "vosotros": "os habíais mudado",
+      "uds": "se habían mudado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube mudado",
+      "tu": "te hubiste mudado",
+      "ud": "se hubo mudado",
+      "nosotros": "nos hubimos mudado",
+      "vosotros": "os hubisteis mudado",
+      "uds": "se hubieron mudado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría mudado",
+      "tu": "te habrías mudado",
+      "ud": "se habría mudado",
+      "nosotros": "nos habríamos mudado",
+      "vosotros": "os habríais mudado",
+      "uds": "se habrían mudado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me mude",
+      "tu": "te mudes",
+      "ud": "se mude",
+      "nosotros": "nos mudemos",
+      "vosotros": "os mudéis",
+      "uds": "se muden"
+    },
+    "imperfecto": {
+      "yo": "me mudara",
+      "tu": "te mudaras",
+      "ud": "se mudara",
+      "nosotros": "nos mudáramos",
+      "vosotros": "os mudarais",
+      "uds": "se mudaran"
+    },
+    "futuro": {
+      "yo": "me mudare",
+      "tu": "te mudares",
+      "ud": "se mudare",
+      "nosotros": "nos mudáremos",
+      "vosotros": "os mudareis",
+      "uds": "se mudaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya mudado",
+      "tu": "te hayas mudado",
+      "ud": "se haya mudado",
+      "nosotros": "nos hayamos mudado",
+      "vosotros": "os hayáis mudado",
+      "uds": "se hayan mudado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere mudado",
+      "tu": "te hubieres mudado",
+      "ud": "se hubiere mudado",
+      "nosotros": "nos hubiéremos mudado",
+      "vosotros": "os hubiereis mudado",
+      "uds": "se hubieren mudado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera mudado",
+      "tu": "te hubieras mudado",
+      "ud": "se hubiera mudado",
+      "nosotros": "nos hubiéramos mudado",
+      "vosotros": "os hubierais mudado",
+      "uds": "se hubieran mudado"
+    },
+    "imperfectoAlt": {
+      "yo": "me mudase",
+      "tu": "te mudases",
+      "ud": "se mudase",
+      "nosotros": "nos mudásemos",
+      "vosotros": "os mudaseis",
+      "uds": "se mudasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese mudado",
+      "tu": "te hubieses mudado",
+      "ud": "se hubiese mudado",
+      "nosotros": "nos hubiésemos mudado",
+      "vosotros": "os hubieseis mudado",
+      "uds": "se hubiesen mudado"
+    }
+  },
+  "afirmativo": {
+    "tu": "múdate",
+    "vosotros": "mudaos",
+    "ud": "múdese",
+    "uds": "múdense"
+  },
+  "negativo": {
+    "tu": "no te mudes",
+    "vosotros": "no os mudéis",
+    "ud": "no se mude",
+    "uds": "no se muden"
+  },
+  "english": {
+    "note": "Note: For to move someone else to a new residence, use the nonreflexive form mudar.",
+    "infinitivo": "to move (=change residence)",
+    "gerundio": "moving",
+    "participioPasado": "moved",
+    "indicativo": {
+      "presente": "I move, am moving",
+      "futuro": "I will move",
+      "imperfecto": "I was moving, used to move, moved",
+      "preterito": "I moved",
+      "condicional": "I would move",
+      "presentePerfecto": "I have moved",
+      "futuroPerfecto": "I will have moved",
+      "pluscuamperfecto": "I had moved",
+      "preteritoAnterior": "I had moved",
+      "condicionalPerfecto": "I would have moved"
+    },
+    "subjuntivo": {
+      "presente": "I move, am moving",
+      "imperfecto": "I moved, was moving",
+      "futuro": "I will move",
+      "presentePerfecto": "I have moved, moved",
+      "futuroPerfecto": "I will have moved",
+      "pluscuamperfecto": "I had moved"
+    },
+    "afirmativo": "Move!",
+    "negativo": "Don't move!"
+  },
+  "attribution": "Fred Jehle"
+}

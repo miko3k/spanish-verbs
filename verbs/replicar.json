@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "replicar",
+  "gerundio": "replicando",
+  "participioPasado": "replicado",
+  "indicativo": {
+    "presente": {
+      "yo": "replico",
+      "tu": "replicas",
+      "ud": "replica",
+      "nosotros": "replicamos",
+      "vosotros": "replicáis",
+      "uds": "replican"
+    },
+    "futuro": {
+      "yo": "replicaré",
+      "tu": "replicarás",
+      "ud": "replicará",
+      "nosotros": "replicaremos",
+      "vosotros": "replicaréis",
+      "uds": "replicarán"
+    },
+    "imperfecto": {
+      "yo": "replicaba",
+      "tu": "replicabas",
+      "ud": "replicaba",
+      "nosotros": "replicábamos",
+      "vosotros": "replicabais",
+      "uds": "replicaban"
+    },
+    "preterito": {
+      "yo": "repliqué",
+      "tu": "replicaste",
+      "ud": "replicó",
+      "nosotros": "replicamos",
+      "vosotros": "replicasteis",
+      "uds": "replicaron"
+    },
+    "condicional": {
+      "yo": "replicaría",
+      "tu": "replicarías",
+      "ud": "replicaría",
+      "nosotros": "replicaríamos",
+      "vosotros": "replicaríais",
+      "uds": "replicarían"
+    },
+    "presentePerfecto": {
+      "yo": "he replicado",
+      "tu": "has replicado",
+      "ud": "ha replicado",
+      "nosotros": "hemos replicado",
+      "vosotros": "habéis replicado",
+      "uds": "han replicado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré replicado",
+      "tu": "habrás replicado",
+      "ud": "habrá replicado",
+      "nosotros": "habremos replicado",
+      "vosotros": "habréis replicado",
+      "uds": "habrán replicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había replicado",
+      "tu": "habías replicado",
+      "ud": "había replicado",
+      "nosotros": "habíamos replicado",
+      "vosotros": "habíais replicado",
+      "uds": "habían replicado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube replicado",
+      "tu": "hubiste replicado",
+      "ud": "hubo replicado",
+      "nosotros": "hubimos replicado",
+      "vosotros": "hubisteis replicado",
+      "uds": "hubieron replicado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría replicado",
+      "tu": "habrías replicado",
+      "ud": "habría replicado",
+      "nosotros": "habríamos replicado",
+      "vosotros": "habríais replicado",
+      "uds": "habrían replicado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "replique",
+      "tu": "repliques",
+      "ud": "replique",
+      "nosotros": "repliquemos",
+      "vosotros": "repliquéis",
+      "uds": "repliquen"
+    },
+    "imperfecto": {
+      "yo": "replicara",
+      "tu": "replicaras",
+      "ud": "replicara",
+      "nosotros": "replicáramos",
+      "vosotros": "replicarais",
+      "uds": "replicaran"
+    },
+    "futuro": {
+      "yo": "replicare",
+      "tu": "replicares",
+      "ud": "replicare",
+      "nosotros": "replicáremos",
+      "vosotros": "replicareis",
+      "uds": "replicaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya replicado",
+      "tu": "hayas replicado",
+      "ud": "haya replicado",
+      "nosotros": "hayamos replicado",
+      "vosotros": "hayáis replicado",
+      "uds": "hayan replicado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere replicado",
+      "tu": "hubieres replicado",
+      "ud": "hubiere replicado",
+      "nosotros": "hubiéremos replicado",
+      "vosotros": "hubiereis replicado",
+      "uds": "hubieren replicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera replicado",
+      "tu": "hubieras replicado",
+      "ud": "hubiera replicado",
+      "nosotros": "hubiéramos replicado",
+      "vosotros": "hubierais replicado",
+      "uds": "hubieran replicado"
+    },
+    "imperfectoAlt": {
+      "yo": "replicase",
+      "tu": "replicases",
+      "ud": "replicase",
+      "nosotros": "replicásemos",
+      "vosotros": "replicaseis",
+      "uds": "replicasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese replicado",
+      "tu": "hubieses replicado",
+      "ud": "hubiese replicado",
+      "nosotros": "hubiésemos replicado",
+      "vosotros": "hubieseis replicado",
+      "uds": "hubiesen replicado"
+    }
+  },
+  "afirmativo": {
+    "tu": "replica",
+    "vosotros": "replicad",
+    "ud": "replique",
+    "uds": "repliquen"
+  },
+  "negativo": {
+    "tu": "no repliques",
+    "vosotros": "no repliquéis",
+    "ud": "no replique",
+    "uds": "no repliquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to reply, answer back",
+    "gerundio": "replying",
+    "participioPasado": "replied",
+    "indicativo": {
+      "presente": "I reply, am replying",
+      "futuro": "I will reply",
+      "imperfecto": "I was replying, used to reply, replied",
+      "preterito": "I replied",
+      "condicional": "I would reply",
+      "presentePerfecto": "I have replied",
+      "futuroPerfecto": "I will have replied",
+      "pluscuamperfecto": "I had replied",
+      "preteritoAnterior": "I had replied",
+      "condicionalPerfecto": "I would have replied"
+    },
+    "subjuntivo": {
+      "presente": "I reply, am replying",
+      "imperfecto": "I replied, was replying",
+      "futuro": "I will reply",
+      "presentePerfecto": "I have replied, replied",
+      "futuroPerfecto": "I will have replied",
+      "pluscuamperfecto": "I had replied"
+    },
+    "afirmativo": "Reply!",
+    "negativo": "Don't reply!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "andar",
+  "gerundio": "andando",
+  "participioPasado": "andado",
+  "indicativo": {
+    "presente": {
+      "yo": "ando",
+      "tu": "andas",
+      "ud": "anda",
+      "nosotros": "andamos",
+      "vosotros": "andáis",
+      "uds": "andan"
+    },
+    "futuro": {
+      "yo": "andaré",
+      "tu": "andarás",
+      "ud": "andará",
+      "nosotros": "andaremos",
+      "vosotros": "andaréis",
+      "uds": "andarán"
+    },
+    "imperfecto": {
+      "yo": "andaba",
+      "tu": "andabas",
+      "ud": "andaba",
+      "nosotros": "andábamos",
+      "vosotros": "andabais",
+      "uds": "andaban"
+    },
+    "preterito": {
+      "yo": "anduve",
+      "tu": "anduviste",
+      "ud": "anduvo",
+      "nosotros": "anduvimos",
+      "vosotros": "anduvisteis",
+      "uds": "anduvieron"
+    },
+    "condicional": {
+      "yo": "andaría",
+      "tu": "andarías",
+      "ud": "andaría",
+      "nosotros": "andaríamos",
+      "vosotros": "andaríais",
+      "uds": "andarían"
+    },
+    "presentePerfecto": {
+      "yo": "he andado",
+      "tu": "has andado",
+      "ud": "ha andado",
+      "nosotros": "hemos andado",
+      "vosotros": "habéis andado",
+      "uds": "han andado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré andado",
+      "tu": "habrás andado",
+      "ud": "habrá andado",
+      "nosotros": "habremos andado",
+      "vosotros": "habréis andado",
+      "uds": "habrán andado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había andado",
+      "tu": "habías andado",
+      "ud": "había andado",
+      "nosotros": "habíamos andado",
+      "vosotros": "habíais andado",
+      "uds": "habían andado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube andado",
+      "tu": "hubiste andado",
+      "ud": "hubo andado",
+      "nosotros": "hubimos andado",
+      "vosotros": "hubisteis andado",
+      "uds": "hubieron andado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría andado",
+      "tu": "habrías andado",
+      "ud": "habría andado",
+      "nosotros": "habríamos andado",
+      "vosotros": "habríais andado",
+      "uds": "habrían andado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ande",
+      "tu": "andes",
+      "ud": "ande",
+      "nosotros": "andemos",
+      "vosotros": "andéis",
+      "uds": "anden"
+    },
+    "imperfecto": {
+      "yo": "anduviera",
+      "tu": "anduvieras",
+      "ud": "anduviera",
+      "nosotros": "anduviéramos",
+      "vosotros": "anduvierais",
+      "uds": "anduvieran"
+    },
+    "futuro": {
+      "yo": "anduviere",
+      "tu": "anduvieres",
+      "ud": "anduviere",
+      "nosotros": "anduviéremos",
+      "vosotros": "anduviereis",
+      "uds": "anduvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya andado",
+      "tu": "hayas andado",
+      "ud": "haya andado",
+      "nosotros": "hayamos andado",
+      "vosotros": "hayáis andado",
+      "uds": "hayan andado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere andado",
+      "tu": "hubieres andado",
+      "ud": "hubiere andado",
+      "nosotros": "hubiéremos andado",
+      "vosotros": "hubiereis andado",
+      "uds": "hubieren andado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera andado",
+      "tu": "hubieras andado",
+      "ud": "hubiera andado",
+      "nosotros": "hubiéramos andado",
+      "vosotros": "hubierais andado",
+      "uds": "hubieran andado"
+    },
+    "imperfectoAlt": {
+      "yo": "anduviese",
+      "tu": "anduvieses",
+      "ud": "anduviese",
+      "nosotros": "anduviésemos",
+      "vosotros": "anduvieseis",
+      "uds": "anduviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese andado",
+      "tu": "hubieses andado",
+      "ud": "hubiese andado",
+      "nosotros": "hubiésemos andado",
+      "vosotros": "hubieseis andado",
+      "uds": "hubiesen andado"
+    }
+  },
+  "afirmativo": {
+    "tu": "anda",
+    "vosotros": "andad",
+    "ud": "ande",
+    "uds": "anden"
+  },
+  "negativo": {
+    "tu": "no andes",
+    "vosotros": "no andéis",
+    "ud": "no ande",
+    "uds": "no anden"
+  },
+  "english": {
+    "note": "Radical fuerte en el pretérito: anduv-.",
+    "infinitivo": "to walk, go",
+    "gerundio": "walking",
+    "participioPasado": "walked",
+    "indicativo": {
+      "presente": "I walk, am walking",
+      "futuro": "I will walk",
+      "imperfecto": "I was walking, used to walk, walked",
+      "preterito": "I walked",
+      "condicional": "I would walk",
+      "presentePerfecto": "I have walked",
+      "futuroPerfecto": "I will have walked",
+      "pluscuamperfecto": "I had walked",
+      "preteritoAnterior": "I had walked",
+      "condicionalPerfecto": "I would have walked"
+    },
+    "subjuntivo": {
+      "presente": "I walk, am walking",
+      "imperfecto": "I walked, was walking",
+      "futuro": "I will walk",
+      "presentePerfecto": "I have walked, walked",
+      "futuroPerfecto": "I will have walked",
+      "pluscuamperfecto": "I had walked"
+    },
+    "afirmativo": "Walk!",
+    "negativo": "Don't walk!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "huir",
+  "gerundio": "huyendo",
+  "participioPasado": "huido",
+  "indicativo": {
+    "presente": {
+      "yo": "huyo",
+      "tu": "huyes",
+      "ud": "huye",
+      "nosotros": "huimos",
+      "vosotros": "huís",
+      "uds": "huyen"
+    },
+    "futuro": {
+      "yo": "huiré",
+      "tu": "huirás",
+      "ud": "huirá",
+      "nosotros": "huiremos",
+      "vosotros": "huiréis",
+      "uds": "huirán"
+    },
+    "imperfecto": {
+      "yo": "huía",
+      "tu": "huías",
+      "ud": "huía",
+      "nosotros": "huíamos",
+      "vosotros": "huíais",
+      "uds": "huían"
+    },
+    "preterito": {
+      "yo": "huí",
+      "tu": "huiste",
+      "ud": "huyó",
+      "nosotros": "huimos",
+      "vosotros": "huisteis",
+      "uds": "huyeron"
+    },
+    "condicional": {
+      "yo": "huiría",
+      "tu": "huirías",
+      "ud": "huiría",
+      "nosotros": "huiríamos",
+      "vosotros": "huiríais",
+      "uds": "huirían"
+    },
+    "presentePerfecto": {
+      "yo": "he huido",
+      "tu": "has huido",
+      "ud": "ha huido",
+      "nosotros": "hemos huido",
+      "vosotros": "habéis huido",
+      "uds": "han huido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré huido",
+      "tu": "habrás huido",
+      "ud": "habrá huido",
+      "nosotros": "habremos huido",
+      "vosotros": "habréis huido",
+      "uds": "habrán huido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había huido",
+      "tu": "habías huido",
+      "ud": "había huido",
+      "nosotros": "habíamos huido",
+      "vosotros": "habíais huido",
+      "uds": "habían huido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube huido",
+      "tu": "hubiste huido",
+      "ud": "hubo huido",
+      "nosotros": "hubimos huido",
+      "vosotros": "hubisteis huido",
+      "uds": "hubieron huido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría huido",
+      "tu": "habrías huido",
+      "ud": "habría huido",
+      "nosotros": "habríamos huido",
+      "vosotros": "habríais huido",
+      "uds": "habrían huido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "huya",
+      "tu": "huyas",
+      "ud": "huya",
+      "nosotros": "huyamos",
+      "vosotros": "huyáis",
+      "uds": "huyan"
+    },
+    "imperfecto": {
+      "yo": "huyera",
+      "tu": "huyeras",
+      "ud": "huyera",
+      "nosotros": "huyéramos",
+      "vosotros": "huyerais",
+      "uds": "huyeran"
+    },
+    "futuro": {
+      "yo": "huyere",
+      "tu": "huyeres",
+      "ud": "huyere",
+      "nosotros": "huyéremos",
+      "vosotros": "huyereis",
+      "uds": "huyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya huido",
+      "tu": "hayas huido",
+      "ud": "haya huido",
+      "nosotros": "hayamos huido",
+      "vosotros": "hayáis huido",
+      "uds": "hayan huido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere huido",
+      "tu": "hubieres huido",
+      "ud": "hubiere huido",
+      "nosotros": "hubiéremos huido",
+      "vosotros": "hubiereis huido",
+      "uds": "hubieren huido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera huido",
+      "tu": "hubieras huido",
+      "ud": "hubiera huido",
+      "nosotros": "hubiéramos huido",
+      "vosotros": "hubierais huido",
+      "uds": "hubieran huido"
+    },
+    "imperfectoAlt": {
+      "yo": "huyese",
+      "tu": "huyeses",
+      "ud": "huyese",
+      "nosotros": "huyésemos",
+      "vosotros": "huyeseis",
+      "uds": "huyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese huido",
+      "tu": "hubieses huido",
+      "ud": "hubiese huido",
+      "nosotros": "hubiésemos huido",
+      "vosotros": "hubieseis huido",
+      "uds": "hubiesen huido"
+    }
+  },
+  "afirmativo": {
+    "tu": "huye",
+    "vosotros": "huid",
+    "ud": "huya",
+    "uds": "huyan"
+  },
+  "negativo": {
+    "tu": "no huyas",
+    "vosotros": "no huyáis",
+    "ud": "no huya",
+    "uds": "no huyan"
+  },
+  "english": {
+    "note": "Cambios: u > uy delante a, o y e; la i intervocálica (y sin acento escrito) > y.",
+    "infinitivo": "to flee, run away",
+    "gerundio": "fleeing",
+    "participioPasado": "fled",
+    "indicativo": {
+      "presente": "I flee, am fleeing",
+      "futuro": "I will flee",
+      "imperfecto": "I was fleeing, used to flee, fled",
+      "preterito": "I fled",
+      "condicional": "I would flee",
+      "presentePerfecto": "I have fled",
+      "futuroPerfecto": "I will have fled",
+      "pluscuamperfecto": "I had fled",
+      "preteritoAnterior": "I had fled",
+      "condicionalPerfecto": "I would have fled"
+    },
+    "subjuntivo": {
+      "presente": "I flee, am fleeing",
+      "imperfecto": "I fled, was fleeing",
+      "futuro": "I will flee",
+      "presentePerfecto": "I have fled, fled",
+      "futuroPerfecto": "I will have fled",
+      "pluscuamperfecto": "I had fled"
+    },
+    "afirmativo": "Flee!",
+    "negativo": "Don't flee!"
+  },
+  "attribution": "Fred Jehle"
+}

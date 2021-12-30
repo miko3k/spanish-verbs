@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "sacudir",
+  "gerundio": "sacudiendo",
+  "participioPasado": "sacudido",
+  "indicativo": {
+    "presente": {
+      "yo": "sacudo",
+      "tu": "sacudes",
+      "ud": "sacude",
+      "nosotros": "sacudimos",
+      "vosotros": "sacudís",
+      "uds": "sacuden"
+    },
+    "futuro": {
+      "yo": "sacudiré",
+      "tu": "sacudirás",
+      "ud": "sacudirá",
+      "nosotros": "sacudiremos",
+      "vosotros": "sacudiréis",
+      "uds": "sacudirán"
+    },
+    "imperfecto": {
+      "yo": "sacudía",
+      "tu": "sacudías",
+      "ud": "sacudía",
+      "nosotros": "sacudíamos",
+      "vosotros": "sacudíais",
+      "uds": "sacudían"
+    },
+    "preterito": {
+      "yo": "sacudí",
+      "tu": "sacudiste",
+      "ud": "sacudió",
+      "nosotros": "sacudimos",
+      "vosotros": "sacudisteis",
+      "uds": "sacudieron"
+    },
+    "condicional": {
+      "yo": "sacudiría",
+      "tu": "sacudirías",
+      "ud": "sacudiría",
+      "nosotros": "sacudiríamos",
+      "vosotros": "sacudiríais",
+      "uds": "sacudirían"
+    },
+    "presentePerfecto": {
+      "yo": "he sacudido",
+      "tu": "has sacudido",
+      "ud": "ha sacudido",
+      "nosotros": "hemos sacudido",
+      "vosotros": "habéis sacudido",
+      "uds": "han sacudido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sacudido",
+      "tu": "habrás sacudido",
+      "ud": "habrá sacudido",
+      "nosotros": "habremos sacudido",
+      "vosotros": "habréis sacudido",
+      "uds": "habrán sacudido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sacudido",
+      "tu": "habías sacudido",
+      "ud": "había sacudido",
+      "nosotros": "habíamos sacudido",
+      "vosotros": "habíais sacudido",
+      "uds": "habían sacudido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sacudido",
+      "tu": "hubiste sacudido",
+      "ud": "hubo sacudido",
+      "nosotros": "hubimos sacudido",
+      "vosotros": "hubisteis sacudido",
+      "uds": "hubieron sacudido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sacudido",
+      "tu": "habrías sacudido",
+      "ud": "habría sacudido",
+      "nosotros": "habríamos sacudido",
+      "vosotros": "habríais sacudido",
+      "uds": "habrían sacudido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sacuda",
+      "tu": "sacudas",
+      "ud": "sacuda",
+      "nosotros": "sacudamos",
+      "vosotros": "sacudáis",
+      "uds": "sacudan"
+    },
+    "imperfecto": {
+      "yo": "sacudiera",
+      "tu": "sacudieras",
+      "ud": "sacudiera",
+      "nosotros": "sacudiéramos",
+      "vosotros": "sacudierais",
+      "uds": "sacudieran"
+    },
+    "futuro": {
+      "yo": "sacudiere",
+      "tu": "sacudieres",
+      "ud": "sacudiere",
+      "nosotros": "sacudiéremos",
+      "vosotros": "sacudiereis",
+      "uds": "sacudieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sacudido",
+      "tu": "hayas sacudido",
+      "ud": "haya sacudido",
+      "nosotros": "hayamos sacudido",
+      "vosotros": "hayáis sacudido",
+      "uds": "hayan sacudido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sacudido",
+      "tu": "hubieres sacudido",
+      "ud": "hubiere sacudido",
+      "nosotros": "hubiéremos sacudido",
+      "vosotros": "hubiereis sacudido",
+      "uds": "hubieren sacudido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sacudido",
+      "tu": "hubieras sacudido",
+      "ud": "hubiera sacudido",
+      "nosotros": "hubiéramos sacudido",
+      "vosotros": "hubierais sacudido",
+      "uds": "hubieran sacudido"
+    },
+    "imperfectoAlt": {
+      "yo": "sacudiese",
+      "tu": "sacudieses",
+      "ud": "sacudiese",
+      "nosotros": "sacudiésemos",
+      "vosotros": "sacudieseis",
+      "uds": "sacudiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sacudido",
+      "tu": "hubieses sacudido",
+      "ud": "hubiese sacudido",
+      "nosotros": "hubiésemos sacudido",
+      "vosotros": "hubieseis sacudido",
+      "uds": "hubiesen sacudido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sacude",
+    "vosotros": "sacudid",
+    "ud": "sacuda",
+    "uds": "sacudan"
+  },
+  "negativo": {
+    "tu": "no sacudas",
+    "vosotros": "no sacudáis",
+    "ud": "no sacuda",
+    "uds": "no sacudan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to shake, beat, flap",
+    "gerundio": "shaking",
+    "participioPasado": "shook",
+    "indicativo": {
+      "presente": "I shake, am shaking",
+      "futuro": "I will shake",
+      "imperfecto": "I was shaking, used to shake, shook",
+      "preterito": "I shook",
+      "condicional": "I would shake",
+      "presentePerfecto": "I have shaken",
+      "futuroPerfecto": "I will have shaken",
+      "pluscuamperfecto": "I had shaken",
+      "preteritoAnterior": "I had shaken",
+      "condicionalPerfecto": "I would have shaken"
+    },
+    "subjuntivo": {
+      "presente": "I shake, am shaking",
+      "imperfecto": "I shook, was shaking",
+      "futuro": "I will shake",
+      "presentePerfecto": "I have shaken, shook",
+      "futuroPerfecto": "I will have shaken",
+      "pluscuamperfecto": "I had shaken"
+    },
+    "afirmativo": "Shake!",
+    "negativo": "Don't shake!"
+  },
+  "attribution": "Fred Jehle"
+}

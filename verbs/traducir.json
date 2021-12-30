@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "traducir",
+  "gerundio": "traduciendo",
+  "participioPasado": "traducido",
+  "indicativo": {
+    "presente": {
+      "yo": "traduzco",
+      "tu": "traduces",
+      "ud": "traduce",
+      "nosotros": "traducimos",
+      "vosotros": "traducís",
+      "uds": "traducen"
+    },
+    "futuro": {
+      "yo": "traduciré",
+      "tu": "traducirás",
+      "ud": "traducirá",
+      "nosotros": "traduciremos",
+      "vosotros": "traduciréis",
+      "uds": "traducirán"
+    },
+    "imperfecto": {
+      "yo": "traducía",
+      "tu": "traducías",
+      "ud": "traducía",
+      "nosotros": "traducíamos",
+      "vosotros": "traducíais",
+      "uds": "traducían"
+    },
+    "preterito": {
+      "yo": "traduje",
+      "tu": "tradujiste",
+      "ud": "tradujo",
+      "nosotros": "tradujimos",
+      "vosotros": "tradujisteis",
+      "uds": "tradujeron"
+    },
+    "condicional": {
+      "yo": "traduciría",
+      "tu": "traducirías",
+      "ud": "traduciría",
+      "nosotros": "traduciríamos",
+      "vosotros": "traduciríais",
+      "uds": "traducirían"
+    },
+    "presentePerfecto": {
+      "yo": "he traducido",
+      "tu": "has traducido",
+      "ud": "ha traducido",
+      "nosotros": "hemos traducido",
+      "vosotros": "habéis traducido",
+      "uds": "han traducido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré traducido",
+      "tu": "habrás traducido",
+      "ud": "habrá traducido",
+      "nosotros": "habremos traducido",
+      "vosotros": "habréis traducido",
+      "uds": "habrán traducido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había traducido",
+      "tu": "habías traducido",
+      "ud": "había traducido",
+      "nosotros": "habíamos traducido",
+      "vosotros": "habíais traducido",
+      "uds": "habían traducido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube traducido",
+      "tu": "hubiste traducido",
+      "ud": "hubo traducido",
+      "nosotros": "hubimos traducido",
+      "vosotros": "hubisteis traducido",
+      "uds": "hubieron traducido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría traducido",
+      "tu": "habrías traducido",
+      "ud": "habría traducido",
+      "nosotros": "habríamos traducido",
+      "vosotros": "habríais traducido",
+      "uds": "habrían traducido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "traduzca",
+      "tu": "traduzcas",
+      "ud": "traduzca",
+      "nosotros": "traduzcamos",
+      "vosotros": "traduzcáis",
+      "uds": "traduzcan"
+    },
+    "imperfecto": {
+      "yo": "tradujera",
+      "tu": "tradujeras",
+      "ud": "tradujera",
+      "nosotros": "tradujéramos",
+      "vosotros": "tradujerais",
+      "uds": "tradujeran"
+    },
+    "futuro": {
+      "yo": "tradujere",
+      "tu": "tradujeres",
+      "ud": "tradujere",
+      "nosotros": "tradujéremos",
+      "vosotros": "tradujereis",
+      "uds": "tradujeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya traducido",
+      "tu": "hayas traducido",
+      "ud": "haya traducido",
+      "nosotros": "hayamos traducido",
+      "vosotros": "hayáis traducido",
+      "uds": "hayan traducido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere traducido",
+      "tu": "hubieres traducido",
+      "ud": "hubiere traducido",
+      "nosotros": "hubiéremos traducido",
+      "vosotros": "hubiereis traducido",
+      "uds": "hubieren traducido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera traducido",
+      "tu": "hubieras traducido",
+      "ud": "hubiera traducido",
+      "nosotros": "hubiéramos traducido",
+      "vosotros": "hubierais traducido",
+      "uds": "hubieran traducido"
+    },
+    "imperfectoAlt": {
+      "yo": "tradujese",
+      "tu": "tradujeses",
+      "ud": "tradujese",
+      "nosotros": "tradujésemos",
+      "vosotros": "tradujeseis",
+      "uds": "tradujesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese traducido",
+      "tu": "hubieses traducido",
+      "ud": "hubiese traducido",
+      "nosotros": "hubiésemos traducido",
+      "vosotros": "hubieseis traducido",
+      "uds": "hubiesen traducido"
+    }
+  },
+  "afirmativo": {
+    "tu": "traduce",
+    "vosotros": "traducid",
+    "ud": "traduzca",
+    "uds": "traduzcan"
+  },
+  "negativo": {
+    "tu": "no traduzcas",
+    "vosotros": "no traduzcáis",
+    "ud": "no traduzca",
+    "uds": "no traduzcan"
+  },
+  "english": {
+    "note": "Formas irregulares: traduzco, traduzca, traduzcas, etc. Radical fuerte en el pretérito: traduj-.",
+    "infinitivo": "to translate",
+    "gerundio": "translating",
+    "participioPasado": "translated",
+    "indicativo": {
+      "presente": "I translate, am translating",
+      "futuro": "I will translate",
+      "imperfecto": "I was translating, used to translate, translated",
+      "preterito": "I translated",
+      "condicional": "I would translate",
+      "presentePerfecto": "I have translated",
+      "futuroPerfecto": "I will have translated",
+      "pluscuamperfecto": "I had translated",
+      "preteritoAnterior": "I had translated",
+      "condicionalPerfecto": "I would have translated"
+    },
+    "subjuntivo": {
+      "presente": "I translate, am translating",
+      "imperfecto": "I was translating, translated",
+      "futuro": "I will translate",
+      "presentePerfecto": "I have translated, translated",
+      "futuroPerfecto": "I will have translated",
+      "pluscuamperfecto": "I had translated"
+    },
+    "afirmativo": "Translate!,",
+    "negativo": "Don't translate!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "elegir",
+  "gerundio": "eligiendo",
+  "participioPasado": "elegido",
+  "indicativo": {
+    "presente": {
+      "yo": "elijo",
+      "tu": "eliges",
+      "ud": "elige",
+      "nosotros": "elegimos",
+      "vosotros": "elegís",
+      "uds": "eligen"
+    },
+    "futuro": {
+      "yo": "elegiré",
+      "tu": "elegirás",
+      "ud": "elegirá",
+      "nosotros": "elegiremos",
+      "vosotros": "elegiréis",
+      "uds": "elegirán"
+    },
+    "imperfecto": {
+      "yo": "elegía",
+      "tu": "elegías",
+      "ud": "elegía",
+      "nosotros": "elegíamos",
+      "vosotros": "elegíais",
+      "uds": "elegían"
+    },
+    "preterito": {
+      "yo": "elegí",
+      "tu": "elegiste",
+      "ud": "eligió",
+      "nosotros": "elegimos",
+      "vosotros": "elegisteis",
+      "uds": "eligieron"
+    },
+    "condicional": {
+      "yo": "elegiría",
+      "tu": "elegirías",
+      "ud": "elegiría",
+      "nosotros": "elegiríamos",
+      "vosotros": "elegiríais",
+      "uds": "elegirían"
+    },
+    "presentePerfecto": {
+      "yo": "he elegido",
+      "tu": "has elegido",
+      "ud": "ha elegido",
+      "nosotros": "hemos elegido",
+      "vosotros": "habéis elegido",
+      "uds": "han elegido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré elegido",
+      "tu": "habrás elegido",
+      "ud": "habrá elegido",
+      "nosotros": "habremos elegido",
+      "vosotros": "habréis elegido",
+      "uds": "habrán elegido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había elegido",
+      "tu": "habías elegido",
+      "ud": "había elegido",
+      "nosotros": "habíamos elegido",
+      "vosotros": "habíais elegido",
+      "uds": "habían elegido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube elegido",
+      "tu": "hubiste elegido",
+      "ud": "hubo elegido",
+      "nosotros": "hubimos elegido",
+      "vosotros": "hubisteis elegido",
+      "uds": "hubieron elegido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría elegido",
+      "tu": "habrías elegido",
+      "ud": "habría elegido",
+      "nosotros": "habríamos elegido",
+      "vosotros": "habríais elegido",
+      "uds": "habrían elegido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "elija",
+      "tu": "elijas",
+      "ud": "elija",
+      "nosotros": "elijamos",
+      "vosotros": "elijáis",
+      "uds": "elijan"
+    },
+    "imperfecto": {
+      "yo": "eligiera",
+      "tu": "eligieras",
+      "ud": "eligiera",
+      "nosotros": "eligiéramos",
+      "vosotros": "eligierais",
+      "uds": "eligieran"
+    },
+    "futuro": {
+      "yo": "eligiere",
+      "tu": "eligieres",
+      "ud": "eligiere",
+      "nosotros": "eligiéremos",
+      "vosotros": "eligiereis",
+      "uds": "eligieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya elegido",
+      "tu": "hayas elegido",
+      "ud": "haya elegido",
+      "nosotros": "hayamos elegido",
+      "vosotros": "hayáis elegido",
+      "uds": "hayan elegido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere elegido",
+      "tu": "hubieres elegido",
+      "ud": "hubiere elegido",
+      "nosotros": "hubiéremos elegido",
+      "vosotros": "hubiereis elegido",
+      "uds": "hubieren elegido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera elegido",
+      "tu": "hubieras elegido",
+      "ud": "hubiera elegido",
+      "nosotros": "hubiéramos elegido",
+      "vosotros": "hubierais elegido",
+      "uds": "hubieran elegido"
+    },
+    "imperfectoAlt": {
+      "yo": "eligiese",
+      "tu": "eligieses",
+      "ud": "eligiese",
+      "nosotros": "eligiésemos",
+      "vosotros": "eligieseis",
+      "uds": "eligiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese elegido",
+      "tu": "hubieses elegido",
+      "ud": "hubiese elegido",
+      "nosotros": "hubiésemos elegido",
+      "vosotros": "hubieseis elegido",
+      "uds": "hubiesen elegido"
+    }
+  },
+  "afirmativo": {
+    "tu": "elige",
+    "vosotros": "elegid",
+    "ud": "elija",
+    "uds": "elijan"
+  },
+  "negativo": {
+    "tu": "no elijas",
+    "vosotros": "no elijáis",
+    "ud": "no elija",
+    "uds": "no elijan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Cambio ortográfico: g > j delante de o y a.",
+    "infinitivo": "to elect, choose",
+    "gerundio": "electing",
+    "participioPasado": "elected",
+    "indicativo": {
+      "presente": "I elect, am electing",
+      "futuro": "I will elect",
+      "imperfecto": "I was electing, used to elect, elected",
+      "preterito": "I elected",
+      "condicional": "I would elect",
+      "presentePerfecto": "I have elected",
+      "futuroPerfecto": "I will have elected",
+      "pluscuamperfecto": "I had elected",
+      "preteritoAnterior": "I had elected",
+      "condicionalPerfecto": "I would have elected"
+    },
+    "subjuntivo": {
+      "presente": "I elect, am electing",
+      "imperfecto": "I elected, was electing",
+      "futuro": "I will elect",
+      "presentePerfecto": "I have elected, elected",
+      "futuroPerfecto": "I will have elected",
+      "pluscuamperfecto": "I had elected"
+    },
+    "afirmativo": "Elect!",
+    "negativo": "Don't elect!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "clarificar",
+  "gerundio": "clarificando",
+  "participioPasado": "clarificado",
+  "indicativo": {
+    "presente": {
+      "yo": "clarifico",
+      "tu": "clarificas",
+      "ud": "clarifica",
+      "nosotros": "clarificamos",
+      "vosotros": "clarificáis",
+      "uds": "clarifican"
+    },
+    "futuro": {
+      "yo": "clarificaré",
+      "tu": "clarificarás",
+      "ud": "clarificará",
+      "nosotros": "clarificaremos",
+      "vosotros": "clarificaréis",
+      "uds": "clarificarán"
+    },
+    "imperfecto": {
+      "yo": "clarificaba",
+      "tu": "clarificabas",
+      "ud": "clarificaba",
+      "nosotros": "clarificábamos",
+      "vosotros": "clarificabais",
+      "uds": "clarificaban"
+    },
+    "preterito": {
+      "yo": "clarifiqué",
+      "tu": "clarificaste",
+      "ud": "clarificó",
+      "nosotros": "clarificamos",
+      "vosotros": "clarificasteis",
+      "uds": "clarificaron"
+    },
+    "condicional": {
+      "yo": "clarificaría",
+      "tu": "clarificarías",
+      "ud": "clarificaría",
+      "nosotros": "clarificaríamos",
+      "vosotros": "clarificaríais",
+      "uds": "clarificarían"
+    },
+    "presentePerfecto": {
+      "yo": "he clarificado",
+      "tu": "has clarificado",
+      "ud": "ha clarificado",
+      "nosotros": "hemos clarificado",
+      "vosotros": "habéis clarificado",
+      "uds": "han clarificado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré clarificado",
+      "tu": "habrás clarificado",
+      "ud": "habrá clarificado",
+      "nosotros": "habremos clarificado",
+      "vosotros": "habréis clarificado",
+      "uds": "habrán clarificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había clarificado",
+      "tu": "habías clarificado",
+      "ud": "había clarificado",
+      "nosotros": "habíamos clarificado",
+      "vosotros": "habíais clarificado",
+      "uds": "habían clarificado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube clarificado",
+      "tu": "hubiste clarificado",
+      "ud": "hubo clarificado",
+      "nosotros": "hubimos clarificado",
+      "vosotros": "hubisteis clarificado",
+      "uds": "hubieron clarificado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría clarificado",
+      "tu": "habrías clarificado",
+      "ud": "habría clarificado",
+      "nosotros": "habríamos clarificado",
+      "vosotros": "habríais clarificado",
+      "uds": "habrían clarificado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "clarifique",
+      "tu": "clarifiques",
+      "ud": "clarifique",
+      "nosotros": "clarifiquemos",
+      "vosotros": "clarifiquéis",
+      "uds": "clarifiquen"
+    },
+    "imperfecto": {
+      "yo": "clarificara",
+      "tu": "clarificaras",
+      "ud": "clarificara",
+      "nosotros": "clarificáramos",
+      "vosotros": "clarificarais",
+      "uds": "clarificaran"
+    },
+    "futuro": {
+      "yo": "clarificare",
+      "tu": "clarificares",
+      "ud": "clarificare",
+      "nosotros": "clarificáremos",
+      "vosotros": "clarificareis",
+      "uds": "clarificaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya clarificado",
+      "tu": "hayas clarificado",
+      "ud": "haya clarificado",
+      "nosotros": "hayamos clarificado",
+      "vosotros": "hayáis clarificado",
+      "uds": "hayan clarificado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere clarificado",
+      "tu": "hubieres clarificado",
+      "ud": "hubiere clarificado",
+      "nosotros": "hubiéremos clarificado",
+      "vosotros": "hubiereis clarificado",
+      "uds": "hubieren clarificado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera clarificado",
+      "tu": "hubieras clarificado",
+      "ud": "hubiera clarificado",
+      "nosotros": "hubiéramos clarificado",
+      "vosotros": "hubierais clarificado",
+      "uds": "hubieran clarificado"
+    },
+    "imperfectoAlt": {
+      "yo": "clarificase",
+      "tu": "clarificases",
+      "ud": "clarificase",
+      "nosotros": "clarificásemos",
+      "vosotros": "clarificaseis",
+      "uds": "clarificasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese clarificado",
+      "tu": "hubieses clarificado",
+      "ud": "hubiese clarificado",
+      "nosotros": "hubiésemos clarificado",
+      "vosotros": "hubieseis clarificado",
+      "uds": "hubiesen clarificado"
+    }
+  },
+  "afirmativo": {
+    "tu": "clarifica",
+    "vosotros": "clarificad",
+    "ud": "clarifique",
+    "uds": "clarifiquen"
+  },
+  "negativo": {
+    "tu": "no clarifiques",
+    "vosotros": "no clarifiquéis",
+    "ud": "no clarifique",
+    "uds": "no clarifiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to clarify, illuminate, light (up), brighten",
+    "gerundio": "clarifying",
+    "participioPasado": "clarified",
+    "indicativo": {
+      "presente": "I clarify, am clarifying",
+      "futuro": "I will clarify",
+      "imperfecto": "I was clarifying, used to clarify, clarified",
+      "preterito": "I clarified",
+      "condicional": "I would clarify",
+      "presentePerfecto": "I have clarified",
+      "futuroPerfecto": "I will have clarified",
+      "pluscuamperfecto": "I had clarified",
+      "preteritoAnterior": "I had clarified",
+      "condicionalPerfecto": "I would have clarified"
+    },
+    "subjuntivo": {
+      "presente": "I clarify, am clarifying",
+      "imperfecto": "I clarified, was clarifying",
+      "futuro": "I will clarify",
+      "presentePerfecto": "I have clarified, clarified",
+      "futuroPerfecto": "I will have clarified",
+      "pluscuamperfecto": "I had clarified"
+    },
+    "afirmativo": "Clarify!",
+    "negativo": "Don't clarify!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cesar",
+  "gerundio": "cesando",
+  "participioPasado": "cesado",
+  "indicativo": {
+    "presente": {
+      "yo": "ceso",
+      "tu": "cesas",
+      "ud": "cesa",
+      "nosotros": "cesamos",
+      "vosotros": "cesáis",
+      "uds": "cesan"
+    },
+    "futuro": {
+      "yo": "cesaré",
+      "tu": "cesarás",
+      "ud": "cesará",
+      "nosotros": "cesaremos",
+      "vosotros": "cesaréis",
+      "uds": "cesarán"
+    },
+    "imperfecto": {
+      "yo": "cesaba",
+      "tu": "cesabas",
+      "ud": "cesaba",
+      "nosotros": "cesábamos",
+      "vosotros": "cesabais",
+      "uds": "cesaban"
+    },
+    "preterito": {
+      "yo": "cesé",
+      "tu": "cesaste",
+      "ud": "cesó",
+      "nosotros": "cesamos",
+      "vosotros": "cesasteis",
+      "uds": "cesaron"
+    },
+    "condicional": {
+      "yo": "cesaría",
+      "tu": "cesarías",
+      "ud": "cesaría",
+      "nosotros": "cesaríamos",
+      "vosotros": "cesaríais",
+      "uds": "cesarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cesado",
+      "tu": "has cesado",
+      "ud": "ha cesado",
+      "nosotros": "hemos cesado",
+      "vosotros": "habéis cesado",
+      "uds": "han cesado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cesado",
+      "tu": "habrás cesado",
+      "ud": "habrá cesado",
+      "nosotros": "habremos cesado",
+      "vosotros": "habréis cesado",
+      "uds": "habrán cesado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cesado",
+      "tu": "habías cesado",
+      "ud": "había cesado",
+      "nosotros": "habíamos cesado",
+      "vosotros": "habíais cesado",
+      "uds": "habían cesado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cesado",
+      "tu": "hubiste cesado",
+      "ud": "hubo cesado",
+      "nosotros": "hubimos cesado",
+      "vosotros": "hubisteis cesado",
+      "uds": "hubieron cesado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cesado",
+      "tu": "habrías cesado",
+      "ud": "habría cesado",
+      "nosotros": "habríamos cesado",
+      "vosotros": "habríais cesado",
+      "uds": "habrían cesado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cese",
+      "tu": "ceses",
+      "ud": "cese",
+      "nosotros": "cesemos",
+      "vosotros": "ceséis",
+      "uds": "cesen"
+    },
+    "imperfecto": {
+      "yo": "cesara",
+      "tu": "cesaras",
+      "ud": "cesara",
+      "nosotros": "cesáramos",
+      "vosotros": "cesarais",
+      "uds": "cesaran"
+    },
+    "futuro": {
+      "yo": "cesare",
+      "tu": "cesares",
+      "ud": "cesare",
+      "nosotros": "cesáremos",
+      "vosotros": "cesareis",
+      "uds": "cesaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cesado",
+      "tu": "hayas cesado",
+      "ud": "haya cesado",
+      "nosotros": "hayamos cesado",
+      "vosotros": "hayáis cesado",
+      "uds": "hayan cesado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cesado",
+      "tu": "hubieres cesado",
+      "ud": "hubiere cesado",
+      "nosotros": "hubiéremos cesado",
+      "vosotros": "hubiereis cesado",
+      "uds": "hubieren cesado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cesado",
+      "tu": "hubieras cesado",
+      "ud": "hubiera cesado",
+      "nosotros": "hubiéramos cesado",
+      "vosotros": "hubierais cesado",
+      "uds": "hubieran cesado"
+    },
+    "imperfectoAlt": {
+      "yo": "cesase",
+      "tu": "cesases",
+      "ud": "cesase",
+      "nosotros": "cesásemos",
+      "vosotros": "cesaseis",
+      "uds": "cesasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cesado",
+      "tu": "hubieses cesado",
+      "ud": "hubiese cesado",
+      "nosotros": "hubiésemos cesado",
+      "vosotros": "hubieseis cesado",
+      "uds": "hubiesen cesado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cesa",
+    "vosotros": "cesad",
+    "ud": "cese",
+    "uds": "cesen"
+  },
+  "negativo": {
+    "tu": "no ceses",
+    "vosotros": "no ceséis",
+    "ud": "no cese",
+    "uds": "no cesen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to cease, stop",
+    "gerundio": "ceasing",
+    "participioPasado": "ceased",
+    "indicativo": {
+      "presente": "I cease, am ceasing",
+      "futuro": "I will cease",
+      "imperfecto": "I was ceasing, used to cease, ceased",
+      "preterito": "I ceased",
+      "condicional": "I would cease",
+      "presentePerfecto": "I have ceased",
+      "futuroPerfecto": "I will have ceased",
+      "pluscuamperfecto": "I had ceased",
+      "preteritoAnterior": "I had ceased",
+      "condicionalPerfecto": "I would have ceased"
+    },
+    "subjuntivo": {
+      "presente": "I cease, am ceasing",
+      "imperfecto": "I ceased, was ceasing",
+      "futuro": "I will cease",
+      "presentePerfecto": "I have ceased, ceased",
+      "futuroPerfecto": "I will have ceased",
+      "pluscuamperfecto": "I had ceased"
+    },
+    "afirmativo": "Cease!",
+    "negativo": "Don't cease!"
+  },
+  "attribution": "Fred Jehle"
+}

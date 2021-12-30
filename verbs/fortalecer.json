@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "fortalecer",
+  "gerundio": "fortaleciendo",
+  "participioPasado": "fortalecido",
+  "indicativo": {
+    "presente": {
+      "yo": "fortalezco",
+      "tu": "fortaleces",
+      "ud": "fortalece",
+      "nosotros": "fortalecemos",
+      "vosotros": "fortalecéis",
+      "uds": "fortalecen"
+    },
+    "futuro": {
+      "yo": "fortaleceré",
+      "tu": "fortalecerás",
+      "ud": "fortalecerá",
+      "nosotros": "fortaleceremos",
+      "vosotros": "fortaleceréis",
+      "uds": "fortalecerán"
+    },
+    "imperfecto": {
+      "yo": "fortalecía",
+      "tu": "fortalecías",
+      "ud": "fortalecía",
+      "nosotros": "fortalecíamos",
+      "vosotros": "fortalecíais",
+      "uds": "fortalecían"
+    },
+    "preterito": {
+      "yo": "fortalecí",
+      "tu": "fortaleciste",
+      "ud": "fortaleció",
+      "nosotros": "fortalecimos",
+      "vosotros": "fortalecisteis",
+      "uds": "fortalecieron"
+    },
+    "condicional": {
+      "yo": "fortalecería",
+      "tu": "fortalecerías",
+      "ud": "fortalecería",
+      "nosotros": "fortaleceríamos",
+      "vosotros": "fortaleceríais",
+      "uds": "fortalecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he fortalecido",
+      "tu": "has fortalecido",
+      "ud": "ha fortalecido",
+      "nosotros": "hemos fortalecido",
+      "vosotros": "habéis fortalecido",
+      "uds": "han fortalecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré fortalecido",
+      "tu": "habrás fortalecido",
+      "ud": "habrá fortalecido",
+      "nosotros": "habremos fortalecido",
+      "vosotros": "habréis fortalecido",
+      "uds": "habrán fortalecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había fortalecido",
+      "tu": "habías fortalecido",
+      "ud": "había fortalecido",
+      "nosotros": "habíamos fortalecido",
+      "vosotros": "habíais fortalecido",
+      "uds": "habían fortalecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube fortalecido",
+      "tu": "hubiste fortalecido",
+      "ud": "hubo fortalecido",
+      "nosotros": "hubimos fortalecido",
+      "vosotros": "hubisteis fortalecido",
+      "uds": "hubieron fortalecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría fortalecido",
+      "tu": "habrías fortalecido",
+      "ud": "habría fortalecido",
+      "nosotros": "habríamos fortalecido",
+      "vosotros": "habríais fortalecido",
+      "uds": "habrían fortalecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "fortalezca",
+      "tu": "fortalezcas",
+      "ud": "fortalezca",
+      "nosotros": "fortalezcamos",
+      "vosotros": "fortalezcáis",
+      "uds": "fortalezcan"
+    },
+    "imperfecto": {
+      "yo": "fortaleciera",
+      "tu": "fortalecieras",
+      "ud": "fortaleciera",
+      "nosotros": "fortaleciéramos",
+      "vosotros": "fortalecierais",
+      "uds": "fortalecieran"
+    },
+    "futuro": {
+      "yo": "fortaleciere",
+      "tu": "fortalecieres",
+      "ud": "fortaleciere",
+      "nosotros": "fortaleciéremos",
+      "vosotros": "fortaleciereis",
+      "uds": "fortalecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya fortalecido",
+      "tu": "hayas fortalecido",
+      "ud": "haya fortalecido",
+      "nosotros": "hayamos fortalecido",
+      "vosotros": "hayáis fortalecido",
+      "uds": "hayan fortalecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere fortalecido",
+      "tu": "hubieres fortalecido",
+      "ud": "hubiere fortalecido",
+      "nosotros": "hubiéremos fortalecido",
+      "vosotros": "hubiereis fortalecido",
+      "uds": "hubieren fortalecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera fortalecido",
+      "tu": "hubieras fortalecido",
+      "ud": "hubiera fortalecido",
+      "nosotros": "hubiéramos fortalecido",
+      "vosotros": "hubierais fortalecido",
+      "uds": "hubieran fortalecido"
+    },
+    "imperfectoAlt": {
+      "yo": "fortaleciese",
+      "tu": "fortalecieses",
+      "ud": "fortaleciese",
+      "nosotros": "fortaleciésemos",
+      "vosotros": "fortalecieseis",
+      "uds": "fortaleciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese fortalecido",
+      "tu": "hubieses fortalecido",
+      "ud": "hubiese fortalecido",
+      "nosotros": "hubiésemos fortalecido",
+      "vosotros": "hubieseis fortalecido",
+      "uds": "hubiesen fortalecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "fortalece",
+    "vosotros": "fortaleced",
+    "ud": "fortalezca",
+    "uds": "fortalezcan"
+  },
+  "negativo": {
+    "tu": "no fortalezcas",
+    "vosotros": "no fortalezcáis",
+    "ud": "no fortalezca",
+    "uds": "no fortalezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: fortalezco, fortalezca, fortalezcas, etc.",
+    "infinitivo": "to fortify, strenthen",
+    "gerundio": "fortifying",
+    "participioPasado": "fortified",
+    "indicativo": {
+      "presente": "I fortify",
+      "futuro": "I will fortify",
+      "imperfecto": "I used to fortify, fortified",
+      "preterito": "I fortified",
+      "condicional": "I would fortify",
+      "presentePerfecto": "I have fortified",
+      "futuroPerfecto": "I will have fortified",
+      "pluscuamperfecto": "I had fortified",
+      "preteritoAnterior": "I had fortified",
+      "condicionalPerfecto": "I would have fortified"
+    },
+    "subjuntivo": {
+      "presente": "I fortify",
+      "imperfecto": "I fortified, was fortifying",
+      "futuro": "I will fortify",
+      "presentePerfecto": "I have fortified, fortified",
+      "futuroPerfecto": "I will have fortified",
+      "pluscuamperfecto": "I had fortified"
+    },
+    "afirmativo": "Fortify!",
+    "negativo": "Don't fortify!"
+  },
+  "attribution": "Fred Jehle"
+}

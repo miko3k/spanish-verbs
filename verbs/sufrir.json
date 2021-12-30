@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "sufrir",
+  "gerundio": "sufriendo",
+  "participioPasado": "sufrido",
+  "indicativo": {
+    "presente": {
+      "yo": "sufro",
+      "tu": "sufres",
+      "ud": "sufre",
+      "nosotros": "sufrimos",
+      "vosotros": "sufrís",
+      "uds": "sufren"
+    },
+    "futuro": {
+      "yo": "sufriré",
+      "tu": "sufrirás",
+      "ud": "sufrirá",
+      "nosotros": "sufriremos",
+      "vosotros": "sufriréis",
+      "uds": "sufrirán"
+    },
+    "imperfecto": {
+      "yo": "sufría",
+      "tu": "sufrías",
+      "ud": "sufría",
+      "nosotros": "sufríamos",
+      "vosotros": "sufríais",
+      "uds": "sufrían"
+    },
+    "preterito": {
+      "yo": "sufrí",
+      "tu": "sufriste",
+      "ud": "sufrió",
+      "nosotros": "sufrimos",
+      "vosotros": "sufristeis",
+      "uds": "sufrieron"
+    },
+    "condicional": {
+      "yo": "sufriría",
+      "tu": "sufrirías",
+      "ud": "sufriría",
+      "nosotros": "sufriríamos",
+      "vosotros": "sufriríais",
+      "uds": "sufrirían"
+    },
+    "presentePerfecto": {
+      "yo": "he sufrido",
+      "tu": "has sufrido",
+      "ud": "ha sufrido",
+      "nosotros": "hemos sufrido",
+      "vosotros": "habéis sufrido",
+      "uds": "han sufrido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sufrido",
+      "tu": "habrás sufrido",
+      "ud": "habrá sufrido",
+      "nosotros": "habremos sufrido",
+      "vosotros": "habréis sufrido",
+      "uds": "habrán sufrido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sufrido",
+      "tu": "habías sufrido",
+      "ud": "había sufrido",
+      "nosotros": "habíamos sufrido",
+      "vosotros": "habíais sufrido",
+      "uds": "habían sufrido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sufrido",
+      "tu": "hubiste sufrido",
+      "ud": "hubo sufrido",
+      "nosotros": "hubimos sufrido",
+      "vosotros": "hubisteis sufrido",
+      "uds": "hubieron sufrido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sufrido",
+      "tu": "habrías sufrido",
+      "ud": "habría sufrido",
+      "nosotros": "habríamos sufrido",
+      "vosotros": "habríais sufrido",
+      "uds": "habrían sufrido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sufra",
+      "tu": "sufras",
+      "ud": "sufra",
+      "nosotros": "suframos",
+      "vosotros": "sufráis",
+      "uds": "sufran"
+    },
+    "imperfecto": {
+      "yo": "sufriera",
+      "tu": "sufrieras",
+      "ud": "sufriera",
+      "nosotros": "sufriéramos",
+      "vosotros": "sufrierais",
+      "uds": "sufrieran"
+    },
+    "futuro": {
+      "yo": "sufriere",
+      "tu": "sufrieres",
+      "ud": "sufriere",
+      "nosotros": "sufriéremos",
+      "vosotros": "sufriereis",
+      "uds": "sufrieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sufrido",
+      "tu": "hayas sufrido",
+      "ud": "haya sufrido",
+      "nosotros": "hayamos sufrido",
+      "vosotros": "hayáis sufrido",
+      "uds": "hayan sufrido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sufrido",
+      "tu": "hubieres sufrido",
+      "ud": "hubiere sufrido",
+      "nosotros": "hubiéremos sufrido",
+      "vosotros": "hubiereis sufrido",
+      "uds": "hubieren sufrido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sufrido",
+      "tu": "hubieras sufrido",
+      "ud": "hubiera sufrido",
+      "nosotros": "hubiéramos sufrido",
+      "vosotros": "hubierais sufrido",
+      "uds": "hubieran sufrido"
+    },
+    "imperfectoAlt": {
+      "yo": "sufriese",
+      "tu": "sufrieses",
+      "ud": "sufriese",
+      "nosotros": "sufriésemos",
+      "vosotros": "sufrieseis",
+      "uds": "sufriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sufrido",
+      "tu": "hubieses sufrido",
+      "ud": "hubiese sufrido",
+      "nosotros": "hubiésemos sufrido",
+      "vosotros": "hubieseis sufrido",
+      "uds": "hubiesen sufrido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sufre",
+    "vosotros": "sufrid",
+    "ud": "sufra",
+    "uds": "sufran"
+  },
+  "negativo": {
+    "tu": "no sufras",
+    "vosotros": "no sufráis",
+    "ud": "no sufra",
+    "uds": "no sufran"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to suffer; to undergo, experience, put up with",
+    "gerundio": "suffering",
+    "participioPasado": "suffered",
+    "indicativo": {
+      "presente": "I suffer, am suffering",
+      "futuro": "I will suffer",
+      "imperfecto": "I was suffering, used to suffer, suffered",
+      "preterito": "I suffered",
+      "condicional": "I would suffer",
+      "presentePerfecto": "I have suffered",
+      "futuroPerfecto": "I will have suffered",
+      "pluscuamperfecto": "I had suffered",
+      "preteritoAnterior": "I had suffered",
+      "condicionalPerfecto": "I would have suffered"
+    },
+    "subjuntivo": {
+      "presente": "I suffer, am suffering",
+      "imperfecto": "I suffered, was suffering",
+      "futuro": "I will suffer",
+      "presentePerfecto": "I have suffered, suffered",
+      "futuroPerfecto": "I will have suffered",
+      "pluscuamperfecto": "I had suffered"
+    },
+    "afirmativo": "Suffer!",
+    "negativo": "Don't suffer!"
+  },
+  "attribution": "Fred Jehle"
+}

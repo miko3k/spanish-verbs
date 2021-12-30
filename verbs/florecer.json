@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "florecer",
+  "gerundio": "floreciendo",
+  "participioPasado": "florecido",
+  "indicativo": {
+    "presente": {
+      "yo": "florezco",
+      "tu": "floreces",
+      "ud": "florece",
+      "nosotros": "florecemos",
+      "vosotros": "florecéis",
+      "uds": "florecen"
+    },
+    "futuro": {
+      "yo": "floreceré",
+      "tu": "florecerás",
+      "ud": "florecerá",
+      "nosotros": "floreceremos",
+      "vosotros": "floreceréis",
+      "uds": "florecerán"
+    },
+    "imperfecto": {
+      "yo": "florecía",
+      "tu": "florecías",
+      "ud": "florecía",
+      "nosotros": "florecíamos",
+      "vosotros": "florecíais",
+      "uds": "florecían"
+    },
+    "preterito": {
+      "yo": "florecí",
+      "tu": "floreciste",
+      "ud": "floreció",
+      "nosotros": "florecimos",
+      "vosotros": "florecisteis",
+      "uds": "florecieron"
+    },
+    "condicional": {
+      "yo": "florecería",
+      "tu": "florecerías",
+      "ud": "florecería",
+      "nosotros": "floreceríamos",
+      "vosotros": "floreceríais",
+      "uds": "florecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he florecido",
+      "tu": "has florecido",
+      "ud": "ha florecido",
+      "nosotros": "hemos florecido",
+      "vosotros": "habéis florecido",
+      "uds": "han florecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré florecido",
+      "tu": "habrás florecido",
+      "ud": "habrá florecido",
+      "nosotros": "habremos florecido",
+      "vosotros": "habréis florecido",
+      "uds": "habrán florecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había florecido",
+      "tu": "habías florecido",
+      "ud": "había florecido",
+      "nosotros": "habíamos florecido",
+      "vosotros": "habíais florecido",
+      "uds": "habían florecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube florecido",
+      "tu": "hubiste florecido",
+      "ud": "hubo florecido",
+      "nosotros": "hubimos florecido",
+      "vosotros": "hubisteis florecido",
+      "uds": "hubieron florecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría florecido",
+      "tu": "habrías florecido",
+      "ud": "habría florecido",
+      "nosotros": "habríamos florecido",
+      "vosotros": "habríais florecido",
+      "uds": "habrían florecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "florezca",
+      "tu": "florezcas",
+      "ud": "florezca",
+      "nosotros": "florezcamos",
+      "vosotros": "florezcáis",
+      "uds": "florezcan"
+    },
+    "imperfecto": {
+      "yo": "floreciera",
+      "tu": "florecieras",
+      "ud": "floreciera",
+      "nosotros": "floreciéramos",
+      "vosotros": "florecierais",
+      "uds": "florecieran"
+    },
+    "futuro": {
+      "yo": "floreciere",
+      "tu": "florecieres",
+      "ud": "floreciere",
+      "nosotros": "floreciéremos",
+      "vosotros": "floreciereis",
+      "uds": "florecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya florecido",
+      "tu": "hayas florecido",
+      "ud": "haya florecido",
+      "nosotros": "hayamos florecido",
+      "vosotros": "hayáis florecido",
+      "uds": "hayan florecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere florecido",
+      "tu": "hubieres florecido",
+      "ud": "hubiere florecido",
+      "nosotros": "hubiéremos florecido",
+      "vosotros": "hubiereis florecido",
+      "uds": "hubieren florecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera florecido",
+      "tu": "hubieras florecido",
+      "ud": "hubiera florecido",
+      "nosotros": "hubiéramos florecido",
+      "vosotros": "hubierais florecido",
+      "uds": "hubieran florecido"
+    },
+    "imperfectoAlt": {
+      "yo": "floreciese",
+      "tu": "florecieses",
+      "ud": "floreciese",
+      "nosotros": "floreciésemos",
+      "vosotros": "florecieseis",
+      "uds": "floreciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese florecido",
+      "tu": "hubieses florecido",
+      "ud": "hubiese florecido",
+      "nosotros": "hubiésemos florecido",
+      "vosotros": "hubieseis florecido",
+      "uds": "hubiesen florecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "florece",
+    "vosotros": "floreced",
+    "ud": "florezca",
+    "uds": "florezcan"
+  },
+  "negativo": {
+    "tu": "no florezcas",
+    "vosotros": "no florezcáis",
+    "ud": "no florezca",
+    "uds": "no florezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: florezco, florezca, florezcas, etc.",
+    "infinitivo": "to flourish, flower, bloom",
+    "gerundio": "flourishing",
+    "participioPasado": "flourished",
+    "indicativo": {
+      "presente": "I flourish, am flourishing",
+      "futuro": "I will flourish",
+      "imperfecto": "I was flourishing, used to flourish, flourished",
+      "preterito": "I flourished",
+      "condicional": "I would flourish",
+      "presentePerfecto": "I have flourished",
+      "futuroPerfecto": "I will have flourished",
+      "pluscuamperfecto": "I had flourished",
+      "preteritoAnterior": "I had flourished",
+      "condicionalPerfecto": "I would have flourished"
+    },
+    "subjuntivo": {
+      "presente": "I flourish, am flourishing",
+      "imperfecto": "I flourished, was flourishing",
+      "futuro": "I will flourish",
+      "presentePerfecto": "I have flourished, flourished",
+      "futuroPerfecto": "I will have flourished",
+      "pluscuamperfecto": "I had flourished"
+    },
+    "afirmativo": "Flourish!",
+    "negativo": "Don't flourish!"
+  },
+  "attribution": "Fred Jehle"
+}

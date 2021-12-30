@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "asustar",
+  "gerundio": "asustando",
+  "participioPasado": "asustado",
+  "indicativo": {
+    "presente": {
+      "yo": "asusto",
+      "tu": "asustas",
+      "ud": "asusta",
+      "nosotros": "asustamos",
+      "vosotros": "asustáis",
+      "uds": "asustan"
+    },
+    "futuro": {
+      "yo": "asustaré",
+      "tu": "asustarás",
+      "ud": "asustará",
+      "nosotros": "asustaremos",
+      "vosotros": "asustaréis",
+      "uds": "asustarán"
+    },
+    "imperfecto": {
+      "yo": "asustaba",
+      "tu": "asustabas",
+      "ud": "asustaba",
+      "nosotros": "asustábamos",
+      "vosotros": "asustabais",
+      "uds": "asustaban"
+    },
+    "preterito": {
+      "yo": "asusté",
+      "tu": "asustaste",
+      "ud": "asustó",
+      "nosotros": "asustamos",
+      "vosotros": "asustasteis",
+      "uds": "asustaron"
+    },
+    "condicional": {
+      "yo": "asustaría",
+      "tu": "asustarías",
+      "ud": "asustaría",
+      "nosotros": "asustaríamos",
+      "vosotros": "asustaríais",
+      "uds": "asustarían"
+    },
+    "presentePerfecto": {
+      "yo": "he asustado",
+      "tu": "has asustado",
+      "ud": "ha asustado",
+      "nosotros": "hemos asustado",
+      "vosotros": "habéis asustado",
+      "uds": "han asustado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré asustado",
+      "tu": "habrás asustado",
+      "ud": "habrá asustado",
+      "nosotros": "habremos asustado",
+      "vosotros": "habréis asustado",
+      "uds": "habrán asustado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había asustado",
+      "tu": "habías asustado",
+      "ud": "había asustado",
+      "nosotros": "habíamos asustado",
+      "vosotros": "habíais asustado",
+      "uds": "habían asustado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube asustado",
+      "tu": "hubiste asustado",
+      "ud": "hubo asustado",
+      "nosotros": "hubimos asustado",
+      "vosotros": "hubisteis asustado",
+      "uds": "hubieron asustado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría asustado",
+      "tu": "habrías asustado",
+      "ud": "habría asustado",
+      "nosotros": "habríamos asustado",
+      "vosotros": "habríais asustado",
+      "uds": "habrían asustado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "asuste",
+      "tu": "asustes",
+      "ud": "asuste",
+      "nosotros": "asustemos",
+      "vosotros": "asustéis",
+      "uds": "asusten"
+    },
+    "imperfecto": {
+      "yo": "asustara",
+      "tu": "asustaras",
+      "ud": "asustara",
+      "nosotros": "asustáramos",
+      "vosotros": "asustarais",
+      "uds": "asustaran"
+    },
+    "futuro": {
+      "yo": "asustare",
+      "tu": "asustares",
+      "ud": "asustare",
+      "nosotros": "asustáremos",
+      "vosotros": "asustareis",
+      "uds": "asustaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya asustado",
+      "tu": "hayas asustado",
+      "ud": "haya asustado",
+      "nosotros": "hayamos asustado",
+      "vosotros": "hayáis asustado",
+      "uds": "hayan asustado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere asustado",
+      "tu": "hubieres asustado",
+      "ud": "hubiere asustado",
+      "nosotros": "hubiéremos asustado",
+      "vosotros": "hubiereis asustado",
+      "uds": "hubieren asustado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera asustado",
+      "tu": "hubieras asustado",
+      "ud": "hubiera asustado",
+      "nosotros": "hubiéramos asustado",
+      "vosotros": "hubierais asustado",
+      "uds": "hubieran asustado"
+    },
+    "imperfectoAlt": {
+      "yo": "asustase",
+      "tu": "asustases",
+      "ud": "asustase",
+      "nosotros": "asustásemos",
+      "vosotros": "asustaseis",
+      "uds": "asustasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese asustado",
+      "tu": "hubieses asustado",
+      "ud": "hubiese asustado",
+      "nosotros": "hubiésemos asustado",
+      "vosotros": "hubieseis asustado",
+      "uds": "hubiesen asustado"
+    }
+  },
+  "afirmativo": {
+    "tu": "asusta",
+    "vosotros": "asustad",
+    "ud": "asuste",
+    "uds": "asusten"
+  },
+  "negativo": {
+    "tu": "no asustes",
+    "vosotros": "no asustéis",
+    "ud": "no asuste",
+    "uds": "no asusten"
+  },
+  "english": {
+    "note": "Note: The reflexive form asustarse is used to mean to become frightened, to be frightened.",
+    "infinitivo": "to frighten, scare, startle",
+    "gerundio": "frightening",
+    "participioPasado": "frightened",
+    "indicativo": {
+      "presente": "I frighten, am frightening",
+      "futuro": "I will frighten",
+      "imperfecto": "I was frightening, used to frighten, frightened",
+      "preterito": "I frightened",
+      "condicional": "I would frighten",
+      "presentePerfecto": "I have frightened",
+      "futuroPerfecto": "I will have frightened",
+      "pluscuamperfecto": "I had frightened",
+      "preteritoAnterior": "I had frightened",
+      "condicionalPerfecto": "I would have frightened"
+    },
+    "subjuntivo": {
+      "presente": "I frighten, am frightening",
+      "imperfecto": "I frightened, was frightening",
+      "futuro": "I will frighten",
+      "presentePerfecto": "I have frightened, frightened",
+      "futuroPerfecto": "I will have frightened",
+      "pluscuamperfecto": "I had frightened"
+    },
+    "afirmativo": "Frighten!",
+    "negativo": "Don't frighten!"
+  },
+  "attribution": "Fred Jehle"
+}

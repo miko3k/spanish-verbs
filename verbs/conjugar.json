@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "conjugar",
+  "gerundio": "conjugando",
+  "participioPasado": "conjugado",
+  "indicativo": {
+    "presente": {
+      "yo": "conjugo",
+      "tu": "conjugas",
+      "ud": "conjuga",
+      "nosotros": "conjugamos",
+      "vosotros": "conjugáis",
+      "uds": "conjugan"
+    },
+    "futuro": {
+      "yo": "conjugaré",
+      "tu": "conjugarás",
+      "ud": "conjugará",
+      "nosotros": "conjugaremos",
+      "vosotros": "conjugaréis",
+      "uds": "conjugarán"
+    },
+    "imperfecto": {
+      "yo": "conjugaba",
+      "tu": "conjugabas",
+      "ud": "conjugaba",
+      "nosotros": "conjugábamos",
+      "vosotros": "conjugabais",
+      "uds": "conjugaban"
+    },
+    "preterito": {
+      "yo": "conjugué",
+      "tu": "conjugaste",
+      "ud": "conjugó",
+      "nosotros": "conjugamos",
+      "vosotros": "conjugasteis",
+      "uds": "conjugaron"
+    },
+    "condicional": {
+      "yo": "conjugaría",
+      "tu": "conjugarías",
+      "ud": "conjugaría",
+      "nosotros": "conjugaríamos",
+      "vosotros": "conjugaríais",
+      "uds": "conjugarían"
+    },
+    "presentePerfecto": {
+      "yo": "he conjugado",
+      "tu": "has conjugado",
+      "ud": "ha conjugado",
+      "nosotros": "hemos conjugado",
+      "vosotros": "habéis conjugado",
+      "uds": "han conjugado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré conjugado",
+      "tu": "habrás conjugado",
+      "ud": "habrá conjugado",
+      "nosotros": "habremos conjugado",
+      "vosotros": "habréis conjugado",
+      "uds": "habrán conjugado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había conjugado",
+      "tu": "habías conjugado",
+      "ud": "había conjugado",
+      "nosotros": "habíamos conjugado",
+      "vosotros": "habíais conjugado",
+      "uds": "habían conjugado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube conjugado",
+      "tu": "hubiste conjugado",
+      "ud": "hubo conjugado",
+      "nosotros": "hubimos conjugado",
+      "vosotros": "hubisteis conjugado",
+      "uds": "hubieron conjugado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría conjugado",
+      "tu": "habrías conjugado",
+      "ud": "habría conjugado",
+      "nosotros": "habríamos conjugado",
+      "vosotros": "habríais conjugado",
+      "uds": "habrían conjugado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "conjugue",
+      "tu": "conjugues",
+      "ud": "conjugue",
+      "nosotros": "conjuguemos",
+      "vosotros": "conjuguéis",
+      "uds": "conjuguen"
+    },
+    "imperfecto": {
+      "yo": "conjugara",
+      "tu": "conjugaras",
+      "ud": "conjugara",
+      "nosotros": "conjugáramos",
+      "vosotros": "conjugarais",
+      "uds": "conjugaran"
+    },
+    "futuro": {
+      "yo": "conjugare",
+      "tu": "conjugares",
+      "ud": "conjugare",
+      "nosotros": "conjugáremos",
+      "vosotros": "conjugareis",
+      "uds": "conjugaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya conjugado",
+      "tu": "hayas conjugado",
+      "ud": "haya conjugado",
+      "nosotros": "hayamos conjugado",
+      "vosotros": "hayáis conjugado",
+      "uds": "hayan conjugado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere conjugado",
+      "tu": "hubieres conjugado",
+      "ud": "hubiere conjugado",
+      "nosotros": "hubiéremos conjugado",
+      "vosotros": "hubiereis conjugado",
+      "uds": "hubieren conjugado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera conjugado",
+      "tu": "hubieras conjugado",
+      "ud": "hubiera conjugado",
+      "nosotros": "hubiéramos conjugado",
+      "vosotros": "hubierais conjugado",
+      "uds": "hubieran conjugado"
+    },
+    "imperfectoAlt": {
+      "yo": "conjugase",
+      "tu": "conjugases",
+      "ud": "conjugase",
+      "nosotros": "conjugásemos",
+      "vosotros": "conjugaseis",
+      "uds": "conjugasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese conjugado",
+      "tu": "hubieses conjugado",
+      "ud": "hubiese conjugado",
+      "nosotros": "hubiésemos conjugado",
+      "vosotros": "hubieseis conjugado",
+      "uds": "hubiesen conjugado"
+    }
+  },
+  "afirmativo": {
+    "tu": "conjuga",
+    "vosotros": "conjugad",
+    "ud": "conjugue",
+    "uds": "conjuguen"
+  },
+  "negativo": {
+    "tu": "no conjugues",
+    "vosotros": "no conjuguéis",
+    "ud": "no conjugue",
+    "uds": "no conjuguen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to conjugate",
+    "gerundio": "conjugating",
+    "participioPasado": "conjugated",
+    "indicativo": {
+      "presente": "I conjugate, am conjugating",
+      "futuro": "I will conjugate",
+      "imperfecto": "I was conjugating, used to conjugate, conjugated",
+      "preterito": "I conjugated",
+      "condicional": "I would conjugate",
+      "presentePerfecto": "I have conjugated",
+      "futuroPerfecto": "I will have conjugated",
+      "pluscuamperfecto": "I had conjugated",
+      "preteritoAnterior": "I had conjugated",
+      "condicionalPerfecto": "I would have conjugated"
+    },
+    "subjuntivo": {
+      "presente": "I conjugate, am conjugating",
+      "imperfecto": "I conjugated, was conjugating",
+      "futuro": "I will conjugate",
+      "presentePerfecto": "I have conjugated, conjugated",
+      "futuroPerfecto": "I will have conjugated",
+      "pluscuamperfecto": "I had conjugated"
+    },
+    "afirmativo": "Conjugate!",
+    "negativo": "Don't conjugate!"
+  },
+  "attribution": "Fred Jehle"
+}

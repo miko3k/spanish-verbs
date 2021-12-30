@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "resultar",
+  "gerundio": "resultando",
+  "participioPasado": "resultado",
+  "indicativo": {
+    "presente": {
+      "yo": "resulto",
+      "tu": "resultas",
+      "ud": "resulta",
+      "nosotros": "resultamos",
+      "vosotros": "resultáis",
+      "uds": "resultan"
+    },
+    "futuro": {
+      "yo": "resultaré",
+      "tu": "resultarás",
+      "ud": "resultará",
+      "nosotros": "resultaremos",
+      "vosotros": "resultaréis",
+      "uds": "resultarán"
+    },
+    "imperfecto": {
+      "yo": "resultaba",
+      "tu": "resultabas",
+      "ud": "resultaba",
+      "nosotros": "resultábamos",
+      "vosotros": "resultabais",
+      "uds": "resultaban"
+    },
+    "preterito": {
+      "yo": "resulté",
+      "tu": "resultaste",
+      "ud": "resultó",
+      "nosotros": "resultamos",
+      "vosotros": "resultasteis",
+      "uds": "resultaron"
+    },
+    "condicional": {
+      "yo": "resultaría",
+      "tu": "resultarías",
+      "ud": "resultaría",
+      "nosotros": "resultaríamos",
+      "vosotros": "resultaríais",
+      "uds": "resultarían"
+    },
+    "presentePerfecto": {
+      "yo": "he resultado",
+      "tu": "has resultado",
+      "ud": "ha resultado",
+      "nosotros": "hemos resultado",
+      "vosotros": "habéis resultado",
+      "uds": "han resultado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré resultado",
+      "tu": "habrás resultado",
+      "ud": "habrá resultado",
+      "nosotros": "habremos resultado",
+      "vosotros": "habréis resultado",
+      "uds": "habrán resultado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había resultado",
+      "tu": "habías resultado",
+      "ud": "había resultado",
+      "nosotros": "habíamos resultado",
+      "vosotros": "habíais resultado",
+      "uds": "habían resultado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube resultado",
+      "tu": "hubiste resultado",
+      "ud": "hubo resultado",
+      "nosotros": "hubimos resultado",
+      "vosotros": "hubisteis resultado",
+      "uds": "hubieron resultado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría resultado",
+      "tu": "habrías resultado",
+      "ud": "habría resultado",
+      "nosotros": "habríamos resultado",
+      "vosotros": "habríais resultado",
+      "uds": "habrían resultado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "resulte",
+      "tu": "resultes",
+      "ud": "resulte",
+      "nosotros": "resultemos",
+      "vosotros": "resultéis",
+      "uds": "resulten"
+    },
+    "imperfecto": {
+      "yo": "resultara",
+      "tu": "resultaras",
+      "ud": "resultara",
+      "nosotros": "resultáramos",
+      "vosotros": "resultarais",
+      "uds": "resultaran"
+    },
+    "futuro": {
+      "yo": "resultare",
+      "tu": "resultares",
+      "ud": "resultare",
+      "nosotros": "resultáremos",
+      "vosotros": "resultareis",
+      "uds": "resultaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya resultado",
+      "tu": "hayas resultado",
+      "ud": "haya resultado",
+      "nosotros": "hayamos resultado",
+      "vosotros": "hayáis resultado",
+      "uds": "hayan resultado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere resultado",
+      "tu": "hubieres resultado",
+      "ud": "hubiere resultado",
+      "nosotros": "hubiéremos resultado",
+      "vosotros": "hubiereis resultado",
+      "uds": "hubieren resultado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera resultado",
+      "tu": "hubieras resultado",
+      "ud": "hubiera resultado",
+      "nosotros": "hubiéramos resultado",
+      "vosotros": "hubierais resultado",
+      "uds": "hubieran resultado"
+    },
+    "imperfectoAlt": {
+      "yo": "resultase",
+      "tu": "resultases",
+      "ud": "resultase",
+      "nosotros": "resultásemos",
+      "vosotros": "resultaseis",
+      "uds": "resultasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese resultado",
+      "tu": "hubieses resultado",
+      "ud": "hubiese resultado",
+      "nosotros": "hubiésemos resultado",
+      "vosotros": "hubieseis resultado",
+      "uds": "hubiesen resultado"
+    }
+  },
+  "afirmativo": {
+    "tu": "resulta",
+    "vosotros": "resultad",
+    "ud": "resulte",
+    "uds": "resulten"
+  },
+  "negativo": {
+    "tu": "no resultes",
+    "vosotros": "no resultéis",
+    "ud": "no resulte",
+    "uds": "no resulten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to turn out (to be), prove (to be), ensue",
+    "gerundio": "turning out",
+    "participioPasado": "turned out",
+    "indicativo": {
+      "presente": "I turn out, am turning out",
+      "futuro": "I will turn out",
+      "imperfecto": "I was turning out, used to turn out, turned out",
+      "preterito": "I turned out",
+      "condicional": "I would turn out",
+      "presentePerfecto": "I have turned out",
+      "futuroPerfecto": "I will have turned out",
+      "pluscuamperfecto": "I had turned out",
+      "preteritoAnterior": "I had turned out",
+      "condicionalPerfecto": "I would have turned out"
+    },
+    "subjuntivo": {
+      "presente": "I turn out, am turning out",
+      "imperfecto": "I turned out, was turning out",
+      "futuro": "I will turn out",
+      "presentePerfecto": "I have turned out, turned out",
+      "futuroPerfecto": "I will have turned out",
+      "pluscuamperfecto": "I had turned out"
+    },
+    "afirmativo": "Yurn out!",
+    "negativo": "Don't turn out!"
+  },
+  "attribution": "Fred Jehle"
+}

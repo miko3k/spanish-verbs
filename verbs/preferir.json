@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "preferir",
+  "gerundio": "prefiriendo",
+  "participioPasado": "preferido",
+  "indicativo": {
+    "presente": {
+      "yo": "prefiero",
+      "tu": "prefieres",
+      "ud": "prefiere",
+      "nosotros": "preferimos",
+      "vosotros": "preferís",
+      "uds": "prefieren"
+    },
+    "futuro": {
+      "yo": "preferiré",
+      "tu": "preferirás",
+      "ud": "preferirá",
+      "nosotros": "preferiremos",
+      "vosotros": "preferiréis",
+      "uds": "preferirán"
+    },
+    "imperfecto": {
+      "yo": "prefería",
+      "tu": "preferías",
+      "ud": "prefería",
+      "nosotros": "preferíamos",
+      "vosotros": "preferíais",
+      "uds": "preferían"
+    },
+    "preterito": {
+      "yo": "preferí",
+      "tu": "preferiste",
+      "ud": "prefirió",
+      "nosotros": "preferimos",
+      "vosotros": "preferisteis",
+      "uds": "prefirieron"
+    },
+    "condicional": {
+      "yo": "preferiría",
+      "tu": "preferirías",
+      "ud": "preferiría",
+      "nosotros": "preferiríamos",
+      "vosotros": "preferiríais",
+      "uds": "preferirían"
+    },
+    "presentePerfecto": {
+      "yo": "he preferido",
+      "tu": "has preferido",
+      "ud": "ha preferido",
+      "nosotros": "hemos preferido",
+      "vosotros": "habéis preferido",
+      "uds": "han preferido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré preferido",
+      "tu": "habrás preferido",
+      "ud": "habrá preferido",
+      "nosotros": "habremos preferido",
+      "vosotros": "habréis preferido",
+      "uds": "habrán preferido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había preferido",
+      "tu": "habías preferido",
+      "ud": "había preferido",
+      "nosotros": "habíamos preferido",
+      "vosotros": "habíais preferido",
+      "uds": "habían preferido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube preferido",
+      "tu": "hubiste preferido",
+      "ud": "hubo preferido",
+      "nosotros": "hubimos preferido",
+      "vosotros": "hubisteis preferido",
+      "uds": "hubieron preferido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría preferido",
+      "tu": "habrías preferido",
+      "ud": "habría preferido",
+      "nosotros": "habríamos preferido",
+      "vosotros": "habríais preferido",
+      "uds": "habrían preferido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "prefiera",
+      "tu": "prefieras",
+      "ud": "prefiera",
+      "nosotros": "prefiramos",
+      "vosotros": "prefiráis",
+      "uds": "prefieran"
+    },
+    "imperfecto": {
+      "yo": "prefiriera",
+      "tu": "prefirieras",
+      "ud": "prefiriera",
+      "nosotros": "prefiriéramos",
+      "vosotros": "prefirierais",
+      "uds": "prefirieran"
+    },
+    "futuro": {
+      "yo": "prefiriere",
+      "tu": "prefirieres",
+      "ud": "prefiriere",
+      "nosotros": "prefiriéremos",
+      "vosotros": "prefiriereis",
+      "uds": "prefirieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya preferido",
+      "tu": "hayas preferido",
+      "ud": "haya preferido",
+      "nosotros": "hayamos preferido",
+      "vosotros": "hayáis preferido",
+      "uds": "hayan preferido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere preferido",
+      "tu": "hubieres preferido",
+      "ud": "hubiere preferido",
+      "nosotros": "hubiéremos preferido",
+      "vosotros": "hubiereis preferido",
+      "uds": "hubieren preferido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera preferido",
+      "tu": "hubieras preferido",
+      "ud": "hubiera preferido",
+      "nosotros": "hubiéramos preferido",
+      "vosotros": "hubierais preferido",
+      "uds": "hubieran preferido"
+    },
+    "imperfectoAlt": {
+      "yo": "prefiriese",
+      "tu": "prefirieses",
+      "ud": "prefiriese",
+      "nosotros": "prefiriésemos",
+      "vosotros": "prefirieseis",
+      "uds": "prefiriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese preferido",
+      "tu": "hubieses preferido",
+      "ud": "hubiese preferido",
+      "nosotros": "hubiésemos preferido",
+      "vosotros": "hubieseis preferido",
+      "uds": "hubiesen preferido"
+    }
+  },
+  "afirmativo": {
+    "tu": "prefiere",
+    "vosotros": "preferid",
+    "ud": "prefiera",
+    "uds": "prefieran"
+  },
+  "negativo": {
+    "tu": "no prefieras",
+    "vosotros": "no prefiráis",
+    "ud": "no prefiera",
+    "uds": "no prefieran"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i.",
+    "infinitivo": "to prefer",
+    "gerundio": "preferring",
+    "participioPasado": "preferred",
+    "indicativo": {
+      "presente": "I prefer, am preferring",
+      "futuro": "I will prefer",
+      "imperfecto": "I was preferring, used to prefer, preferred",
+      "preterito": "I preferred",
+      "condicional": "I would prefer",
+      "presentePerfecto": "I have preferred",
+      "futuroPerfecto": "I will have preferred",
+      "pluscuamperfecto": "I had preferred",
+      "preteritoAnterior": "I had preferred",
+      "condicionalPerfecto": "I would have preferred"
+    },
+    "subjuntivo": {
+      "presente": "I prefer, am preferring",
+      "imperfecto": "I preferred, was preferring",
+      "futuro": "I will prefer",
+      "presentePerfecto": "I have preferred, preferred",
+      "futuroPerfecto": "I will have preferred",
+      "pluscuamperfecto": "I had preferred"
+    },
+    "afirmativo": "Prefer!",
+    "negativo": "Don't prefer!"
+  },
+  "attribution": "Fred Jehle"
+}

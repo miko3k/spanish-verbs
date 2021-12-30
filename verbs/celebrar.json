@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "celebrar",
+  "gerundio": "celebrando",
+  "participioPasado": "celebrado",
+  "indicativo": {
+    "presente": {
+      "yo": "celebro",
+      "tu": "celebras",
+      "ud": "celebra",
+      "nosotros": "celebramos",
+      "vosotros": "celebráis",
+      "uds": "celebran"
+    },
+    "futuro": {
+      "yo": "celebraré",
+      "tu": "celebrarás",
+      "ud": "celebrará",
+      "nosotros": "celebraremos",
+      "vosotros": "celebraréis",
+      "uds": "celebrarán"
+    },
+    "imperfecto": {
+      "yo": "celebraba",
+      "tu": "celebrabas",
+      "ud": "celebraba",
+      "nosotros": "celebrábamos",
+      "vosotros": "celebrabais",
+      "uds": "celebraban"
+    },
+    "preterito": {
+      "yo": "celebré",
+      "tu": "celebraste",
+      "ud": "celebró",
+      "nosotros": "celebramos",
+      "vosotros": "celebrasteis",
+      "uds": "celebraron"
+    },
+    "condicional": {
+      "yo": "celebraría",
+      "tu": "celebrarías",
+      "ud": "celebraría",
+      "nosotros": "celebraríamos",
+      "vosotros": "celebraríais",
+      "uds": "celebrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he celebrado",
+      "tu": "has celebrado",
+      "ud": "ha celebrado",
+      "nosotros": "hemos celebrado",
+      "vosotros": "habéis celebrado",
+      "uds": "han celebrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré celebrado",
+      "tu": "habrás celebrado",
+      "ud": "habrá celebrado",
+      "nosotros": "habremos celebrado",
+      "vosotros": "habréis celebrado",
+      "uds": "habrán celebrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había celebrado",
+      "tu": "habías celebrado",
+      "ud": "había celebrado",
+      "nosotros": "habíamos celebrado",
+      "vosotros": "habíais celebrado",
+      "uds": "habían celebrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube celebrado",
+      "tu": "hubiste celebrado",
+      "ud": "hubo celebrado",
+      "nosotros": "hubimos celebrado",
+      "vosotros": "hubisteis celebrado",
+      "uds": "hubieron celebrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría celebrado",
+      "tu": "habrías celebrado",
+      "ud": "habría celebrado",
+      "nosotros": "habríamos celebrado",
+      "vosotros": "habríais celebrado",
+      "uds": "habrían celebrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "celebre",
+      "tu": "celebres",
+      "ud": "celebre",
+      "nosotros": "celebremos",
+      "vosotros": "celebréis",
+      "uds": "celebren"
+    },
+    "imperfecto": {
+      "yo": "celebrara",
+      "tu": "celebraras",
+      "ud": "celebrara",
+      "nosotros": "celebráramos",
+      "vosotros": "celebrarais",
+      "uds": "celebraran"
+    },
+    "futuro": {
+      "yo": "celebrare",
+      "tu": "celebrares",
+      "ud": "celebrare",
+      "nosotros": "celebráremos",
+      "vosotros": "celebrareis",
+      "uds": "celebraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya celebrado",
+      "tu": "hayas celebrado",
+      "ud": "haya celebrado",
+      "nosotros": "hayamos celebrado",
+      "vosotros": "hayáis celebrado",
+      "uds": "hayan celebrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere celebrado",
+      "tu": "hubieres celebrado",
+      "ud": "hubiere celebrado",
+      "nosotros": "hubiéremos celebrado",
+      "vosotros": "hubiereis celebrado",
+      "uds": "hubieren celebrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera celebrado",
+      "tu": "hubieras celebrado",
+      "ud": "hubiera celebrado",
+      "nosotros": "hubiéramos celebrado",
+      "vosotros": "hubierais celebrado",
+      "uds": "hubieran celebrado"
+    },
+    "imperfectoAlt": {
+      "yo": "celebrase",
+      "tu": "celebrases",
+      "ud": "celebrase",
+      "nosotros": "celebrásemos",
+      "vosotros": "celebraseis",
+      "uds": "celebrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese celebrado",
+      "tu": "hubieses celebrado",
+      "ud": "hubiese celebrado",
+      "nosotros": "hubiésemos celebrado",
+      "vosotros": "hubieseis celebrado",
+      "uds": "hubiesen celebrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "celebra",
+    "vosotros": "celebrad",
+    "ud": "celebre",
+    "uds": "celebren"
+  },
+  "negativo": {
+    "tu": "no celebres",
+    "vosotros": "no celebréis",
+    "ud": "no celebre",
+    "uds": "no celebren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to celebrate; to praise, applaud",
+    "gerundio": "celebrating",
+    "participioPasado": "celebrated",
+    "indicativo": {
+      "presente": "I celebrate, am celebrating",
+      "futuro": "I will celebrate",
+      "imperfecto": "I was celebrating, used to celebrate, celebrated",
+      "preterito": "I celebrated",
+      "condicional": "I would celebrate",
+      "presentePerfecto": "I have celebrated",
+      "futuroPerfecto": "I will have celebrated",
+      "pluscuamperfecto": "I had celebrated",
+      "preteritoAnterior": "I had celebrated",
+      "condicionalPerfecto": "I would have celebrated"
+    },
+    "subjuntivo": {
+      "presente": "I celebrate, am celebrating",
+      "imperfecto": "I celebrated, was celebrating",
+      "futuro": "I will celebrate",
+      "presentePerfecto": "I have celebrated, celebrated",
+      "futuroPerfecto": "I will have celebrated",
+      "pluscuamperfecto": "I had celebrated"
+    },
+    "afirmativo": "Celebrate!",
+    "negativo": "Don't celebrate!"
+  },
+  "attribution": "Fred Jehle"
+}

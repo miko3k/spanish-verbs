@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "oler",
+  "gerundio": "oliendo",
+  "participioPasado": "olido",
+  "indicativo": {
+    "presente": {
+      "yo": "huelo",
+      "tu": "hueles",
+      "ud": "huele",
+      "nosotros": "olemos",
+      "vosotros": "oléis",
+      "uds": "huelen"
+    },
+    "futuro": {
+      "yo": "oleré",
+      "tu": "olerás",
+      "ud": "olerá",
+      "nosotros": "oleremos",
+      "vosotros": "oleréis",
+      "uds": "olerán"
+    },
+    "imperfecto": {
+      "yo": "olía",
+      "tu": "olías",
+      "ud": "olía",
+      "nosotros": "olíamos",
+      "vosotros": "olíais",
+      "uds": "olían"
+    },
+    "preterito": {
+      "yo": "olí",
+      "tu": "oliste",
+      "ud": "olió",
+      "nosotros": "olimos",
+      "vosotros": "olisteis",
+      "uds": "olieron"
+    },
+    "condicional": {
+      "yo": "olería",
+      "tu": "olerías",
+      "ud": "olería",
+      "nosotros": "oleríamos",
+      "vosotros": "oleríais",
+      "uds": "olerían"
+    },
+    "presentePerfecto": {
+      "yo": "he olido",
+      "tu": "has olido",
+      "ud": "ha olido",
+      "nosotros": "hemos olido",
+      "vosotros": "habéis olido",
+      "uds": "han olido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré olido",
+      "tu": "habrás olido",
+      "ud": "habrá olido",
+      "nosotros": "habremos olido",
+      "vosotros": "habréis olido",
+      "uds": "habrán olido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había olido",
+      "tu": "habías olido",
+      "ud": "había olido",
+      "nosotros": "habíamos olido",
+      "vosotros": "habíais olido",
+      "uds": "habían olido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube olido",
+      "tu": "hubiste olido",
+      "ud": "hubo olido",
+      "nosotros": "hubimos olido",
+      "vosotros": "hubisteis olido",
+      "uds": "hubieron olido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría olido",
+      "tu": "habrías olido",
+      "ud": "habría olido",
+      "nosotros": "habríamos olido",
+      "vosotros": "habríais olido",
+      "uds": "habrían olido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "huela",
+      "tu": "huelas",
+      "ud": "huela",
+      "nosotros": "olamos",
+      "vosotros": "oláis",
+      "uds": "huelan"
+    },
+    "imperfecto": {
+      "yo": "oliera",
+      "tu": "olieras",
+      "ud": "oliera",
+      "nosotros": "oliéramos",
+      "vosotros": "olierais",
+      "uds": "olieran"
+    },
+    "futuro": {
+      "yo": "oliere",
+      "tu": "olieres",
+      "ud": "oliere",
+      "nosotros": "oliéremos",
+      "vosotros": "oliereis",
+      "uds": "olieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya olido",
+      "tu": "hayas olido",
+      "ud": "haya olido",
+      "nosotros": "hayamos olido",
+      "vosotros": "hayáis olido",
+      "uds": "hayan olido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere olido",
+      "tu": "hubieres olido",
+      "ud": "hubiere olido",
+      "nosotros": "hubiéremos olido",
+      "vosotros": "hubiereis olido",
+      "uds": "hubieren olido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera olido",
+      "tu": "hubieras olido",
+      "ud": "hubiera olido",
+      "nosotros": "hubiéramos olido",
+      "vosotros": "hubierais olido",
+      "uds": "hubieran olido"
+    },
+    "imperfectoAlt": {
+      "yo": "oliese",
+      "tu": "olieses",
+      "ud": "oliese",
+      "nosotros": "oliésemos",
+      "vosotros": "olieseis",
+      "uds": "oliesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese olido",
+      "tu": "hubieses olido",
+      "ud": "hubiese olido",
+      "nosotros": "hubiésemos olido",
+      "vosotros": "hubieseis olido",
+      "uds": "hubiesen olido"
+    }
+  },
+  "afirmativo": {
+    "tu": "huele",
+    "vosotros": "oled",
+    "ud": "huela",
+    "uds": "huelan"
+  },
+  "negativo": {
+    "tu": "no huelas",
+    "vosotros": "no oláis",
+    "ud": "no huela",
+    "uds": "no huelan"
+  },
+  "english": {
+    "note": "Cambio radical (y ortográfico): o > hue cuando se acentúa.",
+    "infinitivo": "to smell",
+    "gerundio": "smelling",
+    "participioPasado": "smelled",
+    "indicativo": {
+      "presente": "I smell, am smelling",
+      "futuro": "I will smell",
+      "imperfecto": "I was smelling, used to smell, smelled",
+      "preterito": "I smelled",
+      "condicional": "I would smell",
+      "presentePerfecto": "I have smelled",
+      "futuroPerfecto": "I will have smelled",
+      "pluscuamperfecto": "I had smelled",
+      "preteritoAnterior": "I had smelled",
+      "condicionalPerfecto": "I would have smelled"
+    },
+    "subjuntivo": {
+      "presente": "I smell, am smelling",
+      "imperfecto": "I smelled, was smelling",
+      "futuro": "I will smell",
+      "presentePerfecto": "I have smelled, smelled",
+      "futuroPerfecto": "I will have smelled",
+      "pluscuamperfecto": "I had smelled"
+    },
+    "afirmativo": "Smell!",
+    "negativo": "Don't smell!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "acompañar",
+  "gerundio": "acompañando",
+  "participioPasado": "acompañado",
+  "indicativo": {
+    "presente": {
+      "yo": "acompaño",
+      "tu": "acompañas",
+      "ud": "acompaña",
+      "nosotros": "acompañamos",
+      "vosotros": "acompañáis",
+      "uds": "acompañan"
+    },
+    "futuro": {
+      "yo": "acompañaré",
+      "tu": "acompañarás",
+      "ud": "acompañará",
+      "nosotros": "acompañaremos",
+      "vosotros": "acompañaréis",
+      "uds": "acompañarán"
+    },
+    "imperfecto": {
+      "yo": "acompañaba",
+      "tu": "acompañabas",
+      "ud": "acompañaba",
+      "nosotros": "acompañábamos",
+      "vosotros": "acompañabais",
+      "uds": "acompañaban"
+    },
+    "preterito": {
+      "yo": "acompañé",
+      "tu": "acompañaste",
+      "ud": "acompañó",
+      "nosotros": "acompañamos",
+      "vosotros": "acompañasteis",
+      "uds": "acompañaron"
+    },
+    "condicional": {
+      "yo": "acompañaría",
+      "tu": "acompañarías",
+      "ud": "acompañaría",
+      "nosotros": "acompañaríamos",
+      "vosotros": "acompañaríais",
+      "uds": "acompañarían"
+    },
+    "presentePerfecto": {
+      "yo": "he acompañado",
+      "tu": "has acompañado",
+      "ud": "ha acompañado",
+      "nosotros": "hemos acompañado",
+      "vosotros": "habéis acompañado",
+      "uds": "han acompañado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré acompañado",
+      "tu": "habrás acompañado",
+      "ud": "habrá acompañado",
+      "nosotros": "habremos acompañado",
+      "vosotros": "habréis acompañado",
+      "uds": "habrán acompañado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había acompañado",
+      "tu": "habías acompañado",
+      "ud": "había acompañado",
+      "nosotros": "habíamos acompañado",
+      "vosotros": "habíais acompañado",
+      "uds": "habían acompañado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube acompañado",
+      "tu": "hubiste acompañado",
+      "ud": "hubo acompañado",
+      "nosotros": "hubimos acompañado",
+      "vosotros": "hubisteis acompañado",
+      "uds": "hubieron acompañado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría acompañado",
+      "tu": "habrías acompañado",
+      "ud": "habría acompañado",
+      "nosotros": "habríamos acompañado",
+      "vosotros": "habríais acompañado",
+      "uds": "habrían acompañado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "acompañe",
+      "tu": "acompañes",
+      "ud": "acompañe",
+      "nosotros": "acompañemos",
+      "vosotros": "acompañéis",
+      "uds": "acompañen"
+    },
+    "imperfecto": {
+      "yo": "acompañara",
+      "tu": "acompañaras",
+      "ud": "acompañara",
+      "nosotros": "acompañáramos",
+      "vosotros": "acompañarais",
+      "uds": "acompañaran"
+    },
+    "futuro": {
+      "yo": "acompañare",
+      "tu": "acompañares",
+      "ud": "acompañare",
+      "nosotros": "acompañáremos",
+      "vosotros": "acompañareis",
+      "uds": "acompañaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya acompañado",
+      "tu": "hayas acompañado",
+      "ud": "haya acompañado",
+      "nosotros": "hayamos acompañado",
+      "vosotros": "hayáis acompañado",
+      "uds": "hayan acompañado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere acompañado",
+      "tu": "hubieres acompañado",
+      "ud": "hubiere acompañado",
+      "nosotros": "hubiéremos acompañado",
+      "vosotros": "hubiereis acompañado",
+      "uds": "hubieren acompañado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera acompañado",
+      "tu": "hubieras acompañado",
+      "ud": "hubiera acompañado",
+      "nosotros": "hubiéramos acompañado",
+      "vosotros": "hubierais acompañado",
+      "uds": "hubieran acompañado"
+    },
+    "imperfectoAlt": {
+      "yo": "acompañase",
+      "tu": "acompañases",
+      "ud": "acompañase",
+      "nosotros": "acompañásemos",
+      "vosotros": "acompañaseis",
+      "uds": "acompañasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese acompañado",
+      "tu": "hubieses acompañado",
+      "ud": "hubiese acompañado",
+      "nosotros": "hubiésemos acompañado",
+      "vosotros": "hubieseis acompañado",
+      "uds": "hubiesen acompañado"
+    }
+  },
+  "afirmativo": {
+    "tu": "acompaña",
+    "vosotros": "acompañad",
+    "ud": "acompañe",
+    "uds": "acompañen"
+  },
+  "negativo": {
+    "tu": "no acompañes",
+    "vosotros": "no acompañéis",
+    "ud": "no acompañe",
+    "uds": "no acompañen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to accompany, go with, escort",
+    "gerundio": "accompanying",
+    "participioPasado": "accompanied",
+    "indicativo": {
+      "presente": "I accompany, am accompanying",
+      "futuro": "I will accompany",
+      "imperfecto": "I was accompanying, used to accompany, accompanied",
+      "preterito": "I accompanied",
+      "condicional": "I would accompany",
+      "presentePerfecto": "I have accompanied",
+      "futuroPerfecto": "I will have accompanied",
+      "pluscuamperfecto": "I had accompanied",
+      "preteritoAnterior": "I had accompanied",
+      "condicionalPerfecto": "I would have accompanied"
+    },
+    "subjuntivo": {
+      "presente": "I accompany, am accompanying",
+      "imperfecto": "I accompanied, was accompanying",
+      "futuro": "I will accompany",
+      "presentePerfecto": "I have accompanied, accompanied",
+      "futuroPerfecto": "I will have accompanied",
+      "pluscuamperfecto": "I had accompanied"
+    },
+    "afirmativo": "Accompany!",
+    "negativo": "Don't accompany!"
+  },
+  "attribution": "Fred Jehle"
+}

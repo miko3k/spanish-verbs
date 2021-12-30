@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "llamarse",
+  "gerundio": "llamándose",
+  "participioPasado": "llamado",
+  "indicativo": {
+    "presente": {
+      "yo": "me llamo",
+      "tu": "te llamas",
+      "ud": "se llama",
+      "nosotros": "nos llamamos",
+      "vosotros": "os llamáis",
+      "uds": "se llaman"
+    },
+    "futuro": {
+      "yo": "me llamaré",
+      "tu": "te llamarás",
+      "ud": "se llamará",
+      "nosotros": "nos llamaremos",
+      "vosotros": "os llamaréis",
+      "uds": "se llamarán"
+    },
+    "imperfecto": {
+      "yo": "me llamaba",
+      "tu": "te llamabas",
+      "ud": "se llamaba",
+      "nosotros": "nos llamábamos",
+      "vosotros": "os llamabais",
+      "uds": "se llamaban"
+    },
+    "preterito": {
+      "yo": "me llamé",
+      "tu": "te llamaste",
+      "ud": "se llamó",
+      "nosotros": "nos llamamos",
+      "vosotros": "os llamasteis",
+      "uds": "se llamaron"
+    },
+    "condicional": {
+      "yo": "me llamaría",
+      "tu": "te llamarías",
+      "ud": "se llamaría",
+      "nosotros": "nos llamaríamos",
+      "vosotros": "os llamaríais",
+      "uds": "se llamarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he llamado",
+      "tu": "te has llamado",
+      "ud": "se ha llamado",
+      "nosotros": "nos hemos llamado",
+      "vosotros": "os habéis llamado",
+      "uds": "se han llamado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré llamado",
+      "tu": "te habrás llamado",
+      "ud": "se habrá llamado",
+      "nosotros": "nos habremos llamado",
+      "vosotros": "os habréis llamado",
+      "uds": "se habrán llamado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había llamado",
+      "tu": "te habías llamado",
+      "ud": "se había llamado",
+      "nosotros": "nos habíamos llamado",
+      "vosotros": "os habíais llamado",
+      "uds": "se habían llamado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube llamado",
+      "tu": "te hubiste llamado",
+      "ud": "se hubo llamado",
+      "nosotros": "nos hubimos llamado",
+      "vosotros": "os hubisteis llamado",
+      "uds": "se hubieron llamado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría llamado",
+      "tu": "te habrías llamado",
+      "ud": "se habría llamado",
+      "nosotros": "nos habríamos llamado",
+      "vosotros": "os habríais llamado",
+      "uds": "se habrían llamado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me llame",
+      "tu": "te llames",
+      "ud": "se llame",
+      "nosotros": "nos llamemos",
+      "vosotros": "os llaméis",
+      "uds": "se llamen"
+    },
+    "imperfecto": {
+      "yo": "me llamara",
+      "tu": "te llamaras",
+      "ud": "se llamara",
+      "nosotros": "nos llamáramos",
+      "vosotros": "os llamarais",
+      "uds": "se llamaran"
+    },
+    "futuro": {
+      "yo": "me llamare",
+      "tu": "te llamares",
+      "ud": "se llamare",
+      "nosotros": "nos llamáremos",
+      "vosotros": "os llamareis",
+      "uds": "se llamaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya llamado",
+      "tu": "te hayas llamado",
+      "ud": "se haya llamado",
+      "nosotros": "nos hayamos llamado",
+      "vosotros": "os hayáis llamado",
+      "uds": "se hayan llamado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere llamado",
+      "tu": "te hubieres llamado",
+      "ud": "se hubiere llamado",
+      "nosotros": "nos hubiéremos llamado",
+      "vosotros": "os hubiereis llamado",
+      "uds": "se hubieren llamado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera llamado",
+      "tu": "te hubieras llamado",
+      "ud": "se hubiera llamado",
+      "nosotros": "nos hubiéramos llamado",
+      "vosotros": "os hubierais llamado",
+      "uds": "se hubieran llamado"
+    },
+    "imperfectoAlt": {
+      "yo": "me llamase",
+      "tu": "te llamases",
+      "ud": "se llamase",
+      "nosotros": "nos llamásemos",
+      "vosotros": "os llamaseis",
+      "uds": "se llamasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese llamado",
+      "tu": "te hubieses llamado",
+      "ud": "se hubiese llamado",
+      "nosotros": "nos hubiésemos llamado",
+      "vosotros": "os hubieseis llamado",
+      "uds": "se hubiesen llamado"
+    }
+  },
+  "afirmativo": {
+    "tu": "llámate",
+    "vosotros": "llamaos",
+    "ud": "llámese",
+    "uds": "llámense"
+  },
+  "negativo": {
+    "tu": "no te llames",
+    "vosotros": "no os llaméis",
+    "ud": "no se llame",
+    "uds": "no se llamen"
+  },
+  "english": {
+    "note": "Note: This verb is commonly used to express my/your/etc. name is, as given below. For to name or to call, use use the nonreflexive form llamar.",
+    "infinitivo": "to be called, be named",
+    "gerundio": "being named",
+    "participioPasado": "named",
+    "indicativo": {
+      "presente": "my name is",
+      "futuro": "my name will be",
+      "imperfecto": "my name was, my name used to be",
+      "preterito": "my name was",
+      "condicional": "my name would be",
+      "presentePerfecto": "my name has been",
+      "futuroPerfecto": "my name will have been",
+      "pluscuamperfecto": "my name had been",
+      "preteritoAnterior": "my name had been",
+      "condicionalPerfecto": "my name would have been"
+    },
+    "subjuntivo": {
+      "presente": "my name is",
+      "imperfecto": "my name was",
+      "futuro": "my name will be",
+      "presentePerfecto": "my name has been, my name was",
+      "futuroPerfecto": "my name will have been",
+      "pluscuamperfecto": "my name had been"
+    },
+    "afirmativo": "Be named! Call yourself!",
+    "negativo": "Don't be named/call yourself!"
+  },
+  "attribution": "Fred Jehle"
+}

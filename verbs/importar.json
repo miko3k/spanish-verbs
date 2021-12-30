@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "importar",
+  "gerundio": "importando",
+  "participioPasado": "importado",
+  "indicativo": {
+    "presente": {
+      "yo": "importo",
+      "tu": "importas",
+      "ud": "importa",
+      "nosotros": "importamos",
+      "vosotros": "importáis",
+      "uds": "importan"
+    },
+    "futuro": {
+      "yo": "importaré",
+      "tu": "importarás",
+      "ud": "importará",
+      "nosotros": "importaremos",
+      "vosotros": "importaréis",
+      "uds": "importarán"
+    },
+    "imperfecto": {
+      "yo": "importaba",
+      "tu": "importabas",
+      "ud": "importaba",
+      "nosotros": "importábamos",
+      "vosotros": "importabais",
+      "uds": "importaban"
+    },
+    "preterito": {
+      "yo": "importé",
+      "tu": "importaste",
+      "ud": "importó",
+      "nosotros": "importamos",
+      "vosotros": "importasteis",
+      "uds": "importaron"
+    },
+    "condicional": {
+      "yo": "importaría",
+      "tu": "importarías",
+      "ud": "importaría",
+      "nosotros": "importaríamos",
+      "vosotros": "importaríais",
+      "uds": "importarían"
+    },
+    "presentePerfecto": {
+      "yo": "he importado",
+      "tu": "has importado",
+      "ud": "ha importado",
+      "nosotros": "hemos importado",
+      "vosotros": "habéis importado",
+      "uds": "han importado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré importado",
+      "tu": "habrás importado",
+      "ud": "habrá importado",
+      "nosotros": "habremos importado",
+      "vosotros": "habréis importado",
+      "uds": "habrán importado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había importado",
+      "tu": "habías importado",
+      "ud": "había importado",
+      "nosotros": "habíamos importado",
+      "vosotros": "habíais importado",
+      "uds": "habían importado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube importado",
+      "tu": "hubiste importado",
+      "ud": "hubo importado",
+      "nosotros": "hubimos importado",
+      "vosotros": "hubisteis importado",
+      "uds": "hubieron importado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría importado",
+      "tu": "habrías importado",
+      "ud": "habría importado",
+      "nosotros": "habríamos importado",
+      "vosotros": "habríais importado",
+      "uds": "habrían importado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "importe",
+      "tu": "importes",
+      "ud": "importe",
+      "nosotros": "importemos",
+      "vosotros": "importéis",
+      "uds": "importen"
+    },
+    "imperfecto": {
+      "yo": "importara",
+      "tu": "importaras",
+      "ud": "importara",
+      "nosotros": "importáramos",
+      "vosotros": "importarais",
+      "uds": "importaran"
+    },
+    "futuro": {
+      "yo": "importare",
+      "tu": "importares",
+      "ud": "importare",
+      "nosotros": "importáremos",
+      "vosotros": "importareis",
+      "uds": "importaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya importado",
+      "tu": "hayas importado",
+      "ud": "haya importado",
+      "nosotros": "hayamos importado",
+      "vosotros": "hayáis importado",
+      "uds": "hayan importado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere importado",
+      "tu": "hubieres importado",
+      "ud": "hubiere importado",
+      "nosotros": "hubiéremos importado",
+      "vosotros": "hubiereis importado",
+      "uds": "hubieren importado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera importado",
+      "tu": "hubieras importado",
+      "ud": "hubiera importado",
+      "nosotros": "hubiéramos importado",
+      "vosotros": "hubierais importado",
+      "uds": "hubieran importado"
+    },
+    "imperfectoAlt": {
+      "yo": "importase",
+      "tu": "importases",
+      "ud": "importase",
+      "nosotros": "importásemos",
+      "vosotros": "importaseis",
+      "uds": "importasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese importado",
+      "tu": "hubieses importado",
+      "ud": "hubiese importado",
+      "nosotros": "hubiésemos importado",
+      "vosotros": "hubieseis importado",
+      "uds": "hubiesen importado"
+    }
+  },
+  "afirmativo": {
+    "tu": "importa",
+    "vosotros": "importad",
+    "ud": "importe",
+    "uds": "importen"
+  },
+  "negativo": {
+    "tu": "no importes",
+    "vosotros": "no importéis",
+    "ud": "no importe",
+    "uds": "no importen"
+  },
+  "english": {
+    "note": "When used to mean to be important, be of consequence, matter, it is used in a gustar-like construction: No me importa el precio = The price doesn't matter to me.",
+    "infinitivo": "to import; to be important, be of consequence, matter",
+    "gerundio": "importing",
+    "participioPasado": "imported",
+    "indicativo": {
+      "presente": "I import, am importing",
+      "futuro": "I will import",
+      "imperfecto": "I was importing, used to import, imported",
+      "preterito": "I imported",
+      "condicional": "I would import",
+      "presentePerfecto": "I have imported",
+      "futuroPerfecto": "I will have imported",
+      "pluscuamperfecto": "I had imported",
+      "preteritoAnterior": "I had imported",
+      "condicionalPerfecto": "I would have imported"
+    },
+    "subjuntivo": {
+      "presente": "I import, am importing",
+      "imperfecto": "I imported, was importing",
+      "futuro": "I will import",
+      "presentePerfecto": "I have imported, imported",
+      "futuroPerfecto": "I will have imported",
+      "pluscuamperfecto": "I had imported"
+    },
+    "afirmativo": "Import!",
+    "negativo": "Don't import!"
+  },
+  "attribution": "Fred Jehle"
+}

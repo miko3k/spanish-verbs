@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "equivocarse",
+  "gerundio": "equivocándose",
+  "participioPasado": "equivocado",
+  "indicativo": {
+    "presente": {
+      "yo": "me equivoco",
+      "tu": "te equivocas",
+      "ud": "se equivoca",
+      "nosotros": "nos equivocamos",
+      "vosotros": "os equivocáis",
+      "uds": "se equivocan"
+    },
+    "futuro": {
+      "yo": "me equivocaré",
+      "tu": "te equivocarás",
+      "ud": "se equivocará",
+      "nosotros": "nos equivocaremos",
+      "vosotros": "os equivocaréis",
+      "uds": "se equivocarán"
+    },
+    "imperfecto": {
+      "yo": "me equivocaba",
+      "tu": "te equivocabas",
+      "ud": "se equivocaba",
+      "nosotros": "nos equivocábamos",
+      "vosotros": "os equivocabais",
+      "uds": "se equivocaban"
+    },
+    "preterito": {
+      "yo": "me equivoqué",
+      "tu": "te equivocaste",
+      "ud": "se equivocó",
+      "nosotros": "nos equivocamos",
+      "vosotros": "equivocasteis",
+      "uds": "se equivocaron"
+    },
+    "condicional": {
+      "yo": "me equivocaría",
+      "tu": "te equivocarías",
+      "ud": "se equivocaría",
+      "nosotros": "nos equivocaríamos",
+      "vosotros": "os equivocaríais",
+      "uds": "se equivocarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he equivocado",
+      "tu": "te has equivocado",
+      "ud": "se ha equivocado",
+      "nosotros": "nos hemos equivocado",
+      "vosotros": "os habéis equivocado",
+      "uds": "se han equivocado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré equivocado",
+      "tu": "te habrás equivocado",
+      "ud": "se habrá equivocado",
+      "nosotros": "nos habremos equivocado",
+      "vosotros": "os habréis equivocado",
+      "uds": "se habrán equivocado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había equivocado",
+      "tu": "te habías equivocado",
+      "ud": "se había equivocado",
+      "nosotros": "nos habíamos equivocado",
+      "vosotros": "os habíais equivocado",
+      "uds": "se habían equivocado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube equivocado",
+      "tu": "te hubiste equivocado",
+      "ud": "se hubo equivocado",
+      "nosotros": "nos hubimos equivocado",
+      "vosotros": "os hubisteis equivocado",
+      "uds": "se hubieron equivocado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría equivocado",
+      "tu": "te habrías equivocado",
+      "ud": "se habría equivocado",
+      "nosotros": "nos habríamos equivocado",
+      "vosotros": "os habríais equivocado",
+      "uds": "se habrían equivocado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me equivoque",
+      "tu": "te equivoques",
+      "ud": "se equivoque",
+      "nosotros": "nos equivoquemos",
+      "vosotros": "os equivoquéis",
+      "uds": "se equivoquen"
+    },
+    "imperfecto": {
+      "yo": "me equivocara",
+      "tu": "te equivocaras",
+      "ud": "se equivocara",
+      "nosotros": "nos equivocáramos",
+      "vosotros": "os equivocarais",
+      "uds": "se equivocaran"
+    },
+    "futuro": {
+      "yo": "me equivocare",
+      "tu": "te equivocares",
+      "ud": "se equivocare",
+      "nosotros": "nos equivocáremos",
+      "vosotros": "os equivocareis",
+      "uds": "se equivocaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya equivocado",
+      "tu": "te hayas equivocado",
+      "ud": "se haya equivocado",
+      "nosotros": "nos hayamos equivocado",
+      "vosotros": "os hayáis equivocado",
+      "uds": "se hayan equivocado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere equivocado",
+      "tu": "te hubieres equivocado",
+      "ud": "se hubiere equivocado",
+      "nosotros": "nos hubiéremos equivocado",
+      "vosotros": "os hubiereis equivocado",
+      "uds": "se hubieren equivocado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera equivocado",
+      "tu": "te hubieras equivocado",
+      "ud": "se hubiera equivocado",
+      "nosotros": "nos hubiéramos equivocado",
+      "vosotros": "os hubierais equivocado",
+      "uds": "se hubieran equivocado"
+    },
+    "imperfectoAlt": {
+      "yo": "me equivocase",
+      "tu": "te equivocases",
+      "ud": "se equivocase",
+      "nosotros": "nos equivocásemos",
+      "vosotros": "os equivocaseis",
+      "uds": "se equivocasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese equivocado",
+      "tu": "te hubieses equivocado",
+      "ud": "se hubiese equivocado",
+      "nosotros": "nos hubiésemos equivocado",
+      "vosotros": "os hubieseis equivocado",
+      "uds": "se hubiesen equivocado"
+    }
+  },
+  "afirmativo": {
+    "tu": "equivócate",
+    "vosotros": "equivocaos",
+    "ud": "equivóquese",
+    "uds": "equivóquense"
+  },
+  "negativo": {
+    "tu": "no te equivoques",
+    "vosotros": "no os equivoquéis",
+    "ud": "no se equivoque",
+    "uds": "no se equivoquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e. Note: The nonreflexive form equivocar means to mistake.",
+    "infinitivo": "to make a mistake",
+    "gerundio": "making a mistake",
+    "participioPasado": "made a mistake",
+    "indicativo": {
+      "presente": "I make a mistake, am making a mistake",
+      "futuro": "I will make a mistake",
+      "imperfecto": "I was making a mistake, used to make a mistake, made a mistake",
+      "preterito": "I made a mistake",
+      "condicional": "I would make a mistake",
+      "presentePerfecto": "I have made a mistake",
+      "futuroPerfecto": "I will have made a mistake",
+      "pluscuamperfecto": "I had made a mistake",
+      "preteritoAnterior": "I had made a mistake",
+      "condicionalPerfecto": "I would have made a mistake"
+    },
+    "subjuntivo": {
+      "presente": "I make a mistake, am making a mistake",
+      "imperfecto": "I made a mistake, was making a mistake",
+      "futuro": "I will make a mistake",
+      "presentePerfecto": "I have made a mistake, made a mistake",
+      "futuroPerfecto": "I will have made a mistake",
+      "pluscuamperfecto": "I had made a mistake"
+    },
+    "afirmativo": "Make a mistake!",
+    "negativo": "Don't make a mistake!"
+  },
+  "attribution": "Fred Jehle"
+}

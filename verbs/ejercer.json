@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "ejercer",
+  "gerundio": "ejerciendo",
+  "participioPasado": "ejercido",
+  "indicativo": {
+    "presente": {
+      "yo": "ejerzo",
+      "tu": "ejerces",
+      "ud": "ejerce",
+      "nosotros": "ejercemos",
+      "vosotros": "ejercéis",
+      "uds": "ejercen"
+    },
+    "futuro": {
+      "yo": "ejerceré",
+      "tu": "ejercerás",
+      "ud": "ejercerá",
+      "nosotros": "ejerceremos",
+      "vosotros": "ejerceréis",
+      "uds": "ejercerán"
+    },
+    "imperfecto": {
+      "yo": "ejercía",
+      "tu": "ejercías",
+      "ud": "ejercía",
+      "nosotros": "ejercíamos",
+      "vosotros": "ejercíais",
+      "uds": "ejercían"
+    },
+    "preterito": {
+      "yo": "ejercí",
+      "tu": "ejerciste",
+      "ud": "ejerció",
+      "nosotros": "ejercimos",
+      "vosotros": "ejercisteis",
+      "uds": "ejercieron"
+    },
+    "condicional": {
+      "yo": "ejercería",
+      "tu": "ejercerías",
+      "ud": "ejercería",
+      "nosotros": "ejerceríamos",
+      "vosotros": "ejerceríais",
+      "uds": "ejercerían"
+    },
+    "presentePerfecto": {
+      "yo": "he ejercido",
+      "tu": "has ejercido",
+      "ud": "ha ejercido",
+      "nosotros": "hemos ejercido",
+      "vosotros": "habéis ejercido",
+      "uds": "han ejercido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ejercido",
+      "tu": "habrás ejercido",
+      "ud": "habrá ejercido",
+      "nosotros": "habremos ejercido",
+      "vosotros": "habréis ejercido",
+      "uds": "habrán ejercido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ejercido",
+      "tu": "habías ejercido",
+      "ud": "había ejercido",
+      "nosotros": "habíamos ejercido",
+      "vosotros": "habíais ejercido",
+      "uds": "habían ejercido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ejercido",
+      "tu": "hubiste ejercido",
+      "ud": "hubo ejercido",
+      "nosotros": "hubimos ejercido",
+      "vosotros": "hubisteis ejercido",
+      "uds": "hubieron ejercido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ejercido",
+      "tu": "habrías ejercido",
+      "ud": "habría ejercido",
+      "nosotros": "habríamos ejercido",
+      "vosotros": "habríais ejercido",
+      "uds": "habrían ejercido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ejerza",
+      "tu": "ejerzas",
+      "ud": "ejerza",
+      "nosotros": "ejerzamos",
+      "vosotros": "ejerzáis",
+      "uds": "ejerzan"
+    },
+    "imperfecto": {
+      "yo": "ejerciera",
+      "tu": "ejercieras",
+      "ud": "ejerciera",
+      "nosotros": "ejerciéramos",
+      "vosotros": "ejercierais",
+      "uds": "ejercieran"
+    },
+    "futuro": {
+      "yo": "ejerciere",
+      "tu": "ejercieres",
+      "ud": "ejerciere",
+      "nosotros": "ejerciéremos",
+      "vosotros": "ejerciereis",
+      "uds": "ejercieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ejercido",
+      "tu": "hayas ejercido",
+      "ud": "haya ejercido",
+      "nosotros": "hayamos ejercido",
+      "vosotros": "hayáis ejercido",
+      "uds": "hayan ejercido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ejercido",
+      "tu": "hubieres ejercido",
+      "ud": "hubiere ejercido",
+      "nosotros": "hubiéremos ejercido",
+      "vosotros": "hubiereis ejercido",
+      "uds": "hubieren ejercido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ejercido",
+      "tu": "hubieras ejercido",
+      "ud": "hubiera ejercido",
+      "nosotros": "hubiéramos ejercido",
+      "vosotros": "hubierais ejercido",
+      "uds": "hubieran ejercido"
+    },
+    "imperfectoAlt": {
+      "yo": "ejerciese",
+      "tu": "ejercieses",
+      "ud": "ejerciese",
+      "nosotros": "ejerciésemos",
+      "vosotros": "ejercieseis",
+      "uds": "ejerciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ejercido",
+      "tu": "hubieses ejercido",
+      "ud": "hubiese ejercido",
+      "nosotros": "hubiésemos ejercido",
+      "vosotros": "hubieseis ejercido",
+      "uds": "hubiesen ejercido"
+    }
+  },
+  "afirmativo": {
+    "tu": "ejerce",
+    "vosotros": "ejerced",
+    "ud": "ejerza",
+    "uds": "ejerzan"
+  },
+  "negativo": {
+    "tu": "no ejerzas",
+    "vosotros": "no ejerzáis",
+    "ud": "no ejerza",
+    "uds": "no ejerzan"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > z delante de o y a. Note: For to exercise in the sense of doing exercise(s), use hacer ejercicio.",
+    "infinitivo": "to exercise, wield (power, influence, etc.); to practice (a profession); to manage, conduct (a businsess)",
+    "gerundio": "exercising",
+    "participioPasado": "exercised",
+    "indicativo": {
+      "presente": "I exercise, am exercising",
+      "futuro": "I will exercise",
+      "imperfecto": "I was exercising, used to exercise, exercised",
+      "preterito": "I exercised",
+      "condicional": "I would exercise",
+      "presentePerfecto": "I have exercised",
+      "futuroPerfecto": "I will have exercised",
+      "pluscuamperfecto": "I had exercised",
+      "preteritoAnterior": "I had exercised",
+      "condicionalPerfecto": "I would have exercised"
+    },
+    "subjuntivo": {
+      "presente": "I exercise, am exercising",
+      "imperfecto": "I exercised, was exercising",
+      "futuro": "I will exercise",
+      "presentePerfecto": "I have exercised, exercised",
+      "futuroPerfecto": "I will have exercised",
+      "pluscuamperfecto": "I had exercised"
+    },
+    "afirmativo": "Exercise!",
+    "negativo": "Don't exercise!"
+  },
+  "attribution": "Fred Jehle"
+}

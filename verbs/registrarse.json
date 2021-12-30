@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "registrarse",
+  "gerundio": "registrándose",
+  "participioPasado": "registrado",
+  "indicativo": {
+    "presente": {
+      "yo": "me registro",
+      "tu": "te registras",
+      "ud": "se registra",
+      "nosotros": "nos registramos",
+      "vosotros": "os registráis",
+      "uds": "se registran"
+    },
+    "futuro": {
+      "yo": "me registraré",
+      "tu": "te registrarás",
+      "ud": "se registrará",
+      "nosotros": "nos registraremos",
+      "vosotros": "os registraréis",
+      "uds": "se registrarán"
+    },
+    "imperfecto": {
+      "yo": "me registraba",
+      "tu": "te registrabas",
+      "ud": "se registraba",
+      "nosotros": "nos registrábamos",
+      "vosotros": "os registrabais",
+      "uds": "se registraban"
+    },
+    "preterito": {
+      "yo": "me registré",
+      "tu": "te registraste",
+      "ud": "se registró",
+      "nosotros": "nos registramos",
+      "vosotros": "os registrasteis",
+      "uds": "se registraron"
+    },
+    "condicional": {
+      "yo": "me registraría",
+      "tu": "te registrarías",
+      "ud": "se registraría",
+      "nosotros": "nos registraríamos",
+      "vosotros": "os registraríais",
+      "uds": "se registrarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he registrado",
+      "tu": "te has registrado",
+      "ud": "se ha registrado",
+      "nosotros": "nos hemos registrado",
+      "vosotros": "os habéis registrado",
+      "uds": "se han registrado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré registrado",
+      "tu": "te habrás registrado",
+      "ud": "se habrá registrado",
+      "nosotros": "nos habremos registrado",
+      "vosotros": "os habréis registrado",
+      "uds": "se habrán registrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había registrado",
+      "tu": "te habías registrado",
+      "ud": "se había registrado",
+      "nosotros": "nos habíamos registrado",
+      "vosotros": "os habíais registrado",
+      "uds": "se habían registrado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube registrado",
+      "tu": "te hubiste registrado",
+      "ud": "se hubo registrado",
+      "nosotros": "nos hubimos registrado",
+      "vosotros": "os hubisteis registrado",
+      "uds": "se hubieron registrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría registrado",
+      "tu": "te habrías registrado",
+      "ud": "se habría registrado",
+      "nosotros": "nos habríamos registrado",
+      "vosotros": "os habríais registrado",
+      "uds": "se habrían registrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me registre",
+      "tu": "te registres",
+      "ud": "se registre",
+      "nosotros": "nos registremos",
+      "vosotros": "os registréis",
+      "uds": "se registren"
+    },
+    "imperfecto": {
+      "yo": "me registrara",
+      "tu": "te registraras",
+      "ud": "se registrara",
+      "nosotros": "nos registráramos",
+      "vosotros": "os registrarais",
+      "uds": "se registraran"
+    },
+    "futuro": {
+      "yo": "me registrare",
+      "tu": "te registrares",
+      "ud": "se registrare",
+      "nosotros": "nos registráremos",
+      "vosotros": "os registrareis",
+      "uds": "se registraren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya registrado",
+      "tu": "te hayas registrado",
+      "ud": "se haya registrado",
+      "nosotros": "nos hayamos registrado",
+      "vosotros": "os hayáis registrado",
+      "uds": "se hayan registrado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere registrado",
+      "tu": "te hubieres registrado",
+      "ud": "se hubiere registrado",
+      "nosotros": "nos hubiéremos registrado",
+      "vosotros": "os hubiereis registrado",
+      "uds": "se hubieren registrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera registrado",
+      "tu": "te hubieras registrado",
+      "ud": "se hubiera registrado",
+      "nosotros": "nos hubiéramos registrado",
+      "vosotros": "os hubierais registrado",
+      "uds": "se hubieran registrado"
+    },
+    "imperfectoAlt": {
+      "yo": "me registrase",
+      "tu": "te registrases",
+      "ud": "se registrase",
+      "nosotros": "nos registrásemos",
+      "vosotros": "os registraseis",
+      "uds": "se registrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese registrado",
+      "tu": "te hubieses registrado",
+      "ud": "se hubiese registrado",
+      "nosotros": "nos hubiésemos registrado",
+      "vosotros": "os hubieseis registrado",
+      "uds": "se hubiesen registrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "regístrate",
+    "vosotros": "registraos",
+    "ud": "regístrese",
+    "uds": "regístrense"
+  },
+  "negativo": {
+    "tu": "no te registres",
+    "vosotros": "no os registréis",
+    "ud": "no se registre",
+    "uds": "no se registren"
+  },
+  "english": {
+    "note": "Note: Use this form for to register (oneself) in a hotel; for to register someone else, or to record (write down) or to search use the nonreflexive form registrar. Use matricularse for to register/enroll (oneself) in a college or universty.",
+    "infinitivo": "to register (oneself)",
+    "gerundio": "registering",
+    "participioPasado": "registered",
+    "indicativo": {
+      "presente": "I register, am registering",
+      "futuro": "I will register",
+      "imperfecto": "I was registering, used to register, registered",
+      "preterito": "I registered",
+      "condicional": "I would register",
+      "presentePerfecto": "I have registered",
+      "futuroPerfecto": "I will have registered",
+      "pluscuamperfecto": "I had registered",
+      "preteritoAnterior": "I had registered",
+      "condicionalPerfecto": "I would have registered"
+    },
+    "subjuntivo": {
+      "presente": "I register, am registering",
+      "imperfecto": "I registered, was registering",
+      "futuro": "I will register",
+      "presentePerfecto": "I have registered, registered",
+      "futuroPerfecto": "I will have registered",
+      "pluscuamperfecto": "I had registered"
+    },
+    "afirmativo": "Register!",
+    "negativo": "Don't register!"
+  },
+  "attribution": "Fred Jehle"
+}

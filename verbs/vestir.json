@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "vestir",
+  "gerundio": "vistiendo",
+  "participioPasado": "vestido",
+  "indicativo": {
+    "presente": {
+      "yo": "visto",
+      "tu": "vistes",
+      "ud": "viste",
+      "nosotros": "vestimos",
+      "vosotros": "vestís",
+      "uds": "visten"
+    },
+    "futuro": {
+      "yo": "vestiré",
+      "tu": "vestirás",
+      "ud": "vestirá",
+      "nosotros": "vestiremos",
+      "vosotros": "vestiréis",
+      "uds": "vestirán"
+    },
+    "imperfecto": {
+      "yo": "vestía",
+      "tu": "vestías",
+      "ud": "vestía",
+      "nosotros": "vestíamos",
+      "vosotros": "vestíais",
+      "uds": "vestían"
+    },
+    "preterito": {
+      "yo": "vestí",
+      "tu": "vestiste",
+      "ud": "vistió",
+      "nosotros": "vestimos",
+      "vosotros": "vestisteis",
+      "uds": "vistieron"
+    },
+    "condicional": {
+      "yo": "vestiría",
+      "tu": "vestirías",
+      "ud": "vestiría",
+      "nosotros": "vestiríamos",
+      "vosotros": "vestiríais",
+      "uds": "vestirían"
+    },
+    "presentePerfecto": {
+      "yo": "he vestido",
+      "tu": "has vestido",
+      "ud": "ha vestido",
+      "nosotros": "hemos vestido",
+      "vosotros": "habéis vestido",
+      "uds": "han vestido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré vestido",
+      "tu": "habrás vestido",
+      "ud": "habrá vestido",
+      "nosotros": "habremos vestido",
+      "vosotros": "habréis vestido",
+      "uds": "habrán vestido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había vestido",
+      "tu": "habías vestido",
+      "ud": "había vestido",
+      "nosotros": "habíamos vestido",
+      "vosotros": "habíais vestido",
+      "uds": "habían vestido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube vestido",
+      "tu": "hubiste vestido",
+      "ud": "hubo vestido",
+      "nosotros": "hubimos vestido",
+      "vosotros": "hubisteis vestido",
+      "uds": "hubieron vestido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría vestido",
+      "tu": "habrías vestido",
+      "ud": "habría vestido",
+      "nosotros": "habríamos vestido",
+      "vosotros": "habríais vestido",
+      "uds": "habrían vestido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "vista",
+      "tu": "vistas",
+      "ud": "vista",
+      "nosotros": "vistamos",
+      "vosotros": "vistáis",
+      "uds": "vistan"
+    },
+    "imperfecto": {
+      "yo": "vistiera",
+      "tu": "vistieras",
+      "ud": "vistiera",
+      "nosotros": "vistiéramos",
+      "vosotros": "vistierais",
+      "uds": "vistieran"
+    },
+    "futuro": {
+      "yo": "vistiere",
+      "tu": "vistieres",
+      "ud": "vistiere",
+      "nosotros": "vistiéremos",
+      "vosotros": "vistiereis",
+      "uds": "vistieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya vestido",
+      "tu": "hayas vestido",
+      "ud": "haya vestido",
+      "nosotros": "hayamos vestido",
+      "vosotros": "hayáis vestido",
+      "uds": "hayan vestido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere vestido",
+      "tu": "hubieres vestido",
+      "ud": "hubiere vestido",
+      "nosotros": "hubiéremos vestido",
+      "vosotros": "hubiereis vestido",
+      "uds": "hubieren vestido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera vestido",
+      "tu": "hubieras vestido",
+      "ud": "hubiera vestido",
+      "nosotros": "hubiéramos vestido",
+      "vosotros": "hubierais vestido",
+      "uds": "hubieran vestido"
+    },
+    "imperfectoAlt": {
+      "yo": "vistiese",
+      "tu": "vistieses",
+      "ud": "vistiese",
+      "nosotros": "vistiésemos",
+      "vosotros": "vistieseis",
+      "uds": "vistiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese vestido",
+      "tu": "hubieses vestido",
+      "ud": "hubiese vestido",
+      "nosotros": "hubiésemos vestido",
+      "vosotros": "hubieseis vestido",
+      "uds": "hubiesen vestido"
+    }
+  },
+  "afirmativo": {
+    "tu": "viste",
+    "vosotros": "vestid",
+    "ud": "vista",
+    "uds": "vistan"
+  },
+  "negativo": {
+    "tu": "no vistas",
+    "vosotros": "no vistáis",
+    "ud": "no vista",
+    "uds": "no vistan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Note: Vestir means to dress in the sense of putting clothes on someone else. Use the reflexive form vestirse, to mean to put on clothes (on oneself).",
+    "infinitivo": "to dress (someone), clothe (someone)",
+    "gerundio": "dressing",
+    "participioPasado": "dressed",
+    "indicativo": {
+      "presente": "I dress, am dressing",
+      "futuro": "I will dress",
+      "imperfecto": "I was dressing, used to dress, dressed",
+      "preterito": "I dressed",
+      "condicional": "I would dress",
+      "presentePerfecto": "I have dressed",
+      "futuroPerfecto": "I will have dressed",
+      "pluscuamperfecto": "I had dressed",
+      "preteritoAnterior": "I had dressed",
+      "condicionalPerfecto": "I would have dressed"
+    },
+    "subjuntivo": {
+      "presente": "I dress, am dressing",
+      "imperfecto": "I dressed, was dressing",
+      "futuro": "I will dress",
+      "presentePerfecto": "I have dressed, dressed",
+      "futuroPerfecto": "I will have dressed",
+      "pluscuamperfecto": "I had dressed"
+    },
+    "afirmativo": "Dress!",
+    "negativo": "Don't dress!"
+  },
+  "attribution": "Fred Jehle"
+}

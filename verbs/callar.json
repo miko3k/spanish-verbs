@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "callar",
+  "gerundio": "callando",
+  "participioPasado": "callado",
+  "indicativo": {
+    "presente": {
+      "yo": "callo",
+      "tu": "callas",
+      "ud": "calla",
+      "nosotros": "callamos",
+      "vosotros": "calláis",
+      "uds": "callan"
+    },
+    "futuro": {
+      "yo": "callaré",
+      "tu": "callarás",
+      "ud": "callará",
+      "nosotros": "callaremos",
+      "vosotros": "callaréis",
+      "uds": "callarán"
+    },
+    "imperfecto": {
+      "yo": "callaba",
+      "tu": "callabas",
+      "ud": "callaba",
+      "nosotros": "callábamos",
+      "vosotros": "callabais",
+      "uds": "callaban"
+    },
+    "preterito": {
+      "yo": "callé",
+      "tu": "callaste",
+      "ud": "calló",
+      "nosotros": "callamos",
+      "vosotros": "callasteis",
+      "uds": "callaron"
+    },
+    "condicional": {
+      "yo": "callaría",
+      "tu": "callarías",
+      "ud": "callaría",
+      "nosotros": "callaríamos",
+      "vosotros": "callaríais",
+      "uds": "callarían"
+    },
+    "presentePerfecto": {
+      "yo": "he callado",
+      "tu": "has callado",
+      "ud": "ha callado",
+      "nosotros": "hemos callado",
+      "vosotros": "habéis callado",
+      "uds": "han callado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré callado",
+      "tu": "habrás callado",
+      "ud": "habrá callado",
+      "nosotros": "habremos callado",
+      "vosotros": "habréis callado",
+      "uds": "habrán callado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había callado",
+      "tu": "habías callado",
+      "ud": "había callado",
+      "nosotros": "habíamos callado",
+      "vosotros": "habíais callado",
+      "uds": "habían callado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube callado",
+      "tu": "hubiste callado",
+      "ud": "hubo callado",
+      "nosotros": "hubimos callado",
+      "vosotros": "hubisteis callado",
+      "uds": "hubieron callado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría callado",
+      "tu": "habrías callado",
+      "ud": "habría callado",
+      "nosotros": "habríamos callado",
+      "vosotros": "habríais callado",
+      "uds": "habrían callado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "calle",
+      "tu": "calles",
+      "ud": "calle",
+      "nosotros": "callemos",
+      "vosotros": "calléis",
+      "uds": "callen"
+    },
+    "imperfecto": {
+      "yo": "callara",
+      "tu": "callaras",
+      "ud": "callara",
+      "nosotros": "calláramos",
+      "vosotros": "callarais",
+      "uds": "callaran"
+    },
+    "futuro": {
+      "yo": "callare",
+      "tu": "callares",
+      "ud": "callare",
+      "nosotros": "calláremos",
+      "vosotros": "callareis",
+      "uds": "callaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya callado",
+      "tu": "hayas callado",
+      "ud": "haya callado",
+      "nosotros": "hayamos callado",
+      "vosotros": "hayáis callado",
+      "uds": "hayan callado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere callado",
+      "tu": "hubieres callado",
+      "ud": "hubiere callado",
+      "nosotros": "hubiéremos callado",
+      "vosotros": "hubiereis callado",
+      "uds": "hubieren callado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera callado",
+      "tu": "hubieras callado",
+      "ud": "hubiera callado",
+      "nosotros": "hubiéramos callado",
+      "vosotros": "hubierais callado",
+      "uds": "hubieran callado"
+    },
+    "imperfectoAlt": {
+      "yo": "callase",
+      "tu": "callases",
+      "ud": "callase",
+      "nosotros": "callásemos",
+      "vosotros": "callaseis",
+      "uds": "callasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese callado",
+      "tu": "hubieses callado",
+      "ud": "hubiese callado",
+      "nosotros": "hubiésemos callado",
+      "vosotros": "hubieseis callado",
+      "uds": "hubiesen callado"
+    }
+  },
+  "afirmativo": {
+    "tu": "calla",
+    "vosotros": "callad",
+    "ud": "calle",
+    "uds": "callen"
+  },
+  "negativo": {
+    "tu": "no calles",
+    "vosotros": "no calléis",
+    "ud": "no calle",
+    "uds": "no callen"
+  },
+  "english": {
+    "note": "This verb is more frequently used as a transitive one; however, both callar and especially the reflexive form callarse can be used for to keep quiet, be quiet, shut up.",
+    "infinitivo": "to keep quiet about, pass over in silence; to hush",
+    "gerundio": "keeping quiet about",
+    "participioPasado": "kept quiet about",
+    "indicativo": {
+      "presente": "I keep quiet about, am keeping quiet about",
+      "futuro": "I will keep quiet about",
+      "imperfecto": "I was keeping quiet about, used to keep quiet about, kept quiet about",
+      "preterito": "I kept quiet about",
+      "condicional": "I would keep quiet about",
+      "presentePerfecto": "I have kept quiet about",
+      "futuroPerfecto": "I will have kept quiet about",
+      "pluscuamperfecto": "I had kept quiet about",
+      "preteritoAnterior": "I had kept quiet about",
+      "condicionalPerfecto": "I would have kept quiet about"
+    },
+    "subjuntivo": {
+      "presente": "I keep quiet about, am keeping quiet about",
+      "imperfecto": "I kept quiet about, was keeping quiet about",
+      "futuro": "I will keep quiet about",
+      "presentePerfecto": "I have kept quiet about, kept quiet about",
+      "futuroPerfecto": "I will have kept quiet about",
+      "pluscuamperfecto": "I had kept quiet about"
+    },
+    "afirmativo": "Keep quiet about!",
+    "negativo": "Don't keep quiet about!"
+  },
+  "attribution": "Fred Jehle"
+}

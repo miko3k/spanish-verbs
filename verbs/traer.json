@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "traer",
+  "gerundio": "trayendo",
+  "participioPasado": "traído",
+  "indicativo": {
+    "presente": {
+      "yo": "traigo",
+      "tu": "traes",
+      "ud": "trae",
+      "nosotros": "traemos",
+      "vosotros": "traéis",
+      "uds": "traen"
+    },
+    "futuro": {
+      "yo": "traeré",
+      "tu": "traerás",
+      "ud": "traerá",
+      "nosotros": "traeremos",
+      "vosotros": "traeréis",
+      "uds": "traerán"
+    },
+    "imperfecto": {
+      "yo": "traía",
+      "tu": "traías",
+      "ud": "traía",
+      "nosotros": "traíamos",
+      "vosotros": "traíais",
+      "uds": "traían"
+    },
+    "preterito": {
+      "yo": "traje",
+      "tu": "trajiste",
+      "ud": "trajo",
+      "nosotros": "trajimos",
+      "vosotros": "trajisteis",
+      "uds": "trajeron"
+    },
+    "condicional": {
+      "yo": "traería",
+      "tu": "traerías",
+      "ud": "traería",
+      "nosotros": "traeríamos",
+      "vosotros": "traeríais",
+      "uds": "traerían"
+    },
+    "presentePerfecto": {
+      "yo": "he traído",
+      "tu": "has traído",
+      "ud": "ha traído",
+      "nosotros": "hemos traído",
+      "vosotros": "habéis traído",
+      "uds": "han traído"
+    },
+    "futuroPerfecto": {
+      "yo": "habré traído",
+      "tu": "habrás traído",
+      "ud": "habrá traído",
+      "nosotros": "habremos traído",
+      "vosotros": "habréis traído",
+      "uds": "habrán traído"
+    },
+    "pluscuamperfecto": {
+      "yo": "había traído",
+      "tu": "habías traído",
+      "ud": "había traído",
+      "nosotros": "habíamos traído",
+      "vosotros": "habíais traído",
+      "uds": "habían traído"
+    },
+    "preteritoAnterior": {
+      "yo": "hube traído",
+      "tu": "hubiste traído",
+      "ud": "hubo traído",
+      "nosotros": "hubimos traído",
+      "vosotros": "hubisteis traído",
+      "uds": "hubieron traído"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría traído",
+      "tu": "habrías traído",
+      "ud": "habría traído",
+      "nosotros": "habríamos traído",
+      "vosotros": "habríais traído",
+      "uds": "habrían traído"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "traiga",
+      "tu": "traigas",
+      "ud": "traiga",
+      "nosotros": "traigamos",
+      "vosotros": "traigáis",
+      "uds": "traigan"
+    },
+    "imperfecto": {
+      "yo": "trajera",
+      "tu": "trajeras",
+      "ud": "trajera",
+      "nosotros": "trajéramos",
+      "vosotros": "trajerais",
+      "uds": "trajeran"
+    },
+    "futuro": {
+      "yo": "trajere",
+      "tu": "trajeres",
+      "ud": "trajere",
+      "nosotros": "trajéremos",
+      "vosotros": "trajereis",
+      "uds": "trajeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya traído",
+      "tu": "hayas traído",
+      "ud": "haya traído",
+      "nosotros": "hayamos traído",
+      "vosotros": "hayáis traído",
+      "uds": "hayan traído"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere traído",
+      "tu": "hubieres traído",
+      "ud": "hubiere traído",
+      "nosotros": "hubiéremos traído",
+      "vosotros": "hubiereis traído",
+      "uds": "hubieren traído"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera traído",
+      "tu": "hubieras traído",
+      "ud": "hubiera traído",
+      "nosotros": "hubiéramos traído",
+      "vosotros": "hubierais traído",
+      "uds": "hubieran traído"
+    },
+    "imperfectoAlt": {
+      "yo": "trajese",
+      "tu": "trajeses",
+      "ud": "trajese",
+      "nosotros": "trajésemos",
+      "vosotros": "trajeseis",
+      "uds": "trajesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese traído",
+      "tu": "hubieses traído",
+      "ud": "hubiese traído",
+      "nosotros": "hubiésemos traído",
+      "vosotros": "hubieseis traído",
+      "uds": "hubiesen traído"
+    }
+  },
+  "afirmativo": {
+    "tu": "trae",
+    "vosotros": "traed",
+    "ud": "traiga",
+    "uds": "traigan"
+  },
+  "negativo": {
+    "tu": "no traigas",
+    "vosotros": "no traigáis",
+    "ud": "no traiga",
+    "uds": "no traigan"
+  },
+  "english": {
+    "note": "Formas irregulares: traigo, traiga, traigas, etc. Radical fuerte en el pretérito: traj-. Hay acento escrito en el participio pasado: traído. La i intervocálica (cuando no se acentúa) > y: trayendo.",
+    "infinitivo": "to bring; to get, fetch; to carry",
+    "gerundio": "bringing",
+    "participioPasado": "brought",
+    "indicativo": {
+      "presente": "I bring, am bringing",
+      "futuro": "I will bring",
+      "imperfecto": "I was bringing, used to bring, brought",
+      "preterito": "I brought",
+      "condicional": "I would bring",
+      "presentePerfecto": "I have brought",
+      "futuroPerfecto": "I will have brought",
+      "pluscuamperfecto": "I had brought",
+      "preteritoAnterior": "I had brought",
+      "condicionalPerfecto": "I would have brought"
+    },
+    "subjuntivo": {
+      "presente": "I bring, am bringing",
+      "imperfecto": "I was bringing, brought",
+      "futuro": "I will bring",
+      "presentePerfecto": "I have brought, brought",
+      "futuroPerfecto": "I will have brought",
+      "pluscuamperfecto": "I had brought"
+    },
+    "afirmativo": "Bring!,",
+    "negativo": "Don't bring!"
+  },
+  "attribution": "Fred Jehle"
+}

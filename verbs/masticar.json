@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "masticar",
+  "gerundio": "masticando",
+  "participioPasado": "masticado",
+  "indicativo": {
+    "presente": {
+      "yo": "mastico",
+      "tu": "masticas",
+      "ud": "mastica",
+      "nosotros": "masticamos",
+      "vosotros": "masticáis",
+      "uds": "mastican"
+    },
+    "futuro": {
+      "yo": "masticaré",
+      "tu": "masticarás",
+      "ud": "masticará",
+      "nosotros": "masticaremos",
+      "vosotros": "masticaréis",
+      "uds": "masticarán"
+    },
+    "imperfecto": {
+      "yo": "masticaba",
+      "tu": "masticabas",
+      "ud": "masticaba",
+      "nosotros": "masticábamos",
+      "vosotros": "masticabais",
+      "uds": "masticaban"
+    },
+    "preterito": {
+      "yo": "mastiqué",
+      "tu": "masticaste",
+      "ud": "masticó",
+      "nosotros": "masticamos",
+      "vosotros": "masticasteis",
+      "uds": "masticaron"
+    },
+    "condicional": {
+      "yo": "masticaría",
+      "tu": "masticarías",
+      "ud": "masticaría",
+      "nosotros": "masticaríamos",
+      "vosotros": "masticaríais",
+      "uds": "masticarían"
+    },
+    "presentePerfecto": {
+      "yo": "he masticado",
+      "tu": "has masticado",
+      "ud": "ha masticado",
+      "nosotros": "hemos masticado",
+      "vosotros": "habéis masticado",
+      "uds": "han masticado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré masticado",
+      "tu": "habrás masticado",
+      "ud": "habrá masticado",
+      "nosotros": "habremos masticado",
+      "vosotros": "habréis masticado",
+      "uds": "habrán masticado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había masticado",
+      "tu": "habías masticado",
+      "ud": "había masticado",
+      "nosotros": "habíamos masticado",
+      "vosotros": "habíais masticado",
+      "uds": "habían masticado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube masticado",
+      "tu": "hubiste masticado",
+      "ud": "hubo masticado",
+      "nosotros": "hubimos masticado",
+      "vosotros": "hubisteis masticado",
+      "uds": "hubieron masticado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría masticado",
+      "tu": "habrías masticado",
+      "ud": "habría masticado",
+      "nosotros": "habríamos masticado",
+      "vosotros": "habríais masticado",
+      "uds": "habrían masticado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "mastique",
+      "tu": "mastiques",
+      "ud": "mastique",
+      "nosotros": "mastiquemos",
+      "vosotros": "mastiquéis",
+      "uds": "mastiquen"
+    },
+    "imperfecto": {
+      "yo": "masticara",
+      "tu": "masticaras",
+      "ud": "masticara",
+      "nosotros": "masticáramos",
+      "vosotros": "masticarais",
+      "uds": "masticaran"
+    },
+    "futuro": {
+      "yo": "masticare",
+      "tu": "masticares",
+      "ud": "masticare",
+      "nosotros": "masticáremos",
+      "vosotros": "masticareis",
+      "uds": "masticaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya masticado",
+      "tu": "hayas masticado",
+      "ud": "haya masticado",
+      "nosotros": "hayamos masticado",
+      "vosotros": "hayáis masticado",
+      "uds": "hayan masticado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere masticado",
+      "tu": "hubieres masticado",
+      "ud": "hubiere masticado",
+      "nosotros": "hubiéremos masticado",
+      "vosotros": "hubiereis masticado",
+      "uds": "hubieren masticado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera masticado",
+      "tu": "hubieras masticado",
+      "ud": "hubiera masticado",
+      "nosotros": "hubiéramos masticado",
+      "vosotros": "hubierais masticado",
+      "uds": "hubieran masticado"
+    },
+    "imperfectoAlt": {
+      "yo": "masticase",
+      "tu": "masticases",
+      "ud": "masticase",
+      "nosotros": "masticásemos",
+      "vosotros": "masticaseis",
+      "uds": "masticasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese masticado",
+      "tu": "hubieses masticado",
+      "ud": "hubiese masticado",
+      "nosotros": "hubiésemos masticado",
+      "vosotros": "hubieseis masticado",
+      "uds": "hubiesen masticado"
+    }
+  },
+  "afirmativo": {
+    "tu": "mastica",
+    "vosotros": "masticad",
+    "ud": "mastique",
+    "uds": "mastiquen"
+  },
+  "negativo": {
+    "tu": "no mastiques",
+    "vosotros": "no mastiquéis",
+    "ud": "no mastique",
+    "uds": "no mastiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to chew",
+    "gerundio": "chewing",
+    "participioPasado": "chewed",
+    "indicativo": {
+      "presente": "I chew, am chewing",
+      "futuro": "I will chew",
+      "imperfecto": "I was chewing, used to chew, chewed",
+      "preterito": "I chewed",
+      "condicional": "I would chew",
+      "presentePerfecto": "I have chewed",
+      "futuroPerfecto": "I will have chewed",
+      "pluscuamperfecto": "I had chewed",
+      "preteritoAnterior": "I had chewed",
+      "condicionalPerfecto": "I would have chewed"
+    },
+    "subjuntivo": {
+      "presente": "I chew, am chewing",
+      "imperfecto": "I chewed, was chewing",
+      "futuro": "I will chew",
+      "presentePerfecto": "I have chewed, chewed",
+      "futuroPerfecto": "I will have chewed",
+      "pluscuamperfecto": "I had chewed"
+    },
+    "afirmativo": "Chew!",
+    "negativo": "Don't chew!"
+  },
+  "attribution": "Fred Jehle"
+}

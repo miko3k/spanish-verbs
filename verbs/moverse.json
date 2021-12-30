@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "moverse",
+  "gerundio": "moviéndose",
+  "participioPasado": "movido",
+  "indicativo": {
+    "presente": {
+      "yo": "me muevo",
+      "tu": "te mueves",
+      "ud": "se mueve",
+      "nosotros": "nos movemos",
+      "vosotros": "os movéis",
+      "uds": "se mueven"
+    },
+    "futuro": {
+      "yo": "me moveré",
+      "tu": "te moverás",
+      "ud": "se moverá",
+      "nosotros": "nos moveremos",
+      "vosotros": "os moveréis",
+      "uds": "se moverán"
+    },
+    "imperfecto": {
+      "yo": "me movía",
+      "tu": "te movías",
+      "ud": "se movía",
+      "nosotros": "nos movíamos",
+      "vosotros": "os movíais",
+      "uds": "se movían"
+    },
+    "preterito": {
+      "yo": "me moví",
+      "tu": "te moviste",
+      "ud": "se movió",
+      "nosotros": "nos movimos",
+      "vosotros": "os movisteis",
+      "uds": "se movieron"
+    },
+    "condicional": {
+      "yo": "me movería",
+      "tu": "te moverías",
+      "ud": "se movería",
+      "nosotros": "nos moveríamos",
+      "vosotros": "os moveríais",
+      "uds": "se moverían"
+    },
+    "presentePerfecto": {
+      "yo": "me he movido",
+      "tu": "te has movido",
+      "ud": "se ha movido",
+      "nosotros": "nos hemos movido",
+      "vosotros": "os habéis movido",
+      "uds": "se han movido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré movido",
+      "tu": "te habrás movido",
+      "ud": "se habrá movido",
+      "nosotros": "nos habremos movido",
+      "vosotros": "os habréis movido",
+      "uds": "se habrán movido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había movido",
+      "tu": "te habías movido",
+      "ud": "se había movido",
+      "nosotros": "nos habíamos movido",
+      "vosotros": "os habíais movido",
+      "uds": "se habían movido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube movido",
+      "tu": "te hubiste movido",
+      "ud": "se hubo movido",
+      "nosotros": "nos hubimos movido",
+      "vosotros": "os hubisteis movido",
+      "uds": "se hubieron movido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría movido",
+      "tu": "te habrías movido",
+      "ud": "se habría movido",
+      "nosotros": "nos habríamos movido",
+      "vosotros": "os habríais movido",
+      "uds": "se habrían movido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me mueva",
+      "tu": "te muevas",
+      "ud": "se mueva",
+      "nosotros": "nos movamos",
+      "vosotros": "os mováis",
+      "uds": "se muevan"
+    },
+    "imperfecto": {
+      "yo": "me moviera",
+      "tu": "te movieras",
+      "ud": "se moviera",
+      "nosotros": "nos moviéramos",
+      "vosotros": "os movierais",
+      "uds": "se movieran"
+    },
+    "futuro": {
+      "yo": "me moviere",
+      "tu": "te movieres",
+      "ud": "se moviere",
+      "nosotros": "nos moviéremos",
+      "vosotros": "os moviereis",
+      "uds": "se movieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya movido",
+      "tu": "te hayas movido",
+      "ud": "se haya movido",
+      "nosotros": "nos hayamos movido",
+      "vosotros": "os hayáis movido",
+      "uds": "se hayan movido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere movido",
+      "tu": "te hubieres movido",
+      "ud": "se hubiere movido",
+      "nosotros": "nos hubiéremos movido",
+      "vosotros": "os hubiereis movido",
+      "uds": "se hubieren movido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera movido",
+      "tu": "te hubieras movido",
+      "ud": "se hubiera movido",
+      "nosotros": "nos hubiéramos movido",
+      "vosotros": "os hubierais movido",
+      "uds": "se hubieran movido"
+    },
+    "imperfectoAlt": {
+      "yo": "me moviese",
+      "tu": "te movieses",
+      "ud": "se moviese",
+      "nosotros": "nos moviésemos",
+      "vosotros": "os movieseis",
+      "uds": "se moviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese movido",
+      "tu": "te hubieses movido",
+      "ud": "se hubiese movido",
+      "nosotros": "nos hubiésemos movido",
+      "vosotros": "os hubieseis movido",
+      "uds": "se hubiesen movido"
+    }
+  },
+  "afirmativo": {
+    "tu": "muévete",
+    "vosotros": "movíos",
+    "ud": "muévase",
+    "uds": "muévanse"
+  },
+  "negativo": {
+    "tu": "no te muevas",
+    "vosotros": "no os mováis",
+    "ud": "no se mueva",
+    "uds": "no se muevan"
+  },
+  "english": {
+    "note": "Note: This reflexive form is used in the sense of to change location, for example, to move oneself from one spot in a room to somewhere else. Use mover (without the reflexive) to move some object. For move in the sense of to change residence, use mudarse.",
+    "infinitivo": "to move (oneself)",
+    "gerundio": "moving",
+    "participioPasado": "moved",
+    "indicativo": {
+      "presente": "I move, am moving",
+      "futuro": "I will move",
+      "imperfecto": "I was moving, used to move, moved",
+      "preterito": "I moved",
+      "condicional": "I would move",
+      "presentePerfecto": "I have moved",
+      "futuroPerfecto": "I will have moved",
+      "pluscuamperfecto": "I had moved",
+      "preteritoAnterior": "I had moved",
+      "condicionalPerfecto": "I would have moved"
+    },
+    "subjuntivo": {
+      "presente": "I move, am moving",
+      "imperfecto": "I moved, was moving",
+      "futuro": "I will move",
+      "presentePerfecto": "I have moved, moved",
+      "futuroPerfecto": "I will have moved",
+      "pluscuamperfecto": "I had moved"
+    },
+    "afirmativo": "Move!",
+    "negativo": "Don't move!"
+  },
+  "attribution": "Fred Jehle"
+}

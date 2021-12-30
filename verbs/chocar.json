@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "chocar",
+  "gerundio": "chocando",
+  "participioPasado": "chocado",
+  "indicativo": {
+    "presente": {
+      "yo": "choco",
+      "tu": "chocas",
+      "ud": "choca",
+      "nosotros": "chocamos",
+      "vosotros": "chocáis",
+      "uds": "chocan"
+    },
+    "futuro": {
+      "yo": "chocaré",
+      "tu": "chocarás",
+      "ud": "chocará",
+      "nosotros": "chocaremos",
+      "vosotros": "chocaréis",
+      "uds": "chocarán"
+    },
+    "imperfecto": {
+      "yo": "chocaba",
+      "tu": "chocabas",
+      "ud": "chocaba",
+      "nosotros": "chocábamos",
+      "vosotros": "chocabais",
+      "uds": "chocaban"
+    },
+    "preterito": {
+      "yo": "choqué",
+      "tu": "chocaste",
+      "ud": "chocó",
+      "nosotros": "chocamos",
+      "vosotros": "chocasteis",
+      "uds": "chocaron"
+    },
+    "condicional": {
+      "yo": "chocaría",
+      "tu": "chocarías",
+      "ud": "chocaría",
+      "nosotros": "chocaríamos",
+      "vosotros": "chocaríais",
+      "uds": "chocarían"
+    },
+    "presentePerfecto": {
+      "yo": "he chocado",
+      "tu": "has chocado",
+      "ud": "ha chocado",
+      "nosotros": "hemos chocado",
+      "vosotros": "habéis chocado",
+      "uds": "han chocado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré chocado",
+      "tu": "habrás chocado",
+      "ud": "habrá chocado",
+      "nosotros": "habremos chocado",
+      "vosotros": "habréis chocado",
+      "uds": "habrán chocado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había chocado",
+      "tu": "habías chocado",
+      "ud": "había chocado",
+      "nosotros": "habíamos chocado",
+      "vosotros": "habíais chocado",
+      "uds": "habían chocado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube chocado",
+      "tu": "hubiste chocado",
+      "ud": "hubo chocado",
+      "nosotros": "hubimos chocado",
+      "vosotros": "hubisteis chocado",
+      "uds": "hubieron chocado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría chocado",
+      "tu": "habrías chocado",
+      "ud": "habría chocado",
+      "nosotros": "habríamos chocado",
+      "vosotros": "habríais chocado",
+      "uds": "habrían chocado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "choque",
+      "tu": "choques",
+      "ud": "choque",
+      "nosotros": "choquemos",
+      "vosotros": "choquéis",
+      "uds": "choquen"
+    },
+    "imperfecto": {
+      "yo": "chocara",
+      "tu": "chocaras",
+      "ud": "chocara",
+      "nosotros": "chocáramos",
+      "vosotros": "chocarais",
+      "uds": "chocaran"
+    },
+    "futuro": {
+      "yo": "chocare",
+      "tu": "chocares",
+      "ud": "chocare",
+      "nosotros": "chocáremos",
+      "vosotros": "chocareis",
+      "uds": "chocaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya chocado",
+      "tu": "hayas chocado",
+      "ud": "haya chocado",
+      "nosotros": "hayamos chocado",
+      "vosotros": "hayáis chocado",
+      "uds": "hayan chocado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere chocado",
+      "tu": "hubieres chocado",
+      "ud": "hubiere chocado",
+      "nosotros": "hubiéremos chocado",
+      "vosotros": "hubiereis chocado",
+      "uds": "hubieren chocado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera chocado",
+      "tu": "hubieras chocado",
+      "ud": "hubiera chocado",
+      "nosotros": "hubiéramos chocado",
+      "vosotros": "hubierais chocado",
+      "uds": "hubieran chocado"
+    },
+    "imperfectoAlt": {
+      "yo": "chocase",
+      "tu": "chocases",
+      "ud": "chocase",
+      "nosotros": "chocásemos",
+      "vosotros": "chocaseis",
+      "uds": "chocasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese chocado",
+      "tu": "hubieses chocado",
+      "ud": "hubiese chocado",
+      "nosotros": "hubiésemos chocado",
+      "vosotros": "hubieseis chocado",
+      "uds": "hubiesen chocado"
+    }
+  },
+  "afirmativo": {
+    "tu": "choca",
+    "vosotros": "chocad",
+    "ud": "choque",
+    "uds": "choquen"
+  },
+  "negativo": {
+    "tu": "no choques",
+    "vosotros": "no choquéis",
+    "ud": "no choque",
+    "uds": "no choquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e. Note: Chocar con algo = to crash into/against something.",
+    "infinitivo": "to shock; to startle; to be suprising, startling; to collide, crash",
+    "gerundio": "shocking",
+    "participioPasado": "shocked",
+    "indicativo": {
+      "presente": "I shock, am shocking",
+      "futuro": "I will shock",
+      "imperfecto": "I was shocking, used to shock, shocked",
+      "preterito": "I shocked",
+      "condicional": "I would shock",
+      "presentePerfecto": "I have shocked",
+      "futuroPerfecto": "I will have shocked",
+      "pluscuamperfecto": "I had shocked",
+      "preteritoAnterior": "I had shocked",
+      "condicionalPerfecto": "I would have shocked"
+    },
+    "subjuntivo": {
+      "presente": "I shock, am shocking",
+      "imperfecto": "I shocked, was shocking",
+      "futuro": "I will shock",
+      "presentePerfecto": "I have shocked, shocked",
+      "futuroPerfecto": "I will have shocked",
+      "pluscuamperfecto": "I had shocked"
+    },
+    "afirmativo": "Shock!",
+    "negativo": "Don't shock!"
+  },
+  "attribution": "Fred Jehle"
+}

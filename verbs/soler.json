@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "soler",
+  "gerundio": "soliendo",
+  "participioPasado": "solido",
+  "indicativo": {
+    "presente": {
+      "yo": "suelo",
+      "tu": "sueles",
+      "ud": "suele",
+      "nosotros": "solemos",
+      "vosotros": "soléis",
+      "uds": "suelen"
+    },
+    "futuro": {
+      "yo": "soleré",
+      "tu": "solerás",
+      "ud": "solerá",
+      "nosotros": "soleremos",
+      "vosotros": "soleréis",
+      "uds": "solerán"
+    },
+    "imperfecto": {
+      "yo": "solía",
+      "tu": "solías",
+      "ud": "solía",
+      "nosotros": "solíamos",
+      "vosotros": "solíais",
+      "uds": "solían"
+    },
+    "preterito": {
+      "yo": "solí",
+      "tu": "soliste",
+      "ud": "solió",
+      "nosotros": "solimos",
+      "vosotros": "solisteis",
+      "uds": "solieron"
+    },
+    "condicional": {
+      "yo": "solería",
+      "tu": "solerías",
+      "ud": "solería",
+      "nosotros": "soleríamos",
+      "vosotros": "soleríais",
+      "uds": "solerían"
+    },
+    "presentePerfecto": {
+      "yo": "he solido",
+      "tu": "has solido",
+      "ud": "ha solido",
+      "nosotros": "hemos solido",
+      "vosotros": "habéis solido",
+      "uds": "han solido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré solido",
+      "tu": "habrás solido",
+      "ud": "habrá solido",
+      "nosotros": "habremos solido",
+      "vosotros": "habréis solido",
+      "uds": "habrán solido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había solido",
+      "tu": "habías solido",
+      "ud": "había solido",
+      "nosotros": "habíamos solido",
+      "vosotros": "habíais solido",
+      "uds": "habían solido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube solido",
+      "tu": "hubiste solido",
+      "ud": "hubo solido",
+      "nosotros": "hubimos solido",
+      "vosotros": "hubisteis solido",
+      "uds": "hubieron solido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría solido",
+      "tu": "habrías solido",
+      "ud": "habría solido",
+      "nosotros": "habríamos solido",
+      "vosotros": "habríais solido",
+      "uds": "habrían solido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "suela",
+      "tu": "suelas",
+      "ud": "suela",
+      "nosotros": "solamos",
+      "vosotros": "soláis",
+      "uds": "suelan"
+    },
+    "imperfecto": {
+      "yo": "soliera",
+      "tu": "solieras",
+      "ud": "soliera",
+      "nosotros": "soliéramos",
+      "vosotros": "solierais",
+      "uds": "solieran"
+    },
+    "futuro": {
+      "yo": "soliere",
+      "tu": "solieres",
+      "ud": "soliere",
+      "nosotros": "soliéremos",
+      "vosotros": "soliereis",
+      "uds": "solieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya solido",
+      "tu": "hayas solido",
+      "ud": "haya solido",
+      "nosotros": "hayamos solido",
+      "vosotros": "hayáis solido",
+      "uds": "hayan solido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere solido",
+      "tu": "hubieres solido",
+      "ud": "hubiere solido",
+      "nosotros": "hubiéremos solido",
+      "vosotros": "hubiereis solido",
+      "uds": "hubieren solido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera solido",
+      "tu": "hubieras solido",
+      "ud": "hubiera solido",
+      "nosotros": "hubiéramos solido",
+      "vosotros": "hubierais solido",
+      "uds": "hubieran solido"
+    },
+    "imperfectoAlt": {
+      "yo": "soliese",
+      "tu": "solieses",
+      "ud": "soliese",
+      "nosotros": "soliésemos",
+      "vosotros": "solieseis",
+      "uds": "soliesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese solido",
+      "tu": "hubieses solido",
+      "ud": "hubiese solido",
+      "nosotros": "hubiésemos solido",
+      "vosotros": "hubieseis solido",
+      "uds": "hubiesen solido"
+    }
+  },
+  "afirmativo": {
+    "tu": "suele",
+    "vosotros": "soled",
+    "ud": "suela",
+    "uds": "suelan"
+  },
+  "negativo": {
+    "tu": "no suelas",
+    "vosotros": "no soláis",
+    "ud": "no suela",
+    "uds": "no suelan"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Este verbo se usa normalmente en el tiempo presente y en el imperfecto. Note: This verb is nomally followed by an infinitive.",
+    "infinitivo": "to be accustomed to, be accustomed to",
+    "gerundio": "being accustomed to",
+    "participioPasado": "accustomed to",
+    "indicativo": {
+      "presente": "I am accustomed to",
+      "futuro": "I will be accustomed to",
+      "imperfecto": "I was accustomed to",
+      "preterito": "I was accustomed to",
+      "condicional": "I would be accustomed to",
+      "presentePerfecto": "I have been accustomed to",
+      "futuroPerfecto": "I will have been accustomed to",
+      "pluscuamperfecto": "I had been accustomed to",
+      "preteritoAnterior": "I had been accustomed to",
+      "condicionalPerfecto": "I would have been accustomed to"
+    },
+    "subjuntivo": {
+      "presente": "I am accustomed to",
+      "imperfecto": "I was accustomed to",
+      "futuro": "I will be accustomed to",
+      "presentePerfecto": "I have been accustomed to, was accustomed to",
+      "futuroPerfecto": "I will have been accustomed to",
+      "pluscuamperfecto": "I had been accustomed to"
+    },
+    "afirmativo": "Be accustomed to!",
+    "negativo": "Don't be accustomed to!"
+  },
+  "attribution": "Fred Jehle"
+}

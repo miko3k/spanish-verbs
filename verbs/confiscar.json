@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "confiscar",
+  "gerundio": "confiscando",
+  "participioPasado": "confiscado",
+  "indicativo": {
+    "presente": {
+      "yo": "confisco",
+      "tu": "confiscas",
+      "ud": "confisca",
+      "nosotros": "confiscamos",
+      "vosotros": "confiscáis",
+      "uds": "confiscan"
+    },
+    "futuro": {
+      "yo": "confiscaré",
+      "tu": "confiscarás",
+      "ud": "confiscará",
+      "nosotros": "confiscaremos",
+      "vosotros": "confiscaréis",
+      "uds": "confiscarán"
+    },
+    "imperfecto": {
+      "yo": "confiscaba",
+      "tu": "confiscabas",
+      "ud": "confiscaba",
+      "nosotros": "confiscábamos",
+      "vosotros": "confiscabais",
+      "uds": "confiscaban"
+    },
+    "preterito": {
+      "yo": "confisqué",
+      "tu": "confiscaste",
+      "ud": "confiscó",
+      "nosotros": "confiscamos",
+      "vosotros": "confiscasteis",
+      "uds": "confiscaron"
+    },
+    "condicional": {
+      "yo": "confiscaría",
+      "tu": "confiscarías",
+      "ud": "confiscaría",
+      "nosotros": "confiscaríamos",
+      "vosotros": "confiscaríais",
+      "uds": "confiscarían"
+    },
+    "presentePerfecto": {
+      "yo": "he confiscado",
+      "tu": "has confiscado",
+      "ud": "ha confiscado",
+      "nosotros": "hemos confiscado",
+      "vosotros": "habéis confiscado",
+      "uds": "han confiscado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré confiscado",
+      "tu": "habrás confiscado",
+      "ud": "habrá confiscado",
+      "nosotros": "habremos confiscado",
+      "vosotros": "habréis confiscado",
+      "uds": "habrán confiscado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había confiscado",
+      "tu": "habías confiscado",
+      "ud": "había confiscado",
+      "nosotros": "habíamos confiscado",
+      "vosotros": "habíais confiscado",
+      "uds": "habían confiscado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube confiscado",
+      "tu": "hubiste confiscado",
+      "ud": "hubo confiscado",
+      "nosotros": "hubimos confiscado",
+      "vosotros": "hubisteis confiscado",
+      "uds": "hubieron confiscado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría confiscado",
+      "tu": "habrías confiscado",
+      "ud": "habría confiscado",
+      "nosotros": "habríamos confiscado",
+      "vosotros": "habríais confiscado",
+      "uds": "habrían confiscado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "confisque",
+      "tu": "confisques",
+      "ud": "confisque",
+      "nosotros": "confisquemos",
+      "vosotros": "confisquéis",
+      "uds": "confisquen"
+    },
+    "imperfecto": {
+      "yo": "confiscara",
+      "tu": "confiscaras",
+      "ud": "confiscara",
+      "nosotros": "confiscáramos",
+      "vosotros": "confiscarais",
+      "uds": "confiscaran"
+    },
+    "futuro": {
+      "yo": "confiscare",
+      "tu": "confiscares",
+      "ud": "confiscare",
+      "nosotros": "confiscáremos",
+      "vosotros": "confiscareis",
+      "uds": "confiscaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya confiscado",
+      "tu": "hayas confiscado",
+      "ud": "haya confiscado",
+      "nosotros": "hayamos confiscado",
+      "vosotros": "hayáis confiscado",
+      "uds": "hayan confiscado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere confiscado",
+      "tu": "hubieres confiscado",
+      "ud": "hubiere confiscado",
+      "nosotros": "hubiéremos confiscado",
+      "vosotros": "hubiereis confiscado",
+      "uds": "hubieren confiscado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera confiscado",
+      "tu": "hubieras confiscado",
+      "ud": "hubiera confiscado",
+      "nosotros": "hubiéramos confiscado",
+      "vosotros": "hubierais confiscado",
+      "uds": "hubieran confiscado"
+    },
+    "imperfectoAlt": {
+      "yo": "confiscase",
+      "tu": "confiscases",
+      "ud": "confiscase",
+      "nosotros": "confiscásemos",
+      "vosotros": "confiscaseis",
+      "uds": "confiscasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese confiscado",
+      "tu": "hubieses confiscado",
+      "ud": "hubiese confiscado",
+      "nosotros": "hubiésemos confiscado",
+      "vosotros": "hubieseis confiscado",
+      "uds": "hubiesen confiscado"
+    }
+  },
+  "afirmativo": {
+    "tu": "confisca",
+    "vosotros": "confiscad",
+    "ud": "confisque",
+    "uds": "confisquen"
+  },
+  "negativo": {
+    "tu": "no confisques",
+    "vosotros": "no confisquéis",
+    "ud": "no confisque",
+    "uds": "no confisquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to confiscate",
+    "gerundio": "confiscating",
+    "participioPasado": "confiscated",
+    "indicativo": {
+      "presente": "I confiscate, am confiscating",
+      "futuro": "I will confiscate",
+      "imperfecto": "I was confiscating, used to confiscate, confiscated",
+      "preterito": "I confiscated",
+      "condicional": "I would confiscate",
+      "presentePerfecto": "I have confiscated",
+      "futuroPerfecto": "I will have confiscated",
+      "pluscuamperfecto": "I had confiscated",
+      "preteritoAnterior": "I had confiscated",
+      "condicionalPerfecto": "I would have confiscated"
+    },
+    "subjuntivo": {
+      "presente": "I confiscate, am confiscating",
+      "imperfecto": "I confiscated, was confiscating",
+      "futuro": "I will confiscate",
+      "presentePerfecto": "I have confiscated, confiscated",
+      "futuroPerfecto": "I will have confiscated",
+      "pluscuamperfecto": "I had confiscated"
+    },
+    "afirmativo": "Confiscate!",
+    "negativo": "Don't confiscate!"
+  },
+  "attribution": "Fred Jehle"
+}

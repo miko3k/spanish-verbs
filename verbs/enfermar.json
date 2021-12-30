@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "enfermar",
+  "gerundio": "enfermando",
+  "participioPasado": "enfermado",
+  "indicativo": {
+    "presente": {
+      "yo": "enfermo",
+      "tu": "enfermas",
+      "ud": "enferma",
+      "nosotros": "enfermamos",
+      "vosotros": "enfermáis",
+      "uds": "enferman"
+    },
+    "futuro": {
+      "yo": "enfermaré",
+      "tu": "enfermarás",
+      "ud": "enfermará",
+      "nosotros": "enfermaremos",
+      "vosotros": "enfermaréis",
+      "uds": "enfermarán"
+    },
+    "imperfecto": {
+      "yo": "enfermaba",
+      "tu": "enfermabas",
+      "ud": "enfermaba",
+      "nosotros": "enfermábamos",
+      "vosotros": "enfermabais",
+      "uds": "enfermaban"
+    },
+    "preterito": {
+      "yo": "enfermé",
+      "tu": "enfermaste",
+      "ud": "enfermó",
+      "nosotros": "enfermamos",
+      "vosotros": "enfermasteis",
+      "uds": "enfermaron"
+    },
+    "condicional": {
+      "yo": "enfermaría",
+      "tu": "enfermarías",
+      "ud": "enfermaría",
+      "nosotros": "enfermaríamos",
+      "vosotros": "enfermaríais",
+      "uds": "enfermarían"
+    },
+    "presentePerfecto": {
+      "yo": "he enfermado",
+      "tu": "has enfermado",
+      "ud": "ha enfermado",
+      "nosotros": "hemos enfermado",
+      "vosotros": "habéis enfermado",
+      "uds": "han enfermado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré enfermado",
+      "tu": "habrás enfermado",
+      "ud": "habrá enfermado",
+      "nosotros": "habremos enfermado",
+      "vosotros": "habréis enfermado",
+      "uds": "habrán enfermado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había enfermado",
+      "tu": "habías enfermado",
+      "ud": "había enfermado",
+      "nosotros": "habíamos enfermado",
+      "vosotros": "habíais enfermado",
+      "uds": "habían enfermado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube enfermado",
+      "tu": "hubiste enfermado",
+      "ud": "hubo enfermado",
+      "nosotros": "hubimos enfermado",
+      "vosotros": "hubisteis enfermado",
+      "uds": "hubieron enfermado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría enfermado",
+      "tu": "habrías enfermado",
+      "ud": "habría enfermado",
+      "nosotros": "habríamos enfermado",
+      "vosotros": "habríais enfermado",
+      "uds": "habrían enfermado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "enferme",
+      "tu": "enfermes",
+      "ud": "enferme",
+      "nosotros": "enfermemos",
+      "vosotros": "enferméis",
+      "uds": "enfermen"
+    },
+    "imperfecto": {
+      "yo": "enfermara",
+      "tu": "enfermaras",
+      "ud": "enfermara",
+      "nosotros": "enfermáramos",
+      "vosotros": "enfermarais",
+      "uds": "enfermaran"
+    },
+    "futuro": {
+      "yo": "enfermare",
+      "tu": "enfermares",
+      "ud": "enfermare",
+      "nosotros": "enfermáremos",
+      "vosotros": "enfermareis",
+      "uds": "enfermaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya enfermado",
+      "tu": "hayas enfermado",
+      "ud": "haya enfermado",
+      "nosotros": "hayamos enfermado",
+      "vosotros": "hayáis enfermado",
+      "uds": "hayan enfermado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere enfermado",
+      "tu": "hubieres enfermado",
+      "ud": "hubiere enfermado",
+      "nosotros": "hubiéremos enfermado",
+      "vosotros": "hubiereis enfermado",
+      "uds": "hubieren enfermado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera enfermado",
+      "tu": "hubieras enfermado",
+      "ud": "hubiera enfermado",
+      "nosotros": "hubiéramos enfermado",
+      "vosotros": "hubierais enfermado",
+      "uds": "hubieran enfermado"
+    },
+    "imperfectoAlt": {
+      "yo": "enfermase",
+      "tu": "enfermases",
+      "ud": "enfermase",
+      "nosotros": "enfermásemos",
+      "vosotros": "enfermaseis",
+      "uds": "enfermasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese enfermado",
+      "tu": "hubieses enfermado",
+      "ud": "hubiese enfermado",
+      "nosotros": "hubiésemos enfermado",
+      "vosotros": "hubieseis enfermado",
+      "uds": "hubiesen enfermado"
+    }
+  },
+  "afirmativo": {
+    "tu": "enferma",
+    "vosotros": "enfermad",
+    "ud": "enferme",
+    "uds": "enfermen"
+  },
+  "negativo": {
+    "tu": "no enfermes",
+    "vosotros": "no enferméis",
+    "ud": "no enferme",
+    "uds": "no enfermen"
+  },
+  "english": {
+    "note": "Note: For to get sick use the reflexive form enfermarse.",
+    "infinitivo": "to make ill, make sick, cause illness in",
+    "gerundio": "making ill",
+    "participioPasado": "made ill",
+    "indicativo": {
+      "presente": "I make ill, am making ill",
+      "futuro": "I will make ill",
+      "imperfecto": "I was making ill, used to make ill, made ill",
+      "preterito": "I made ill",
+      "condicional": "I would make ill",
+      "presentePerfecto": "I have made ill",
+      "futuroPerfecto": "I will have made ill",
+      "pluscuamperfecto": "I had made ill",
+      "preteritoAnterior": "I had made ill",
+      "condicionalPerfecto": "I would have made ill"
+    },
+    "subjuntivo": {
+      "presente": "I make ill, am making ill",
+      "imperfecto": "I made ill, was making ill",
+      "futuro": "I will make ill",
+      "presentePerfecto": "I have made ill, made ill",
+      "futuroPerfecto": "I will have made ill",
+      "pluscuamperfecto": "I had made ill"
+    },
+    "afirmativo": "Make ill!",
+    "negativo": "Don't make ill!"
+  },
+  "attribution": "Fred Jehle"
+}

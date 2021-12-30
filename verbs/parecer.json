@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "parecer",
+  "gerundio": "pareciendo",
+  "participioPasado": "parecido",
+  "indicativo": {
+    "presente": {
+      "yo": "parezco",
+      "tu": "pareces",
+      "ud": "parece",
+      "nosotros": "parecemos",
+      "vosotros": "parecéis",
+      "uds": "parecen"
+    },
+    "futuro": {
+      "yo": "pareceré",
+      "tu": "parecerás",
+      "ud": "parecerá",
+      "nosotros": "pareceremos",
+      "vosotros": "pareceréis",
+      "uds": "parecerán"
+    },
+    "imperfecto": {
+      "yo": "parecía",
+      "tu": "parecías",
+      "ud": "parecía",
+      "nosotros": "parecíamos",
+      "vosotros": "parecíais",
+      "uds": "parecían"
+    },
+    "preterito": {
+      "yo": "parecí",
+      "tu": "pareciste",
+      "ud": "pareció",
+      "nosotros": "parecimos",
+      "vosotros": "parecisteis",
+      "uds": "parecieron"
+    },
+    "condicional": {
+      "yo": "parecería",
+      "tu": "parecerías",
+      "ud": "parecería",
+      "nosotros": "pareceríamos",
+      "vosotros": "pareceríais",
+      "uds": "parecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he parecido",
+      "tu": "has parecido",
+      "ud": "ha parecido",
+      "nosotros": "hemos parecido",
+      "vosotros": "habéis parecido",
+      "uds": "han parecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré parecido",
+      "tu": "habrás parecido",
+      "ud": "habrá parecido",
+      "nosotros": "habremos parecido",
+      "vosotros": "habréis parecido",
+      "uds": "habrán parecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había parecido",
+      "tu": "habías parecido",
+      "ud": "había parecido",
+      "nosotros": "habíamos parecido",
+      "vosotros": "habíais parecido",
+      "uds": "habían parecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube parecido",
+      "tu": "hubiste parecido",
+      "ud": "hubo parecido",
+      "nosotros": "hubimos parecido",
+      "vosotros": "hubisteis parecido",
+      "uds": "hubieron parecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría parecido",
+      "tu": "habrías parecido",
+      "ud": "habría parecido",
+      "nosotros": "habríamos parecido",
+      "vosotros": "habríais parecido",
+      "uds": "habrían parecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "parezca",
+      "tu": "parezcas",
+      "ud": "parezca",
+      "nosotros": "parezcamos",
+      "vosotros": "parezcáis",
+      "uds": "parezcan"
+    },
+    "imperfecto": {
+      "yo": "pareciera",
+      "tu": "parecieras",
+      "ud": "pareciera",
+      "nosotros": "pareciéramos",
+      "vosotros": "parecierais",
+      "uds": "parecieran"
+    },
+    "futuro": {
+      "yo": "pareciere",
+      "tu": "parecieres",
+      "ud": "pareciere",
+      "nosotros": "pareciéremos",
+      "vosotros": "pareciereis",
+      "uds": "parecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya parecido",
+      "tu": "hayas parecido",
+      "ud": "haya parecido",
+      "nosotros": "hayamos parecido",
+      "vosotros": "hayáis parecido",
+      "uds": "hayan parecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere parecido",
+      "tu": "hubieres parecido",
+      "ud": "hubiere parecido",
+      "nosotros": "hubiéremos parecido",
+      "vosotros": "hubiereis parecido",
+      "uds": "hubieren parecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera parecido",
+      "tu": "hubieras parecido",
+      "ud": "hubiera parecido",
+      "nosotros": "hubiéramos parecido",
+      "vosotros": "hubierais parecido",
+      "uds": "hubieran parecido"
+    },
+    "imperfectoAlt": {
+      "yo": "pareciese",
+      "tu": "parecieses",
+      "ud": "pareciese",
+      "nosotros": "pareciésemos",
+      "vosotros": "parecieseis",
+      "uds": "pareciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese parecido",
+      "tu": "hubieses parecido",
+      "ud": "hubiese parecido",
+      "nosotros": "hubiésemos parecido",
+      "vosotros": "hubieseis parecido",
+      "uds": "hubiesen parecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "parece",
+    "vosotros": "pareced",
+    "ud": "parezca",
+    "uds": "parezcan"
+  },
+  "negativo": {
+    "tu": "no parezcas",
+    "vosotros": "no parezcáis",
+    "ud": "no parezca",
+    "uds": "no parezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: parezco, parezca, parezcas, etc. Note: For appear in the sense of to make an appearance, use aparecer.",
+    "infinitivo": "to seem, appear",
+    "gerundio": "seeming",
+    "participioPasado": "seemed",
+    "indicativo": {
+      "presente": "I seem, am seeming",
+      "futuro": "I will seem",
+      "imperfecto": "I was seeming, used to seem, seemed",
+      "preterito": "I seemed",
+      "condicional": "I would seem",
+      "presentePerfecto": "I have seemed",
+      "futuroPerfecto": "I will have seemed",
+      "pluscuamperfecto": "I had seemed",
+      "preteritoAnterior": "I had seemed",
+      "condicionalPerfecto": "I would have seemed"
+    },
+    "subjuntivo": {
+      "presente": "I seem, am seeming",
+      "imperfecto": "I seemed, was seeming",
+      "futuro": "I will seem",
+      "presentePerfecto": "I have seemed, seemed",
+      "futuroPerfecto": "I will have seemed",
+      "pluscuamperfecto": "I had seemed"
+    },
+    "afirmativo": "Seem!",
+    "negativo": "Don't seem!"
+  },
+  "attribution": "Fred Jehle"
+}

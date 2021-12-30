@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "extinguir",
+  "gerundio": "extinguiendo",
+  "participioPasado": "extinguido",
+  "indicativo": {
+    "presente": {
+      "yo": "extingo",
+      "tu": "extingues",
+      "ud": "extingue",
+      "nosotros": "extinguimos",
+      "vosotros": "extinguís",
+      "uds": "extinguen"
+    },
+    "futuro": {
+      "yo": "extinguiré",
+      "tu": "extinguirás",
+      "ud": "extinguirá",
+      "nosotros": "extinguiremos",
+      "vosotros": "extinguiréis",
+      "uds": "extinguirán"
+    },
+    "imperfecto": {
+      "yo": "extinguía",
+      "tu": "extinguías",
+      "ud": "extinguía",
+      "nosotros": "extinguíamos",
+      "vosotros": "extinguíais",
+      "uds": "extinguían"
+    },
+    "preterito": {
+      "yo": "extinguí",
+      "tu": "extinguiste",
+      "ud": "extinguió",
+      "nosotros": "extinguimos",
+      "vosotros": "extinguisteis",
+      "uds": "extinguieron"
+    },
+    "condicional": {
+      "yo": "extinguiría",
+      "tu": "extinguirías",
+      "ud": "extinguiría",
+      "nosotros": "extinguiríamos",
+      "vosotros": "extinguiríais",
+      "uds": "extinguirían"
+    },
+    "presentePerfecto": {
+      "yo": "he extinguido",
+      "tu": "has extinguido",
+      "ud": "ha extinguido",
+      "nosotros": "hemos extinguido",
+      "vosotros": "habéis extinguido",
+      "uds": "han extinguido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré extinguido",
+      "tu": "habrás extinguido",
+      "ud": "habrá extinguido",
+      "nosotros": "habremos extinguido",
+      "vosotros": "habréis extinguido",
+      "uds": "habrán extinguido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había extinguido",
+      "tu": "habías extinguido",
+      "ud": "había extinguido",
+      "nosotros": "habíamos extinguido",
+      "vosotros": "habíais extinguido",
+      "uds": "habían extinguido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube extinguido",
+      "tu": "hubiste extinguido",
+      "ud": "hubo extinguido",
+      "nosotros": "hubimos extinguido",
+      "vosotros": "hubisteis extinguido",
+      "uds": "hubieron extinguido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría extinguido",
+      "tu": "habrías extinguido",
+      "ud": "habría extinguido",
+      "nosotros": "habríamos extinguido",
+      "vosotros": "habríais extinguido",
+      "uds": "habrían extinguido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "extinga",
+      "tu": "extingas",
+      "ud": "extinga",
+      "nosotros": "extingamos",
+      "vosotros": "extingáis",
+      "uds": "extingan"
+    },
+    "imperfecto": {
+      "yo": "extinguiera",
+      "tu": "extinguieras",
+      "ud": "extinguiera",
+      "nosotros": "extinguiéramos",
+      "vosotros": "extinguierais",
+      "uds": "extinguieran"
+    },
+    "futuro": {
+      "yo": "extinguiere",
+      "tu": "extinguieres",
+      "ud": "extinguiere",
+      "nosotros": "extinguiéremos",
+      "vosotros": "extinguiereis",
+      "uds": "extinguieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya extinguido",
+      "tu": "hayas extinguido",
+      "ud": "haya extinguido",
+      "nosotros": "hayamos extinguido",
+      "vosotros": "hayáis extinguido",
+      "uds": "hayan extinguido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere extinguido",
+      "tu": "hubieres extinguido",
+      "ud": "hubiere extinguido",
+      "nosotros": "hubiéremos extinguido",
+      "vosotros": "hubiereis extinguido",
+      "uds": "hubieren extinguido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera extinguido",
+      "tu": "hubieras extinguido",
+      "ud": "hubiera extinguido",
+      "nosotros": "hubiéramos extinguido",
+      "vosotros": "hubierais extinguido",
+      "uds": "hubieran extinguido"
+    },
+    "imperfectoAlt": {
+      "yo": "extinguiese",
+      "tu": "extinguieses",
+      "ud": "extinguiese",
+      "nosotros": "extinguiésemos",
+      "vosotros": "extinguieseis",
+      "uds": "extinguiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese extinguido",
+      "tu": "hubieses extinguido",
+      "ud": "hubiese extinguido",
+      "nosotros": "hubiésemos extinguido",
+      "vosotros": "hubieseis extinguido",
+      "uds": "hubiesen extinguido"
+    }
+  },
+  "afirmativo": {
+    "tu": "extingue",
+    "vosotros": "extinguid",
+    "ud": "extinga",
+    "uds": "extingan"
+  },
+  "negativo": {
+    "tu": "no extingas",
+    "vosotros": "no extingáis",
+    "ud": "no extinga",
+    "uds": "no extingan"
+  },
+  "english": {
+    "note": "Cambios: gu > g delante a y o: extingo, extinga, extingas...",
+    "infinitivo": "to extinguish, put out",
+    "gerundio": "extinguishing",
+    "participioPasado": "extinguished",
+    "indicativo": {
+      "presente": "I extinguish, am extinguishing",
+      "futuro": "I will extinguish",
+      "imperfecto": "I was extinguishing, used to extinguish, extinguished",
+      "preterito": "I extinguished",
+      "condicional": "I would extinguish",
+      "presentePerfecto": "I have extinguished",
+      "futuroPerfecto": "I will have extinguished",
+      "pluscuamperfecto": "I had extinguished",
+      "preteritoAnterior": "I had extinguished",
+      "condicionalPerfecto": "I would have extinguished"
+    },
+    "subjuntivo": {
+      "presente": "I extinguish, am extinguishing",
+      "imperfecto": "I extinguished, was extinguishing",
+      "futuro": "I will extinguish",
+      "presentePerfecto": "I have extinguished, extinguished",
+      "futuroPerfecto": "I will have extinguished",
+      "pluscuamperfecto": "I had extinguished"
+    },
+    "afirmativo": "extinguish!",
+    "negativo": "Don't extinguish!"
+  },
+  "attribution": "Fred Jehle"
+}

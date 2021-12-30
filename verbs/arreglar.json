@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "arreglar",
+  "gerundio": "arreglando",
+  "participioPasado": "arreglado",
+  "indicativo": {
+    "presente": {
+      "yo": "arreglo",
+      "tu": "arreglas",
+      "ud": "arregla",
+      "nosotros": "arreglamos",
+      "vosotros": "arregláis",
+      "uds": "arreglan"
+    },
+    "futuro": {
+      "yo": "arreglaré",
+      "tu": "arreglarás",
+      "ud": "arreglará",
+      "nosotros": "arreglaremos",
+      "vosotros": "arreglaréis",
+      "uds": "arreglarán"
+    },
+    "imperfecto": {
+      "yo": "arreglaba",
+      "tu": "arreglabas",
+      "ud": "arreglaba",
+      "nosotros": "arreglábamos",
+      "vosotros": "arreglabais",
+      "uds": "arreglaban"
+    },
+    "preterito": {
+      "yo": "arreglé",
+      "tu": "arreglaste",
+      "ud": "arregló",
+      "nosotros": "arreglamos",
+      "vosotros": "arreglasteis",
+      "uds": "arreglaron"
+    },
+    "condicional": {
+      "yo": "arreglaría",
+      "tu": "arreglarías",
+      "ud": "arreglaría",
+      "nosotros": "arreglaríamos",
+      "vosotros": "arreglaríais",
+      "uds": "arreglarían"
+    },
+    "presentePerfecto": {
+      "yo": "he arreglado",
+      "tu": "has arreglado",
+      "ud": "ha arreglado",
+      "nosotros": "hemos arreglado",
+      "vosotros": "habéis arreglado",
+      "uds": "han arreglado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré arreglado",
+      "tu": "habrás arreglado",
+      "ud": "habrá arreglado",
+      "nosotros": "habremos arreglado",
+      "vosotros": "habréis arreglado",
+      "uds": "habrán arreglado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había arreglado",
+      "tu": "habías arreglado",
+      "ud": "había arreglado",
+      "nosotros": "habíamos arreglado",
+      "vosotros": "habíais arreglado",
+      "uds": "habían arreglado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube arreglado",
+      "tu": "hubiste arreglado",
+      "ud": "hubo arreglado",
+      "nosotros": "hubimos arreglado",
+      "vosotros": "hubisteis arreglado",
+      "uds": "hubieron arreglado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría arreglado",
+      "tu": "habrías arreglado",
+      "ud": "habría arreglado",
+      "nosotros": "habríamos arreglado",
+      "vosotros": "habríais arreglado",
+      "uds": "habrían arreglado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "arregle",
+      "tu": "arregles",
+      "ud": "arregle",
+      "nosotros": "arreglemos",
+      "vosotros": "arregléis",
+      "uds": "arreglen"
+    },
+    "imperfecto": {
+      "yo": "arreglara",
+      "tu": "arreglaras",
+      "ud": "arreglara",
+      "nosotros": "arregláramos",
+      "vosotros": "arreglarais",
+      "uds": "arreglaran"
+    },
+    "futuro": {
+      "yo": "arreglare",
+      "tu": "arreglares",
+      "ud": "arreglare",
+      "nosotros": "arregláremos",
+      "vosotros": "arreglareis",
+      "uds": "arreglaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya arreglado",
+      "tu": "hayas arreglado",
+      "ud": "haya arreglado",
+      "nosotros": "hayamos arreglado",
+      "vosotros": "hayáis arreglado",
+      "uds": "hayan arreglado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere arreglado",
+      "tu": "hubieres arreglado",
+      "ud": "hubiere arreglado",
+      "nosotros": "hubiéremos arreglado",
+      "vosotros": "hubiereis arreglado",
+      "uds": "hubieren arreglado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera arreglado",
+      "tu": "hubieras arreglado",
+      "ud": "hubiera arreglado",
+      "nosotros": "hubiéramos arreglado",
+      "vosotros": "hubierais arreglado",
+      "uds": "hubieran arreglado"
+    },
+    "imperfectoAlt": {
+      "yo": "arreglase",
+      "tu": "arreglases",
+      "ud": "arreglase",
+      "nosotros": "arreglásemos",
+      "vosotros": "arreglaseis",
+      "uds": "arreglasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese arreglado",
+      "tu": "hubieses arreglado",
+      "ud": "hubiese arreglado",
+      "nosotros": "hubiésemos arreglado",
+      "vosotros": "hubieseis arreglado",
+      "uds": "hubiesen arreglado"
+    }
+  },
+  "afirmativo": {
+    "tu": "arregla",
+    "vosotros": "arreglad",
+    "ud": "arregle",
+    "uds": "arreglen"
+  },
+  "negativo": {
+    "tu": "no arregles",
+    "vosotros": "no arregléis",
+    "ud": "no arregle",
+    "uds": "no arreglen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to arrange, settle, fix up, repair, tidy up",
+    "gerundio": "arranging",
+    "participioPasado": "arranged",
+    "indicativo": {
+      "presente": "I arrange, am arranging",
+      "futuro": "I will arrange",
+      "imperfecto": "I was arranging, used to arrange, arranged",
+      "preterito": "I arranged",
+      "condicional": "I would arrange",
+      "presentePerfecto": "I have arranged",
+      "futuroPerfecto": "I will have arranged",
+      "pluscuamperfecto": "I had arranged",
+      "preteritoAnterior": "I had arranged",
+      "condicionalPerfecto": "I would have arranged"
+    },
+    "subjuntivo": {
+      "presente": "I arrange, am arranging",
+      "imperfecto": "I arranged, was arranging",
+      "futuro": "I will arrange",
+      "presentePerfecto": "I have arranged, arranged",
+      "futuroPerfecto": "I will have arranged",
+      "pluscuamperfecto": "I had arranged"
+    },
+    "afirmativo": "Arrange!",
+    "negativo": "Don't arrange!"
+  },
+  "attribution": "Fred Jehle"
+}

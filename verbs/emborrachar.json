@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "emborrachar",
+  "gerundio": "emborrachando",
+  "participioPasado": "emborrachado",
+  "indicativo": {
+    "presente": {
+      "yo": "emborracho",
+      "tu": "emborrachas",
+      "ud": "emborracha",
+      "nosotros": "emborrachamos",
+      "vosotros": "emborracháis",
+      "uds": "emborrachan"
+    },
+    "futuro": {
+      "yo": "emborracharé",
+      "tu": "emborracharás",
+      "ud": "emborrachará",
+      "nosotros": "emborracharemos",
+      "vosotros": "emborracharéis",
+      "uds": "emborracharán"
+    },
+    "imperfecto": {
+      "yo": "emborrachaba",
+      "tu": "emborrachabas",
+      "ud": "emborrachaba",
+      "nosotros": "emborrachábamos",
+      "vosotros": "emborrachabais",
+      "uds": "emborrachaban"
+    },
+    "preterito": {
+      "yo": "emborraché",
+      "tu": "emborrachaste",
+      "ud": "emborrachó",
+      "nosotros": "emborrachamos",
+      "vosotros": "emborrachasteis",
+      "uds": "emborracharon"
+    },
+    "condicional": {
+      "yo": "emborracharía",
+      "tu": "emborracharías",
+      "ud": "emborracharía",
+      "nosotros": "emborracharíamos",
+      "vosotros": "emborracharíais",
+      "uds": "emborracharían"
+    },
+    "presentePerfecto": {
+      "yo": "he emborrachado",
+      "tu": "has emborrachado",
+      "ud": "ha emborrachado",
+      "nosotros": "hemos emborrachado",
+      "vosotros": "habéis emborrachado",
+      "uds": "han emborrachado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré emborrachado",
+      "tu": "habrás emborrachado",
+      "ud": "habrá emborrachado",
+      "nosotros": "habremos emborrachado",
+      "vosotros": "habréis emborrachado",
+      "uds": "habrán emborrachado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había emborrachado",
+      "tu": "habías emborrachado",
+      "ud": "había emborrachado",
+      "nosotros": "habíamos emborrachado",
+      "vosotros": "habíais emborrachado",
+      "uds": "habían emborrachado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube emborrachado",
+      "tu": "hubiste emborrachado",
+      "ud": "hubo emborrachado",
+      "nosotros": "hubimos emborrachado",
+      "vosotros": "hubisteis emborrachado",
+      "uds": "hubieron emborrachado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría emborrachado",
+      "tu": "habrías emborrachado",
+      "ud": "habría emborrachado",
+      "nosotros": "habríamos emborrachado",
+      "vosotros": "habríais emborrachado",
+      "uds": "habrían emborrachado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "emborrache",
+      "tu": "emborraches",
+      "ud": "emborrache",
+      "nosotros": "emborrachemos",
+      "vosotros": "emborrachéis",
+      "uds": "emborrachen"
+    },
+    "imperfecto": {
+      "yo": "emborrachara",
+      "tu": "emborracharas",
+      "ud": "emborrachara",
+      "nosotros": "emborracháramos",
+      "vosotros": "emborracharais",
+      "uds": "emborracharan"
+    },
+    "futuro": {
+      "yo": "emborrachare",
+      "tu": "emborrachares",
+      "ud": "emborrachare",
+      "nosotros": "emborracháremos",
+      "vosotros": "emborrachareis",
+      "uds": "emborracharen"
+    },
+    "presentePerfecto": {
+      "yo": "haya emborrachado",
+      "tu": "hayas emborrachado",
+      "ud": "haya emborrachado",
+      "nosotros": "hayamos emborrachado",
+      "vosotros": "hayáis emborrachado",
+      "uds": "hayan emborrachado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere emborrachado",
+      "tu": "hubieres emborrachado",
+      "ud": "hubiere emborrachado",
+      "nosotros": "hubiéremos emborrachado",
+      "vosotros": "hubiereis emborrachado",
+      "uds": "hubieren emborrachado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera emborrachado",
+      "tu": "hubieras emborrachado",
+      "ud": "hubiera emborrachado",
+      "nosotros": "hubiéramos emborrachado",
+      "vosotros": "hubierais emborrachado",
+      "uds": "hubieran emborrachado"
+    },
+    "imperfectoAlt": {
+      "yo": "emborrachase",
+      "tu": "emborrachases",
+      "ud": "emborrachase",
+      "nosotros": "emborrachásemos",
+      "vosotros": "emborrachaseis",
+      "uds": "emborrachasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese emborrachado",
+      "tu": "hubieses emborrachado",
+      "ud": "hubiese emborrachado",
+      "nosotros": "hubiésemos emborrachado",
+      "vosotros": "hubieseis emborrachado",
+      "uds": "hubiesen emborrachado"
+    }
+  },
+  "afirmativo": {
+    "tu": "emborracha",
+    "vosotros": "emborrachad",
+    "ud": "emborrache",
+    "uds": "emborrachen"
+  },
+  "negativo": {
+    "tu": "no emborraches",
+    "vosotros": "no emborrachéis",
+    "ud": "no emborrache",
+    "uds": "no emborrachen"
+  },
+  "english": {
+    "note": "Note: Use the reflexive form emborracharse to say to get drunk, to become drunk.",
+    "infinitivo": "to make drunk, intoxicate; to get (someone) drunk",
+    "gerundio": "making drunk",
+    "participioPasado": "made drunk",
+    "indicativo": {
+      "presente": "I make drunk, am making drunk",
+      "futuro": "I will make drunk",
+      "imperfecto": "I was making drunk, used to make drunk, made drunk",
+      "preterito": "I made drunk",
+      "condicional": "I would make drunk",
+      "presentePerfecto": "I have made drunk",
+      "futuroPerfecto": "I will have made drunk",
+      "pluscuamperfecto": "I had made drunk",
+      "preteritoAnterior": "I had made drunk",
+      "condicionalPerfecto": "I would have made drunk"
+    },
+    "subjuntivo": {
+      "presente": "I make drunk, am making drunk",
+      "imperfecto": "I made drunk, was making drunk",
+      "futuro": "I will make drunk",
+      "presentePerfecto": "I have made drunk, made drunk",
+      "futuroPerfecto": "I will have made drunk",
+      "pluscuamperfecto": "I had made drunk"
+    },
+    "afirmativo": "Make drunk!",
+    "negativo": "Don't make drunk!"
+  },
+  "attribution": "Fred Jehle"
+}

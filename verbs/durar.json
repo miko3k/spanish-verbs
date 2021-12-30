@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "durar",
+  "gerundio": "durando",
+  "participioPasado": "durado",
+  "indicativo": {
+    "presente": {
+      "yo": "duro",
+      "tu": "duras",
+      "ud": "dura",
+      "nosotros": "duramos",
+      "vosotros": "duráis",
+      "uds": "duran"
+    },
+    "futuro": {
+      "yo": "duraré",
+      "tu": "durarás",
+      "ud": "durará",
+      "nosotros": "duraremos",
+      "vosotros": "duraréis",
+      "uds": "durarán"
+    },
+    "imperfecto": {
+      "yo": "duraba",
+      "tu": "durabas",
+      "ud": "duraba",
+      "nosotros": "durábamos",
+      "vosotros": "durabais",
+      "uds": "duraban"
+    },
+    "preterito": {
+      "yo": "duré",
+      "tu": "duraste",
+      "ud": "duró",
+      "nosotros": "duramos",
+      "vosotros": "durasteis",
+      "uds": "duraron"
+    },
+    "condicional": {
+      "yo": "duraría",
+      "tu": "durarías",
+      "ud": "duraría",
+      "nosotros": "duraríamos",
+      "vosotros": "duraríais",
+      "uds": "durarían"
+    },
+    "presentePerfecto": {
+      "yo": "he durado",
+      "tu": "has durado",
+      "ud": "ha durado",
+      "nosotros": "hemos durado",
+      "vosotros": "habéis durado",
+      "uds": "han durado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré durado",
+      "tu": "habrás durado",
+      "ud": "habrá durado",
+      "nosotros": "habremos durado",
+      "vosotros": "habréis durado",
+      "uds": "habrán durado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había durado",
+      "tu": "habías durado",
+      "ud": "había durado",
+      "nosotros": "habíamos durado",
+      "vosotros": "habíais durado",
+      "uds": "habían durado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube durado",
+      "tu": "hubiste durado",
+      "ud": "hubo durado",
+      "nosotros": "hubimos durado",
+      "vosotros": "hubisteis durado",
+      "uds": "hubieron durado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría durado",
+      "tu": "habrías durado",
+      "ud": "habría durado",
+      "nosotros": "habríamos durado",
+      "vosotros": "habríais durado",
+      "uds": "habrían durado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "dure",
+      "tu": "dures",
+      "ud": "dure",
+      "nosotros": "duremos",
+      "vosotros": "duréis",
+      "uds": "duren"
+    },
+    "imperfecto": {
+      "yo": "durara",
+      "tu": "duraras",
+      "ud": "durara",
+      "nosotros": "duráramos",
+      "vosotros": "durarais",
+      "uds": "duraran"
+    },
+    "futuro": {
+      "yo": "durare",
+      "tu": "durares",
+      "ud": "durare",
+      "nosotros": "duráremos",
+      "vosotros": "durareis",
+      "uds": "duraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya durado",
+      "tu": "hayas durado",
+      "ud": "haya durado",
+      "nosotros": "hayamos durado",
+      "vosotros": "hayáis durado",
+      "uds": "hayan durado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere durado",
+      "tu": "hubieres durado",
+      "ud": "hubiere durado",
+      "nosotros": "hubiéremos durado",
+      "vosotros": "hubiereis durado",
+      "uds": "hubieren durado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera durado",
+      "tu": "hubieras durado",
+      "ud": "hubiera durado",
+      "nosotros": "hubiéramos durado",
+      "vosotros": "hubierais durado",
+      "uds": "hubieran durado"
+    },
+    "imperfectoAlt": {
+      "yo": "durase",
+      "tu": "durases",
+      "ud": "durase",
+      "nosotros": "durásemos",
+      "vosotros": "duraseis",
+      "uds": "durasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese durado",
+      "tu": "hubieses durado",
+      "ud": "hubiese durado",
+      "nosotros": "hubiésemos durado",
+      "vosotros": "hubieseis durado",
+      "uds": "hubiesen durado"
+    }
+  },
+  "afirmativo": {
+    "tu": "dura",
+    "vosotros": "durad",
+    "ud": "dure",
+    "uds": "duren"
+  },
+  "negativo": {
+    "tu": "no dures",
+    "vosotros": "no duréis",
+    "ud": "no dure",
+    "uds": "no duren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to last, go on, continue",
+    "gerundio": "lasting",
+    "participioPasado": "lasted",
+    "indicativo": {
+      "presente": "I last, am lasting",
+      "futuro": "I will last",
+      "imperfecto": "I was lasting, used to last, lasted",
+      "preterito": "I lasted",
+      "condicional": "I would last",
+      "presentePerfecto": "I have lasted",
+      "futuroPerfecto": "I will have lasted",
+      "pluscuamperfecto": "I had lasted",
+      "preteritoAnterior": "I had lasted",
+      "condicionalPerfecto": "I would have lasted"
+    },
+    "subjuntivo": {
+      "presente": "I last, am lasting",
+      "imperfecto": "I lasted, was lasting",
+      "futuro": "I will last",
+      "presentePerfecto": "I have lasted, lasted",
+      "futuroPerfecto": "I will have lasted",
+      "pluscuamperfecto": "I had lasted"
+    },
+    "afirmativo": "Last!",
+    "negativo": "Don't last!"
+  },
+  "attribution": "Fred Jehle"
+}

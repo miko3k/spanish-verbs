@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "ensuciar",
+  "gerundio": "ensuciando",
+  "participioPasado": "ensuciado",
+  "indicativo": {
+    "presente": {
+      "yo": "ensucio",
+      "tu": "ensucias",
+      "ud": "ensucia",
+      "nosotros": "ensuciamos",
+      "vosotros": "ensuciáis",
+      "uds": "ensucian"
+    },
+    "futuro": {
+      "yo": "ensuciaré",
+      "tu": "ensuciarás",
+      "ud": "ensuciará",
+      "nosotros": "ensuciaremos",
+      "vosotros": "ensuciaréis",
+      "uds": "ensuciarán"
+    },
+    "imperfecto": {
+      "yo": "ensuciaba",
+      "tu": "ensuciabas",
+      "ud": "ensuciaba",
+      "nosotros": "ensuciábamos",
+      "vosotros": "ensuciabais",
+      "uds": "ensuciaban"
+    },
+    "preterito": {
+      "yo": "ensucié",
+      "tu": "ensuciaste",
+      "ud": "ensució",
+      "nosotros": "ensuciamos",
+      "vosotros": "ensuciasteis",
+      "uds": "ensuciaron"
+    },
+    "condicional": {
+      "yo": "ensuciaría",
+      "tu": "ensuciarías",
+      "ud": "ensuciaría",
+      "nosotros": "ensuciaríamos",
+      "vosotros": "ensuciaríais",
+      "uds": "ensuciarían"
+    },
+    "presentePerfecto": {
+      "yo": "he ensuciado",
+      "tu": "has ensuciado",
+      "ud": "ha ensuciado",
+      "nosotros": "hemos ensuciado",
+      "vosotros": "habéis ensuciado",
+      "uds": "han ensuciado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ensuciado",
+      "tu": "habrás ensuciado",
+      "ud": "habrá ensuciado",
+      "nosotros": "habremos ensuciado",
+      "vosotros": "habréis ensuciado",
+      "uds": "habrán ensuciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ensuciado",
+      "tu": "habías ensuciado",
+      "ud": "había ensuciado",
+      "nosotros": "habíamos ensuciado",
+      "vosotros": "habíais ensuciado",
+      "uds": "habían ensuciado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ensuciado",
+      "tu": "hubiste ensuciado",
+      "ud": "hubo ensuciado",
+      "nosotros": "hubimos ensuciado",
+      "vosotros": "hubisteis ensuciado",
+      "uds": "hubieron ensuciado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ensuciado",
+      "tu": "habrías ensuciado",
+      "ud": "habría ensuciado",
+      "nosotros": "habríamos ensuciado",
+      "vosotros": "habríais ensuciado",
+      "uds": "habrían ensuciado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ensucie",
+      "tu": "ensucies",
+      "ud": "ensucie",
+      "nosotros": "ensuciemos",
+      "vosotros": "ensuciéis",
+      "uds": "ensucien"
+    },
+    "imperfecto": {
+      "yo": "ensuciara",
+      "tu": "ensuciaras",
+      "ud": "ensuciara",
+      "nosotros": "ensuciáramos",
+      "vosotros": "ensuciarais",
+      "uds": "ensuciaran"
+    },
+    "futuro": {
+      "yo": "ensuciare",
+      "tu": "ensuciares",
+      "ud": "ensuciare",
+      "nosotros": "ensuciáremos",
+      "vosotros": "ensuciareis",
+      "uds": "ensuciaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ensuciado",
+      "tu": "hayas ensuciado",
+      "ud": "haya ensuciado",
+      "nosotros": "hayamos ensuciado",
+      "vosotros": "hayáis ensuciado",
+      "uds": "hayan ensuciado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ensuciado",
+      "tu": "hubieres ensuciado",
+      "ud": "hubiere ensuciado",
+      "nosotros": "hubiéremos ensuciado",
+      "vosotros": "hubiereis ensuciado",
+      "uds": "hubieren ensuciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ensuciado",
+      "tu": "hubieras ensuciado",
+      "ud": "hubiera ensuciado",
+      "nosotros": "hubiéramos ensuciado",
+      "vosotros": "hubierais ensuciado",
+      "uds": "hubieran ensuciado"
+    },
+    "imperfectoAlt": {
+      "yo": "ensuciase",
+      "tu": "ensuciases",
+      "ud": "ensuciase",
+      "nosotros": "ensuciásemos",
+      "vosotros": "ensuciaseis",
+      "uds": "ensuciasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ensuciado",
+      "tu": "hubieses ensuciado",
+      "ud": "hubiese ensuciado",
+      "nosotros": "hubiésemos ensuciado",
+      "vosotros": "hubieseis ensuciado",
+      "uds": "hubiesen ensuciado"
+    }
+  },
+  "afirmativo": {
+    "tu": "ensucia",
+    "vosotros": "ensuciad",
+    "ud": "ensucie",
+    "uds": "ensucien"
+  },
+  "negativo": {
+    "tu": "no ensucies",
+    "vosotros": "no ensuciéis",
+    "ud": "no ensucie",
+    "uds": "no ensucien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to dirty",
+    "gerundio": "dirtying",
+    "participioPasado": "dirtied",
+    "indicativo": {
+      "presente": "I dirty, am dirtying",
+      "futuro": "I will dirty",
+      "imperfecto": "I was dirtying, used to dirty, dirtied",
+      "preterito": "I dirtied",
+      "condicional": "I would dirty",
+      "presentePerfecto": "I have dirtied",
+      "futuroPerfecto": "I will have dirtied",
+      "pluscuamperfecto": "I had dirtied",
+      "preteritoAnterior": "I had dirtied",
+      "condicionalPerfecto": "I would have dirtied"
+    },
+    "subjuntivo": {
+      "presente": "I dirty, am dirtying",
+      "imperfecto": "I dirtied, was dirtying",
+      "futuro": "I will dirty",
+      "presentePerfecto": "I have dirtied, dirtied",
+      "futuroPerfecto": "I will have dirtied",
+      "pluscuamperfecto": "I had dirtied"
+    },
+    "afirmativo": "Dirty!",
+    "negativo": "Don't dirty!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "intentar",
+  "gerundio": "intentando",
+  "participioPasado": "intentado",
+  "indicativo": {
+    "presente": {
+      "yo": "intento",
+      "tu": "intentas",
+      "ud": "intenta",
+      "nosotros": "intentamos",
+      "vosotros": "intentáis",
+      "uds": "intentan"
+    },
+    "futuro": {
+      "yo": "intentaré",
+      "tu": "intentarás",
+      "ud": "intentará",
+      "nosotros": "intentaremos",
+      "vosotros": "intentaréis",
+      "uds": "intentarán"
+    },
+    "imperfecto": {
+      "yo": "intentaba",
+      "tu": "intentabas",
+      "ud": "intentaba",
+      "nosotros": "intentábamos",
+      "vosotros": "intentabais",
+      "uds": "intentaban"
+    },
+    "preterito": {
+      "yo": "intenté",
+      "tu": "intentaste",
+      "ud": "intentó",
+      "nosotros": "intentamos",
+      "vosotros": "intentasteis",
+      "uds": "intentaron"
+    },
+    "condicional": {
+      "yo": "intentaría",
+      "tu": "intentarías",
+      "ud": "intentaría",
+      "nosotros": "intentaríamos",
+      "vosotros": "intentaríais",
+      "uds": "intentarían"
+    },
+    "presentePerfecto": {
+      "yo": "he intentado",
+      "tu": "has intentado",
+      "ud": "ha intentado",
+      "nosotros": "hemos intentado",
+      "vosotros": "habéis intentado",
+      "uds": "han intentado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré intentado",
+      "tu": "habrás intentado",
+      "ud": "habrá intentado",
+      "nosotros": "habremos intentado",
+      "vosotros": "habréis intentado",
+      "uds": "habrán intentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había intentado",
+      "tu": "habías intentado",
+      "ud": "había intentado",
+      "nosotros": "habíamos intentado",
+      "vosotros": "habíais intentado",
+      "uds": "habían intentado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube intentado",
+      "tu": "hubiste intentado",
+      "ud": "hubo intentado",
+      "nosotros": "hubimos intentado",
+      "vosotros": "hubisteis intentado",
+      "uds": "hubieron intentado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría intentado",
+      "tu": "habrías intentado",
+      "ud": "habría intentado",
+      "nosotros": "habríamos intentado",
+      "vosotros": "habríais intentado",
+      "uds": "habrían intentado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "intente",
+      "tu": "intentes",
+      "ud": "intente",
+      "nosotros": "intentemos",
+      "vosotros": "intentéis",
+      "uds": "intenten"
+    },
+    "imperfecto": {
+      "yo": "intentara",
+      "tu": "intentaras",
+      "ud": "intentara",
+      "nosotros": "intentáramos",
+      "vosotros": "intentarais",
+      "uds": "intentaran"
+    },
+    "futuro": {
+      "yo": "intentare",
+      "tu": "intentares",
+      "ud": "intentare",
+      "nosotros": "intentáremos",
+      "vosotros": "intentareis",
+      "uds": "intentaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya intentado",
+      "tu": "hayas intentado",
+      "ud": "haya intentado",
+      "nosotros": "hayamos intentado",
+      "vosotros": "hayáis intentado",
+      "uds": "hayan intentado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere intentado",
+      "tu": "hubieres intentado",
+      "ud": "hubiere intentado",
+      "nosotros": "hubiéremos intentado",
+      "vosotros": "hubiereis intentado",
+      "uds": "hubieren intentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera intentado",
+      "tu": "hubieras intentado",
+      "ud": "hubiera intentado",
+      "nosotros": "hubiéramos intentado",
+      "vosotros": "hubierais intentado",
+      "uds": "hubieran intentado"
+    },
+    "imperfectoAlt": {
+      "yo": "intentase",
+      "tu": "intentases",
+      "ud": "intentase",
+      "nosotros": "intentásemos",
+      "vosotros": "intentaseis",
+      "uds": "intentasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese intentado",
+      "tu": "hubieses intentado",
+      "ud": "hubiese intentado",
+      "nosotros": "hubiésemos intentado",
+      "vosotros": "hubieseis intentado",
+      "uds": "hubiesen intentado"
+    }
+  },
+  "afirmativo": {
+    "tu": "intenta",
+    "vosotros": "intentad",
+    "ud": "intente",
+    "uds": "intenten"
+  },
+  "negativo": {
+    "tu": "no intentes",
+    "vosotros": "no intentéis",
+    "ud": "no intente",
+    "uds": "no intenten"
+  },
+  "english": {
+    "note": "Note: For to try on use probarse or for to try in the sense of to taste, use probar.",
+    "infinitivo": "to try, attempt",
+    "gerundio": "trying",
+    "participioPasado": "tried",
+    "indicativo": {
+      "presente": "I try, am trying",
+      "futuro": "I will try",
+      "imperfecto": "I was trying, used to try, tried",
+      "preterito": "I tried",
+      "condicional": "I would try",
+      "presentePerfecto": "I have tried",
+      "futuroPerfecto": "I will have tried",
+      "pluscuamperfecto": "I had tried",
+      "preteritoAnterior": "I had tried",
+      "condicionalPerfecto": "I would have tried"
+    },
+    "subjuntivo": {
+      "presente": "I try, am trying",
+      "imperfecto": "I tried, was trying",
+      "futuro": "I will try",
+      "presentePerfecto": "I have tried, tried",
+      "futuroPerfecto": "I will have tried",
+      "pluscuamperfecto": "I had tried"
+    },
+    "afirmativo": "Try!",
+    "negativo": "Don't try!"
+  },
+  "attribution": "Fred Jehle"
+}

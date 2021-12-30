@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "dejar",
+  "gerundio": "dejando",
+  "participioPasado": "dejado",
+  "indicativo": {
+    "presente": {
+      "yo": "dejo",
+      "tu": "dejas",
+      "ud": "deja",
+      "nosotros": "dejamos",
+      "vosotros": "dejáis",
+      "uds": "dejan"
+    },
+    "futuro": {
+      "yo": "dejaré",
+      "tu": "dejarás",
+      "ud": "dejará",
+      "nosotros": "dejaremos",
+      "vosotros": "dejaréis",
+      "uds": "dejarán"
+    },
+    "imperfecto": {
+      "yo": "dejaba",
+      "tu": "dejabas",
+      "ud": "dejaba",
+      "nosotros": "dejábamos",
+      "vosotros": "dejabais",
+      "uds": "dejaban"
+    },
+    "preterito": {
+      "yo": "dejé",
+      "tu": "dejaste",
+      "ud": "dejó",
+      "nosotros": "dejamos",
+      "vosotros": "dejasteis",
+      "uds": "dejaron"
+    },
+    "condicional": {
+      "yo": "dejaría",
+      "tu": "dejarías",
+      "ud": "dejaría",
+      "nosotros": "dejaríamos",
+      "vosotros": "dejaríais",
+      "uds": "dejarían"
+    },
+    "presentePerfecto": {
+      "yo": "he dejado",
+      "tu": "has dejado",
+      "ud": "ha dejado",
+      "nosotros": "hemos dejado",
+      "vosotros": "habéis dejado",
+      "uds": "han dejado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré dejado",
+      "tu": "habrás dejado",
+      "ud": "habrá dejado",
+      "nosotros": "habremos dejado",
+      "vosotros": "habréis dejado",
+      "uds": "habrán dejado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había dejado",
+      "tu": "habías dejado",
+      "ud": "había dejado",
+      "nosotros": "habíamos dejado",
+      "vosotros": "habíais dejado",
+      "uds": "habían dejado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube dejado",
+      "tu": "hubiste dejado",
+      "ud": "hubo dejado",
+      "nosotros": "hubimos dejado",
+      "vosotros": "hubisteis dejado",
+      "uds": "hubieron dejado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría dejado",
+      "tu": "habrías dejado",
+      "ud": "habría dejado",
+      "nosotros": "habríamos dejado",
+      "vosotros": "habríais dejado",
+      "uds": "habrían dejado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "deje",
+      "tu": "dejes",
+      "ud": "deje",
+      "nosotros": "dejemos",
+      "vosotros": "dejéis",
+      "uds": "dejen"
+    },
+    "imperfecto": {
+      "yo": "dejara",
+      "tu": "dejaras",
+      "ud": "dejara",
+      "nosotros": "dejáramos",
+      "vosotros": "dejarais",
+      "uds": "dejaran"
+    },
+    "futuro": {
+      "yo": "dejare",
+      "tu": "dejares",
+      "ud": "dejare",
+      "nosotros": "dejáremos",
+      "vosotros": "dejareis",
+      "uds": "dejaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya dejado",
+      "tu": "hayas dejado",
+      "ud": "haya dejado",
+      "nosotros": "hayamos dejado",
+      "vosotros": "hayáis dejado",
+      "uds": "hayan dejado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere dejado",
+      "tu": "hubieres dejado",
+      "ud": "hubiere dejado",
+      "nosotros": "hubiéremos dejado",
+      "vosotros": "hubiereis dejado",
+      "uds": "hubieren dejado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera dejado",
+      "tu": "hubieras dejado",
+      "ud": "hubiera dejado",
+      "nosotros": "hubiéramos dejado",
+      "vosotros": "hubierais dejado",
+      "uds": "hubieran dejado"
+    },
+    "imperfectoAlt": {
+      "yo": "dejase",
+      "tu": "dejases",
+      "ud": "dejase",
+      "nosotros": "dejásemos",
+      "vosotros": "dejaseis",
+      "uds": "dejasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese dejado",
+      "tu": "hubieses dejado",
+      "ud": "hubiese dejado",
+      "nosotros": "hubiésemos dejado",
+      "vosotros": "hubieseis dejado",
+      "uds": "hubiesen dejado"
+    }
+  },
+  "afirmativo": {
+    "tu": "deja",
+    "vosotros": "dejad",
+    "ud": "deje",
+    "uds": "dejen"
+  },
+  "negativo": {
+    "tu": "no dejes",
+    "vosotros": "no dejéis",
+    "ud": "no deje",
+    "uds": "no dejen"
+  },
+  "english": {
+    "note": "Dejar is also used with the presposition de plus an infinitive to mean to stop doing something: Dejé de fumar = I stopped smoking.",
+    "infinitivo": "to leave, abandon; to let, allow",
+    "gerundio": "leaving",
+    "participioPasado": "left",
+    "indicativo": {
+      "presente": "I leave, am leaving",
+      "futuro": "I will leave",
+      "imperfecto": "I was leaving, used to leave, left",
+      "preterito": "I left",
+      "condicional": "I would leave",
+      "presentePerfecto": "I have left",
+      "futuroPerfecto": "I will have left",
+      "pluscuamperfecto": "I had left",
+      "preteritoAnterior": "I had left",
+      "condicionalPerfecto": "I would have left"
+    },
+    "subjuntivo": {
+      "presente": "I leave, am leaving",
+      "imperfecto": "I left, was leaving",
+      "futuro": "I will leave",
+      "presentePerfecto": "I have left, left",
+      "futuroPerfecto": "I will have left",
+      "pluscuamperfecto": "I had left"
+    },
+    "afirmativo": "Leave!",
+    "negativo": "Don't leave!"
+  },
+  "attribution": "Fred Jehle"
+}

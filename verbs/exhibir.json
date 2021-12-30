@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "exhibir",
+  "gerundio": "exhibiendo",
+  "participioPasado": "exhibido",
+  "indicativo": {
+    "presente": {
+      "yo": "exhibo",
+      "tu": "exhibes",
+      "ud": "exhibe",
+      "nosotros": "exhibimos",
+      "vosotros": "exhibís",
+      "uds": "exhiben"
+    },
+    "futuro": {
+      "yo": "exhibiré",
+      "tu": "exhibirás",
+      "ud": "exhibirá",
+      "nosotros": "exhibiremos",
+      "vosotros": "exhibiréis",
+      "uds": "exhibirán"
+    },
+    "imperfecto": {
+      "yo": "exhibía",
+      "tu": "exhibías",
+      "ud": "exhibía",
+      "nosotros": "exhibíamos",
+      "vosotros": "exhibíais",
+      "uds": "exhibían"
+    },
+    "preterito": {
+      "yo": "exhibí",
+      "tu": "exhibiste",
+      "ud": "exhibió",
+      "nosotros": "exhibimos",
+      "vosotros": "exhibisteis",
+      "uds": "exhibieron"
+    },
+    "condicional": {
+      "yo": "exhibiría",
+      "tu": "exhibirías",
+      "ud": "exhibiría",
+      "nosotros": "exhibiríamos",
+      "vosotros": "exhibiríais",
+      "uds": "exhibirían"
+    },
+    "presentePerfecto": {
+      "yo": "he exhibido",
+      "tu": "has exhibido",
+      "ud": "ha exhibido",
+      "nosotros": "hemos exhibido",
+      "vosotros": "habéis exhibido",
+      "uds": "han exhibido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré exhibido",
+      "tu": "habrás exhibido",
+      "ud": "habrá exhibido",
+      "nosotros": "habremos exhibido",
+      "vosotros": "habréis exhibido",
+      "uds": "habrán exhibido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había exhibido",
+      "tu": "habías exhibido",
+      "ud": "había exhibido",
+      "nosotros": "habíamos exhibido",
+      "vosotros": "habíais exhibido",
+      "uds": "habían exhibido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube exhibido",
+      "tu": "hubiste exhibido",
+      "ud": "hubo exhibido",
+      "nosotros": "hubimos exhibido",
+      "vosotros": "hubisteis exhibido",
+      "uds": "hubieron exhibido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría exhibido",
+      "tu": "habrías exhibido",
+      "ud": "habría exhibido",
+      "nosotros": "habríamos exhibido",
+      "vosotros": "habríais exhibido",
+      "uds": "habrían exhibido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "exhiba",
+      "tu": "exhibas",
+      "ud": "exhiba",
+      "nosotros": "exhibamos",
+      "vosotros": "exhibáis",
+      "uds": "exhiban"
+    },
+    "imperfecto": {
+      "yo": "exhibiera",
+      "tu": "exhibieras",
+      "ud": "exhibiera",
+      "nosotros": "exhibiéramos",
+      "vosotros": "exhibierais",
+      "uds": "exhibieran"
+    },
+    "futuro": {
+      "yo": "exhibiere",
+      "tu": "exhibieres",
+      "ud": "exhibiere",
+      "nosotros": "exhibiéremos",
+      "vosotros": "exhibiereis",
+      "uds": "exhibieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya exhibido",
+      "tu": "hayas exhibido",
+      "ud": "haya exhibido",
+      "nosotros": "hayamos exhibido",
+      "vosotros": "hayáis exhibido",
+      "uds": "hayan exhibido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere exhibido",
+      "tu": "hubieres exhibido",
+      "ud": "hubiere exhibido",
+      "nosotros": "hubiéremos exhibido",
+      "vosotros": "hubiereis exhibido",
+      "uds": "hubieren exhibido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera exhibido",
+      "tu": "hubieras exhibido",
+      "ud": "hubiera exhibido",
+      "nosotros": "hubiéramos exhibido",
+      "vosotros": "hubierais exhibido",
+      "uds": "hubieran exhibido"
+    },
+    "imperfectoAlt": {
+      "yo": "exhibiese",
+      "tu": "exhibieses",
+      "ud": "exhibiese",
+      "nosotros": "exhibiésemos",
+      "vosotros": "exhibieseis",
+      "uds": "exhibiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese exhibido",
+      "tu": "hubieses exhibido",
+      "ud": "hubiese exhibido",
+      "nosotros": "hubiésemos exhibido",
+      "vosotros": "hubieseis exhibido",
+      "uds": "hubiesen exhibido"
+    }
+  },
+  "afirmativo": {
+    "tu": "exhibe",
+    "vosotros": "exhibid",
+    "ud": "exhiba",
+    "uds": "exhiban"
+  },
+  "negativo": {
+    "tu": "no exhibas",
+    "vosotros": "no exhibáis",
+    "ud": "no exhiba",
+    "uds": "no exhiban"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to exhibit, show, display",
+    "gerundio": "exhibiting",
+    "participioPasado": "exhibited",
+    "indicativo": {
+      "presente": "I exhibit, am exhibiting",
+      "futuro": "I will exhibit",
+      "imperfecto": "I was exhibiting, used to exhibit, exhibited",
+      "preterito": "I exhibited",
+      "condicional": "I would exhibit",
+      "presentePerfecto": "I have exhibited",
+      "futuroPerfecto": "I will have exhibited",
+      "pluscuamperfecto": "I had exhibited",
+      "preteritoAnterior": "I had exhibited",
+      "condicionalPerfecto": "I would have exhibited"
+    },
+    "subjuntivo": {
+      "presente": "I exhibit, am exhibiting",
+      "imperfecto": "I exhibited, was exhibiting",
+      "futuro": "I will exhibit",
+      "presentePerfecto": "I have exhibited, exhibited",
+      "futuroPerfecto": "I will have exhibited",
+      "pluscuamperfecto": "I had exhibited"
+    },
+    "afirmativo": "Exhibit!",
+    "negativo": "Don't exhibit!"
+  },
+  "attribution": "Fred Jehle"
+}

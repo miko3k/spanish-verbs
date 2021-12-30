@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "eliminar",
+  "gerundio": "eliminando",
+  "participioPasado": "eliminado",
+  "indicativo": {
+    "presente": {
+      "yo": "elimino",
+      "tu": "eliminas",
+      "ud": "elimina",
+      "nosotros": "eliminamos",
+      "vosotros": "elimináis",
+      "uds": "eliminan"
+    },
+    "futuro": {
+      "yo": "eliminaré",
+      "tu": "eliminarás",
+      "ud": "eliminará",
+      "nosotros": "eliminaremos",
+      "vosotros": "eliminaréis",
+      "uds": "eliminarán"
+    },
+    "imperfecto": {
+      "yo": "eliminaba",
+      "tu": "eliminabas",
+      "ud": "eliminaba",
+      "nosotros": "eliminábamos",
+      "vosotros": "eliminabais",
+      "uds": "eliminaban"
+    },
+    "preterito": {
+      "yo": "eliminé",
+      "tu": "eliminaste",
+      "ud": "eliminó",
+      "nosotros": "eliminamos",
+      "vosotros": "eliminasteis",
+      "uds": "eliminaron"
+    },
+    "condicional": {
+      "yo": "eliminaría",
+      "tu": "eliminarías",
+      "ud": "eliminaría",
+      "nosotros": "eliminaríamos",
+      "vosotros": "eliminaríais",
+      "uds": "eliminarían"
+    },
+    "presentePerfecto": {
+      "yo": "he eliminado",
+      "tu": "has eliminado",
+      "ud": "ha eliminado",
+      "nosotros": "hemos eliminado",
+      "vosotros": "habéis eliminado",
+      "uds": "han eliminado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré eliminado",
+      "tu": "habrás eliminado",
+      "ud": "habrá eliminado",
+      "nosotros": "habremos eliminado",
+      "vosotros": "habréis eliminado",
+      "uds": "habrán eliminado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había eliminado",
+      "tu": "habías eliminado",
+      "ud": "había eliminado",
+      "nosotros": "habíamos eliminado",
+      "vosotros": "habíais eliminado",
+      "uds": "habían eliminado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube eliminado",
+      "tu": "hubiste eliminado",
+      "ud": "hubo eliminado",
+      "nosotros": "hubimos eliminado",
+      "vosotros": "hubisteis eliminado",
+      "uds": "hubieron eliminado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría eliminado",
+      "tu": "habrías eliminado",
+      "ud": "habría eliminado",
+      "nosotros": "habríamos eliminado",
+      "vosotros": "habríais eliminado",
+      "uds": "habrían eliminado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "elimine",
+      "tu": "elimines",
+      "ud": "elimine",
+      "nosotros": "eliminemos",
+      "vosotros": "eliminéis",
+      "uds": "eliminen"
+    },
+    "imperfecto": {
+      "yo": "eliminara",
+      "tu": "eliminaras",
+      "ud": "eliminara",
+      "nosotros": "elimináramos",
+      "vosotros": "eliminarais",
+      "uds": "eliminaran"
+    },
+    "futuro": {
+      "yo": "eliminare",
+      "tu": "eliminares",
+      "ud": "eliminare",
+      "nosotros": "elimináremos",
+      "vosotros": "eliminareis",
+      "uds": "eliminaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya eliminado",
+      "tu": "hayas eliminado",
+      "ud": "haya eliminado",
+      "nosotros": "hayamos eliminado",
+      "vosotros": "hayáis eliminado",
+      "uds": "hayan eliminado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere eliminado",
+      "tu": "hubieres eliminado",
+      "ud": "hubiere eliminado",
+      "nosotros": "hubiéremos eliminado",
+      "vosotros": "hubiereis eliminado",
+      "uds": "hubieren eliminado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera eliminado",
+      "tu": "hubieras eliminado",
+      "ud": "hubiera eliminado",
+      "nosotros": "hubiéramos eliminado",
+      "vosotros": "hubierais eliminado",
+      "uds": "hubieran eliminado"
+    },
+    "imperfectoAlt": {
+      "yo": "eliminase",
+      "tu": "eliminases",
+      "ud": "eliminase",
+      "nosotros": "eliminásemos",
+      "vosotros": "eliminaseis",
+      "uds": "eliminasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese eliminado",
+      "tu": "hubieses eliminado",
+      "ud": "hubiese eliminado",
+      "nosotros": "hubiésemos eliminado",
+      "vosotros": "hubieseis eliminado",
+      "uds": "hubiesen eliminado"
+    }
+  },
+  "afirmativo": {
+    "tu": "elimina",
+    "vosotros": "eliminad",
+    "ud": "elimine",
+    "uds": "eliminen"
+  },
+  "negativo": {
+    "tu": "no elimines",
+    "vosotros": "no eliminéis",
+    "ud": "no elimine",
+    "uds": "no eliminen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to eliminate, remove, get rid of",
+    "gerundio": "eliminating",
+    "participioPasado": "eliminated",
+    "indicativo": {
+      "presente": "I eliminate, am eliminating",
+      "futuro": "I will eliminate",
+      "imperfecto": "I was eliminating, used to eliminate, eliminated",
+      "preterito": "I eliminated",
+      "condicional": "I would eliminate",
+      "presentePerfecto": "I have eliminated",
+      "futuroPerfecto": "I will have eliminated",
+      "pluscuamperfecto": "I had eliminated",
+      "preteritoAnterior": "I had eliminated",
+      "condicionalPerfecto": "I would have eliminated"
+    },
+    "subjuntivo": {
+      "presente": "I eliminate, am eliminating",
+      "imperfecto": "I eliminated, was eliminating",
+      "futuro": "I will eliminate",
+      "presentePerfecto": "I have eliminated, eliminated",
+      "futuroPerfecto": "I will have eliminated",
+      "pluscuamperfecto": "I had eliminated"
+    },
+    "afirmativo": "Eliminate!",
+    "negativo": "Don't eliminate!"
+  },
+  "attribution": "Fred Jehle"
+}

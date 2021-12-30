@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "aliviar",
+  "gerundio": "aliviando",
+  "participioPasado": "aliviado",
+  "indicativo": {
+    "presente": {
+      "yo": "alivio",
+      "tu": "alivias",
+      "ud": "alivia",
+      "nosotros": "aliviamos",
+      "vosotros": "aliviáis",
+      "uds": "alivian"
+    },
+    "futuro": {
+      "yo": "aliviaré",
+      "tu": "aliviarás",
+      "ud": "aliviará",
+      "nosotros": "aliviaremos",
+      "vosotros": "aliviaréis",
+      "uds": "aliviarán"
+    },
+    "imperfecto": {
+      "yo": "aliviaba",
+      "tu": "aliviabas",
+      "ud": "aliviaba",
+      "nosotros": "aliviábamos",
+      "vosotros": "aliviabais",
+      "uds": "aliviaban"
+    },
+    "preterito": {
+      "yo": "alivié",
+      "tu": "aliviaste",
+      "ud": "alivió",
+      "nosotros": "aliviamos",
+      "vosotros": "aliviasteis",
+      "uds": "aliviaron"
+    },
+    "condicional": {
+      "yo": "aliviaría",
+      "tu": "aliviarías",
+      "ud": "aliviaría",
+      "nosotros": "aliviaríamos",
+      "vosotros": "aliviaríais",
+      "uds": "aliviarían"
+    },
+    "presentePerfecto": {
+      "yo": "he aliviado",
+      "tu": "has aliviado",
+      "ud": "ha aliviado",
+      "nosotros": "hemos aliviado",
+      "vosotros": "habéis aliviado",
+      "uds": "han aliviado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré aliviado",
+      "tu": "habrás aliviado",
+      "ud": "habrá aliviado",
+      "nosotros": "habremos aliviado",
+      "vosotros": "habréis aliviado",
+      "uds": "habrán aliviado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había aliviado",
+      "tu": "habías aliviado",
+      "ud": "había aliviado",
+      "nosotros": "habíamos aliviado",
+      "vosotros": "habíais aliviado",
+      "uds": "habían aliviado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube aliviado",
+      "tu": "hubiste aliviado",
+      "ud": "hubo aliviado",
+      "nosotros": "hubimos aliviado",
+      "vosotros": "hubisteis aliviado",
+      "uds": "hubieron aliviado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría aliviado",
+      "tu": "habrías aliviado",
+      "ud": "habría aliviado",
+      "nosotros": "habríamos aliviado",
+      "vosotros": "habríais aliviado",
+      "uds": "habrían aliviado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "alivie",
+      "tu": "alivies",
+      "ud": "alivie",
+      "nosotros": "aliviemos",
+      "vosotros": "aliviéis",
+      "uds": "alivien"
+    },
+    "imperfecto": {
+      "yo": "aliviara",
+      "tu": "aliviaras",
+      "ud": "aliviara",
+      "nosotros": "aliviáramos",
+      "vosotros": "aliviarais",
+      "uds": "aliviaran"
+    },
+    "futuro": {
+      "yo": "aliviare",
+      "tu": "aliviares",
+      "ud": "aliviare",
+      "nosotros": "aliviáremos",
+      "vosotros": "aliviareis",
+      "uds": "aliviaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya aliviado",
+      "tu": "hayas aliviado",
+      "ud": "haya aliviado",
+      "nosotros": "hayamos aliviado",
+      "vosotros": "hayáis aliviado",
+      "uds": "hayan aliviado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere aliviado",
+      "tu": "hubieres aliviado",
+      "ud": "hubiere aliviado",
+      "nosotros": "hubiéremos aliviado",
+      "vosotros": "hubiereis aliviado",
+      "uds": "hubieren aliviado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera aliviado",
+      "tu": "hubieras aliviado",
+      "ud": "hubiera aliviado",
+      "nosotros": "hubiéramos aliviado",
+      "vosotros": "hubierais aliviado",
+      "uds": "hubieran aliviado"
+    },
+    "imperfectoAlt": {
+      "yo": "aliviase",
+      "tu": "aliviases",
+      "ud": "aliviase",
+      "nosotros": "aliviásemos",
+      "vosotros": "aliviaseis",
+      "uds": "aliviasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese aliviado",
+      "tu": "hubieses aliviado",
+      "ud": "hubiese aliviado",
+      "nosotros": "hubiésemos aliviado",
+      "vosotros": "hubieseis aliviado",
+      "uds": "hubiesen aliviado"
+    }
+  },
+  "afirmativo": {
+    "tu": "alivia",
+    "vosotros": "aliviad",
+    "ud": "alivie",
+    "uds": "alivien"
+  },
+  "negativo": {
+    "tu": "no alivies",
+    "vosotros": "no aliviéis",
+    "ud": "no alivie",
+    "uds": "no alivien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to alleviate, ease, lessen, lighthen, relieve",
+    "gerundio": "alleviating",
+    "participioPasado": "alleviated",
+    "indicativo": {
+      "presente": "I alleviate, am alleviating",
+      "futuro": "I will alleviate",
+      "imperfecto": "I was alleviating, used to alleviate, alleviated",
+      "preterito": "I alleviated",
+      "condicional": "I would alleviate",
+      "presentePerfecto": "I have alleviated",
+      "futuroPerfecto": "I will have alleviated",
+      "pluscuamperfecto": "I had alleviated",
+      "preteritoAnterior": "I had alleviated",
+      "condicionalPerfecto": "I would have alleviated"
+    },
+    "subjuntivo": {
+      "presente": "I alleviate, am alleviating",
+      "imperfecto": "I alleviated, was alleviating",
+      "futuro": "I will alleviate",
+      "presentePerfecto": "I have alleviated, alleviated",
+      "futuroPerfecto": "I will have alleviated",
+      "pluscuamperfecto": "I had alleviated"
+    },
+    "afirmativo": "Alleviate!",
+    "negativo": "Don't alleviate!"
+  },
+  "attribution": "Fred Jehle"
+}

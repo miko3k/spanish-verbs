@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "ir",
+  "gerundio": "yendo",
+  "participioPasado": "ido",
+  "indicativo": {
+    "presente": {
+      "yo": "voy",
+      "tu": "vas",
+      "ud": "va",
+      "nosotros": "vamos",
+      "vosotros": "vais",
+      "uds": "van"
+    },
+    "futuro": {
+      "yo": "iré",
+      "tu": "irás",
+      "ud": "irá",
+      "nosotros": "iremos",
+      "vosotros": "iréis",
+      "uds": "irán"
+    },
+    "imperfecto": {
+      "yo": "iba",
+      "tu": "ibas",
+      "ud": "iba",
+      "nosotros": "íbamos",
+      "vosotros": "ibais",
+      "uds": "iban"
+    },
+    "preterito": {
+      "yo": "fui",
+      "tu": "fuiste",
+      "ud": "fue",
+      "nosotros": "fuimos",
+      "vosotros": "fuisteis",
+      "uds": "fueron"
+    },
+    "condicional": {
+      "yo": "iría",
+      "tu": "irías",
+      "ud": "iría",
+      "nosotros": "iríamos",
+      "vosotros": "iríais",
+      "uds": "irían"
+    },
+    "presentePerfecto": {
+      "yo": "he ido",
+      "tu": "has ido",
+      "ud": "ha ido",
+      "nosotros": "hemos ido",
+      "vosotros": "habéis ido",
+      "uds": "han ido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré ido",
+      "tu": "habrás ido",
+      "ud": "habrá ido",
+      "nosotros": "habremos ido",
+      "vosotros": "habréis ido",
+      "uds": "habrán ido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había ido",
+      "tu": "habías ido",
+      "ud": "había ido",
+      "nosotros": "habíamos ido",
+      "vosotros": "habíais ido",
+      "uds": "habían ido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube ido",
+      "tu": "hubiste ido",
+      "ud": "hubo ido",
+      "nosotros": "hubimos ido",
+      "vosotros": "hubisteis ido",
+      "uds": "hubieron ido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría ido",
+      "tu": "habrías ido",
+      "ud": "habría ido",
+      "nosotros": "habríamos ido",
+      "vosotros": "habríais ido",
+      "uds": "habrían ido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "vaya",
+      "tu": "vayas",
+      "ud": "vaya",
+      "nosotros": "vayamos",
+      "vosotros": "vayáis",
+      "uds": "vayan"
+    },
+    "imperfecto": {
+      "yo": "fuera",
+      "tu": "fueras",
+      "ud": "fuera",
+      "nosotros": "fuéramos",
+      "vosotros": "fuerais",
+      "uds": "fueran"
+    },
+    "futuro": {
+      "yo": "fuere",
+      "tu": "fueres",
+      "ud": "fuere",
+      "nosotros": "fuéremos",
+      "vosotros": "fuereis",
+      "uds": "fueren"
+    },
+    "presentePerfecto": {
+      "yo": "haya ido",
+      "tu": "hayas ido",
+      "ud": "haya ido",
+      "nosotros": "hayamos ido",
+      "vosotros": "hayáis ido",
+      "uds": "hayan ido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere ido",
+      "tu": "hubieres ido",
+      "ud": "hubiere ido",
+      "nosotros": "hubiéremos ido",
+      "vosotros": "hubiereis ido",
+      "uds": "hubieren ido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera ido",
+      "tu": "hubieras ido",
+      "ud": "hubiera ido",
+      "nosotros": "hubiéramos ido",
+      "vosotros": "hubierais ido",
+      "uds": "hubieran ido"
+    },
+    "imperfectoAlt": {
+      "yo": "fuese",
+      "tu": "fueses",
+      "ud": "fuese",
+      "nosotros": "fuésemos",
+      "vosotros": "fueseis",
+      "uds": "fuesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese ido",
+      "tu": "hubieses ido",
+      "ud": "hubiese ido",
+      "nosotros": "hubiésemos ido",
+      "vosotros": "hubieseis ido",
+      "uds": "hubiesen ido"
+    }
+  },
+  "afirmativo": {
+    "tu": "ve",
+    "vosotros": "id",
+    "ud": "vaya",
+    "uds": "vayan"
+  },
+  "negativo": {
+    "tu": "no vayas",
+    "vosotros": "no vayáis",
+    "ud": "no vaya",
+    "uds": "no vayan"
+  },
+  "english": {
+    "note": "Irregular en el presente de indicativo (voy, vas, etc.), en el presente de subjuntivo (vaya, vayas, etc.) y en el pretérito (fui, fuiste, etc.). Mandato familiar singular irregular: ve. Gerundio: yendo.",
+    "infinitivo": "to go",
+    "gerundio": "going",
+    "participioPasado": "gone",
+    "indicativo": {
+      "presente": "I go, am going",
+      "futuro": "I will go",
+      "imperfecto": "I was going, used to go, went",
+      "preterito": "I went",
+      "condicional": "I would go",
+      "presentePerfecto": "I have gone",
+      "futuroPerfecto": "I will have gone",
+      "pluscuamperfecto": "I had gone",
+      "preteritoAnterior": "I had gone",
+      "condicionalPerfecto": "I would have gone"
+    },
+    "subjuntivo": {
+      "presente": "I go, am going",
+      "imperfecto": "I went, was going",
+      "futuro": "I will go",
+      "presentePerfecto": "I have gone, went",
+      "futuroPerfecto": "I will have gone",
+      "pluscuamperfecto": "I had gone"
+    },
+    "afirmativo": "Go!",
+    "negativo": "Don't go!"
+  },
+  "attribution": "Fred Jehle"
+}

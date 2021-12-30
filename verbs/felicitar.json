@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "felicitar",
+  "gerundio": "felicitando",
+  "participioPasado": "felicitado",
+  "indicativo": {
+    "presente": {
+      "yo": "felicito",
+      "tu": "felicitas",
+      "ud": "felicita",
+      "nosotros": "felicitamos",
+      "vosotros": "felicitáis",
+      "uds": "felicitan"
+    },
+    "futuro": {
+      "yo": "felicitaré",
+      "tu": "felicitarás",
+      "ud": "felicitará",
+      "nosotros": "felicitaremos",
+      "vosotros": "felicitaréis",
+      "uds": "felicitarán"
+    },
+    "imperfecto": {
+      "yo": "felicitaba",
+      "tu": "felicitabas",
+      "ud": "felicitaba",
+      "nosotros": "felicitábamos",
+      "vosotros": "felicitabais",
+      "uds": "felicitaban"
+    },
+    "preterito": {
+      "yo": "felicité",
+      "tu": "felicitaste",
+      "ud": "felicitó",
+      "nosotros": "felicitamos",
+      "vosotros": "felicitasteis",
+      "uds": "felicitaron"
+    },
+    "condicional": {
+      "yo": "felicitaría",
+      "tu": "felicitarías",
+      "ud": "felicitaría",
+      "nosotros": "felicitaríamos",
+      "vosotros": "felicitaríais",
+      "uds": "felicitarían"
+    },
+    "presentePerfecto": {
+      "yo": "he felicitado",
+      "tu": "has felicitado",
+      "ud": "ha felicitado",
+      "nosotros": "hemos felicitado",
+      "vosotros": "habéis felicitado",
+      "uds": "han felicitado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré felicitado",
+      "tu": "habrás felicitado",
+      "ud": "habrá felicitado",
+      "nosotros": "habremos felicitado",
+      "vosotros": "habréis felicitado",
+      "uds": "habrán felicitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había felicitado",
+      "tu": "habías felicitado",
+      "ud": "había felicitado",
+      "nosotros": "habíamos felicitado",
+      "vosotros": "habíais felicitado",
+      "uds": "habían felicitado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube felicitado",
+      "tu": "hubiste felicitado",
+      "ud": "hubo felicitado",
+      "nosotros": "hubimos felicitado",
+      "vosotros": "hubisteis felicitado",
+      "uds": "hubieron felicitado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría felicitado",
+      "tu": "habrías felicitado",
+      "ud": "habría felicitado",
+      "nosotros": "habríamos felicitado",
+      "vosotros": "habríais felicitado",
+      "uds": "habrían felicitado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "felicite",
+      "tu": "felicites",
+      "ud": "felicite",
+      "nosotros": "felicitemos",
+      "vosotros": "felicitéis",
+      "uds": "feliciten"
+    },
+    "imperfecto": {
+      "yo": "felicitara",
+      "tu": "felicitaras",
+      "ud": "felicitara",
+      "nosotros": "felicitáramos",
+      "vosotros": "felicitarais",
+      "uds": "felicitaran"
+    },
+    "futuro": {
+      "yo": "felicitare",
+      "tu": "felicitares",
+      "ud": "felicitare",
+      "nosotros": "felicitáremos",
+      "vosotros": "felicitareis",
+      "uds": "felicitaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya felicitado",
+      "tu": "hayas felicitado",
+      "ud": "haya felicitado",
+      "nosotros": "hayamos felicitado",
+      "vosotros": "hayáis felicitado",
+      "uds": "hayan felicitado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere felicitado",
+      "tu": "hubieres felicitado",
+      "ud": "hubiere felicitado",
+      "nosotros": "hubiéremos felicitado",
+      "vosotros": "hubiereis felicitado",
+      "uds": "hubieren felicitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera felicitado",
+      "tu": "hubieras felicitado",
+      "ud": "hubiera felicitado",
+      "nosotros": "hubiéramos felicitado",
+      "vosotros": "hubierais felicitado",
+      "uds": "hubieran felicitado"
+    },
+    "imperfectoAlt": {
+      "yo": "felicitase",
+      "tu": "felicitases",
+      "ud": "felicitase",
+      "nosotros": "felicitásemos",
+      "vosotros": "felicitaseis",
+      "uds": "felicitasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese felicitado",
+      "tu": "hubieses felicitado",
+      "ud": "hubiese felicitado",
+      "nosotros": "hubiésemos felicitado",
+      "vosotros": "hubieseis felicitado",
+      "uds": "hubiesen felicitado"
+    }
+  },
+  "afirmativo": {
+    "tu": "felicita",
+    "vosotros": "felicitad",
+    "ud": "felicite",
+    "uds": "feliciten"
+  },
+  "negativo": {
+    "tu": "no felicites",
+    "vosotros": "no felicitéis",
+    "ud": "no felicite",
+    "uds": "no feliciten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to congratulate",
+    "gerundio": "congratulating",
+    "participioPasado": "congratulated",
+    "indicativo": {
+      "presente": "I congratulate, am congratulating",
+      "futuro": "I will congratulate",
+      "imperfecto": "I was congratulating, used to congratulate, congratulated",
+      "preterito": "I congratulated",
+      "condicional": "I would congratulate",
+      "presentePerfecto": "I have congratulated",
+      "futuroPerfecto": "I will have congratulated",
+      "pluscuamperfecto": "I had congratulated",
+      "preteritoAnterior": "I had congratulated",
+      "condicionalPerfecto": "I would have congratulated"
+    },
+    "subjuntivo": {
+      "presente": "I congratulate, am congratulating",
+      "imperfecto": "I congratulated, was congratulating",
+      "futuro": "I will congratulate",
+      "presentePerfecto": "I have congratulated, congratulated",
+      "futuroPerfecto": "I will have congratulated",
+      "pluscuamperfecto": "I had congratulated"
+    },
+    "afirmativo": "Congratulate!",
+    "negativo": "Don't congratulate!"
+  },
+  "attribution": "Fred Jehle"
+}

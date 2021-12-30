@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "influir",
+  "gerundio": "influyendo",
+  "participioPasado": "influido",
+  "indicativo": {
+    "presente": {
+      "yo": "influyo",
+      "tu": "influyes",
+      "ud": "influye",
+      "nosotros": "influimos",
+      "vosotros": "influís",
+      "uds": "influyen"
+    },
+    "futuro": {
+      "yo": "influiré",
+      "tu": "influirás",
+      "ud": "influirá",
+      "nosotros": "influiremos",
+      "vosotros": "influiréis",
+      "uds": "influirán"
+    },
+    "imperfecto": {
+      "yo": "influía",
+      "tu": "influías",
+      "ud": "influía",
+      "nosotros": "influíamos",
+      "vosotros": "influíais",
+      "uds": "influían"
+    },
+    "preterito": {
+      "yo": "influí",
+      "tu": "influiste",
+      "ud": "influyó",
+      "nosotros": "influimos",
+      "vosotros": "influisteis",
+      "uds": "influyeron"
+    },
+    "condicional": {
+      "yo": "influiría",
+      "tu": "influirías",
+      "ud": "influiría",
+      "nosotros": "influiríamos",
+      "vosotros": "influiríais",
+      "uds": "influirían"
+    },
+    "presentePerfecto": {
+      "yo": "he influido",
+      "tu": "has influido",
+      "ud": "ha influido",
+      "nosotros": "hemos influido",
+      "vosotros": "habéis influido",
+      "uds": "han influido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré influido",
+      "tu": "habrás influido",
+      "ud": "habrá influido",
+      "nosotros": "habremos influido",
+      "vosotros": "habréis influido",
+      "uds": "habrán influido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había influido",
+      "tu": "habías influido",
+      "ud": "había influido",
+      "nosotros": "habíamos influido",
+      "vosotros": "habíais influido",
+      "uds": "habían influido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube influido",
+      "tu": "hubiste influido",
+      "ud": "hubo influido",
+      "nosotros": "hubimos influido",
+      "vosotros": "hubisteis influido",
+      "uds": "hubieron influido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría influido",
+      "tu": "habrías influido",
+      "ud": "habría influido",
+      "nosotros": "habríamos influido",
+      "vosotros": "habríais influido",
+      "uds": "habrían influido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "influya",
+      "tu": "influyas",
+      "ud": "influya",
+      "nosotros": "influyamos",
+      "vosotros": "influyáis",
+      "uds": "influyan"
+    },
+    "imperfecto": {
+      "yo": "influyera",
+      "tu": "influyeras",
+      "ud": "influyera",
+      "nosotros": "influyéramos",
+      "vosotros": "influyerais",
+      "uds": "influyeran"
+    },
+    "futuro": {
+      "yo": "influyere",
+      "tu": "influyeres",
+      "ud": "influyere",
+      "nosotros": "influyéremos",
+      "vosotros": "influyereis",
+      "uds": "influyeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya influido",
+      "tu": "hayas influido",
+      "ud": "haya influido",
+      "nosotros": "hayamos influido",
+      "vosotros": "hayáis influido",
+      "uds": "hayan influido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere influido",
+      "tu": "hubieres influido",
+      "ud": "hubiere influido",
+      "nosotros": "hubiéremos influido",
+      "vosotros": "hubiereis influido",
+      "uds": "hubieren influido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera influido",
+      "tu": "hubieras influido",
+      "ud": "hubiera influido",
+      "nosotros": "hubiéramos influido",
+      "vosotros": "hubierais influido",
+      "uds": "hubieran influido"
+    },
+    "imperfectoAlt": {
+      "yo": "influyese",
+      "tu": "influyeses",
+      "ud": "influyese",
+      "nosotros": "influyésemos",
+      "vosotros": "influyeseis",
+      "uds": "influyesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese influido",
+      "tu": "hubieses influido",
+      "ud": "hubiese influido",
+      "nosotros": "hubiésemos influido",
+      "vosotros": "hubieseis influido",
+      "uds": "hubiesen influido"
+    }
+  },
+  "afirmativo": {
+    "tu": "influye",
+    "vosotros": "influid",
+    "ud": "influya",
+    "uds": "influyan"
+  },
+  "negativo": {
+    "tu": "no influyas",
+    "vosotros": "no influyáis",
+    "ud": "no influya",
+    "uds": "no influyan"
+  },
+  "english": {
+    "note": "Cambios: u > uy delante a, o y e; la i intervocálica (y sin acento escrito) > y.",
+    "infinitivo": "to influence",
+    "gerundio": "influencing",
+    "participioPasado": "influenced",
+    "indicativo": {
+      "presente": "I influence, am influencing",
+      "futuro": "I will influence",
+      "imperfecto": "I was influencing, used to influence, influenced",
+      "preterito": "I influenced",
+      "condicional": "I would influence",
+      "presentePerfecto": "I have influenced",
+      "futuroPerfecto": "I will have influenced",
+      "pluscuamperfecto": "I had influenced",
+      "preteritoAnterior": "I had influenced",
+      "condicionalPerfecto": "I would have influenced"
+    },
+    "subjuntivo": {
+      "presente": "I influence, am influencing",
+      "imperfecto": "I influenced, was influencing",
+      "futuro": "I will influence",
+      "presentePerfecto": "I have influenced, influenced",
+      "futuroPerfecto": "I will have influenced",
+      "pluscuamperfecto": "I had influenced"
+    },
+    "afirmativo": "Influence!",
+    "negativo": "Don't influence!"
+  },
+  "attribution": "Fred Jehle"
+}

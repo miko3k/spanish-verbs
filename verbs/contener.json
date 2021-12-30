@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "contener",
+  "gerundio": "conteniendo",
+  "participioPasado": "contenido",
+  "indicativo": {
+    "presente": {
+      "yo": "contengo",
+      "tu": "contienes",
+      "ud": "contiene",
+      "nosotros": "contenemos",
+      "vosotros": "contenéis",
+      "uds": "contienen"
+    },
+    "futuro": {
+      "yo": "contendré",
+      "tu": "contendrás",
+      "ud": "contendrá",
+      "nosotros": "contendremos",
+      "vosotros": "contendréis",
+      "uds": "contendrán"
+    },
+    "imperfecto": {
+      "yo": "contenía",
+      "tu": "contenías",
+      "ud": "contenía",
+      "nosotros": "conteníamos",
+      "vosotros": "conteníais",
+      "uds": "contenían"
+    },
+    "preterito": {
+      "yo": "contuve",
+      "tu": "contuviste",
+      "ud": "contuvo",
+      "nosotros": "contuvimos",
+      "vosotros": "contuvisteis",
+      "uds": "contuvieron"
+    },
+    "condicional": {
+      "yo": "contendría",
+      "tu": "contendrías",
+      "ud": "contendría",
+      "nosotros": "contendríamos",
+      "vosotros": "contendríais",
+      "uds": "contendrían"
+    },
+    "presentePerfecto": {
+      "yo": "he contenido",
+      "tu": "has contenido",
+      "ud": "ha contenido",
+      "nosotros": "hemos contenido",
+      "vosotros": "habéis contenido",
+      "uds": "han contenido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré contenido",
+      "tu": "habrás contenido",
+      "ud": "habrá contenido",
+      "nosotros": "habremos contenido",
+      "vosotros": "habréis contenido",
+      "uds": "habrán contenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había contenido",
+      "tu": "habías contenido",
+      "ud": "había contenido",
+      "nosotros": "habíamos contenido",
+      "vosotros": "habíais contenido",
+      "uds": "habían contenido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube contenido",
+      "tu": "hubiste contenido",
+      "ud": "hubo contenido",
+      "nosotros": "hubimos contenido",
+      "vosotros": "hubisteis contenido",
+      "uds": "hubieron contenido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría contenido",
+      "tu": "habrías contenido",
+      "ud": "habría contenido",
+      "nosotros": "habríamos contenido",
+      "vosotros": "habríais contenido",
+      "uds": "habrían contenido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "contenga",
+      "tu": "contengas",
+      "ud": "contenga",
+      "nosotros": "contengamos",
+      "vosotros": "contengáis",
+      "uds": "contengan"
+    },
+    "imperfecto": {
+      "yo": "contuviera",
+      "tu": "contuvieras",
+      "ud": "contuviera",
+      "nosotros": "contuviéramos",
+      "vosotros": "contuvierais",
+      "uds": "contuvieran"
+    },
+    "futuro": {
+      "yo": "contuviere",
+      "tu": "contuvieres",
+      "ud": "contuviere",
+      "nosotros": "contuviéremos",
+      "vosotros": "contuviereis",
+      "uds": "contuvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya contenido",
+      "tu": "hayas contenido",
+      "ud": "haya contenido",
+      "nosotros": "hayamos contenido",
+      "vosotros": "hayáis contenido",
+      "uds": "hayan contenido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere contenido",
+      "tu": "hubieres contenido",
+      "ud": "hubiere contenido",
+      "nosotros": "hubiéremos contenido",
+      "vosotros": "hubiereis contenido",
+      "uds": "hubieren contenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera contenido",
+      "tu": "hubieras contenido",
+      "ud": "hubiera contenido",
+      "nosotros": "hubiéramos contenido",
+      "vosotros": "hubierais contenido",
+      "uds": "hubieran contenido"
+    },
+    "imperfectoAlt": {
+      "yo": "contuviese",
+      "tu": "contuvieses",
+      "ud": "contuviese",
+      "nosotros": "contuviésemos",
+      "vosotros": "contuvieseis",
+      "uds": "contuviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese contenido",
+      "tu": "hubieses contenido",
+      "ud": "hubiese contenido",
+      "nosotros": "hubiésemos contenido",
+      "vosotros": "hubieseis contenido",
+      "uds": "hubiesen contenido"
+    }
+  },
+  "afirmativo": {
+    "tu": "contén",
+    "vosotros": "contened",
+    "ud": "contenga",
+    "uds": "contengan"
+  },
+  "negativo": {
+    "tu": "no contengas",
+    "vosotros": "no contengáis",
+    "ud": "no contenga",
+    "uds": "no contengan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie. Formas irregulares: contengo, contenga, contengas, etc. Radical irregular en el futuro y condicional: contendr-. Radical fuerte en el pretérito: contuv-. Mandato familiar singular irregular: contén.",
+    "infinitivo": "to contain, hold",
+    "gerundio": "containing",
+    "participioPasado": "contained",
+    "indicativo": {
+      "presente": "I contain, am containing",
+      "futuro": "I will contain",
+      "imperfecto": "I was containing, used to contain, contained",
+      "preterito": "I contained",
+      "condicional": "I would contain",
+      "presentePerfecto": "I have contained",
+      "futuroPerfecto": "I will have contained",
+      "pluscuamperfecto": "I had contained",
+      "preteritoAnterior": "I had contained",
+      "condicionalPerfecto": "I would have contained"
+    },
+    "subjuntivo": {
+      "presente": "I contain, am containing",
+      "imperfecto": "I contained, was containing",
+      "futuro": "I will contain",
+      "presentePerfecto": "I have contained, contained",
+      "futuroPerfecto": "I will have contained",
+      "pluscuamperfecto": "I had contained"
+    },
+    "afirmativo": "Contain!",
+    "negativo": "Don't contain!"
+  },
+  "attribution": "Fred Jehle"
+}

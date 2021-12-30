@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "batir",
+  "gerundio": "batiendo",
+  "participioPasado": "batido",
+  "indicativo": {
+    "presente": {
+      "yo": "bato",
+      "tu": "bates",
+      "ud": "bate",
+      "nosotros": "batimos",
+      "vosotros": "batís",
+      "uds": "baten"
+    },
+    "futuro": {
+      "yo": "batiré",
+      "tu": "batirás",
+      "ud": "batirá",
+      "nosotros": "batiremos",
+      "vosotros": "batiréis",
+      "uds": "batirán"
+    },
+    "imperfecto": {
+      "yo": "batía",
+      "tu": "batías",
+      "ud": "batía",
+      "nosotros": "batíamos",
+      "vosotros": "batíais",
+      "uds": "batían"
+    },
+    "preterito": {
+      "yo": "batí",
+      "tu": "batiste",
+      "ud": "batió",
+      "nosotros": "batimos",
+      "vosotros": "batisteis",
+      "uds": "batieron"
+    },
+    "condicional": {
+      "yo": "batiría",
+      "tu": "batirías",
+      "ud": "batiría",
+      "nosotros": "batiríamos",
+      "vosotros": "batiríais",
+      "uds": "batirían"
+    },
+    "presentePerfecto": {
+      "yo": "he batido",
+      "tu": "has batido",
+      "ud": "ha batido",
+      "nosotros": "hemos batido",
+      "vosotros": "habéis batido",
+      "uds": "han batido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré batido",
+      "tu": "habrás batido",
+      "ud": "habrá batido",
+      "nosotros": "habremos batido",
+      "vosotros": "habréis batido",
+      "uds": "habrán batido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había batido",
+      "tu": "habías batido",
+      "ud": "había batido",
+      "nosotros": "habíamos batido",
+      "vosotros": "habíais batido",
+      "uds": "habían batido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube batido",
+      "tu": "hubiste batido",
+      "ud": "hubo batido",
+      "nosotros": "hubimos batido",
+      "vosotros": "hubisteis batido",
+      "uds": "hubieron batido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría batido",
+      "tu": "habrías batido",
+      "ud": "habría batido",
+      "nosotros": "habríamos batido",
+      "vosotros": "habríais batido",
+      "uds": "habrían batido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "bata",
+      "tu": "batas",
+      "ud": "bata",
+      "nosotros": "batamos",
+      "vosotros": "batáis",
+      "uds": "batan"
+    },
+    "imperfecto": {
+      "yo": "batiera",
+      "tu": "batieras",
+      "ud": "batiera",
+      "nosotros": "batiéramos",
+      "vosotros": "batierais",
+      "uds": "batieran"
+    },
+    "futuro": {
+      "yo": "batiere",
+      "tu": "batieres",
+      "ud": "batiere",
+      "nosotros": "batiéremos",
+      "vosotros": "batiereis",
+      "uds": "batieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya batido",
+      "tu": "hayas batido",
+      "ud": "haya batido",
+      "nosotros": "hayamos batido",
+      "vosotros": "hayáis batido",
+      "uds": "hayan batido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere batido",
+      "tu": "hubieres batido",
+      "ud": "hubiere batido",
+      "nosotros": "hubiéremos batido",
+      "vosotros": "hubiereis batido",
+      "uds": "hubieren batido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera batido",
+      "tu": "hubieras batido",
+      "ud": "hubiera batido",
+      "nosotros": "hubiéramos batido",
+      "vosotros": "hubierais batido",
+      "uds": "hubieran batido"
+    },
+    "imperfectoAlt": {
+      "yo": "batiese",
+      "tu": "batieses",
+      "ud": "batiese",
+      "nosotros": "batiésemos",
+      "vosotros": "batieseis",
+      "uds": "batiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese batido",
+      "tu": "hubieses batido",
+      "ud": "hubiese batido",
+      "nosotros": "hubiésemos batido",
+      "vosotros": "hubieseis batido",
+      "uds": "hubiesen batido"
+    }
+  },
+  "afirmativo": {
+    "tu": "bate",
+    "vosotros": "batid",
+    "ud": "bata",
+    "uds": "batan"
+  },
+  "negativo": {
+    "tu": "no batas",
+    "vosotros": "no batáis",
+    "ud": "no bata",
+    "uds": "no batan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to beat, hammer, pound (on)",
+    "gerundio": "beating",
+    "participioPasado": "beat",
+    "indicativo": {
+      "presente": "I beat, am beating",
+      "futuro": "I will beat",
+      "imperfecto": "I was beating, used to beat, beat",
+      "preterito": "I beat",
+      "condicional": "I would beat",
+      "presentePerfecto": "I have beaten",
+      "futuroPerfecto": "I will have beaten",
+      "pluscuamperfecto": "I had beaten",
+      "preteritoAnterior": "I had beaten",
+      "condicionalPerfecto": "I would have beaten"
+    },
+    "subjuntivo": {
+      "presente": "I beat, am beating",
+      "imperfecto": "I beat, was beating",
+      "futuro": "I will beat",
+      "presentePerfecto": "I have beaten, beat",
+      "futuroPerfecto": "I will have beaten",
+      "pluscuamperfecto": "I had beaten"
+    },
+    "afirmativo": "Beat!",
+    "negativo": "Don't beat!"
+  },
+  "attribution": "Fred Jehle"
+}

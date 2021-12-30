@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "prometer",
+  "gerundio": "prometiendo",
+  "participioPasado": "prometido",
+  "indicativo": {
+    "presente": {
+      "yo": "prometo",
+      "tu": "prometes",
+      "ud": "promete",
+      "nosotros": "prometemos",
+      "vosotros": "prometéis",
+      "uds": "prometen"
+    },
+    "futuro": {
+      "yo": "prometeré",
+      "tu": "prometerás",
+      "ud": "prometerá",
+      "nosotros": "prometeremos",
+      "vosotros": "prometeréis",
+      "uds": "prometerán"
+    },
+    "imperfecto": {
+      "yo": "prometía",
+      "tu": "prometías",
+      "ud": "prometía",
+      "nosotros": "prometíamos",
+      "vosotros": "prometíais",
+      "uds": "prometían"
+    },
+    "preterito": {
+      "yo": "prometí",
+      "tu": "prometiste",
+      "ud": "prometió",
+      "nosotros": "prometimos",
+      "vosotros": "prometisteis",
+      "uds": "prometieron"
+    },
+    "condicional": {
+      "yo": "prometería",
+      "tu": "prometerías",
+      "ud": "prometería",
+      "nosotros": "prometeríamos",
+      "vosotros": "prometeríais",
+      "uds": "prometerían"
+    },
+    "presentePerfecto": {
+      "yo": "he prometido",
+      "tu": "has prometido",
+      "ud": "ha prometido",
+      "nosotros": "hemos prometido",
+      "vosotros": "habéis prometido",
+      "uds": "han prometido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré prometido",
+      "tu": "habrás prometido",
+      "ud": "habrá prometido",
+      "nosotros": "habremos prometido",
+      "vosotros": "habréis prometido",
+      "uds": "habrán prometido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había prometido",
+      "tu": "habías prometido",
+      "ud": "había prometido",
+      "nosotros": "habíamos prometido",
+      "vosotros": "habíais prometido",
+      "uds": "habían prometido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube prometido",
+      "tu": "hubiste prometido",
+      "ud": "hubo prometido",
+      "nosotros": "hubimos prometido",
+      "vosotros": "hubisteis prometido",
+      "uds": "hubieron prometido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría prometido",
+      "tu": "habrías prometido",
+      "ud": "habría prometido",
+      "nosotros": "habríamos prometido",
+      "vosotros": "habríais prometido",
+      "uds": "habrían prometido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "prometa",
+      "tu": "prometas",
+      "ud": "prometa",
+      "nosotros": "prometamos",
+      "vosotros": "prometáis",
+      "uds": "prometan"
+    },
+    "imperfecto": {
+      "yo": "prometiera",
+      "tu": "prometieras",
+      "ud": "prometiera",
+      "nosotros": "prometiéramos",
+      "vosotros": "prometierais",
+      "uds": "prometieran"
+    },
+    "futuro": {
+      "yo": "prometiere",
+      "tu": "prometieres",
+      "ud": "prometiere",
+      "nosotros": "prometiéremos",
+      "vosotros": "prometiereis",
+      "uds": "prometieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya prometido",
+      "tu": "hayas prometido",
+      "ud": "haya prometido",
+      "nosotros": "hayamos prometido",
+      "vosotros": "hayáis prometido",
+      "uds": "hayan prometido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere prometido",
+      "tu": "hubieres prometido",
+      "ud": "hubiere prometido",
+      "nosotros": "hubiéremos prometido",
+      "vosotros": "hubiereis prometido",
+      "uds": "hubieren prometido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera prometido",
+      "tu": "hubieras prometido",
+      "ud": "hubiera prometido",
+      "nosotros": "hubiéramos prometido",
+      "vosotros": "hubierais prometido",
+      "uds": "hubieran prometido"
+    },
+    "imperfectoAlt": {
+      "yo": "prometiese",
+      "tu": "prometieses",
+      "ud": "prometiese",
+      "nosotros": "prometiésemos",
+      "vosotros": "prometieseis",
+      "uds": "prometiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese prometido",
+      "tu": "hubieses prometido",
+      "ud": "hubiese prometido",
+      "nosotros": "hubiésemos prometido",
+      "vosotros": "hubieseis prometido",
+      "uds": "hubiesen prometido"
+    }
+  },
+  "afirmativo": {
+    "tu": "promete",
+    "vosotros": "prometed",
+    "ud": "prometa",
+    "uds": "prometan"
+  },
+  "negativo": {
+    "tu": "no prometas",
+    "vosotros": "no prometáis",
+    "ud": "no prometa",
+    "uds": "no prometan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to promise",
+    "gerundio": "promising",
+    "participioPasado": "promised",
+    "indicativo": {
+      "presente": "I promise, am promising",
+      "futuro": "I will promise",
+      "imperfecto": "I was promising, used to promise, promised",
+      "preterito": "I promised",
+      "condicional": "I would promise",
+      "presentePerfecto": "I have promised",
+      "futuroPerfecto": "I will have promised",
+      "pluscuamperfecto": "I had promised",
+      "preteritoAnterior": "I had promised",
+      "condicionalPerfecto": "I would have promised"
+    },
+    "subjuntivo": {
+      "presente": "I promise, am promising",
+      "imperfecto": "I promised, was promising",
+      "futuro": "I will promise",
+      "presentePerfecto": "I have promised, promised",
+      "futuroPerfecto": "I will have promised",
+      "pluscuamperfecto": "I had promised"
+    },
+    "afirmativo": "Promise!",
+    "negativo": "Don't promise!"
+  },
+  "attribution": "Fred Jehle"
+}

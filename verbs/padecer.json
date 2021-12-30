@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "padecer",
+  "gerundio": "padeciendo",
+  "participioPasado": "padecido",
+  "indicativo": {
+    "presente": {
+      "yo": "padezco",
+      "tu": "padeces",
+      "ud": "padece",
+      "nosotros": "padecemos",
+      "vosotros": "padecéis",
+      "uds": "padecen"
+    },
+    "futuro": {
+      "yo": "padeceré",
+      "tu": "padecerás",
+      "ud": "padecerá",
+      "nosotros": "padeceremos",
+      "vosotros": "padeceréis",
+      "uds": "padecerán"
+    },
+    "imperfecto": {
+      "yo": "padecía",
+      "tu": "padecías",
+      "ud": "padecía",
+      "nosotros": "padecíamos",
+      "vosotros": "padecíais",
+      "uds": "padecían"
+    },
+    "preterito": {
+      "yo": "padecí",
+      "tu": "padeciste",
+      "ud": "padeció",
+      "nosotros": "padecimos",
+      "vosotros": "padecisteis",
+      "uds": "padecieron"
+    },
+    "condicional": {
+      "yo": "padecería",
+      "tu": "padecerías",
+      "ud": "padecería",
+      "nosotros": "padeceríamos",
+      "vosotros": "padeceríais",
+      "uds": "padecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he padecido",
+      "tu": "has padecido",
+      "ud": "ha padecido",
+      "nosotros": "hemos padecido",
+      "vosotros": "habéis padecido",
+      "uds": "han padecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré padecido",
+      "tu": "habrás padecido",
+      "ud": "habrá padecido",
+      "nosotros": "habremos padecido",
+      "vosotros": "habréis padecido",
+      "uds": "habrán padecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había padecido",
+      "tu": "habías padecido",
+      "ud": "había padecido",
+      "nosotros": "habíamos padecido",
+      "vosotros": "habíais padecido",
+      "uds": "habían padecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube padecido",
+      "tu": "hubiste padecido",
+      "ud": "hubo padecido",
+      "nosotros": "hubimos padecido",
+      "vosotros": "hubisteis padecido",
+      "uds": "hubieron padecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría padecido",
+      "tu": "habrías padecido",
+      "ud": "habría padecido",
+      "nosotros": "habríamos padecido",
+      "vosotros": "habríais padecido",
+      "uds": "habrían padecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "padezca",
+      "tu": "padezcas",
+      "ud": "padezca",
+      "nosotros": "padezcamos",
+      "vosotros": "padezcáis",
+      "uds": "padezcan"
+    },
+    "imperfecto": {
+      "yo": "padeciera",
+      "tu": "padecieras",
+      "ud": "padeciera",
+      "nosotros": "padeciéramos",
+      "vosotros": "padecierais",
+      "uds": "padecieran"
+    },
+    "futuro": {
+      "yo": "padeciere",
+      "tu": "padecieres",
+      "ud": "padeciere",
+      "nosotros": "padeciéremos",
+      "vosotros": "padeciereis",
+      "uds": "padecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya padecido",
+      "tu": "hayas padecido",
+      "ud": "haya padecido",
+      "nosotros": "hayamos padecido",
+      "vosotros": "hayáis padecido",
+      "uds": "hayan padecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere padecido",
+      "tu": "hubieres padecido",
+      "ud": "hubiere padecido",
+      "nosotros": "hubiéremos padecido",
+      "vosotros": "hubiereis padecido",
+      "uds": "hubieren padecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera padecido",
+      "tu": "hubieras padecido",
+      "ud": "hubiera padecido",
+      "nosotros": "hubiéramos padecido",
+      "vosotros": "hubierais padecido",
+      "uds": "hubieran padecido"
+    },
+    "imperfectoAlt": {
+      "yo": "padeciese",
+      "tu": "padecieses",
+      "ud": "padeciese",
+      "nosotros": "padeciésemos",
+      "vosotros": "padecieseis",
+      "uds": "padeciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese padecido",
+      "tu": "hubieses padecido",
+      "ud": "hubiese padecido",
+      "nosotros": "hubiésemos padecido",
+      "vosotros": "hubieseis padecido",
+      "uds": "hubiesen padecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "padece",
+    "vosotros": "padeced",
+    "ud": "padezca",
+    "uds": "padezcan"
+  },
+  "negativo": {
+    "tu": "no padezcas",
+    "vosotros": "no padezcáis",
+    "ud": "no padezca",
+    "uds": "no padezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: padezco, padezca, padezcas, etc.",
+    "infinitivo": "to suffer",
+    "gerundio": "suffering",
+    "participioPasado": "suffered",
+    "indicativo": {
+      "presente": "I suffer, am suffering",
+      "futuro": "I will suffer",
+      "imperfecto": "I was suffering, used to suffer, suffered",
+      "preterito": "I suffered",
+      "condicional": "I would suffer",
+      "presentePerfecto": "I have suffered",
+      "futuroPerfecto": "I will have suffered",
+      "pluscuamperfecto": "I had suffered",
+      "preteritoAnterior": "I had suffered",
+      "condicionalPerfecto": "I would have suffered"
+    },
+    "subjuntivo": {
+      "presente": "I suffer, am suffering",
+      "imperfecto": "I suffered, was suffering",
+      "futuro": "I will suffer",
+      "presentePerfecto": "I have suffered, suffered",
+      "futuroPerfecto": "I will have suffered",
+      "pluscuamperfecto": "I had suffered"
+    },
+    "afirmativo": "Suffer!",
+    "negativo": "Don't suffer!"
+  },
+  "attribution": "Fred Jehle"
+}

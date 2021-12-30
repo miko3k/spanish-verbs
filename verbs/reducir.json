@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "reducir",
+  "gerundio": "reduciendo",
+  "participioPasado": "reducido",
+  "indicativo": {
+    "presente": {
+      "yo": "reduzco",
+      "tu": "reduces",
+      "ud": "reduce",
+      "nosotros": "reducimos",
+      "vosotros": "reducís",
+      "uds": "reducen"
+    },
+    "futuro": {
+      "yo": "reduciré",
+      "tu": "reducirás",
+      "ud": "reducirá",
+      "nosotros": "reduciremos",
+      "vosotros": "reduciréis",
+      "uds": "reducirán"
+    },
+    "imperfecto": {
+      "yo": "reducía",
+      "tu": "reducías",
+      "ud": "reducía",
+      "nosotros": "reducíamos",
+      "vosotros": "reducíais",
+      "uds": "reducían"
+    },
+    "preterito": {
+      "yo": "reduje",
+      "tu": "redujiste",
+      "ud": "redujo",
+      "nosotros": "redujimos",
+      "vosotros": "redujisteis",
+      "uds": "redujeron"
+    },
+    "condicional": {
+      "yo": "reduciría",
+      "tu": "reducirías",
+      "ud": "reduciría",
+      "nosotros": "reduciríamos",
+      "vosotros": "reduciríais",
+      "uds": "reducirían"
+    },
+    "presentePerfecto": {
+      "yo": "he reducido",
+      "tu": "has reducido",
+      "ud": "ha reducido",
+      "nosotros": "hemos reducido",
+      "vosotros": "habéis reducido",
+      "uds": "han reducido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré reducido",
+      "tu": "habrás reducido",
+      "ud": "habrá reducido",
+      "nosotros": "habremos reducido",
+      "vosotros": "habréis reducido",
+      "uds": "habrán reducido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había reducido",
+      "tu": "habías reducido",
+      "ud": "había reducido",
+      "nosotros": "habíamos reducido",
+      "vosotros": "habíais reducido",
+      "uds": "habían reducido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube reducido",
+      "tu": "hubiste reducido",
+      "ud": "hubo reducido",
+      "nosotros": "hubimos reducido",
+      "vosotros": "hubisteis reducido",
+      "uds": "hubieron reducido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría reducido",
+      "tu": "habrías reducido",
+      "ud": "habría reducido",
+      "nosotros": "habríamos reducido",
+      "vosotros": "habríais reducido",
+      "uds": "habrían reducido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "reduzca",
+      "tu": "reduzcas",
+      "ud": "reduzca",
+      "nosotros": "reduzcamos",
+      "vosotros": "reduzcáis",
+      "uds": "reduzcan"
+    },
+    "imperfecto": {
+      "yo": "redujera",
+      "tu": "redujeras",
+      "ud": "redujera",
+      "nosotros": "redujéramos",
+      "vosotros": "redujerais",
+      "uds": "redujeran"
+    },
+    "futuro": {
+      "yo": "redujere",
+      "tu": "redujeres",
+      "ud": "redujere",
+      "nosotros": "redujéremos",
+      "vosotros": "redujereis",
+      "uds": "redujeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya reducido",
+      "tu": "hayas reducido",
+      "ud": "haya reducido",
+      "nosotros": "hayamos reducido",
+      "vosotros": "hayáis reducido",
+      "uds": "hayan reducido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere reducido",
+      "tu": "hubieres reducido",
+      "ud": "hubiere reducido",
+      "nosotros": "hubiéremos reducido",
+      "vosotros": "hubiereis reducido",
+      "uds": "hubieren reducido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera reducido",
+      "tu": "hubieras reducido",
+      "ud": "hubiera reducido",
+      "nosotros": "hubiéramos reducido",
+      "vosotros": "hubierais reducido",
+      "uds": "hubieran reducido"
+    },
+    "imperfectoAlt": {
+      "yo": "redujese",
+      "tu": "redujeses",
+      "ud": "redujese",
+      "nosotros": "redujésemos",
+      "vosotros": "redujeseis",
+      "uds": "redujesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese reducido",
+      "tu": "hubieses reducido",
+      "ud": "hubiese reducido",
+      "nosotros": "hubiésemos reducido",
+      "vosotros": "hubieseis reducido",
+      "uds": "hubiesen reducido"
+    }
+  },
+  "afirmativo": {
+    "tu": "reduce",
+    "vosotros": "reducid",
+    "ud": "reduzca",
+    "uds": "reduzcan"
+  },
+  "negativo": {
+    "tu": "no reduzcas",
+    "vosotros": "no reduzcáis",
+    "ud": "no reduzca",
+    "uds": "no reduzcan"
+  },
+  "english": {
+    "note": "Formas irregulares: reduzco, reduzca, reduzcas, etc.",
+    "infinitivo": "to reduce",
+    "gerundio": "reducing",
+    "participioPasado": "reduced",
+    "indicativo": {
+      "presente": "I reduce, am reducing",
+      "futuro": "I will reduce",
+      "imperfecto": "I was reducing, used to reduce, reduced",
+      "preterito": "I reduced",
+      "condicional": "I would reduce",
+      "presentePerfecto": "I have reduced",
+      "futuroPerfecto": "I will have reduced",
+      "pluscuamperfecto": "I had reduced",
+      "preteritoAnterior": "I had reduced",
+      "condicionalPerfecto": "I would have reduced"
+    },
+    "subjuntivo": {
+      "presente": "I reduce, am reducing",
+      "imperfecto": "I reduced, was reducing",
+      "futuro": "I will reduce",
+      "presentePerfecto": "I have reduced, reduced",
+      "futuroPerfecto": "I will have reduced",
+      "pluscuamperfecto": "I had reduced"
+    },
+    "afirmativo": "Reduce!",
+    "negativo": "Don't reduce!"
+  },
+  "attribution": "Fred Jehle"
+}

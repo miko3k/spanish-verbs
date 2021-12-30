@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "tocar",
+  "gerundio": "tocando",
+  "participioPasado": "tocado",
+  "indicativo": {
+    "presente": {
+      "yo": "toco",
+      "tu": "tocas",
+      "ud": "toca",
+      "nosotros": "tocamos",
+      "vosotros": "tocáis",
+      "uds": "tocan"
+    },
+    "futuro": {
+      "yo": "tocaré",
+      "tu": "tocarás",
+      "ud": "tocará",
+      "nosotros": "tocaremos",
+      "vosotros": "tocaréis",
+      "uds": "tocarán"
+    },
+    "imperfecto": {
+      "yo": "tocaba",
+      "tu": "tocabas",
+      "ud": "tocaba",
+      "nosotros": "tocábamos",
+      "vosotros": "tocabais",
+      "uds": "tocaban"
+    },
+    "preterito": {
+      "yo": "toqué",
+      "tu": "tocaste",
+      "ud": "tocó",
+      "nosotros": "tocamos",
+      "vosotros": "tocasteis",
+      "uds": "tocaron"
+    },
+    "condicional": {
+      "yo": "tocaría",
+      "tu": "tocarías",
+      "ud": "tocaría",
+      "nosotros": "tocaríamos",
+      "vosotros": "tocaríais",
+      "uds": "tocarían"
+    },
+    "presentePerfecto": {
+      "yo": "he tocado",
+      "tu": "has tocado",
+      "ud": "ha tocado",
+      "nosotros": "hemos tocado",
+      "vosotros": "habéis tocado",
+      "uds": "han tocado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré tocado",
+      "tu": "habrás tocado",
+      "ud": "habrá tocado",
+      "nosotros": "habremos tocado",
+      "vosotros": "habréis tocado",
+      "uds": "habrán tocado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había tocado",
+      "tu": "habías tocado",
+      "ud": "había tocado",
+      "nosotros": "habíamos tocado",
+      "vosotros": "habíais tocado",
+      "uds": "habían tocado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube tocado",
+      "tu": "hubiste tocado",
+      "ud": "hubo tocado",
+      "nosotros": "hubimos tocado",
+      "vosotros": "hubisteis tocado",
+      "uds": "hubieron tocado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría tocado",
+      "tu": "habrías tocado",
+      "ud": "habría tocado",
+      "nosotros": "habríamos tocado",
+      "vosotros": "habríais tocado",
+      "uds": "habrían tocado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "toque",
+      "tu": "toques",
+      "ud": "toque",
+      "nosotros": "toquemos",
+      "vosotros": "toquéis",
+      "uds": "toquen"
+    },
+    "imperfecto": {
+      "yo": "tocara",
+      "tu": "tocaras",
+      "ud": "tocara",
+      "nosotros": "tocáramos",
+      "vosotros": "tocarais",
+      "uds": "tocaran"
+    },
+    "futuro": {
+      "yo": "tocare",
+      "tu": "tocares",
+      "ud": "tocare",
+      "nosotros": "tocáremos",
+      "vosotros": "tocareis",
+      "uds": "tocaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya tocado",
+      "tu": "hayas tocado",
+      "ud": "haya tocado",
+      "nosotros": "hayamos tocado",
+      "vosotros": "hayáis tocado",
+      "uds": "hayan tocado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere tocado",
+      "tu": "hubieres tocado",
+      "ud": "hubiere tocado",
+      "nosotros": "hubiéremos tocado",
+      "vosotros": "hubiereis tocado",
+      "uds": "hubieren tocado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera tocado",
+      "tu": "hubieras tocado",
+      "ud": "hubiera tocado",
+      "nosotros": "hubiéramos tocado",
+      "vosotros": "hubierais tocado",
+      "uds": "hubieran tocado"
+    },
+    "imperfectoAlt": {
+      "yo": "tocase",
+      "tu": "tocases",
+      "ud": "tocase",
+      "nosotros": "tocásemos",
+      "vosotros": "tocaseis",
+      "uds": "tocasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese tocado",
+      "tu": "hubieses tocado",
+      "ud": "hubiese tocado",
+      "nosotros": "hubiésemos tocado",
+      "vosotros": "hubieseis tocado",
+      "uds": "hubiesen tocado"
+    }
+  },
+  "afirmativo": {
+    "tu": "toca",
+    "vosotros": "tocad",
+    "ud": "toque",
+    "uds": "toquen"
+  },
+  "negativo": {
+    "tu": "no toques",
+    "vosotros": "no toquéis",
+    "ud": "no toque",
+    "uds": "no toquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to touch; to play (an instrument, music)",
+    "gerundio": "touching",
+    "participioPasado": "touched",
+    "indicativo": {
+      "presente": "I touch, am touching",
+      "futuro": "I will touch",
+      "imperfecto": "I was touching, used to touch, touched",
+      "preterito": "I touched",
+      "condicional": "I would touch",
+      "presentePerfecto": "I have touched",
+      "futuroPerfecto": "I will have touched",
+      "pluscuamperfecto": "I had touched",
+      "preteritoAnterior": "I had touched",
+      "condicionalPerfecto": "I would have touched"
+    },
+    "subjuntivo": {
+      "presente": "I touch, am touching",
+      "imperfecto": "I touched, was touching",
+      "futuro": "I will touch",
+      "presentePerfecto": "I have touched, touched",
+      "futuroPerfecto": "I will have touched",
+      "pluscuamperfecto": "I had touched"
+    },
+    "afirmativo": "Touch!",
+    "negativo": "Don't touch!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "jugar",
+  "gerundio": "jugando",
+  "participioPasado": "jugado",
+  "indicativo": {
+    "presente": {
+      "yo": "juego",
+      "tu": "juegas",
+      "ud": "juega",
+      "nosotros": "jugamos",
+      "vosotros": "jugáis",
+      "uds": "juegan"
+    },
+    "futuro": {
+      "yo": "jugaré",
+      "tu": "jugarás",
+      "ud": "jugará",
+      "nosotros": "jugaremos",
+      "vosotros": "jugaréis",
+      "uds": "jugarán"
+    },
+    "imperfecto": {
+      "yo": "jugaba",
+      "tu": "jugabas",
+      "ud": "jugaba",
+      "nosotros": "jugábamos",
+      "vosotros": "jugabais",
+      "uds": "jugaban"
+    },
+    "preterito": {
+      "yo": "jugué",
+      "tu": "jugaste",
+      "ud": "jugó",
+      "nosotros": "jugamos",
+      "vosotros": "jugasteis",
+      "uds": "jugaron"
+    },
+    "condicional": {
+      "yo": "jugaría",
+      "tu": "jugarías",
+      "ud": "jugaría",
+      "nosotros": "jugaríamos",
+      "vosotros": "jugaríais",
+      "uds": "jugarían"
+    },
+    "presentePerfecto": {
+      "yo": "he jugado",
+      "tu": "has jugado",
+      "ud": "ha jugado",
+      "nosotros": "hemos jugado",
+      "vosotros": "habéis jugado",
+      "uds": "han jugado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré jugado",
+      "tu": "habrás jugado",
+      "ud": "habrá jugado",
+      "nosotros": "habremos jugado",
+      "vosotros": "habréis jugado",
+      "uds": "habrán jugado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había jugado",
+      "tu": "habías jugado",
+      "ud": "había jugado",
+      "nosotros": "habíamos jugado",
+      "vosotros": "habíais jugado",
+      "uds": "habían jugado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube jugado",
+      "tu": "hubiste jugado",
+      "ud": "hubo jugado",
+      "nosotros": "hubimos jugado",
+      "vosotros": "hubisteis jugado",
+      "uds": "hubieron jugado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría jugado",
+      "tu": "habrías jugado",
+      "ud": "habría jugado",
+      "nosotros": "habríamos jugado",
+      "vosotros": "habríais jugado",
+      "uds": "habrían jugado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "juegue",
+      "tu": "juegues",
+      "ud": "juegue",
+      "nosotros": "juguemos",
+      "vosotros": "juguéis",
+      "uds": "jueguen"
+    },
+    "imperfecto": {
+      "yo": "jugara",
+      "tu": "jugaras",
+      "ud": "jugara",
+      "nosotros": "jugáramos",
+      "vosotros": "jugarais",
+      "uds": "jugaran"
+    },
+    "futuro": {
+      "yo": "jugare",
+      "tu": "jugares",
+      "ud": "jugare",
+      "nosotros": "jugáremos",
+      "vosotros": "jugareis",
+      "uds": "jugaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya jugado",
+      "tu": "hayas jugado",
+      "ud": "haya jugado",
+      "nosotros": "hayamos jugado",
+      "vosotros": "hayáis jugado",
+      "uds": "hayan jugado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere jugado",
+      "tu": "hubieres jugado",
+      "ud": "hubiere jugado",
+      "nosotros": "hubiéremos jugado",
+      "vosotros": "hubiereis jugado",
+      "uds": "hubieren jugado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera jugado",
+      "tu": "hubieras jugado",
+      "ud": "hubiera jugado",
+      "nosotros": "hubiéramos jugado",
+      "vosotros": "hubierais jugado",
+      "uds": "hubieran jugado"
+    },
+    "imperfectoAlt": {
+      "yo": "jugase",
+      "tu": "jugases",
+      "ud": "jugase",
+      "nosotros": "jugásemos",
+      "vosotros": "jugaseis",
+      "uds": "jugasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese jugado",
+      "tu": "hubieses jugado",
+      "ud": "hubiese jugado",
+      "nosotros": "hubiésemos jugado",
+      "vosotros": "hubieseis jugado",
+      "uds": "hubiesen jugado"
+    }
+  },
+  "afirmativo": {
+    "tu": "juega",
+    "vosotros": "jugad",
+    "ud": "juegue",
+    "uds": "jueguen"
+  },
+  "negativo": {
+    "tu": "no juegues",
+    "vosotros": "no juguéis",
+    "ud": "no juegue",
+    "uds": "no jueguen"
+  },
+  "english": {
+    "note": "Cambio radical: u > ue cuando se acentúa. Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to play (a game or sport)",
+    "gerundio": "playing",
+    "participioPasado": "played",
+    "indicativo": {
+      "presente": "I play, am playing",
+      "futuro": "I will play",
+      "imperfecto": "I was playing, used to play, played",
+      "preterito": "I played",
+      "condicional": "I would play",
+      "presentePerfecto": "I have played",
+      "futuroPerfecto": "I will have played",
+      "pluscuamperfecto": "I had played",
+      "preteritoAnterior": "I had played",
+      "condicionalPerfecto": "I would have played"
+    },
+    "subjuntivo": {
+      "presente": "I play, am playing",
+      "imperfecto": "I played, was playing",
+      "futuro": "I will play",
+      "presentePerfecto": "I have played, played",
+      "futuroPerfecto": "I will have played",
+      "pluscuamperfecto": "I had played"
+    },
+    "afirmativo": "Play!",
+    "negativo": "Don't play!"
+  },
+  "attribution": "Fred Jehle"
+}

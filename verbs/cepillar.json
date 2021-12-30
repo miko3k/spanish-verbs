@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cepillar",
+  "gerundio": "cepillando",
+  "participioPasado": "cepillado",
+  "indicativo": {
+    "presente": {
+      "yo": "cepillo",
+      "tu": "cepillas",
+      "ud": "cepilla",
+      "nosotros": "cepillamos",
+      "vosotros": "cepilláis",
+      "uds": "cepillan"
+    },
+    "futuro": {
+      "yo": "cepillaré",
+      "tu": "cepillarás",
+      "ud": "cepillará",
+      "nosotros": "cepillaremos",
+      "vosotros": "cepillaréis",
+      "uds": "cepillarán"
+    },
+    "imperfecto": {
+      "yo": "cepillaba",
+      "tu": "cepillabas",
+      "ud": "cepillaba",
+      "nosotros": "cepillábamos",
+      "vosotros": "cepillabais",
+      "uds": "cepillaban"
+    },
+    "preterito": {
+      "yo": "cepillé",
+      "tu": "cepillaste",
+      "ud": "cepilló",
+      "nosotros": "cepillamos",
+      "vosotros": "cepillasteis",
+      "uds": "cepillaron"
+    },
+    "condicional": {
+      "yo": "cepillaría",
+      "tu": "cepillarías",
+      "ud": "cepillaría",
+      "nosotros": "cepillaríamos",
+      "vosotros": "cepillaríais",
+      "uds": "cepillarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cepillado",
+      "tu": "has cepillado",
+      "ud": "ha cepillado",
+      "nosotros": "hemos cepillado",
+      "vosotros": "habéis cepillado",
+      "uds": "han cepillado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cepillado",
+      "tu": "habrás cepillado",
+      "ud": "habrá cepillado",
+      "nosotros": "habremos cepillado",
+      "vosotros": "habréis cepillado",
+      "uds": "habrán cepillado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cepillado",
+      "tu": "habías cepillado",
+      "ud": "hablía cepillado",
+      "nosotros": "habíamos cepillado",
+      "vosotros": "habíais cepillado",
+      "uds": "habían cepillado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cepillado",
+      "tu": "hubiste cepillado",
+      "ud": "hubo cepillado",
+      "nosotros": "hubimos cepillado",
+      "vosotros": "hubisteis cepillado",
+      "uds": "hubieron cepillado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cepillado",
+      "tu": "habrías cepillado",
+      "ud": "habría cepillado",
+      "nosotros": "habríamos cepillado",
+      "vosotros": "habríais cepillado",
+      "uds": "habrían cepillado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cepille",
+      "tu": "cepilles",
+      "ud": "cepille",
+      "nosotros": "cepillemos",
+      "vosotros": "cepilléis",
+      "uds": "cepillen"
+    },
+    "imperfecto": {
+      "yo": "cepillara",
+      "tu": "cepillaras",
+      "ud": "cepillara",
+      "nosotros": "cepilláramos",
+      "vosotros": "cepillarais",
+      "uds": "cepillaran"
+    },
+    "futuro": {
+      "yo": "cepillare",
+      "tu": "cepillares",
+      "ud": "cepillare",
+      "nosotros": "cepilláremos",
+      "vosotros": "cepillareis",
+      "uds": "cepillaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cepillado",
+      "tu": "hayas cepillado",
+      "ud": "haya cepillado",
+      "nosotros": "hayamos cepillado",
+      "vosotros": "hayáis cepillado",
+      "uds": "hayan cepillado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cepillado",
+      "tu": "hubieres cepillado",
+      "ud": "hubiere cepillado",
+      "nosotros": "hubiéremos cepillado",
+      "vosotros": "hubiereis cepillado",
+      "uds": "hubieren cepillado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cepillado",
+      "tu": "hubieras cepillado",
+      "ud": "hubiera cepillado",
+      "nosotros": "hubiéramos cepillado",
+      "vosotros": "hubierais cepillado",
+      "uds": "hubieran cepillado"
+    },
+    "imperfectoAlt": {
+      "yo": "cepillase",
+      "tu": "cepillases",
+      "ud": "cepillase",
+      "nosotros": "cepillásemos",
+      "vosotros": "cepillaseis",
+      "uds": "cepillasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cepillado",
+      "tu": "hubieses cepillado",
+      "ud": "hubiese cepillado",
+      "nosotros": "hubiésemos cepillado",
+      "vosotros": "hubieseis cepillado",
+      "uds": "hubiesen cepillado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cepilla",
+    "vosotros": "cepillad",
+    "ud": "cepille",
+    "uds": "cepillen"
+  },
+  "negativo": {
+    "tu": "no cepilles",
+    "vosotros": "no cepilléis",
+    "ud": "no cepille",
+    "uds": "no cepillen"
+  },
+  "english": {
+    "note": "Cuidado: Este verbo puede tener significados ofensivos.",
+    "infinitivo": "to brush",
+    "gerundio": "brushing",
+    "participioPasado": "brushed",
+    "indicativo": {
+      "presente": "I brush, am brushing",
+      "futuro": "I will brush",
+      "imperfecto": "I was brushing, used to brush, brushed",
+      "preterito": "I brushed",
+      "condicional": "I would brush",
+      "presentePerfecto": "I have brushed",
+      "futuroPerfecto": "I will have brushed",
+      "pluscuamperfecto": "I had brushed",
+      "preteritoAnterior": "I had brushed",
+      "condicionalPerfecto": "I would have brushed"
+    },
+    "subjuntivo": {
+      "presente": "I brush, am brushing",
+      "imperfecto": "I brushed, was brushing",
+      "futuro": "I will brush",
+      "presentePerfecto": "I have brushed, brushed",
+      "futuroPerfecto": "I will have brushed",
+      "pluscuamperfecto": "I had brushed"
+    },
+    "afirmativo": "Brush!",
+    "negativo": "Don't brush!"
+  },
+  "attribution": "Fred Jehle"
+}

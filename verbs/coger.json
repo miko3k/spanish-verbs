@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "coger",
+  "gerundio": "cogiendo",
+  "participioPasado": "cogido",
+  "indicativo": {
+    "presente": {
+      "yo": "cojo",
+      "tu": "coges",
+      "ud": "coge",
+      "nosotros": "cogemos",
+      "vosotros": "cogéis",
+      "uds": "cogen"
+    },
+    "futuro": {
+      "yo": "cogeré",
+      "tu": "cogerás",
+      "ud": "cogerá",
+      "nosotros": "cogeremos",
+      "vosotros": "cogeréis",
+      "uds": "cogerán"
+    },
+    "imperfecto": {
+      "yo": "cogía",
+      "tu": "cogías",
+      "ud": "cogía",
+      "nosotros": "cogíamos",
+      "vosotros": "cogíais",
+      "uds": "cogían"
+    },
+    "preterito": {
+      "yo": "cogí",
+      "tu": "cogiste",
+      "ud": "cogió",
+      "nosotros": "cogimos",
+      "vosotros": "cogisteis",
+      "uds": "cogieron"
+    },
+    "condicional": {
+      "yo": "cogería",
+      "tu": "cogerías",
+      "ud": "cogería",
+      "nosotros": "cogeríamos",
+      "vosotros": "cogeríais",
+      "uds": "cogerían"
+    },
+    "presentePerfecto": {
+      "yo": "he cogido",
+      "tu": "has cogido",
+      "ud": "ha cogido",
+      "nosotros": "hemos cogido",
+      "vosotros": "habéis cogido",
+      "uds": "han cogido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cogido",
+      "tu": "habrás cogido",
+      "ud": "habrá cogido",
+      "nosotros": "habremos cogido",
+      "vosotros": "habréis cogido",
+      "uds": "habrán cogido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cogido",
+      "tu": "habías cogido",
+      "ud": "había cogido",
+      "nosotros": "habíamos cogido",
+      "vosotros": "habíais cogido",
+      "uds": "habían cogido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cogido",
+      "tu": "hubiste cogido",
+      "ud": "hubo cogido",
+      "nosotros": "hubimos cogido",
+      "vosotros": "hubisteis cogido",
+      "uds": "hubieron cogido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cogido",
+      "tu": "habrías cogido",
+      "ud": "habría cogido",
+      "nosotros": "habríamos cogido",
+      "vosotros": "habríais cogido",
+      "uds": "habrían cogido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "coja",
+      "tu": "cojas",
+      "ud": "coja",
+      "nosotros": "cojamos",
+      "vosotros": "cojáis",
+      "uds": "cojan"
+    },
+    "imperfecto": {
+      "yo": "cogiera",
+      "tu": "cogieras",
+      "ud": "cogiera",
+      "nosotros": "cogiéramos",
+      "vosotros": "cogierais",
+      "uds": "cogieran"
+    },
+    "futuro": {
+      "yo": "cogiere",
+      "tu": "cogieres",
+      "ud": "cogiere",
+      "nosotros": "cogiéremos",
+      "vosotros": "cogiereis",
+      "uds": "cogieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cogido",
+      "tu": "hayas cogido",
+      "ud": "haya cogido",
+      "nosotros": "hayamos cogido",
+      "vosotros": "hayáis cogido",
+      "uds": "hayan cogido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cogido",
+      "tu": "hubieres cogido",
+      "ud": "hubiere cogido",
+      "nosotros": "hubiéremos cogido",
+      "vosotros": "hubiereis cogido",
+      "uds": "hubieren cogido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cogido",
+      "tu": "hubieras cogido",
+      "ud": "hubiera cogido",
+      "nosotros": "hubiéramos cogido",
+      "vosotros": "hubierais cogido",
+      "uds": "hubieran cogido"
+    },
+    "imperfectoAlt": {
+      "yo": "cogiese",
+      "tu": "cogieses",
+      "ud": "cogiese",
+      "nosotros": "cogiésemos",
+      "vosotros": "cogieseis",
+      "uds": "cogiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cogido",
+      "tu": "hubieses cogido",
+      "ud": "hubiese cogido",
+      "nosotros": "hubiésemos cogido",
+      "vosotros": "hubieseis cogido",
+      "uds": "hubiesen cogido"
+    }
+  },
+  "afirmativo": {
+    "tu": "coge",
+    "vosotros": "coged",
+    "ud": "coja",
+    "uds": "cojan"
+  },
+  "negativo": {
+    "tu": "no cojas",
+    "vosotros": "no cojáis",
+    "ud": "no coja",
+    "uds": "no cojan"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > j delante de a y o.",
+    "infinitivo": "to catch, grasp, take hold of",
+    "gerundio": "catching",
+    "participioPasado": "caught",
+    "indicativo": {
+      "presente": "I catch, am catching",
+      "futuro": "I will catch",
+      "imperfecto": "I was catching, used to catch, caught",
+      "preterito": "I caught",
+      "condicional": "I would catch",
+      "presentePerfecto": "I have caught",
+      "futuroPerfecto": "I will have caught",
+      "pluscuamperfecto": "I had caught",
+      "preteritoAnterior": "I had caught",
+      "condicionalPerfecto": "I would have caught"
+    },
+    "subjuntivo": {
+      "presente": "I catch, am catching",
+      "imperfecto": "I caught, was catching",
+      "futuro": "I will catch",
+      "presentePerfecto": "I have caught, caught",
+      "futuroPerfecto": "I will have caught",
+      "pluscuamperfecto": "I had caught"
+    },
+    "afirmativo": "Catch!",
+    "negativo": "Don't catch!"
+  },
+  "attribution": "Fred Jehle"
+}

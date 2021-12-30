@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "gritar",
+  "gerundio": "gritando",
+  "participioPasado": "gritado",
+  "indicativo": {
+    "presente": {
+      "yo": "grito",
+      "tu": "gritas",
+      "ud": "grita",
+      "nosotros": "gritamos",
+      "vosotros": "gritáis",
+      "uds": "gritan"
+    },
+    "futuro": {
+      "yo": "gritaré",
+      "tu": "gritarás",
+      "ud": "gritará",
+      "nosotros": "gritaremos",
+      "vosotros": "gritaréis",
+      "uds": "gritarán"
+    },
+    "imperfecto": {
+      "yo": "gritaba",
+      "tu": "gritabas",
+      "ud": "gritaba",
+      "nosotros": "gritábamos",
+      "vosotros": "gritabais",
+      "uds": "gritaban"
+    },
+    "preterito": {
+      "yo": "grité",
+      "tu": "gritaste",
+      "ud": "gritó",
+      "nosotros": "gritamos",
+      "vosotros": "gritasteis",
+      "uds": "gritaron"
+    },
+    "condicional": {
+      "yo": "gritaría",
+      "tu": "gritarías",
+      "ud": "gritaría",
+      "nosotros": "gritaríamos",
+      "vosotros": "gritaríais",
+      "uds": "gritarían"
+    },
+    "presentePerfecto": {
+      "yo": "he gritado",
+      "tu": "has gritado",
+      "ud": "ha gritado",
+      "nosotros": "hemos gritado",
+      "vosotros": "habéis gritado",
+      "uds": "han gritado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré gritado",
+      "tu": "habrás gritado",
+      "ud": "habrá gritado",
+      "nosotros": "habremos gritado",
+      "vosotros": "habréis gritado",
+      "uds": "habrán gritado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había gritado",
+      "tu": "habías gritado",
+      "ud": "había gritado",
+      "nosotros": "habíamos gritado",
+      "vosotros": "habíais gritado",
+      "uds": "habían gritado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube gritado",
+      "tu": "hubiste gritado",
+      "ud": "hubo gritado",
+      "nosotros": "hubimos gritado",
+      "vosotros": "hubisteis gritado",
+      "uds": "hubieron gritado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría gritado",
+      "tu": "habrías gritado",
+      "ud": "habría gritado",
+      "nosotros": "habríamos gritado",
+      "vosotros": "habríais gritado",
+      "uds": "habrían gritado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "grite",
+      "tu": "grites",
+      "ud": "grite",
+      "nosotros": "gritemos",
+      "vosotros": "gritéis",
+      "uds": "griten"
+    },
+    "imperfecto": {
+      "yo": "gritara",
+      "tu": "gritaras",
+      "ud": "gritara",
+      "nosotros": "gritáramos",
+      "vosotros": "gritarais",
+      "uds": "gritaran"
+    },
+    "futuro": {
+      "yo": "gritare",
+      "tu": "gritares",
+      "ud": "gritare",
+      "nosotros": "gritáremos",
+      "vosotros": "gritareis",
+      "uds": "gritaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya gritado",
+      "tu": "hayas gritado",
+      "ud": "haya gritado",
+      "nosotros": "hayamos gritado",
+      "vosotros": "hayáis gritado",
+      "uds": "hayan gritado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere gritado",
+      "tu": "hubieres gritado",
+      "ud": "hubiere gritado",
+      "nosotros": "hubiéremos gritado",
+      "vosotros": "hubiereis gritado",
+      "uds": "hubieren gritado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera gritado",
+      "tu": "hubieras gritado",
+      "ud": "hubiera gritado",
+      "nosotros": "hubiéramos gritado",
+      "vosotros": "hubierais gritado",
+      "uds": "hubieran gritado"
+    },
+    "imperfectoAlt": {
+      "yo": "gritase",
+      "tu": "gritases",
+      "ud": "gritase",
+      "nosotros": "gritásemos",
+      "vosotros": "gritaseis",
+      "uds": "gritasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese gritado",
+      "tu": "hubieses gritado",
+      "ud": "hubiese gritado",
+      "nosotros": "hubiésemos gritado",
+      "vosotros": "hubieseis gritado",
+      "uds": "hubiesen gritado"
+    }
+  },
+  "afirmativo": {
+    "tu": "grita",
+    "vosotros": "gritad",
+    "ud": "grite",
+    "uds": "griten"
+  },
+  "negativo": {
+    "tu": "no grites",
+    "vosotros": "no gritéis",
+    "ud": "no grite",
+    "uds": "no griten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to shout, yell, scream, cry out",
+    "gerundio": "shouting",
+    "participioPasado": "shouted",
+    "indicativo": {
+      "presente": "I shout, am shouting",
+      "futuro": "I will shout",
+      "imperfecto": "I was shouting, used to shout, shouted",
+      "preterito": "I shouted",
+      "condicional": "I would shout",
+      "presentePerfecto": "I have shouted",
+      "futuroPerfecto": "I will have shouted",
+      "pluscuamperfecto": "I had shouted",
+      "preteritoAnterior": "I had shouted",
+      "condicionalPerfecto": "I would have shouted"
+    },
+    "subjuntivo": {
+      "presente": "I shout, am shouting",
+      "imperfecto": "I shouted, was shouting",
+      "futuro": "I will shout",
+      "presentePerfecto": "I have shouted, shouted",
+      "futuroPerfecto": "I will have shouted",
+      "pluscuamperfecto": "I had shouted"
+    },
+    "afirmativo": "Shout!",
+    "negativo": "Don't shout!"
+  },
+  "attribution": "Fred Jehle"
+}

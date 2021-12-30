@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "añadir",
+  "gerundio": "añadiendo",
+  "participioPasado": "añadido",
+  "indicativo": {
+    "presente": {
+      "yo": "añado",
+      "tu": "añades",
+      "ud": "añade",
+      "nosotros": "añadimos",
+      "vosotros": "añadís",
+      "uds": "añaden"
+    },
+    "futuro": {
+      "yo": "añadiré",
+      "tu": "añadirás",
+      "ud": "añadirá",
+      "nosotros": "añadiremos",
+      "vosotros": "añadiréis",
+      "uds": "añadirán"
+    },
+    "imperfecto": {
+      "yo": "añadía",
+      "tu": "añadías",
+      "ud": "añadía",
+      "nosotros": "añadíamos",
+      "vosotros": "añadíais",
+      "uds": "añadían"
+    },
+    "preterito": {
+      "yo": "añadí",
+      "tu": "añadiste",
+      "ud": "añadió",
+      "nosotros": "añadimos",
+      "vosotros": "añadisteis",
+      "uds": "añadieron"
+    },
+    "condicional": {
+      "yo": "añadiría",
+      "tu": "añadirías",
+      "ud": "añadiría",
+      "nosotros": "añadiríamos",
+      "vosotros": "añadiríais",
+      "uds": "añadirían"
+    },
+    "presentePerfecto": {
+      "yo": "he añadido",
+      "tu": "has añadido",
+      "ud": "ha añadido",
+      "nosotros": "hemos añadido",
+      "vosotros": "habéis añadido",
+      "uds": "han añadido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré añadido",
+      "tu": "habrás añadido",
+      "ud": "habrá añadido",
+      "nosotros": "habremos añadido",
+      "vosotros": "habréis añadido",
+      "uds": "habrán añadido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había añadido",
+      "tu": "habías añadido",
+      "ud": "había añadido",
+      "nosotros": "habíamos añadido",
+      "vosotros": "habíais añadido",
+      "uds": "habían añadido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube añadido",
+      "tu": "hubiste añadido",
+      "ud": "hubo añadido",
+      "nosotros": "hubimos añadido",
+      "vosotros": "hubisteis añadido",
+      "uds": "hubieron añadido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría añadido",
+      "tu": "habrías añadido",
+      "ud": "habría añadido",
+      "nosotros": "habríamos añadido",
+      "vosotros": "habríais añadido",
+      "uds": "habrían añadido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "añada",
+      "tu": "añadas",
+      "ud": "añada",
+      "nosotros": "añadamos",
+      "vosotros": "añadáis",
+      "uds": "añadan"
+    },
+    "imperfecto": {
+      "yo": "añadiera",
+      "tu": "añadieras",
+      "ud": "añadiera",
+      "nosotros": "añadiéramos",
+      "vosotros": "añadierais",
+      "uds": "añadieran"
+    },
+    "futuro": {
+      "yo": "añadiere",
+      "tu": "añadieres",
+      "ud": "añadiere",
+      "nosotros": "añadiéremos",
+      "vosotros": "añadiereis",
+      "uds": "añadieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya añadido",
+      "tu": "hayas añadido",
+      "ud": "haya añadido",
+      "nosotros": "hayamos añadido",
+      "vosotros": "hayáis añadido",
+      "uds": "hayan añadido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere añadido",
+      "tu": "hubieres añadido",
+      "ud": "hubiere añadido",
+      "nosotros": "hubiéremos añadido",
+      "vosotros": "hubiereis añadido",
+      "uds": "hubieren añadido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera añadido",
+      "tu": "hubieras añadido",
+      "ud": "hubiera añadido",
+      "nosotros": "hubiéramos añadido",
+      "vosotros": "hubierais añadido",
+      "uds": "hubieran añadido"
+    },
+    "imperfectoAlt": {
+      "yo": "añadiese",
+      "tu": "añadieses",
+      "ud": "añadiese",
+      "nosotros": "añadiésemos",
+      "vosotros": "añadieseis",
+      "uds": "añadiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese añadido",
+      "tu": "hubieses añadido",
+      "ud": "hubiese añadido",
+      "nosotros": "hubiésemos añadido",
+      "vosotros": "hubieseis añadido",
+      "uds": "hubiesen añadido"
+    }
+  },
+  "afirmativo": {
+    "tu": "añade",
+    "vosotros": "añadid",
+    "ud": "añada",
+    "uds": "añadan"
+  },
+  "negativo": {
+    "tu": "no añadas",
+    "vosotros": "no añadáis",
+    "ud": "no añada",
+    "uds": "no añadan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to add; to increase",
+    "gerundio": "adding",
+    "participioPasado": "added",
+    "indicativo": {
+      "presente": "I add, am adding",
+      "futuro": "I will add",
+      "imperfecto": "I was adding, used to add, added",
+      "preterito": "I added",
+      "condicional": "I would add",
+      "presentePerfecto": "I have added",
+      "futuroPerfecto": "I will have added",
+      "pluscuamperfecto": "I had added",
+      "preteritoAnterior": "I had added",
+      "condicionalPerfecto": "I would have added"
+    },
+    "subjuntivo": {
+      "presente": "I add, am adding",
+      "imperfecto": "I added, was adding",
+      "futuro": "I will add",
+      "presentePerfecto": "I have added, added",
+      "futuroPerfecto": "I will have added",
+      "pluscuamperfecto": "I had added"
+    },
+    "afirmativo": "Add!",
+    "negativo": "Don't add!"
+  },
+  "attribution": "Fred Jehle"
+}

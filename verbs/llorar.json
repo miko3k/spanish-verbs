@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "llorar",
+  "gerundio": "llorando",
+  "participioPasado": "llorado",
+  "indicativo": {
+    "presente": {
+      "yo": "lloro",
+      "tu": "lloras",
+      "ud": "llora",
+      "nosotros": "lloramos",
+      "vosotros": "lloráis",
+      "uds": "lloran"
+    },
+    "futuro": {
+      "yo": "lloraré",
+      "tu": "llorarás",
+      "ud": "llorará",
+      "nosotros": "lloraremos",
+      "vosotros": "lloraréis",
+      "uds": "llorarán"
+    },
+    "imperfecto": {
+      "yo": "lloraba",
+      "tu": "llorabas",
+      "ud": "lloraba",
+      "nosotros": "llorábamos",
+      "vosotros": "llorabais",
+      "uds": "lloraban"
+    },
+    "preterito": {
+      "yo": "lloré",
+      "tu": "lloraste",
+      "ud": "lloró",
+      "nosotros": "lloramos",
+      "vosotros": "llorasteis",
+      "uds": "lloraron"
+    },
+    "condicional": {
+      "yo": "lloraría",
+      "tu": "llorarías",
+      "ud": "lloraría",
+      "nosotros": "lloraríamos",
+      "vosotros": "lloraríais",
+      "uds": "llorarían"
+    },
+    "presentePerfecto": {
+      "yo": "he llorado",
+      "tu": "has llorado",
+      "ud": "ha llorado",
+      "nosotros": "hemos llorado",
+      "vosotros": "habéis llorado",
+      "uds": "han llorado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré llorado",
+      "tu": "habrás llorado",
+      "ud": "habrá llorado",
+      "nosotros": "habremos llorado",
+      "vosotros": "habréis llorado",
+      "uds": "habrán llorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había llorado",
+      "tu": "habías llorado",
+      "ud": "había llorado",
+      "nosotros": "habíamos llorado",
+      "vosotros": "habíais llorado",
+      "uds": "habían llorado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube llorado",
+      "tu": "hubiste llorado",
+      "ud": "hubo llorado",
+      "nosotros": "hubimos llorado",
+      "vosotros": "hubisteis llorado",
+      "uds": "hubieron llorado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría llorado",
+      "tu": "habrías llorado",
+      "ud": "habría llorado",
+      "nosotros": "habríamos llorado",
+      "vosotros": "habríais llorado",
+      "uds": "habrían llorado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "llore",
+      "tu": "llores",
+      "ud": "llore",
+      "nosotros": "lloremos",
+      "vosotros": "lloréis",
+      "uds": "lloren"
+    },
+    "imperfecto": {
+      "yo": "llorara",
+      "tu": "lloraras",
+      "ud": "llorara",
+      "nosotros": "lloráramos",
+      "vosotros": "llorarais",
+      "uds": "lloraran"
+    },
+    "futuro": {
+      "yo": "llorare",
+      "tu": "llorares",
+      "ud": "llorare",
+      "nosotros": "lloráremos",
+      "vosotros": "llorareis",
+      "uds": "lloraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya llorado",
+      "tu": "hayas llorado",
+      "ud": "haya llorado",
+      "nosotros": "hayamos llorado",
+      "vosotros": "hayáis llorado",
+      "uds": "hayan llorado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere llorado",
+      "tu": "hubieres llorado",
+      "ud": "hubiere llorado",
+      "nosotros": "hubiéremos llorado",
+      "vosotros": "hubiereis llorado",
+      "uds": "hubieren llorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera llorado",
+      "tu": "hubieras llorado",
+      "ud": "hubiera llorado",
+      "nosotros": "hubiéramos llorado",
+      "vosotros": "hubierais llorado",
+      "uds": "hubieran llorado"
+    },
+    "imperfectoAlt": {
+      "yo": "llorase",
+      "tu": "llorases",
+      "ud": "llorase",
+      "nosotros": "llorásemos",
+      "vosotros": "lloraseis",
+      "uds": "llorasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese llorado",
+      "tu": "hubieses llorado",
+      "ud": "hubiese llorado",
+      "nosotros": "hubiésemos llorado",
+      "vosotros": "hubieseis llorado",
+      "uds": "hubiesen llorado"
+    }
+  },
+  "afirmativo": {
+    "tu": "llora",
+    "vosotros": "llorad",
+    "ud": "llore",
+    "uds": "lloren"
+  },
+  "negativo": {
+    "tu": "no llores",
+    "vosotros": "no lloréis",
+    "ud": "no llore",
+    "uds": "no lloren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to cry, weep; to weep for/about, cry about, lament",
+    "gerundio": "crying",
+    "participioPasado": "cried",
+    "indicativo": {
+      "presente": "I cry, am crying",
+      "futuro": "I will cry",
+      "imperfecto": "I was crying, used to cry, cried",
+      "preterito": "I cried",
+      "condicional": "I would cry",
+      "presentePerfecto": "I have cried",
+      "futuroPerfecto": "I will have cried",
+      "pluscuamperfecto": "I had cried",
+      "preteritoAnterior": "I had cried",
+      "condicionalPerfecto": "I would have cried"
+    },
+    "subjuntivo": {
+      "presente": "I cry, am crying",
+      "imperfecto": "I cried, was crying",
+      "futuro": "I will cry",
+      "presentePerfecto": "I have cried, cried",
+      "futuroPerfecto": "I will have cried",
+      "pluscuamperfecto": "I had cried"
+    },
+    "afirmativo": "Cry!",
+    "negativo": "Don't cry!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "crear",
+  "gerundio": "creando",
+  "participioPasado": "creado",
+  "indicativo": {
+    "presente": {
+      "yo": "creo",
+      "tu": "creas",
+      "ud": "crea",
+      "nosotros": "creamos",
+      "vosotros": "creáis",
+      "uds": "crean"
+    },
+    "futuro": {
+      "yo": "crearé",
+      "tu": "crearás",
+      "ud": "creará",
+      "nosotros": "crearemos",
+      "vosotros": "crearéis",
+      "uds": "crearán"
+    },
+    "imperfecto": {
+      "yo": "creaba",
+      "tu": "creabas",
+      "ud": "creaba",
+      "nosotros": "creábamos",
+      "vosotros": "creabais",
+      "uds": "creaban"
+    },
+    "preterito": {
+      "yo": "creé",
+      "tu": "creaste",
+      "ud": "creó",
+      "nosotros": "creamos",
+      "vosotros": "creasteis",
+      "uds": "crearon"
+    },
+    "condicional": {
+      "yo": "crearía",
+      "tu": "crearías",
+      "ud": "crearía",
+      "nosotros": "crearíamos",
+      "vosotros": "crearíais",
+      "uds": "crearían"
+    },
+    "presentePerfecto": {
+      "yo": "he creado",
+      "tu": "has creado",
+      "ud": "ha creado",
+      "nosotros": "hemos creado",
+      "vosotros": "habéis creado",
+      "uds": "han creado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré creado",
+      "tu": "habrás creado",
+      "ud": "habrá creado",
+      "nosotros": "habremos creado",
+      "vosotros": "habréis creado",
+      "uds": "habrán creado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había creado",
+      "tu": "habías creado",
+      "ud": "había creado",
+      "nosotros": "habíamos creado",
+      "vosotros": "habíais creado",
+      "uds": "habían creado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube creado",
+      "tu": "hubiste creado",
+      "ud": "hubo creado",
+      "nosotros": "hubimos creado",
+      "vosotros": "hubisteis creado",
+      "uds": "hubieron creado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría creado",
+      "tu": "habrías creado",
+      "ud": "habría creado",
+      "nosotros": "habríamos creado",
+      "vosotros": "habríais creado",
+      "uds": "habrían creado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cree",
+      "tu": "crees",
+      "ud": "cree",
+      "nosotros": "creemos",
+      "vosotros": "creéis",
+      "uds": "creen"
+    },
+    "imperfecto": {
+      "yo": "creara",
+      "tu": "crearas",
+      "ud": "creara",
+      "nosotros": "creáramos",
+      "vosotros": "crearais",
+      "uds": "crearan"
+    },
+    "futuro": {
+      "yo": "creare",
+      "tu": "creares",
+      "ud": "creare",
+      "nosotros": "creáremos",
+      "vosotros": "creareis",
+      "uds": "crearen"
+    },
+    "presentePerfecto": {
+      "yo": "haya creado",
+      "tu": "hayas creado",
+      "ud": "haya creado",
+      "nosotros": "hayamos creado",
+      "vosotros": "hayáis creado",
+      "uds": "hayan creado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere creado",
+      "tu": "hubieres creado",
+      "ud": "hubiere creado",
+      "nosotros": "hubiéremos creado",
+      "vosotros": "hubiereis creado",
+      "uds": "hubieren creado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera creado",
+      "tu": "hubieras creado",
+      "ud": "hubiera creado",
+      "nosotros": "hubiéramos creado",
+      "vosotros": "hubierais creado",
+      "uds": "hubieran creado"
+    },
+    "imperfectoAlt": {
+      "yo": "crease",
+      "tu": "creases",
+      "ud": "crease",
+      "nosotros": "creásemos",
+      "vosotros": "creaseis",
+      "uds": "creasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese creado",
+      "tu": "hubieses creado",
+      "ud": "hubiese creado",
+      "nosotros": "hubiésemos creado",
+      "vosotros": "hubieseis creado",
+      "uds": "hubiesen creado"
+    }
+  },
+  "afirmativo": {
+    "tu": "crea",
+    "vosotros": "cread",
+    "ud": "cree",
+    "uds": "creen"
+  },
+  "negativo": {
+    "tu": "no crees",
+    "vosotros": "no creéis",
+    "ud": "no cree",
+    "uds": "no creen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to create; to make",
+    "gerundio": "creating",
+    "participioPasado": "created",
+    "indicativo": {
+      "presente": "I create, am creating",
+      "futuro": "I will create",
+      "imperfecto": "I was creating, used to create, created",
+      "preterito": "I created",
+      "condicional": "I would create",
+      "presentePerfecto": "I have created",
+      "futuroPerfecto": "I will have created",
+      "pluscuamperfecto": "I had created",
+      "preteritoAnterior": "I had created",
+      "condicionalPerfecto": "I would have created"
+    },
+    "subjuntivo": {
+      "presente": "I create, am creating",
+      "imperfecto": "I created, was creating",
+      "futuro": "I will create",
+      "presentePerfecto": "I have created, created",
+      "futuroPerfecto": "I will have created",
+      "pluscuamperfecto": "I had created"
+    },
+    "afirmativo": "Create!",
+    "negativo": "Don't create!"
+  },
+  "attribution": "Fred Jehle"
+}

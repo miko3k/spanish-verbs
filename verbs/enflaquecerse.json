@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "enflaquecerse",
+  "gerundio": "enflaqueciéndose",
+  "participioPasado": "enflaquecido",
+  "indicativo": {
+    "presente": {
+      "yo": "me enflaquezco",
+      "tu": "te enflaqueces",
+      "ud": "se enflaquece",
+      "nosotros": "nos enflaquecemos",
+      "vosotros": "os enflaquecéis",
+      "uds": "se enflaquecen"
+    },
+    "futuro": {
+      "yo": "me enflaqueceré",
+      "tu": "te enflaquecerás",
+      "ud": "se enflaquecerá",
+      "nosotros": "nos enflaqueceremos",
+      "vosotros": "os enflaqueceréis",
+      "uds": "se enflaquecerán"
+    },
+    "imperfecto": {
+      "yo": "me enflaquecía",
+      "tu": "te enflaquecías",
+      "ud": "se enflaquecía",
+      "nosotros": "nos enflaquecíamos",
+      "vosotros": "os enflaquecíais",
+      "uds": "se enflaquecían"
+    },
+    "preterito": {
+      "yo": "me enflaquecí",
+      "tu": "te enflaqueciste",
+      "ud": "se enflaqueció",
+      "nosotros": "nos enflaquecimos",
+      "vosotros": "os enflaquecisteis",
+      "uds": "se enflaquecieron"
+    },
+    "condicional": {
+      "yo": "me enflaquecería",
+      "tu": "te enflaquecerías",
+      "ud": "se enflaquecería",
+      "nosotros": "nos enflaqueceríamos",
+      "vosotros": "os enflaqueceríais",
+      "uds": "se enflaquecerían"
+    },
+    "presentePerfecto": {
+      "yo": "me he enflaquecido",
+      "tu": "te has enflaquecido",
+      "ud": "se ha enflaquecido",
+      "nosotros": "nos hemos enflaquecido",
+      "vosotros": "os habéis enflaquecido",
+      "uds": "se han enflaquecido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré enflaquecido",
+      "tu": "te habrás enflaquecido",
+      "ud": "se habrá enflaquecido",
+      "nosotros": "nos habremos enflaquecido",
+      "vosotros": "os habréis enflaquecido",
+      "uds": "se habrán enflaquecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había enflaquecido",
+      "tu": "te habías enflaquecido",
+      "ud": "se había enflaquecido",
+      "nosotros": "nos habíamos enflaquecido",
+      "vosotros": "os habíais enflaquecido",
+      "uds": "se habían enflaquecido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube enflaquecido",
+      "tu": "te hubiste enflaquecido",
+      "ud": "se hubo enflaquecido",
+      "nosotros": "nos hubimos enflaquecido",
+      "vosotros": "os hubisteis enflaquecido",
+      "uds": "se hubieron enflaquecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría enflaquecido",
+      "tu": "te habrías enflaquecido",
+      "ud": "se habría enflaquecido",
+      "nosotros": "nos habríamos enflaquecido",
+      "vosotros": "os habríais enflaquecido",
+      "uds": "se habrían enflaquecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me enflaquezca",
+      "tu": "te enflaquezcas",
+      "ud": "se enflaquezca",
+      "nosotros": "nos enflaquezcamos",
+      "vosotros": "os enflaquezcáis",
+      "uds": "se enflaquezcan"
+    },
+    "imperfecto": {
+      "yo": "me enflaqueciera",
+      "tu": "te enflaquecieras",
+      "ud": "se enflaqueciera",
+      "nosotros": "nos enflaqueciéramos",
+      "vosotros": "os enflaquecierais",
+      "uds": "se enflaquecieran"
+    },
+    "futuro": {
+      "yo": "me enflaqueciere",
+      "tu": "te enflaquecieres",
+      "ud": "se enflaqueciere",
+      "nosotros": "nos enflaqueciéremos",
+      "vosotros": "os enflaqueciereis",
+      "uds": "se enflaquecieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya enflaquecido",
+      "tu": "te hayas enflaquecido",
+      "ud": "se haya enflaquecido",
+      "nosotros": "nos hayamos enflaquecido",
+      "vosotros": "os hayáis enflaquecido",
+      "uds": "se hayan enflaquecido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere enflaquecido",
+      "tu": "te hubieres enflaquecido",
+      "ud": "se hubiere enflaquecido",
+      "nosotros": "nos hubiéremos enflaquecido",
+      "vosotros": "os hubiereis enflaquecido",
+      "uds": "se hubieren enflaquecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera enflaquecido",
+      "tu": "te hubieras enflaquecido",
+      "ud": "se hubiera enflaquecido",
+      "nosotros": "nos hubiéramos enflaquecido",
+      "vosotros": "os hubierais enflaquecido",
+      "uds": "se hubieran enflaquecido"
+    },
+    "imperfectoAlt": {
+      "yo": "me enflaqueciese",
+      "tu": "te enflaquecieses",
+      "ud": "se enflaqueciese",
+      "nosotros": "nos enflaqueciésemos",
+      "vosotros": "os enflaquecieseis",
+      "uds": "se enflaqueciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese enflaquecido",
+      "tu": "te hubieses enflaquecido",
+      "ud": "se hubiese enflaquecido",
+      "nosotros": "nos hubiésemos enflaquecido",
+      "vosotros": "os hubieseis enflaquecido",
+      "uds": "se hubiesen enflaquecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "enflaquécete",
+    "vosotros": "enflaqueceos",
+    "ud": "enflaquézcase",
+    "uds": "enflaquézcanse"
+  },
+  "negativo": {
+    "tu": "no te enflaquezcas",
+    "vosotros": "no os enflaquezcáis",
+    "ud": "no se enflaquezca",
+    "uds": "no se enflaquezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: enflaquezco, enflaquezca, enflaquezcas, etc. Note: Use the nonreflexive form of this verb, enflaquecer, for to make (someone else) thin/weak, etc.",
+    "infinitivo": "to get thin; lose weight; to grow weak",
+    "gerundio": "getting thin",
+    "participioPasado": "thin, gotten thin",
+    "indicativo": {
+      "presente": "I get thin, am getting thin",
+      "futuro": "I will get thin",
+      "imperfecto": "I was getting thin, used to get thin, got thin",
+      "preterito": "I got thin",
+      "condicional": "I would get thin",
+      "presentePerfecto": "I have gotten thin",
+      "futuroPerfecto": "I will have gotten thin",
+      "pluscuamperfecto": "I had gotten thin",
+      "preteritoAnterior": "I had gotten thin",
+      "condicionalPerfecto": "I would have gotten thin"
+    },
+    "subjuntivo": {
+      "presente": "I get thin, am getting thin",
+      "imperfecto": "I got thin, was getting thin",
+      "futuro": "I will get thin",
+      "presentePerfecto": "I have gotten thin, gotten thin",
+      "futuroPerfecto": "I will have gotten thin",
+      "pluscuamperfecto": "I had gotten thin"
+    },
+    "afirmativo": "Get thin!",
+    "negativo": "Don't get thin!"
+  },
+  "attribution": "Fred Jehle"
+}

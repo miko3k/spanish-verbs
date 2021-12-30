@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "tirar",
+  "gerundio": "tirando",
+  "participioPasado": "tirado",
+  "indicativo": {
+    "presente": {
+      "yo": "tiro",
+      "tu": "tiras",
+      "ud": "tira",
+      "nosotros": "tiramos",
+      "vosotros": "tiráis",
+      "uds": "tiran"
+    },
+    "futuro": {
+      "yo": "tiraré",
+      "tu": "tirarás",
+      "ud": "tirará",
+      "nosotros": "tiraremos",
+      "vosotros": "tiraréis",
+      "uds": "tirarán"
+    },
+    "imperfecto": {
+      "yo": "tiraba",
+      "tu": "tirabas",
+      "ud": "tiraba",
+      "nosotros": "tirábamos",
+      "vosotros": "tirabais",
+      "uds": "tiraban"
+    },
+    "preterito": {
+      "yo": "tiré",
+      "tu": "tiraste",
+      "ud": "tiró",
+      "nosotros": "tiramos",
+      "vosotros": "tirasteis",
+      "uds": "tiraron"
+    },
+    "condicional": {
+      "yo": "tiraría",
+      "tu": "tirarías",
+      "ud": "tiraría",
+      "nosotros": "tiraríamos",
+      "vosotros": "tiraríais",
+      "uds": "tirarían"
+    },
+    "presentePerfecto": {
+      "yo": "he tirado",
+      "tu": "has tirado",
+      "ud": "ha tirado",
+      "nosotros": "hemos tirado",
+      "vosotros": "habéis tirado",
+      "uds": "han tirado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré tirado",
+      "tu": "habrás tirado",
+      "ud": "habrá tirado",
+      "nosotros": "habremos tirado",
+      "vosotros": "habréis tirado",
+      "uds": "habrán tirado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había tirado",
+      "tu": "habías tirado",
+      "ud": "había tirado",
+      "nosotros": "habíamos tirado",
+      "vosotros": "habíais tirado",
+      "uds": "habían tirado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube tirado",
+      "tu": "hubiste tirado",
+      "ud": "hubo tirado",
+      "nosotros": "hubimos tirado",
+      "vosotros": "hubisteis tirado",
+      "uds": "hubieron tirado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría tirado",
+      "tu": "habrías tirado",
+      "ud": "habría tirado",
+      "nosotros": "habríamos tirado",
+      "vosotros": "habríais tirado",
+      "uds": "habrían tirado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "tire",
+      "tu": "tires",
+      "ud": "tire",
+      "nosotros": "tiremos",
+      "vosotros": "tiréis",
+      "uds": "tiren"
+    },
+    "imperfecto": {
+      "yo": "tirara",
+      "tu": "tiraras",
+      "ud": "tirara",
+      "nosotros": "tiráramos",
+      "vosotros": "tirarais",
+      "uds": "tiraran"
+    },
+    "futuro": {
+      "yo": "tirare",
+      "tu": "tirares",
+      "ud": "tirare",
+      "nosotros": "tiráremos",
+      "vosotros": "tirareis",
+      "uds": "tiraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya tirado",
+      "tu": "hayas tirado",
+      "ud": "haya tirado",
+      "nosotros": "hayamos tirado",
+      "vosotros": "hayáis tirado",
+      "uds": "hayan tirado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere tirado",
+      "tu": "hubieres tirado",
+      "ud": "hubiere tirado",
+      "nosotros": "hubiéremos tirado",
+      "vosotros": "hubiereis tirado",
+      "uds": "hubieren tirado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera tirado",
+      "tu": "hubieras tirado",
+      "ud": "hubiera tirado",
+      "nosotros": "hubiéramos tirado",
+      "vosotros": "hubierais tirado",
+      "uds": "hubieran tirado"
+    },
+    "imperfectoAlt": {
+      "yo": "tirase",
+      "tu": "tirases",
+      "ud": "tirase",
+      "nosotros": "tirásemos",
+      "vosotros": "tiraseis",
+      "uds": "tirasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese tirado",
+      "tu": "hubieses tirado",
+      "ud": "hubiese tirado",
+      "nosotros": "hubiésemos tirado",
+      "vosotros": "hubieseis tirado",
+      "uds": "hubiesen tirado"
+    }
+  },
+  "afirmativo": {
+    "tu": "tira",
+    "vosotros": "tirad",
+    "ud": "tire",
+    "uds": "tiren"
+  },
+  "negativo": {
+    "tu": "no tires",
+    "vosotros": "no tiréis",
+    "ud": "no tire",
+    "uds": "no tiren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to throw, hurl; to shoot, fire; to throw away; to pull (out)",
+    "gerundio": "throwing",
+    "participioPasado": "thrown",
+    "indicativo": {
+      "presente": "I throw, am throwing",
+      "futuro": "I will throw",
+      "imperfecto": "I was throwing, used to throw, threw",
+      "preterito": "I threw",
+      "condicional": "I would throw",
+      "presentePerfecto": "I have thrown",
+      "futuroPerfecto": "I will have thrown",
+      "pluscuamperfecto": "I had thrown",
+      "preteritoAnterior": "I had thrown",
+      "condicionalPerfecto": "I would have thrown"
+    },
+    "subjuntivo": {
+      "presente": "I throw, am throwing",
+      "imperfecto": "I threw, was throwing",
+      "futuro": "I will throw",
+      "presentePerfecto": "I have thrown, threw",
+      "futuroPerfecto": "I will have thrown",
+      "pluscuamperfecto": "I had thrown"
+    },
+    "afirmativo": "Throw!",
+    "negativo": "Don't throw!"
+  },
+  "attribution": "Fred Jehle"
+}

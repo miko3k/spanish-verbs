@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "investigar",
+  "gerundio": "investigando",
+  "participioPasado": "investigado",
+  "indicativo": {
+    "presente": {
+      "yo": "investigo",
+      "tu": "investigas",
+      "ud": "investiga",
+      "nosotros": "investigamos",
+      "vosotros": "investigáis",
+      "uds": "investigan"
+    },
+    "futuro": {
+      "yo": "investigaré",
+      "tu": "investigarás",
+      "ud": "investigará",
+      "nosotros": "investigaremos",
+      "vosotros": "investigaréis",
+      "uds": "investigarán"
+    },
+    "imperfecto": {
+      "yo": "investigaba",
+      "tu": "investigabas",
+      "ud": "investigaba",
+      "nosotros": "investigábamos",
+      "vosotros": "investigabais",
+      "uds": "investigaban"
+    },
+    "preterito": {
+      "yo": "investigué",
+      "tu": "investigaste",
+      "ud": "investigó",
+      "nosotros": "investigamos",
+      "vosotros": "investigasteis",
+      "uds": "investigaron"
+    },
+    "condicional": {
+      "yo": "investigaría",
+      "tu": "investigarías",
+      "ud": "investigaría",
+      "nosotros": "investigaríamos",
+      "vosotros": "investigaríais",
+      "uds": "investigarían"
+    },
+    "presentePerfecto": {
+      "yo": "he investigado",
+      "tu": "has investigado",
+      "ud": "ha investigado",
+      "nosotros": "hemos investigado",
+      "vosotros": "habéis investigado",
+      "uds": "han investigado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré investigado",
+      "tu": "habrás investigado",
+      "ud": "habrá investigado",
+      "nosotros": "habremos investigado",
+      "vosotros": "habréis investigado",
+      "uds": "habrán investigado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había investigado",
+      "tu": "habías investigado",
+      "ud": "había investigado",
+      "nosotros": "habíamos investigado",
+      "vosotros": "habíais investigado",
+      "uds": "habían investigado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube investigado",
+      "tu": "hubiste investigado",
+      "ud": "hubo investigado",
+      "nosotros": "hubimos investigado",
+      "vosotros": "hubisteis investigado",
+      "uds": "hubieron investigado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría investigado",
+      "tu": "habrías investigado",
+      "ud": "habría investigado",
+      "nosotros": "habríamos investigado",
+      "vosotros": "habríais investigado",
+      "uds": "habrían investigado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "investigue",
+      "tu": "investigues",
+      "ud": "investigue",
+      "nosotros": "investiguemos",
+      "vosotros": "investiguéis",
+      "uds": "investiguen"
+    },
+    "imperfecto": {
+      "yo": "investigara",
+      "tu": "investigaras",
+      "ud": "investigara",
+      "nosotros": "investigáramos",
+      "vosotros": "investigarais",
+      "uds": "investigaran"
+    },
+    "futuro": {
+      "yo": "investigare",
+      "tu": "investigares",
+      "ud": "investigare",
+      "nosotros": "investigáremos",
+      "vosotros": "investigareis",
+      "uds": "investigaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya investigado",
+      "tu": "hayas investigado",
+      "ud": "haya investigado",
+      "nosotros": "hayamos investigado",
+      "vosotros": "hayáis investigado",
+      "uds": "hayan investigado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere investigado",
+      "tu": "hubieres investigado",
+      "ud": "hubiere investigado",
+      "nosotros": "hubiéremos investigado",
+      "vosotros": "hubiereis investigado",
+      "uds": "hubieren investigado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera investigado",
+      "tu": "hubieras investigado",
+      "ud": "hubiera investigado",
+      "nosotros": "hubiéramos investigado",
+      "vosotros": "hubierais investigado",
+      "uds": "hubieran investigado"
+    },
+    "imperfectoAlt": {
+      "yo": "investigase",
+      "tu": "investigases",
+      "ud": "investigase",
+      "nosotros": "investigásemos",
+      "vosotros": "investigaseis",
+      "uds": "investigasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese investigado",
+      "tu": "hubieses investigado",
+      "ud": "hubiese investigado",
+      "nosotros": "hubiésemos investigado",
+      "vosotros": "hubieseis investigado",
+      "uds": "hubiesen investigado"
+    }
+  },
+  "afirmativo": {
+    "tu": "investiga",
+    "vosotros": "investigad",
+    "ud": "investigue",
+    "uds": "investiguen"
+  },
+  "negativo": {
+    "tu": "no investigues",
+    "vosotros": "no investiguéis",
+    "ud": "no investigue",
+    "uds": "no investiguen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to investigate",
+    "gerundio": "investigating",
+    "participioPasado": "investigated",
+    "indicativo": {
+      "presente": "I investigate, am investigating",
+      "futuro": "I will investigate",
+      "imperfecto": "I was investigating, used to investigate, investigated",
+      "preterito": "I investigated",
+      "condicional": "I would investigate",
+      "presentePerfecto": "I have investigated",
+      "futuroPerfecto": "I will have investigated",
+      "pluscuamperfecto": "I had investigated",
+      "preteritoAnterior": "I had investigated",
+      "condicionalPerfecto": "I would have investigated"
+    },
+    "subjuntivo": {
+      "presente": "I investigate, am investigating",
+      "imperfecto": "I investigated, was investigating",
+      "futuro": "I will investigate",
+      "presentePerfecto": "I have investigated, investigated",
+      "futuroPerfecto": "I will have investigated",
+      "pluscuamperfecto": "I had investigated"
+    },
+    "afirmativo": "Investigate!",
+    "negativo": "Don't investigate!"
+  },
+  "attribution": "Fred Jehle"
+}

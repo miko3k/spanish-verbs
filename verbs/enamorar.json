@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "enamorar",
+  "gerundio": "enamorando",
+  "participioPasado": "enamorado",
+  "indicativo": {
+    "presente": {
+      "yo": "enamoro",
+      "tu": "enamoras",
+      "ud": "enamora",
+      "nosotros": "enamoramos",
+      "vosotros": "enamoráis",
+      "uds": "enamoran"
+    },
+    "futuro": {
+      "yo": "enamoraré",
+      "tu": "enamorarás",
+      "ud": "enamorará",
+      "nosotros": "enamoraremos",
+      "vosotros": "enamoraréis",
+      "uds": "enamorarán"
+    },
+    "imperfecto": {
+      "yo": "enamoraba",
+      "tu": "enamorabas",
+      "ud": "enamoraba",
+      "nosotros": "enamorábamos",
+      "vosotros": "enamorabais",
+      "uds": "enamoraban"
+    },
+    "preterito": {
+      "yo": "enamoré",
+      "tu": "enamoraste",
+      "ud": "enamoró",
+      "nosotros": "enamoramos",
+      "vosotros": "enamorasteis",
+      "uds": "enamoraron"
+    },
+    "condicional": {
+      "yo": "enamoraría",
+      "tu": "enamorarías",
+      "ud": "enamoraría",
+      "nosotros": "enamoraríamos",
+      "vosotros": "enamoraríais",
+      "uds": "enamorarían"
+    },
+    "presentePerfecto": {
+      "yo": "he enamorado",
+      "tu": "has enamorado",
+      "ud": "ha enamorado",
+      "nosotros": "hemos enamorado",
+      "vosotros": "habéis enamorado",
+      "uds": "han enamorado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré enamorado",
+      "tu": "habrás enamorado",
+      "ud": "habrá enamorado",
+      "nosotros": "habremos enamorado",
+      "vosotros": "habréis enamorado",
+      "uds": "habrán enamorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había enamorado",
+      "tu": "habías enamorado",
+      "ud": "había enamorado",
+      "nosotros": "habíamos enamorado",
+      "vosotros": "habíais enamorado",
+      "uds": "habían enamorado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube enamorado",
+      "tu": "hubiste enamorado",
+      "ud": "hubo enamorado",
+      "nosotros": "hubimos enamorado",
+      "vosotros": "hubisteis enamorado",
+      "uds": "hubieron enamorado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría enamorado",
+      "tu": "habrías enamorado",
+      "ud": "habría enamorado",
+      "nosotros": "habríamos enamorado",
+      "vosotros": "habríais enamorado",
+      "uds": "habrían enamorado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "enamore",
+      "tu": "enamores",
+      "ud": "enamore",
+      "nosotros": "enamoremos",
+      "vosotros": "enamoréis",
+      "uds": "enamoren"
+    },
+    "imperfecto": {
+      "yo": "enamorara",
+      "tu": "enamoraras",
+      "ud": "enamorara",
+      "nosotros": "enamoráramos",
+      "vosotros": "enamorarais",
+      "uds": "enamoraran"
+    },
+    "futuro": {
+      "yo": "enamorare",
+      "tu": "enamorares",
+      "ud": "enamorare",
+      "nosotros": "enamoráremos",
+      "vosotros": "enamorareis",
+      "uds": "enamoraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya enamorado",
+      "tu": "hayas enamorado",
+      "ud": "haya enamorado",
+      "nosotros": "hayamos enamorado",
+      "vosotros": "hayáis enamorado",
+      "uds": "hayan enamorado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere enamorado",
+      "tu": "hubieres enamorado",
+      "ud": "hubiere enamorado",
+      "nosotros": "hubiéremos enamorado",
+      "vosotros": "hubiereis enamorado",
+      "uds": "hubieren enamorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera enamorado",
+      "tu": "hubieras enamorado",
+      "ud": "hubiera enamorado",
+      "nosotros": "hubiéramos enamorado",
+      "vosotros": "hubierais enamorado",
+      "uds": "hubieran enamorado"
+    },
+    "imperfectoAlt": {
+      "yo": "enamorase",
+      "tu": "enamorases",
+      "ud": "enamorase",
+      "nosotros": "enamorásemos",
+      "vosotros": "enamoraseis",
+      "uds": "enamorasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese enamorado",
+      "tu": "hubieses enamorado",
+      "ud": "hubiese enamorado",
+      "nosotros": "hubiésemos enamorado",
+      "vosotros": "hubieseis enamorado",
+      "uds": "hubiesen enamorado"
+    }
+  },
+  "afirmativo": {
+    "tu": "enamora",
+    "vosotros": "enamorad",
+    "ud": "enamore",
+    "uds": "enamoren"
+  },
+  "negativo": {
+    "tu": "no enamores",
+    "vosotros": "no enamoréis",
+    "ud": "no enamore",
+    "uds": "no enamoren"
+  },
+  "english": {
+    "note": "The reflexive form enamorarse (de) is used as to fall in love (with).",
+    "infinitivo": "to inspire love in, win the love of",
+    "gerundio": "inspiring love in",
+    "participioPasado": "inspired love in",
+    "indicativo": {
+      "presente": "I inspire love in, am inspiring love in",
+      "futuro": "I will inspire love in",
+      "imperfecto": "I was inspiring love in, used to inspire love in, inspired love in",
+      "preterito": "I inspired love in",
+      "condicional": "I would inspire love in",
+      "presentePerfecto": "I have inspired love in",
+      "futuroPerfecto": "I will have inspired love in",
+      "pluscuamperfecto": "I had inspired love in",
+      "preteritoAnterior": "I had inspired love in",
+      "condicionalPerfecto": "I would have inspired love in"
+    },
+    "subjuntivo": {
+      "presente": "I inspire love in, am inspiring love in",
+      "imperfecto": "I inspired love in, was inspiring love in",
+      "futuro": "I will inspire love in",
+      "presentePerfecto": "I have inspired love in, inspired love in",
+      "futuroPerfecto": "I will have inspired love in",
+      "pluscuamperfecto": "I had inspired love in"
+    },
+    "afirmativo": "Inspire love in!",
+    "negativo": "Don't inspire love in!"
+  },
+  "attribution": "Fred Jehle"
+}

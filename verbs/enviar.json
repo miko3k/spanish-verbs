@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "enviar",
+  "gerundio": "enviando",
+  "participioPasado": "enviado",
+  "indicativo": {
+    "presente": {
+      "yo": "envío",
+      "tu": "envías",
+      "ud": "envía",
+      "nosotros": "enviamos",
+      "vosotros": "enviáis",
+      "uds": "envían"
+    },
+    "futuro": {
+      "yo": "enviaré",
+      "tu": "enviarás",
+      "ud": "enviará",
+      "nosotros": "enviaremos",
+      "vosotros": "enviaréis",
+      "uds": "enviarán"
+    },
+    "imperfecto": {
+      "yo": "enviaba",
+      "tu": "enviabas",
+      "ud": "enviaba",
+      "nosotros": "enviábamos",
+      "vosotros": "enviabais",
+      "uds": "enviaban"
+    },
+    "preterito": {
+      "yo": "envié",
+      "tu": "enviaste",
+      "ud": "envió",
+      "nosotros": "enviamos",
+      "vosotros": "enviasteis",
+      "uds": "enviaron"
+    },
+    "condicional": {
+      "yo": "enviaría",
+      "tu": "enviarías",
+      "ud": "enviaría",
+      "nosotros": "enviaríamos",
+      "vosotros": "enviaríais",
+      "uds": "enviarían"
+    },
+    "presentePerfecto": {
+      "yo": "he enviado",
+      "tu": "has enviado",
+      "ud": "ha enviado",
+      "nosotros": "hemos enviado",
+      "vosotros": "habéis enviado",
+      "uds": "han enviado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré enviado",
+      "tu": "habrás enviado",
+      "ud": "habrá enviado",
+      "nosotros": "habremos enviado",
+      "vosotros": "habréis enviado",
+      "uds": "habrán enviado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había enviado",
+      "tu": "habías enviado",
+      "ud": "había enviado",
+      "nosotros": "habíamos enviado",
+      "vosotros": "habíais enviado",
+      "uds": "habían enviado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube enviado",
+      "tu": "hubiste enviado",
+      "ud": "hubo enviado",
+      "nosotros": "hubimos enviado",
+      "vosotros": "hubisteis enviado",
+      "uds": "hubieron enviado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría enviado",
+      "tu": "habrías enviado",
+      "ud": "habría enviado",
+      "nosotros": "habríamos enviado",
+      "vosotros": "habríais enviado",
+      "uds": "habrían enviado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "envíe",
+      "tu": "envíes",
+      "ud": "envíe",
+      "nosotros": "enviemos",
+      "vosotros": "enviéis",
+      "uds": "envíen"
+    },
+    "imperfecto": {
+      "yo": "enviara",
+      "tu": "enviaras",
+      "ud": "enviara",
+      "nosotros": "enviáramos",
+      "vosotros": "enviarais",
+      "uds": "enviaran"
+    },
+    "futuro": {
+      "yo": "enviare",
+      "tu": "enviares",
+      "ud": "enviare",
+      "nosotros": "enviáremos",
+      "vosotros": "enviareis",
+      "uds": "enviaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya enviado",
+      "tu": "hayas enviado",
+      "ud": "haya enviado",
+      "nosotros": "hayamos enviado",
+      "vosotros": "hayáis enviado",
+      "uds": "hayan enviado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere enviado",
+      "tu": "hubieres enviado",
+      "ud": "hubiere enviado",
+      "nosotros": "hubiéremos enviado",
+      "vosotros": "hubiereis enviado",
+      "uds": "hubieren enviado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera enviado",
+      "tu": "hubieras enviado",
+      "ud": "hubiera enviado",
+      "nosotros": "hubiéramos enviado",
+      "vosotros": "hubierais enviado",
+      "uds": "hubieran enviado"
+    },
+    "imperfectoAlt": {
+      "yo": "enviase",
+      "tu": "enviases",
+      "ud": "enviase",
+      "nosotros": "enviásemos",
+      "vosotros": "enviaseis",
+      "uds": "enviasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese enviado",
+      "tu": "hubieses enviado",
+      "ud": "hubiese enviado",
+      "nosotros": "hubiésemos enviado",
+      "vosotros": "hubieseis enviado",
+      "uds": "hubiesen enviado"
+    }
+  },
+  "afirmativo": {
+    "tu": "envía",
+    "vosotros": "enviad",
+    "ud": "envíe",
+    "uds": "envíen"
+  },
+  "negativo": {
+    "tu": "no envíes",
+    "vosotros": "no enviéis",
+    "ud": "no envíe",
+    "uds": "no envíen"
+  },
+  "english": {
+    "note": "Cambio: i > í cuando la radical tiene el acento tónico.",
+    "infinitivo": "to send",
+    "gerundio": "sending",
+    "participioPasado": "sent",
+    "indicativo": {
+      "presente": "I send, am sending",
+      "futuro": "I will send",
+      "imperfecto": "I was sending, used to send, sent",
+      "preterito": "I sent",
+      "condicional": "I would send",
+      "presentePerfecto": "I have sent",
+      "futuroPerfecto": "I will have sent",
+      "pluscuamperfecto": "I had sent",
+      "preteritoAnterior": "I had sent",
+      "condicionalPerfecto": "I would have sent"
+    },
+    "subjuntivo": {
+      "presente": "I send, am sending",
+      "imperfecto": "I sent, was sending",
+      "futuro": "I will send",
+      "presentePerfecto": "I have sent, sent",
+      "futuroPerfecto": "I will have sent",
+      "pluscuamperfecto": "I had sent"
+    },
+    "afirmativo": "Send!",
+    "negativo": "Don't send!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "preguntarse",
+  "gerundio": "preguntándose",
+  "participioPasado": "preguntado",
+  "indicativo": {
+    "presente": {
+      "yo": "me pregunto",
+      "tu": "te preguntas",
+      "ud": "se pregunta",
+      "nosotros": "nos preguntamos",
+      "vosotros": "os preguntáis",
+      "uds": "se preguntan"
+    },
+    "futuro": {
+      "yo": "me preguntaré",
+      "tu": "te preguntarás",
+      "ud": "se preguntará",
+      "nosotros": "nos preguntaremos",
+      "vosotros": "os preguntaréis",
+      "uds": "se preguntarán"
+    },
+    "imperfecto": {
+      "yo": "me preguntaba",
+      "tu": "te preguntabas",
+      "ud": "se preguntaba",
+      "nosotros": "nos preguntábamos",
+      "vosotros": "os preguntabais",
+      "uds": "se preguntaban"
+    },
+    "preterito": {
+      "yo": "me pregunté",
+      "tu": "te preguntaste",
+      "ud": "se preguntó",
+      "nosotros": "nos preguntamos",
+      "vosotros": "os preguntasteis",
+      "uds": "se preguntaron"
+    },
+    "condicional": {
+      "yo": "me preguntaría",
+      "tu": "te preguntarías",
+      "ud": "se preguntaría",
+      "nosotros": "nos preguntaríamos",
+      "vosotros": "os preguntaríais",
+      "uds": "se preguntarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he preguntado",
+      "tu": "te has preguntado",
+      "ud": "se ha preguntado",
+      "nosotros": "nos hemos preguntado",
+      "vosotros": "os habéis preguntado",
+      "uds": "se han preguntado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré preguntado",
+      "tu": "te habrás preguntado",
+      "ud": "se habrá preguntado",
+      "nosotros": "nos habremos preguntado",
+      "vosotros": "os habréis preguntado",
+      "uds": "se habrán preguntado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había preguntado",
+      "tu": "te habías preguntado",
+      "ud": "se había preguntado",
+      "nosotros": "nos habíamos preguntado",
+      "vosotros": "os habíais preguntado",
+      "uds": "se habían preguntado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube preguntado",
+      "tu": "te hubiste preguntado",
+      "ud": "se hubo preguntado",
+      "nosotros": "nos hubimos preguntado",
+      "vosotros": "os hubisteis preguntado",
+      "uds": "se hubieron preguntado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría preguntado",
+      "tu": "te habrías preguntado",
+      "ud": "se habría preguntado",
+      "nosotros": "nos habríamos preguntado",
+      "vosotros": "os habríais preguntado",
+      "uds": "se habrían preguntado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me pregunte",
+      "tu": "te preguntes",
+      "ud": "se pregunte",
+      "nosotros": "nos preguntemos",
+      "vosotros": "os preguntéis",
+      "uds": "se pregunten"
+    },
+    "imperfecto": {
+      "yo": "me preguntara",
+      "tu": "te preguntaras",
+      "ud": "se preguntara",
+      "nosotros": "nos preguntáramos",
+      "vosotros": "os preguntarais",
+      "uds": "se preguntaran"
+    },
+    "futuro": {
+      "yo": "me preguntare",
+      "tu": "te preguntares",
+      "ud": "se preguntare",
+      "nosotros": "nos preguntáremos",
+      "vosotros": "os preguntareis",
+      "uds": "se preguntaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya preguntado",
+      "tu": "te hayas preguntado",
+      "ud": "se haya preguntado",
+      "nosotros": "nos hayamos preguntado",
+      "vosotros": "os hayáis preguntado",
+      "uds": "se hayan preguntado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere preguntado",
+      "tu": "te hubieres preguntado",
+      "ud": "se hubiere preguntado",
+      "nosotros": "nos hubiéremos preguntado",
+      "vosotros": "os hubiereis preguntado",
+      "uds": "se hubieren preguntado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera preguntado",
+      "tu": "te hubieras preguntado",
+      "ud": "se hubiera preguntado",
+      "nosotros": "nos hubiéramos preguntado",
+      "vosotros": "os hubierais preguntado",
+      "uds": "se hubieran preguntado"
+    },
+    "imperfectoAlt": {
+      "yo": "me preguntase",
+      "tu": "te preguntases",
+      "ud": "se preguntase",
+      "nosotros": "nos preguntásemos",
+      "vosotros": "os preguntaseis",
+      "uds": "se preguntasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese preguntado",
+      "tu": "te hubieses preguntado",
+      "ud": "se hubiese preguntado",
+      "nosotros": "nos hubiésemos preguntado",
+      "vosotros": "os hubieseis preguntado",
+      "uds": "se hubiesen preguntado"
+    }
+  },
+  "afirmativo": {
+    "tu": "pregúntate",
+    "vosotros": "preguntaos",
+    "ud": "pregúntese",
+    "uds": "pregúntense"
+  },
+  "negativo": {
+    "tu": "no te preguntes",
+    "vosotros": "no os preguntéis",
+    "ud": "no se pregunte",
+    "uds": "no se pregunten"
+  },
+  "english": {
+    "note": "Note: For to ask, inquire someone else, use the nonreflexive form preguntar.",
+    "infinitivo": "to wonder, ask oneself",
+    "gerundio": "wondering",
+    "participioPasado": "wondered",
+    "indicativo": {
+      "presente": "I wonder, am wondering",
+      "futuro": "I will wonder",
+      "imperfecto": "I was wondering, used to wonder, wondered",
+      "preterito": "I wondered",
+      "condicional": "I would wonder",
+      "presentePerfecto": "I have wondered",
+      "futuroPerfecto": "I will have wondered",
+      "pluscuamperfecto": "I had wondered",
+      "preteritoAnterior": "I had wondered",
+      "condicionalPerfecto": "I would have wondered"
+    },
+    "subjuntivo": {
+      "presente": "I wonder, am wondering",
+      "imperfecto": "I wondered, was wondering",
+      "futuro": "I will wonder",
+      "presentePerfecto": "I have wondered, wondered",
+      "futuroPerfecto": "I will have wondered",
+      "pluscuamperfecto": "I had wondered"
+    },
+    "afirmativo": "Wonder!",
+    "negativo": "Don't wonder!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "morder",
+  "gerundio": "mordiendo",
+  "participioPasado": "mordido",
+  "indicativo": {
+    "presente": {
+      "yo": "muerdo",
+      "tu": "muerdes",
+      "ud": "muerde",
+      "nosotros": "mordemos",
+      "vosotros": "mordéis",
+      "uds": "muerden"
+    },
+    "futuro": {
+      "yo": "morderé",
+      "tu": "morderás",
+      "ud": "morderá",
+      "nosotros": "morderemos",
+      "vosotros": "morderéis",
+      "uds": "morderán"
+    },
+    "imperfecto": {
+      "yo": "mordía",
+      "tu": "mordías",
+      "ud": "mordía",
+      "nosotros": "mordíamos",
+      "vosotros": "mordíais",
+      "uds": "mordían"
+    },
+    "preterito": {
+      "yo": "mordí",
+      "tu": "mordiste",
+      "ud": "mordió",
+      "nosotros": "mordimos",
+      "vosotros": "mordisteis",
+      "uds": "mordieron"
+    },
+    "condicional": {
+      "yo": "mordería",
+      "tu": "morderías",
+      "ud": "mordería",
+      "nosotros": "morderíamos",
+      "vosotros": "morderíais",
+      "uds": "morderían"
+    },
+    "presentePerfecto": {
+      "yo": "he mordido",
+      "tu": "has mordido",
+      "ud": "ha mordido",
+      "nosotros": "hemos mordido",
+      "vosotros": "habéis mordido",
+      "uds": "han mordido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré mordido",
+      "tu": "habrás mordido",
+      "ud": "habrá mordido",
+      "nosotros": "habremos mordido",
+      "vosotros": "habréis mordido",
+      "uds": "habrán mordido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había mordido",
+      "tu": "habías mordido",
+      "ud": "había mordido",
+      "nosotros": "habíamos mordido",
+      "vosotros": "habíais mordido",
+      "uds": "habían mordido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube mordido",
+      "tu": "hubiste mordido",
+      "ud": "hubo mordido",
+      "nosotros": "hubimos mordido",
+      "vosotros": "hubisteis mordido",
+      "uds": "hubieron mordido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría mordido",
+      "tu": "habrías mordido",
+      "ud": "habría mordido",
+      "nosotros": "habríamos mordido",
+      "vosotros": "habríais mordido",
+      "uds": "habrían mordido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "muerda",
+      "tu": "muerdas",
+      "ud": "muerda",
+      "nosotros": "mordamos",
+      "vosotros": "mordáis",
+      "uds": "muerdan"
+    },
+    "imperfecto": {
+      "yo": "mordiera",
+      "tu": "mordieras",
+      "ud": "mordiera",
+      "nosotros": "mordiéramos",
+      "vosotros": "mordierais",
+      "uds": "mordieran"
+    },
+    "futuro": {
+      "yo": "mordiere",
+      "tu": "mordieres",
+      "ud": "mordiere",
+      "nosotros": "mordiéremos",
+      "vosotros": "mordiereis",
+      "uds": "mordieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya mordido",
+      "tu": "hayas mordido",
+      "ud": "haya mordido",
+      "nosotros": "hayamos mordido",
+      "vosotros": "hayáis mordido",
+      "uds": "hayan mordido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere mordido",
+      "tu": "hubieres mordido",
+      "ud": "hubiere mordido",
+      "nosotros": "hubiéremos mordido",
+      "vosotros": "hubiereis mordido",
+      "uds": "hubieren mordido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera mordido",
+      "tu": "hubieras mordido",
+      "ud": "hubiera mordido",
+      "nosotros": "hubiéramos mordido",
+      "vosotros": "hubierais mordido",
+      "uds": "hubieran mordido"
+    },
+    "imperfectoAlt": {
+      "yo": "mordiese",
+      "tu": "mordieses",
+      "ud": "mordiese",
+      "nosotros": "mordiésemos",
+      "vosotros": "mordieseis",
+      "uds": "mordiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese mordido",
+      "tu": "hubieses mordido",
+      "ud": "hubiese mordido",
+      "nosotros": "hubiésemos mordido",
+      "vosotros": "hubieseis mordido",
+      "uds": "hubiesen mordido"
+    }
+  },
+  "afirmativo": {
+    "tu": "muerde",
+    "vosotros": "morded",
+    "ud": "muerda",
+    "uds": "muerdan"
+  },
+  "negativo": {
+    "tu": "no muerdas",
+    "vosotros": "no mordáis",
+    "ud": "no muerda",
+    "uds": "no muerdan"
+  },
+  "english": {
+    "note": "Cambio radical:�o�>�ue�cuando se acent�a.",
+    "infinitivo": "to bite, nibble; to eat away; to cheat; to exact a bribe from",
+    "gerundio": "biting",
+    "participioPasado": "bitten",
+    "indicativo": {
+      "presente": "I bite, am biting",
+      "futuro": "I will bite",
+      "imperfecto": "I was biting, used to bite, bit",
+      "preterito": "I bit",
+      "condicional": "I would bite",
+      "presentePerfecto": "I have bitten",
+      "futuroPerfecto": "I will have bitten",
+      "pluscuamperfecto": "I had bitten",
+      "preteritoAnterior": "I had bitten",
+      "condicionalPerfecto": "I would have bitten"
+    },
+    "subjuntivo": {
+      "presente": "I bite, am biting",
+      "imperfecto": "I bit, was biting",
+      "futuro": "I will bite",
+      "presentePerfecto": "I have bitten, bit",
+      "futuroPerfecto": "I will have bitten",
+      "pluscuamperfecto": "I had bitten"
+    },
+    "afirmativo": "bite!",
+    "negativo": "Don't bite!"
+  },
+  "attribution": "Fred Jehle"
+}

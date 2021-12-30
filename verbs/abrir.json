@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "abrir",
+  "gerundio": "abriendo",
+  "participioPasado": "abierto",
+  "indicativo": {
+    "presente": {
+      "yo": "abro",
+      "tu": "abres",
+      "ud": "abre",
+      "nosotros": "abrimos",
+      "vosotros": "abrís",
+      "uds": "abren"
+    },
+    "futuro": {
+      "yo": "abriré",
+      "tu": "abrirás",
+      "ud": "abrirá",
+      "nosotros": "abriremos",
+      "vosotros": "abriréis",
+      "uds": "abrirán"
+    },
+    "imperfecto": {
+      "yo": "abría",
+      "tu": "abrías",
+      "ud": "abría",
+      "nosotros": "abríamos",
+      "vosotros": "abríais",
+      "uds": "abrían"
+    },
+    "preterito": {
+      "yo": "abrí",
+      "tu": "abriste",
+      "ud": "abrió",
+      "nosotros": "abrimos",
+      "vosotros": "abristeis",
+      "uds": "abrieron"
+    },
+    "condicional": {
+      "yo": "abriría",
+      "tu": "abrirías",
+      "ud": "abriría",
+      "nosotros": "abriríamos",
+      "vosotros": "abriríais",
+      "uds": "abrirían"
+    },
+    "presentePerfecto": {
+      "yo": "he abierto",
+      "tu": "has abierto",
+      "ud": "ha abierto",
+      "nosotros": "hemos abierto",
+      "vosotros": "habéis abierto",
+      "uds": "han abierto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré abierto",
+      "tu": "habrás abierto",
+      "ud": "habrá abierto",
+      "nosotros": "habremos abierto",
+      "vosotros": "habréis abierto",
+      "uds": "habrán abierto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había abierto",
+      "tu": "habías abierto",
+      "ud": "había abierto",
+      "nosotros": "habíamos abierto",
+      "vosotros": "habíais abierto",
+      "uds": "habían abierto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube abierto",
+      "tu": "hubiste abierto",
+      "ud": "hubo abierto",
+      "nosotros": "hubimos abierto",
+      "vosotros": "hubisteis abierto",
+      "uds": "hubieron abierto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría abierto",
+      "tu": "habrías abierto",
+      "ud": "habría abierto",
+      "nosotros": "habríamos abierto",
+      "vosotros": "habríais abierto",
+      "uds": "habrían abierto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "abra",
+      "tu": "abras",
+      "ud": "abra",
+      "nosotros": "abramos",
+      "vosotros": "abráis",
+      "uds": "abran"
+    },
+    "imperfecto": {
+      "yo": "abriera",
+      "tu": "abrieras",
+      "ud": "abriera",
+      "nosotros": "abriéramos",
+      "vosotros": "abrierais",
+      "uds": "abrieran"
+    },
+    "futuro": {
+      "yo": "abriere",
+      "tu": "abrieres",
+      "ud": "abriere",
+      "nosotros": "abriéremos",
+      "vosotros": "abriereis",
+      "uds": "abrieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya abierto",
+      "tu": "hayas abierto",
+      "ud": "haya abierto",
+      "nosotros": "hayamos abierto",
+      "vosotros": "hayáis abierto",
+      "uds": "hayan abierto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere abierto",
+      "tu": "hubieres abierto",
+      "ud": "hubiere abierto",
+      "nosotros": "hubiéremos abierto",
+      "vosotros": "hubiereis abierto",
+      "uds": "hubieren abierto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera abierto",
+      "tu": "hubieras abierto",
+      "ud": "hubiera abierto",
+      "nosotros": "hubiéramos abierto",
+      "vosotros": "hubierais abierto",
+      "uds": "hubieran abierto"
+    },
+    "imperfectoAlt": {
+      "yo": "abriese",
+      "tu": "abrieses",
+      "ud": "abriese",
+      "nosotros": "abriésemos",
+      "vosotros": "abrieseis",
+      "uds": "abriesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese abierto",
+      "tu": "hubieses abierto",
+      "ud": "hubiese abierto",
+      "nosotros": "hubiésemos abierto",
+      "vosotros": "hubieseis abierto",
+      "uds": "hubiesen abierto"
+    }
+  },
+  "afirmativo": {
+    "tu": "abre",
+    "vosotros": "abrid",
+    "ud": "abra",
+    "uds": "abran"
+  },
+  "negativo": {
+    "tu": "no abras",
+    "vosotros": "no abráis",
+    "ud": "no abra",
+    "uds": "no abran"
+  },
+  "english": {
+    "note": "Participio pasado irregular: abierto.",
+    "infinitivo": "to open",
+    "gerundio": "opening",
+    "participioPasado": "opened",
+    "indicativo": {
+      "presente": "I open, am opening",
+      "futuro": "I will open",
+      "imperfecto": "I was opening, used to open, opened",
+      "preterito": "I opened",
+      "condicional": "I would open",
+      "presentePerfecto": "I have opened",
+      "futuroPerfecto": "I will have opened",
+      "pluscuamperfecto": "I had opened",
+      "preteritoAnterior": "I had opened",
+      "condicionalPerfecto": "I would have opened"
+    },
+    "subjuntivo": {
+      "presente": "I open, am opening",
+      "imperfecto": "I opened, was opening",
+      "futuro": "I will open",
+      "presentePerfecto": "I have opened, opened",
+      "futuroPerfecto": "I will have opened",
+      "pluscuamperfecto": "I had opened"
+    },
+    "afirmativo": "Open!",
+    "negativo": "Don't open!"
+  },
+  "attribution": "Fred Jehle"
+}

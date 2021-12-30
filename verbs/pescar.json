@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "pescar",
+  "gerundio": "pescando",
+  "participioPasado": "pescado",
+  "indicativo": {
+    "presente": {
+      "yo": "pesco",
+      "tu": "pescas",
+      "ud": "pesca",
+      "nosotros": "pescamos",
+      "vosotros": "pescáis",
+      "uds": "pescan"
+    },
+    "futuro": {
+      "yo": "pescaré",
+      "tu": "pescarás",
+      "ud": "pescará",
+      "nosotros": "pescaremos",
+      "vosotros": "pescaréis",
+      "uds": "pescarán"
+    },
+    "imperfecto": {
+      "yo": "pescaba",
+      "tu": "pescabas",
+      "ud": "pescaba",
+      "nosotros": "pescábamos",
+      "vosotros": "pescabais",
+      "uds": "pescaban"
+    },
+    "preterito": {
+      "yo": "pesqué",
+      "tu": "pescaste",
+      "ud": "pescó",
+      "nosotros": "pescamos",
+      "vosotros": "pescasteis",
+      "uds": "pescaron"
+    },
+    "condicional": {
+      "yo": "pescaría",
+      "tu": "pescarías",
+      "ud": "pescaría",
+      "nosotros": "pescaríamos",
+      "vosotros": "pescaríais",
+      "uds": "pescarían"
+    },
+    "presentePerfecto": {
+      "yo": "he pescado",
+      "tu": "has pescado",
+      "ud": "ha pescado",
+      "nosotros": "hemos pescado",
+      "vosotros": "habéis pescado",
+      "uds": "han pescado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré pescado",
+      "tu": "habrás pescado",
+      "ud": "habrá pescado",
+      "nosotros": "habremos pescado",
+      "vosotros": "habréis pescado",
+      "uds": "habrán pescado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había pescado",
+      "tu": "habías pescado",
+      "ud": "había pescado",
+      "nosotros": "habíamos pescado",
+      "vosotros": "habíais pescado",
+      "uds": "habían pescado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube pescado",
+      "tu": "hubiste pescado",
+      "ud": "hubo pescado",
+      "nosotros": "hubimos pescado",
+      "vosotros": "hubisteis pescado",
+      "uds": "hubieron pescado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría pescado",
+      "tu": "habrías pescado",
+      "ud": "habría pescado",
+      "nosotros": "habríamos pescado",
+      "vosotros": "habríais pescado",
+      "uds": "habrían pescado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pesque",
+      "tu": "pesques",
+      "ud": "pesque",
+      "nosotros": "pesquemos",
+      "vosotros": "pesquéis",
+      "uds": "pesquen"
+    },
+    "imperfecto": {
+      "yo": "pescara",
+      "tu": "pescaras",
+      "ud": "pescara",
+      "nosotros": "pescáramos",
+      "vosotros": "pescarais",
+      "uds": "pescaran"
+    },
+    "futuro": {
+      "yo": "pescare",
+      "tu": "pescares",
+      "ud": "pescare",
+      "nosotros": "pescáremos",
+      "vosotros": "pescareis",
+      "uds": "pescaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya pescado",
+      "tu": "hayas pescado",
+      "ud": "haya pescado",
+      "nosotros": "hayamos pescado",
+      "vosotros": "hayáis pescado",
+      "uds": "hayan pescado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere pescado",
+      "tu": "hubieres pescado",
+      "ud": "hubiere pescado",
+      "nosotros": "hubiéremos pescado",
+      "vosotros": "hubiereis pescado",
+      "uds": "hubieren pescado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera pescado",
+      "tu": "hubieras pescado",
+      "ud": "hubiera pescado",
+      "nosotros": "hubiéramos pescado",
+      "vosotros": "hubierais pescado",
+      "uds": "hubieran pescado"
+    },
+    "imperfectoAlt": {
+      "yo": "pescase",
+      "tu": "pescases",
+      "ud": "pescase",
+      "nosotros": "pescásemos",
+      "vosotros": "pescaseis",
+      "uds": "pescasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese pescado",
+      "tu": "hubieses pescado",
+      "ud": "hubiese pescado",
+      "nosotros": "hubiésemos pescado",
+      "vosotros": "hubieseis pescado",
+      "uds": "hubiesen pescado"
+    }
+  },
+  "afirmativo": {
+    "tu": "pesca",
+    "vosotros": "pescad",
+    "ud": "pesque",
+    "uds": "pesquen"
+  },
+  "negativo": {
+    "tu": "no pesques",
+    "vosotros": "no pesquéis",
+    "ud": "no pesque",
+    "uds": "no pesquen"
+  },
+  "english": {
+    "note": "something such as a fish",
+    "infinitivo": "to fish, go fishing; to fish for; to catch, land (something such as a fish)",
+    "gerundio": "fishing",
+    "participioPasado": "fished",
+    "indicativo": {
+      "presente": "I fish, am fishing",
+      "futuro": "I will fish",
+      "imperfecto": "I was fishing, used to fish, fished",
+      "preterito": "I fished",
+      "condicional": "I would fish",
+      "presentePerfecto": "I have fished",
+      "futuroPerfecto": "I will have fished",
+      "pluscuamperfecto": "I had fished",
+      "preteritoAnterior": "I had fished",
+      "condicionalPerfecto": "I would have fished"
+    },
+    "subjuntivo": {
+      "presente": "I fish, am fishing",
+      "imperfecto": "I fished, was fishing",
+      "futuro": "I will fish",
+      "presentePerfecto": "I have fished, fished",
+      "futuroPerfecto": "I will have fished",
+      "pluscuamperfecto": "I had fished"
+    },
+    "afirmativo": "Fish!",
+    "negativo": "Don't fish!"
+  },
+  "attribution": "Fred Jehle"
+}

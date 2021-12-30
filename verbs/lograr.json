@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "lograr",
+  "gerundio": "logrando",
+  "participioPasado": "logrado",
+  "indicativo": {
+    "presente": {
+      "yo": "logro",
+      "tu": "logras",
+      "ud": "logra",
+      "nosotros": "logramos",
+      "vosotros": "lográis",
+      "uds": "logran"
+    },
+    "futuro": {
+      "yo": "lograré",
+      "tu": "lograrás",
+      "ud": "logrará",
+      "nosotros": "lograremos",
+      "vosotros": "lograréis",
+      "uds": "lograrán"
+    },
+    "imperfecto": {
+      "yo": "lograba",
+      "tu": "lograbas",
+      "ud": "lograba",
+      "nosotros": "lográbamos",
+      "vosotros": "lograbais",
+      "uds": "lograban"
+    },
+    "preterito": {
+      "yo": "logré",
+      "tu": "lograste",
+      "ud": "logró",
+      "nosotros": "logramos",
+      "vosotros": "lograsteis",
+      "uds": "lograron"
+    },
+    "condicional": {
+      "yo": "lograría",
+      "tu": "lograrías",
+      "ud": "lograría",
+      "nosotros": "lograríamos",
+      "vosotros": "lograríais",
+      "uds": "lograrían"
+    },
+    "presentePerfecto": {
+      "yo": "he logrado",
+      "tu": "has logrado",
+      "ud": "ha logrado",
+      "nosotros": "hemos logrado",
+      "vosotros": "habéis logrado",
+      "uds": "han logrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré logrado",
+      "tu": "habrás logrado",
+      "ud": "habrá logrado",
+      "nosotros": "habremos logrado",
+      "vosotros": "habréis logrado",
+      "uds": "habrán logrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había logrado",
+      "tu": "habías logrado",
+      "ud": "había logrado",
+      "nosotros": "habíamos logrado",
+      "vosotros": "habíais logrado",
+      "uds": "habían logrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube logrado",
+      "tu": "hubiste logrado",
+      "ud": "hubo logrado",
+      "nosotros": "hubimos logrado",
+      "vosotros": "hubisteis logrado",
+      "uds": "hubieron logrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría logrado",
+      "tu": "habrías logrado",
+      "ud": "habría logrado",
+      "nosotros": "habríamos logrado",
+      "vosotros": "habríais logrado",
+      "uds": "habrían logrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "logre",
+      "tu": "logres",
+      "ud": "logre",
+      "nosotros": "logremos",
+      "vosotros": "logréis",
+      "uds": "logren"
+    },
+    "imperfecto": {
+      "yo": "lograra",
+      "tu": "lograras",
+      "ud": "lograra",
+      "nosotros": "lográramos",
+      "vosotros": "lograrais",
+      "uds": "lograran"
+    },
+    "futuro": {
+      "yo": "lograre",
+      "tu": "lograres",
+      "ud": "lograre",
+      "nosotros": "lográremos",
+      "vosotros": "lograreis",
+      "uds": "lograren"
+    },
+    "presentePerfecto": {
+      "yo": "haya logrado",
+      "tu": "hayas logrado",
+      "ud": "haya logrado",
+      "nosotros": "hayamos logrado",
+      "vosotros": "hayáis logrado",
+      "uds": "hayan logrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere logrado",
+      "tu": "hubieres logrado",
+      "ud": "hubiere logrado",
+      "nosotros": "hubiéremos logrado",
+      "vosotros": "hubiereis logrado",
+      "uds": "hubieren logrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera logrado",
+      "tu": "hubieras logrado",
+      "ud": "hubiera logrado",
+      "nosotros": "hubiéramos logrado",
+      "vosotros": "hubierais logrado",
+      "uds": "hubieran logrado"
+    },
+    "imperfectoAlt": {
+      "yo": "lograse",
+      "tu": "lograses",
+      "ud": "lograse",
+      "nosotros": "lográsemos",
+      "vosotros": "lograseis",
+      "uds": "lograsen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese logrado",
+      "tu": "hubieses logrado",
+      "ud": "hubiese logrado",
+      "nosotros": "hubiésemos logrado",
+      "vosotros": "hubieseis logrado",
+      "uds": "hubiesen logrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "logra",
+    "vosotros": "lograd",
+    "ud": "logre",
+    "uds": "logren"
+  },
+  "negativo": {
+    "tu": "no logres",
+    "vosotros": "no logréis",
+    "ud": "no logre",
+    "uds": "no logren"
+  },
+  "english": {
+    "note": "Note: Lograr (hacer algo) = to manage (to do something).",
+    "infinitivo": "to get, obtain; to achieve, attain",
+    "gerundio": "getting",
+    "participioPasado": "got",
+    "indicativo": {
+      "presente": "I get, am getting",
+      "futuro": "I will get",
+      "imperfecto": "I was getting, used to get, got",
+      "preterito": "I got",
+      "condicional": "I would get",
+      "presentePerfecto": "I have got",
+      "futuroPerfecto": "I will have got",
+      "pluscuamperfecto": "I had got",
+      "preteritoAnterior": "I had got",
+      "condicionalPerfecto": "I would have got"
+    },
+    "subjuntivo": {
+      "presente": "I get, am getting",
+      "imperfecto": "I got, was getting",
+      "futuro": "I will get",
+      "presentePerfecto": "I have got, got",
+      "futuroPerfecto": "I will have got",
+      "pluscuamperfecto": "I had got"
+    },
+    "afirmativo": "Get!",
+    "negativo": "Don't get!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "votar",
+  "gerundio": "votando",
+  "participioPasado": "votado",
+  "indicativo": {
+    "presente": {
+      "yo": "voto",
+      "tu": "votas",
+      "ud": "vota",
+      "nosotros": "votamos",
+      "vosotros": "votáis",
+      "uds": "votan"
+    },
+    "futuro": {
+      "yo": "votaré",
+      "tu": "votarás",
+      "ud": "votará",
+      "nosotros": "votaremos",
+      "vosotros": "votaréis",
+      "uds": "votarán"
+    },
+    "imperfecto": {
+      "yo": "votaba",
+      "tu": "votabas",
+      "ud": "votaba",
+      "nosotros": "votábamos",
+      "vosotros": "votabais",
+      "uds": "votaban"
+    },
+    "preterito": {
+      "yo": "voté",
+      "tu": "votaste",
+      "ud": "votó",
+      "nosotros": "votamos",
+      "vosotros": "votasteis",
+      "uds": "votaron"
+    },
+    "condicional": {
+      "yo": "votaría",
+      "tu": "votarías",
+      "ud": "votaría",
+      "nosotros": "votaríamos",
+      "vosotros": "votaríais",
+      "uds": "votarían"
+    },
+    "presentePerfecto": {
+      "yo": "he votado",
+      "tu": "has votado",
+      "ud": "ha votado",
+      "nosotros": "hemos votado",
+      "vosotros": "habéis votado",
+      "uds": "han votado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré votado",
+      "tu": "habrás votado",
+      "ud": "habrá votado",
+      "nosotros": "habremos votado",
+      "vosotros": "habréis votado",
+      "uds": "habrán votado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había votado",
+      "tu": "habías votado",
+      "ud": "había votado",
+      "nosotros": "habíamos votado",
+      "vosotros": "habíais votado",
+      "uds": "habían votado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube votado",
+      "tu": "hubiste votado",
+      "ud": "hubo votado",
+      "nosotros": "hubimos votado",
+      "vosotros": "hubisteis votado",
+      "uds": "hubieron votado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría votado",
+      "tu": "habrías votado",
+      "ud": "habría votado",
+      "nosotros": "habríamos votado",
+      "vosotros": "habríais votado",
+      "uds": "habrían votado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "vote",
+      "tu": "votes",
+      "ud": "vote",
+      "nosotros": "votemos",
+      "vosotros": "votéis",
+      "uds": "voten"
+    },
+    "imperfecto": {
+      "yo": "votara",
+      "tu": "votaras",
+      "ud": "votara",
+      "nosotros": "votáramos",
+      "vosotros": "votarais",
+      "uds": "votaran"
+    },
+    "futuro": {
+      "yo": "votare",
+      "tu": "votares",
+      "ud": "votare",
+      "nosotros": "votáremos",
+      "vosotros": "votareis",
+      "uds": "votaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya votado",
+      "tu": "hayas votado",
+      "ud": "haya votado",
+      "nosotros": "hayamos votado",
+      "vosotros": "hayáis votado",
+      "uds": "hayan votado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere votado",
+      "tu": "hubieres votado",
+      "ud": "hubiere votado",
+      "nosotros": "hubiéremos votado",
+      "vosotros": "hubiereis votado",
+      "uds": "hubieren votado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera votado",
+      "tu": "hubieras votado",
+      "ud": "hubiera votado",
+      "nosotros": "hubiéramos votado",
+      "vosotros": "hubierais votado",
+      "uds": "hubieran votado"
+    },
+    "imperfectoAlt": {
+      "yo": "votase",
+      "tu": "votases",
+      "ud": "votase",
+      "nosotros": "votásemos",
+      "vosotros": "votaseis",
+      "uds": "votasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese votado",
+      "tu": "hubieses votado",
+      "ud": "hubiese votado",
+      "nosotros": "hubiésemos votado",
+      "vosotros": "hubieseis votado",
+      "uds": "hubiesen votado"
+    }
+  },
+  "afirmativo": {
+    "tu": "vota",
+    "vosotros": "votad",
+    "ud": "vote",
+    "uds": "voten"
+  },
+  "negativo": {
+    "tu": "no votes",
+    "vosotros": "no votéis",
+    "ud": "no vote",
+    "uds": "no voten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to vote",
+    "gerundio": "voting",
+    "participioPasado": "voted",
+    "indicativo": {
+      "presente": "I vote, am voting",
+      "futuro": "I will vote",
+      "imperfecto": "I was voting, used to vote, voted",
+      "preterito": "I voted",
+      "condicional": "I would vote",
+      "presentePerfecto": "I have voted",
+      "futuroPerfecto": "I will have voted",
+      "pluscuamperfecto": "I had voted",
+      "preteritoAnterior": "I had voted",
+      "condicionalPerfecto": "I would have voted"
+    },
+    "subjuntivo": {
+      "presente": "I vote, am voting",
+      "imperfecto": "I voted, was voting",
+      "futuro": "I will vote",
+      "presentePerfecto": "I have voted, voted",
+      "futuroPerfecto": "I will have voted",
+      "pluscuamperfecto": "I had voted"
+    },
+    "afirmativo": "Vote!",
+    "negativo": "Don't vote!"
+  },
+  "attribution": "Fred Jehle"
+}

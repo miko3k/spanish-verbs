@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "comprar",
+  "gerundio": "comprando",
+  "participioPasado": "comprado",
+  "indicativo": {
+    "presente": {
+      "yo": "compro",
+      "tu": "compras",
+      "ud": "compra",
+      "nosotros": "compramos",
+      "vosotros": "compráis",
+      "uds": "compran"
+    },
+    "futuro": {
+      "yo": "compraré",
+      "tu": "comprarás",
+      "ud": "comprará",
+      "nosotros": "compraremos",
+      "vosotros": "compraréis",
+      "uds": "comprarán"
+    },
+    "imperfecto": {
+      "yo": "compraba",
+      "tu": "comprabas",
+      "ud": "compraba",
+      "nosotros": "comprábamos",
+      "vosotros": "comprabais",
+      "uds": "compraban"
+    },
+    "preterito": {
+      "yo": "compré",
+      "tu": "compraste",
+      "ud": "compró",
+      "nosotros": "compramos",
+      "vosotros": "comprasteis",
+      "uds": "compraron"
+    },
+    "condicional": {
+      "yo": "compraría",
+      "tu": "comprarías",
+      "ud": "compraría",
+      "nosotros": "compraríamos",
+      "vosotros": "compraríais",
+      "uds": "comprarían"
+    },
+    "presentePerfecto": {
+      "yo": "he comprado",
+      "tu": "has comprado",
+      "ud": "ha comprado",
+      "nosotros": "hemos comprado",
+      "vosotros": "habéis comprado",
+      "uds": "han comprado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré comprado",
+      "tu": "habrás comprado",
+      "ud": "habrá comprado",
+      "nosotros": "habremos comprado",
+      "vosotros": "habréis comprado",
+      "uds": "habrán comprado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había comprado",
+      "tu": "habías comprado",
+      "ud": "había comprado",
+      "nosotros": "habíamos comprado",
+      "vosotros": "habíais comprado",
+      "uds": "habían comprado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube comprado",
+      "tu": "hubiste comprado",
+      "ud": "hubo comprado",
+      "nosotros": "hubimos comprado",
+      "vosotros": "hubisteis comprado",
+      "uds": "hubieron comprado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría comprado",
+      "tu": "habrías comprado",
+      "ud": "habría comprado",
+      "nosotros": "habríamos comprado",
+      "vosotros": "habríais comprado",
+      "uds": "habrían comprado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "compre",
+      "tu": "compres",
+      "ud": "compre",
+      "nosotros": "compremos",
+      "vosotros": "compréis",
+      "uds": "compren"
+    },
+    "imperfecto": {
+      "yo": "comprara",
+      "tu": "compraras",
+      "ud": "comprara",
+      "nosotros": "compráramos",
+      "vosotros": "comprarais",
+      "uds": "compraran"
+    },
+    "futuro": {
+      "yo": "comprare",
+      "tu": "comprares",
+      "ud": "comprare",
+      "nosotros": "compráremos",
+      "vosotros": "comprareis",
+      "uds": "compraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya comprado",
+      "tu": "hayas comprado",
+      "ud": "haya comprado",
+      "nosotros": "hayamos comprado",
+      "vosotros": "hayáis comprado",
+      "uds": "hayan comprado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere comprado",
+      "tu": "hubieres comprado",
+      "ud": "hubiere comprado",
+      "nosotros": "hubiéremos comprado",
+      "vosotros": "hubiereis comprado",
+      "uds": "hubieren comprado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera comprado",
+      "tu": "hubieras comprado",
+      "ud": "hubiera comprado",
+      "nosotros": "hubiéramos comprado",
+      "vosotros": "hubierais comprado",
+      "uds": "hubieran comprado"
+    },
+    "imperfectoAlt": {
+      "yo": "comprase",
+      "tu": "comprases",
+      "ud": "comprase",
+      "nosotros": "comprásemos",
+      "vosotros": "compraseis",
+      "uds": "comprasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese comprado",
+      "tu": "hubieses comprado",
+      "ud": "hubiese comprado",
+      "nosotros": "hubiésemos comprado",
+      "vosotros": "hubieseis comprado",
+      "uds": "hubiesen comprado"
+    }
+  },
+  "afirmativo": {
+    "tu": "compra",
+    "vosotros": "comprad",
+    "ud": "compre",
+    "uds": "compren"
+  },
+  "negativo": {
+    "tu": "no compres",
+    "vosotros": "no compréis",
+    "ud": "no compre",
+    "uds": "no compren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to buy, purchase",
+    "gerundio": "buying",
+    "participioPasado": "bought",
+    "indicativo": {
+      "presente": "I buy, am buying",
+      "futuro": "I will buy",
+      "imperfecto": "I was buying, used to buy, bought",
+      "preterito": "I bought",
+      "condicional": "I would buy",
+      "presentePerfecto": "I have bought",
+      "futuroPerfecto": "I will have bought",
+      "pluscuamperfecto": "I had bought",
+      "preteritoAnterior": "I had bought",
+      "condicionalPerfecto": "I would have bought"
+    },
+    "subjuntivo": {
+      "presente": "I buy, am buying",
+      "imperfecto": "I bought, was buying",
+      "futuro": "I will buy",
+      "presentePerfecto": "I have bought, bought",
+      "futuroPerfecto": "I will have bought",
+      "pluscuamperfecto": "I had bought"
+    },
+    "afirmativo": "Buy!",
+    "negativo": "Don't buy!"
+  },
+  "attribution": "Fred Jehle"
+}

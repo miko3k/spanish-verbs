@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "provocar",
+  "gerundio": "provocando",
+  "participioPasado": "provocado",
+  "indicativo": {
+    "presente": {
+      "yo": "provoco",
+      "tu": "provocas",
+      "ud": "provoca",
+      "nosotros": "provocamos",
+      "vosotros": "provocáis",
+      "uds": "provocan"
+    },
+    "futuro": {
+      "yo": "provocaré",
+      "tu": "provocarás",
+      "ud": "provocará",
+      "nosotros": "provocaremos",
+      "vosotros": "provocaréis",
+      "uds": "provocarán"
+    },
+    "imperfecto": {
+      "yo": "provocaba",
+      "tu": "provocabas",
+      "ud": "provocaba",
+      "nosotros": "provocábamos",
+      "vosotros": "provocabais",
+      "uds": "provocaban"
+    },
+    "preterito": {
+      "yo": "provoqué",
+      "tu": "provocaste",
+      "ud": "provocó",
+      "nosotros": "provocamos",
+      "vosotros": "provocasteis",
+      "uds": "provocaron"
+    },
+    "condicional": {
+      "yo": "provocaría",
+      "tu": "provocarías",
+      "ud": "provocaría",
+      "nosotros": "provocaríamos",
+      "vosotros": "provocaríais",
+      "uds": "provocarían"
+    },
+    "presentePerfecto": {
+      "yo": "he provocado",
+      "tu": "has provocado",
+      "ud": "ha provocado",
+      "nosotros": "hemos provocado",
+      "vosotros": "habéis provocado",
+      "uds": "han provocado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré provocado",
+      "tu": "habrás provocado",
+      "ud": "habrá provocado",
+      "nosotros": "habremos provocado",
+      "vosotros": "habréis provocado",
+      "uds": "habrán provocado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había provocado",
+      "tu": "habías provocado",
+      "ud": "había provocado",
+      "nosotros": "habíamos provocado",
+      "vosotros": "habíais provocado",
+      "uds": "habían provocado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube provocado",
+      "tu": "hubiste provocado",
+      "ud": "hubo provocado",
+      "nosotros": "hubimos provocado",
+      "vosotros": "hubisteis provocado",
+      "uds": "hubieron provocado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría provocado",
+      "tu": "habrías provocado",
+      "ud": "habría provocado",
+      "nosotros": "habríamos provocado",
+      "vosotros": "habríais provocado",
+      "uds": "habrían provocado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "provoque",
+      "tu": "provoques",
+      "ud": "provoque",
+      "nosotros": "provoquemos",
+      "vosotros": "provoquéis",
+      "uds": "provoquen"
+    },
+    "imperfecto": {
+      "yo": "provocara",
+      "tu": "provocaras",
+      "ud": "provocara",
+      "nosotros": "provocáramos",
+      "vosotros": "provocarais",
+      "uds": "provocaran"
+    },
+    "futuro": {
+      "yo": "provocare",
+      "tu": "provocares",
+      "ud": "provocare",
+      "nosotros": "provocáremos",
+      "vosotros": "provocareis",
+      "uds": "provocaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya provocado",
+      "tu": "hayas provocado",
+      "ud": "haya provocado",
+      "nosotros": "hayamos provocado",
+      "vosotros": "hayáis provocado",
+      "uds": "hayan provocado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere provocado",
+      "tu": "hubieres provocado",
+      "ud": "hubiere provocado",
+      "nosotros": "hubiéremos provocado",
+      "vosotros": "hubiereis provocado",
+      "uds": "hubieren provocado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera provocado",
+      "tu": "hubieras provocado",
+      "ud": "hubiera provocado",
+      "nosotros": "hubiéramos provocado",
+      "vosotros": "hubierais provocado",
+      "uds": "hubieran provocado"
+    },
+    "imperfectoAlt": {
+      "yo": "provocase",
+      "tu": "provocases",
+      "ud": "provocase",
+      "nosotros": "provocásemos",
+      "vosotros": "provocaseis",
+      "uds": "provocasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese provocado",
+      "tu": "hubieses provocado",
+      "ud": "hubiese provocado",
+      "nosotros": "hubiésemos provocado",
+      "vosotros": "hubieseis provocado",
+      "uds": "hubiesen provocado"
+    }
+  },
+  "afirmativo": {
+    "tu": "provoca",
+    "vosotros": "provocad",
+    "ud": "provoque",
+    "uds": "provoquen"
+  },
+  "negativo": {
+    "tu": "no provoques",
+    "vosotros": "no provoquéis",
+    "ud": "no provoque",
+    "uds": "no provoquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to provoke",
+    "gerundio": "provoking",
+    "participioPasado": "provoked",
+    "indicativo": {
+      "presente": "I provoke, am provoking",
+      "futuro": "I will provoke",
+      "imperfecto": "I was provoking, used to provoke, provoked",
+      "preterito": "I provoked",
+      "condicional": "I would provoke",
+      "presentePerfecto": "I have provoked",
+      "futuroPerfecto": "I will have provoked",
+      "pluscuamperfecto": "I had provoked",
+      "preteritoAnterior": "I had provoked",
+      "condicionalPerfecto": "I would have provoked"
+    },
+    "subjuntivo": {
+      "presente": "I provoke, am provoking",
+      "imperfecto": "I provoked, was provoking",
+      "futuro": "I will provoke",
+      "presentePerfecto": "I have provoked, provoked",
+      "futuroPerfecto": "I will have provoked",
+      "pluscuamperfecto": "I had provoked"
+    },
+    "afirmativo": "Provoke!",
+    "negativo": "Don't provoke!"
+  },
+  "attribution": "Fred Jehle"
+}

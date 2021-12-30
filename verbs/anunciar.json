@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "anunciar",
+  "gerundio": "anunciando",
+  "participioPasado": "anunciado",
+  "indicativo": {
+    "presente": {
+      "yo": "anuncio",
+      "tu": "anuncias",
+      "ud": "anuncia",
+      "nosotros": "anunciamos",
+      "vosotros": "anunciáis",
+      "uds": "anuncian"
+    },
+    "futuro": {
+      "yo": "anunciaré",
+      "tu": "anunciarás",
+      "ud": "anunciará",
+      "nosotros": "anunciaremos",
+      "vosotros": "anunciaréis",
+      "uds": "anunciarán"
+    },
+    "imperfecto": {
+      "yo": "anunciaba",
+      "tu": "anunciabas",
+      "ud": "anunciaba",
+      "nosotros": "anunciábamos",
+      "vosotros": "anunciabais",
+      "uds": "anunciaban"
+    },
+    "preterito": {
+      "yo": "anuncié",
+      "tu": "anunciaste",
+      "ud": "anunció",
+      "nosotros": "anunciamos",
+      "vosotros": "anunciasteis",
+      "uds": "anunciaron"
+    },
+    "condicional": {
+      "yo": "anunciaría",
+      "tu": "anunciarías",
+      "ud": "anunciaría",
+      "nosotros": "anunciaríamos",
+      "vosotros": "anunciaríais",
+      "uds": "anunciarían"
+    },
+    "presentePerfecto": {
+      "yo": "he anunciado",
+      "tu": "has anunciado",
+      "ud": "ha anunciado",
+      "nosotros": "hemos anunciado",
+      "vosotros": "habéis anunciado",
+      "uds": "han anunciado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré anunciado",
+      "tu": "habrás anunciado",
+      "ud": "habrá anunciado",
+      "nosotros": "habremos anunciado",
+      "vosotros": "habréis anunciado",
+      "uds": "habrán anunciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había anunciado",
+      "tu": "habías anunciado",
+      "ud": "había anunciado",
+      "nosotros": "habíamos anunciado",
+      "vosotros": "habíais anunciado",
+      "uds": "habían anunciado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube anunciado",
+      "tu": "hubiste anunciado",
+      "ud": "hubo anunciado",
+      "nosotros": "hubimos anunciado",
+      "vosotros": "hubisteis anunciado",
+      "uds": "hubieron anunciado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría anunciado",
+      "tu": "habrías anunciado",
+      "ud": "habría anunciado",
+      "nosotros": "habríamos anunciado",
+      "vosotros": "habríais anunciado",
+      "uds": "habrían anunciado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "anuncie",
+      "tu": "anuncies",
+      "ud": "anuncie",
+      "nosotros": "anunciemos",
+      "vosotros": "anunciéis",
+      "uds": "anuncien"
+    },
+    "imperfecto": {
+      "yo": "anunciara",
+      "tu": "anunciaras",
+      "ud": "anunciara",
+      "nosotros": "anunciáramos",
+      "vosotros": "anunciarais",
+      "uds": "anunciaran"
+    },
+    "futuro": {
+      "yo": "anunciare",
+      "tu": "anunciares",
+      "ud": "anunciare",
+      "nosotros": "anunciáremos",
+      "vosotros": "anunciareis",
+      "uds": "anunciaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya anunciado",
+      "tu": "hayas anunciado",
+      "ud": "haya anunciado",
+      "nosotros": "hayamos anunciado",
+      "vosotros": "hayáis anunciado",
+      "uds": "hayan anunciado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere anunciado",
+      "tu": "hubieres anunciado",
+      "ud": "hubiere anunciado",
+      "nosotros": "hubiéremos anunciado",
+      "vosotros": "hubiereis anunciado",
+      "uds": "hubieren anunciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera anunciado",
+      "tu": "hubieras anunciado",
+      "ud": "hubiera anunciado",
+      "nosotros": "hubiéramos anunciado",
+      "vosotros": "hubierais anunciado",
+      "uds": "hubieran anunciado"
+    },
+    "imperfectoAlt": {
+      "yo": "anunciase",
+      "tu": "anunciases",
+      "ud": "anunciase",
+      "nosotros": "anunciásemos",
+      "vosotros": "anunciaseis",
+      "uds": "anunciasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese anunciado",
+      "tu": "hubieses anunciado",
+      "ud": "hubiese anunciado",
+      "nosotros": "hubiésemos anunciado",
+      "vosotros": "hubieseis anunciado",
+      "uds": "hubiesen anunciado"
+    }
+  },
+  "afirmativo": {
+    "tu": "anuncia",
+    "vosotros": "anunciad",
+    "ud": "anuncie",
+    "uds": "anuncien"
+  },
+  "negativo": {
+    "tu": "no anuncies",
+    "vosotros": "no anunciéis",
+    "ud": "no anuncie",
+    "uds": "no anuncien"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to announce",
+    "gerundio": "announcing",
+    "participioPasado": "announced",
+    "indicativo": {
+      "presente": "I announce, am announcing",
+      "futuro": "I will announce",
+      "imperfecto": "I was announcing, used to announce, announced",
+      "preterito": "I announced",
+      "condicional": "I would announce",
+      "presentePerfecto": "I have announced",
+      "futuroPerfecto": "I will have announced",
+      "pluscuamperfecto": "I had announced",
+      "preteritoAnterior": "I had announced",
+      "condicionalPerfecto": "I would have announced"
+    },
+    "subjuntivo": {
+      "presente": "I announce, am announcing",
+      "imperfecto": "I announced, was announcing",
+      "futuro": "I will announce",
+      "presentePerfecto": "I have announced, announced",
+      "futuroPerfecto": "I will have announced",
+      "pluscuamperfecto": "I had announced"
+    },
+    "afirmativo": "Announce!",
+    "negativo": "Don't announce!"
+  },
+  "attribution": "Fred Jehle"
+}

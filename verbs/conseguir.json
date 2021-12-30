@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "conseguir",
+  "gerundio": "consiguiendo",
+  "participioPasado": "conseguido",
+  "indicativo": {
+    "presente": {
+      "yo": "consigo",
+      "tu": "consigues",
+      "ud": "consigue",
+      "nosotros": "conseguimos",
+      "vosotros": "conseguís",
+      "uds": "consiguen"
+    },
+    "futuro": {
+      "yo": "conseguiré",
+      "tu": "conseguirás",
+      "ud": "conseguirá",
+      "nosotros": "conseguiremos",
+      "vosotros": "conseguiréis",
+      "uds": "conseguirán"
+    },
+    "imperfecto": {
+      "yo": "conseguía",
+      "tu": "conseguías",
+      "ud": "conseguía",
+      "nosotros": "conseguíamos",
+      "vosotros": "conseguíais",
+      "uds": "conseguían"
+    },
+    "preterito": {
+      "yo": "conseguí",
+      "tu": "conseguiste",
+      "ud": "consiguió",
+      "nosotros": "conseguimos",
+      "vosotros": "conseguisteis",
+      "uds": "consiguieron"
+    },
+    "condicional": {
+      "yo": "conseguiría",
+      "tu": "conseguirías",
+      "ud": "conseguiría",
+      "nosotros": "conseguiríamos",
+      "vosotros": "conseguiríais",
+      "uds": "conseguirían"
+    },
+    "presentePerfecto": {
+      "yo": "he conseguido",
+      "tu": "has conseguido",
+      "ud": "ha conseguido",
+      "nosotros": "hemos conseguido",
+      "vosotros": "habéis conseguido",
+      "uds": "han conseguido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré conseguido",
+      "tu": "habrás conseguido",
+      "ud": "habrá conseguido",
+      "nosotros": "habremos conseguido",
+      "vosotros": "habréis conseguido",
+      "uds": "habrán conseguido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había conseguido",
+      "tu": "habías conseguido",
+      "ud": "había conseguido",
+      "nosotros": "habíamos conseguido",
+      "vosotros": "habíais conseguido",
+      "uds": "habían conseguido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube conseguido",
+      "tu": "hubiste conseguido",
+      "ud": "hubo conseguido",
+      "nosotros": "hubimos conseguido",
+      "vosotros": "hubisteis conseguido",
+      "uds": "hubieron conseguido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría conseguido",
+      "tu": "habrías conseguido",
+      "ud": "habría conseguido",
+      "nosotros": "habríamos conseguido",
+      "vosotros": "habríais conseguido",
+      "uds": "habrían conseguido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "consiga",
+      "tu": "consigas",
+      "ud": "consiga",
+      "nosotros": "consigamos",
+      "vosotros": "consigáis",
+      "uds": "consigan"
+    },
+    "imperfecto": {
+      "yo": "consiguiera",
+      "tu": "consiguieras",
+      "ud": "consiguiera",
+      "nosotros": "consiguiéramos",
+      "vosotros": "consiguierais",
+      "uds": "consiguieran"
+    },
+    "futuro": {
+      "yo": "consiguiere",
+      "tu": "consiguieres",
+      "ud": "consiguiere",
+      "nosotros": "consiguiéremos",
+      "vosotros": "consiguiereis",
+      "uds": "consiguieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya conseguido",
+      "tu": "hayas conseguido",
+      "ud": "haya conseguido",
+      "nosotros": "hayamos conseguido",
+      "vosotros": "hayáis conseguido",
+      "uds": "hayan conseguido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere conseguido",
+      "tu": "hubieres conseguido",
+      "ud": "hubiere conseguido",
+      "nosotros": "hubiéremos conseguido",
+      "vosotros": "hubiereis conseguido",
+      "uds": "hubieren conseguido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera conseguido",
+      "tu": "hubieras conseguido",
+      "ud": "hubiera conseguido",
+      "nosotros": "hubiéramos conseguido",
+      "vosotros": "hubierais conseguido",
+      "uds": "hubieran conseguido"
+    },
+    "imperfectoAlt": {
+      "yo": "consiguiese",
+      "tu": "consiguieses",
+      "ud": "consiguiese",
+      "nosotros": "consiguiésemos",
+      "vosotros": "consiguieseis",
+      "uds": "consiguiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese conseguido",
+      "tu": "hubieses conseguido",
+      "ud": "hubiese conseguido",
+      "nosotros": "hubiésemos conseguido",
+      "vosotros": "hubieseis conseguido",
+      "uds": "hubiesen conseguido"
+    }
+  },
+  "afirmativo": {
+    "tu": "consigue",
+    "vosotros": "conseguid",
+    "ud": "consiga",
+    "uds": "consigan"
+  },
+  "negativo": {
+    "tu": "no consigas",
+    "vosotros": "no consigáis",
+    "ud": "no consiga",
+    "uds": "no consigan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Cambio ortográfico: gu > g delante de o y a.",
+    "infinitivo": "to get, obtain",
+    "gerundio": "getting",
+    "participioPasado": "gotten",
+    "indicativo": {
+      "presente": "I get, am getting",
+      "futuro": "I will get",
+      "imperfecto": "I was getting, used to get, got",
+      "preterito": "I got",
+      "condicional": "I would get",
+      "presentePerfecto": "I have gotten",
+      "futuroPerfecto": "I will have gotten",
+      "pluscuamperfecto": "I had gotten",
+      "preteritoAnterior": "I had gotten",
+      "condicionalPerfecto": "I would have gotten"
+    },
+    "subjuntivo": {
+      "presente": "I get, am getting",
+      "imperfecto": "I got, was getting",
+      "futuro": "I will get",
+      "presentePerfecto": "I have gotten, got",
+      "futuroPerfecto": "I will have gotten",
+      "pluscuamperfecto": "I had gotten"
+    },
+    "afirmativo": "Get!",
+    "negativo": "Don't get!"
+  },
+  "attribution": "Fred Jehle"
+}

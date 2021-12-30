@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "encender",
+  "gerundio": "encendiendo",
+  "participioPasado": "encendido",
+  "indicativo": {
+    "presente": {
+      "yo": "enciendo",
+      "tu": "enciendes",
+      "ud": "enciende",
+      "nosotros": "encendemos",
+      "vosotros": "encendéis",
+      "uds": "encienden"
+    },
+    "futuro": {
+      "yo": "encenderé",
+      "tu": "encenderás",
+      "ud": "encenderá",
+      "nosotros": "encenderemos",
+      "vosotros": "encenderéis",
+      "uds": "encenderán"
+    },
+    "imperfecto": {
+      "yo": "encendía",
+      "tu": "encendías",
+      "ud": "encendía",
+      "nosotros": "encendíamos",
+      "vosotros": "encendíais",
+      "uds": "encendían"
+    },
+    "preterito": {
+      "yo": "encendí",
+      "tu": "encendiste",
+      "ud": "encendió",
+      "nosotros": "encendimos",
+      "vosotros": "encendisteis",
+      "uds": "encendieron"
+    },
+    "condicional": {
+      "yo": "encendería",
+      "tu": "encenderías",
+      "ud": "encendería",
+      "nosotros": "encenderíamos",
+      "vosotros": "encenderíais",
+      "uds": "encenderían"
+    },
+    "presentePerfecto": {
+      "yo": "he encendido",
+      "tu": "has encendido",
+      "ud": "ha encendido",
+      "nosotros": "hemos encendido",
+      "vosotros": "habéis encendido",
+      "uds": "han encendido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré encendido",
+      "tu": "habrás encendido",
+      "ud": "habrá encendido",
+      "nosotros": "habremos encendido",
+      "vosotros": "habréis encendido",
+      "uds": "habrán encendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había encendido",
+      "tu": "habías encendido",
+      "ud": "había encendido",
+      "nosotros": "habíamos encendido",
+      "vosotros": "habíais encendido",
+      "uds": "habían encendido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube encendido",
+      "tu": "hubiste encendido",
+      "ud": "hubo encendido",
+      "nosotros": "hubimos encendido",
+      "vosotros": "hubisteis encendido",
+      "uds": "hubieron encendido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría encendido",
+      "tu": "habrías encendido",
+      "ud": "habría encendido",
+      "nosotros": "habríamos encendido",
+      "vosotros": "habríais encendido",
+      "uds": "habrían encendido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "encienda",
+      "tu": "enciendas",
+      "ud": "encienda",
+      "nosotros": "encendamos",
+      "vosotros": "encendáis",
+      "uds": "enciendan"
+    },
+    "imperfecto": {
+      "yo": "encendiera",
+      "tu": "encendieras",
+      "ud": "encendiera",
+      "nosotros": "encendiéramos",
+      "vosotros": "encendierais",
+      "uds": "encendieran"
+    },
+    "futuro": {
+      "yo": "encendiere",
+      "tu": "encendieres",
+      "ud": "encendiere",
+      "nosotros": "encendiéremos",
+      "vosotros": "encendiereis",
+      "uds": "encendieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya encendido",
+      "tu": "hayas encendido",
+      "ud": "haya encendido",
+      "nosotros": "hayamos encendido",
+      "vosotros": "hayáis encendido",
+      "uds": "hayan encendido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere encendido",
+      "tu": "hubieres encendido",
+      "ud": "hubiere encendido",
+      "nosotros": "hubiéremos encendido",
+      "vosotros": "hubiereis encendido",
+      "uds": "hubieren encendido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera encendido",
+      "tu": "hubieras encendido",
+      "ud": "hubiera encendido",
+      "nosotros": "hubiéramos encendido",
+      "vosotros": "hubierais encendido",
+      "uds": "hubieran encendido"
+    },
+    "imperfectoAlt": {
+      "yo": "encendiese",
+      "tu": "encendieses",
+      "ud": "encendiese",
+      "nosotros": "encendiésemos",
+      "vosotros": "encendieseis",
+      "uds": "encendiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese encendido",
+      "tu": "hubieses encendido",
+      "ud": "hubiese encendido",
+      "nosotros": "hubiésemos encendido",
+      "vosotros": "hubieseis encendido",
+      "uds": "hubiesen encendido"
+    }
+  },
+  "afirmativo": {
+    "tu": "enciende",
+    "vosotros": "encended",
+    "ud": "encienda",
+    "uds": "enciendan"
+  },
+  "negativo": {
+    "tu": "no enciendas",
+    "vosotros": "no encendáis",
+    "ud": "no encienda",
+    "uds": "no enciendan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa.",
+    "infinitivo": "to burn, light, turn on",
+    "gerundio": "burning",
+    "participioPasado": "burnt",
+    "indicativo": {
+      "presente": "I burn, am burning",
+      "futuro": "I will burn",
+      "imperfecto": "I was burning, used to burn, burnt",
+      "preterito": "I burnt",
+      "condicional": "I would burn",
+      "presentePerfecto": "I have burnt",
+      "futuroPerfecto": "I will have burnt",
+      "pluscuamperfecto": "I had burnt",
+      "preteritoAnterior": "I had burnt",
+      "condicionalPerfecto": "I would have burnt"
+    },
+    "subjuntivo": {
+      "presente": "I burn, am burning",
+      "imperfecto": "I burnt, was burning",
+      "futuro": "I will burn",
+      "presentePerfecto": "I have burnt, burnt",
+      "futuroPerfecto": "I will have burnt",
+      "pluscuamperfecto": "I had burnt"
+    },
+    "afirmativo": "Burn!",
+    "negativo": "Don't burn!"
+  },
+  "attribution": "Fred Jehle"
+}

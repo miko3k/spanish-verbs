@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "bucear",
+  "gerundio": "buceando",
+  "participioPasado": "buceado",
+  "indicativo": {
+    "presente": {
+      "yo": "buceo",
+      "tu": "buceas",
+      "ud": "bucea",
+      "nosotros": "buceamos",
+      "vosotros": "buceáis",
+      "uds": "bucean"
+    },
+    "futuro": {
+      "yo": "bucearé",
+      "tu": "bucearás",
+      "ud": "buceará",
+      "nosotros": "bucearemos",
+      "vosotros": "bucearéis",
+      "uds": "bucearán"
+    },
+    "imperfecto": {
+      "yo": "buceaba",
+      "tu": "buceabas",
+      "ud": "buceaba",
+      "nosotros": "buceábamos",
+      "vosotros": "buceabais",
+      "uds": "buceaban"
+    },
+    "preterito": {
+      "yo": "buceé",
+      "tu": "buceaste",
+      "ud": "buceó",
+      "nosotros": "buceamos",
+      "vosotros": "buceasteis",
+      "uds": "bucearon"
+    },
+    "condicional": {
+      "yo": "bucearía",
+      "tu": "bucearías",
+      "ud": "bucearía",
+      "nosotros": "bucearíamos",
+      "vosotros": "bucearíais",
+      "uds": "bucearían"
+    },
+    "presentePerfecto": {
+      "yo": "he buceado",
+      "tu": "has buceado",
+      "ud": "ha buceado",
+      "nosotros": "hemos buceado",
+      "vosotros": "habéis buceado",
+      "uds": "han buceado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré buceado",
+      "tu": "habrás buceado",
+      "ud": "habrá buceado",
+      "nosotros": "habremos buceado",
+      "vosotros": "habréis buceado",
+      "uds": "habrán buceado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había buceado",
+      "tu": "habías buceado",
+      "ud": "había buceado",
+      "nosotros": "habíamos buceado",
+      "vosotros": "habíais buceado",
+      "uds": "habían buceado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube buceado",
+      "tu": "hubiste buceado",
+      "ud": "hubo buceado",
+      "nosotros": "hubimos buceado",
+      "vosotros": "hubisteis buceado",
+      "uds": "hubieron buceado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría buceado",
+      "tu": "habrías buceado",
+      "ud": "habría buceado",
+      "nosotros": "habríamos buceado",
+      "vosotros": "habríais buceado",
+      "uds": "habrían buceado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "bucee",
+      "tu": "bucees",
+      "ud": "bucee",
+      "nosotros": "buceemos",
+      "vosotros": "buceéis",
+      "uds": "buceen"
+    },
+    "imperfecto": {
+      "yo": "buceara",
+      "tu": "bucearas",
+      "ud": "buceara",
+      "nosotros": "buceáramos",
+      "vosotros": "bucearais",
+      "uds": "bucearan"
+    },
+    "futuro": {
+      "yo": "buceare",
+      "tu": "buceares",
+      "ud": "buceare",
+      "nosotros": "buceáremos",
+      "vosotros": "buceareis",
+      "uds": "bucearen"
+    },
+    "presentePerfecto": {
+      "yo": "haya buceado",
+      "tu": "hayas buceado",
+      "ud": "haya buceado",
+      "nosotros": "hayamos buceado",
+      "vosotros": "hayáis buceado",
+      "uds": "hayan buceado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere buceado",
+      "tu": "hubieres buceado",
+      "ud": "hubiere buceado",
+      "nosotros": "hubiéremos buceado",
+      "vosotros": "hubiereis buceado",
+      "uds": "hubieren buceado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera buceado",
+      "tu": "hubieras buceado",
+      "ud": "hubiera buceado",
+      "nosotros": "hubiéramos buceado",
+      "vosotros": "hubierais buceado",
+      "uds": "hubieran buceado"
+    },
+    "imperfectoAlt": {
+      "yo": "bucease",
+      "tu": "buceases",
+      "ud": "bucease",
+      "nosotros": "buceásemos",
+      "vosotros": "buceaseis",
+      "uds": "buceasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese buceado",
+      "tu": "hubieses buceado",
+      "ud": "hubiese buceado",
+      "nosotros": "hubiésemos buceado",
+      "vosotros": "hubieseis buceado",
+      "uds": "hubiesen buceado"
+    }
+  },
+  "afirmativo": {
+    "tu": "bucea",
+    "vosotros": "bucead",
+    "ud": "bucee",
+    "uds": "buceen"
+  },
+  "negativo": {
+    "tu": "no bucees",
+    "vosotros": "no buceéis",
+    "ud": "no bucee",
+    "uds": "no buceen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to skin-dive; to dive under water; to dive",
+    "gerundio": "skin-diving",
+    "participioPasado": "skin-dived",
+    "indicativo": {
+      "presente": "I skin-dive, am skin-diving",
+      "futuro": "I will skin-dive",
+      "imperfecto": "I was skin-diving, used to skin-dive, skin-dived",
+      "preterito": "I skin-dived",
+      "condicional": "I would skin-dive",
+      "presentePerfecto": "I have skin-dived",
+      "futuroPerfecto": "I will have skin-dived",
+      "pluscuamperfecto": "I had skin-dived",
+      "preteritoAnterior": "I had skin-dived",
+      "condicionalPerfecto": "I would have skin-dived"
+    },
+    "subjuntivo": {
+      "presente": "I skin-dive, am skin-diving",
+      "imperfecto": "I skin-dived, was skin-diving",
+      "futuro": "I will skin-dive",
+      "presentePerfecto": "I have skin-dived, skin-dived",
+      "futuroPerfecto": "I will have skin-dived",
+      "pluscuamperfecto": "I had skin-dived"
+    },
+    "afirmativo": "Skin-dive!",
+    "negativo": "Don't skin-dive!"
+  },
+  "attribution": "Fred Jehle"
+}

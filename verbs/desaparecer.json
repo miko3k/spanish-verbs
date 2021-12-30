@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "desaparecer",
+  "gerundio": "desapareciendo",
+  "participioPasado": "desaparecido",
+  "indicativo": {
+    "presente": {
+      "yo": "desaparezco",
+      "tu": "desapareces",
+      "ud": "desaparece",
+      "nosotros": "desaparecemos",
+      "vosotros": "desaparecéis",
+      "uds": "desaparecen"
+    },
+    "futuro": {
+      "yo": "desapareceré",
+      "tu": "desaparecerás",
+      "ud": "desaparecerá",
+      "nosotros": "desapareceremos",
+      "vosotros": "desapareceréis",
+      "uds": "desaparecerán"
+    },
+    "imperfecto": {
+      "yo": "desaparecía",
+      "tu": "desaparecías",
+      "ud": "desaparecía",
+      "nosotros": "desaparecíamos",
+      "vosotros": "desaparecíais",
+      "uds": "desaparecían"
+    },
+    "preterito": {
+      "yo": "desaparecí",
+      "tu": "desapareciste",
+      "ud": "desapareció",
+      "nosotros": "desaparecimos",
+      "vosotros": "desaparecisteis",
+      "uds": "desaparecieron"
+    },
+    "condicional": {
+      "yo": "desaparecería",
+      "tu": "desaparecerías",
+      "ud": "desaparecería",
+      "nosotros": "desapareceríamos",
+      "vosotros": "desapareceríais",
+      "uds": "desaparecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he desaparecido",
+      "tu": "has desaparecido",
+      "ud": "ha desaparecido",
+      "nosotros": "hemos desaparecido",
+      "vosotros": "habéis desaparecido",
+      "uds": "han desaparecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré desaparecido",
+      "tu": "habrás desaparecido",
+      "ud": "habrá desaparecido",
+      "nosotros": "habremos desaparecido",
+      "vosotros": "habréis desaparecido",
+      "uds": "habrán desaparecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había desaparecido",
+      "tu": "habías desaparecido",
+      "ud": "había desaparecido",
+      "nosotros": "habíamos desaparecido",
+      "vosotros": "habíais desaparecido",
+      "uds": "habían desaparecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube desaparecido",
+      "tu": "hubiste desaparecido",
+      "ud": "hubo desaparecido",
+      "nosotros": "hubimos desaparecido",
+      "vosotros": "hubisteis desaparecido",
+      "uds": "hubieron desaparecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría desaparecido",
+      "tu": "habrías desaparecido",
+      "ud": "habría desaparecido",
+      "nosotros": "habríamos desaparecido",
+      "vosotros": "habríais desaparecido",
+      "uds": "habrían desaparecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "desaparezca",
+      "tu": "desaparezcas",
+      "ud": "desaparezca",
+      "nosotros": "desaparezcamos",
+      "vosotros": "desaparezcáis",
+      "uds": "desaparezcan"
+    },
+    "imperfecto": {
+      "yo": "desapareciera",
+      "tu": "desaparecieras",
+      "ud": "desapareciera",
+      "nosotros": "desapareciéramos",
+      "vosotros": "desaparecierais",
+      "uds": "desaparecieran"
+    },
+    "futuro": {
+      "yo": "desapareciere",
+      "tu": "desaparecieres",
+      "ud": "desapareciere",
+      "nosotros": "desapareciéremos",
+      "vosotros": "desapareciereis",
+      "uds": "desaparecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya desaparecido",
+      "tu": "hayas desaparecido",
+      "ud": "haya desaparecido",
+      "nosotros": "hayamos desaparecido",
+      "vosotros": "hayáis desaparecido",
+      "uds": "hayan desaparecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere desaparecido",
+      "tu": "hubieres desaparecido",
+      "ud": "hubiere desaparecido",
+      "nosotros": "hubiéremos desaparecido",
+      "vosotros": "hubiereis desaparecido",
+      "uds": "hubieren desaparecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera desaparecido",
+      "tu": "hubieras desaparecido",
+      "ud": "hubiera desaparecido",
+      "nosotros": "hubiéramos desaparecido",
+      "vosotros": "hubierais desaparecido",
+      "uds": "hubieran desaparecido"
+    },
+    "imperfectoAlt": {
+      "yo": "desapareciese",
+      "tu": "desaparecieses",
+      "ud": "desapareciese",
+      "nosotros": "desapareciésemos",
+      "vosotros": "desaparecieseis",
+      "uds": "desapareciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese desaparecido",
+      "tu": "hubieses desaparecido",
+      "ud": "hubiese desaparecido",
+      "nosotros": "hubiésemos desaparecido",
+      "vosotros": "hubieseis desaparecido",
+      "uds": "hubiesen desaparecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "desaparece",
+    "vosotros": "desapareced",
+    "ud": "desaparezca",
+    "uds": "desaparezcan"
+  },
+  "negativo": {
+    "tu": "no desaparezcas",
+    "vosotros": "no desaparezcáis",
+    "ud": "no desaparezca",
+    "uds": "no desaparezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: desaparezco, desaparezca, desaparezcas, etc.",
+    "infinitivo": "to disappear",
+    "gerundio": "disappearing",
+    "participioPasado": "disappeared",
+    "indicativo": {
+      "presente": "I disappear, am disappearing",
+      "futuro": "I will disappear",
+      "imperfecto": "I was disappearing, used to disappear, disappeared",
+      "preterito": "I disappeared",
+      "condicional": "I would disappear",
+      "presentePerfecto": "I have disappeared",
+      "futuroPerfecto": "I will have disappeared",
+      "pluscuamperfecto": "I had disappeared",
+      "preteritoAnterior": "I had disappeared",
+      "condicionalPerfecto": "I would have disappeared"
+    },
+    "subjuntivo": {
+      "presente": "I disappear, am disappearing",
+      "imperfecto": "I disappeared, was disappearing",
+      "futuro": "I will disappear",
+      "presentePerfecto": "I have disappeared, disappeared",
+      "futuroPerfecto": "I will have disappeared",
+      "pluscuamperfecto": "I had disappeared"
+    },
+    "afirmativo": "Disappear!",
+    "negativo": "Don't disappear!"
+  },
+  "attribution": "Fred Jehle"
+}

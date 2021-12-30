@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "soportar",
+  "gerundio": "soportando",
+  "participioPasado": "soportado",
+  "indicativo": {
+    "presente": {
+      "yo": "soporto",
+      "tu": "soportas",
+      "ud": "soporta",
+      "nosotros": "soportamos",
+      "vosotros": "soportáis",
+      "uds": "soportan"
+    },
+    "futuro": {
+      "yo": "soportaré",
+      "tu": "soportarás",
+      "ud": "soportará",
+      "nosotros": "soportaremos",
+      "vosotros": "soportaréis",
+      "uds": "soportarán"
+    },
+    "imperfecto": {
+      "yo": "soportaba",
+      "tu": "soportabas",
+      "ud": "soportaba",
+      "nosotros": "soportábamos",
+      "vosotros": "soportabais",
+      "uds": "soportaban"
+    },
+    "preterito": {
+      "yo": "soporté",
+      "tu": "soportaste",
+      "ud": "soportó",
+      "nosotros": "soportamos",
+      "vosotros": "soportasteis",
+      "uds": "soportaron"
+    },
+    "condicional": {
+      "yo": "soportaría",
+      "tu": "soportarías",
+      "ud": "soportaría",
+      "nosotros": "soportaríamos",
+      "vosotros": "soportaríais",
+      "uds": "soportarían"
+    },
+    "presentePerfecto": {
+      "yo": "he soportado",
+      "tu": "has soportado",
+      "ud": "ha soportado",
+      "nosotros": "hemos soportado",
+      "vosotros": "habéis soportado",
+      "uds": "han soportado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré soportado",
+      "tu": "habrás soportado",
+      "ud": "habrá soportado",
+      "nosotros": "habremos soportado",
+      "vosotros": "habréis soportado",
+      "uds": "habrán soportado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había soportado",
+      "tu": "habías soportado",
+      "ud": "había soportado",
+      "nosotros": "habíamos soportado",
+      "vosotros": "habíais soportado",
+      "uds": "habían soportado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube soportado",
+      "tu": "hubiste soportado",
+      "ud": "hubo soportado",
+      "nosotros": "hubimos soportado",
+      "vosotros": "hubisteis soportado",
+      "uds": "hubieron soportado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría soportado",
+      "tu": "habrías soportado",
+      "ud": "habría soportado",
+      "nosotros": "habríamos soportado",
+      "vosotros": "habríais soportado",
+      "uds": "habrían soportado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "soporte",
+      "tu": "soportes",
+      "ud": "soporte",
+      "nosotros": "soportemos",
+      "vosotros": "soportéis",
+      "uds": "soporten"
+    },
+    "imperfecto": {
+      "yo": "soportara",
+      "tu": "soportaras",
+      "ud": "soportara",
+      "nosotros": "soportáramos",
+      "vosotros": "soportarais",
+      "uds": "soportaran"
+    },
+    "futuro": {
+      "yo": "soportare",
+      "tu": "soportares",
+      "ud": "soportare",
+      "nosotros": "soportáremos",
+      "vosotros": "soportareis",
+      "uds": "soportaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya soportado",
+      "tu": "hayas soportado",
+      "ud": "haya soportado",
+      "nosotros": "hayamos soportado",
+      "vosotros": "hayáis soportado",
+      "uds": "hayan soportado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere soportado",
+      "tu": "hubieres soportado",
+      "ud": "hubiere soportado",
+      "nosotros": "hubiéremos soportado",
+      "vosotros": "hubiereis soportado",
+      "uds": "hubieren soportado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera soportado",
+      "tu": "hubieras soportado",
+      "ud": "hubiera soportado",
+      "nosotros": "hubiéramos soportado",
+      "vosotros": "hubierais soportado",
+      "uds": "hubieran soportado"
+    },
+    "imperfectoAlt": {
+      "yo": "soportase",
+      "tu": "soportases",
+      "ud": "soportase",
+      "nosotros": "soportásemos",
+      "vosotros": "soportaseis",
+      "uds": "soportasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese soportado",
+      "tu": "hubieses soportado",
+      "ud": "hubiese soportado",
+      "nosotros": "hubiésemos soportado",
+      "vosotros": "hubieseis soportado",
+      "uds": "hubiesen soportado"
+    }
+  },
+  "afirmativo": {
+    "tu": "soporta",
+    "vosotros": "soportad",
+    "ud": "soporte",
+    "uds": "soporten"
+  },
+  "negativo": {
+    "tu": "no soportes",
+    "vosotros": "no soportéis",
+    "ud": "no soporte",
+    "uds": "no soporten"
+  },
+  "english": {
+    "note": "Note: Soportar can indicate physical or architectural support. It does not refer to moral/emotional support; instead, use apoyar.",
+    "infinitivo": "to support, hold up, bear; to put up with, tolerate",
+    "gerundio": "supporting",
+    "participioPasado": "supported",
+    "indicativo": {
+      "presente": "I support, am supporting",
+      "futuro": "I will support",
+      "imperfecto": "I was supporting, used to support, supported",
+      "preterito": "I supported",
+      "condicional": "I would support",
+      "presentePerfecto": "I have supported",
+      "futuroPerfecto": "I will have supported",
+      "pluscuamperfecto": "I had supported",
+      "preteritoAnterior": "I had supported",
+      "condicionalPerfecto": "I would have supported"
+    },
+    "subjuntivo": {
+      "presente": "I support, am supporting",
+      "imperfecto": "I supported, was supporting",
+      "futuro": "I will support",
+      "presentePerfecto": "I have supported, supported",
+      "futuroPerfecto": "I will have supported",
+      "pluscuamperfecto": "I had supported"
+    },
+    "afirmativo": "Support!",
+    "negativo": "Don't support!"
+  },
+  "attribution": "Fred Jehle"
+}

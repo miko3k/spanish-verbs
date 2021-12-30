@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "freír",
+  "gerundio": "friendo",
+  "participioPasado": "frito",
+  "indicativo": {
+    "presente": {
+      "yo": "frío",
+      "tu": "fríes",
+      "ud": "fríe",
+      "nosotros": "freímos",
+      "vosotros": "freís",
+      "uds": "fríen"
+    },
+    "futuro": {
+      "yo": "freiré",
+      "tu": "freirás",
+      "ud": "freirá",
+      "nosotros": "freiremos",
+      "vosotros": "freiréis",
+      "uds": "freirán"
+    },
+    "imperfecto": {
+      "yo": "freía",
+      "tu": "freías",
+      "ud": "freía",
+      "nosotros": "freíamos",
+      "vosotros": "freíais",
+      "uds": "freían"
+    },
+    "preterito": {
+      "yo": "freí",
+      "tu": "freíste",
+      "ud": "frió",
+      "nosotros": "freímos",
+      "vosotros": "freísteis",
+      "uds": "frieron"
+    },
+    "condicional": {
+      "yo": "freiría",
+      "tu": "freirías",
+      "ud": "freiría",
+      "nosotros": "freiríamos",
+      "vosotros": "freiríais",
+      "uds": "freirían"
+    },
+    "presentePerfecto": {
+      "yo": "he frito",
+      "tu": "has frito",
+      "ud": "ha frito",
+      "nosotros": "hemos frito",
+      "vosotros": "habéis frito",
+      "uds": "han frito"
+    },
+    "futuroPerfecto": {
+      "yo": "habré frito",
+      "tu": "habrás frito",
+      "ud": "habrá frito",
+      "nosotros": "habremos frito",
+      "vosotros": "habréis frito",
+      "uds": "habrán frito"
+    },
+    "pluscuamperfecto": {
+      "yo": "había frito",
+      "tu": "habías frito",
+      "ud": "había frito",
+      "nosotros": "habíamos frito",
+      "vosotros": "habíais frito",
+      "uds": "habían frito"
+    },
+    "preteritoAnterior": {
+      "yo": "hube frito",
+      "tu": "hubiste frito",
+      "ud": "hubo frito",
+      "nosotros": "hubimos frito",
+      "vosotros": "hubisteis frito",
+      "uds": "hubieron frito"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría frito",
+      "tu": "habrías frito",
+      "ud": "habría frito",
+      "nosotros": "habríamos frito",
+      "vosotros": "habríais frito",
+      "uds": "habrían frito"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "fría",
+      "tu": "frías",
+      "ud": "fría",
+      "nosotros": "friamos",
+      "vosotros": "friáis",
+      "uds": "frían"
+    },
+    "imperfecto": {
+      "yo": "friera",
+      "tu": "frieras",
+      "ud": "friera",
+      "nosotros": "friéramos",
+      "vosotros": "frierais",
+      "uds": "frieran"
+    },
+    "futuro": {
+      "yo": "friere",
+      "tu": "frieres",
+      "ud": "friere",
+      "nosotros": "friéremos",
+      "vosotros": "friereis",
+      "uds": "frieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya frito",
+      "tu": "hayas frito",
+      "ud": "haya frito",
+      "nosotros": "hayamos frito",
+      "vosotros": "hayáis frito",
+      "uds": "hayan frito"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere frito",
+      "tu": "hubieres frito",
+      "ud": "hubiere frito",
+      "nosotros": "hubiéremos frito",
+      "vosotros": "hubiereis frito",
+      "uds": "hubieren frito"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera frito",
+      "tu": "hubieras frito",
+      "ud": "hubiera frito",
+      "nosotros": "hubiéramos frito",
+      "vosotros": "hubierais frito",
+      "uds": "hubieran frito"
+    },
+    "imperfectoAlt": {
+      "yo": "riese",
+      "tu": "rieses",
+      "ud": "riese",
+      "nosotros": "riésemos",
+      "vosotros": "rieseis",
+      "uds": "riesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese frito",
+      "tu": "hubieses frito",
+      "ud": "hubiese frito",
+      "nosotros": "hubiésemos frito",
+      "vosotros": "hubieseis frito",
+      "uds": "hubiesen frito"
+    }
+  },
+  "afirmativo": {
+    "tu": "fríe",
+    "vosotros": "freíd",
+    "ud": "fría",
+    "uds": "frían"
+  },
+  "negativo": {
+    "tu": "no frías",
+    "vosotros": "no friáis",
+    "ud": "no fría",
+    "uds": "no frían"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Con la radical fri-: 1) la i radical lleva acento escrito cuando se acentúa la radical (frío, fríes, fría, etc.); 2) cuando se junta con una i no acuentuada, se pierde una i (e.g., fri + ió = frió). Participio pasado: frito. Mandato familiar plural: freíd.",
+    "infinitivo": "to fry",
+    "gerundio": "frying",
+    "participioPasado": "fried",
+    "indicativo": {
+      "presente": "I fry, am frying",
+      "futuro": "I will fry",
+      "imperfecto": "I was frying, used to fry, fried",
+      "preterito": "I fried",
+      "condicional": "I would fry",
+      "presentePerfecto": "I have fried",
+      "futuroPerfecto": "I will have fried",
+      "pluscuamperfecto": "I had fried",
+      "preteritoAnterior": "I had fried",
+      "condicionalPerfecto": "I would have fried"
+    },
+    "subjuntivo": {
+      "presente": "I fry, am frying",
+      "imperfecto": "I fried, was frying",
+      "futuro": "I will fry",
+      "presentePerfecto": "I have fried, fried",
+      "futuroPerfecto": "I will have fried",
+      "pluscuamperfecto": "I had fried"
+    },
+    "afirmativo": "Fry!",
+    "negativo": "Don't fry!"
+  },
+  "attribution": "Fred Jehle"
+}

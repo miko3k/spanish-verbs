@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "formar",
+  "gerundio": "formando",
+  "participioPasado": "formado",
+  "indicativo": {
+    "presente": {
+      "yo": "formo",
+      "tu": "formas",
+      "ud": "forma",
+      "nosotros": "formamos",
+      "vosotros": "formáis",
+      "uds": "forman"
+    },
+    "futuro": {
+      "yo": "formaré",
+      "tu": "formarás",
+      "ud": "formará",
+      "nosotros": "formaremos",
+      "vosotros": "formaréis",
+      "uds": "formarán"
+    },
+    "imperfecto": {
+      "yo": "formaba",
+      "tu": "formabas",
+      "ud": "formaba",
+      "nosotros": "formábamos",
+      "vosotros": "formabais",
+      "uds": "formaban"
+    },
+    "preterito": {
+      "yo": "formé",
+      "tu": "formaste",
+      "ud": "formó",
+      "nosotros": "formamos",
+      "vosotros": "formasteis",
+      "uds": "formaron"
+    },
+    "condicional": {
+      "yo": "formaría",
+      "tu": "formarías",
+      "ud": "formaría",
+      "nosotros": "formaríamos",
+      "vosotros": "formaríais",
+      "uds": "formarían"
+    },
+    "presentePerfecto": {
+      "yo": "he formado",
+      "tu": "has formado",
+      "ud": "ha formado",
+      "nosotros": "hemos formado",
+      "vosotros": "habéis formado",
+      "uds": "han formado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré formado",
+      "tu": "habrás formado",
+      "ud": "habrá formado",
+      "nosotros": "habremos formado",
+      "vosotros": "habréis formado",
+      "uds": "habrán formado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había formado",
+      "tu": "habías formado",
+      "ud": "había formado",
+      "nosotros": "habíamos formado",
+      "vosotros": "habíais formado",
+      "uds": "habían formado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube formado",
+      "tu": "hubiste formado",
+      "ud": "hubo formado",
+      "nosotros": "hubimos formado",
+      "vosotros": "hubisteis formado",
+      "uds": "hubieron formado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría formado",
+      "tu": "habrías formado",
+      "ud": "habría formado",
+      "nosotros": "habríamos formado",
+      "vosotros": "habríais formado",
+      "uds": "habrían formado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "forme",
+      "tu": "formes",
+      "ud": "forme",
+      "nosotros": "formemos",
+      "vosotros": "forméis",
+      "uds": "formen"
+    },
+    "imperfecto": {
+      "yo": "formara",
+      "tu": "formaras",
+      "ud": "formara",
+      "nosotros": "formáramos",
+      "vosotros": "formarais",
+      "uds": "formaran"
+    },
+    "futuro": {
+      "yo": "formare",
+      "tu": "formares",
+      "ud": "formare",
+      "nosotros": "formáremos",
+      "vosotros": "formareis",
+      "uds": "formaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya formado",
+      "tu": "hayas formado",
+      "ud": "haya formado",
+      "nosotros": "hayamos formado",
+      "vosotros": "hayáis formado",
+      "uds": "hayan formado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere formado",
+      "tu": "hubieres formado",
+      "ud": "hubiere formado",
+      "nosotros": "hubiéremos formado",
+      "vosotros": "hubiereis formado",
+      "uds": "hubieren formado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera formado",
+      "tu": "hubieras formado",
+      "ud": "hubiera formado",
+      "nosotros": "hubiéramos formado",
+      "vosotros": "hubierais formado",
+      "uds": "hubieran formado"
+    },
+    "imperfectoAlt": {
+      "yo": "formase",
+      "tu": "formases",
+      "ud": "formase",
+      "nosotros": "formásemos",
+      "vosotros": "formaseis",
+      "uds": "formasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese formado",
+      "tu": "hubieses formado",
+      "ud": "hubiese formado",
+      "nosotros": "hubiésemos formado",
+      "vosotros": "hubieseis formado",
+      "uds": "hubiesen formado"
+    }
+  },
+  "afirmativo": {
+    "tu": "forma",
+    "vosotros": "formad",
+    "ud": "forme",
+    "uds": "formen"
+  },
+  "negativo": {
+    "tu": "no formes",
+    "vosotros": "no forméis",
+    "ud": "no forme",
+    "uds": "no formen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to form, shape, fashion, make",
+    "gerundio": "forming",
+    "participioPasado": "formed",
+    "indicativo": {
+      "presente": "I form, am forming",
+      "futuro": "I will form",
+      "imperfecto": "I was forming, used to form, formed",
+      "preterito": "I formed",
+      "condicional": "I would form",
+      "presentePerfecto": "I have formed",
+      "futuroPerfecto": "I will have formed",
+      "pluscuamperfecto": "I had formed",
+      "preteritoAnterior": "I had formed",
+      "condicionalPerfecto": "I would have formed"
+    },
+    "subjuntivo": {
+      "presente": "I form, am forming",
+      "imperfecto": "I formed, was forming",
+      "futuro": "I will form",
+      "presentePerfecto": "I have formed, formed",
+      "futuroPerfecto": "I will have formed",
+      "pluscuamperfecto": "I had formed"
+    },
+    "afirmativo": "Form!",
+    "negativo": "Don't form!"
+  },
+  "attribution": "Fred Jehle"
+}

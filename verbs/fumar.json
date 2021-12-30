@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "fumar",
+  "gerundio": "fumando",
+  "participioPasado": "fumado",
+  "indicativo": {
+    "presente": {
+      "yo": "fumo",
+      "tu": "fumas",
+      "ud": "fuma",
+      "nosotros": "fumamos",
+      "vosotros": "fumáis",
+      "uds": "fuman"
+    },
+    "futuro": {
+      "yo": "fumaré",
+      "tu": "fumarás",
+      "ud": "fumará",
+      "nosotros": "fumaremos",
+      "vosotros": "fumaréis",
+      "uds": "fumarán"
+    },
+    "imperfecto": {
+      "yo": "fumaba",
+      "tu": "fumabas",
+      "ud": "fumaba",
+      "nosotros": "fumábamos",
+      "vosotros": "fumabais",
+      "uds": "fumaban"
+    },
+    "preterito": {
+      "yo": "fumé",
+      "tu": "fumaste",
+      "ud": "fumó",
+      "nosotros": "fumamos",
+      "vosotros": "fumasteis",
+      "uds": "fumaron"
+    },
+    "condicional": {
+      "yo": "fumaría",
+      "tu": "fumarías",
+      "ud": "fumaría",
+      "nosotros": "fumaríamos",
+      "vosotros": "fumaríais",
+      "uds": "fumarían"
+    },
+    "presentePerfecto": {
+      "yo": "he fumado",
+      "tu": "has fumado",
+      "ud": "ha fumado",
+      "nosotros": "hemos fumado",
+      "vosotros": "habéis fumado",
+      "uds": "han fumado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré fumado",
+      "tu": "habrás fumado",
+      "ud": "habrá fumado",
+      "nosotros": "habremos fumado",
+      "vosotros": "habréis fumado",
+      "uds": "habrán fumado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había fumado",
+      "tu": "habías fumado",
+      "ud": "había fumado",
+      "nosotros": "habíamos fumado",
+      "vosotros": "habíais fumado",
+      "uds": "habían fumado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube fumado",
+      "tu": "hubiste fumado",
+      "ud": "hubo fumado",
+      "nosotros": "hubimos fumado",
+      "vosotros": "hubisteis fumado",
+      "uds": "hubieron fumado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría fumado",
+      "tu": "habrías fumado",
+      "ud": "habría fumado",
+      "nosotros": "habríamos fumado",
+      "vosotros": "habríais fumado",
+      "uds": "habrían fumado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "fume",
+      "tu": "fumes",
+      "ud": "fume",
+      "nosotros": "fumemos",
+      "vosotros": "fuméis",
+      "uds": "fumen"
+    },
+    "imperfecto": {
+      "yo": "fumara",
+      "tu": "fumaras",
+      "ud": "fumara",
+      "nosotros": "fumáramos",
+      "vosotros": "fumarais",
+      "uds": "fumaran"
+    },
+    "futuro": {
+      "yo": "fumare",
+      "tu": "fumares",
+      "ud": "fumare",
+      "nosotros": "fumáremos",
+      "vosotros": "fumareis",
+      "uds": "fumaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya fumado",
+      "tu": "hayas fumado",
+      "ud": "haya fumado",
+      "nosotros": "hayamos fumado",
+      "vosotros": "hayáis fumado",
+      "uds": "hayan fumado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere fumado",
+      "tu": "hubieres fumado",
+      "ud": "hubiere fumado",
+      "nosotros": "hubiéremos fumado",
+      "vosotros": "hubiereis fumado",
+      "uds": "hubieren fumado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera fumado",
+      "tu": "hubieras fumado",
+      "ud": "hubiera fumado",
+      "nosotros": "hubiéramos fumado",
+      "vosotros": "hubierais fumado",
+      "uds": "hubieran fumado"
+    },
+    "imperfectoAlt": {
+      "yo": "fumase",
+      "tu": "fumases",
+      "ud": "fumase",
+      "nosotros": "fumásemos",
+      "vosotros": "fumaseis",
+      "uds": "fumasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese fumado",
+      "tu": "hubieses fumado",
+      "ud": "hubiese fumado",
+      "nosotros": "hubiésemos fumado",
+      "vosotros": "hubieseis fumado",
+      "uds": "hubiesen fumado"
+    }
+  },
+  "afirmativo": {
+    "tu": "fuma",
+    "vosotros": "fumad",
+    "ud": "fume",
+    "uds": "fumen"
+  },
+  "negativo": {
+    "tu": "no fumes",
+    "vosotros": "no fuméis",
+    "ud": "no fume",
+    "uds": "no fumen"
+  },
+  "english": {
+    "note": "Note: Normally used in the sense of to smoke tobacco products.",
+    "infinitivo": "to smoke",
+    "gerundio": "smoking",
+    "participioPasado": "smoked",
+    "indicativo": {
+      "presente": "I smoke, am smoking",
+      "futuro": "I will smoke",
+      "imperfecto": "I was smoking, used to smoke, smoked",
+      "preterito": "I smoked",
+      "condicional": "I would smoke",
+      "presentePerfecto": "I have smoked",
+      "futuroPerfecto": "I will have smoked",
+      "pluscuamperfecto": "I had smoked",
+      "preteritoAnterior": "I had smoked",
+      "condicionalPerfecto": "I would have smoked"
+    },
+    "subjuntivo": {
+      "presente": "I smoke, am smoking",
+      "imperfecto": "I smoked, was smoking",
+      "futuro": "I will smoke",
+      "presentePerfecto": "I have smoked, smoked",
+      "futuroPerfecto": "I will have smoked",
+      "pluscuamperfecto": "I had smoked"
+    },
+    "afirmativo": "Smoke!",
+    "negativo": "Don't smoke!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "conocer",
+  "gerundio": "conociendo",
+  "participioPasado": "conocido",
+  "indicativo": {
+    "presente": {
+      "yo": "conozco",
+      "tu": "conoces",
+      "ud": "conoce",
+      "nosotros": "conocemos",
+      "vosotros": "conocéis",
+      "uds": "conocen"
+    },
+    "futuro": {
+      "yo": "conoceré",
+      "tu": "conocerás",
+      "ud": "conocerá",
+      "nosotros": "conoceremos",
+      "vosotros": "conoceréis",
+      "uds": "conocerán"
+    },
+    "imperfecto": {
+      "yo": "conocía",
+      "tu": "conocías",
+      "ud": "conocía",
+      "nosotros": "conocíamos",
+      "vosotros": "conocíais",
+      "uds": "conocían"
+    },
+    "preterito": {
+      "yo": "conocí",
+      "tu": "conociste",
+      "ud": "conoció",
+      "nosotros": "conocimos",
+      "vosotros": "conocisteis",
+      "uds": "conocieron"
+    },
+    "condicional": {
+      "yo": "conocería",
+      "tu": "conocerías",
+      "ud": "conocería",
+      "nosotros": "conoceríamos",
+      "vosotros": "conoceríais",
+      "uds": "conocerían"
+    },
+    "presentePerfecto": {
+      "yo": "he conocido",
+      "tu": "has conocido",
+      "ud": "ha conocido",
+      "nosotros": "hemos conocido",
+      "vosotros": "habéis conocido",
+      "uds": "han conocido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré conocido",
+      "tu": "habrás conocido",
+      "ud": "habrá conocido",
+      "nosotros": "habremos conocido",
+      "vosotros": "habréis conocido",
+      "uds": "habrán conocido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había conocido",
+      "tu": "habías conocido",
+      "ud": "había conocido",
+      "nosotros": "habíamos conocido",
+      "vosotros": "habíais conocido",
+      "uds": "habían conocido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube conocido",
+      "tu": "hubiste conocido",
+      "ud": "hubo conocido",
+      "nosotros": "hubimos conocido",
+      "vosotros": "hubisteis conocido",
+      "uds": "hubieron conocido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría conocido",
+      "tu": "habrías conocido",
+      "ud": "habría conocido",
+      "nosotros": "habríamos conocido",
+      "vosotros": "habríais conocido",
+      "uds": "habrían conocido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "conozca",
+      "tu": "conozcas",
+      "ud": "conozca",
+      "nosotros": "conozcamos",
+      "vosotros": "conozcáis",
+      "uds": "conozcan"
+    },
+    "imperfecto": {
+      "yo": "conociera",
+      "tu": "conocieras",
+      "ud": "conociera",
+      "nosotros": "conociéramos",
+      "vosotros": "conocierais",
+      "uds": "conocieran"
+    },
+    "futuro": {
+      "yo": "conociere",
+      "tu": "conocieres",
+      "ud": "conociere",
+      "nosotros": "conociéremos",
+      "vosotros": "conociereis",
+      "uds": "conocieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya conocido",
+      "tu": "hayas conocido",
+      "ud": "haya conocido",
+      "nosotros": "hayamos conocido",
+      "vosotros": "hayáis conocido",
+      "uds": "hayan conocido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere conocido",
+      "tu": "hubieres conocido",
+      "ud": "hubiere conocido",
+      "nosotros": "hubiéremos conocido",
+      "vosotros": "hubiereis conocido",
+      "uds": "hubieren conocido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera conocido",
+      "tu": "hubieras conocido",
+      "ud": "hubiera conocido",
+      "nosotros": "hubiéramos conocido",
+      "vosotros": "hubierais conocido",
+      "uds": "hubieran conocido"
+    },
+    "imperfectoAlt": {
+      "yo": "conociese",
+      "tu": "conocieses",
+      "ud": "conociese",
+      "nosotros": "conociésemos",
+      "vosotros": "conocieseis",
+      "uds": "conociesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese conocido",
+      "tu": "hubieses conocido",
+      "ud": "hubiese conocido",
+      "nosotros": "hubiésemos conocido",
+      "vosotros": "hubieseis conocido",
+      "uds": "hubiesen conocido"
+    }
+  },
+  "afirmativo": {
+    "tu": "conoce",
+    "vosotros": "conoced",
+    "ud": "conozca",
+    "uds": "conozcan"
+  },
+  "negativo": {
+    "tu": "no conozcas",
+    "vosotros": "no conozcáis",
+    "ud": "no conozca",
+    "uds": "no conozcan"
+  },
+  "english": {
+    "note": "Formas irregulares: conozco, conozca, conozcas, etc.",
+    "infinitivo": "to know (people, places)",
+    "gerundio": "knowing",
+    "participioPasado": "known",
+    "indicativo": {
+      "presente": "I know",
+      "futuro": "I will know",
+      "imperfecto": "I used to know, knew",
+      "preterito": "I knew",
+      "condicional": "I would know",
+      "presentePerfecto": "I have known",
+      "futuroPerfecto": "I will have known",
+      "pluscuamperfecto": "I had known",
+      "preteritoAnterior": "I had known",
+      "condicionalPerfecto": "I would have known"
+    },
+    "subjuntivo": {
+      "presente": "I know",
+      "imperfecto": "I knew, was knowing",
+      "futuro": "I will know",
+      "presentePerfecto": "I have known, knew",
+      "futuroPerfecto": "I will have known",
+      "pluscuamperfecto": "I had known"
+    },
+    "afirmativo": "Know!",
+    "negativo": "Don't know!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "ver",
+  "gerundio": "viendo",
+  "participioPasado": "visto",
+  "indicativo": {
+    "presente": {
+      "yo": "veo",
+      "tu": "ves",
+      "ud": "ve",
+      "nosotros": "vemos",
+      "vosotros": "veis",
+      "uds": "ven"
+    },
+    "futuro": {
+      "yo": "veré",
+      "tu": "verás",
+      "ud": "verá",
+      "nosotros": "veremos",
+      "vosotros": "veréis",
+      "uds": "verán"
+    },
+    "imperfecto": {
+      "yo": "veía",
+      "tu": "veías",
+      "ud": "veía",
+      "nosotros": "veíamos",
+      "vosotros": "veíais",
+      "uds": "veían"
+    },
+    "preterito": {
+      "yo": "vi",
+      "tu": "viste",
+      "ud": "vio",
+      "nosotros": "vimos",
+      "vosotros": "visteis",
+      "uds": "vieron"
+    },
+    "condicional": {
+      "yo": "vería",
+      "tu": "verías",
+      "ud": "vería",
+      "nosotros": "veríamos",
+      "vosotros": "veríais",
+      "uds": "verían"
+    },
+    "presentePerfecto": {
+      "yo": "he visto",
+      "tu": "has visto",
+      "ud": "ha visto",
+      "nosotros": "hemos visto",
+      "vosotros": "habéis visto",
+      "uds": "han visto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré visto",
+      "tu": "habrás visto",
+      "ud": "habrá visto",
+      "nosotros": "habremos visto",
+      "vosotros": "habréis visto",
+      "uds": "habrán visto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había visto",
+      "tu": "habías visto",
+      "ud": "había visto",
+      "nosotros": "habíamos visto",
+      "vosotros": "habíais visto",
+      "uds": "habían visto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube visto",
+      "tu": "hubiste visto",
+      "ud": "hubo visto",
+      "nosotros": "hubimos visto",
+      "vosotros": "hubisteis visto",
+      "uds": "hubieron visto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría visto",
+      "tu": "habrías visto",
+      "ud": "habría visto",
+      "nosotros": "habríamos visto",
+      "vosotros": "habríais visto",
+      "uds": "habrían visto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "vea",
+      "tu": "veas",
+      "ud": "vea",
+      "nosotros": "veamos",
+      "vosotros": "veáis",
+      "uds": "vean"
+    },
+    "imperfecto": {
+      "yo": "viera",
+      "tu": "vieras",
+      "ud": "viera",
+      "nosotros": "viéramos",
+      "vosotros": "vierais",
+      "uds": "vieran"
+    },
+    "futuro": {
+      "yo": "viere",
+      "tu": "vieres",
+      "ud": "viere",
+      "nosotros": "viéremos",
+      "vosotros": "viereis",
+      "uds": "vieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya visto",
+      "tu": "hayas visto",
+      "ud": "haya visto",
+      "nosotros": "hayamos visto",
+      "vosotros": "hayáis visto",
+      "uds": "hayan visto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere visto",
+      "tu": "hubieres visto",
+      "ud": "hubiere visto",
+      "nosotros": "hubiéremos visto",
+      "vosotros": "hubiereis visto",
+      "uds": "hubieren visto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera visto",
+      "tu": "hubieras visto",
+      "ud": "hubiera visto",
+      "nosotros": "hubiéramos visto",
+      "vosotros": "hubierais visto",
+      "uds": "hubieran visto"
+    },
+    "imperfectoAlt": {
+      "yo": "viese",
+      "tu": "vieses",
+      "ud": "viese",
+      "nosotros": "viésemos",
+      "vosotros": "vieseis",
+      "uds": "viesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese visto",
+      "tu": "hubieses visto",
+      "ud": "hubiese visto",
+      "nosotros": "hubiésemos visto",
+      "vosotros": "hubieseis visto",
+      "uds": "hubiesen visto"
+    }
+  },
+  "afirmativo": {
+    "tu": "ve",
+    "vosotros": "ved",
+    "ud": "vea",
+    "uds": "vean"
+  },
+  "negativo": {
+    "tu": "no veas",
+    "vosotros": "no veáis",
+    "ud": "no vea",
+    "uds": "no vean"
+  },
+  "english": {
+    "note": "Formas irregulares: veo, vea, veas. Radical irregular en el imperfecto: ve-. Participio pasado irregular: visto. No hay acento escrito en el pretérito: vi, vio.",
+    "infinitivo": "to see",
+    "gerundio": "seeing",
+    "participioPasado": "seen",
+    "indicativo": {
+      "presente": "I see, am seeing",
+      "futuro": "I will see",
+      "imperfecto": "I was seeing, used to see, saw",
+      "preterito": "I saw",
+      "condicional": "I would see",
+      "presentePerfecto": "I have seen",
+      "futuroPerfecto": "I will have seen",
+      "pluscuamperfecto": "I had seen",
+      "preteritoAnterior": "I had seen",
+      "condicionalPerfecto": "I would have seen"
+    },
+    "subjuntivo": {
+      "presente": "I see, am seeing",
+      "imperfecto": "I saw, was seeing",
+      "futuro": "I will see",
+      "presentePerfecto": "I have seen, saw",
+      "futuroPerfecto": "I will have seen",
+      "pluscuamperfecto": "I had seen"
+    },
+    "afirmativo": "See!",
+    "negativo": "Don't see!"
+  },
+  "attribution": "Fred Jehle"
+}

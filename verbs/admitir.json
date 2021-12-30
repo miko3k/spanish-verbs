@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "admitir",
+  "gerundio": "admitiendo",
+  "participioPasado": "admitido",
+  "indicativo": {
+    "presente": {
+      "yo": "admito",
+      "tu": "admites",
+      "ud": "admite",
+      "nosotros": "admitimos",
+      "vosotros": "admitís",
+      "uds": "admiten"
+    },
+    "futuro": {
+      "yo": "admitiré",
+      "tu": "admitirás",
+      "ud": "admitirá",
+      "nosotros": "admitiremos",
+      "vosotros": "admitiréis",
+      "uds": "admitirán"
+    },
+    "imperfecto": {
+      "yo": "admitía",
+      "tu": "admitías",
+      "ud": "admitía",
+      "nosotros": "admitíamos",
+      "vosotros": "admitíais",
+      "uds": "admitían"
+    },
+    "preterito": {
+      "yo": "admití",
+      "tu": "admitiste",
+      "ud": "admitió",
+      "nosotros": "admitimos",
+      "vosotros": "admitisteis",
+      "uds": "admitieron"
+    },
+    "condicional": {
+      "yo": "admitiría",
+      "tu": "admitirías",
+      "ud": "admitiría",
+      "nosotros": "admitiríamos",
+      "vosotros": "admitiríais",
+      "uds": "admitirían"
+    },
+    "presentePerfecto": {
+      "yo": "he admitido",
+      "tu": "has admitido",
+      "ud": "ha admitido",
+      "nosotros": "hemos admitido",
+      "vosotros": "habéis admitido",
+      "uds": "han admitido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré admitido",
+      "tu": "habrás admitido",
+      "ud": "habrá admitido",
+      "nosotros": "habremos admitido",
+      "vosotros": "habréis admitido",
+      "uds": "habrán admitido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había admitido",
+      "tu": "habías admitido",
+      "ud": "había admitido",
+      "nosotros": "habíamos admitido",
+      "vosotros": "habíais admitido",
+      "uds": "habían admitido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube admitido",
+      "tu": "hubiste admitido",
+      "ud": "hubo admitido",
+      "nosotros": "hubimos admitido",
+      "vosotros": "hubisteis admitido",
+      "uds": "hubieron admitido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría admitido",
+      "tu": "habrías admitido",
+      "ud": "habría admitido",
+      "nosotros": "habríamos admitido",
+      "vosotros": "habríais admitido",
+      "uds": "habrían admitido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "admita",
+      "tu": "admitas",
+      "ud": "admita",
+      "nosotros": "admitamos",
+      "vosotros": "admitáis",
+      "uds": "admitan"
+    },
+    "imperfecto": {
+      "yo": "admitiera",
+      "tu": "admitieras",
+      "ud": "admitiera",
+      "nosotros": "admitiéramos",
+      "vosotros": "admitierais",
+      "uds": "admitieran"
+    },
+    "futuro": {
+      "yo": "admitiere",
+      "tu": "admitieres",
+      "ud": "admitiere",
+      "nosotros": "admitiéremos",
+      "vosotros": "admitiereis",
+      "uds": "admitieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya admitido",
+      "tu": "hayas admitido",
+      "ud": "haya admitido",
+      "nosotros": "hayamos admitido",
+      "vosotros": "hayáis admitido",
+      "uds": "hayan admitido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere admitido",
+      "tu": "hubieres admitido",
+      "ud": "hubiere admitido",
+      "nosotros": "hubiéremos admitido",
+      "vosotros": "hubiereis admitido",
+      "uds": "hubieren admitido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera admitido",
+      "tu": "hubieras admitido",
+      "ud": "hubiera admitido",
+      "nosotros": "hubiéramos admitido",
+      "vosotros": "hubierais admitido",
+      "uds": "hubieran admitido"
+    },
+    "imperfectoAlt": {
+      "yo": "admitiese",
+      "tu": "admitieses",
+      "ud": "admitiese",
+      "nosotros": "admitiésemos",
+      "vosotros": "admitieseis",
+      "uds": "admitiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese admitido",
+      "tu": "hubieses admitido",
+      "ud": "hubiese admitido",
+      "nosotros": "hubiésemos admitido",
+      "vosotros": "hubieseis admitido",
+      "uds": "hubiesen admitido"
+    }
+  },
+  "afirmativo": {
+    "tu": "admite",
+    "vosotros": "admitid",
+    "ud": "admita",
+    "uds": "admitan"
+  },
+  "negativo": {
+    "tu": "no admitas",
+    "vosotros": "no admitáis",
+    "ud": "no admita",
+    "uds": "no admitan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to admit, accept, allow, recognize",
+    "gerundio": "admitting",
+    "participioPasado": "admitted",
+    "indicativo": {
+      "presente": "I admit, am admitting",
+      "futuro": "I will admit",
+      "imperfecto": "I was admitting, used to admit, admitted",
+      "preterito": "I admitted",
+      "condicional": "I would admit",
+      "presentePerfecto": "I have admitted",
+      "futuroPerfecto": "I will have admitted",
+      "pluscuamperfecto": "I had admitted",
+      "preteritoAnterior": "I had admitted",
+      "condicionalPerfecto": "I would have admitted"
+    },
+    "subjuntivo": {
+      "presente": "I admit, am admitting",
+      "imperfecto": "I admitted, was admitting",
+      "futuro": "I will admit",
+      "presentePerfecto": "I have admitted, admitted",
+      "futuroPerfecto": "I will have admitted",
+      "pluscuamperfecto": "I had admitted"
+    },
+    "afirmativo": "Admit!",
+    "negativo": "Don't admit!"
+  },
+  "attribution": "Fred Jehle"
+}

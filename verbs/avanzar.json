@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "avanzar",
+  "gerundio": "avanzando",
+  "participioPasado": "avanzado",
+  "indicativo": {
+    "presente": {
+      "yo": "avanzo",
+      "tu": "avanzas",
+      "ud": "avanza",
+      "nosotros": "avanzamos",
+      "vosotros": "avanzáis",
+      "uds": "avanzan"
+    },
+    "futuro": {
+      "yo": "avanzaré",
+      "tu": "avanzarás",
+      "ud": "avanzará",
+      "nosotros": "avanzaremos",
+      "vosotros": "avanzaréis",
+      "uds": "avanzarán"
+    },
+    "imperfecto": {
+      "yo": "avanzaba",
+      "tu": "avanzabas",
+      "ud": "avanzaba",
+      "nosotros": "avanzábamos",
+      "vosotros": "avanzabais",
+      "uds": "avanzaban"
+    },
+    "preterito": {
+      "yo": "avancé",
+      "tu": "avanzaste",
+      "ud": "avanzó",
+      "nosotros": "avanzamos",
+      "vosotros": "avanzasteis",
+      "uds": "avanzaron"
+    },
+    "condicional": {
+      "yo": "avanzaría",
+      "tu": "avanzarías",
+      "ud": "avanzaría",
+      "nosotros": "avanzaríamos",
+      "vosotros": "avanzaríais",
+      "uds": "avanzarían"
+    },
+    "presentePerfecto": {
+      "yo": "he avanzado",
+      "tu": "has avanzado",
+      "ud": "ha avanzado",
+      "nosotros": "hemos avanzado",
+      "vosotros": "habéis avanzado",
+      "uds": "han avanzado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré avanzado",
+      "tu": "habrás avanzado",
+      "ud": "habrá avanzado",
+      "nosotros": "habremos avanzado",
+      "vosotros": "habréis avanzado",
+      "uds": "habrán avanzado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había avanzado",
+      "tu": "habías avanzado",
+      "ud": "había avanzado",
+      "nosotros": "habíamos avanzado",
+      "vosotros": "habíais avanzado",
+      "uds": "habían avanzado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube avanzado",
+      "tu": "hubiste avanzado",
+      "ud": "hubo avanzado",
+      "nosotros": "hubimos avanzado",
+      "vosotros": "hubisteis avanzado",
+      "uds": "hubieron avanzado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría avanzado",
+      "tu": "habrías avanzado",
+      "ud": "habría avanzado",
+      "nosotros": "habríamos avanzado",
+      "vosotros": "habríais avanzado",
+      "uds": "habrían avanzado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "avance",
+      "tu": "avances",
+      "ud": "avance",
+      "nosotros": "avancemos",
+      "vosotros": "avancéis",
+      "uds": "avancen"
+    },
+    "imperfecto": {
+      "yo": "avanzara",
+      "tu": "avanzaras",
+      "ud": "avanzara",
+      "nosotros": "avanzáramos",
+      "vosotros": "avanzarais",
+      "uds": "avanzaran"
+    },
+    "futuro": {
+      "yo": "avanzare",
+      "tu": "avanzares",
+      "ud": "avanzare",
+      "nosotros": "avanzáremos",
+      "vosotros": "avanzareis",
+      "uds": "avanzaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya avanzado",
+      "tu": "hayas avanzado",
+      "ud": "haya avanzado",
+      "nosotros": "hayamos avanzado",
+      "vosotros": "hayáis avanzado",
+      "uds": "hayan avanzado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere avanzado",
+      "tu": "hubieres avanzado",
+      "ud": "hubiere avanzado",
+      "nosotros": "hubiéremos avanzado",
+      "vosotros": "hubiereis avanzado",
+      "uds": "hubieren avanzado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera avanzado",
+      "tu": "hubieras avanzado",
+      "ud": "hubiera avanzado",
+      "nosotros": "hubiéramos avanzado",
+      "vosotros": "hubierais avanzado",
+      "uds": "hubieran avanzado"
+    },
+    "imperfectoAlt": {
+      "yo": "avanzase",
+      "tu": "avanzases",
+      "ud": "avanzase",
+      "nosotros": "avanzásemos",
+      "vosotros": "avanzaseis",
+      "uds": "avanzasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese avanzado",
+      "tu": "hubieses avanzado",
+      "ud": "hubiese avanzado",
+      "nosotros": "hubiésemos avanzado",
+      "vosotros": "hubieseis avanzado",
+      "uds": "hubiesen avanzado"
+    }
+  },
+  "afirmativo": {
+    "tu": "avanza",
+    "vosotros": "avanzad",
+    "ud": "avance",
+    "uds": "avancen"
+  },
+  "negativo": {
+    "tu": "no avances",
+    "vosotros": "no avancéis",
+    "ud": "no avance",
+    "uds": "no avancen"
+  },
+  "english": {
+    "note": "Cambio otográfico: z > c delante de e.",
+    "infinitivo": "to advance, move forward",
+    "gerundio": "advancing",
+    "participioPasado": "advanced",
+    "indicativo": {
+      "presente": "I advance, am advancing",
+      "futuro": "I will advance",
+      "imperfecto": "I was advancing, used to advance, advanced",
+      "preterito": "I advanced",
+      "condicional": "I would advance",
+      "presentePerfecto": "I have advanced",
+      "futuroPerfecto": "I will have advanced",
+      "pluscuamperfecto": "I had advanced",
+      "preteritoAnterior": "I had advanced",
+      "condicionalPerfecto": "I would have advanced"
+    },
+    "subjuntivo": {
+      "presente": "I advance, am advancing",
+      "imperfecto": "I advanced, was advancing",
+      "futuro": "I will advance",
+      "presentePerfecto": "I have advanced, advanced",
+      "futuroPerfecto": "I will have advanced",
+      "pluscuamperfecto": "I had advanced"
+    },
+    "afirmativo": "Advance!",
+    "negativo": "Don't advance!"
+  },
+  "attribution": "Fred Jehle"
+}

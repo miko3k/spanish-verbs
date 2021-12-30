@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "practicar",
+  "gerundio": "practicando",
+  "participioPasado": "practicado",
+  "indicativo": {
+    "presente": {
+      "yo": "practico",
+      "tu": "practicas",
+      "ud": "practica",
+      "nosotros": "practicamos",
+      "vosotros": "practicáis",
+      "uds": "practican"
+    },
+    "futuro": {
+      "yo": "practicaré",
+      "tu": "practicarás",
+      "ud": "practicará",
+      "nosotros": "practicaremos",
+      "vosotros": "practicaréis",
+      "uds": "practicarán"
+    },
+    "imperfecto": {
+      "yo": "practicaba",
+      "tu": "practicabas",
+      "ud": "practicaba",
+      "nosotros": "practicábamos",
+      "vosotros": "practicabais",
+      "uds": "practicaban"
+    },
+    "preterito": {
+      "yo": "practiqué",
+      "tu": "practicaste",
+      "ud": "practicó",
+      "nosotros": "practicamos",
+      "vosotros": "practicasteis",
+      "uds": "practicaron"
+    },
+    "condicional": {
+      "yo": "practicaría",
+      "tu": "practicarías",
+      "ud": "practicaría",
+      "nosotros": "practicaríamos",
+      "vosotros": "practicaríais",
+      "uds": "practicarían"
+    },
+    "presentePerfecto": {
+      "yo": "he practicado",
+      "tu": "has practicado",
+      "ud": "ha practicado",
+      "nosotros": "hemos practicado",
+      "vosotros": "habéis practicado",
+      "uds": "han practicado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré practicado",
+      "tu": "habrás practicado",
+      "ud": "habrá practicado",
+      "nosotros": "habremos practicado",
+      "vosotros": "habréis practicado",
+      "uds": "habrán practicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había practicado",
+      "tu": "habías practicado",
+      "ud": "había practicado",
+      "nosotros": "habíamos practicado",
+      "vosotros": "habíais practicado",
+      "uds": "habían practicado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube practicado",
+      "tu": "hubiste practicado",
+      "ud": "hubo practicado",
+      "nosotros": "hubimos practicado",
+      "vosotros": "hubisteis practicado",
+      "uds": "hubieron practicado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría practicado",
+      "tu": "habrías practicado",
+      "ud": "habría practicado",
+      "nosotros": "habríamos practicado",
+      "vosotros": "habríais practicado",
+      "uds": "habrían practicado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "practique",
+      "tu": "practiques",
+      "ud": "practique",
+      "nosotros": "practiquemos",
+      "vosotros": "practiquéis",
+      "uds": "practiquen"
+    },
+    "imperfecto": {
+      "yo": "practicara",
+      "tu": "practicaras",
+      "ud": "practicara",
+      "nosotros": "practicáramos",
+      "vosotros": "practicarais",
+      "uds": "practicaran"
+    },
+    "futuro": {
+      "yo": "practicare",
+      "tu": "practicares",
+      "ud": "practicare",
+      "nosotros": "practicáremos",
+      "vosotros": "practicareis",
+      "uds": "practicaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya practicado",
+      "tu": "hayas practicado",
+      "ud": "haya practicado",
+      "nosotros": "hayamos practicado",
+      "vosotros": "hayáis practicado",
+      "uds": "hayan practicado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere practicado",
+      "tu": "hubieres practicado",
+      "ud": "hubiere practicado",
+      "nosotros": "hubiéremos practicado",
+      "vosotros": "hubiereis practicado",
+      "uds": "hubieren practicado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera practicado",
+      "tu": "hubieras practicado",
+      "ud": "hubiera practicado",
+      "nosotros": "hubiéramos practicado",
+      "vosotros": "hubierais practicado",
+      "uds": "hubieran practicado"
+    },
+    "imperfectoAlt": {
+      "yo": "practicase",
+      "tu": "practicases",
+      "ud": "practicase",
+      "nosotros": "practicásemos",
+      "vosotros": "practicaseis",
+      "uds": "practicasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese practicado",
+      "tu": "hubieses practicado",
+      "ud": "hubiese practicado",
+      "nosotros": "hubiésemos practicado",
+      "vosotros": "hubieseis practicado",
+      "uds": "hubiesen practicado"
+    }
+  },
+  "afirmativo": {
+    "tu": "practica",
+    "vosotros": "practicad",
+    "ud": "practique",
+    "uds": "practiquen"
+  },
+  "negativo": {
+    "tu": "no practiques",
+    "vosotros": "no practiquéis",
+    "ud": "no practique",
+    "uds": "no practiquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to practice",
+    "gerundio": "practicing",
+    "participioPasado": "practiced",
+    "indicativo": {
+      "presente": "I practice, am practicing",
+      "futuro": "I will practice",
+      "imperfecto": "I was practicing, used to practice, practiced",
+      "preterito": "I practiced",
+      "condicional": "I would practice",
+      "presentePerfecto": "I have practiced",
+      "futuroPerfecto": "I will have practiced",
+      "pluscuamperfecto": "I had practiced",
+      "preteritoAnterior": "I had practiced",
+      "condicionalPerfecto": "I would have practiced"
+    },
+    "subjuntivo": {
+      "presente": "I practice, am practicing",
+      "imperfecto": "I practiced, was practicing",
+      "futuro": "I will practice",
+      "presentePerfecto": "I have practiced, practiced",
+      "futuroPerfecto": "I will have practiced",
+      "pluscuamperfecto": "I had practiced"
+    },
+    "afirmativo": "Practice!",
+    "negativo": "Don't practice!"
+  },
+  "attribution": "Fred Jehle"
+}

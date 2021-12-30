@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "hundir",
+  "gerundio": "hundiendo",
+  "participioPasado": "hundido",
+  "indicativo": {
+    "presente": {
+      "yo": "hundo",
+      "tu": "hundes",
+      "ud": "hunde",
+      "nosotros": "hundimos",
+      "vosotros": "hundís",
+      "uds": "hunden"
+    },
+    "futuro": {
+      "yo": "hundiré",
+      "tu": "hundirás",
+      "ud": "hundirá",
+      "nosotros": "hundiremos",
+      "vosotros": "hundiréis",
+      "uds": "hundirán"
+    },
+    "imperfecto": {
+      "yo": "hundía",
+      "tu": "hundías",
+      "ud": "hundía",
+      "nosotros": "hundíamos",
+      "vosotros": "hundíais",
+      "uds": "hundían"
+    },
+    "preterito": {
+      "yo": "hundí",
+      "tu": "hundiste",
+      "ud": "hundió",
+      "nosotros": "hundimos",
+      "vosotros": "hundisteis",
+      "uds": "hundieron"
+    },
+    "condicional": {
+      "yo": "hundiría",
+      "tu": "hundirías",
+      "ud": "hundiría",
+      "nosotros": "hundiríamos",
+      "vosotros": "hundiríais",
+      "uds": "hundirían"
+    },
+    "presentePerfecto": {
+      "yo": "he hundido",
+      "tu": "has hundido",
+      "ud": "ha hundido",
+      "nosotros": "hemos hundido",
+      "vosotros": "habéis hundido",
+      "uds": "han hundido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré hundido",
+      "tu": "habrás hundido",
+      "ud": "habrá hundido",
+      "nosotros": "habremos hundido",
+      "vosotros": "habréis hundido",
+      "uds": "habrán hundido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había hundido",
+      "tu": "habías hundido",
+      "ud": "había hundido",
+      "nosotros": "habíamos hundido",
+      "vosotros": "habíais hundido",
+      "uds": "habían hundido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube hundido",
+      "tu": "hubiste hundido",
+      "ud": "hubo hundido",
+      "nosotros": "hubimos hundido",
+      "vosotros": "hubisteis hundido",
+      "uds": "hubieron hundido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría hundido",
+      "tu": "habrías hundido",
+      "ud": "habría hundido",
+      "nosotros": "habríamos hundido",
+      "vosotros": "habríais hundido",
+      "uds": "habrían hundido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "hunda",
+      "tu": "hundas",
+      "ud": "hunda",
+      "nosotros": "hundamos",
+      "vosotros": "hundáis",
+      "uds": "hundan"
+    },
+    "imperfecto": {
+      "yo": "hundiera",
+      "tu": "hundieras",
+      "ud": "hundiera",
+      "nosotros": "hundiéramos",
+      "vosotros": "hundierais",
+      "uds": "hundieran"
+    },
+    "futuro": {
+      "yo": "hundiere",
+      "tu": "hundieres",
+      "ud": "hundiere",
+      "nosotros": "hundiéremos",
+      "vosotros": "hundiereis",
+      "uds": "hundieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya hundido",
+      "tu": "hayas hundido",
+      "ud": "haya hundido",
+      "nosotros": "hayamos hundido",
+      "vosotros": "hayáis hundido",
+      "uds": "hayan hundido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere hundido",
+      "tu": "hubieres hundido",
+      "ud": "hubiere hundido",
+      "nosotros": "hubiéremos hundido",
+      "vosotros": "hubiereis hundido",
+      "uds": "hubieren hundido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera hundido",
+      "tu": "hubieras hundido",
+      "ud": "hubiera hundido",
+      "nosotros": "hubiéramos hundido",
+      "vosotros": "hubierais hundido",
+      "uds": "hubieran hundido"
+    },
+    "imperfectoAlt": {
+      "yo": "hundiese",
+      "tu": "hundieses",
+      "ud": "hundiese",
+      "nosotros": "hundiésemos",
+      "vosotros": "hundieseis",
+      "uds": "hundiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese hundido",
+      "tu": "hubieses hundido",
+      "ud": "hubiese hundido",
+      "nosotros": "hubiésemos hundido",
+      "vosotros": "hubieseis hundido",
+      "uds": "hubiesen hundido"
+    }
+  },
+  "afirmativo": {
+    "tu": "hunde",
+    "vosotros": "hundid",
+    "ud": "hunda",
+    "uds": "hundan"
+  },
+  "negativo": {
+    "tu": "no hundas",
+    "vosotros": "no hundáis",
+    "ud": "no hunda",
+    "uds": "no hundan"
+  },
+  "english": {
+    "note": "Note that this is a transitive verb and needs a direct object. See hundirse to use it intransitively.",
+    "infinitivo": "to sink/ruin/destroy/cause to collapse (something or someone",
+    "gerundio": "sinking",
+    "participioPasado": "sunk",
+    "indicativo": {
+      "presente": "I sink, am sinking",
+      "futuro": "I will sink",
+      "imperfecto": "I was sinking, used to sink, sunk",
+      "preterito": "I sunk",
+      "condicional": "I would sink",
+      "presentePerfecto": "I have sunk",
+      "futuroPerfecto": "I will have sunk",
+      "pluscuamperfecto": "I had sunk",
+      "preteritoAnterior": "I had sunk",
+      "condicionalPerfecto": "I would have sunk"
+    },
+    "subjuntivo": {
+      "presente": "I sink, am sinking",
+      "imperfecto": "I sunk, was sinking",
+      "futuro": "I will sink",
+      "presentePerfecto": "I have sunk, sunk",
+      "futuroPerfecto": "I will have sunk",
+      "pluscuamperfecto": "I had sunk"
+    },
+    "afirmativo": "Sink!",
+    "negativo": "Don't sink!"
+  },
+  "attribution": "Fred Jehle"
+}

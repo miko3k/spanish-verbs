@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "bautizar",
+  "gerundio": "bautizando",
+  "participioPasado": "bautizado",
+  "indicativo": {
+    "presente": {
+      "yo": "bautizo",
+      "tu": "bautizas",
+      "ud": "bautiza",
+      "nosotros": "bautizamos",
+      "vosotros": "bautizáis",
+      "uds": "bautizan"
+    },
+    "futuro": {
+      "yo": "bautizaré",
+      "tu": "bautizarás",
+      "ud": "bautizará",
+      "nosotros": "bautizaremos",
+      "vosotros": "bautizaréis",
+      "uds": "bautizarán"
+    },
+    "imperfecto": {
+      "yo": "bautizaba",
+      "tu": "bautizabas",
+      "ud": "bautizaba",
+      "nosotros": "bautizábamos",
+      "vosotros": "bautizabais",
+      "uds": "bautizaban"
+    },
+    "preterito": {
+      "yo": "bauticé",
+      "tu": "bautizaste",
+      "ud": "bautizó",
+      "nosotros": "bautizamos",
+      "vosotros": "bautizasteis",
+      "uds": "bautizaron"
+    },
+    "condicional": {
+      "yo": "bautizaría",
+      "tu": "bautizarías",
+      "ud": "bautizaría",
+      "nosotros": "bautizaríamos",
+      "vosotros": "bautizaríais",
+      "uds": "bautizarían"
+    },
+    "presentePerfecto": {
+      "yo": "he bautizado",
+      "tu": "has bautizado",
+      "ud": "ha bautizado",
+      "nosotros": "hemos bautizado",
+      "vosotros": "habéis bautizado",
+      "uds": "han bautizado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré bautizado",
+      "tu": "habrás bautizado",
+      "ud": "habrá bautizado",
+      "nosotros": "habremos bautizado",
+      "vosotros": "habréis bautizado",
+      "uds": "habrán bautizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había bautizado",
+      "tu": "habías bautizado",
+      "ud": "había bautizado",
+      "nosotros": "habíamos bautizado",
+      "vosotros": "habíais bautizado",
+      "uds": "habían bautizado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube bautizado",
+      "tu": "hubiste bautizado",
+      "ud": "hubo bautizado",
+      "nosotros": "hubimos bautizado",
+      "vosotros": "hubisteis bautizado",
+      "uds": "hubieron bautizado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría bautizado",
+      "tu": "habrías bautizado",
+      "ud": "habría bautizado",
+      "nosotros": "habríamos bautizado",
+      "vosotros": "habríais bautizado",
+      "uds": "habrían bautizado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "bautice",
+      "tu": "bautices",
+      "ud": "bautice",
+      "nosotros": "bauticemos",
+      "vosotros": "bauticéis",
+      "uds": "bauticen"
+    },
+    "imperfecto": {
+      "yo": "bautizara",
+      "tu": "bautizaras",
+      "ud": "bautizara",
+      "nosotros": "bautizáramos",
+      "vosotros": "bautizarais",
+      "uds": "bautizaran"
+    },
+    "futuro": {
+      "yo": "bautizare",
+      "tu": "bautizares",
+      "ud": "bautizare",
+      "nosotros": "bautizáremos",
+      "vosotros": "bautizareis",
+      "uds": "bautizaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya bautizado",
+      "tu": "hayas bautizado",
+      "ud": "haya bautizado",
+      "nosotros": "hayamos bautizado",
+      "vosotros": "hayáis bautizado",
+      "uds": "hayan bautizado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere bautizado",
+      "tu": "hubieres bautizado",
+      "ud": "hubiere bautizado",
+      "nosotros": "hubiéremos bautizado",
+      "vosotros": "hubiereis bautizado",
+      "uds": "hubieren bautizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera bautizado",
+      "tu": "hubieras bautizado",
+      "ud": "hubiera bautizado",
+      "nosotros": "hubiéramos bautizado",
+      "vosotros": "hubierais bautizado",
+      "uds": "hubieran bautizado"
+    },
+    "imperfectoAlt": {
+      "yo": "bautizase",
+      "tu": "bautizases",
+      "ud": "bautizase",
+      "nosotros": "bautizásemos",
+      "vosotros": "bautizaseis",
+      "uds": "bautizasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese bautizado",
+      "tu": "hubieses bautizado",
+      "ud": "hubiese bautizado",
+      "nosotros": "hubiésemos bautizado",
+      "vosotros": "hubieseis bautizado",
+      "uds": "hubiesen bautizado"
+    }
+  },
+  "afirmativo": {
+    "tu": "bautiza",
+    "vosotros": "bautizad",
+    "ud": "bautice",
+    "uds": "bauticen"
+  },
+  "negativo": {
+    "tu": "no bautices",
+    "vosotros": "no bauticéis",
+    "ud": "no bautice",
+    "uds": "no bauticen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to baptize, christen",
+    "gerundio": "baptizing",
+    "participioPasado": "baptized",
+    "indicativo": {
+      "presente": "I baptize, am baptizing",
+      "futuro": "I will baptize",
+      "imperfecto": "I was baptizing, used to baptize, baptized",
+      "preterito": "I baptized",
+      "condicional": "I would baptize",
+      "presentePerfecto": "I have baptized",
+      "futuroPerfecto": "I will have baptized",
+      "pluscuamperfecto": "I had baptized",
+      "preteritoAnterior": "I had baptized",
+      "condicionalPerfecto": "I would have baptized"
+    },
+    "subjuntivo": {
+      "presente": "I baptize, am baptizing",
+      "imperfecto": "I baptized, was baptizing",
+      "futuro": "I will baptize",
+      "presentePerfecto": "I have baptized, baptized",
+      "futuroPerfecto": "I will have baptized",
+      "pluscuamperfecto": "I had baptized"
+    },
+    "afirmativo": "Baptize!",
+    "negativo": "Don't baptize!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "explotar",
+  "gerundio": "explotando",
+  "participioPasado": "explotado",
+  "indicativo": {
+    "presente": {
+      "yo": "exploto",
+      "tu": "explotas",
+      "ud": "explota",
+      "nosotros": "explotamos",
+      "vosotros": "explotáis",
+      "uds": "explotan"
+    },
+    "futuro": {
+      "yo": "explotaré",
+      "tu": "explotarás",
+      "ud": "explotará",
+      "nosotros": "explotaremos",
+      "vosotros": "explotaréis",
+      "uds": "explotarán"
+    },
+    "imperfecto": {
+      "yo": "explotaba",
+      "tu": "explotabas",
+      "ud": "explotaba",
+      "nosotros": "explotábamos",
+      "vosotros": "explotabais",
+      "uds": "explotaban"
+    },
+    "preterito": {
+      "yo": "exploté",
+      "tu": "explotaste",
+      "ud": "explotó",
+      "nosotros": "explotamos",
+      "vosotros": "explotasteis",
+      "uds": "explotaron"
+    },
+    "condicional": {
+      "yo": "explotaría",
+      "tu": "explotarías",
+      "ud": "explotaría",
+      "nosotros": "explotaríamos",
+      "vosotros": "explotaríais",
+      "uds": "explotarían"
+    },
+    "presentePerfecto": {
+      "yo": "he explotado",
+      "tu": "has explotado",
+      "ud": "ha explotado",
+      "nosotros": "hemos explotado",
+      "vosotros": "habéis explotado",
+      "uds": "han explotado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré explotado",
+      "tu": "habrás explotado",
+      "ud": "habrá explotado",
+      "nosotros": "habremos explotado",
+      "vosotros": "habréis explotado",
+      "uds": "habrán explotado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había explotado",
+      "tu": "habías explotado",
+      "ud": "había explotado",
+      "nosotros": "habíamos explotado",
+      "vosotros": "habíais explotado",
+      "uds": "habían explotado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube explotado",
+      "tu": "hubiste explotado",
+      "ud": "hubo explotado",
+      "nosotros": "hubimos explotado",
+      "vosotros": "hubisteis explotado",
+      "uds": "hubieron explotado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría explotado",
+      "tu": "habrías explotado",
+      "ud": "habría explotado",
+      "nosotros": "habríamos explotado",
+      "vosotros": "habríais explotado",
+      "uds": "habrían explotado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "explote",
+      "tu": "explotes",
+      "ud": "explote",
+      "nosotros": "explotemos",
+      "vosotros": "explotéis",
+      "uds": "exploten"
+    },
+    "imperfecto": {
+      "yo": "explotara",
+      "tu": "explotaras",
+      "ud": "explotara",
+      "nosotros": "explotáramos",
+      "vosotros": "explotarais",
+      "uds": "explotaran"
+    },
+    "futuro": {
+      "yo": "explotare",
+      "tu": "explotares",
+      "ud": "explotare",
+      "nosotros": "explotáremos",
+      "vosotros": "explotareis",
+      "uds": "explotaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya explotado",
+      "tu": "hayas explotado",
+      "ud": "haya explotado",
+      "nosotros": "hayamos explotado",
+      "vosotros": "hayáis explotado",
+      "uds": "hayan explotado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere explotado",
+      "tu": "hubieres explotado",
+      "ud": "hubiere explotado",
+      "nosotros": "hubiéremos explotado",
+      "vosotros": "hubiereis explotado",
+      "uds": "hubieren explotado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera explotado",
+      "tu": "hubieras explotado",
+      "ud": "hubiera explotado",
+      "nosotros": "hubiéramos explotado",
+      "vosotros": "hubierais explotado",
+      "uds": "hubieran explotado"
+    },
+    "imperfectoAlt": {
+      "yo": "explotase",
+      "tu": "explotases",
+      "ud": "explotase",
+      "nosotros": "explotásemos",
+      "vosotros": "explotaseis",
+      "uds": "explotasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese explotado",
+      "tu": "hubieses explotado",
+      "ud": "hubiese explotado",
+      "nosotros": "hubiésemos explotado",
+      "vosotros": "hubieseis explotado",
+      "uds": "hubiesen explotado"
+    }
+  },
+  "afirmativo": {
+    "tu": "explota",
+    "vosotros": "explotad",
+    "ud": "explote",
+    "uds": "exploten"
+  },
+  "negativo": {
+    "tu": "no explotes",
+    "vosotros": "no explotéis",
+    "ud": "no explote",
+    "uds": "no exploten"
+  },
+  "english": {
+    "note": "Note: As the verb meaning to explode, it may either be used transtitively or intranstively: to cause to explode or to go off.",
+    "infinitivo": "to exploit; to explode",
+    "gerundio": "exploiting",
+    "participioPasado": "exploited",
+    "indicativo": {
+      "presente": "I exploit, am exploiting",
+      "futuro": "I will exploit",
+      "imperfecto": "I was exploiting, used to exploit, exploited",
+      "preterito": "I exploited",
+      "condicional": "I would exploit",
+      "presentePerfecto": "I have exploited",
+      "futuroPerfecto": "I will have exploited",
+      "pluscuamperfecto": "I had exploited",
+      "preteritoAnterior": "I had exploited",
+      "condicionalPerfecto": "I would have exploited"
+    },
+    "subjuntivo": {
+      "presente": "I exploit, am exploiting",
+      "imperfecto": "I exploited, was exploiting",
+      "futuro": "I will exploit",
+      "presentePerfecto": "I have exploited, exploited",
+      "futuroPerfecto": "I will have exploited",
+      "pluscuamperfecto": "I had exploited"
+    },
+    "afirmativo": "exploit!",
+    "negativo": "Don't exploit!"
+  },
+  "attribution": "Fred Jehle"
+}

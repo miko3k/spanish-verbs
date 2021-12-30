@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "aconsejar",
+  "gerundio": "aconsejando",
+  "participioPasado": "aconsejado",
+  "indicativo": {
+    "presente": {
+      "yo": "aconsejo",
+      "tu": "aconsejas",
+      "ud": "aconseja",
+      "nosotros": "aconsejamos",
+      "vosotros": "aconsejáis",
+      "uds": "aconsejan"
+    },
+    "futuro": {
+      "yo": "aconsejaré",
+      "tu": "aconsejarás",
+      "ud": "aconsejará",
+      "nosotros": "aconsejaremos",
+      "vosotros": "aconsejaréis",
+      "uds": "aconsejarán"
+    },
+    "imperfecto": {
+      "yo": "aconsejaba",
+      "tu": "aconsejabas",
+      "ud": "aconsejaba",
+      "nosotros": "aconsejábamos",
+      "vosotros": "aconsejabais",
+      "uds": "aconsejaban"
+    },
+    "preterito": {
+      "yo": "aconsejé",
+      "tu": "aconsejaste",
+      "ud": "aconsejó",
+      "nosotros": "aconsejamos",
+      "vosotros": "aconsejasteis",
+      "uds": "aconsejaron"
+    },
+    "condicional": {
+      "yo": "aconsejaría",
+      "tu": "aconsejarías",
+      "ud": "aconsejaría",
+      "nosotros": "aconsejaríamos",
+      "vosotros": "aconsejaríais",
+      "uds": "aconsejarían"
+    },
+    "presentePerfecto": {
+      "yo": "he aconsejado",
+      "tu": "has aconsejado",
+      "ud": "ha aconsejado",
+      "nosotros": "hemos aconsejado",
+      "vosotros": "habéis aconsejado",
+      "uds": "han aconsejado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré aconsejado",
+      "tu": "habrás aconsejado",
+      "ud": "habrá aconsejado",
+      "nosotros": "habremos aconsejado",
+      "vosotros": "habréis aconsejado",
+      "uds": "habrán aconsejado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había aconsejado",
+      "tu": "habías aconsejado",
+      "ud": "había aconsejado",
+      "nosotros": "habíamos aconsejado",
+      "vosotros": "habíais aconsejado",
+      "uds": "habían aconsejado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube aconsejado",
+      "tu": "hubiste aconsejado",
+      "ud": "hubo aconsejado",
+      "nosotros": "hubimos aconsejado",
+      "vosotros": "hubisteis aconsejado",
+      "uds": "hubieron aconsejado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría aconsejado",
+      "tu": "habrías aconsejado",
+      "ud": "habría aconsejado",
+      "nosotros": "habríamos aconsejado",
+      "vosotros": "habríais aconsejado",
+      "uds": "habrían aconsejado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "aconseje",
+      "tu": "aconsejes",
+      "ud": "aconseje",
+      "nosotros": "aconsejemos",
+      "vosotros": "aconsejéis",
+      "uds": "aconsejen"
+    },
+    "imperfecto": {
+      "yo": "aconsejara",
+      "tu": "aconsejaras",
+      "ud": "aconsejara",
+      "nosotros": "aconsejáramos",
+      "vosotros": "aconsejarais",
+      "uds": "aconsejaran"
+    },
+    "futuro": {
+      "yo": "aconsejare",
+      "tu": "aconsejares",
+      "ud": "aconsejare",
+      "nosotros": "aconsejáremos",
+      "vosotros": "aconsejareis",
+      "uds": "aconsejaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya aconsejado",
+      "tu": "hayas aconsejado",
+      "ud": "haya aconsejado",
+      "nosotros": "hayamos aconsejado",
+      "vosotros": "hayáis aconsejado",
+      "uds": "hayan aconsejado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere aconsejado",
+      "tu": "hubieres aconsejado",
+      "ud": "hubiere aconsejado",
+      "nosotros": "hubiéremos aconsejado",
+      "vosotros": "hubiereis aconsejado",
+      "uds": "hubieren aconsejado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera aconsejado",
+      "tu": "hubieras aconsejado",
+      "ud": "hubiera aconsejado",
+      "nosotros": "hubiéramos aconsejado",
+      "vosotros": "hubierais aconsejado",
+      "uds": "hubieran aconsejado"
+    },
+    "imperfectoAlt": {
+      "yo": "aconsejase",
+      "tu": "aconsejases",
+      "ud": "aconsejase",
+      "nosotros": "aconsejásemos",
+      "vosotros": "aconsejaseis",
+      "uds": "aconsejasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese aconsejado",
+      "tu": "hubieses aconsejado",
+      "ud": "hubiese aconsejado",
+      "nosotros": "hubiésemos aconsejado",
+      "vosotros": "hubieseis aconsejado",
+      "uds": "hubiesen aconsejado"
+    }
+  },
+  "afirmativo": {
+    "tu": "aconseja",
+    "vosotros": "aconsejad",
+    "ud": "aconseje",
+    "uds": "aconsejen"
+  },
+  "negativo": {
+    "tu": "no aconsejes",
+    "vosotros": "no aconsejéis",
+    "ud": "no aconseje",
+    "uds": "no aconsejen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to advise",
+    "gerundio": "advising",
+    "participioPasado": "advisedn",
+    "indicativo": {
+      "presente": "I advise, am advising",
+      "futuro": "I will advise",
+      "imperfecto": "I was advising, used to advise, advised",
+      "preterito": "I advised",
+      "condicional": "I would advise",
+      "presentePerfecto": "I have advisedn",
+      "futuroPerfecto": "I will have advisedn",
+      "pluscuamperfecto": "I had advisedn",
+      "preteritoAnterior": "I had advisedn",
+      "condicionalPerfecto": "I would have advisedn"
+    },
+    "subjuntivo": {
+      "presente": "I advise, am advising",
+      "imperfecto": "I advised, was advising",
+      "futuro": "I will advise",
+      "presentePerfecto": "I have advisedn, advised",
+      "futuroPerfecto": "I will have advisedn",
+      "pluscuamperfecto": "I had advisedn"
+    },
+    "afirmativo": "Advise!",
+    "negativo": "Don't advise!"
+  },
+  "attribution": "Fred Jehle"
+}

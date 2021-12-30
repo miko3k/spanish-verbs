@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "encontrar",
+  "gerundio": "encontrando",
+  "participioPasado": "encontrado",
+  "indicativo": {
+    "presente": {
+      "yo": "encuentro",
+      "tu": "encuentras",
+      "ud": "encuentra",
+      "nosotros": "encontramos",
+      "vosotros": "encontráis",
+      "uds": "encuentran"
+    },
+    "futuro": {
+      "yo": "encontraré",
+      "tu": "encontrarás",
+      "ud": "encontrará",
+      "nosotros": "encontraremos",
+      "vosotros": "encontraréis",
+      "uds": "encontrarán"
+    },
+    "imperfecto": {
+      "yo": "encontraba",
+      "tu": "encontrabas",
+      "ud": "encontraba",
+      "nosotros": "encontrábamos",
+      "vosotros": "encontrabais",
+      "uds": "encontraban"
+    },
+    "preterito": {
+      "yo": "encontré",
+      "tu": "encontraste",
+      "ud": "encontró",
+      "nosotros": "encontramos",
+      "vosotros": "encontrasteis",
+      "uds": "encontraron"
+    },
+    "condicional": {
+      "yo": "encontraría",
+      "tu": "encontrarías",
+      "ud": "encontraría",
+      "nosotros": "encontraríamos",
+      "vosotros": "encontraríais",
+      "uds": "encontrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he encontrado",
+      "tu": "has encontrado",
+      "ud": "ha encontrado",
+      "nosotros": "hemos encontrado",
+      "vosotros": "habéis encontrado",
+      "uds": "han encontrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré encontrado",
+      "tu": "habrás encontrado",
+      "ud": "habrá encontrado",
+      "nosotros": "habremos encontrado",
+      "vosotros": "habréis encontrado",
+      "uds": "habrán encontrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había encontrado",
+      "tu": "habías encontrado",
+      "ud": "había encontrado",
+      "nosotros": "habíamos encontrado",
+      "vosotros": "habíais encontrado",
+      "uds": "habían encontrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube encontrado",
+      "tu": "hubiste encontrado",
+      "ud": "hubo encontrado",
+      "nosotros": "hubimos encontrado",
+      "vosotros": "hubisteis encontrado",
+      "uds": "hubieron encontrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría encontrado",
+      "tu": "habrías encontrado",
+      "ud": "habría encontrado",
+      "nosotros": "habríamos encontrado",
+      "vosotros": "habríais encontrado",
+      "uds": "habrían encontrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "encuentre",
+      "tu": "encuentres",
+      "ud": "encuentre",
+      "nosotros": "encontremos",
+      "vosotros": "encontréis",
+      "uds": "encuentren"
+    },
+    "imperfecto": {
+      "yo": "encontrara",
+      "tu": "encontraras",
+      "ud": "encontrara",
+      "nosotros": "encontráramos",
+      "vosotros": "encontrarais",
+      "uds": "encontraran"
+    },
+    "futuro": {
+      "yo": "encontrare",
+      "tu": "encontrares",
+      "ud": "encontrare",
+      "nosotros": "encontráremos",
+      "vosotros": "encontrareis",
+      "uds": "encontraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya encontrado",
+      "tu": "hayas encontrado",
+      "ud": "haya encontrado",
+      "nosotros": "hayamos encontrado",
+      "vosotros": "hayáis encontrado",
+      "uds": "hayan encontrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere encontrado",
+      "tu": "hubieres encontrado",
+      "ud": "hubiere encontrado",
+      "nosotros": "hubiéremos encontrado",
+      "vosotros": "hubiereis encontrado",
+      "uds": "hubieren encontrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera encontrado",
+      "tu": "hubieras encontrado",
+      "ud": "hubiera encontrado",
+      "nosotros": "hubiéramos encontrado",
+      "vosotros": "hubierais encontrado",
+      "uds": "hubieran encontrado"
+    },
+    "imperfectoAlt": {
+      "yo": "encontrase",
+      "tu": "encontrases",
+      "ud": "encontrase",
+      "nosotros": "encontrásemos",
+      "vosotros": "encontraseis",
+      "uds": "encontrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese encontrado",
+      "tu": "hubieses encontrado",
+      "ud": "hubiese encontrado",
+      "nosotros": "hubiésemos encontrado",
+      "vosotros": "hubieseis encontrado",
+      "uds": "hubiesen encontrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "encuentra",
+    "vosotros": "encontrad",
+    "ud": "encuentre",
+    "uds": "encuentren"
+  },
+  "negativo": {
+    "tu": "no encuentres",
+    "vosotros": "no encontréis",
+    "ud": "no encuentre",
+    "uds": "no encuentren"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Note: Encontrarse = to be found, to be located; encontarse con = to meet, run into, bump into.",
+    "infinitivo": "to find, encounter",
+    "gerundio": "finding",
+    "participioPasado": "found",
+    "indicativo": {
+      "presente": "I find, am finding",
+      "futuro": "I will find",
+      "imperfecto": "I was finding, used to find, found",
+      "preterito": "I found",
+      "condicional": "I would find",
+      "presentePerfecto": "I have found",
+      "futuroPerfecto": "I will have found",
+      "pluscuamperfecto": "I had found",
+      "preteritoAnterior": "I had found",
+      "condicionalPerfecto": "I would have found"
+    },
+    "subjuntivo": {
+      "presente": "I find, am finding",
+      "imperfecto": "I found, was finding",
+      "futuro": "I will find",
+      "presentePerfecto": "I have found, found",
+      "futuroPerfecto": "I will have found",
+      "pluscuamperfecto": "I had found"
+    },
+    "afirmativo": "Find!",
+    "negativo": "Don't find!"
+  },
+  "attribution": "Fred Jehle"
+}

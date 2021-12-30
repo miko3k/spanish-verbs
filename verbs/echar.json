@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "echar",
+  "gerundio": "echando",
+  "participioPasado": "echado",
+  "indicativo": {
+    "presente": {
+      "yo": "echo",
+      "tu": "echas",
+      "ud": "echa",
+      "nosotros": "echamos",
+      "vosotros": "echáis",
+      "uds": "echan"
+    },
+    "futuro": {
+      "yo": "echaré",
+      "tu": "echarás",
+      "ud": "echará",
+      "nosotros": "echaremos",
+      "vosotros": "echaréis",
+      "uds": "echarán"
+    },
+    "imperfecto": {
+      "yo": "echaba",
+      "tu": "echabas",
+      "ud": "echaba",
+      "nosotros": "echábamos",
+      "vosotros": "echabais",
+      "uds": "echaban"
+    },
+    "preterito": {
+      "yo": "eché",
+      "tu": "echaste",
+      "ud": "echó",
+      "nosotros": "echamos",
+      "vosotros": "echasteis",
+      "uds": "echaron"
+    },
+    "condicional": {
+      "yo": "echaría",
+      "tu": "echarías",
+      "ud": "echaría",
+      "nosotros": "echaríamos",
+      "vosotros": "echaríais",
+      "uds": "echarían"
+    },
+    "presentePerfecto": {
+      "yo": "he echado",
+      "tu": "has echado",
+      "ud": "ha echado",
+      "nosotros": "hemos echado",
+      "vosotros": "habéis echado",
+      "uds": "han echado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré echado",
+      "tu": "habrás echado",
+      "ud": "habrá echado",
+      "nosotros": "habremos echado",
+      "vosotros": "habréis echado",
+      "uds": "habrán echado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había echado",
+      "tu": "habías echado",
+      "ud": "había echado",
+      "nosotros": "habíamos echado",
+      "vosotros": "habíais echado",
+      "uds": "habían echado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube echado",
+      "tu": "hubiste echado",
+      "ud": "hubo echado",
+      "nosotros": "hubimos echado",
+      "vosotros": "hubisteis echado",
+      "uds": "hubieron echado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría echado",
+      "tu": "habrías echado",
+      "ud": "habría echado",
+      "nosotros": "habríamos echado",
+      "vosotros": "habríais echado",
+      "uds": "habrían echado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "eche",
+      "tu": "eches",
+      "ud": "eche",
+      "nosotros": "echemos",
+      "vosotros": "echéis",
+      "uds": "echen"
+    },
+    "imperfecto": {
+      "yo": "echara",
+      "tu": "echaras",
+      "ud": "echara",
+      "nosotros": "echáramos",
+      "vosotros": "echarais",
+      "uds": "echaran"
+    },
+    "futuro": {
+      "yo": "echare",
+      "tu": "echares",
+      "ud": "echare",
+      "nosotros": "echáremos",
+      "vosotros": "echareis",
+      "uds": "echaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya echado",
+      "tu": "hayas echado",
+      "ud": "haya echado",
+      "nosotros": "hayamos echado",
+      "vosotros": "hayáis echado",
+      "uds": "hayan echado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere echado",
+      "tu": "hubieres echado",
+      "ud": "hubiere echado",
+      "nosotros": "hubiéremos echado",
+      "vosotros": "hubiereis echado",
+      "uds": "hubieren echado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera echado",
+      "tu": "hubieras echado",
+      "ud": "hubiera echado",
+      "nosotros": "hubiéramos echado",
+      "vosotros": "hubierais echado",
+      "uds": "hubieran echado"
+    },
+    "imperfectoAlt": {
+      "yo": "echase",
+      "tu": "echases",
+      "ud": "echase",
+      "nosotros": "echásemos",
+      "vosotros": "echaseis",
+      "uds": "echasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese echado",
+      "tu": "hubieses echado",
+      "ud": "hubiese echado",
+      "nosotros": "hubiésemos echado",
+      "vosotros": "hubieseis echado",
+      "uds": "hubiesen echado"
+    }
+  },
+  "afirmativo": {
+    "tu": "echa",
+    "vosotros": "echad",
+    "ud": "eche",
+    "uds": "echen"
+  },
+  "negativo": {
+    "tu": "no eches",
+    "vosotros": "no echéis",
+    "ud": "no eche",
+    "uds": "no echen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to throw, cast, fling, hurl, pitch, toss",
+    "gerundio": "throwing",
+    "participioPasado": "thrown",
+    "indicativo": {
+      "presente": "I throw, am throwing",
+      "futuro": "I will throw",
+      "imperfecto": "I was throwing, used to throw, threw",
+      "preterito": "I threw",
+      "condicional": "I would throw",
+      "presentePerfecto": "I have thrown",
+      "futuroPerfecto": "I will have thrown",
+      "pluscuamperfecto": "I had thrown",
+      "preteritoAnterior": "I had thrown",
+      "condicionalPerfecto": "I would have thrown"
+    },
+    "subjuntivo": {
+      "presente": "I throw, am throwing",
+      "imperfecto": "I threw, was throwing",
+      "futuro": "I will throw",
+      "presentePerfecto": "I have thrown, threw",
+      "futuroPerfecto": "I will have thrown",
+      "pluscuamperfecto": "I had thrown"
+    },
+    "afirmativo": "Throw!",
+    "negativo": "Don't throw!"
+  },
+  "attribution": "Fred Jehle"
+}

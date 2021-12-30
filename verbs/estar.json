@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "estar",
+  "gerundio": "estando",
+  "participioPasado": "estado",
+  "indicativo": {
+    "presente": {
+      "yo": "estoy",
+      "tu": "estás",
+      "ud": "está",
+      "nosotros": "estamos",
+      "vosotros": "estáis",
+      "uds": "están"
+    },
+    "futuro": {
+      "yo": "estaré",
+      "tu": "estarás",
+      "ud": "estará",
+      "nosotros": "estaremos",
+      "vosotros": "estaréis",
+      "uds": "estarán"
+    },
+    "imperfecto": {
+      "yo": "estaba",
+      "tu": "estabas",
+      "ud": "estaba",
+      "nosotros": "estábamos",
+      "vosotros": "estabais",
+      "uds": "estaban"
+    },
+    "preterito": {
+      "yo": "estuve",
+      "tu": "estuviste",
+      "ud": "estuvo",
+      "nosotros": "estuvimos",
+      "vosotros": "estuvisteis",
+      "uds": "estuvieron"
+    },
+    "condicional": {
+      "yo": "estaría",
+      "tu": "estarías",
+      "ud": "estaría",
+      "nosotros": "estaríamos",
+      "vosotros": "estaríais",
+      "uds": "estarían"
+    },
+    "presentePerfecto": {
+      "yo": "he estado",
+      "tu": "has estado",
+      "ud": "ha estado",
+      "nosotros": "hemos estado",
+      "vosotros": "habéis estado",
+      "uds": "han estado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré estado",
+      "tu": "habrás estado",
+      "ud": "habrá estado",
+      "nosotros": "habremos estado",
+      "vosotros": "habréis estado",
+      "uds": "habrán estado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había estado",
+      "tu": "habías estado",
+      "ud": "había estado",
+      "nosotros": "habíamos estado",
+      "vosotros": "habíais estado",
+      "uds": "habían estado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube estado",
+      "tu": "hubiste estado",
+      "ud": "hubo estado",
+      "nosotros": "hubimos estado",
+      "vosotros": "hubisteis estado",
+      "uds": "hubieron estado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría estado",
+      "tu": "habrías estado",
+      "ud": "habría estado",
+      "nosotros": "habríamos estado",
+      "vosotros": "habríais estado",
+      "uds": "habrían estado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "esté",
+      "tu": "estés",
+      "ud": "esté",
+      "nosotros": "estemos",
+      "vosotros": "estéis",
+      "uds": "estén"
+    },
+    "imperfecto": {
+      "yo": "estuviera",
+      "tu": "estuvieras",
+      "ud": "estuviera",
+      "nosotros": "estuviéramos",
+      "vosotros": "estuvierais",
+      "uds": "estuvieran"
+    },
+    "futuro": {
+      "yo": "estuviere",
+      "tu": "estuvieres",
+      "ud": "estuviere",
+      "nosotros": "estuviéremos",
+      "vosotros": "estuviereis",
+      "uds": "estuvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya estado",
+      "tu": "hayas estado",
+      "ud": "haya estado",
+      "nosotros": "hayamos estado",
+      "vosotros": "hayáis estado",
+      "uds": "hayan estado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere estado",
+      "tu": "hubieres estado",
+      "ud": "hubiere estado",
+      "nosotros": "hubiéremos estado",
+      "vosotros": "hubiereis estado",
+      "uds": "hubieren estado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera estado",
+      "tu": "hubieras estado",
+      "ud": "hubiera estado",
+      "nosotros": "hubiéramos estado",
+      "vosotros": "hubierais estado",
+      "uds": "hubieran estado"
+    },
+    "imperfectoAlt": {
+      "yo": "estuviese",
+      "tu": "estuvieses",
+      "ud": "estuviese",
+      "nosotros": "estuviésemos",
+      "vosotros": "estuvieseis",
+      "uds": "estuviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese estado",
+      "tu": "hubieses estado",
+      "ud": "hubiese estado",
+      "nosotros": "hubiésemos estado",
+      "vosotros": "hubieseis estado",
+      "uds": "hubiesen estado"
+    }
+  },
+  "afirmativo": {
+    "tu": "está",
+    "vosotros": "estad",
+    "ud": "esté",
+    "uds": "estén"
+  },
+  "negativo": {
+    "tu": "no estés",
+    "vosotros": "no estéis",
+    "ud": "no esté",
+    "uds": "no estén"
+  },
+  "english": {
+    "note": "Irregular en el presente de indicativo (estoy, estás, etc.) y el presente de subjuntivo (esté, estés, etc.). Radical fuerte en el pretérito: estuv-. Note: To express identiy, or a quality or characteristic (rather than a temporary state), use the verb ser.",
+    "infinitivo": "to be (e.g., health, location, state)",
+    "gerundio": "being",
+    "participioPasado": "been",
+    "indicativo": {
+      "presente": "I am",
+      "futuro": "I will be",
+      "imperfecto": "I was, used to be",
+      "preterito": "I was",
+      "condicional": "I would be",
+      "presentePerfecto": "I have been",
+      "futuroPerfecto": "I will have been",
+      "pluscuamperfecto": "I had been",
+      "preteritoAnterior": "I had been",
+      "condicionalPerfecto": "I would have been"
+    },
+    "subjuntivo": {
+      "presente": "I am",
+      "imperfecto": "I was, were",
+      "futuro": "I will be",
+      "presentePerfecto": "I have been, was",
+      "futuroPerfecto": "I will have been",
+      "pluscuamperfecto": "I had been"
+    },
+    "afirmativo": "Be!",
+    "negativo": "Don't be!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "rezar",
+  "gerundio": "rezando",
+  "participioPasado": "rezado",
+  "indicativo": {
+    "presente": {
+      "yo": "rezo",
+      "tu": "rezas",
+      "ud": "reza",
+      "nosotros": "rezamos",
+      "vosotros": "rezáis",
+      "uds": "rezan"
+    },
+    "futuro": {
+      "yo": "rezaré",
+      "tu": "rezarás",
+      "ud": "rezará",
+      "nosotros": "rezaremos",
+      "vosotros": "rezaréis",
+      "uds": "rezarán"
+    },
+    "imperfecto": {
+      "yo": "rezaba",
+      "tu": "rezabas",
+      "ud": "rezaba",
+      "nosotros": "rezábamos",
+      "vosotros": "rezabais",
+      "uds": "rezaban"
+    },
+    "preterito": {
+      "yo": "recé",
+      "tu": "rezaste",
+      "ud": "rezó",
+      "nosotros": "rezamos",
+      "vosotros": "rezasteis",
+      "uds": "rezaron"
+    },
+    "condicional": {
+      "yo": "rezaría",
+      "tu": "rezarías",
+      "ud": "rezaría",
+      "nosotros": "rezaríamos",
+      "vosotros": "rezaríais",
+      "uds": "rezarían"
+    },
+    "presentePerfecto": {
+      "yo": "he rezado",
+      "tu": "has rezado",
+      "ud": "ha rezado",
+      "nosotros": "hemos rezado",
+      "vosotros": "habéis rezado",
+      "uds": "han rezado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré rezado",
+      "tu": "habrás rezado",
+      "ud": "habrá rezado",
+      "nosotros": "habremos rezado",
+      "vosotros": "habréis rezado",
+      "uds": "habrán rezado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había rezado",
+      "tu": "habías rezado",
+      "ud": "había rezado",
+      "nosotros": "habíamos rezado",
+      "vosotros": "habíais rezado",
+      "uds": "habían rezado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube rezado",
+      "tu": "hubiste rezado",
+      "ud": "hubo rezado",
+      "nosotros": "hubimos rezado",
+      "vosotros": "hubisteis rezado",
+      "uds": "hubieron rezado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría rezado",
+      "tu": "habrías rezado",
+      "ud": "habría rezado",
+      "nosotros": "habríamos rezado",
+      "vosotros": "habríais rezado",
+      "uds": "habrían rezado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "rece",
+      "tu": "reces",
+      "ud": "rece",
+      "nosotros": "recemos",
+      "vosotros": "recéis",
+      "uds": "recen"
+    },
+    "imperfecto": {
+      "yo": "rezara",
+      "tu": "rezaras",
+      "ud": "rezara",
+      "nosotros": "rezáramos",
+      "vosotros": "rezarais",
+      "uds": "rezaran"
+    },
+    "futuro": {
+      "yo": "rezare",
+      "tu": "rezares",
+      "ud": "rezare",
+      "nosotros": "rezáremos",
+      "vosotros": "rezareis",
+      "uds": "rezaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya rezado",
+      "tu": "hayas rezado",
+      "ud": "haya rezado",
+      "nosotros": "hayamos rezado",
+      "vosotros": "hayáis rezado",
+      "uds": "hayan rezado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere rezado",
+      "tu": "hubieres rezado",
+      "ud": "hubiere rezado",
+      "nosotros": "hubiéremos rezado",
+      "vosotros": "hubiereis rezado",
+      "uds": "hubieren rezado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera rezado",
+      "tu": "hubieras rezado",
+      "ud": "hubiera rezado",
+      "nosotros": "hubiéramos rezado",
+      "vosotros": "hubierais rezado",
+      "uds": "hubieran rezado"
+    },
+    "imperfectoAlt": {
+      "yo": "rezase",
+      "tu": "rezases",
+      "ud": "rezase",
+      "nosotros": "rezásemos",
+      "vosotros": "rezaseis",
+      "uds": "rezasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese rezado",
+      "tu": "hubieses rezado",
+      "ud": "hubiese rezado",
+      "nosotros": "hubiésemos rezado",
+      "vosotros": "hubieseis rezado",
+      "uds": "hubiesen rezado"
+    }
+  },
+  "afirmativo": {
+    "tu": "reza",
+    "vosotros": "rezad",
+    "ud": "rece",
+    "uds": "recen"
+  },
+  "negativo": {
+    "tu": "no reces",
+    "vosotros": "no recéis",
+    "ud": "no rece",
+    "uds": "no recen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to pray",
+    "gerundio": "praying",
+    "participioPasado": "prayed",
+    "indicativo": {
+      "presente": "I pray, am praying",
+      "futuro": "I will pray",
+      "imperfecto": "I was praying, used to pray, prayed",
+      "preterito": "I prayed",
+      "condicional": "I would pray",
+      "presentePerfecto": "I have prayed",
+      "futuroPerfecto": "I will have prayed",
+      "pluscuamperfecto": "I had prayed",
+      "preteritoAnterior": "I had prayed",
+      "condicionalPerfecto": "I would have prayed"
+    },
+    "subjuntivo": {
+      "presente": "I pray, am praying",
+      "imperfecto": "I prayed, was praying",
+      "futuro": "I will pray",
+      "presentePerfecto": "I have prayed, prayed",
+      "futuroPerfecto": "I will have prayed",
+      "pluscuamperfecto": "I had prayed"
+    },
+    "afirmativo": "Pray!",
+    "negativo": "Don't pray!"
+  },
+  "attribution": "Fred Jehle"
+}

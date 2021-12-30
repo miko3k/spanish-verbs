@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "realizar",
+  "gerundio": "realizando",
+  "participioPasado": "realizado",
+  "indicativo": {
+    "presente": {
+      "yo": "realizo",
+      "tu": "realizas",
+      "ud": "realiza",
+      "nosotros": "realizamos",
+      "vosotros": "realizáis",
+      "uds": "realizan"
+    },
+    "futuro": {
+      "yo": "realizaré",
+      "tu": "realizarás",
+      "ud": "realizará",
+      "nosotros": "realizaremos",
+      "vosotros": "realizaréis",
+      "uds": "realizarán"
+    },
+    "imperfecto": {
+      "yo": "realizaba",
+      "tu": "realizabas",
+      "ud": "realizaba",
+      "nosotros": "realizábamos",
+      "vosotros": "realizabais",
+      "uds": "realizaban"
+    },
+    "preterito": {
+      "yo": "realicé",
+      "tu": "realizaste",
+      "ud": "realizó",
+      "nosotros": "realizamos",
+      "vosotros": "realizasteis",
+      "uds": "realizaron"
+    },
+    "condicional": {
+      "yo": "realizaría",
+      "tu": "realizarías",
+      "ud": "realizaría",
+      "nosotros": "realizaríamos",
+      "vosotros": "realizaríais",
+      "uds": "realizarían"
+    },
+    "presentePerfecto": {
+      "yo": "he realizado",
+      "tu": "has realizado",
+      "ud": "ha realizado",
+      "nosotros": "hemos realizado",
+      "vosotros": "habéis realizado",
+      "uds": "han realizado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré realizado",
+      "tu": "habrás realizado",
+      "ud": "habrá realizado",
+      "nosotros": "habremos realizado",
+      "vosotros": "habréis realizado",
+      "uds": "habrán realizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había realizado",
+      "tu": "habías realizado",
+      "ud": "había realizado",
+      "nosotros": "habíamos realizado",
+      "vosotros": "habíais realizado",
+      "uds": "habían realizado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube realizado",
+      "tu": "hubiste realizado",
+      "ud": "hubo realizado",
+      "nosotros": "hubimos realizado",
+      "vosotros": "hubisteis realizado",
+      "uds": "hubieron realizado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría realizado",
+      "tu": "habrías realizado",
+      "ud": "habría realizado",
+      "nosotros": "habríamos realizado",
+      "vosotros": "habríais realizado",
+      "uds": "habrían realizado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "realice",
+      "tu": "realices",
+      "ud": "realice",
+      "nosotros": "realicemos",
+      "vosotros": "realicéis",
+      "uds": "realicen"
+    },
+    "imperfecto": {
+      "yo": "realizara",
+      "tu": "realizaras",
+      "ud": "realizara",
+      "nosotros": "realizáramos",
+      "vosotros": "realizarais",
+      "uds": "realizaran"
+    },
+    "futuro": {
+      "yo": "realizare",
+      "tu": "realizares",
+      "ud": "realizare",
+      "nosotros": "realizáremos",
+      "vosotros": "realizareis",
+      "uds": "realizaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya realizado",
+      "tu": "hayas realizado",
+      "ud": "haya realizado",
+      "nosotros": "hayamos realizado",
+      "vosotros": "hayáis realizado",
+      "uds": "hayan realizado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere realizado",
+      "tu": "hubieres realizado",
+      "ud": "hubiere realizado",
+      "nosotros": "hubiéremos realizado",
+      "vosotros": "hubiereis realizado",
+      "uds": "hubieren realizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera realizado",
+      "tu": "hubieras realizado",
+      "ud": "hubiera realizado",
+      "nosotros": "hubiéramos realizado",
+      "vosotros": "hubierais realizado",
+      "uds": "hubieran realizado"
+    },
+    "imperfectoAlt": {
+      "yo": "realizase",
+      "tu": "realizases",
+      "ud": "realizase",
+      "nosotros": "realizásemos",
+      "vosotros": "realizaseis",
+      "uds": "realizasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese realizado",
+      "tu": "hubieses realizado",
+      "ud": "hubiese realizado",
+      "nosotros": "hubiésemos realizado",
+      "vosotros": "hubieseis realizado",
+      "uds": "hubiesen realizado"
+    }
+  },
+  "afirmativo": {
+    "tu": "realiza",
+    "vosotros": "realizad",
+    "ud": "realice",
+    "uds": "realicen"
+  },
+  "negativo": {
+    "tu": "no realices",
+    "vosotros": "no realicéis",
+    "ud": "no realice",
+    "uds": "no realicen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e. Note: This verb does not mean to realize in the sense of to become aware of; use darse cuenta (de) instead.",
+    "infinitivo": "to achieve, attain, accomplish, realize",
+    "gerundio": "achieving",
+    "participioPasado": "achieved",
+    "indicativo": {
+      "presente": "I achieve, am achieving",
+      "futuro": "I will achieve",
+      "imperfecto": "I was achieving, used to achieve, achieved",
+      "preterito": "I achieved",
+      "condicional": "I would achieve",
+      "presentePerfecto": "I have achieved",
+      "futuroPerfecto": "I will have achieved",
+      "pluscuamperfecto": "I had achieved",
+      "preteritoAnterior": "I had achieved",
+      "condicionalPerfecto": "I would have achieved"
+    },
+    "subjuntivo": {
+      "presente": "I achieve, am achieving",
+      "imperfecto": "I achieved, was achieving",
+      "futuro": "I will achieve",
+      "presentePerfecto": "I have achieved, achieved",
+      "futuroPerfecto": "I will have achieved",
+      "pluscuamperfecto": "I had achieved"
+    },
+    "afirmativo": "Achieve!",
+    "negativo": "Don't achieve!"
+  },
+  "attribution": "Fred Jehle"
+}

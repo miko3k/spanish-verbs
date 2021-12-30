@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "brindar",
+  "gerundio": "brindando",
+  "participioPasado": "brindado",
+  "indicativo": {
+    "presente": {
+      "yo": "brindo",
+      "tu": "brindas",
+      "ud": "brinda",
+      "nosotros": "brindamos",
+      "vosotros": "brindáis",
+      "uds": "brindan"
+    },
+    "futuro": {
+      "yo": "brindaré",
+      "tu": "brindarás",
+      "ud": "brindará",
+      "nosotros": "brindaremos",
+      "vosotros": "brindaréis",
+      "uds": "brindarán"
+    },
+    "imperfecto": {
+      "yo": "brindaba",
+      "tu": "brindabas",
+      "ud": "brindaba",
+      "nosotros": "brindábamos",
+      "vosotros": "brindabais",
+      "uds": "brindaban"
+    },
+    "preterito": {
+      "yo": "brindé",
+      "tu": "brindaste",
+      "ud": "brindó",
+      "nosotros": "brindamos",
+      "vosotros": "brindasteis",
+      "uds": "brindaron"
+    },
+    "condicional": {
+      "yo": "brindaría",
+      "tu": "brindarías",
+      "ud": "brindaría",
+      "nosotros": "brindaríamos",
+      "vosotros": "brindaríais",
+      "uds": "brindarían"
+    },
+    "presentePerfecto": {
+      "yo": "he brindado",
+      "tu": "has brindado",
+      "ud": "ha brindado",
+      "nosotros": "hemos brindado",
+      "vosotros": "habéis brindado",
+      "uds": "han brindado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré brindado",
+      "tu": "habrás brindado",
+      "ud": "habrá brindado",
+      "nosotros": "habremos brindado",
+      "vosotros": "habréis brindado",
+      "uds": "habrán brindado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había brindado",
+      "tu": "habías brindado",
+      "ud": "había brindado",
+      "nosotros": "habíamos brindado",
+      "vosotros": "habíais brindado",
+      "uds": "habían brindado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube brindado",
+      "tu": "hubiste brindado",
+      "ud": "hubo brindado",
+      "nosotros": "hubimos brindado",
+      "vosotros": "hubisteis brindado",
+      "uds": "hubieron brindado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría brindado",
+      "tu": "habrías brindado",
+      "ud": "habría brindado",
+      "nosotros": "habríamos brindado",
+      "vosotros": "habríais brindado",
+      "uds": "habrían brindado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "brinde",
+      "tu": "brindes",
+      "ud": "brinde",
+      "nosotros": "brindemos",
+      "vosotros": "brindéis",
+      "uds": "brinden"
+    },
+    "imperfecto": {
+      "yo": "brindara",
+      "tu": "brindaras",
+      "ud": "brindara",
+      "nosotros": "brindáramos",
+      "vosotros": "brindarais",
+      "uds": "brindaran"
+    },
+    "futuro": {
+      "yo": "brindare",
+      "tu": "brindares",
+      "ud": "brindare",
+      "nosotros": "brindáremos",
+      "vosotros": "brindareis",
+      "uds": "brindaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya brindado",
+      "tu": "hayas brindado",
+      "ud": "haya brindado",
+      "nosotros": "hayamos brindado",
+      "vosotros": "hayáis brindado",
+      "uds": "hayan brindado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere brindado",
+      "tu": "hubieres brindado",
+      "ud": "hubiere brindado",
+      "nosotros": "hubiéremos brindado",
+      "vosotros": "hubiereis brindado",
+      "uds": "hubieren brindado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera brindado",
+      "tu": "hubieras brindado",
+      "ud": "hubiera brindado",
+      "nosotros": "hubiéramos brindado",
+      "vosotros": "hubierais brindado",
+      "uds": "hubieran brindado"
+    },
+    "imperfectoAlt": {
+      "yo": "brindase",
+      "tu": "brindases",
+      "ud": "brindase",
+      "nosotros": "brindásemos",
+      "vosotros": "brindaseis",
+      "uds": "brindasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese brindado",
+      "tu": "hubieses brindado",
+      "ud": "hubiese brindado",
+      "nosotros": "hubiésemos brindado",
+      "vosotros": "hubieseis brindado",
+      "uds": "hubiesen brindado"
+    }
+  },
+  "afirmativo": {
+    "tu": "brinda",
+    "vosotros": "brindad",
+    "ud": "brinde",
+    "uds": "brinden"
+  },
+  "negativo": {
+    "tu": "no brindes",
+    "vosotros": "no brindéis",
+    "ud": "no brinde",
+    "uds": "no brinden"
+  },
+  "english": {
+    "note": "This verb means to toast someone or something in the sense of making a toast.",
+    "infinitivo": "to toast",
+    "gerundio": "toasting",
+    "participioPasado": "toasted",
+    "indicativo": {
+      "presente": "I toast, am toasting",
+      "futuro": "I will toast",
+      "imperfecto": "I was toasting, used to toast, toasted",
+      "preterito": "I toasted",
+      "condicional": "I would toast",
+      "presentePerfecto": "I have toasted",
+      "futuroPerfecto": "I will have toasted",
+      "pluscuamperfecto": "I had toasted",
+      "preteritoAnterior": "I had toasted",
+      "condicionalPerfecto": "I would have toasted"
+    },
+    "subjuntivo": {
+      "presente": "I toast, am toasting",
+      "imperfecto": "I toasted, was toasting",
+      "futuro": "I will toast",
+      "presentePerfecto": "I have toasted, toasted",
+      "futuroPerfecto": "I will have toasted",
+      "pluscuamperfecto": "I had toasted"
+    },
+    "afirmativo": "Toast!",
+    "negativo": "Don't toast!"
+  },
+  "attribution": "Fred Jehle"
+}

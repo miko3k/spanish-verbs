@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "negociar",
+  "gerundio": "negociando",
+  "participioPasado": "negociado",
+  "indicativo": {
+    "presente": {
+      "yo": "negocio",
+      "tu": "negocias",
+      "ud": "negocia",
+      "nosotros": "negociamos",
+      "vosotros": "negociáis",
+      "uds": "negocian"
+    },
+    "futuro": {
+      "yo": "negociaré",
+      "tu": "negociarás",
+      "ud": "negociará",
+      "nosotros": "negociaremos",
+      "vosotros": "negociaréis",
+      "uds": "negociarán"
+    },
+    "imperfecto": {
+      "yo": "negociaba",
+      "tu": "negociabas",
+      "ud": "negociaba",
+      "nosotros": "negociábamos",
+      "vosotros": "negociabais",
+      "uds": "negociaban"
+    },
+    "preterito": {
+      "yo": "negocié",
+      "tu": "negociaste",
+      "ud": "negoció",
+      "nosotros": "negociamos",
+      "vosotros": "negociasteis",
+      "uds": "negociaron"
+    },
+    "condicional": {
+      "yo": "negociaría",
+      "tu": "negociarías",
+      "ud": "negociaría",
+      "nosotros": "negociaríamos",
+      "vosotros": "negociaríais",
+      "uds": "negociarían"
+    },
+    "presentePerfecto": {
+      "yo": "he negociado",
+      "tu": "has negociado",
+      "ud": "ha negociado",
+      "nosotros": "hemos negociado",
+      "vosotros": "habéis negociado",
+      "uds": "han negociado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré negociado",
+      "tu": "habrás negociado",
+      "ud": "habrá negociado",
+      "nosotros": "habremos negociado",
+      "vosotros": "habréis negociado",
+      "uds": "habrán negociado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había negociado",
+      "tu": "habías negociado",
+      "ud": "había negociado",
+      "nosotros": "habíamos negociado",
+      "vosotros": "habíais negociado",
+      "uds": "habían negociado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube negociado",
+      "tu": "hubiste negociado",
+      "ud": "hubo negociado",
+      "nosotros": "hubimos negociado",
+      "vosotros": "hubisteis negociado",
+      "uds": "hubieron negociado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría negociado",
+      "tu": "habrías negociado",
+      "ud": "habría negociado",
+      "nosotros": "habríamos negociado",
+      "vosotros": "habríais negociado",
+      "uds": "habrían negociado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "negocie",
+      "tu": "negocies",
+      "ud": "negocie",
+      "nosotros": "negociemos",
+      "vosotros": "negociéis",
+      "uds": "negocien"
+    },
+    "imperfecto": {
+      "yo": "negociara",
+      "tu": "negociaras",
+      "ud": "negociara",
+      "nosotros": "negociáramos",
+      "vosotros": "negociarais",
+      "uds": "negociaran"
+    },
+    "futuro": {
+      "yo": "negociare",
+      "tu": "negociares",
+      "ud": "negociare",
+      "nosotros": "negociáremos",
+      "vosotros": "negociareis",
+      "uds": "negociaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya negociado",
+      "tu": "hayas negociado",
+      "ud": "haya negociado",
+      "nosotros": "hayamos negociado",
+      "vosotros": "hayáis negociado",
+      "uds": "hayan negociado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere negociado",
+      "tu": "hubieres negociado",
+      "ud": "hubiere negociado",
+      "nosotros": "hubiéremos negociado",
+      "vosotros": "hubiereis negociado",
+      "uds": "hubieren negociado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera negociado",
+      "tu": "hubieras negociado",
+      "ud": "hubiera negociado",
+      "nosotros": "hubiéramos negociado",
+      "vosotros": "hubierais negociado",
+      "uds": "hubieran negociado"
+    },
+    "imperfectoAlt": {
+      "yo": "negociase",
+      "tu": "negociases",
+      "ud": "negociase",
+      "nosotros": "negociásemos",
+      "vosotros": "negociaseis",
+      "uds": "negociasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese negociado",
+      "tu": "hubieses negociado",
+      "ud": "hubiese negociado",
+      "nosotros": "hubiésemos negociado",
+      "vosotros": "hubieseis negociado",
+      "uds": "hubiesen negociado"
+    }
+  },
+  "afirmativo": {
+    "tu": "negocia",
+    "vosotros": "negociad",
+    "ud": "negocie",
+    "uds": "negocien"
+  },
+  "negativo": {
+    "tu": "no negocies",
+    "vosotros": "no negociéis",
+    "ud": "no negocie",
+    "uds": "no negocien"
+  },
+  "english": {
+    "note": "Note: When used with the preposition en, negociar can mean to deal in, trade in.",
+    "infinitivo": "to negotiate",
+    "gerundio": "negotiating",
+    "participioPasado": "negotiated",
+    "indicativo": {
+      "presente": "I negotiate, am negotiating",
+      "futuro": "I will negotiate",
+      "imperfecto": "I was negotiating, used to negotiate, negotiated",
+      "preterito": "I negotiated",
+      "condicional": "I would negotiate",
+      "presentePerfecto": "I have negotiated",
+      "futuroPerfecto": "I will have negotiated",
+      "pluscuamperfecto": "I had negotiated",
+      "preteritoAnterior": "I had negotiated",
+      "condicionalPerfecto": "I would have negotiated"
+    },
+    "subjuntivo": {
+      "presente": "I negotiate, am negotiating",
+      "imperfecto": "I negotiated, was negotiating",
+      "futuro": "I will negotiate",
+      "presentePerfecto": "I have negotiated, negotiated",
+      "futuroPerfecto": "I will have negotiated",
+      "pluscuamperfecto": "I had negotiated"
+    },
+    "afirmativo": "Negotiate!",
+    "negativo": "Don't negotiate!"
+  },
+  "attribution": "Fred Jehle"
+}

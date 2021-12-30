@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "invitar",
+  "gerundio": "invitando",
+  "participioPasado": "invitado",
+  "indicativo": {
+    "presente": {
+      "yo": "invito",
+      "tu": "invitas",
+      "ud": "invita",
+      "nosotros": "invitamos",
+      "vosotros": "invitáis",
+      "uds": "invitan"
+    },
+    "futuro": {
+      "yo": "invitaré",
+      "tu": "invitarás",
+      "ud": "invitará",
+      "nosotros": "invitaremos",
+      "vosotros": "invitaréis",
+      "uds": "invitarán"
+    },
+    "imperfecto": {
+      "yo": "invitaba",
+      "tu": "invitabas",
+      "ud": "invitaba",
+      "nosotros": "invitábamos",
+      "vosotros": "invitabais",
+      "uds": "invitaban"
+    },
+    "preterito": {
+      "yo": "invité",
+      "tu": "invitaste",
+      "ud": "invitó",
+      "nosotros": "invitamos",
+      "vosotros": "invitasteis",
+      "uds": "invitaron"
+    },
+    "condicional": {
+      "yo": "invitaría",
+      "tu": "invitarías",
+      "ud": "invitaría",
+      "nosotros": "invitaríamos",
+      "vosotros": "invitaríais",
+      "uds": "invitarían"
+    },
+    "presentePerfecto": {
+      "yo": "he invitado",
+      "tu": "has invitado",
+      "ud": "ha invitado",
+      "nosotros": "hemos invitado",
+      "vosotros": "habéis invitado",
+      "uds": "han invitado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré invitado",
+      "tu": "habrás invitado",
+      "ud": "habrá invitado",
+      "nosotros": "habremos invitado",
+      "vosotros": "habréis invitado",
+      "uds": "habrán invitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había invitado",
+      "tu": "habías invitado",
+      "ud": "había invitado",
+      "nosotros": "habíamos invitado",
+      "vosotros": "habíais invitado",
+      "uds": "habían invitado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube invitado",
+      "tu": "hubiste invitado",
+      "ud": "hubo invitado",
+      "nosotros": "hubimos invitado",
+      "vosotros": "hubisteis invitado",
+      "uds": "hubieron invitado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría invitado",
+      "tu": "habrías invitado",
+      "ud": "habría invitado",
+      "nosotros": "habríamos invitado",
+      "vosotros": "habríais invitado",
+      "uds": "habrían invitado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "invite",
+      "tu": "invites",
+      "ud": "invite",
+      "nosotros": "invitemos",
+      "vosotros": "invitéis",
+      "uds": "inviten"
+    },
+    "imperfecto": {
+      "yo": "invitara",
+      "tu": "invitaras",
+      "ud": "invitara",
+      "nosotros": "invitáramos",
+      "vosotros": "invitarais",
+      "uds": "invitaran"
+    },
+    "futuro": {
+      "yo": "invitare",
+      "tu": "invitares",
+      "ud": "invitare",
+      "nosotros": "invitáremos",
+      "vosotros": "invitareis",
+      "uds": "invitaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya invitado",
+      "tu": "hayas invitado",
+      "ud": "haya invitado",
+      "nosotros": "hayamos invitado",
+      "vosotros": "hayáis invitado",
+      "uds": "hayan invitado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere invitado",
+      "tu": "hubieres invitado",
+      "ud": "hubiere invitado",
+      "nosotros": "hubiéremos invitado",
+      "vosotros": "hubiereis invitado",
+      "uds": "hubieren invitado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera invitado",
+      "tu": "hubieras invitado",
+      "ud": "hubiera invitado",
+      "nosotros": "hubiéramos invitado",
+      "vosotros": "hubierais invitado",
+      "uds": "hubieran invitado"
+    },
+    "imperfectoAlt": {
+      "yo": "invitase",
+      "tu": "invitases",
+      "ud": "invitase",
+      "nosotros": "invitásemos",
+      "vosotros": "invitaseis",
+      "uds": "invitasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese invitado",
+      "tu": "hubieses invitado",
+      "ud": "hubiese invitado",
+      "nosotros": "hubiésemos invitado",
+      "vosotros": "hubieseis invitado",
+      "uds": "hubiesen invitado"
+    }
+  },
+  "afirmativo": {
+    "tu": "invita",
+    "vosotros": "invitad",
+    "ud": "invite",
+    "uds": "inviten"
+  },
+  "negativo": {
+    "tu": "no invites",
+    "vosotros": "no invitéis",
+    "ud": "no invite",
+    "uds": "no inviten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to invite",
+    "gerundio": "inviting",
+    "participioPasado": "invited",
+    "indicativo": {
+      "presente": "I invite, am inviting",
+      "futuro": "I will invite",
+      "imperfecto": "I was inviting, used to invite, invited",
+      "preterito": "I invited",
+      "condicional": "I would invite",
+      "presentePerfecto": "I have invited",
+      "futuroPerfecto": "I will have invited",
+      "pluscuamperfecto": "I had invited",
+      "preteritoAnterior": "I had invited",
+      "condicionalPerfecto": "I would have invited"
+    },
+    "subjuntivo": {
+      "presente": "I invite, am inviting",
+      "imperfecto": "I invited, was inviting",
+      "futuro": "I will invite",
+      "presentePerfecto": "I have invited, invited",
+      "futuroPerfecto": "I will have invited",
+      "pluscuamperfecto": "I had invited"
+    },
+    "afirmativo": "Invite!",
+    "negativo": "Don't invite!"
+  },
+  "attribution": "Fred Jehle"
+}

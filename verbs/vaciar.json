@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "vaciar",
+  "gerundio": "vaciando",
+  "participioPasado": "vaciado",
+  "indicativo": {
+    "presente": {
+      "yo": "vacío",
+      "tu": "vacías",
+      "ud": "vacía",
+      "nosotros": "vaciamos",
+      "vosotros": "vaciáis",
+      "uds": "vacían"
+    },
+    "futuro": {
+      "yo": "vaciaré",
+      "tu": "vaciarás",
+      "ud": "vaciará",
+      "nosotros": "vaciaremos",
+      "vosotros": "vaciaréis",
+      "uds": "vaciarán"
+    },
+    "imperfecto": {
+      "yo": "vaciaba",
+      "tu": "vaciabas",
+      "ud": "vaciaba",
+      "nosotros": "vaciábamos",
+      "vosotros": "vaciabais",
+      "uds": "vaciaban"
+    },
+    "preterito": {
+      "yo": "vacié",
+      "tu": "vaciaste",
+      "ud": "vació",
+      "nosotros": "vaciamos",
+      "vosotros": "vaciasteis",
+      "uds": "vaciaron"
+    },
+    "condicional": {
+      "yo": "vaciaría",
+      "tu": "vaciarías",
+      "ud": "vaciaría",
+      "nosotros": "vaciaríamos",
+      "vosotros": "vaciaríais",
+      "uds": "vaciarían"
+    },
+    "presentePerfecto": {
+      "yo": "he vaciado",
+      "tu": "has vaciado",
+      "ud": "ha vaciado",
+      "nosotros": "hemos vaciado",
+      "vosotros": "habéis vaciado",
+      "uds": "han vaciado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré vaciado",
+      "tu": "habrás vaciado",
+      "ud": "habrá vaciado",
+      "nosotros": "habremos vaciado",
+      "vosotros": "habréis vaciado",
+      "uds": "habrán vaciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había vaciado",
+      "tu": "habías vaciado",
+      "ud": "había vaciado",
+      "nosotros": "habíamos vaciado",
+      "vosotros": "habíais vaciado",
+      "uds": "habían vaciado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube vaciado",
+      "tu": "hubiste vaciado",
+      "ud": "hubo vaciado",
+      "nosotros": "hubimos vaciado",
+      "vosotros": "hubisteis vaciado",
+      "uds": "hubieron vaciado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría vaciado",
+      "tu": "habrías vaciado",
+      "ud": "habría vaciado",
+      "nosotros": "habríamos vaciado",
+      "vosotros": "habríais vaciado",
+      "uds": "habrían vaciado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "vacíe",
+      "tu": "vacíes",
+      "ud": "vacíe",
+      "nosotros": "vaciemos",
+      "vosotros": "vaciéis",
+      "uds": "vacíen"
+    },
+    "imperfecto": {
+      "yo": "vaciara",
+      "tu": "vaciaras",
+      "ud": "vaciara",
+      "nosotros": "vaciáramos",
+      "vosotros": "vaciarais",
+      "uds": "vaciaran"
+    },
+    "futuro": {
+      "yo": "vaciare",
+      "tu": "vaciares",
+      "ud": "vaciare",
+      "nosotros": "vaciáremos",
+      "vosotros": "vaciareis",
+      "uds": "vaciaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya vaciado",
+      "tu": "hayas vaciado",
+      "ud": "haya vaciado",
+      "nosotros": "hayamos vaciado",
+      "vosotros": "hayáis vaciado",
+      "uds": "hayan vaciado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere vaciado",
+      "tu": "hubieres vaciado",
+      "ud": "hubiere vaciado",
+      "nosotros": "hubiéremos vaciado",
+      "vosotros": "hubiereis vaciado",
+      "uds": "hubieren vaciado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera vaciado",
+      "tu": "hubieras vaciado",
+      "ud": "hubiera vaciado",
+      "nosotros": "hubiéramos vaciado",
+      "vosotros": "hubierais vaciado",
+      "uds": "hubieran vaciado"
+    },
+    "imperfectoAlt": {
+      "yo": "vaciase",
+      "tu": "vaciases",
+      "ud": "vaciase",
+      "nosotros": "vaciásemos",
+      "vosotros": "vaciaseis",
+      "uds": "vaciasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese vaciado",
+      "tu": "hubieses vaciado",
+      "ud": "hubiese vaciado",
+      "nosotros": "hubiésemos vaciado",
+      "vosotros": "hubieseis vaciado",
+      "uds": "hubiesen vaciado"
+    }
+  },
+  "afirmativo": {
+    "tu": "vacía",
+    "vosotros": "vaciad",
+    "ud": "vacíe",
+    "uds": "vacíen"
+  },
+  "negativo": {
+    "tu": "no vacíes",
+    "vosotros": "no vaciéis",
+    "ud": "no vacíe",
+    "uds": "no vacíen"
+  },
+  "english": {
+    "note": "Cambio: i > í cuando la radical tiene el acento tónico.",
+    "infinitivo": "to empty",
+    "gerundio": "emptying",
+    "participioPasado": "emptied",
+    "indicativo": {
+      "presente": "I empty, am emptying",
+      "futuro": "I will empty",
+      "imperfecto": "I was emptying, used to empty, emptied",
+      "preterito": "I emptied",
+      "condicional": "I would empty",
+      "presentePerfecto": "I have emptied",
+      "futuroPerfecto": "I will have emptied",
+      "pluscuamperfecto": "I had emptied",
+      "preteritoAnterior": "I had emptied",
+      "condicionalPerfecto": "I would have emptied"
+    },
+    "subjuntivo": {
+      "presente": "I empty, am emptying",
+      "imperfecto": "I emptied, was emptying",
+      "futuro": "I will empty",
+      "presentePerfecto": "I have emptied, emptied",
+      "futuroPerfecto": "I will have emptied",
+      "pluscuamperfecto": "I had emptied"
+    },
+    "afirmativo": "Empty!",
+    "negativo": "Don't empty!"
+  },
+  "attribution": "Fred Jehle"
+}

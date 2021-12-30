@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "depender",
+  "gerundio": "dependiendo",
+  "participioPasado": "dependido",
+  "indicativo": {
+    "presente": {
+      "yo": "dependo",
+      "tu": "dependes",
+      "ud": "depende",
+      "nosotros": "dependemos",
+      "vosotros": "dependéis",
+      "uds": "dependen"
+    },
+    "futuro": {
+      "yo": "dependeré",
+      "tu": "dependerás",
+      "ud": "dependerá",
+      "nosotros": "dependeremos",
+      "vosotros": "dependeréis",
+      "uds": "dependerán"
+    },
+    "imperfecto": {
+      "yo": "dependía",
+      "tu": "dependías",
+      "ud": "dependía",
+      "nosotros": "dependíamos",
+      "vosotros": "dependíais",
+      "uds": "dependían"
+    },
+    "preterito": {
+      "yo": "dependí",
+      "tu": "dependiste",
+      "ud": "dependió",
+      "nosotros": "dependimos",
+      "vosotros": "dependisteis",
+      "uds": "dependieron"
+    },
+    "condicional": {
+      "yo": "dependería",
+      "tu": "dependerías",
+      "ud": "dependería",
+      "nosotros": "dependeríamos",
+      "vosotros": "dependeríais",
+      "uds": "dependerían"
+    },
+    "presentePerfecto": {
+      "yo": "he dependido",
+      "tu": "has dependido",
+      "ud": "ha dependido",
+      "nosotros": "hemos dependido",
+      "vosotros": "habéis dependido",
+      "uds": "han dependido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré dependido",
+      "tu": "habrás dependido",
+      "ud": "habrá dependido",
+      "nosotros": "habremos dependido",
+      "vosotros": "habréis dependido",
+      "uds": "habrán dependido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había dependido",
+      "tu": "habías dependido",
+      "ud": "había dependido",
+      "nosotros": "habíamos dependido",
+      "vosotros": "habíais dependido",
+      "uds": "habían dependido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube dependido",
+      "tu": "hubiste dependido",
+      "ud": "hubo dependido",
+      "nosotros": "hubimos dependido",
+      "vosotros": "hubisteis dependido",
+      "uds": "hubieron dependido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría dependido",
+      "tu": "habrías dependido",
+      "ud": "habría dependido",
+      "nosotros": "habríamos dependido",
+      "vosotros": "habríais dependido",
+      "uds": "habrían dependido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "dependa",
+      "tu": "dependas",
+      "ud": "dependa",
+      "nosotros": "dependamos",
+      "vosotros": "dependáis",
+      "uds": "dependan"
+    },
+    "imperfecto": {
+      "yo": "dependiera",
+      "tu": "dependieras",
+      "ud": "dependiera",
+      "nosotros": "dependiéramos",
+      "vosotros": "dependierais",
+      "uds": "dependieran"
+    },
+    "futuro": {
+      "yo": "dependiere",
+      "tu": "dependieres",
+      "ud": "dependiere",
+      "nosotros": "dependiéremos",
+      "vosotros": "dependiereis",
+      "uds": "dependieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya dependido",
+      "tu": "hayas dependido",
+      "ud": "haya dependido",
+      "nosotros": "hayamos dependido",
+      "vosotros": "hayáis dependido",
+      "uds": "hayan dependido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere dependido",
+      "tu": "hubieres dependido",
+      "ud": "hubiere dependido",
+      "nosotros": "hubiéremos dependido",
+      "vosotros": "hubiereis dependido",
+      "uds": "hubieren dependido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera dependido",
+      "tu": "hubieras dependido",
+      "ud": "hubiera dependido",
+      "nosotros": "hubiéramos dependido",
+      "vosotros": "hubierais dependido",
+      "uds": "hubieran dependido"
+    },
+    "imperfectoAlt": {
+      "yo": "dependiese",
+      "tu": "dependieses",
+      "ud": "dependiese",
+      "nosotros": "dependiésemos",
+      "vosotros": "dependieseis",
+      "uds": "dependiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese dependido",
+      "tu": "hubieses dependido",
+      "ud": "hubiese dependido",
+      "nosotros": "hubiésemos dependido",
+      "vosotros": "hubieseis dependido",
+      "uds": "hubiesen dependido"
+    }
+  },
+  "afirmativo": {
+    "tu": "depende",
+    "vosotros": "depended",
+    "ud": "dependa",
+    "uds": "dependan"
+  },
+  "negativo": {
+    "tu": "no dependas",
+    "vosotros": "no dependáis",
+    "ud": "no dependa",
+    "uds": "no dependan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to depend",
+    "gerundio": "depending",
+    "participioPasado": "depended",
+    "indicativo": {
+      "presente": "I depend, am depending",
+      "futuro": "I will depend",
+      "imperfecto": "I was depending, used to depend, depend",
+      "preterito": "I depend",
+      "condicional": "I would depend",
+      "presentePerfecto": "I have depended",
+      "futuroPerfecto": "I will have depended",
+      "pluscuamperfecto": "I had depended",
+      "preteritoAnterior": "I had depended",
+      "condicionalPerfecto": "I would have depended"
+    },
+    "subjuntivo": {
+      "presente": "I depend, am depending",
+      "imperfecto": "I depend, was depending",
+      "futuro": "I will depend",
+      "presentePerfecto": "I have depended, depend",
+      "futuroPerfecto": "I will have depended",
+      "pluscuamperfecto": "I had depended"
+    },
+    "afirmativo": "Depend!",
+    "negativo": "Don't depend!"
+  },
+  "attribution": "Fred Jehle"
+}

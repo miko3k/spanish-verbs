@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "satisfacer",
+  "gerundio": "satisfaciendo",
+  "participioPasado": "satisfecho",
+  "indicativo": {
+    "presente": {
+      "yo": "satisfago",
+      "tu": "satisfaces",
+      "ud": "satisface",
+      "nosotros": "satisfacemos",
+      "vosotros": "satisfacéis",
+      "uds": "satisfacen"
+    },
+    "futuro": {
+      "yo": "satisfaré",
+      "tu": "satisfarás",
+      "ud": "satisfará",
+      "nosotros": "satisfaremos",
+      "vosotros": "satisfaréis",
+      "uds": "satisfarán"
+    },
+    "imperfecto": {
+      "yo": "satisfacía",
+      "tu": "satisfacías",
+      "ud": "satisfacía",
+      "nosotros": "satisfacíamos",
+      "vosotros": "satisfacíais",
+      "uds": "satisfacían"
+    },
+    "preterito": {
+      "yo": "satisfice",
+      "tu": "satisficiste",
+      "ud": "satisfizo",
+      "nosotros": "satisficimos",
+      "vosotros": "satisficisteis",
+      "uds": "satisficieron"
+    },
+    "condicional": {
+      "yo": "satisfaría",
+      "tu": "satisfarías",
+      "ud": "satisfaría",
+      "nosotros": "satisfaríamos",
+      "vosotros": "satisfaríais",
+      "uds": "satisfarían"
+    },
+    "presentePerfecto": {
+      "yo": "he satisfecho",
+      "tu": "has satisfecho",
+      "ud": "ha satisfecho",
+      "nosotros": "hemos satisfecho",
+      "vosotros": "habéis satisfecho",
+      "uds": "han satisfecho"
+    },
+    "futuroPerfecto": {
+      "yo": "habré satisfecho",
+      "tu": "habrás satisfecho",
+      "ud": "habrá satisfecho",
+      "nosotros": "habremos satisfecho",
+      "vosotros": "habréis satisfecho",
+      "uds": "habrán satisfecho"
+    },
+    "pluscuamperfecto": {
+      "yo": "había satisfecho",
+      "tu": "habías satisfecho",
+      "ud": "había satisfecho",
+      "nosotros": "habíamos satisfecho",
+      "vosotros": "habíais satisfecho",
+      "uds": "habían satisfecho"
+    },
+    "preteritoAnterior": {
+      "yo": "hube satisfecho",
+      "tu": "hubiste satisfecho",
+      "ud": "hubo satisfecho",
+      "nosotros": "hubimos satisfecho",
+      "vosotros": "hubisteis satisfecho",
+      "uds": "hubieron satisfecho"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría satisfecho",
+      "tu": "habrías satisfecho",
+      "ud": "habría satisfecho",
+      "nosotros": "habríamos satisfecho",
+      "vosotros": "habríais satisfecho",
+      "uds": "habrían satisfecho"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "satisfaga",
+      "tu": "satisfagas",
+      "ud": "satisfaga",
+      "nosotros": "satisfagamos",
+      "vosotros": "satisfagáis",
+      "uds": "satisfagan"
+    },
+    "imperfecto": {
+      "yo": "satisficiera",
+      "tu": "satisficieras",
+      "ud": "satisficiera",
+      "nosotros": "satisficiéramos",
+      "vosotros": "satisficierais",
+      "uds": "satisficieran"
+    },
+    "futuro": {
+      "yo": "satisficiere",
+      "tu": "satisficieres",
+      "ud": "satisficiere",
+      "nosotros": "satisficiéremos",
+      "vosotros": "satisficiereis",
+      "uds": "satisficieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya satisfecho",
+      "tu": "hayas satisfecho",
+      "ud": "haya satisfecho",
+      "nosotros": "hayamos satisfecho",
+      "vosotros": "hayáis satisfecho",
+      "uds": "hayan satisfecho"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere satisfecho",
+      "tu": "hubieres satisfecho",
+      "ud": "hubiere satisfecho",
+      "nosotros": "hubiéremos satisfecho",
+      "vosotros": "hubiereis satisfecho",
+      "uds": "hubieren satisfecho"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera satisfecho",
+      "tu": "hubieras satisfecho",
+      "ud": "hubiera satisfecho",
+      "nosotros": "hubiéramos satisfecho",
+      "vosotros": "hubierais satisfecho",
+      "uds": "hubieran satisfecho"
+    },
+    "imperfectoAlt": {
+      "yo": "satisficiese",
+      "tu": "satisficieses",
+      "ud": "satisficiese",
+      "nosotros": "satisficiésemos",
+      "vosotros": "satisficieseis",
+      "uds": "satisficiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese satisfecho",
+      "tu": "hubieses satisfecho",
+      "ud": "hubiese satisfecho",
+      "nosotros": "hubiésemos satisfecho",
+      "vosotros": "hubieseis satisfecho",
+      "uds": "hubiesen satisfecho"
+    }
+  },
+  "afirmativo": {
+    "tu": "satisfaz",
+    "vosotros": "satisfaced",
+    "ud": "satisfaga",
+    "uds": "satisfagan"
+  },
+  "negativo": {
+    "tu": "no satisfagas",
+    "vosotros": "no satisfagáis",
+    "ud": "no satisfaga",
+    "uds": "no satisfagan"
+  },
+  "english": {
+    "note": "Formas irregulares: satisfago, satisfaga, satisfagas, etc. Radical irregular en el futuro y condicional: satisfar-. Radical fuerte en el pretérito, con cambio ortográfico: satisfic-/satisfiz-. Participio pasado irregular: satisfecho. Mandato familiar singular irregular: satisfaz.",
+    "infinitivo": "to satisfy; to meet (expenses, demands); to pay (debts)",
+    "gerundio": "satisfying",
+    "participioPasado": "satisfied",
+    "indicativo": {
+      "presente": "I satisfy, am satisfying",
+      "futuro": "I will satisfy",
+      "imperfecto": "I was satisfying, used to satisfy, satisfied",
+      "preterito": "I satisfied",
+      "condicional": "I would satisfy",
+      "presentePerfecto": "I have satisfied",
+      "futuroPerfecto": "I will have satisfied",
+      "pluscuamperfecto": "I had satisfied",
+      "preteritoAnterior": "I had satisfied",
+      "condicionalPerfecto": "I would have satisfied"
+    },
+    "subjuntivo": {
+      "presente": "I satisfy, am satisfying",
+      "imperfecto": "I satisfied, was satisfying",
+      "futuro": "I will satisfy",
+      "presentePerfecto": "I have satisfied, satisfied",
+      "futuroPerfecto": "I will have satisfied",
+      "pluscuamperfecto": "I had satisfied"
+    },
+    "afirmativo": "Satisfy!",
+    "negativo": "Don't satisfy!"
+  },
+  "attribution": "Fred Jehle"
+}

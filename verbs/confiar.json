@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "confiar",
+  "gerundio": "confiando",
+  "participioPasado": "confiado",
+  "indicativo": {
+    "presente": {
+      "yo": "confío",
+      "tu": "confías",
+      "ud": "confía",
+      "nosotros": "confiamos",
+      "vosotros": "confiáis",
+      "uds": "confían"
+    },
+    "futuro": {
+      "yo": "confiaré",
+      "tu": "confiarás",
+      "ud": "confiará",
+      "nosotros": "confiaremos",
+      "vosotros": "confiaréis",
+      "uds": "confiarán"
+    },
+    "imperfecto": {
+      "yo": "confiaba",
+      "tu": "confiabas",
+      "ud": "confiaba",
+      "nosotros": "confiábamos",
+      "vosotros": "confiabais",
+      "uds": "confiaban"
+    },
+    "preterito": {
+      "yo": "confié",
+      "tu": "confiaste",
+      "ud": "confió",
+      "nosotros": "confiamos",
+      "vosotros": "confiasteis",
+      "uds": "confiaron"
+    },
+    "condicional": {
+      "yo": "confiaría",
+      "tu": "confiarías",
+      "ud": "confiaría",
+      "nosotros": "confiaríamos",
+      "vosotros": "confiaríais",
+      "uds": "confiarían"
+    },
+    "presentePerfecto": {
+      "yo": "he confiado",
+      "tu": "has confiado",
+      "ud": "ha confiado",
+      "nosotros": "hemos confiado",
+      "vosotros": "habéis confiado",
+      "uds": "han confiado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré confiado",
+      "tu": "habrás confiado",
+      "ud": "habrá confiado",
+      "nosotros": "habremos confiado",
+      "vosotros": "habréis confiado",
+      "uds": "habrán confiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había confiado",
+      "tu": "habías confiado",
+      "ud": "había confiado",
+      "nosotros": "habíamos confiado",
+      "vosotros": "habíais confiado",
+      "uds": "habían confiado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube confiado",
+      "tu": "hubiste confiado",
+      "ud": "hubo confiado",
+      "nosotros": "hubimos confiado",
+      "vosotros": "hubisteis confiado",
+      "uds": "hubieron confiado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría confiado",
+      "tu": "habrías confiado",
+      "ud": "habría confiado",
+      "nosotros": "habríamos confiado",
+      "vosotros": "habríais confiado",
+      "uds": "habrían confiado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "confíe",
+      "tu": "confíes",
+      "ud": "confíe",
+      "nosotros": "confiemos",
+      "vosotros": "confiéis",
+      "uds": "confíen"
+    },
+    "imperfecto": {
+      "yo": "confiara",
+      "tu": "confiaras",
+      "ud": "confiara",
+      "nosotros": "confiáramos",
+      "vosotros": "confiarais",
+      "uds": "confiaran"
+    },
+    "futuro": {
+      "yo": "confiare",
+      "tu": "confiares",
+      "ud": "confiare",
+      "nosotros": "confiáremos",
+      "vosotros": "confiareis",
+      "uds": "confiaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya confiado",
+      "tu": "hayas confiado",
+      "ud": "haya confiado",
+      "nosotros": "hayamos confiado",
+      "vosotros": "hayáis confiado",
+      "uds": "hayan confiado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere confiado",
+      "tu": "hubieres confiado",
+      "ud": "hubiere confiado",
+      "nosotros": "hubiéremos confiado",
+      "vosotros": "hubiereis confiado",
+      "uds": "hubieren confiado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera confiado",
+      "tu": "hubieras confiado",
+      "ud": "hubiera confiado",
+      "nosotros": "hubiéramos confiado",
+      "vosotros": "hubierais confiado",
+      "uds": "hubieran confiado"
+    },
+    "imperfectoAlt": {
+      "yo": "confiase",
+      "tu": "confiases",
+      "ud": "confiase",
+      "nosotros": "confiásemos",
+      "vosotros": "confiaseis",
+      "uds": "confiasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese confiado",
+      "tu": "hubieses confiado",
+      "ud": "hubiese confiado",
+      "nosotros": "hubiésemos confiado",
+      "vosotros": "hubieseis confiado",
+      "uds": "hubiesen confiado"
+    }
+  },
+  "afirmativo": {
+    "tu": "confía",
+    "vosotros": "confiad",
+    "ud": "confíe",
+    "uds": "confíen"
+  },
+  "negativo": {
+    "tu": "no confíes",
+    "vosotros": "no confiéis",
+    "ud": "no confíe",
+    "uds": "no confíen"
+  },
+  "english": {
+    "note": "Cambio: i > í cuando la radical tiene el acento tónico.",
+    "infinitivo": "to trust, be trusting, entrust",
+    "gerundio": "trusting",
+    "participioPasado": "trusted",
+    "indicativo": {
+      "presente": "I trust, am trusting",
+      "futuro": "I will trust",
+      "imperfecto": "I was trusting, used to trust, trusted",
+      "preterito": "I trusted",
+      "condicional": "I would trust",
+      "presentePerfecto": "I have trusted",
+      "futuroPerfecto": "I will have trusted",
+      "pluscuamperfecto": "I had trusted",
+      "preteritoAnterior": "I had trusted",
+      "condicionalPerfecto": "I would have trusted"
+    },
+    "subjuntivo": {
+      "presente": "I trust, am trusting",
+      "imperfecto": "I trusted, was trusting",
+      "futuro": "I will trust",
+      "presentePerfecto": "I have trusted, trusted",
+      "futuroPerfecto": "I will have trusted",
+      "pluscuamperfecto": "I had trusted"
+    },
+    "afirmativo": "Trust!",
+    "negativo": "Don't trust!"
+  },
+  "attribution": "Fred Jehle"
+}

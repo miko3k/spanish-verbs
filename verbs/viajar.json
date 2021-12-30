@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "viajar",
+  "gerundio": "viajando",
+  "participioPasado": "viajado",
+  "indicativo": {
+    "presente": {
+      "yo": "viajo",
+      "tu": "viajas",
+      "ud": "viaja",
+      "nosotros": "viajamos",
+      "vosotros": "viajáis",
+      "uds": "viajan"
+    },
+    "futuro": {
+      "yo": "viajaré",
+      "tu": "viajarás",
+      "ud": "viajará",
+      "nosotros": "viajaremos",
+      "vosotros": "viajaréis",
+      "uds": "viajarán"
+    },
+    "imperfecto": {
+      "yo": "viajaba",
+      "tu": "viajabas",
+      "ud": "viajaba",
+      "nosotros": "viajábamos",
+      "vosotros": "viajabais",
+      "uds": "viajaban"
+    },
+    "preterito": {
+      "yo": "viajé",
+      "tu": "viajaste",
+      "ud": "viajó",
+      "nosotros": "viajamos",
+      "vosotros": "viajasteis",
+      "uds": "viajaron"
+    },
+    "condicional": {
+      "yo": "viajaría",
+      "tu": "viajarías",
+      "ud": "viajaría",
+      "nosotros": "viajaríamos",
+      "vosotros": "viajaríais",
+      "uds": "viajarían"
+    },
+    "presentePerfecto": {
+      "yo": "he viajado",
+      "tu": "has viajado",
+      "ud": "ha viajado",
+      "nosotros": "hemos viajado",
+      "vosotros": "habéis viajado",
+      "uds": "han viajado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré viajado",
+      "tu": "habrás viajado",
+      "ud": "habrá viajado",
+      "nosotros": "habremos viajado",
+      "vosotros": "habréis viajado",
+      "uds": "habrán viajado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había viajado",
+      "tu": "habías viajado",
+      "ud": "había viajado",
+      "nosotros": "habíamos viajado",
+      "vosotros": "habíais viajado",
+      "uds": "habían viajado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube viajado",
+      "tu": "hubiste viajado",
+      "ud": "hubo viajado",
+      "nosotros": "hubimos viajado",
+      "vosotros": "hubisteis viajado",
+      "uds": "hubieron viajado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría viajado",
+      "tu": "habrías viajado",
+      "ud": "habría viajado",
+      "nosotros": "habríamos viajado",
+      "vosotros": "habríais viajado",
+      "uds": "habrían viajado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "viaje",
+      "tu": "viajes",
+      "ud": "viaje",
+      "nosotros": "viajemos",
+      "vosotros": "viajéis",
+      "uds": "viajen"
+    },
+    "imperfecto": {
+      "yo": "viajara",
+      "tu": "viajaras",
+      "ud": "viajara",
+      "nosotros": "viajáramos",
+      "vosotros": "viajarais",
+      "uds": "viajaran"
+    },
+    "futuro": {
+      "yo": "viajare",
+      "tu": "viajares",
+      "ud": "viajare",
+      "nosotros": "viajáremos",
+      "vosotros": "viajareis",
+      "uds": "viajaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya viajado",
+      "tu": "hayas viajado",
+      "ud": "haya viajado",
+      "nosotros": "hayamos viajado",
+      "vosotros": "hayáis viajado",
+      "uds": "hayan viajado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere viajado",
+      "tu": "hubieres viajado",
+      "ud": "hubiere viajado",
+      "nosotros": "hubiéremos viajado",
+      "vosotros": "hubiereis viajado",
+      "uds": "hubieren viajado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera viajado",
+      "tu": "hubieras viajado",
+      "ud": "hubiera viajado",
+      "nosotros": "hubiéramos viajado",
+      "vosotros": "hubierais viajado",
+      "uds": "hubieran viajado"
+    },
+    "imperfectoAlt": {
+      "yo": "viajase",
+      "tu": "viajases",
+      "ud": "viajase",
+      "nosotros": "viajásemos",
+      "vosotros": "viajaseis",
+      "uds": "viajasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese viajado",
+      "tu": "hubieses viajado",
+      "ud": "hubiese viajado",
+      "nosotros": "hubiésemos viajado",
+      "vosotros": "hubieseis viajado",
+      "uds": "hubiesen viajado"
+    }
+  },
+  "afirmativo": {
+    "tu": "viaja",
+    "vosotros": "viajad",
+    "ud": "viaje",
+    "uds": "viajen"
+  },
+  "negativo": {
+    "tu": "no viajes",
+    "vosotros": "no viajéis",
+    "ud": "no viaje",
+    "uds": "no viajen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to travel, journey",
+    "gerundio": "traveling",
+    "participioPasado": "traveled",
+    "indicativo": {
+      "presente": "I travel, am traveling",
+      "futuro": "I will travel",
+      "imperfecto": "I was traveling, used to travel, traveled",
+      "preterito": "I traveled",
+      "condicional": "I would travel",
+      "presentePerfecto": "I have traveled",
+      "futuroPerfecto": "I will have traveled",
+      "pluscuamperfecto": "I had traveled",
+      "preteritoAnterior": "I had traveled",
+      "condicionalPerfecto": "I would have traveled"
+    },
+    "subjuntivo": {
+      "presente": "I travel, am traveling",
+      "imperfecto": "I traveled, was traveling",
+      "futuro": "I will travel",
+      "presentePerfecto": "I have traveled, traveled",
+      "futuroPerfecto": "I will have traveled",
+      "pluscuamperfecto": "I had traveled"
+    },
+    "afirmativo": "Travel!",
+    "negativo": "Don't travel!"
+  },
+  "attribution": "Fred Jehle"
+}

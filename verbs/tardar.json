@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "tardar",
+  "gerundio": "tardando",
+  "participioPasado": "tardado",
+  "indicativo": {
+    "presente": {
+      "yo": "tardo",
+      "tu": "tardas",
+      "ud": "tarda",
+      "nosotros": "tardamos",
+      "vosotros": "tardáis",
+      "uds": "tardan"
+    },
+    "futuro": {
+      "yo": "tardaré",
+      "tu": "tardarás",
+      "ud": "tardará",
+      "nosotros": "tardaremos",
+      "vosotros": "tardaréis",
+      "uds": "tardarán"
+    },
+    "imperfecto": {
+      "yo": "tardaba",
+      "tu": "tardabas",
+      "ud": "tardaba",
+      "nosotros": "tardábamos",
+      "vosotros": "tardabais",
+      "uds": "tardaban"
+    },
+    "preterito": {
+      "yo": "tardé",
+      "tu": "tardaste",
+      "ud": "tardó",
+      "nosotros": "tardamos",
+      "vosotros": "tardasteis",
+      "uds": "tardaron"
+    },
+    "condicional": {
+      "yo": "tardaría",
+      "tu": "tardarías",
+      "ud": "tardaría",
+      "nosotros": "tardaríamos",
+      "vosotros": "tardaríais",
+      "uds": "tardarían"
+    },
+    "presentePerfecto": {
+      "yo": "he tardado",
+      "tu": "has tardado",
+      "ud": "ha tardado",
+      "nosotros": "hemos tardado",
+      "vosotros": "habéis tardado",
+      "uds": "han tardado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré tardado",
+      "tu": "habrás tardado",
+      "ud": "habrá tardado",
+      "nosotros": "habremos tardado",
+      "vosotros": "habréis tardado",
+      "uds": "habrán tardado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había tardado",
+      "tu": "habías tardado",
+      "ud": "había tardado",
+      "nosotros": "habíamos tardado",
+      "vosotros": "habíais tardado",
+      "uds": "habían tardado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube tardado",
+      "tu": "hubiste tardado",
+      "ud": "hubo tardado",
+      "nosotros": "hubimos tardado",
+      "vosotros": "hubisteis tardado",
+      "uds": "hubieron tardado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría tardado",
+      "tu": "habrías tardado",
+      "ud": "habría tardado",
+      "nosotros": "habríamos tardado",
+      "vosotros": "habríais tardado",
+      "uds": "habrían tardado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "tarde",
+      "tu": "tardes",
+      "ud": "tarde",
+      "nosotros": "tardemos",
+      "vosotros": "tardéis",
+      "uds": "tarden"
+    },
+    "imperfecto": {
+      "yo": "tardara",
+      "tu": "tardaras",
+      "ud": "tardara",
+      "nosotros": "tardáramos",
+      "vosotros": "tardarais",
+      "uds": "tardaran"
+    },
+    "futuro": {
+      "yo": "tardare",
+      "tu": "tardares",
+      "ud": "tardare",
+      "nosotros": "tardáremos",
+      "vosotros": "tardareis",
+      "uds": "tardaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya tardado",
+      "tu": "hayas tardado",
+      "ud": "haya tardado",
+      "nosotros": "hayamos tardado",
+      "vosotros": "hayáis tardado",
+      "uds": "hayan tardado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere tardado",
+      "tu": "hubieres tardado",
+      "ud": "hubiere tardado",
+      "nosotros": "hubiéremos tardado",
+      "vosotros": "hubiereis tardado",
+      "uds": "hubieren tardado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera tardado",
+      "tu": "hubieras tardado",
+      "ud": "hubiera tardado",
+      "nosotros": "hubiéramos tardado",
+      "vosotros": "hubierais tardado",
+      "uds": "hubieran tardado"
+    },
+    "imperfectoAlt": {
+      "yo": "tardase",
+      "tu": "tardases",
+      "ud": "tardase",
+      "nosotros": "tardásemos",
+      "vosotros": "tardaseis",
+      "uds": "tardasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese tardado",
+      "tu": "hubieses tardado",
+      "ud": "hubiese tardado",
+      "nosotros": "hubiésemos tardado",
+      "vosotros": "hubieseis tardado",
+      "uds": "hubiesen tardado"
+    }
+  },
+  "afirmativo": {
+    "tu": "tarda",
+    "vosotros": "tardad",
+    "ud": "tarde",
+    "uds": "tarden"
+  },
+  "negativo": {
+    "tu": "no tardes",
+    "vosotros": "no tardéis",
+    "ud": "no tarde",
+    "uds": "no tarden"
+  },
+  "english": {
+    "note": "Examples: Tardaron dos años en construir la casa, They took two years to build the house. ¡No tardes! Don't delay!, Don't be late!",
+    "infinitivo": "to delay, take a long time, be long, be slow (in doing something)",
+    "gerundio": "delaying",
+    "participioPasado": "delayed",
+    "indicativo": {
+      "presente": "I delay, am delaying",
+      "futuro": "I will delay",
+      "imperfecto": "I was delaying, used to delay, delayed",
+      "preterito": "I delayed",
+      "condicional": "I would delay",
+      "presentePerfecto": "I have delayed",
+      "futuroPerfecto": "I will have delayed",
+      "pluscuamperfecto": "I had delayed",
+      "preteritoAnterior": "I had delayed",
+      "condicionalPerfecto": "I would have delayed"
+    },
+    "subjuntivo": {
+      "presente": "I delay, am delaying",
+      "imperfecto": "I delayed, was delaying",
+      "futuro": "I will delay",
+      "presentePerfecto": "I have delayed, delayed",
+      "futuroPerfecto": "I will have delayed",
+      "pluscuamperfecto": "I had delayed"
+    },
+    "afirmativo": "Delay!",
+    "negativo": "Don't delay!"
+  },
+  "attribution": "Fred Jehle"
+}

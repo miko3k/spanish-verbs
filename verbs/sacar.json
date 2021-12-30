@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "sacar",
+  "gerundio": "sacando",
+  "participioPasado": "sacado",
+  "indicativo": {
+    "presente": {
+      "yo": "saco",
+      "tu": "sacas",
+      "ud": "saca",
+      "nosotros": "sacamos",
+      "vosotros": "sacáis",
+      "uds": "sacan"
+    },
+    "futuro": {
+      "yo": "sacaré",
+      "tu": "sacarás",
+      "ud": "sacará",
+      "nosotros": "sacaremos",
+      "vosotros": "sacaréis",
+      "uds": "sacarán"
+    },
+    "imperfecto": {
+      "yo": "sacaba",
+      "tu": "sacabas",
+      "ud": "sacaba",
+      "nosotros": "sacábamos",
+      "vosotros": "sacabais",
+      "uds": "sacaban"
+    },
+    "preterito": {
+      "yo": "saqué",
+      "tu": "sacaste",
+      "ud": "sacó",
+      "nosotros": "sacamos",
+      "vosotros": "sacasteis",
+      "uds": "sacaron"
+    },
+    "condicional": {
+      "yo": "sacaría",
+      "tu": "sacarías",
+      "ud": "sacaría",
+      "nosotros": "sacaríamos",
+      "vosotros": "sacaríais",
+      "uds": "sacarían"
+    },
+    "presentePerfecto": {
+      "yo": "he sacado",
+      "tu": "has sacado",
+      "ud": "ha sacado",
+      "nosotros": "hemos sacado",
+      "vosotros": "habéis sacado",
+      "uds": "han sacado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sacado",
+      "tu": "habrás sacado",
+      "ud": "habrá sacado",
+      "nosotros": "habremos sacado",
+      "vosotros": "habréis sacado",
+      "uds": "habrán sacado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sacado",
+      "tu": "habías sacado",
+      "ud": "había sacado",
+      "nosotros": "habíamos sacado",
+      "vosotros": "habíais sacado",
+      "uds": "habían sacado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sacado",
+      "tu": "hubiste sacado",
+      "ud": "hubo sacado",
+      "nosotros": "hubimos sacado",
+      "vosotros": "hubisteis sacado",
+      "uds": "hubieron sacado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sacado",
+      "tu": "habrías sacado",
+      "ud": "habría sacado",
+      "nosotros": "habríamos sacado",
+      "vosotros": "habríais sacado",
+      "uds": "habrían sacado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "saque",
+      "tu": "saques",
+      "ud": "saque",
+      "nosotros": "saquemos",
+      "vosotros": "saquéis",
+      "uds": "saquen"
+    },
+    "imperfecto": {
+      "yo": "sacara",
+      "tu": "sacaras",
+      "ud": "sacara",
+      "nosotros": "sacáramos",
+      "vosotros": "sacarais",
+      "uds": "sacaran"
+    },
+    "futuro": {
+      "yo": "sacare",
+      "tu": "sacares",
+      "ud": "sacare",
+      "nosotros": "sacáremos",
+      "vosotros": "sacareis",
+      "uds": "sacaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sacado",
+      "tu": "hayas sacado",
+      "ud": "haya sacado",
+      "nosotros": "hayamos sacado",
+      "vosotros": "hayáis sacado",
+      "uds": "hayan sacado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sacado",
+      "tu": "hubieres sacado",
+      "ud": "hubiere sacado",
+      "nosotros": "hubiéremos sacado",
+      "vosotros": "hubiereis sacado",
+      "uds": "hubieren sacado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sacado",
+      "tu": "hubieras sacado",
+      "ud": "hubiera sacado",
+      "nosotros": "hubiéramos sacado",
+      "vosotros": "hubierais sacado",
+      "uds": "hubieran sacado"
+    },
+    "imperfectoAlt": {
+      "yo": "sacase",
+      "tu": "sacases",
+      "ud": "sacase",
+      "nosotros": "sacásemos",
+      "vosotros": "sacaseis",
+      "uds": "sacasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sacado",
+      "tu": "hubieses sacado",
+      "ud": "hubiese sacado",
+      "nosotros": "hubiésemos sacado",
+      "vosotros": "hubieseis sacado",
+      "uds": "hubiesen sacado"
+    }
+  },
+  "afirmativo": {
+    "tu": "saca",
+    "vosotros": "sacad",
+    "ud": "saque",
+    "uds": "saquen"
+  },
+  "negativo": {
+    "tu": "no saques",
+    "vosotros": "no saquéis",
+    "ud": "no saque",
+    "uds": "no saquen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e.",
+    "infinitivo": "to take out, stick out",
+    "gerundio": "taking out",
+    "participioPasado": "taken out",
+    "indicativo": {
+      "presente": "I take out, am taking out",
+      "futuro": "I will take out",
+      "imperfecto": "I was taking out, used to take out, took out",
+      "preterito": "I took out",
+      "condicional": "I would take out",
+      "presentePerfecto": "I have taken out",
+      "futuroPerfecto": "I will have taken out",
+      "pluscuamperfecto": "I had taken out",
+      "preteritoAnterior": "I had taken out",
+      "condicionalPerfecto": "I would have taken out"
+    },
+    "subjuntivo": {
+      "presente": "I take out, am taking out",
+      "imperfecto": "I took out, was taking out",
+      "futuro": "I will take out",
+      "presentePerfecto": "I have taken out, took out",
+      "futuroPerfecto": "I will have taken out",
+      "pluscuamperfecto": "I had taken out"
+    },
+    "afirmativo": "Take out!",
+    "negativo": "Don't take out!"
+  },
+  "attribution": "Fred Jehle"
+}

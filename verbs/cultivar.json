@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cultivar",
+  "gerundio": "cultivando",
+  "participioPasado": "cultivado",
+  "indicativo": {
+    "presente": {
+      "yo": "cultivo",
+      "tu": "cultivas",
+      "ud": "cultiva",
+      "nosotros": "cultivamos",
+      "vosotros": "cultiváis",
+      "uds": "cultivan"
+    },
+    "futuro": {
+      "yo": "cultivaré",
+      "tu": "cultivarás",
+      "ud": "cultivará",
+      "nosotros": "cultivaremos",
+      "vosotros": "cultivaréis",
+      "uds": "cultivarán"
+    },
+    "imperfecto": {
+      "yo": "cultivaba",
+      "tu": "cultivabas",
+      "ud": "cultivaba",
+      "nosotros": "cultivábamos",
+      "vosotros": "cultivabais",
+      "uds": "cultivaban"
+    },
+    "preterito": {
+      "yo": "cultivé",
+      "tu": "cultivaste",
+      "ud": "cultivó",
+      "nosotros": "cultivamos",
+      "vosotros": "cultivasteis",
+      "uds": "cultivaron"
+    },
+    "condicional": {
+      "yo": "cultivaría",
+      "tu": "cultivarías",
+      "ud": "cultivaría",
+      "nosotros": "cultivaríamos",
+      "vosotros": "cultivaríais",
+      "uds": "cultivarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cultivado",
+      "tu": "has cultivado",
+      "ud": "ha cultivado",
+      "nosotros": "hemos cultivado",
+      "vosotros": "habéis cultivado",
+      "uds": "han cultivado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cultivado",
+      "tu": "habrás cultivado",
+      "ud": "habrá cultivado",
+      "nosotros": "habremos cultivado",
+      "vosotros": "habréis cultivado",
+      "uds": "habrán cultivado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cultivado",
+      "tu": "habías cultivado",
+      "ud": "había cultivado",
+      "nosotros": "habíamos cultivado",
+      "vosotros": "habíais cultivado",
+      "uds": "habían cultivado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cultivado",
+      "tu": "hubiste cultivado",
+      "ud": "hubo cultivado",
+      "nosotros": "hubimos cultivado",
+      "vosotros": "hubisteis cultivado",
+      "uds": "hubieron cultivado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cultivado",
+      "tu": "habrías cultivado",
+      "ud": "habría cultivado",
+      "nosotros": "habríamos cultivado",
+      "vosotros": "habríais cultivado",
+      "uds": "habrían cultivado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cultive",
+      "tu": "cultives",
+      "ud": "cultive",
+      "nosotros": "cultivemos",
+      "vosotros": "cultivéis",
+      "uds": "cultiven"
+    },
+    "imperfecto": {
+      "yo": "cultivara",
+      "tu": "cultivaras",
+      "ud": "cultivara",
+      "nosotros": "cultiváramos",
+      "vosotros": "cultivarais",
+      "uds": "cultivaran"
+    },
+    "futuro": {
+      "yo": "cultivare",
+      "tu": "cultivares",
+      "ud": "cultivare",
+      "nosotros": "cultiváremos",
+      "vosotros": "cultivareis",
+      "uds": "cultivaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cultivado",
+      "tu": "hayas cultivado",
+      "ud": "haya cultivado",
+      "nosotros": "hayamos cultivado",
+      "vosotros": "hayáis cultivado",
+      "uds": "hayan cultivado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cultivado",
+      "tu": "hubieres cultivado",
+      "ud": "hubiere cultivado",
+      "nosotros": "hubiéremos cultivado",
+      "vosotros": "hubiereis cultivado",
+      "uds": "hubieren cultivado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cultivado",
+      "tu": "hubieras cultivado",
+      "ud": "hubiera cultivado",
+      "nosotros": "hubiéramos cultivado",
+      "vosotros": "hubierais cultivado",
+      "uds": "hubieran cultivado"
+    },
+    "imperfectoAlt": {
+      "yo": "cultivase",
+      "tu": "cultivases",
+      "ud": "cultivase",
+      "nosotros": "cultivásemos",
+      "vosotros": "cultivaseis",
+      "uds": "cultivasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cultivado",
+      "tu": "hubieses cultivado",
+      "ud": "hubiese cultivado",
+      "nosotros": "hubiésemos cultivado",
+      "vosotros": "hubieseis cultivado",
+      "uds": "hubiesen cultivado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cultiva",
+    "vosotros": "cultivad",
+    "ud": "cultive",
+    "uds": "cultiven"
+  },
+  "negativo": {
+    "tu": "no cultives",
+    "vosotros": "no cultivéis",
+    "ud": "no cultive",
+    "uds": "no cultiven"
+  },
+  "english": {
+    "note": "Note: Cultivar can mean grow in the sense of raising a crop; use crecer to mean grow or develop (for example, in size), as for a child.",
+    "infinitivo": "to cultivate; to grow",
+    "gerundio": "cultivating",
+    "participioPasado": "cultivated",
+    "indicativo": {
+      "presente": "I cultivate, am cultivating",
+      "futuro": "I will cultivate",
+      "imperfecto": "I was cultivating, used to cultivate, cultivated",
+      "preterito": "I cultivated",
+      "condicional": "I would cultivate",
+      "presentePerfecto": "I have cultivated",
+      "futuroPerfecto": "I will have cultivated",
+      "pluscuamperfecto": "I had cultivated",
+      "preteritoAnterior": "I had cultivated",
+      "condicionalPerfecto": "I would have cultivated"
+    },
+    "subjuntivo": {
+      "presente": "I cultivate, am cultivating",
+      "imperfecto": "I cultivated, was cultivating",
+      "futuro": "I will cultivate",
+      "presentePerfecto": "I have cultivated, cultivated",
+      "futuroPerfecto": "I will have cultivated",
+      "pluscuamperfecto": "I had cultivated"
+    },
+    "afirmativo": "Cultivate!",
+    "negativo": "Don't cultivate!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "depositar",
+  "gerundio": "depositando",
+  "participioPasado": "depositado",
+  "indicativo": {
+    "presente": {
+      "yo": "deposito",
+      "tu": "depositas",
+      "ud": "deposita",
+      "nosotros": "depositamos",
+      "vosotros": "depositáis",
+      "uds": "depositan"
+    },
+    "futuro": {
+      "yo": "depositaré",
+      "tu": "depositarás",
+      "ud": "depositará",
+      "nosotros": "depositaremos",
+      "vosotros": "depositaréis",
+      "uds": "depositarán"
+    },
+    "imperfecto": {
+      "yo": "depositaba",
+      "tu": "depositabas",
+      "ud": "depositaba",
+      "nosotros": "depositábamos",
+      "vosotros": "depositabais",
+      "uds": "depositaban"
+    },
+    "preterito": {
+      "yo": "deposité",
+      "tu": "depositaste",
+      "ud": "depositó",
+      "nosotros": "depositamos",
+      "vosotros": "depositasteis",
+      "uds": "depositaron"
+    },
+    "condicional": {
+      "yo": "depositaría",
+      "tu": "depositarías",
+      "ud": "depositaría",
+      "nosotros": "depositaríamos",
+      "vosotros": "depositaríais",
+      "uds": "depositarían"
+    },
+    "presentePerfecto": {
+      "yo": "he depositado",
+      "tu": "has depositado",
+      "ud": "ha depositado",
+      "nosotros": "hemos depositado",
+      "vosotros": "habéis depositado",
+      "uds": "han depositado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré depositado",
+      "tu": "habrás depositado",
+      "ud": "habrá depositado",
+      "nosotros": "habremos depositado",
+      "vosotros": "habréis depositado",
+      "uds": "habrán depositado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había depositado",
+      "tu": "habías depositado",
+      "ud": "había depositado",
+      "nosotros": "habíamos depositado",
+      "vosotros": "habíais depositado",
+      "uds": "habían depositado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube depositado",
+      "tu": "hubiste depositado",
+      "ud": "hubo depositado",
+      "nosotros": "hubimos depositado",
+      "vosotros": "hubisteis depositado",
+      "uds": "hubieron depositado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría depositado",
+      "tu": "habrías depositado",
+      "ud": "habría depositado",
+      "nosotros": "habríamos depositado",
+      "vosotros": "habríais depositado",
+      "uds": "habrían depositado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "deposite",
+      "tu": "deposites",
+      "ud": "deposite",
+      "nosotros": "depositemos",
+      "vosotros": "depositéis",
+      "uds": "depositen"
+    },
+    "imperfecto": {
+      "yo": "depositara",
+      "tu": "depositaras",
+      "ud": "depositara",
+      "nosotros": "depositáramos",
+      "vosotros": "depositarais",
+      "uds": "depositaran"
+    },
+    "futuro": {
+      "yo": "depositare",
+      "tu": "depositares",
+      "ud": "depositare",
+      "nosotros": "depositáremos",
+      "vosotros": "depositareis",
+      "uds": "depositaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya depositado",
+      "tu": "hayas depositado",
+      "ud": "haya depositado",
+      "nosotros": "hayamos depositado",
+      "vosotros": "hayáis depositado",
+      "uds": "hayan depositado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere depositado",
+      "tu": "hubieres depositado",
+      "ud": "hubiere depositado",
+      "nosotros": "hubiéremos depositado",
+      "vosotros": "hubiereis depositado",
+      "uds": "hubieren depositado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera depositado",
+      "tu": "hubieras depositado",
+      "ud": "hubiera depositado",
+      "nosotros": "hubiéramos depositado",
+      "vosotros": "hubierais depositado",
+      "uds": "hubieran depositado"
+    },
+    "imperfectoAlt": {
+      "yo": "depositase",
+      "tu": "depositases",
+      "ud": "depositase",
+      "nosotros": "depositásemos",
+      "vosotros": "depositaseis",
+      "uds": "depositasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese depositado",
+      "tu": "hubieses depositado",
+      "ud": "hubiese depositado",
+      "nosotros": "hubiésemos depositado",
+      "vosotros": "hubieseis depositado",
+      "uds": "hubiesen depositado"
+    }
+  },
+  "afirmativo": {
+    "tu": "deposita",
+    "vosotros": "depositad",
+    "ud": "deposite",
+    "uds": "depositen"
+  },
+  "negativo": {
+    "tu": "no deposites",
+    "vosotros": "no depositéis",
+    "ud": "no deposite",
+    "uds": "no depositen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to deposit; to place; to put away, store",
+    "gerundio": "depositing",
+    "participioPasado": "deposited",
+    "indicativo": {
+      "presente": "I deposit, am depositing",
+      "futuro": "I will deposit",
+      "imperfecto": "I was depositing, used to deposit, deposited",
+      "preterito": "I deposited",
+      "condicional": "I would deposit",
+      "presentePerfecto": "I have deposited",
+      "futuroPerfecto": "I will have deposited",
+      "pluscuamperfecto": "I had deposited",
+      "preteritoAnterior": "I had deposited",
+      "condicionalPerfecto": "I would have deposited"
+    },
+    "subjuntivo": {
+      "presente": "I deposit, am depositing",
+      "imperfecto": "I deposited, was depositing",
+      "futuro": "I will deposit",
+      "presentePerfecto": "I have deposited, deposited",
+      "futuroPerfecto": "I will have deposited",
+      "pluscuamperfecto": "I had deposited"
+    },
+    "afirmativo": "Deposit!",
+    "negativo": "Don't deposit!"
+  },
+  "attribution": "Fred Jehle"
+}

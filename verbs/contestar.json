@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "contestar",
+  "gerundio": "contestando",
+  "participioPasado": "contestado",
+  "indicativo": {
+    "presente": {
+      "yo": "contesto",
+      "tu": "contestas",
+      "ud": "contesta",
+      "nosotros": "contestamos",
+      "vosotros": "contestáis",
+      "uds": "contestan"
+    },
+    "futuro": {
+      "yo": "contestaré",
+      "tu": "contestarás",
+      "ud": "contestará",
+      "nosotros": "contestaremos",
+      "vosotros": "contestaréis",
+      "uds": "contestarán"
+    },
+    "imperfecto": {
+      "yo": "contestaba",
+      "tu": "contestabas",
+      "ud": "contestaba",
+      "nosotros": "contestábamos",
+      "vosotros": "contestabais",
+      "uds": "contestaban"
+    },
+    "preterito": {
+      "yo": "contesté",
+      "tu": "contestaste",
+      "ud": "contestó",
+      "nosotros": "contestamos",
+      "vosotros": "contestasteis",
+      "uds": "contestaron"
+    },
+    "condicional": {
+      "yo": "contestaría",
+      "tu": "contestarías",
+      "ud": "contestaría",
+      "nosotros": "contestaríamos",
+      "vosotros": "contestaríais",
+      "uds": "contestarían"
+    },
+    "presentePerfecto": {
+      "yo": "he contestado",
+      "tu": "has contestado",
+      "ud": "ha contestado",
+      "nosotros": "hemos contestado",
+      "vosotros": "habéis contestado",
+      "uds": "han contestado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré contestado",
+      "tu": "habrás contestado",
+      "ud": "habrá contestado",
+      "nosotros": "habremos contestado",
+      "vosotros": "habréis contestado",
+      "uds": "habrán contestado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había contestado",
+      "tu": "habías contestado",
+      "ud": "había contestado",
+      "nosotros": "habíamos contestado",
+      "vosotros": "habíais contestado",
+      "uds": "habían contestado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube contestado",
+      "tu": "hubiste contestado",
+      "ud": "hubo contestado",
+      "nosotros": "hubimos contestado",
+      "vosotros": "hubisteis contestado",
+      "uds": "hubieron contestado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría contestado",
+      "tu": "habrías contestado",
+      "ud": "habría contestado",
+      "nosotros": "habríamos contestado",
+      "vosotros": "habríais contestado",
+      "uds": "habrían contestado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "conteste",
+      "tu": "contestes",
+      "ud": "conteste",
+      "nosotros": "contestemos",
+      "vosotros": "contestéis",
+      "uds": "contesten"
+    },
+    "imperfecto": {
+      "yo": "contestara",
+      "tu": "contestaras",
+      "ud": "contestara",
+      "nosotros": "contestáramos",
+      "vosotros": "contestarais",
+      "uds": "contestaran"
+    },
+    "futuro": {
+      "yo": "contestare",
+      "tu": "contestares",
+      "ud": "contestare",
+      "nosotros": "contestáremos",
+      "vosotros": "contestareis",
+      "uds": "contestaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya contestado",
+      "tu": "hayas contestado",
+      "ud": "haya contestado",
+      "nosotros": "hayamos contestado",
+      "vosotros": "hayáis contestado",
+      "uds": "hayan contestado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere contestado",
+      "tu": "hubieres contestado",
+      "ud": "hubiere contestado",
+      "nosotros": "hubiéremos contestado",
+      "vosotros": "hubiereis contestado",
+      "uds": "hubieren contestado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera contestado",
+      "tu": "hubieras contestado",
+      "ud": "hubiera contestado",
+      "nosotros": "hubiéramos contestado",
+      "vosotros": "hubierais contestado",
+      "uds": "hubieran contestado"
+    },
+    "imperfectoAlt": {
+      "yo": "contestase",
+      "tu": "contestases",
+      "ud": "contestase",
+      "nosotros": "contestásemos",
+      "vosotros": "contestaseis",
+      "uds": "contestasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese contestado",
+      "tu": "hubieses contestado",
+      "ud": "hubiese contestado",
+      "nosotros": "hubiésemos contestado",
+      "vosotros": "hubieseis contestado",
+      "uds": "hubiesen contestado"
+    }
+  },
+  "afirmativo": {
+    "tu": "contesta",
+    "vosotros": "contestad",
+    "ud": "conteste",
+    "uds": "contesten"
+  },
+  "negativo": {
+    "tu": "no contestes",
+    "vosotros": "no contestéis",
+    "ud": "no conteste",
+    "uds": "no contesten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to answer",
+    "gerundio": "answering",
+    "participioPasado": "answered",
+    "indicativo": {
+      "presente": "I answer, am answering",
+      "futuro": "I will answer",
+      "imperfecto": "I was answering, used to answer, answered",
+      "preterito": "I answered",
+      "condicional": "I would answer",
+      "presentePerfecto": "I have answered",
+      "futuroPerfecto": "I will have answered",
+      "pluscuamperfecto": "I had answered",
+      "preteritoAnterior": "I had answered",
+      "condicionalPerfecto": "I would have answered"
+    },
+    "subjuntivo": {
+      "presente": "I answer, am answering",
+      "imperfecto": "I answered, was answering",
+      "futuro": "I will answer",
+      "presentePerfecto": "I have answered, answered",
+      "futuroPerfecto": "I will have answered",
+      "pluscuamperfecto": "I had answered"
+    },
+    "afirmativo": "Answer!",
+    "negativo": "Don't answer!"
+  },
+  "attribution": "Fred Jehle"
+}

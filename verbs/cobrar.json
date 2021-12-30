@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cobrar",
+  "gerundio": "cobrando",
+  "participioPasado": "cobrado",
+  "indicativo": {
+    "presente": {
+      "yo": "cobro",
+      "tu": "cobras",
+      "ud": "cobra",
+      "nosotros": "cobramos",
+      "vosotros": "cobráis",
+      "uds": "cobran"
+    },
+    "futuro": {
+      "yo": "cobraré",
+      "tu": "cobrarás",
+      "ud": "cobrará",
+      "nosotros": "cobraremos",
+      "vosotros": "cobraréis",
+      "uds": "cobrarán"
+    },
+    "imperfecto": {
+      "yo": "cobraba",
+      "tu": "cobrabas",
+      "ud": "cobraba",
+      "nosotros": "cobrábamos",
+      "vosotros": "cobrabais",
+      "uds": "cobraban"
+    },
+    "preterito": {
+      "yo": "cobré",
+      "tu": "cobraste",
+      "ud": "cobró",
+      "nosotros": "cobramos",
+      "vosotros": "cobrasteis",
+      "uds": "cobraron"
+    },
+    "condicional": {
+      "yo": "cobraría",
+      "tu": "cobrarías",
+      "ud": "cobraría",
+      "nosotros": "cobraríamos",
+      "vosotros": "cobraríais",
+      "uds": "cobrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cobrado",
+      "tu": "has cobrado",
+      "ud": "ha cobrado",
+      "nosotros": "hemos cobrado",
+      "vosotros": "habéis cobrado",
+      "uds": "han cobrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cobrado",
+      "tu": "habrás cobrado",
+      "ud": "habrá cobrado",
+      "nosotros": "habremos cobrado",
+      "vosotros": "habréis cobrado",
+      "uds": "habrán cobrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cobrado",
+      "tu": "habías cobrado",
+      "ud": "había cobrado",
+      "nosotros": "habíamos cobrado",
+      "vosotros": "habíais cobrado",
+      "uds": "habían cobrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cobrado",
+      "tu": "hubiste cobrado",
+      "ud": "hubo cobrado",
+      "nosotros": "hubimos cobrado",
+      "vosotros": "hubisteis cobrado",
+      "uds": "hubieron cobrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cobrado",
+      "tu": "habrías cobrado",
+      "ud": "habría cobrado",
+      "nosotros": "habríamos cobrado",
+      "vosotros": "habríais cobrado",
+      "uds": "habrían cobrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cobre",
+      "tu": "cobres",
+      "ud": "cobre",
+      "nosotros": "cobremos",
+      "vosotros": "cobréis",
+      "uds": "cobren"
+    },
+    "imperfecto": {
+      "yo": "cobrara",
+      "tu": "cobraras",
+      "ud": "cobrara",
+      "nosotros": "cobráramos",
+      "vosotros": "cobrarais",
+      "uds": "cobraran"
+    },
+    "futuro": {
+      "yo": "cobrare",
+      "tu": "cobrares",
+      "ud": "cobrare",
+      "nosotros": "cobráremos",
+      "vosotros": "cobrareis",
+      "uds": "cobraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cobrado",
+      "tu": "hayas cobrado",
+      "ud": "haya cobrado",
+      "nosotros": "hayamos cobrado",
+      "vosotros": "hayáis cobrado",
+      "uds": "hayan cobrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cobrado",
+      "tu": "hubieres cobrado",
+      "ud": "hubiere cobrado",
+      "nosotros": "hubiéremos cobrado",
+      "vosotros": "hubiereis cobrado",
+      "uds": "hubieren cobrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cobrado",
+      "tu": "hubieras cobrado",
+      "ud": "hubiera cobrado",
+      "nosotros": "hubiéramos cobrado",
+      "vosotros": "hubierais cobrado",
+      "uds": "hubieran cobrado"
+    },
+    "imperfectoAlt": {
+      "yo": "cobrase",
+      "tu": "cobrases",
+      "ud": "cobrase",
+      "nosotros": "cobrásemos",
+      "vosotros": "cobraseis",
+      "uds": "cobrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cobrado",
+      "tu": "hubieses cobrado",
+      "ud": "hubiese cobrado",
+      "nosotros": "hubiésemos cobrado",
+      "vosotros": "hubieseis cobrado",
+      "uds": "hubiesen cobrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cobra",
+    "vosotros": "cobrad",
+    "ud": "cobre",
+    "uds": "cobren"
+  },
+  "negativo": {
+    "tu": "no cobres",
+    "vosotros": "no cobréis",
+    "ud": "no cobre",
+    "uds": "no cobren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to charge (a price); to cash (a check); to collect, receive (an amount)",
+    "gerundio": "charging",
+    "participioPasado": "charged",
+    "indicativo": {
+      "presente": "I charge, am charging",
+      "futuro": "I will charge",
+      "imperfecto": "I was charging, used to charge, charged",
+      "preterito": "I charged",
+      "condicional": "I would charge",
+      "presentePerfecto": "I have charged",
+      "futuroPerfecto": "I will have charged",
+      "pluscuamperfecto": "I had charged",
+      "preteritoAnterior": "I had charged",
+      "condicionalPerfecto": "I would have charged"
+    },
+    "subjuntivo": {
+      "presente": "I charge, am charging",
+      "imperfecto": "I charged, was charging",
+      "futuro": "I will charge",
+      "presentePerfecto": "I have charged, charged",
+      "futuroPerfecto": "I will have charged",
+      "pluscuamperfecto": "I had charged"
+    },
+    "afirmativo": "Charge!",
+    "negativo": "Don't charge!"
+  },
+  "attribution": "Fred Jehle"
+}

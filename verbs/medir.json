@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "medir",
+  "gerundio": "midiendo",
+  "participioPasado": "medido",
+  "indicativo": {
+    "presente": {
+      "yo": "mido",
+      "tu": "mides",
+      "ud": "mide",
+      "nosotros": "medimos",
+      "vosotros": "medís",
+      "uds": "miden"
+    },
+    "futuro": {
+      "yo": "mediré",
+      "tu": "medirás",
+      "ud": "medirá",
+      "nosotros": "mediremos",
+      "vosotros": "mediréis",
+      "uds": "medirán"
+    },
+    "imperfecto": {
+      "yo": "medía",
+      "tu": "medías",
+      "ud": "medía",
+      "nosotros": "medíamos",
+      "vosotros": "medíais",
+      "uds": "medían"
+    },
+    "preterito": {
+      "yo": "medí",
+      "tu": "mediste",
+      "ud": "midió",
+      "nosotros": "medimos",
+      "vosotros": "medisteis",
+      "uds": "midieron"
+    },
+    "condicional": {
+      "yo": "mediría",
+      "tu": "medirías",
+      "ud": "mediría",
+      "nosotros": "mediríamos",
+      "vosotros": "mediríais",
+      "uds": "medirían"
+    },
+    "presentePerfecto": {
+      "yo": "he medido",
+      "tu": "has medido",
+      "ud": "ha medido",
+      "nosotros": "hemos medido",
+      "vosotros": "habéis medido",
+      "uds": "han medido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré medido",
+      "tu": "habrás medido",
+      "ud": "habrá medido",
+      "nosotros": "habremos medido",
+      "vosotros": "habréis medido",
+      "uds": "habrán medido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había medido",
+      "tu": "habías medido",
+      "ud": "había medido",
+      "nosotros": "habíamos medido",
+      "vosotros": "habíais medido",
+      "uds": "habían medido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube medido",
+      "tu": "hubiste medido",
+      "ud": "hubo medido",
+      "nosotros": "hubimos medido",
+      "vosotros": "hubisteis medido",
+      "uds": "hubieron medido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría medido",
+      "tu": "habrías medido",
+      "ud": "habría medido",
+      "nosotros": "habríamos medido",
+      "vosotros": "habríais medido",
+      "uds": "habrían medido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "mida",
+      "tu": "midas",
+      "ud": "mida",
+      "nosotros": "midamos",
+      "vosotros": "midáis",
+      "uds": "midan"
+    },
+    "imperfecto": {
+      "yo": "midiera",
+      "tu": "midieras",
+      "ud": "midiera",
+      "nosotros": "midiéramos",
+      "vosotros": "midierais",
+      "uds": "midieran"
+    },
+    "futuro": {
+      "yo": "midiere",
+      "tu": "midieres",
+      "ud": "midiere",
+      "nosotros": "midiéremos",
+      "vosotros": "midiereis",
+      "uds": "midieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya medido",
+      "tu": "hayas medido",
+      "ud": "haya medido",
+      "nosotros": "hayamos medido",
+      "vosotros": "hayáis medido",
+      "uds": "hayan medido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere medido",
+      "tu": "hubieres medido",
+      "ud": "hubiere medido",
+      "nosotros": "hubiéremos medido",
+      "vosotros": "hubiereis medido",
+      "uds": "hubieren medido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera medido",
+      "tu": "hubieras medido",
+      "ud": "hubiera medido",
+      "nosotros": "hubiéramos medido",
+      "vosotros": "hubierais medido",
+      "uds": "hubieran medido"
+    },
+    "imperfectoAlt": {
+      "yo": "midiese",
+      "tu": "midieses",
+      "ud": "midiese",
+      "nosotros": "midiésemos",
+      "vosotros": "midieseis",
+      "uds": "midiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese medido",
+      "tu": "hubieses medido",
+      "ud": "hubiese medido",
+      "nosotros": "hubiésemos medido",
+      "vosotros": "hubieseis medido",
+      "uds": "hubiesen medido"
+    }
+  },
+  "afirmativo": {
+    "tu": "mide",
+    "vosotros": "medid",
+    "ud": "mida",
+    "uds": "midan"
+  },
+  "negativo": {
+    "tu": "no midas",
+    "vosotros": "no midáis",
+    "ud": "no mida",
+    "uds": "no midan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Examples: Ella mide 1,5m. = She is 1.5 meters (4 ft. 11 in.) tall. El papel mide 20 cms. de ancho. = The paper is 7.9 inches wide.",
+    "infinitivo": "to measure, be (+ unit of measurement)",
+    "gerundio": "measuring",
+    "participioPasado": "measured",
+    "indicativo": {
+      "presente": "I measure, am measuring",
+      "futuro": "I will measure",
+      "imperfecto": "I was measuring, used to measure, measured",
+      "preterito": "I measured",
+      "condicional": "I would measure",
+      "presentePerfecto": "I have measured",
+      "futuroPerfecto": "I will have measured",
+      "pluscuamperfecto": "I had measured",
+      "preteritoAnterior": "I had measured",
+      "condicionalPerfecto": "I would have measured"
+    },
+    "subjuntivo": {
+      "presente": "I measure, am measuring",
+      "imperfecto": "I measured, was measuring",
+      "futuro": "I will measure",
+      "presentePerfecto": "I have measured, measured",
+      "futuroPerfecto": "I will have measured",
+      "pluscuamperfecto": "I had measured"
+    },
+    "afirmativo": "Measure!",
+    "negativo": "Don't measure!"
+  },
+  "attribution": "Fred Jehle"
+}

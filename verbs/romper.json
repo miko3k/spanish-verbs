@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "romper",
+  "gerundio": "rompiendo",
+  "participioPasado": "roto",
+  "indicativo": {
+    "presente": {
+      "yo": "rompo",
+      "tu": "rompes",
+      "ud": "rompe",
+      "nosotros": "rompemos",
+      "vosotros": "rompéis",
+      "uds": "rompen"
+    },
+    "futuro": {
+      "yo": "romperé",
+      "tu": "romperás",
+      "ud": "romperá",
+      "nosotros": "romperemos",
+      "vosotros": "romperéis",
+      "uds": "romperán"
+    },
+    "imperfecto": {
+      "yo": "rompía",
+      "tu": "rompías",
+      "ud": "rompía",
+      "nosotros": "rompíamos",
+      "vosotros": "rompíais",
+      "uds": "rompían"
+    },
+    "preterito": {
+      "yo": "rompí",
+      "tu": "rompiste",
+      "ud": "rompió",
+      "nosotros": "rompimos",
+      "vosotros": "rompisteis",
+      "uds": "rompieron"
+    },
+    "condicional": {
+      "yo": "rompería",
+      "tu": "romperías",
+      "ud": "rompería",
+      "nosotros": "romperíamos",
+      "vosotros": "romperíais",
+      "uds": "romperían"
+    },
+    "presentePerfecto": {
+      "yo": "he roto",
+      "tu": "has roto",
+      "ud": "ha roto",
+      "nosotros": "hemos roto",
+      "vosotros": "habéis roto",
+      "uds": "han roto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré roto",
+      "tu": "habrás roto",
+      "ud": "habrá roto",
+      "nosotros": "habremos roto",
+      "vosotros": "habréis roto",
+      "uds": "habrán roto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había roto",
+      "tu": "habías roto",
+      "ud": "había roto",
+      "nosotros": "habíamos roto",
+      "vosotros": "habíais roto",
+      "uds": "habían roto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube roto",
+      "tu": "hubiste roto",
+      "ud": "hubo roto",
+      "nosotros": "hubimos roto",
+      "vosotros": "hubisteis roto",
+      "uds": "hubieron roto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría roto",
+      "tu": "habrías roto",
+      "ud": "habría roto",
+      "nosotros": "habríamos roto",
+      "vosotros": "habríais roto",
+      "uds": "habrían roto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "rompa",
+      "tu": "rompas",
+      "ud": "rompa",
+      "nosotros": "rompamos",
+      "vosotros": "rompáis",
+      "uds": "rompan"
+    },
+    "imperfecto": {
+      "yo": "rompiera",
+      "tu": "rompieras",
+      "ud": "rompiera",
+      "nosotros": "rompiéramos",
+      "vosotros": "rompierais",
+      "uds": "rompieran"
+    },
+    "futuro": {
+      "yo": "rompiere",
+      "tu": "rompieres",
+      "ud": "rompiere",
+      "nosotros": "rompiéremos",
+      "vosotros": "rompiereis",
+      "uds": "rompieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya roto",
+      "tu": "hayas roto",
+      "ud": "haya roto",
+      "nosotros": "hayamos roto",
+      "vosotros": "hayáis roto",
+      "uds": "hayan roto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere roto",
+      "tu": "hubieres roto",
+      "ud": "hubiere roto",
+      "nosotros": "hubiéremos roto",
+      "vosotros": "hubiereis roto",
+      "uds": "hubieren roto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera roto",
+      "tu": "hubieras roto",
+      "ud": "hubiera roto",
+      "nosotros": "hubiéramos roto",
+      "vosotros": "hubierais roto",
+      "uds": "hubieran roto"
+    },
+    "imperfectoAlt": {
+      "yo": "rompiese",
+      "tu": "rompieses",
+      "ud": "rompiese",
+      "nosotros": "rompiésemos",
+      "vosotros": "rompieseis",
+      "uds": "rompiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese roto",
+      "tu": "hubieses roto",
+      "ud": "hubiese roto",
+      "nosotros": "hubiésemos roto",
+      "vosotros": "hubieseis roto",
+      "uds": "hubiesen roto"
+    }
+  },
+  "afirmativo": {
+    "tu": "rompe",
+    "vosotros": "romped",
+    "ud": "rompa",
+    "uds": "rompan"
+  },
+  "negativo": {
+    "tu": "no rompas",
+    "vosotros": "no rompáis",
+    "ud": "no rompa",
+    "uds": "no rompan"
+  },
+  "english": {
+    "note": "Participio pasado irregular: roto.",
+    "infinitivo": "to break",
+    "gerundio": "breaking",
+    "participioPasado": "broken",
+    "indicativo": {
+      "presente": "I break, am breaking",
+      "futuro": "I will break",
+      "imperfecto": "I was breaking, used to break, broke",
+      "preterito": "I broke",
+      "condicional": "I would break",
+      "presentePerfecto": "I have broken",
+      "futuroPerfecto": "I will have broken",
+      "pluscuamperfecto": "I had broken",
+      "preteritoAnterior": "I had broken",
+      "condicionalPerfecto": "I would have broken"
+    },
+    "subjuntivo": {
+      "presente": "I break, am breaking",
+      "imperfecto": "I broke, was breaking",
+      "futuro": "I will break",
+      "presentePerfecto": "I have broken, broke",
+      "futuroPerfecto": "I will have broken",
+      "pluscuamperfecto": "I had broken"
+    },
+    "afirmativo": "Break!",
+    "negativo": "Don't break!"
+  },
+  "attribution": "Fred Jehle"
+}

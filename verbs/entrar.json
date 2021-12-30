@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "entrar",
+  "gerundio": "entrando",
+  "participioPasado": "entrado",
+  "indicativo": {
+    "presente": {
+      "yo": "entro",
+      "tu": "entras",
+      "ud": "entra",
+      "nosotros": "entramos",
+      "vosotros": "entráis",
+      "uds": "entran"
+    },
+    "futuro": {
+      "yo": "entraré",
+      "tu": "entrarás",
+      "ud": "entrará",
+      "nosotros": "entraremos",
+      "vosotros": "entraréis",
+      "uds": "entrarán"
+    },
+    "imperfecto": {
+      "yo": "entraba",
+      "tu": "entrabas",
+      "ud": "entraba",
+      "nosotros": "entrábamos",
+      "vosotros": "entrabais",
+      "uds": "entraban"
+    },
+    "preterito": {
+      "yo": "entré",
+      "tu": "entraste",
+      "ud": "entró",
+      "nosotros": "entramos",
+      "vosotros": "entrasteis",
+      "uds": "entraron"
+    },
+    "condicional": {
+      "yo": "entraría",
+      "tu": "entrarías",
+      "ud": "entraría",
+      "nosotros": "entraríamos",
+      "vosotros": "entraríais",
+      "uds": "entrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he entrado",
+      "tu": "has entrado",
+      "ud": "ha entrado",
+      "nosotros": "hemos entrado",
+      "vosotros": "habéis entrado",
+      "uds": "han entrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré entrado",
+      "tu": "habrás entrado",
+      "ud": "habrá entrado",
+      "nosotros": "habremos entrado",
+      "vosotros": "habréis entrado",
+      "uds": "habrán entrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había entrado",
+      "tu": "habías entrado",
+      "ud": "había entrado",
+      "nosotros": "habíamos entrado",
+      "vosotros": "habíais entrado",
+      "uds": "habían entrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube entrado",
+      "tu": "hubiste entrado",
+      "ud": "hubo entrado",
+      "nosotros": "hubimos entrado",
+      "vosotros": "hubisteis entrado",
+      "uds": "hubieron entrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría entrado",
+      "tu": "habrías entrado",
+      "ud": "habría entrado",
+      "nosotros": "habríamos entrado",
+      "vosotros": "habríais entrado",
+      "uds": "habrían entrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "entre",
+      "tu": "entres",
+      "ud": "entre",
+      "nosotros": "entremos",
+      "vosotros": "entréis",
+      "uds": "entren"
+    },
+    "imperfecto": {
+      "yo": "entrara",
+      "tu": "entraras",
+      "ud": "entrara",
+      "nosotros": "entráramos",
+      "vosotros": "entrarais",
+      "uds": "entraran"
+    },
+    "futuro": {
+      "yo": "entrare",
+      "tu": "entrares",
+      "ud": "entrare",
+      "nosotros": "entráremos",
+      "vosotros": "entrareis",
+      "uds": "entraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya entrado",
+      "tu": "hayas entrado",
+      "ud": "haya entrado",
+      "nosotros": "hayamos entrado",
+      "vosotros": "hayáis entrado",
+      "uds": "hayan entrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere entrado",
+      "tu": "hubieres entrado",
+      "ud": "hubiere entrado",
+      "nosotros": "hubiéremos entrado",
+      "vosotros": "hubiereis entrado",
+      "uds": "hubieren entrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera entrado",
+      "tu": "hubieras entrado",
+      "ud": "hubiera entrado",
+      "nosotros": "hubiéramos entrado",
+      "vosotros": "hubierais entrado",
+      "uds": "hubieran entrado"
+    },
+    "imperfectoAlt": {
+      "yo": "entrase",
+      "tu": "entrases",
+      "ud": "entrase",
+      "nosotros": "entrásemos",
+      "vosotros": "entraseis",
+      "uds": "entrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese entrado",
+      "tu": "hubieses entrado",
+      "ud": "hubiese entrado",
+      "nosotros": "hubiésemos entrado",
+      "vosotros": "hubieseis entrado",
+      "uds": "hubiesen entrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "entra",
+    "vosotros": "entrad",
+    "ud": "entre",
+    "uds": "entren"
+  },
+  "negativo": {
+    "tu": "no entres",
+    "vosotros": "no entréis",
+    "ud": "no entre",
+    "uds": "no entren"
+  },
+  "english": {
+    "note": "Note: This is an intransitive verb and does not take a direct object; to enter a place, use the preposition en or a: ¿Quién entró en la casa? = Who entered the house?",
+    "infinitivo": "to enter, go in, come in",
+    "gerundio": "entering",
+    "participioPasado": "entered",
+    "indicativo": {
+      "presente": "I enter, am entering",
+      "futuro": "I will enter",
+      "imperfecto": "I was entering, used to enter, entered",
+      "preterito": "I entered",
+      "condicional": "I would enter",
+      "presentePerfecto": "I have entered",
+      "futuroPerfecto": "I will have entered",
+      "pluscuamperfecto": "I had entered",
+      "preteritoAnterior": "I had entered",
+      "condicionalPerfecto": "I would have entered"
+    },
+    "subjuntivo": {
+      "presente": "I enter, am entering",
+      "imperfecto": "I entered, was entering",
+      "futuro": "I will enter",
+      "presentePerfecto": "I have entered, entered",
+      "futuroPerfecto": "I will have entered",
+      "pluscuamperfecto": "I had entered"
+    },
+    "afirmativo": "Enter!",
+    "negativo": "Don't enter!"
+  },
+  "attribution": "Fred Jehle"
+}

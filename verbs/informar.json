@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "informar",
+  "gerundio": "informando",
+  "participioPasado": "informado",
+  "indicativo": {
+    "presente": {
+      "yo": "informo",
+      "tu": "informas",
+      "ud": "informa",
+      "nosotros": "informamos",
+      "vosotros": "informáis",
+      "uds": "informan"
+    },
+    "futuro": {
+      "yo": "informaré",
+      "tu": "informarás",
+      "ud": "informará",
+      "nosotros": "informaremos",
+      "vosotros": "informaréis",
+      "uds": "informarán"
+    },
+    "imperfecto": {
+      "yo": "informaba",
+      "tu": "informabas",
+      "ud": "informaba",
+      "nosotros": "informábamos",
+      "vosotros": "informabais",
+      "uds": "informaban"
+    },
+    "preterito": {
+      "yo": "informé",
+      "tu": "informaste",
+      "ud": "informó",
+      "nosotros": "informamos",
+      "vosotros": "informasteis",
+      "uds": "informaron"
+    },
+    "condicional": {
+      "yo": "informaría",
+      "tu": "informarías",
+      "ud": "informaría",
+      "nosotros": "informaríamos",
+      "vosotros": "informaríais",
+      "uds": "informarían"
+    },
+    "presentePerfecto": {
+      "yo": "he informado",
+      "tu": "has informado",
+      "ud": "ha informado",
+      "nosotros": "hemos informado",
+      "vosotros": "habéis informado",
+      "uds": "han informado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré informado",
+      "tu": "habrás informado",
+      "ud": "habrá informado",
+      "nosotros": "habremos informado",
+      "vosotros": "habréis informado",
+      "uds": "habrán informado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había informado",
+      "tu": "habías informado",
+      "ud": "había informado",
+      "nosotros": "habíamos informado",
+      "vosotros": "habíais informado",
+      "uds": "habían informado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube informado",
+      "tu": "hubiste informado",
+      "ud": "hubo informado",
+      "nosotros": "hubimos informado",
+      "vosotros": "hubisteis informado",
+      "uds": "hubieron informado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría informado",
+      "tu": "habrías informado",
+      "ud": "habría informado",
+      "nosotros": "habríamos informado",
+      "vosotros": "habríais informado",
+      "uds": "habrían informado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "informe",
+      "tu": "informes",
+      "ud": "informe",
+      "nosotros": "informemos",
+      "vosotros": "informéis",
+      "uds": "informen"
+    },
+    "imperfecto": {
+      "yo": "informara",
+      "tu": "informaras",
+      "ud": "informara",
+      "nosotros": "informáramos",
+      "vosotros": "informarais",
+      "uds": "informaran"
+    },
+    "futuro": {
+      "yo": "informare",
+      "tu": "informares",
+      "ud": "informare",
+      "nosotros": "informáremos",
+      "vosotros": "informareis",
+      "uds": "informaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya informado",
+      "tu": "hayas informado",
+      "ud": "haya informado",
+      "nosotros": "hayamos informado",
+      "vosotros": "hayáis informado",
+      "uds": "hayan informado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere informado",
+      "tu": "hubieres informado",
+      "ud": "hubiere informado",
+      "nosotros": "hubiéremos informado",
+      "vosotros": "hubiereis informado",
+      "uds": "hubieren informado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera informado",
+      "tu": "hubieras informado",
+      "ud": "hubiera informado",
+      "nosotros": "hubiéramos informado",
+      "vosotros": "hubierais informado",
+      "uds": "hubieran informado"
+    },
+    "imperfectoAlt": {
+      "yo": "informase",
+      "tu": "informases",
+      "ud": "informase",
+      "nosotros": "informásemos",
+      "vosotros": "informaseis",
+      "uds": "informasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese informado",
+      "tu": "hubieses informado",
+      "ud": "hubiese informado",
+      "nosotros": "hubiésemos informado",
+      "vosotros": "hubieseis informado",
+      "uds": "hubiesen informado"
+    }
+  },
+  "afirmativo": {
+    "tu": "informa",
+    "vosotros": "informad",
+    "ud": "informe",
+    "uds": "informen"
+  },
+  "negativo": {
+    "tu": "no informes",
+    "vosotros": "no informéis",
+    "ud": "no informe",
+    "uds": "no informen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to inform, tell, announce",
+    "gerundio": "informing",
+    "participioPasado": "informed",
+    "indicativo": {
+      "presente": "I inform, am informing",
+      "futuro": "I will inform",
+      "imperfecto": "I was informing, used to inform, informed",
+      "preterito": "I informed",
+      "condicional": "I would inform",
+      "presentePerfecto": "I have informed",
+      "futuroPerfecto": "I will have informed",
+      "pluscuamperfecto": "I had informed",
+      "preteritoAnterior": "I had informed",
+      "condicionalPerfecto": "I would have informed"
+    },
+    "subjuntivo": {
+      "presente": "I inform, am informing",
+      "imperfecto": "I informed, was informing",
+      "futuro": "I will inform",
+      "presentePerfecto": "I have informed, informed",
+      "futuroPerfecto": "I will have informed",
+      "pluscuamperfecto": "I had informed"
+    },
+    "afirmativo": "Inform!",
+    "negativo": "Don't inform!"
+  },
+  "attribution": "Fred Jehle"
+}

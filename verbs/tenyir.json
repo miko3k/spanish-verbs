@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "teñir",
+  "gerundio": "tiñendo",
+  "participioPasado": "teñido",
+  "indicativo": {
+    "presente": {
+      "yo": "tiño",
+      "tu": "tiñes",
+      "ud": "tiñe",
+      "nosotros": "teñimos",
+      "vosotros": "teñís",
+      "uds": "tiñen"
+    },
+    "futuro": {
+      "yo": "teñiré",
+      "tu": "teñirás",
+      "ud": "teñirá",
+      "nosotros": "teñiremos",
+      "vosotros": "teñiréis",
+      "uds": "teñirán"
+    },
+    "imperfecto": {
+      "yo": "teñía",
+      "tu": "teñías",
+      "ud": "teñía",
+      "nosotros": "teñíamos",
+      "vosotros": "teñíais",
+      "uds": "teñían"
+    },
+    "preterito": {
+      "yo": "teñí",
+      "tu": "teñiste",
+      "ud": "tiñó",
+      "nosotros": "teñimos",
+      "vosotros": "teñisteis",
+      "uds": "tiñeron"
+    },
+    "condicional": {
+      "yo": "teñiría",
+      "tu": "teñirías",
+      "ud": "teñiría",
+      "nosotros": "teñiríamos",
+      "vosotros": "teñiríais",
+      "uds": "teñirían"
+    },
+    "presentePerfecto": {
+      "yo": "he teñido",
+      "tu": "has teñido",
+      "ud": "ha teñido",
+      "nosotros": "hemos teñido",
+      "vosotros": "habéis teñido",
+      "uds": "han teñido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré teñido",
+      "tu": "habrás teñido",
+      "ud": "habrá teñido",
+      "nosotros": "habremos teñido",
+      "vosotros": "habréis teñido",
+      "uds": "habrán teñido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había teñido",
+      "tu": "habías teñido",
+      "ud": "había teñido",
+      "nosotros": "habíamos teñido",
+      "vosotros": "habíais teñido",
+      "uds": "habían teñido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube teñido",
+      "tu": "hubiste teñido",
+      "ud": "hubo teñido",
+      "nosotros": "hubimos teñido",
+      "vosotros": "hubisteis teñido",
+      "uds": "hubieron teñido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría teñido",
+      "tu": "habrías teñido",
+      "ud": "habría teñido",
+      "nosotros": "habríamos teñido",
+      "vosotros": "habríais teñido",
+      "uds": "habrían teñido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "tiña",
+      "tu": "tiñas",
+      "ud": "tiña",
+      "nosotros": "tiñamos",
+      "vosotros": "tiñáis",
+      "uds": "tiñan"
+    },
+    "imperfecto": {
+      "yo": "tiñera",
+      "tu": "tiñeras",
+      "ud": "tiñera",
+      "nosotros": "tiñéramos",
+      "vosotros": "tiñerais",
+      "uds": "tiñeran"
+    },
+    "futuro": {
+      "yo": "tiñere",
+      "tu": "tiñeres",
+      "ud": "tiñere",
+      "nosotros": "tiñéremos",
+      "vosotros": "tiñereis",
+      "uds": "tiñeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya teñido",
+      "tu": "hayas teñido",
+      "ud": "haya teñido",
+      "nosotros": "hayamos teñido",
+      "vosotros": "hayáis teñido",
+      "uds": "hayan teñido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere teñido",
+      "tu": "hubieres teñido",
+      "ud": "hubiere teñido",
+      "nosotros": "hubiéremos teñido",
+      "vosotros": "hubiereis teñido",
+      "uds": "hubieren teñido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera teñido",
+      "tu": "hubieras teñido",
+      "ud": "hubiera teñido",
+      "nosotros": "hubiéramos teñido",
+      "vosotros": "hubierais teñido",
+      "uds": "hubieran teñido"
+    },
+    "imperfectoAlt": {
+      "yo": "teñese",
+      "tu": "teñeses",
+      "ud": "teñese",
+      "nosotros": "teñésemos",
+      "vosotros": "teñeseis",
+      "uds": "teñesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese teñido",
+      "tu": "hubieses teñido",
+      "ud": "hubiese teñido",
+      "nosotros": "hubiésemos teñido",
+      "vosotros": "hubieseis teñido",
+      "uds": "hubiesen teñido"
+    }
+  },
+  "afirmativo": {
+    "tu": "tiñe",
+    "vosotros": "teñid",
+    "ud": "tiña",
+    "uds": "tiñan"
+  },
+  "negativo": {
+    "tu": "no tiñas",
+    "vosotros": "no tiñáis",
+    "ud": "no tiña",
+    "uds": "no tiñan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i.) Tambié la i (cuando no se acentúa) detrás de ñ desaparece delante de otra vocal, por ejemplo: tiñó, tiñeron, tiñendo.",
+    "infinitivo": "to dye, tint, tinge, color, stain",
+    "gerundio": "dyeing",
+    "participioPasado": "dyed",
+    "indicativo": {
+      "presente": "I dye, am dyeing",
+      "futuro": "I will dye",
+      "imperfecto": "I was dyeing, used to dye, dyed",
+      "preterito": "I dyed",
+      "condicional": "I would dye",
+      "presentePerfecto": "I have dyed",
+      "futuroPerfecto": "I will have dyed",
+      "pluscuamperfecto": "I had dyed",
+      "preteritoAnterior": "I had dyed",
+      "condicionalPerfecto": "I would have dyed"
+    },
+    "subjuntivo": {
+      "presente": "I dye, am dyeing",
+      "imperfecto": "I dyed, was dyeing",
+      "futuro": "I will dye",
+      "presentePerfecto": "I have dyed, dyed",
+      "futuroPerfecto": "I will have dyed",
+      "pluscuamperfecto": "I had dyed"
+    },
+    "afirmativo": "Dye!",
+    "negativo": "Don't dye!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "variar",
+  "gerundio": "variando",
+  "participioPasado": "variado",
+  "indicativo": {
+    "presente": {
+      "yo": "varío",
+      "tu": "varías",
+      "ud": "varía",
+      "nosotros": "variamos",
+      "vosotros": "variáis",
+      "uds": "varían"
+    },
+    "futuro": {
+      "yo": "variaré",
+      "tu": "variarás",
+      "ud": "variará",
+      "nosotros": "variaremos",
+      "vosotros": "variaréis",
+      "uds": "variarán"
+    },
+    "imperfecto": {
+      "yo": "variaba",
+      "tu": "variabas",
+      "ud": "variaba",
+      "nosotros": "variábamos",
+      "vosotros": "variabais",
+      "uds": "variaban"
+    },
+    "preterito": {
+      "yo": "varié",
+      "tu": "variaste",
+      "ud": "varió",
+      "nosotros": "variamos",
+      "vosotros": "variasteis",
+      "uds": "variaron"
+    },
+    "condicional": {
+      "yo": "variaría",
+      "tu": "variarías",
+      "ud": "variaría",
+      "nosotros": "variaríamos",
+      "vosotros": "variaríais",
+      "uds": "variarían"
+    },
+    "presentePerfecto": {
+      "yo": "he variado",
+      "tu": "has variado",
+      "ud": "ha variado",
+      "nosotros": "hemos variado",
+      "vosotros": "habéis variado",
+      "uds": "han variado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré variado",
+      "tu": "habrás variado",
+      "ud": "habrá variado",
+      "nosotros": "habremos variado",
+      "vosotros": "habréis variado",
+      "uds": "habrán variado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había variado",
+      "tu": "habías variado",
+      "ud": "había variado",
+      "nosotros": "habíamos variado",
+      "vosotros": "habíais variado",
+      "uds": "habían variado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube variado",
+      "tu": "hubiste variado",
+      "ud": "hubo variado",
+      "nosotros": "hubimos variado",
+      "vosotros": "hubisteis variado",
+      "uds": "hubieron variado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría variado",
+      "tu": "habrías variado",
+      "ud": "habría variado",
+      "nosotros": "habríamos variado",
+      "vosotros": "habríais variado",
+      "uds": "habrían variado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "varíe",
+      "tu": "varíes",
+      "ud": "varíe",
+      "nosotros": "variemos",
+      "vosotros": "variéis",
+      "uds": "varíen"
+    },
+    "imperfecto": {
+      "yo": "variara",
+      "tu": "variaras",
+      "ud": "variara",
+      "nosotros": "variáramos",
+      "vosotros": "variarais",
+      "uds": "variaran"
+    },
+    "futuro": {
+      "yo": "variare",
+      "tu": "variares",
+      "ud": "variare",
+      "nosotros": "variáremos",
+      "vosotros": "variareis",
+      "uds": "variaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya variado",
+      "tu": "hayas variado",
+      "ud": "haya variado",
+      "nosotros": "hayamos variado",
+      "vosotros": "hayáis variado",
+      "uds": "hayan variado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere variado",
+      "tu": "hubieres variado",
+      "ud": "hubiere variado",
+      "nosotros": "hubiéremos variado",
+      "vosotros": "hubiereis variado",
+      "uds": "hubieren variado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera variado",
+      "tu": "hubieras variado",
+      "ud": "hubiera variado",
+      "nosotros": "hubiéramos variado",
+      "vosotros": "hubierais variado",
+      "uds": "hubieran variado"
+    },
+    "imperfectoAlt": {
+      "yo": "variase",
+      "tu": "variases",
+      "ud": "variase",
+      "nosotros": "variásemos",
+      "vosotros": "variaseis",
+      "uds": "variasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese variado",
+      "tu": "hubieses variado",
+      "ud": "hubiese variado",
+      "nosotros": "hubiésemos variado",
+      "vosotros": "hubieseis variado",
+      "uds": "hubiesen variado"
+    }
+  },
+  "afirmativo": {
+    "tu": "varía",
+    "vosotros": "variad",
+    "ud": "varíe",
+    "uds": "varíen"
+  },
+  "negativo": {
+    "tu": "no varíes",
+    "vosotros": "no variéis",
+    "ud": "no varíe",
+    "uds": "no varíen"
+  },
+  "english": {
+    "note": "Cambio: i > í cuando la radical tiene el acento tónico.",
+    "infinitivo": "to vary",
+    "gerundio": "varying",
+    "participioPasado": "varied",
+    "indicativo": {
+      "presente": "I vary, am varying",
+      "futuro": "I will vary",
+      "imperfecto": "I was varying, used to vary, varied",
+      "preterito": "I varied",
+      "condicional": "I would vary",
+      "presentePerfecto": "I have varied",
+      "futuroPerfecto": "I will have varied",
+      "pluscuamperfecto": "I had varied",
+      "preteritoAnterior": "I had varied",
+      "condicionalPerfecto": "I would have varied"
+    },
+    "subjuntivo": {
+      "presente": "I vary, am varying",
+      "imperfecto": "I varied, was varying",
+      "futuro": "I will vary",
+      "presentePerfecto": "I have varied, varied",
+      "futuroPerfecto": "I will have varied",
+      "pluscuamperfecto": "I had varied"
+    },
+    "afirmativo": "Vary!",
+    "negativo": "Don't vary!"
+  },
+  "attribution": "Fred Jehle"
+}

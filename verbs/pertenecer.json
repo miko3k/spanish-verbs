@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "pertenecer",
+  "gerundio": "perteneciendo",
+  "participioPasado": "pertenecido",
+  "indicativo": {
+    "presente": {
+      "yo": "pertenezco",
+      "tu": "perteneces",
+      "ud": "pertenece",
+      "nosotros": "pertenecemos",
+      "vosotros": "pertenecéis",
+      "uds": "pertenecen"
+    },
+    "futuro": {
+      "yo": "perteneceré",
+      "tu": "pertenecerás",
+      "ud": "pertenecerá",
+      "nosotros": "perteneceremos",
+      "vosotros": "perteneceréis",
+      "uds": "pertenecerán"
+    },
+    "imperfecto": {
+      "yo": "pertenecía",
+      "tu": "pertenecías",
+      "ud": "pertenecía",
+      "nosotros": "pertenecíamos",
+      "vosotros": "pertenecíais",
+      "uds": "pertenecían"
+    },
+    "preterito": {
+      "yo": "pertenecí",
+      "tu": "perteneciste",
+      "ud": "perteneció",
+      "nosotros": "pertenecimos",
+      "vosotros": "pertenecisteis",
+      "uds": "pertenecieron"
+    },
+    "condicional": {
+      "yo": "pertenecería",
+      "tu": "pertenecerías",
+      "ud": "pertenecería",
+      "nosotros": "perteneceríamos",
+      "vosotros": "perteneceríais",
+      "uds": "pertenecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he pertenecido",
+      "tu": "has pertenecido",
+      "ud": "ha pertenecido",
+      "nosotros": "hemos pertenecido",
+      "vosotros": "habéis pertenecido",
+      "uds": "han pertenecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré pertenecido",
+      "tu": "habrás pertenecido",
+      "ud": "habrá pertenecido",
+      "nosotros": "habremos pertenecido",
+      "vosotros": "habréis pertenecido",
+      "uds": "habrán pertenecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había pertenecido",
+      "tu": "habías pertenecido",
+      "ud": "había pertenecido",
+      "nosotros": "habíamos pertenecido",
+      "vosotros": "habíais pertenecido",
+      "uds": "habían pertenecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube pertenecido",
+      "tu": "hubiste pertenecido",
+      "ud": "hubo pertenecido",
+      "nosotros": "hubimos pertenecido",
+      "vosotros": "hubisteis pertenecido",
+      "uds": "hubieron pertenecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría pertenecido",
+      "tu": "habrías pertenecido",
+      "ud": "habría pertenecido",
+      "nosotros": "habríamos pertenecido",
+      "vosotros": "habríais pertenecido",
+      "uds": "habrían pertenecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pertenezca",
+      "tu": "pertenezcas",
+      "ud": "pertenezca",
+      "nosotros": "pertenezcamos",
+      "vosotros": "pertenezcáis",
+      "uds": "pertenezcan"
+    },
+    "imperfecto": {
+      "yo": "perteneciera",
+      "tu": "pertenecieras",
+      "ud": "perteneciera",
+      "nosotros": "perteneciéramos",
+      "vosotros": "pertenecierais",
+      "uds": "pertenecieran"
+    },
+    "futuro": {
+      "yo": "perteneciere",
+      "tu": "pertenecieres",
+      "ud": "perteneciere",
+      "nosotros": "perteneciéremos",
+      "vosotros": "perteneciereis",
+      "uds": "pertenecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya pertenecido",
+      "tu": "hayas pertenecido",
+      "ud": "haya pertenecido",
+      "nosotros": "hayamos pertenecido",
+      "vosotros": "hayáis pertenecido",
+      "uds": "hayan pertenecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere pertenecido",
+      "tu": "hubieres pertenecido",
+      "ud": "hubiere pertenecido",
+      "nosotros": "hubiéremos pertenecido",
+      "vosotros": "hubiereis pertenecido",
+      "uds": "hubieren pertenecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera pertenecido",
+      "tu": "hubieras pertenecido",
+      "ud": "hubiera pertenecido",
+      "nosotros": "hubiéramos pertenecido",
+      "vosotros": "hubierais pertenecido",
+      "uds": "hubieran pertenecido"
+    },
+    "imperfectoAlt": {
+      "yo": "perteneciese",
+      "tu": "pertenecieses",
+      "ud": "perteneciese",
+      "nosotros": "perteneciésemos",
+      "vosotros": "pertenecieseis",
+      "uds": "perteneciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese pertenecido",
+      "tu": "hubieses pertenecido",
+      "ud": "hubiese pertenecido",
+      "nosotros": "hubiésemos pertenecido",
+      "vosotros": "hubieseis pertenecido",
+      "uds": "hubiesen pertenecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "pertenece",
+    "vosotros": "perteneced",
+    "ud": "pertenezca",
+    "uds": "pertenezcan"
+  },
+  "negativo": {
+    "tu": "no pertenezcas",
+    "vosotros": "no pertenezcáis",
+    "ud": "no pertenezca",
+    "uds": "no pertenezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: pertenezco, pertenezca, pertenezcas, etc.",
+    "infinitivo": "to belong, pertain",
+    "gerundio": "belonging",
+    "participioPasado": "belonged",
+    "indicativo": {
+      "presente": "I belong, am belonging",
+      "futuro": "I will belong",
+      "imperfecto": "I was belonging, used to belong, belonged",
+      "preterito": "I belonged",
+      "condicional": "I would belong",
+      "presentePerfecto": "I have belonged",
+      "futuroPerfecto": "I will have belonged",
+      "pluscuamperfecto": "I had belonged",
+      "preteritoAnterior": "I had belonged",
+      "condicionalPerfecto": "I would have belonged"
+    },
+    "subjuntivo": {
+      "presente": "I belong, am belonging",
+      "imperfecto": "I belonged, was belonging",
+      "futuro": "I will belong",
+      "presentePerfecto": "I have belonged, belonged",
+      "futuroPerfecto": "I will have belonged",
+      "pluscuamperfecto": "I had belonged"
+    },
+    "afirmativo": "Belong!",
+    "negativo": "Don't belong!"
+  },
+  "attribution": "Fred Jehle"
+}

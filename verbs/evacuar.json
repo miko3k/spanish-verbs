@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "evacuar",
+  "gerundio": "evacuando",
+  "participioPasado": "evacuado",
+  "indicativo": {
+    "presente": {
+      "yo": "evacuo",
+      "tu": "evacuas",
+      "ud": "evacua",
+      "nosotros": "evacuamos",
+      "vosotros": "evacuáis",
+      "uds": "evacuan"
+    },
+    "futuro": {
+      "yo": "evacuaré",
+      "tu": "evacuarás",
+      "ud": "evacuará",
+      "nosotros": "evacuaremos",
+      "vosotros": "evacuaréis",
+      "uds": "evacuarán"
+    },
+    "imperfecto": {
+      "yo": "evacuaba",
+      "tu": "evacuabas",
+      "ud": "evacuaba",
+      "nosotros": "evacuábamos",
+      "vosotros": "evacuabais",
+      "uds": "evacuaban"
+    },
+    "preterito": {
+      "yo": "evacué",
+      "tu": "evacuaste",
+      "ud": "evacuó",
+      "nosotros": "evacuamos",
+      "vosotros": "evacuasteis",
+      "uds": "evacuaron"
+    },
+    "condicional": {
+      "yo": "evacuaría",
+      "tu": "evacuarías",
+      "ud": "evacuaría",
+      "nosotros": "evacuaríamos",
+      "vosotros": "evacuaríais",
+      "uds": "evacuarían"
+    },
+    "presentePerfecto": {
+      "yo": "he evacuado",
+      "tu": "has evacuado",
+      "ud": "ha evacuado",
+      "nosotros": "hemos evacuado",
+      "vosotros": "habéis evacuado",
+      "uds": "han evacuado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré evacuado",
+      "tu": "habrás evacuado",
+      "ud": "habrá evacuado",
+      "nosotros": "habremos evacuado",
+      "vosotros": "habréis evacuado",
+      "uds": "habrán evacuado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había evacuado",
+      "tu": "habías evacuado",
+      "ud": "había evacuado",
+      "nosotros": "habíamos evacuado",
+      "vosotros": "habíais evacuado",
+      "uds": "habían evacuado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube evacuado",
+      "tu": "hubiste evacuado",
+      "ud": "hubo evacuado",
+      "nosotros": "hubimos evacuado",
+      "vosotros": "hubisteis evacuado",
+      "uds": "hubieron evacuado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría evacuado",
+      "tu": "habrías evacuado",
+      "ud": "habría evacuado",
+      "nosotros": "habríamos evacuado",
+      "vosotros": "habríais evacuado",
+      "uds": "habrían evacuado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "evacue",
+      "tu": "evacues",
+      "ud": "evacue",
+      "nosotros": "evacuemos",
+      "vosotros": "evacuéis",
+      "uds": "evacuen"
+    },
+    "imperfecto": {
+      "yo": "evacuara",
+      "tu": "evacuaras",
+      "ud": "evacuara",
+      "nosotros": "evacuáramos",
+      "vosotros": "evacuarais",
+      "uds": "evacuaran"
+    },
+    "futuro": {
+      "yo": "evacuare",
+      "tu": "evacuares",
+      "ud": "evacuare",
+      "nosotros": "evacuáremos",
+      "vosotros": "evacuareis",
+      "uds": "evacuaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya evacuado",
+      "tu": "hayas evacuado",
+      "ud": "haya evacuado",
+      "nosotros": "hayamos evacuado",
+      "vosotros": "hayáis evacuado",
+      "uds": "hayan evacuado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere evacuado",
+      "tu": "hubieres evacuado",
+      "ud": "hubiere evacuado",
+      "nosotros": "hubiéremos evacuado",
+      "vosotros": "hubiereis evacuado",
+      "uds": "hubieren evacuado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera evacuado",
+      "tu": "hubieras evacuado",
+      "ud": "hubiera evacuado",
+      "nosotros": "hubiéramos evacuado",
+      "vosotros": "hubierais evacuado",
+      "uds": "hubieran evacuado"
+    },
+    "imperfectoAlt": {
+      "yo": "evacuase",
+      "tu": "evacuases",
+      "ud": "evacuase",
+      "nosotros": "evacuásemos",
+      "vosotros": "evacuaseis",
+      "uds": "evacuasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese evacuado",
+      "tu": "hubieses evacuado",
+      "ud": "hubiese evacuado",
+      "nosotros": "hubiésemos evacuado",
+      "vosotros": "hubieseis evacuado",
+      "uds": "hubiesen evacuado"
+    }
+  },
+  "afirmativo": {
+    "tu": "evacua",
+    "vosotros": "evacuad",
+    "ud": "evacue",
+    "uds": "evacuen"
+  },
+  "negativo": {
+    "tu": "no evacues",
+    "vosotros": "no evacuéis",
+    "ud": "no evacue",
+    "uds": "no evacuen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to evacuate, empty",
+    "gerundio": "evacuating",
+    "participioPasado": "evacuated",
+    "indicativo": {
+      "presente": "I evacuate, am evacuating",
+      "futuro": "I will evacuate",
+      "imperfecto": "I was evacuating, used to evacuate, evacuated",
+      "preterito": "I evacuated",
+      "condicional": "I would evacuate",
+      "presentePerfecto": "I have evacuated",
+      "futuroPerfecto": "I will have evacuated",
+      "pluscuamperfecto": "I had evacuated",
+      "preteritoAnterior": "I had evacuated",
+      "condicionalPerfecto": "I would have evacuated"
+    },
+    "subjuntivo": {
+      "presente": "I evacuate, am evacuating",
+      "imperfecto": "I evacuated, was evacuating",
+      "futuro": "I will evacuate",
+      "presentePerfecto": "I have evacuated, evacuated",
+      "futuroPerfecto": "I will have evacuated",
+      "pluscuamperfecto": "I had evacuated"
+    },
+    "afirmativo": "Evacuate!",
+    "negativo": "Don't evacuate!"
+  },
+  "attribution": "Fred Jehle"
+}

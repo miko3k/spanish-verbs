@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cansarse",
+  "gerundio": "cansándose",
+  "participioPasado": "cansado",
+  "indicativo": {
+    "presente": {
+      "yo": "me canso",
+      "tu": "te cansas",
+      "ud": "se cansa",
+      "nosotros": "nos cansamos",
+      "vosotros": "os cansáis",
+      "uds": "se cansan"
+    },
+    "futuro": {
+      "yo": "me cansaré",
+      "tu": "te cansarás",
+      "ud": "se cansará",
+      "nosotros": "nos cansaremos",
+      "vosotros": "os cansaréis",
+      "uds": "se cansarán"
+    },
+    "imperfecto": {
+      "yo": "me cansaba",
+      "tu": "te cansabas",
+      "ud": "se cansaba",
+      "nosotros": "nos cansábamos",
+      "vosotros": "os cansabais",
+      "uds": "se cansaban"
+    },
+    "preterito": {
+      "yo": "me cansé",
+      "tu": "te cansaste",
+      "ud": "se cansó",
+      "nosotros": "nos cansamos",
+      "vosotros": "os cansasteis",
+      "uds": "se cansaron"
+    },
+    "condicional": {
+      "yo": "me cansaría",
+      "tu": "te cansarías",
+      "ud": "se cansaría",
+      "nosotros": "nos cansaríamos",
+      "vosotros": "os cansaríais",
+      "uds": "se cansarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he cansado",
+      "tu": "te has cansado",
+      "ud": "se ha cansado",
+      "nosotros": "nos hemos cansado",
+      "vosotros": "os habéis cansado",
+      "uds": "se han cansado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré cansado",
+      "tu": "te habrás cansado",
+      "ud": "se habrá cansado",
+      "nosotros": "nos habremos cansado",
+      "vosotros": "os habréis cansado",
+      "uds": "se habrán cansado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había cansado",
+      "tu": "te habías cansado",
+      "ud": "se había cansado",
+      "nosotros": "nos habíamos cansado",
+      "vosotros": "os habíais cansado",
+      "uds": "se habían cansado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube cansado",
+      "tu": "te hubiste cansado",
+      "ud": "se hubo cansado",
+      "nosotros": "nos hubimos cansado",
+      "vosotros": "os hubisteis cansado",
+      "uds": "se hubieron cansado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría cansado",
+      "tu": "te habrías cansado",
+      "ud": "se habría cansado",
+      "nosotros": "nos habríamos cansado",
+      "vosotros": "os habríais cansado",
+      "uds": "se habrían cansado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me canse",
+      "tu": "te canses",
+      "ud": "se canse",
+      "nosotros": "nos cansemos",
+      "vosotros": "os canséis",
+      "uds": "se cansen"
+    },
+    "imperfecto": {
+      "yo": "me cansara",
+      "tu": "te cansaras",
+      "ud": "se cansara",
+      "nosotros": "nos cansáramos",
+      "vosotros": "os cansarais",
+      "uds": "se cansaran"
+    },
+    "futuro": {
+      "yo": "me cansare",
+      "tu": "te cansares",
+      "ud": "se cansare",
+      "nosotros": "nos cansáremos",
+      "vosotros": "os cansareis",
+      "uds": "se cansaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya cansado",
+      "tu": "te hayas cansado",
+      "ud": "se haya cansado",
+      "nosotros": "nos hayamos cansado",
+      "vosotros": "os hayáis cansado",
+      "uds": "se hayan cansado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere cansado",
+      "tu": "te hubieres cansado",
+      "ud": "se hubiere cansado",
+      "nosotros": "nos hubiéremos cansado",
+      "vosotros": "os hubiereis cansado",
+      "uds": "se hubieren cansado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera cansado",
+      "tu": "te hubieras cansado",
+      "ud": "se hubiera cansado",
+      "nosotros": "nos hubiéramos cansado",
+      "vosotros": "os hubierais cansado",
+      "uds": "se hubieran cansado"
+    },
+    "imperfectoAlt": {
+      "yo": "me cansase",
+      "tu": "te cansases",
+      "ud": "se cansase",
+      "nosotros": "nos cansásemos",
+      "vosotros": "os cansaseis",
+      "uds": "se cansasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese cansado",
+      "tu": "te hubieses cansado",
+      "ud": "se hubiese cansado",
+      "nosotros": "nos hubiésemos cansado",
+      "vosotros": "os hubieseis cansado",
+      "uds": "se hubiesen cansado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cánsate",
+    "vosotros": "cansaos",
+    "ud": "cánsese",
+    "uds": "cánsense"
+  },
+  "negativo": {
+    "tu": "no te canses",
+    "vosotros": "no os canséis",
+    "ud": "no se canse",
+    "uds": "no se cansen"
+  },
+  "english": {
+    "note": "Note: For to tire someone else, use the nonreflexive form cansar.",
+    "infinitivo": "to get tired, get worn out, get weary",
+    "gerundio": "getting tired",
+    "participioPasado": "tired",
+    "indicativo": {
+      "presente": "I get tired, am getting tired",
+      "futuro": "I will get tired",
+      "imperfecto": "I was getting tired, used to get tired, got tired",
+      "preterito": "I got tired",
+      "condicional": "I would get tired",
+      "presentePerfecto": "I have gotten tired",
+      "futuroPerfecto": "I will have gotten tired",
+      "pluscuamperfecto": "I had gotten tired",
+      "preteritoAnterior": "I had gotten tired",
+      "condicionalPerfecto": "I would have gotten tired"
+    },
+    "subjuntivo": {
+      "presente": "I get tired, am getting tired",
+      "imperfecto": "I got tired, was getting tired",
+      "futuro": "I will get tired",
+      "presentePerfecto": "I have gotten tired, got tired",
+      "futuroPerfecto": "I will have gotten tired",
+      "pluscuamperfecto": "I had gotten tired"
+    },
+    "afirmativo": "Get tired!",
+    "negativo": "Don't get tired!"
+  },
+  "attribution": "Fred Jehle"
+}

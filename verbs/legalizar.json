@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "legalizar",
+  "gerundio": "legalizando",
+  "participioPasado": "legalizado",
+  "indicativo": {
+    "presente": {
+      "yo": "legalizo",
+      "tu": "legalizas",
+      "ud": "legaliza",
+      "nosotros": "legalizamos",
+      "vosotros": "legalizáis",
+      "uds": "legalizan"
+    },
+    "futuro": {
+      "yo": "legalizaré",
+      "tu": "legalizarás",
+      "ud": "legalizará",
+      "nosotros": "legalizaremos",
+      "vosotros": "legalizaréis",
+      "uds": "legalizarán"
+    },
+    "imperfecto": {
+      "yo": "legalizaba",
+      "tu": "legalizabas",
+      "ud": "legalizaba",
+      "nosotros": "legalizábamos",
+      "vosotros": "legalizabais",
+      "uds": "legalizaban"
+    },
+    "preterito": {
+      "yo": "legalicé",
+      "tu": "legalizaste",
+      "ud": "legalizó",
+      "nosotros": "legalizamos",
+      "vosotros": "legalizasteis",
+      "uds": "legalizaron"
+    },
+    "condicional": {
+      "yo": "legalizaría",
+      "tu": "legalizarías",
+      "ud": "legalizaría",
+      "nosotros": "legalizaríamos",
+      "vosotros": "legalizaríais",
+      "uds": "legalizarían"
+    },
+    "presentePerfecto": {
+      "yo": "he legalizado",
+      "tu": "has legalizado",
+      "ud": "ha legalizado",
+      "nosotros": "hemos legalizado",
+      "vosotros": "habéis legalizado",
+      "uds": "han legalizado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré legalizado",
+      "tu": "habrás legalizado",
+      "ud": "habrá legalizado",
+      "nosotros": "habremos legalizado",
+      "vosotros": "habréis legalizado",
+      "uds": "habrán legalizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había legalizado",
+      "tu": "habías legalizado",
+      "ud": "había legalizado",
+      "nosotros": "habíamos legalizado",
+      "vosotros": "habíais legalizado",
+      "uds": "habían legalizado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube legalizado",
+      "tu": "hubiste legalizado",
+      "ud": "hubo legalizado",
+      "nosotros": "hubimos legalizado",
+      "vosotros": "hubisteis legalizado",
+      "uds": "hubieron legalizado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría legalizado",
+      "tu": "habrías legalizado",
+      "ud": "habría legalizado",
+      "nosotros": "habríamos legalizado",
+      "vosotros": "habríais legalizado",
+      "uds": "habrían legalizado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "legalice",
+      "tu": "legalices",
+      "ud": "legalice",
+      "nosotros": "legalicemos",
+      "vosotros": "legalicéis",
+      "uds": "legalicen"
+    },
+    "imperfecto": {
+      "yo": "legalizara",
+      "tu": "legalizaras",
+      "ud": "legalizara",
+      "nosotros": "legalizáramos",
+      "vosotros": "legalizarais",
+      "uds": "legalizaran"
+    },
+    "futuro": {
+      "yo": "legalizare",
+      "tu": "legalizares",
+      "ud": "legalizare",
+      "nosotros": "legalizáremos",
+      "vosotros": "legalizareis",
+      "uds": "legalizaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya legalizado",
+      "tu": "hayas legalizado",
+      "ud": "haya legalizado",
+      "nosotros": "hayamos legalizado",
+      "vosotros": "hayáis legalizado",
+      "uds": "hayan legalizado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere legalizado",
+      "tu": "hubieres legalizado",
+      "ud": "hubiere legalizado",
+      "nosotros": "hubiéremos legalizado",
+      "vosotros": "hubiereis legalizado",
+      "uds": "hubieren legalizado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera legalizado",
+      "tu": "hubieras legalizado",
+      "ud": "hubiera legalizado",
+      "nosotros": "hubiéramos legalizado",
+      "vosotros": "hubierais legalizado",
+      "uds": "hubieran legalizado"
+    },
+    "imperfectoAlt": {
+      "yo": "legalizase",
+      "tu": "legalizases",
+      "ud": "legalizase",
+      "nosotros": "legalizásemos",
+      "vosotros": "legalizaseis",
+      "uds": "legalizasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese legalizado",
+      "tu": "hubieses legalizado",
+      "ud": "hubiese legalizado",
+      "nosotros": "hubiésemos legalizado",
+      "vosotros": "hubieseis legalizado",
+      "uds": "hubiesen legalizado"
+    }
+  },
+  "afirmativo": {
+    "tu": "legaliza",
+    "vosotros": "legalizad",
+    "ud": "legalice",
+    "uds": "legalicen"
+  },
+  "negativo": {
+    "tu": "no legalices",
+    "vosotros": "no legalicéis",
+    "ud": "no legalice",
+    "uds": "no legalicen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to legalize, make lawful",
+    "gerundio": "legalizing",
+    "participioPasado": "legalized",
+    "indicativo": {
+      "presente": "I legalize, am legalizing",
+      "futuro": "I will legalize",
+      "imperfecto": "I was legalizing, used to legalize, legalized",
+      "preterito": "I legalized",
+      "condicional": "I would legalize",
+      "presentePerfecto": "I have legalized",
+      "futuroPerfecto": "I will have legalized",
+      "pluscuamperfecto": "I had legalized",
+      "preteritoAnterior": "I had legalized",
+      "condicionalPerfecto": "I would have legalized"
+    },
+    "subjuntivo": {
+      "presente": "I legalize, am legalizing",
+      "imperfecto": "I legalized, was legalizing",
+      "futuro": "I will legalize",
+      "presentePerfecto": "I have legalized, legalized",
+      "futuroPerfecto": "I will have legalized",
+      "pluscuamperfecto": "I had legalized"
+    },
+    "afirmativo": "Legalize!",
+    "negativo": "Don't legalize!"
+  },
+  "attribution": "Fred Jehle"
+}

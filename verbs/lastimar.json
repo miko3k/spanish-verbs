@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "lastimar",
+  "gerundio": "lastimando",
+  "participioPasado": "lastimado",
+  "indicativo": {
+    "presente": {
+      "yo": "lastimo",
+      "tu": "lastimas",
+      "ud": "lastima",
+      "nosotros": "lastimamos",
+      "vosotros": "lastimáis",
+      "uds": "lastiman"
+    },
+    "futuro": {
+      "yo": "lastimaré",
+      "tu": "lastimarás",
+      "ud": "lastimará",
+      "nosotros": "lastimaremos",
+      "vosotros": "lastimaréis",
+      "uds": "lastimarán"
+    },
+    "imperfecto": {
+      "yo": "lastimaba",
+      "tu": "lastimabas",
+      "ud": "lastimaba",
+      "nosotros": "lastimábamos",
+      "vosotros": "lastimabais",
+      "uds": "lastimaban"
+    },
+    "preterito": {
+      "yo": "lastimé",
+      "tu": "lastimaste",
+      "ud": "lastimó",
+      "nosotros": "lastimamos",
+      "vosotros": "lastimasteis",
+      "uds": "lastimaron"
+    },
+    "condicional": {
+      "yo": "lastimaría",
+      "tu": "lastimarías",
+      "ud": "lastimaría",
+      "nosotros": "lastimaríamos",
+      "vosotros": "lastimaríais",
+      "uds": "lastimarían"
+    },
+    "presentePerfecto": {
+      "yo": "he lastimado",
+      "tu": "has lastimado",
+      "ud": "ha lastimado",
+      "nosotros": "hemos lastimado",
+      "vosotros": "habéis lastimado",
+      "uds": "han lastimado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré lastimado",
+      "tu": "habrás lastimado",
+      "ud": "habrá lastimado",
+      "nosotros": "habremos lastimado",
+      "vosotros": "habréis lastimado",
+      "uds": "habrán lastimado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había lastimado",
+      "tu": "habías lastimado",
+      "ud": "había lastimado",
+      "nosotros": "habíamos lastimado",
+      "vosotros": "habíais lastimado",
+      "uds": "habían lastimado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube lastimado",
+      "tu": "hubiste lastimado",
+      "ud": "hubo lastimado",
+      "nosotros": "hubimos lastimado",
+      "vosotros": "hubisteis lastimado",
+      "uds": "hubieron lastimado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría lastimado",
+      "tu": "habrías lastimado",
+      "ud": "habría lastimado",
+      "nosotros": "habríamos lastimado",
+      "vosotros": "habríais lastimado",
+      "uds": "habrían lastimado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "lastime",
+      "tu": "lastimes",
+      "ud": "lastime",
+      "nosotros": "lastimemos",
+      "vosotros": "lastiméis",
+      "uds": "lastimen"
+    },
+    "imperfecto": {
+      "yo": "lastimara",
+      "tu": "lastimaras",
+      "ud": "lastimara",
+      "nosotros": "lastimáramos",
+      "vosotros": "lastimarais",
+      "uds": "lastimaran"
+    },
+    "futuro": {
+      "yo": "lastimare",
+      "tu": "lastimares",
+      "ud": "lastimare",
+      "nosotros": "lastimáremos",
+      "vosotros": "lastimareis",
+      "uds": "lastimaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya lastimado",
+      "tu": "hayas lastimado",
+      "ud": "haya lastimado",
+      "nosotros": "hayamos lastimado",
+      "vosotros": "hayáis lastimado",
+      "uds": "hayan lastimado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere lastimado",
+      "tu": "hubieres lastimado",
+      "ud": "hubiere lastimado",
+      "nosotros": "hubiéremos lastimado",
+      "vosotros": "hubiereis lastimado",
+      "uds": "hubieren lastimado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera lastimado",
+      "tu": "hubieras lastimado",
+      "ud": "hubiera lastimado",
+      "nosotros": "hubiéramos lastimado",
+      "vosotros": "hubierais lastimado",
+      "uds": "hubieran lastimado"
+    },
+    "imperfectoAlt": {
+      "yo": "lastimase",
+      "tu": "lastimases",
+      "ud": "lastimase",
+      "nosotros": "lastimásemos",
+      "vosotros": "lastimaseis",
+      "uds": "lastimasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese lastimado",
+      "tu": "hubieses lastimado",
+      "ud": "hubiese lastimado",
+      "nosotros": "hubiésemos lastimado",
+      "vosotros": "hubieseis lastimado",
+      "uds": "hubiesen lastimado"
+    }
+  },
+  "afirmativo": {
+    "tu": "lastima",
+    "vosotros": "lastimad",
+    "ud": "lastime",
+    "uds": "lastimen"
+  },
+  "negativo": {
+    "tu": "no lastimes",
+    "vosotros": "no lastiméis",
+    "ud": "no lastime",
+    "uds": "no lastimen"
+  },
+  "english": {
+    "note": "Note: Lastimar means to hurt in the sense of harming someone or something; use doler for to hurt in the sense of to ache.",
+    "infinitivo": "to hurt, injure, harm; to pity; to move to pity",
+    "gerundio": "hurting",
+    "participioPasado": "hurt",
+    "indicativo": {
+      "presente": "I hurt, am hurting",
+      "futuro": "I will hurt",
+      "imperfecto": "I was hurting, used to hurt, hurt",
+      "preterito": "I hurt",
+      "condicional": "I would hurt",
+      "presentePerfecto": "I have hurt",
+      "futuroPerfecto": "I will have hurt",
+      "pluscuamperfecto": "I had hurt",
+      "preteritoAnterior": "I had hurt",
+      "condicionalPerfecto": "I would have hurt"
+    },
+    "subjuntivo": {
+      "presente": "I hurt, am hurting",
+      "imperfecto": "I hurt, was hurting",
+      "futuro": "I will hurt",
+      "presentePerfecto": "I have hurt, hurt",
+      "futuroPerfecto": "I will have hurt",
+      "pluscuamperfecto": "I had hurt"
+    },
+    "afirmativo": "Hurt!",
+    "negativo": "Don't hurt!"
+  },
+  "attribution": "Fred Jehle"
+}

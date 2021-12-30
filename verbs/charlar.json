@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "charlar",
+  "gerundio": "charlando",
+  "participioPasado": "charlado",
+  "indicativo": {
+    "presente": {
+      "yo": "charlo",
+      "tu": "charlas",
+      "ud": "charla",
+      "nosotros": "charlamos",
+      "vosotros": "charláis",
+      "uds": "charlan"
+    },
+    "futuro": {
+      "yo": "charlaré",
+      "tu": "charlarás",
+      "ud": "charlará",
+      "nosotros": "charlaremos",
+      "vosotros": "charlaréis",
+      "uds": "charlarán"
+    },
+    "imperfecto": {
+      "yo": "charlaba",
+      "tu": "charlabas",
+      "ud": "charlaba",
+      "nosotros": "charlábamos",
+      "vosotros": "charlabais",
+      "uds": "charlaban"
+    },
+    "preterito": {
+      "yo": "charlé",
+      "tu": "charlaste",
+      "ud": "charló",
+      "nosotros": "charlamos",
+      "vosotros": "charlasteis",
+      "uds": "charlaron"
+    },
+    "condicional": {
+      "yo": "charlaría",
+      "tu": "charlarías",
+      "ud": "charlaría",
+      "nosotros": "charlaríamos",
+      "vosotros": "charlaríais",
+      "uds": "charlarían"
+    },
+    "presentePerfecto": {
+      "yo": "he charlado",
+      "tu": "has charlado",
+      "ud": "ha charlado",
+      "nosotros": "hemos charlado",
+      "vosotros": "habéis charlado",
+      "uds": "han charlado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré charlado",
+      "tu": "habrás charlado",
+      "ud": "habrá charlado",
+      "nosotros": "habremos charlado",
+      "vosotros": "habréis charlado",
+      "uds": "habrán charlado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había charlado",
+      "tu": "habías charlado",
+      "ud": "había charlado",
+      "nosotros": "habíamos charlado",
+      "vosotros": "habíais charlado",
+      "uds": "habían charlado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube charlado",
+      "tu": "hubiste charlado",
+      "ud": "hubo charlado",
+      "nosotros": "hubimos charlado",
+      "vosotros": "hubisteis charlado",
+      "uds": "hubieron charlado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría charlado",
+      "tu": "habrías charlado",
+      "ud": "habría charlado",
+      "nosotros": "habríamos charlado",
+      "vosotros": "habríais charlado",
+      "uds": "habrían charlado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "charle",
+      "tu": "charles",
+      "ud": "charle",
+      "nosotros": "charlemos",
+      "vosotros": "charléis",
+      "uds": "charlen"
+    },
+    "imperfecto": {
+      "yo": "charlara",
+      "tu": "charlaras",
+      "ud": "charlara",
+      "nosotros": "charláramos",
+      "vosotros": "charlarais",
+      "uds": "charlaran"
+    },
+    "futuro": {
+      "yo": "charlare",
+      "tu": "charlares",
+      "ud": "charlare",
+      "nosotros": "charláremos",
+      "vosotros": "charlareis",
+      "uds": "charlaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya charlado",
+      "tu": "hayas charlado",
+      "ud": "haya charlado",
+      "nosotros": "hayamos charlado",
+      "vosotros": "hayáis charlado",
+      "uds": "hayan charlado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere charlado",
+      "tu": "hubieres charlado",
+      "ud": "hubiere charlado",
+      "nosotros": "hubiéremos charlado",
+      "vosotros": "hubiereis charlado",
+      "uds": "hubieren charlado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera charlado",
+      "tu": "hubieras charlado",
+      "ud": "hubiera charlado",
+      "nosotros": "hubiéramos charlado",
+      "vosotros": "hubierais charlado",
+      "uds": "hubieran charlado"
+    },
+    "imperfectoAlt": {
+      "yo": "charlase",
+      "tu": "charlases",
+      "ud": "charlase",
+      "nosotros": "charlásemos",
+      "vosotros": "charlaseis",
+      "uds": "charlasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese charlado",
+      "tu": "hubieses charlado",
+      "ud": "hubiese charlado",
+      "nosotros": "hubiésemos charlado",
+      "vosotros": "hubieseis charlado",
+      "uds": "hubiesen charlado"
+    }
+  },
+  "afirmativo": {
+    "tu": "charla",
+    "vosotros": "charlad",
+    "ud": "charle",
+    "uds": "charlen"
+  },
+  "negativo": {
+    "tu": "no charles",
+    "vosotros": "no charléis",
+    "ud": "no charle",
+    "uds": "no charlen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to chat, talk",
+    "gerundio": "chatting",
+    "participioPasado": "chatted",
+    "indicativo": {
+      "presente": "I chat, am chatting",
+      "futuro": "I will chat",
+      "imperfecto": "I was chatting, used to chat, chatted",
+      "preterito": "I chatted",
+      "condicional": "I would chat",
+      "presentePerfecto": "I have chatted",
+      "futuroPerfecto": "I will have chatted",
+      "pluscuamperfecto": "I had chatted",
+      "preteritoAnterior": "I had chatted",
+      "condicionalPerfecto": "I would have chatted"
+    },
+    "subjuntivo": {
+      "presente": "I chat, am chatting",
+      "imperfecto": "I chatted, was chatting",
+      "futuro": "I will chat",
+      "presentePerfecto": "I have chatted, chatted",
+      "futuroPerfecto": "I will have chatted",
+      "pluscuamperfecto": "I had chatted"
+    },
+    "afirmativo": "Chat!",
+    "negativo": "Don't chat!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "recoger",
+  "gerundio": "recogiendo",
+  "participioPasado": "recogido",
+  "indicativo": {
+    "presente": {
+      "yo": "recojo",
+      "tu": "recoges",
+      "ud": "recoge",
+      "nosotros": "recogemos",
+      "vosotros": "recogéis",
+      "uds": "recogen"
+    },
+    "futuro": {
+      "yo": "recogeré",
+      "tu": "recogerás",
+      "ud": "recogerá",
+      "nosotros": "recogeremos",
+      "vosotros": "recogeréis",
+      "uds": "recogerán"
+    },
+    "imperfecto": {
+      "yo": "recogía",
+      "tu": "recogías",
+      "ud": "recogía",
+      "nosotros": "recogíamos",
+      "vosotros": "recogíais",
+      "uds": "recogían"
+    },
+    "preterito": {
+      "yo": "recogí",
+      "tu": "recogiste",
+      "ud": "recogió",
+      "nosotros": "recogimos",
+      "vosotros": "recogisteis",
+      "uds": "recogieron"
+    },
+    "condicional": {
+      "yo": "recogería",
+      "tu": "recogerías",
+      "ud": "recogería",
+      "nosotros": "recogeríamos",
+      "vosotros": "recogeríais",
+      "uds": "recogerían"
+    },
+    "presentePerfecto": {
+      "yo": "he recogido",
+      "tu": "has recogido",
+      "ud": "ha recogido",
+      "nosotros": "hemos recogido",
+      "vosotros": "habéis recogido",
+      "uds": "han recogido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré recogido",
+      "tu": "habrás recogido",
+      "ud": "habrá recogido",
+      "nosotros": "habremos recogido",
+      "vosotros": "habréis recogido",
+      "uds": "habrán recogido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había recogido",
+      "tu": "habías recogido",
+      "ud": "había recogido",
+      "nosotros": "habíamos recogido",
+      "vosotros": "habíais recogido",
+      "uds": "habían recogido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube recogido",
+      "tu": "hubiste recogido",
+      "ud": "hubo recogido",
+      "nosotros": "hubimos recogido",
+      "vosotros": "hubisteis recogido",
+      "uds": "hubieron recogido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría recogido",
+      "tu": "habrías recogido",
+      "ud": "habría recogido",
+      "nosotros": "habríamos recogido",
+      "vosotros": "habríais recogido",
+      "uds": "habrían recogido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "recoja",
+      "tu": "recojas",
+      "ud": "recoja",
+      "nosotros": "recojamos",
+      "vosotros": "recojáis",
+      "uds": "recojan"
+    },
+    "imperfecto": {
+      "yo": "recogiera",
+      "tu": "recogieras",
+      "ud": "recogiera",
+      "nosotros": "recogiéramos",
+      "vosotros": "recogierais",
+      "uds": "recogieran"
+    },
+    "futuro": {
+      "yo": "recogiere",
+      "tu": "recogieres",
+      "ud": "recogiere",
+      "nosotros": "recogiéremos",
+      "vosotros": "recogiereis",
+      "uds": "recogieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya recogido",
+      "tu": "hayas recogido",
+      "ud": "haya recogido",
+      "nosotros": "hayamos recogido",
+      "vosotros": "hayáis recogido",
+      "uds": "hayan recogido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere recogido",
+      "tu": "hubieres recogido",
+      "ud": "hubiere recogido",
+      "nosotros": "hubiéremos recogido",
+      "vosotros": "hubiereis recogido",
+      "uds": "hubieren recogido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera recogido",
+      "tu": "hubieras recogido",
+      "ud": "hubiera recogido",
+      "nosotros": "hubiéramos recogido",
+      "vosotros": "hubierais recogido",
+      "uds": "hubieran recogido"
+    },
+    "imperfectoAlt": {
+      "yo": "recogiese",
+      "tu": "recogieses",
+      "ud": "recogiese",
+      "nosotros": "recogiésemos",
+      "vosotros": "recogieseis",
+      "uds": "recogiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese recogido",
+      "tu": "hubieses recogido",
+      "ud": "hubiese recogido",
+      "nosotros": "hubiésemos recogido",
+      "vosotros": "hubieseis recogido",
+      "uds": "hubiesen recogido"
+    }
+  },
+  "afirmativo": {
+    "tu": "recoge",
+    "vosotros": "recoged",
+    "ud": "recoja",
+    "uds": "recojan"
+  },
+  "negativo": {
+    "tu": "no recojas",
+    "vosotros": "no recojáis",
+    "ud": "no recoja",
+    "uds": "no recojan"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > j delante de a y o.",
+    "infinitivo": "to pick up",
+    "gerundio": "picking up",
+    "participioPasado": "picked up",
+    "indicativo": {
+      "presente": "I pick up, am picking up",
+      "futuro": "I will pick up",
+      "imperfecto": "I was picking up, used to pick up, picked up",
+      "preterito": "I picked up",
+      "condicional": "I would pick up",
+      "presentePerfecto": "I have picked up",
+      "futuroPerfecto": "I will have picked up",
+      "pluscuamperfecto": "I had picked up",
+      "preteritoAnterior": "I had picked up",
+      "condicionalPerfecto": "I would have picked up"
+    },
+    "subjuntivo": {
+      "presente": "I pick up, am picking up",
+      "imperfecto": "I picked up, was picking up",
+      "futuro": "I will pick up",
+      "presentePerfecto": "I have picked up, picked up",
+      "futuroPerfecto": "I will have picked up",
+      "pluscuamperfecto": "I had picked up"
+    },
+    "afirmativo": "Pick up!",
+    "negativo": "Don't pick up!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cancelar",
+  "gerundio": "cancelando",
+  "participioPasado": "cancelado",
+  "indicativo": {
+    "presente": {
+      "yo": "cancelo",
+      "tu": "cancelas",
+      "ud": "cancela",
+      "nosotros": "cancelamos",
+      "vosotros": "canceláis",
+      "uds": "cancelan"
+    },
+    "futuro": {
+      "yo": "cancelaré",
+      "tu": "cancelarás",
+      "ud": "cancelará",
+      "nosotros": "cancelaremos",
+      "vosotros": "cancelaréis",
+      "uds": "cancelarán"
+    },
+    "imperfecto": {
+      "yo": "cancelaba",
+      "tu": "cancelabas",
+      "ud": "cancelaba",
+      "nosotros": "cancelábamos",
+      "vosotros": "cancelabais",
+      "uds": "cancelaban"
+    },
+    "preterito": {
+      "yo": "cancelé",
+      "tu": "cancelaste",
+      "ud": "canceló",
+      "nosotros": "cancelamos",
+      "vosotros": "cancelasteis",
+      "uds": "cancelaron"
+    },
+    "condicional": {
+      "yo": "cancelaría",
+      "tu": "cancelarías",
+      "ud": "cancelaría",
+      "nosotros": "cancelaríamos",
+      "vosotros": "cancelaríais",
+      "uds": "cancelarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cancelado",
+      "tu": "has cancelado",
+      "ud": "ha cancelado",
+      "nosotros": "hemos cancelado",
+      "vosotros": "habéis cancelado",
+      "uds": "han cancelado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cancelado",
+      "tu": "habrás cancelado",
+      "ud": "habrá cancelado",
+      "nosotros": "habremos cancelado",
+      "vosotros": "habréis cancelado",
+      "uds": "habrán cancelado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cancelado",
+      "tu": "habías cancelado",
+      "ud": "había cancelado",
+      "nosotros": "habíamos cancelado",
+      "vosotros": "habíais cancelado",
+      "uds": "habían cancelado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cancelado",
+      "tu": "hubiste cancelado",
+      "ud": "hubo cancelado",
+      "nosotros": "hubimos cancelado",
+      "vosotros": "hubisteis cancelado",
+      "uds": "hubieron cancelado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cancelado",
+      "tu": "habrías cancelado",
+      "ud": "habría cancelado",
+      "nosotros": "habríamos cancelado",
+      "vosotros": "habríais cancelado",
+      "uds": "habrían cancelado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cancele",
+      "tu": "canceles",
+      "ud": "cancele",
+      "nosotros": "cancelemos",
+      "vosotros": "canceléis",
+      "uds": "cancelen"
+    },
+    "imperfecto": {
+      "yo": "cancelara",
+      "tu": "cancelaras",
+      "ud": "cancelara",
+      "nosotros": "canceláramos",
+      "vosotros": "cancelarais",
+      "uds": "cancelaran"
+    },
+    "futuro": {
+      "yo": "cancelare",
+      "tu": "cancelares",
+      "ud": "cancelare",
+      "nosotros": "canceláremos",
+      "vosotros": "cancelareis",
+      "uds": "cancelaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cancelado",
+      "tu": "hayas cancelado",
+      "ud": "haya cancelado",
+      "nosotros": "hayamos cancelado",
+      "vosotros": "hayáis cancelado",
+      "uds": "hayan cancelado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cancelado",
+      "tu": "hubieres cancelado",
+      "ud": "hubiere cancelado",
+      "nosotros": "hubiéremos cancelado",
+      "vosotros": "hubiereis cancelado",
+      "uds": "hubieren cancelado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cancelado",
+      "tu": "hubieras cancelado",
+      "ud": "hubiera cancelado",
+      "nosotros": "hubiéramos cancelado",
+      "vosotros": "hubierais cancelado",
+      "uds": "hubieran cancelado"
+    },
+    "imperfectoAlt": {
+      "yo": "cancelase",
+      "tu": "cancelases",
+      "ud": "cancelase",
+      "nosotros": "cancelásemos",
+      "vosotros": "cancelaseis",
+      "uds": "cancelasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cancelado",
+      "tu": "hubieses cancelado",
+      "ud": "hubiese cancelado",
+      "nosotros": "hubiésemos cancelado",
+      "vosotros": "hubieseis cancelado",
+      "uds": "hubiesen cancelado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cancela",
+    "vosotros": "cancelad",
+    "ud": "cancele",
+    "uds": "cancelen"
+  },
+  "negativo": {
+    "tu": "no canceles",
+    "vosotros": "no canceléis",
+    "ud": "no cancele",
+    "uds": "no cancelen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to cancel; to wipe out, write off (debt)",
+    "gerundio": "cancelling",
+    "participioPasado": "cancelled",
+    "indicativo": {
+      "presente": "I cancel, am cancelling",
+      "futuro": "I will cancel",
+      "imperfecto": "I was cancelling, used to cancel, cancelled",
+      "preterito": "I cancelled",
+      "condicional": "I would cancel",
+      "presentePerfecto": "I have cancelled",
+      "futuroPerfecto": "I will have cancelled",
+      "pluscuamperfecto": "I had cancelled",
+      "preteritoAnterior": "I had cancelled",
+      "condicionalPerfecto": "I would have cancelled"
+    },
+    "subjuntivo": {
+      "presente": "I cancel, am cancelling",
+      "imperfecto": "I cancelled, was cancelling",
+      "futuro": "I will cancel",
+      "presentePerfecto": "I have cancelled, cancelled",
+      "futuroPerfecto": "I will have cancelled",
+      "pluscuamperfecto": "I had cancelled"
+    },
+    "afirmativo": "Cancel!",
+    "negativo": "Don't cancel!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "predecir",
+  "gerundio": "prediciendo",
+  "participioPasado": "predicho",
+  "indicativo": {
+    "presente": {
+      "yo": "predigo",
+      "tu": "predices",
+      "ud": "predice",
+      "nosotros": "predecimos",
+      "vosotros": "predecís",
+      "uds": "predicen"
+    },
+    "futuro": {
+      "yo": "predeciré",
+      "tu": "predecirás",
+      "ud": "predecirá",
+      "nosotros": "predeciremos",
+      "vosotros": "predeciréis",
+      "uds": "predecirán"
+    },
+    "imperfecto": {
+      "yo": "predecía",
+      "tu": "predecías",
+      "ud": "predecía",
+      "nosotros": "predecíamos",
+      "vosotros": "predecíais",
+      "uds": "predecían"
+    },
+    "preterito": {
+      "yo": "predije",
+      "tu": "predijiste",
+      "ud": "predijo",
+      "nosotros": "predijimos",
+      "vosotros": "predijisteis",
+      "uds": "predijeron"
+    },
+    "condicional": {
+      "yo": "predeciría",
+      "tu": "predecirías",
+      "ud": "predeciría",
+      "nosotros": "predeciríamos",
+      "vosotros": "predeciríais",
+      "uds": "predecirían"
+    },
+    "presentePerfecto": {
+      "yo": "he predicho",
+      "tu": "has predicho",
+      "ud": "ha predicho",
+      "nosotros": "hemos predicho",
+      "vosotros": "habéis predicho",
+      "uds": "han predicho"
+    },
+    "futuroPerfecto": {
+      "yo": "habré predicho",
+      "tu": "habrás predicho",
+      "ud": "habrá predicho",
+      "nosotros": "habremos predicho",
+      "vosotros": "habréis predicho",
+      "uds": "habrán predicho"
+    },
+    "pluscuamperfecto": {
+      "yo": "había predicho",
+      "tu": "habías predicho",
+      "ud": "había predicho",
+      "nosotros": "habíamos predicho",
+      "vosotros": "habíais predicho",
+      "uds": "habían predicho"
+    },
+    "preteritoAnterior": {
+      "yo": "hube predicho",
+      "tu": "hubiste predicho",
+      "ud": "hubo predicho",
+      "nosotros": "hubimos predicho",
+      "vosotros": "hubisteis predicho",
+      "uds": "hubieron predicho"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría predicho",
+      "tu": "habrías predicho",
+      "ud": "habría predicho",
+      "nosotros": "habríamos predicho",
+      "vosotros": "habríais predicho",
+      "uds": "habrían predicho"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "prediga",
+      "tu": "predigas",
+      "ud": "prediga",
+      "nosotros": "predigamos",
+      "vosotros": "predigáis",
+      "uds": "predigan"
+    },
+    "imperfecto": {
+      "yo": "predijera",
+      "tu": "predijeras",
+      "ud": "predijera",
+      "nosotros": "predijéramos",
+      "vosotros": "predijerais",
+      "uds": "predijeran"
+    },
+    "futuro": {
+      "yo": "predijere",
+      "tu": "predijeres",
+      "ud": "predijere",
+      "nosotros": "predijéremos",
+      "vosotros": "predijereis",
+      "uds": "predijeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya predicho",
+      "tu": "hayas predicho",
+      "ud": "haya predicho",
+      "nosotros": "hayamos predicho",
+      "vosotros": "hayáis predicho",
+      "uds": "hayan predicho"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere predicho",
+      "tu": "hubieres predicho",
+      "ud": "hubiere predicho",
+      "nosotros": "hubiéremos predicho",
+      "vosotros": "hubiereis predicho",
+      "uds": "hubieren predicho"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera predicho",
+      "tu": "hubieras predicho",
+      "ud": "hubiera predicho",
+      "nosotros": "hubiéramos predicho",
+      "vosotros": "hubierais predicho",
+      "uds": "hubieran predicho"
+    },
+    "imperfectoAlt": {
+      "yo": "predijese",
+      "tu": "predijeses",
+      "ud": "predijese",
+      "nosotros": "predijésemos",
+      "vosotros": "predijeseis",
+      "uds": "predijesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese predicho",
+      "tu": "hubieses predicho",
+      "ud": "hubiese predicho",
+      "nosotros": "hubiésemos predicho",
+      "vosotros": "hubieseis predicho",
+      "uds": "hubiesen predicho"
+    }
+  },
+  "afirmativo": {
+    "tu": "predice",
+    "vosotros": "predecid",
+    "ud": "prediga",
+    "uds": "predigan"
+  },
+  "negativo": {
+    "tu": "no predigas",
+    "vosotros": "no predigáis",
+    "ud": "no prediga",
+    "uds": "no predigan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Formas irregulares: predigo, prediga, predigas, etc. Radical fuerte en el pretérito: predij-. Participio pasado irregular: predicho.",
+    "infinitivo": "to predict, foretell, forecast",
+    "gerundio": "predicting",
+    "participioPasado": "predicted",
+    "indicativo": {
+      "presente": "I predict, am predicting",
+      "futuro": "I will predict",
+      "imperfecto": "I was predicting, used to predict, predicted",
+      "preterito": "I predicted",
+      "condicional": "I would predict",
+      "presentePerfecto": "I have predicted",
+      "futuroPerfecto": "I will have predicted",
+      "pluscuamperfecto": "I had predicted",
+      "preteritoAnterior": "I had predicted",
+      "condicionalPerfecto": "I would have predicted"
+    },
+    "subjuntivo": {
+      "presente": "I predict, am predicting",
+      "imperfecto": "I predicted, was predicting",
+      "futuro": "I will predict",
+      "presentePerfecto": "I have predicted, predicted",
+      "futuroPerfecto": "I will have predicted",
+      "pluscuamperfecto": "I had predicted"
+    },
+    "afirmativo": "Predict!",
+    "negativo": "Don't predict!"
+  },
+  "attribution": "Fred Jehle"
+}

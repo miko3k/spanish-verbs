@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "subir",
+  "gerundio": "subiendo",
+  "participioPasado": "subido",
+  "indicativo": {
+    "presente": {
+      "yo": "subo",
+      "tu": "subes",
+      "ud": "sube",
+      "nosotros": "subimos",
+      "vosotros": "subís",
+      "uds": "suben"
+    },
+    "futuro": {
+      "yo": "subiré",
+      "tu": "subirás",
+      "ud": "subirá",
+      "nosotros": "subiremos",
+      "vosotros": "subiréis",
+      "uds": "subirán"
+    },
+    "imperfecto": {
+      "yo": "subía",
+      "tu": "subías",
+      "ud": "subía",
+      "nosotros": "subíamos",
+      "vosotros": "subíais",
+      "uds": "subían"
+    },
+    "preterito": {
+      "yo": "subí",
+      "tu": "subiste",
+      "ud": "subió",
+      "nosotros": "subimos",
+      "vosotros": "subisteis",
+      "uds": "subieron"
+    },
+    "condicional": {
+      "yo": "subiría",
+      "tu": "subirías",
+      "ud": "subiría",
+      "nosotros": "subiríamos",
+      "vosotros": "subiríais",
+      "uds": "subirían"
+    },
+    "presentePerfecto": {
+      "yo": "he subido",
+      "tu": "has subido",
+      "ud": "ha subido",
+      "nosotros": "hemos subido",
+      "vosotros": "habéis subido",
+      "uds": "han subido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré subido",
+      "tu": "habrás subido",
+      "ud": "habrá subido",
+      "nosotros": "habremos subido",
+      "vosotros": "habréis subido",
+      "uds": "habrán subido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había subido",
+      "tu": "habías subido",
+      "ud": "había subido",
+      "nosotros": "habíamos subido",
+      "vosotros": "habíais subido",
+      "uds": "habían subido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube subido",
+      "tu": "hubiste subido",
+      "ud": "hubo subido",
+      "nosotros": "hubimos subido",
+      "vosotros": "hubisteis subido",
+      "uds": "hubieron subido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría subido",
+      "tu": "habrías subido",
+      "ud": "habría subido",
+      "nosotros": "habríamos subido",
+      "vosotros": "habríais subido",
+      "uds": "habrían subido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "suba",
+      "tu": "subas",
+      "ud": "suba",
+      "nosotros": "subamos",
+      "vosotros": "subáis",
+      "uds": "suban"
+    },
+    "imperfecto": {
+      "yo": "subiera",
+      "tu": "subieras",
+      "ud": "subiera",
+      "nosotros": "subiéramos",
+      "vosotros": "subierais",
+      "uds": "subieran"
+    },
+    "futuro": {
+      "yo": "subiere",
+      "tu": "subieres",
+      "ud": "subiere",
+      "nosotros": "subiéremos",
+      "vosotros": "subiereis",
+      "uds": "subieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya subido",
+      "tu": "hayas subido",
+      "ud": "haya subido",
+      "nosotros": "hayamos subido",
+      "vosotros": "hayáis subido",
+      "uds": "hayan subido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere subido",
+      "tu": "hubieres subido",
+      "ud": "hubiere subido",
+      "nosotros": "hubiéremos subido",
+      "vosotros": "hubiereis subido",
+      "uds": "hubieren subido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera subido",
+      "tu": "hubieras subido",
+      "ud": "hubiera subido",
+      "nosotros": "hubiéramos subido",
+      "vosotros": "hubierais subido",
+      "uds": "hubieran subido"
+    },
+    "imperfectoAlt": {
+      "yo": "subiese",
+      "tu": "subieses",
+      "ud": "subiese",
+      "nosotros": "subiésemos",
+      "vosotros": "subieseis",
+      "uds": "subiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese subido",
+      "tu": "hubieses subido",
+      "ud": "hubiese subido",
+      "nosotros": "hubiésemos subido",
+      "vosotros": "hubieseis subido",
+      "uds": "hubiesen subido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sube",
+    "vosotros": "subid",
+    "ud": "suba",
+    "uds": "suban"
+  },
+  "negativo": {
+    "tu": "no subas",
+    "vosotros": "no subáis",
+    "ud": "no suba",
+    "uds": "no suban"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to go up, rise, move up, climb; to lift up, raise up",
+    "gerundio": "going up",
+    "participioPasado": "went up",
+    "indicativo": {
+      "presente": "I go up, am going up",
+      "futuro": "I will go up",
+      "imperfecto": "I was going up, used to go up, went up",
+      "preterito": "I went up",
+      "condicional": "I would go up",
+      "presentePerfecto": "I have gone up",
+      "futuroPerfecto": "I will have gone up",
+      "pluscuamperfecto": "I had gone up",
+      "preteritoAnterior": "I had gone up",
+      "condicionalPerfecto": "I would have gone up"
+    },
+    "subjuntivo": {
+      "presente": "I go up, am going up",
+      "imperfecto": "I went up, was going up",
+      "futuro": "I will go up",
+      "presentePerfecto": "I have gone up, went up",
+      "futuroPerfecto": "I will have gone up",
+      "pluscuamperfecto": "I had gone up"
+    },
+    "afirmativo": "Go up!",
+    "negativo": "Don't go up!"
+  },
+  "attribution": "Fred Jehle"
+}

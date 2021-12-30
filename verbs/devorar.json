@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "devorar",
+  "gerundio": "devorando",
+  "participioPasado": "devorado",
+  "indicativo": {
+    "presente": {
+      "yo": "devoro",
+      "tu": "devoras",
+      "ud": "devora",
+      "nosotros": "devoramos",
+      "vosotros": "devoráis",
+      "uds": "devoran"
+    },
+    "futuro": {
+      "yo": "devoraré",
+      "tu": "devorarás",
+      "ud": "devorará",
+      "nosotros": "devoraremos",
+      "vosotros": "devoraréis",
+      "uds": "devorarán"
+    },
+    "imperfecto": {
+      "yo": "devoraba",
+      "tu": "devorabas",
+      "ud": "devoraba",
+      "nosotros": "devorábamos",
+      "vosotros": "devorabais",
+      "uds": "devoraban"
+    },
+    "preterito": {
+      "yo": "devoré",
+      "tu": "devoraste",
+      "ud": "devoró",
+      "nosotros": "devoramos",
+      "vosotros": "devorasteis",
+      "uds": "devoraron"
+    },
+    "condicional": {
+      "yo": "devoraría",
+      "tu": "devorarías",
+      "ud": "devoraría",
+      "nosotros": "devoraríamos",
+      "vosotros": "devoraríais",
+      "uds": "devorarían"
+    },
+    "presentePerfecto": {
+      "yo": "he devorado",
+      "tu": "has devorado",
+      "ud": "ha devorado",
+      "nosotros": "hemos devorado",
+      "vosotros": "habéis devorado",
+      "uds": "han devorado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré devorado",
+      "tu": "habrás devorado",
+      "ud": "habrá devorado",
+      "nosotros": "habremos devorado",
+      "vosotros": "habréis devorado",
+      "uds": "habrán devorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había devorado",
+      "tu": "habías devorado",
+      "ud": "había devorado",
+      "nosotros": "habíamos devorado",
+      "vosotros": "habíais devorado",
+      "uds": "habían devorado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube devorado",
+      "tu": "hubiste devorado",
+      "ud": "hubo devorado",
+      "nosotros": "hubimos devorado",
+      "vosotros": "hubisteis devorado",
+      "uds": "hubieron devorado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría devorado",
+      "tu": "habrías devorado",
+      "ud": "habría devorado",
+      "nosotros": "habríamos devorado",
+      "vosotros": "habríais devorado",
+      "uds": "habrían devorado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "devore",
+      "tu": "devores",
+      "ud": "devore",
+      "nosotros": "devoremos",
+      "vosotros": "devoréis",
+      "uds": "devoren"
+    },
+    "imperfecto": {
+      "yo": "devorara",
+      "tu": "devoraras",
+      "ud": "devorara",
+      "nosotros": "devoráramos",
+      "vosotros": "devorarais",
+      "uds": "devoraran"
+    },
+    "futuro": {
+      "yo": "devorare",
+      "tu": "devorares",
+      "ud": "devorare",
+      "nosotros": "devoráremos",
+      "vosotros": "devorareis",
+      "uds": "devoraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya devorado",
+      "tu": "hayas devorado",
+      "ud": "haya devorado",
+      "nosotros": "hayamos devorado",
+      "vosotros": "hayáis devorado",
+      "uds": "hayan devorado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere devorado",
+      "tu": "hubieres devorado",
+      "ud": "hubiere devorado",
+      "nosotros": "hubiéremos devorado",
+      "vosotros": "hubiereis devorado",
+      "uds": "hubieren devorado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera devorado",
+      "tu": "hubieras devorado",
+      "ud": "hubiera devorado",
+      "nosotros": "hubiéramos devorado",
+      "vosotros": "hubierais devorado",
+      "uds": "hubieran devorado"
+    },
+    "imperfectoAlt": {
+      "yo": "devorase",
+      "tu": "devorases",
+      "ud": "devorase",
+      "nosotros": "devorásemos",
+      "vosotros": "devoraseis",
+      "uds": "devorasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese devorado",
+      "tu": "hubieses devorado",
+      "ud": "hubiese devorado",
+      "nosotros": "hubiésemos devorado",
+      "vosotros": "hubieseis devorado",
+      "uds": "hubiesen devorado"
+    }
+  },
+  "afirmativo": {
+    "tu": "devora",
+    "vosotros": "devorad",
+    "ud": "devore",
+    "uds": "devoren"
+  },
+  "negativo": {
+    "tu": "no devores",
+    "vosotros": "no devoréis",
+    "ud": "no devore",
+    "uds": "no devoren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to devour, eat up, gobble up",
+    "gerundio": "devouring",
+    "participioPasado": "devoured",
+    "indicativo": {
+      "presente": "I devour, am devouring",
+      "futuro": "I will devour",
+      "imperfecto": "I was devouring, used to devour, devoured",
+      "preterito": "I devoured",
+      "condicional": "I would devour",
+      "presentePerfecto": "I have devoured",
+      "futuroPerfecto": "I will have devoured",
+      "pluscuamperfecto": "I had devoured",
+      "preteritoAnterior": "I had devoured",
+      "condicionalPerfecto": "I would have devoured"
+    },
+    "subjuntivo": {
+      "presente": "I devour, am devouring",
+      "imperfecto": "I devoured, was devouring",
+      "futuro": "I will devour",
+      "presentePerfecto": "I have devoured, devoured",
+      "futuroPerfecto": "I will have devoured",
+      "pluscuamperfecto": "I had devoured"
+    },
+    "afirmativo": "Devour!",
+    "negativo": "Don't devour!"
+  },
+  "attribution": "Fred Jehle"
+}

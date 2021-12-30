@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "discutir",
+  "gerundio": "discutiendo",
+  "participioPasado": "discutido",
+  "indicativo": {
+    "presente": {
+      "yo": "discuto",
+      "tu": "discutes",
+      "ud": "discute",
+      "nosotros": "discutimos",
+      "vosotros": "discutís",
+      "uds": "discuten"
+    },
+    "futuro": {
+      "yo": "discutiré",
+      "tu": "discutirás",
+      "ud": "discutirá",
+      "nosotros": "discutiremos",
+      "vosotros": "discutiréis",
+      "uds": "discutirán"
+    },
+    "imperfecto": {
+      "yo": "discutía",
+      "tu": "discutías",
+      "ud": "discutía",
+      "nosotros": "discutíamos",
+      "vosotros": "discutíais",
+      "uds": "discutían"
+    },
+    "preterito": {
+      "yo": "discutí",
+      "tu": "discutiste",
+      "ud": "discutió",
+      "nosotros": "discutimos",
+      "vosotros": "discutisteis",
+      "uds": "discutieron"
+    },
+    "condicional": {
+      "yo": "discutiría",
+      "tu": "discutirías",
+      "ud": "discutiría",
+      "nosotros": "discutiríamos",
+      "vosotros": "discutiríais",
+      "uds": "discutirían"
+    },
+    "presentePerfecto": {
+      "yo": "he discutido",
+      "tu": "has discutido",
+      "ud": "ha discutido",
+      "nosotros": "hemos discutido",
+      "vosotros": "habéis discutido",
+      "uds": "han discutido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré discutido",
+      "tu": "habrás discutido",
+      "ud": "habrá discutido",
+      "nosotros": "habremos discutido",
+      "vosotros": "habréis discutido",
+      "uds": "habrán discutido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había discutido",
+      "tu": "habías discutido",
+      "ud": "había discutido",
+      "nosotros": "habíamos discutido",
+      "vosotros": "habíais discutido",
+      "uds": "habían discutido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube discutido",
+      "tu": "hubiste discutido",
+      "ud": "hubo discutido",
+      "nosotros": "hubimos discutido",
+      "vosotros": "hubisteis discutido",
+      "uds": "hubieron discutido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría discutido",
+      "tu": "habrías discutido",
+      "ud": "habría discutido",
+      "nosotros": "habríamos discutido",
+      "vosotros": "habríais discutido",
+      "uds": "habrían discutido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "discuta",
+      "tu": "discutas",
+      "ud": "discuta",
+      "nosotros": "discutamos",
+      "vosotros": "discutáis",
+      "uds": "discutan"
+    },
+    "imperfecto": {
+      "yo": "discutiera",
+      "tu": "discutieras",
+      "ud": "discutiera",
+      "nosotros": "discutiéramos",
+      "vosotros": "discutierais",
+      "uds": "discutieran"
+    },
+    "futuro": {
+      "yo": "discutiere",
+      "tu": "discutieres",
+      "ud": "discutiere",
+      "nosotros": "discutiéremos",
+      "vosotros": "discutiereis",
+      "uds": "discutieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya discutido",
+      "tu": "hayas discutido",
+      "ud": "haya discutido",
+      "nosotros": "hayamos discutido",
+      "vosotros": "hayáis discutido",
+      "uds": "hayan discutido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere discutido",
+      "tu": "hubieres discutido",
+      "ud": "hubiere discutido",
+      "nosotros": "hubiéremos discutido",
+      "vosotros": "hubiereis discutido",
+      "uds": "hubieren discutido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera discutido",
+      "tu": "hubieras discutido",
+      "ud": "hubiera discutido",
+      "nosotros": "hubiéramos discutido",
+      "vosotros": "hubierais discutido",
+      "uds": "hubieran discutido"
+    },
+    "imperfectoAlt": {
+      "yo": "discutiese",
+      "tu": "discutieses",
+      "ud": "discutiese",
+      "nosotros": "discutiésemos",
+      "vosotros": "discutieseis",
+      "uds": "discutiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese discutido",
+      "tu": "hubieses discutido",
+      "ud": "hubiese discutido",
+      "nosotros": "hubiésemos discutido",
+      "vosotros": "hubieseis discutido",
+      "uds": "hubiesen discutido"
+    }
+  },
+  "afirmativo": {
+    "tu": "discute",
+    "vosotros": "discutid",
+    "ud": "discuta",
+    "uds": "discutan"
+  },
+  "negativo": {
+    "tu": "no discutas",
+    "vosotros": "no discutáis",
+    "ud": "no discuta",
+    "uds": "no discutan"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to discuss, debate, argue; to conradict",
+    "gerundio": "discussing",
+    "participioPasado": "discussed",
+    "indicativo": {
+      "presente": "I discuss, am discussing",
+      "futuro": "I will discuss",
+      "imperfecto": "I was discussing, used to discuss, discussed",
+      "preterito": "I discussed",
+      "condicional": "I would discuss",
+      "presentePerfecto": "I have discussed",
+      "futuroPerfecto": "I will have discussed",
+      "pluscuamperfecto": "I had discussed",
+      "preteritoAnterior": "I had discussed",
+      "condicionalPerfecto": "I would have discussed"
+    },
+    "subjuntivo": {
+      "presente": "I discuss, am discussing",
+      "imperfecto": "I discussed, was discussing",
+      "futuro": "I will discuss",
+      "presentePerfecto": "I have discussed, discussed",
+      "futuroPerfecto": "I will have discussed",
+      "pluscuamperfecto": "I had discussed"
+    },
+    "afirmativo": "Discuss!",
+    "negativo": "Don't discuss!"
+  },
+  "attribution": "Fred Jehle"
+}

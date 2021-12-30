@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "competir",
+  "gerundio": "compitiendo",
+  "participioPasado": "competido",
+  "indicativo": {
+    "presente": {
+      "yo": "compito",
+      "tu": "compites",
+      "ud": "compite",
+      "nosotros": "competimos",
+      "vosotros": "competís",
+      "uds": "compiten"
+    },
+    "futuro": {
+      "yo": "competiré",
+      "tu": "competirás",
+      "ud": "competirá",
+      "nosotros": "competiremos",
+      "vosotros": "competiréis",
+      "uds": "competirán"
+    },
+    "imperfecto": {
+      "yo": "competía",
+      "tu": "competías",
+      "ud": "competía",
+      "nosotros": "competíamos",
+      "vosotros": "competíais",
+      "uds": "competían"
+    },
+    "preterito": {
+      "yo": "competí",
+      "tu": "competiste",
+      "ud": "compitió",
+      "nosotros": "competimos",
+      "vosotros": "competisteis",
+      "uds": "compitieron"
+    },
+    "condicional": {
+      "yo": "competiría",
+      "tu": "competirías",
+      "ud": "competiría",
+      "nosotros": "competiríamos",
+      "vosotros": "competiríais",
+      "uds": "competirían"
+    },
+    "presentePerfecto": {
+      "yo": "he competido",
+      "tu": "has competido",
+      "ud": "ha competido",
+      "nosotros": "hemos competido",
+      "vosotros": "habéis competido",
+      "uds": "han competido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré competido",
+      "tu": "habrás competido",
+      "ud": "habrá competido",
+      "nosotros": "habremos competido",
+      "vosotros": "habréis competido",
+      "uds": "habrán competido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había competido",
+      "tu": "habías competido",
+      "ud": "había competido",
+      "nosotros": "habíamos competido",
+      "vosotros": "habíais competido",
+      "uds": "habían competido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube competido",
+      "tu": "hubiste competido",
+      "ud": "hubo competido",
+      "nosotros": "hubimos competido",
+      "vosotros": "hubisteis competido",
+      "uds": "hubieron competido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría competido",
+      "tu": "habrías competido",
+      "ud": "habría competido",
+      "nosotros": "habríamos competido",
+      "vosotros": "habríais competido",
+      "uds": "habrían competido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "compita",
+      "tu": "compitas",
+      "ud": "compita",
+      "nosotros": "compitamos",
+      "vosotros": "compitáis",
+      "uds": "compitan"
+    },
+    "imperfecto": {
+      "yo": "compitiera",
+      "tu": "compitieras",
+      "ud": "compitiera",
+      "nosotros": "compitiéramos",
+      "vosotros": "compitierais",
+      "uds": "compitieran"
+    },
+    "futuro": {
+      "yo": "compitiere",
+      "tu": "compitieres",
+      "ud": "compitiere",
+      "nosotros": "compitiéremos",
+      "vosotros": "compitiereis",
+      "uds": "compitieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya competido",
+      "tu": "hayas competido",
+      "ud": "haya competido",
+      "nosotros": "hayamos competido",
+      "vosotros": "hayáis competido",
+      "uds": "hayan competido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere competido",
+      "tu": "hubieres competido",
+      "ud": "hubiere competido",
+      "nosotros": "hubiéremos competido",
+      "vosotros": "hubiereis competido",
+      "uds": "hubieren competido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera competido",
+      "tu": "hubieras competido",
+      "ud": "hubiera competido",
+      "nosotros": "hubiéramos competido",
+      "vosotros": "hubierais competido",
+      "uds": "hubieran competido"
+    },
+    "imperfectoAlt": {
+      "yo": "compitiese",
+      "tu": "compitieses",
+      "ud": "compitiese",
+      "nosotros": "compitiésemos",
+      "vosotros": "compitieseis",
+      "uds": "compitiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese competido",
+      "tu": "hubieses competido",
+      "ud": "hubiese competido",
+      "nosotros": "hubiésemos competido",
+      "vosotros": "hubieseis competido",
+      "uds": "hubiesen competido"
+    }
+  },
+  "afirmativo": {
+    "tu": "compite",
+    "vosotros": "competid",
+    "ud": "compita",
+    "uds": "compitan"
+  },
+  "negativo": {
+    "tu": "no compitas",
+    "vosotros": "no compitáis",
+    "ud": "no compita",
+    "uds": "no compitan"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i.",
+    "infinitivo": "to compete",
+    "gerundio": "competing",
+    "participioPasado": "competed",
+    "indicativo": {
+      "presente": "I compete, am competing",
+      "futuro": "I will compete",
+      "imperfecto": "I was competing, used to compete, competed",
+      "preterito": "I competed",
+      "condicional": "I would compete",
+      "presentePerfecto": "I have competed",
+      "futuroPerfecto": "I will have competed",
+      "pluscuamperfecto": "I had competed",
+      "preteritoAnterior": "I had competed",
+      "condicionalPerfecto": "I would have competed"
+    },
+    "subjuntivo": {
+      "presente": "I compete, am competing",
+      "imperfecto": "I competed, was competing",
+      "futuro": "I will compete",
+      "presentePerfecto": "I have competed, competed",
+      "futuroPerfecto": "I will have competed",
+      "pluscuamperfecto": "I had competed"
+    },
+    "afirmativo": "Compete!",
+    "negativo": "Don't compete!"
+  },
+  "attribution": "Fred Jehle"
+}

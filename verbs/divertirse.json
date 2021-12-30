@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "divertirse",
+  "gerundio": "divirtiéndose",
+  "participioPasado": "divertido",
+  "indicativo": {
+    "presente": {
+      "yo": "me divierto",
+      "tu": "te diviertes",
+      "ud": "se divierte",
+      "nosotros": "nos divertimos",
+      "vosotros": "os divertís",
+      "uds": "se divierten"
+    },
+    "futuro": {
+      "yo": "me divertiré",
+      "tu": "te divertirás",
+      "ud": "se divertirá",
+      "nosotros": "nos divertiremos",
+      "vosotros": "os divertiréis",
+      "uds": "se divertirán"
+    },
+    "imperfecto": {
+      "yo": "me divertía",
+      "tu": "te divertías",
+      "ud": "se divertía",
+      "nosotros": "nos divertíamos",
+      "vosotros": "os divertíais",
+      "uds": "se divertían"
+    },
+    "preterito": {
+      "yo": "me divertí",
+      "tu": "te divertiste",
+      "ud": "se divirtió",
+      "nosotros": "nos divertimos",
+      "vosotros": "os divertisteis",
+      "uds": "se divirtieron"
+    },
+    "condicional": {
+      "yo": "me divertiría",
+      "tu": "te divertirías",
+      "ud": "se divertiría",
+      "nosotros": "nos divertiríamos",
+      "vosotros": "os divertiríais",
+      "uds": "se divertirían"
+    },
+    "presentePerfecto": {
+      "yo": "me he divertido",
+      "tu": "te has divertido",
+      "ud": "se ha divertido",
+      "nosotros": "nos hemos divertido",
+      "vosotros": "os habéis divertido",
+      "uds": "se han divertido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré divertido",
+      "tu": "te habrás divertido",
+      "ud": "se habrá divertido",
+      "nosotros": "nos habremos divertido",
+      "vosotros": "os habréis divertido",
+      "uds": "se habrán divertido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había divertido",
+      "tu": "te habías divertido",
+      "ud": "se había divertido",
+      "nosotros": "nos habíamos divertido",
+      "vosotros": "os habíais divertido",
+      "uds": "se habían divertido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube divertido",
+      "tu": "te hubiste divertido",
+      "ud": "se hubo divertido",
+      "nosotros": "nos hubimos divertido",
+      "vosotros": "os hubisteis divertido",
+      "uds": "se hubieron divertido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría divertido",
+      "tu": "te habrías divertido",
+      "ud": "se habría divertido",
+      "nosotros": "nos habríamos divertido",
+      "vosotros": "os habríais divertido",
+      "uds": "se habrían divertido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me divierta",
+      "tu": "te diviertas",
+      "ud": "se divierta",
+      "nosotros": "nos divirtamos",
+      "vosotros": "os divirtáis",
+      "uds": "se diviertan"
+    },
+    "imperfecto": {
+      "yo": "me divirtiera",
+      "tu": "te divirtieras",
+      "ud": "se divirtiera",
+      "nosotros": "nos divirtiéramos",
+      "vosotros": "os divirtierais",
+      "uds": "se divirtieran"
+    },
+    "futuro": {
+      "yo": "me divirtiere",
+      "tu": "te divirtieres",
+      "ud": "se divirtiere",
+      "nosotros": "nos divirtiéremos",
+      "vosotros": "os divirtiereis",
+      "uds": "se divirtieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya divertido",
+      "tu": "te hayas divertido",
+      "ud": "se haya divertido",
+      "nosotros": "nos hayamos divertido",
+      "vosotros": "os hayáis divertido",
+      "uds": "se hayan divertido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere divertido",
+      "tu": "te hubieres divertido",
+      "ud": "se hubiere divertido",
+      "nosotros": "nos hubiéremos divertido",
+      "vosotros": "os hubiereis divertido",
+      "uds": "se hubieren divertido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera divertido",
+      "tu": "te hubieras divertido",
+      "ud": "se hubiera divertido",
+      "nosotros": "nos hubiéramos divertido",
+      "vosotros": "os hubierais divertido",
+      "uds": "se hubieran divertido"
+    },
+    "imperfectoAlt": {
+      "yo": "me divirtiese",
+      "tu": "te divirtieses",
+      "ud": "se divirtiese",
+      "nosotros": "nos divirtiésemos",
+      "vosotros": "os divirtieseis",
+      "uds": "se divirtiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese divertido",
+      "tu": "te hubieses divertido",
+      "ud": "se hubiese divertido",
+      "nosotros": "nos hubiésemos divertido",
+      "vosotros": "os hubieseis divertido",
+      "uds": "se hubiesen divertido"
+    }
+  },
+  "afirmativo": {
+    "tu": "diviértete",
+    "vosotros": "divertíos",
+    "ud": "diviértase",
+    "uds": "diviértanse"
+  },
+  "negativo": {
+    "tu": "no te diviertas",
+    "vosotros": "no os divirtáis",
+    "ud": "no se divierta",
+    "uds": "no se diviertan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie > i. Note: The nonreflexive form of this verb, divertir, is used in the sense of to entertain.",
+    "infinitivo": "to have fun, have a good time, enjoy oneself",
+    "gerundio": "having fun",
+    "participioPasado": "fun, had fun",
+    "indicativo": {
+      "presente": "I have fun, am having fun",
+      "futuro": "I will have fun",
+      "imperfecto": "I was having fun, used to have fun, had fun",
+      "preterito": "I had fun",
+      "condicional": "I would have fun",
+      "presentePerfecto": "I have had fun",
+      "futuroPerfecto": "I will have had fun",
+      "pluscuamperfecto": "I had had fun",
+      "preteritoAnterior": "I had had fun",
+      "condicionalPerfecto": "I would have had fun"
+    },
+    "subjuntivo": {
+      "presente": "I have fun, am having fun",
+      "imperfecto": "I had fun, was having fun",
+      "futuro": "I will have fun",
+      "presentePerfecto": "I have had fun, had fun",
+      "futuroPerfecto": "I will have had fun",
+      "pluscuamperfecto": "I had had fun"
+    },
+    "afirmativo": "Have fun!",
+    "negativo": "Don't have fun!"
+  },
+  "attribution": "Fred Jehle"
+}

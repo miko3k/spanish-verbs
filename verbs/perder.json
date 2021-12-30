@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "perder",
+  "gerundio": "perdiendo",
+  "participioPasado": "perdido",
+  "indicativo": {
+    "presente": {
+      "yo": "pierdo",
+      "tu": "pierdes",
+      "ud": "pierde",
+      "nosotros": "perdemos",
+      "vosotros": "perdéis",
+      "uds": "pierden"
+    },
+    "futuro": {
+      "yo": "perderé",
+      "tu": "perderás",
+      "ud": "perderá",
+      "nosotros": "perderemos",
+      "vosotros": "perderéis",
+      "uds": "perderán"
+    },
+    "imperfecto": {
+      "yo": "perdía",
+      "tu": "perdías",
+      "ud": "perdía",
+      "nosotros": "perdíamos",
+      "vosotros": "perdíais",
+      "uds": "perdían"
+    },
+    "preterito": {
+      "yo": "perdí",
+      "tu": "perdiste",
+      "ud": "perdió",
+      "nosotros": "perdimos",
+      "vosotros": "perdisteis",
+      "uds": "perdieron"
+    },
+    "condicional": {
+      "yo": "perdería",
+      "tu": "perderías",
+      "ud": "perdería",
+      "nosotros": "perderíamos",
+      "vosotros": "perderíais",
+      "uds": "perderían"
+    },
+    "presentePerfecto": {
+      "yo": "he perdido",
+      "tu": "has perdido",
+      "ud": "ha perdido",
+      "nosotros": "hemos perdido",
+      "vosotros": "habéis perdido",
+      "uds": "han perdido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré perdido",
+      "tu": "habrás perdido",
+      "ud": "habrá perdido",
+      "nosotros": "habremos perdido",
+      "vosotros": "habréis perdido",
+      "uds": "habrán perdido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había perdido",
+      "tu": "habías perdido",
+      "ud": "había perdido",
+      "nosotros": "habíamos perdido",
+      "vosotros": "habíais perdido",
+      "uds": "habían perdido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube perdido",
+      "tu": "hubiste perdido",
+      "ud": "hubo perdido",
+      "nosotros": "hubimos perdido",
+      "vosotros": "hubisteis perdido",
+      "uds": "hubieron perdido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría perdido",
+      "tu": "habrías perdido",
+      "ud": "habría perdido",
+      "nosotros": "habríamos perdido",
+      "vosotros": "habríais perdido",
+      "uds": "habrían perdido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pierda",
+      "tu": "pierdas",
+      "ud": "pierda",
+      "nosotros": "perdamos",
+      "vosotros": "perdáis",
+      "uds": "pierdan"
+    },
+    "imperfecto": {
+      "yo": "perdiera",
+      "tu": "perdieras",
+      "ud": "perdiera",
+      "nosotros": "perdiéramos",
+      "vosotros": "perdierais",
+      "uds": "perdieran"
+    },
+    "futuro": {
+      "yo": "perdiere",
+      "tu": "perdieres",
+      "ud": "perdiere",
+      "nosotros": "perdiéremos",
+      "vosotros": "perdiereis",
+      "uds": "perdieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya perdido",
+      "tu": "hayas perdido",
+      "ud": "haya perdido",
+      "nosotros": "hayamos perdido",
+      "vosotros": "hayáis perdido",
+      "uds": "hayan perdido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere perdido",
+      "tu": "hubieres perdido",
+      "ud": "hubiere perdido",
+      "nosotros": "hubiéremos perdido",
+      "vosotros": "hubiereis perdido",
+      "uds": "hubieren perdido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera perdido",
+      "tu": "hubieras perdido",
+      "ud": "hubiera perdido",
+      "nosotros": "hubiéramos perdido",
+      "vosotros": "hubierais perdido",
+      "uds": "hubieran perdido"
+    },
+    "imperfectoAlt": {
+      "yo": "perdiese",
+      "tu": "perdieses",
+      "ud": "perdiese",
+      "nosotros": "perdiésemos",
+      "vosotros": "perdieseis",
+      "uds": "perdiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese perdido",
+      "tu": "hubieses perdido",
+      "ud": "hubiese perdido",
+      "nosotros": "hubiésemos perdido",
+      "vosotros": "hubieseis perdido",
+      "uds": "hubiesen perdido"
+    }
+  },
+  "afirmativo": {
+    "tu": "pierde",
+    "vosotros": "perded",
+    "ud": "pierda",
+    "uds": "pierdan"
+  },
+  "negativo": {
+    "tu": "no pierdas",
+    "vosotros": "no perdáis",
+    "ud": "no pierda",
+    "uds": "no pierdan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa.",
+    "infinitivo": "to lose",
+    "gerundio": "losing",
+    "participioPasado": "lost",
+    "indicativo": {
+      "presente": "I lose, am losing",
+      "futuro": "I will lose",
+      "imperfecto": "I was losing, used to lose, lost",
+      "preterito": "I lost",
+      "condicional": "I would lose",
+      "presentePerfecto": "I have lost",
+      "futuroPerfecto": "I will have lost",
+      "pluscuamperfecto": "I had lost",
+      "preteritoAnterior": "I had lost",
+      "condicionalPerfecto": "I would have lost"
+    },
+    "subjuntivo": {
+      "presente": "I lose, am losing",
+      "imperfecto": "I lost, was losing",
+      "futuro": "I will lose",
+      "presentePerfecto": "I have lost, lost",
+      "futuroPerfecto": "I will have lost",
+      "pluscuamperfecto": "I had lost"
+    },
+    "afirmativo": "Lose!",
+    "negativo": "Don't lose!"
+  },
+  "attribution": "Fred Jehle"
+}

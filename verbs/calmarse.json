@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "calmarse",
+  "gerundio": "calmándose",
+  "participioPasado": "calmado",
+  "indicativo": {
+    "presente": {
+      "yo": "me calmo",
+      "tu": "te calmas",
+      "ud": "se calma",
+      "nosotros": "nos calmamos",
+      "vosotros": "os calmáis",
+      "uds": "se calman"
+    },
+    "futuro": {
+      "yo": "me calmaré",
+      "tu": "te calmarás",
+      "ud": "se calmará",
+      "nosotros": "nos calmaremos",
+      "vosotros": "os calmaréis",
+      "uds": "se calmarán"
+    },
+    "imperfecto": {
+      "yo": "me calmaba",
+      "tu": "te calmabas",
+      "ud": "se calmaba",
+      "nosotros": "nos calmábamos",
+      "vosotros": "os calmabais",
+      "uds": "se calmaban"
+    },
+    "preterito": {
+      "yo": "me calmé",
+      "tu": "te calmaste",
+      "ud": "se calmó",
+      "nosotros": "nos calmamos",
+      "vosotros": "os calmasteis",
+      "uds": "se calmaron"
+    },
+    "condicional": {
+      "yo": "me calmaría",
+      "tu": "te calmarías",
+      "ud": "se calmaría",
+      "nosotros": "nos calmaríamos",
+      "vosotros": "os calmaríais",
+      "uds": "se calmarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he calmado",
+      "tu": "te has calmado",
+      "ud": "se ha calmado",
+      "nosotros": "nos hemos calmado",
+      "vosotros": "os habéis calmado",
+      "uds": "se han calmado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré calmado",
+      "tu": "te habrás calmado",
+      "ud": "se habrá calmado",
+      "nosotros": "nos habremos calmado",
+      "vosotros": "os habréis calmado",
+      "uds": "se habrán calmado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había calmado",
+      "tu": "te habías calmado",
+      "ud": "se había calmado",
+      "nosotros": "nos habíamos calmado",
+      "vosotros": "os habíais calmado",
+      "uds": "se habían calmado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube calmado",
+      "tu": "te hubiste calmado",
+      "ud": "se hubo calmado",
+      "nosotros": "nos hubimos calmado",
+      "vosotros": "os hubisteis calmado",
+      "uds": "se hubieron calmado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría calmado",
+      "tu": "te habrías calmado",
+      "ud": "se habría calmado",
+      "nosotros": "nos habríamos calmado",
+      "vosotros": "os habríais calmado",
+      "uds": "se habrían calmado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me calme",
+      "tu": "te calmes",
+      "ud": "se calme",
+      "nosotros": "nos calmemos",
+      "vosotros": "os calméis",
+      "uds": "se calmen"
+    },
+    "imperfecto": {
+      "yo": "me calmara",
+      "tu": "te calmaras",
+      "ud": "se calmara",
+      "nosotros": "nos calmáramos",
+      "vosotros": "os calmarais",
+      "uds": "se calmaran"
+    },
+    "futuro": {
+      "yo": "me calmare",
+      "tu": "te calmares",
+      "ud": "se calmare",
+      "nosotros": "nos calmáremos",
+      "vosotros": "os calmareis",
+      "uds": "se calmaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya calmado",
+      "tu": "te hayas calmado",
+      "ud": "se haya calmado",
+      "nosotros": "nos hayamos calmado",
+      "vosotros": "os hayáis calmado",
+      "uds": "se hayan calmado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere calmado",
+      "tu": "te hubieres calmado",
+      "ud": "se hubiere calmado",
+      "nosotros": "nos hubiéremos calmado",
+      "vosotros": "os hubiereis calmado",
+      "uds": "se hubieren calmado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera calmado",
+      "tu": "te hubieras calmado",
+      "ud": "se hubiera calmado",
+      "nosotros": "nos hubiéramos calmado",
+      "vosotros": "os hubierais calmado",
+      "uds": "se hubieran calmado"
+    },
+    "imperfectoAlt": {
+      "yo": "me calmase",
+      "tu": "te calmases",
+      "ud": "se calmase",
+      "nosotros": "nos calmásemos",
+      "vosotros": "os calmaseis",
+      "uds": "se calmasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese calmado",
+      "tu": "te hubieses calmado",
+      "ud": "se hubiese calmado",
+      "nosotros": "nos hubiésemos calmado",
+      "vosotros": "os hubieseis calmado",
+      "uds": "se hubiesen calmado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cálmate",
+    "vosotros": "calmaos",
+    "ud": "cálmese",
+    "uds": "cálmense"
+  },
+  "negativo": {
+    "tu": "no te calmes",
+    "vosotros": "no os calméis",
+    "ud": "no se calme",
+    "uds": "no se calmen"
+  },
+  "english": {
+    "note": "Note: For to calm down someone else, use the nonreflexive form calmar.",
+    "infinitivo": "to calm down (oneself)",
+    "gerundio": "calming down",
+    "participioPasado": "calm",
+    "indicativo": {
+      "presente": "I calm down, am calming down",
+      "futuro": "I will calm down",
+      "imperfecto": "I was calming down, used to calm down, calmed down",
+      "preterito": "I calmed down",
+      "condicional": "I would calm down",
+      "presentePerfecto": "I have calmed down",
+      "futuroPerfecto": "I will have calmed down",
+      "pluscuamperfecto": "I had calmed down",
+      "preteritoAnterior": "I had calmed down",
+      "condicionalPerfecto": "I would have calmed down"
+    },
+    "subjuntivo": {
+      "presente": "I calm down, am calming down",
+      "imperfecto": "I calmed down, was calming down",
+      "futuro": "I will calm down",
+      "presentePerfecto": "I have calmed down, calmed down",
+      "futuroPerfecto": "I will have calmed down",
+      "pluscuamperfecto": "I had calmed down"
+    },
+    "afirmativo": "Calm down!",
+    "negativo": "Don't calm down!"
+  },
+  "attribution": "Fred Jehle"
+}

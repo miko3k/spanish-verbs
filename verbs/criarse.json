@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "criarse",
+  "gerundio": "criándose",
+  "participioPasado": "criado",
+  "indicativo": {
+    "presente": {
+      "yo": "me crío",
+      "tu": "te crías",
+      "ud": "se cría",
+      "nosotros": "nos criamos",
+      "vosotros": "os criáis",
+      "uds": "se crían"
+    },
+    "futuro": {
+      "yo": "me criaré",
+      "tu": "te criarás",
+      "ud": "se criará",
+      "nosotros": "nos criaremos",
+      "vosotros": "os criaréis",
+      "uds": "se criarán"
+    },
+    "imperfecto": {
+      "yo": "me criaba",
+      "tu": "te criabas",
+      "ud": "se criaba",
+      "nosotros": "nos criábamos",
+      "vosotros": "os criabais",
+      "uds": "se criaban"
+    },
+    "preterito": {
+      "yo": "me crié",
+      "tu": "te criaste",
+      "ud": "se crio",
+      "nosotros": "nos criamos",
+      "vosotros": "os criasteis",
+      "uds": "se criaron"
+    },
+    "condicional": {
+      "yo": "me criaría",
+      "tu": "te criarías",
+      "ud": "se criaría",
+      "nosotros": "nos criaríamos",
+      "vosotros": "os criaríais",
+      "uds": "se criarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he criado",
+      "tu": "te has criado",
+      "ud": "se ha criado",
+      "nosotros": "nos hemos criado",
+      "vosotros": "os habéis criado",
+      "uds": "se han criado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré criado",
+      "tu": "te habrás criado",
+      "ud": "se habrá criado",
+      "nosotros": "nos habremos criado",
+      "vosotros": "os habréis criado",
+      "uds": "se habrán criado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había criado",
+      "tu": "te habías criado",
+      "ud": "se había criado",
+      "nosotros": "nos habíamos criado",
+      "vosotros": "os habíais criado",
+      "uds": "se habían criado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube criado",
+      "tu": "te hubiste criado",
+      "ud": "se hubo criado",
+      "nosotros": "nos hubimos criado",
+      "vosotros": "os hubisteis criado",
+      "uds": "se hubieron criado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría criado",
+      "tu": "te habrías criado",
+      "ud": "se habría criado",
+      "nosotros": "nos habríamos criado",
+      "vosotros": "os habríais criado",
+      "uds": "se habrían criado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me críe",
+      "tu": "te críes",
+      "ud": "se críe",
+      "nosotros": "nos criemos",
+      "vosotros": "os criéis",
+      "uds": "se críen"
+    },
+    "imperfecto": {
+      "yo": "me criara",
+      "tu": "te criaras",
+      "ud": "se criara",
+      "nosotros": "nos criáramos",
+      "vosotros": "os criarais",
+      "uds": "se criaran"
+    },
+    "futuro": {
+      "yo": "me criare",
+      "tu": "te criares",
+      "ud": "se criare",
+      "nosotros": "nos criáremos",
+      "vosotros": "os criareis",
+      "uds": "se criaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya criado",
+      "tu": "te hayas criado",
+      "ud": "se haya criado",
+      "nosotros": "nos hayamos criado",
+      "vosotros": "os hayáis criado",
+      "uds": "se hayan criado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere criado",
+      "tu": "te hubieres criado",
+      "ud": "se hubiere criado",
+      "nosotros": "nos hubiéremos criado",
+      "vosotros": "os hubiereis criado",
+      "uds": "se hubieren criado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera criado",
+      "tu": "te hubieras criado",
+      "ud": "se hubiera criado",
+      "nosotros": "nos hubiéramos criado",
+      "vosotros": "os hubierais criado",
+      "uds": "se hubieran criado"
+    },
+    "imperfectoAlt": {
+      "yo": "me criase",
+      "tu": "te criases",
+      "ud": "se criase",
+      "nosotros": "nos criásemos",
+      "vosotros": "os criaseis",
+      "uds": "se criasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese criado",
+      "tu": "te hubieses criado",
+      "ud": "se hubiese criado",
+      "nosotros": "nos hubiésemos criado",
+      "vosotros": "os hubieseis criado",
+      "uds": "se hubiesen criado"
+    }
+  },
+  "afirmativo": {
+    "tu": "críate",
+    "vosotros": "criaos",
+    "ud": "críese",
+    "uds": "críense"
+  },
+  "negativo": {
+    "tu": "no te críes",
+    "vosotros": "no os criéis",
+    "ud": "no se críe",
+    "uds": "no se críen"
+  },
+  "english": {
+    "note": "Cambio: i > í cuando la radical tiene el acento tónico. Note: The nonreflexive form criar means to raise (children, animals, plants); to nurse (babies); to tend, cultivate (plants); to bring up, rear, educate (children).",
+    "infinitivo": "to grow (up); to be brought up",
+    "gerundio": "growing up",
+    "participioPasado": "grown up",
+    "indicativo": {
+      "presente": "I grow up, am growing up",
+      "futuro": "I will grow up",
+      "imperfecto": "I was growing up, used to grow up, grew up",
+      "preterito": "I grew up",
+      "condicional": "I would grow up",
+      "presentePerfecto": "I have grown up",
+      "futuroPerfecto": "I will have grown up",
+      "pluscuamperfecto": "I had grown up",
+      "preteritoAnterior": "I had grown up",
+      "condicionalPerfecto": "I would have grown up"
+    },
+    "subjuntivo": {
+      "presente": "I grow up, am growing up",
+      "imperfecto": "I grew up, was growing up",
+      "futuro": "I will grow up",
+      "presentePerfecto": "I have grown up, grew up",
+      "futuroPerfecto": "I will have grown up",
+      "pluscuamperfecto": "I had grown up"
+    },
+    "afirmativo": "Grow up!",
+    "negativo": "Don't grow up!"
+  },
+  "attribution": "Fred Jehle"
+}

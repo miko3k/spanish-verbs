@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "revelar",
+  "gerundio": "revelando",
+  "participioPasado": "revelado",
+  "indicativo": {
+    "presente": {
+      "yo": "revelo",
+      "tu": "revelas",
+      "ud": "revela",
+      "nosotros": "revelamos",
+      "vosotros": "reveláis",
+      "uds": "revelan"
+    },
+    "futuro": {
+      "yo": "revelaré",
+      "tu": "revelarás",
+      "ud": "revelará",
+      "nosotros": "revelaremos",
+      "vosotros": "revelaréis",
+      "uds": "revelarán"
+    },
+    "imperfecto": {
+      "yo": "revelaba",
+      "tu": "revelabas",
+      "ud": "revelaba",
+      "nosotros": "revelábamos",
+      "vosotros": "revelabais",
+      "uds": "revelaban"
+    },
+    "preterito": {
+      "yo": "revelé",
+      "tu": "revelaste",
+      "ud": "reveló",
+      "nosotros": "revelamos",
+      "vosotros": "revelasteis",
+      "uds": "revelaron"
+    },
+    "condicional": {
+      "yo": "revelaría",
+      "tu": "revelarías",
+      "ud": "revelaría",
+      "nosotros": "revelaríamos",
+      "vosotros": "revelaríais",
+      "uds": "revelarían"
+    },
+    "presentePerfecto": {
+      "yo": "he revelado",
+      "tu": "has revelado",
+      "ud": "ha revelado",
+      "nosotros": "hemos revelado",
+      "vosotros": "habéis revelado",
+      "uds": "han revelado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré revelado",
+      "tu": "habrás revelado",
+      "ud": "habrá revelado",
+      "nosotros": "habremos revelado",
+      "vosotros": "habréis revelado",
+      "uds": "habrán revelado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había revelado",
+      "tu": "habías revelado",
+      "ud": "había revelado",
+      "nosotros": "habíamos revelado",
+      "vosotros": "habíais revelado",
+      "uds": "habían revelado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube revelado",
+      "tu": "hubiste revelado",
+      "ud": "hubo revelado",
+      "nosotros": "hubimos revelado",
+      "vosotros": "hubisteis revelado",
+      "uds": "hubieron revelado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría revelado",
+      "tu": "habrías revelado",
+      "ud": "habría revelado",
+      "nosotros": "habríamos revelado",
+      "vosotros": "habríais revelado",
+      "uds": "habrían revelado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "revele",
+      "tu": "reveles",
+      "ud": "revele",
+      "nosotros": "revelemos",
+      "vosotros": "reveléis",
+      "uds": "revelen"
+    },
+    "imperfecto": {
+      "yo": "revelara",
+      "tu": "revelaras",
+      "ud": "revelara",
+      "nosotros": "reveláramos",
+      "vosotros": "revelarais",
+      "uds": "revelaran"
+    },
+    "futuro": {
+      "yo": "revelare",
+      "tu": "revelares",
+      "ud": "revelare",
+      "nosotros": "reveláremos",
+      "vosotros": "revelareis",
+      "uds": "revelaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya revelado",
+      "tu": "hayas revelado",
+      "ud": "haya revelado",
+      "nosotros": "hayamos revelado",
+      "vosotros": "hayáis revelado",
+      "uds": "hayan revelado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere revelado",
+      "tu": "hubieres revelado",
+      "ud": "hubiere revelado",
+      "nosotros": "hubiéremos revelado",
+      "vosotros": "hubiereis revelado",
+      "uds": "hubieren revelado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera revelado",
+      "tu": "hubieras revelado",
+      "ud": "hubiera revelado",
+      "nosotros": "hubiéramos revelado",
+      "vosotros": "hubierais revelado",
+      "uds": "hubieran revelado"
+    },
+    "imperfectoAlt": {
+      "yo": "revelase",
+      "tu": "revelases",
+      "ud": "revelase",
+      "nosotros": "revelásemos",
+      "vosotros": "revelaseis",
+      "uds": "revelasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese revelado",
+      "tu": "hubieses revelado",
+      "ud": "hubiese revelado",
+      "nosotros": "hubiésemos revelado",
+      "vosotros": "hubieseis revelado",
+      "uds": "hubiesen revelado"
+    }
+  },
+  "afirmativo": {
+    "tu": "revela",
+    "vosotros": "revelad",
+    "ud": "revele",
+    "uds": "revelen"
+  },
+  "negativo": {
+    "tu": "no reveles",
+    "vosotros": "no reveléis",
+    "ud": "no revele",
+    "uds": "no revelen"
+  },
+  "english": {
+    "note": "For to develop in other contexts, use desarrollar.",
+    "infinitivo": "to reveal, disclose; to develop (film)",
+    "gerundio": "revealing",
+    "participioPasado": "revealed",
+    "indicativo": {
+      "presente": "I reveal, am revealing",
+      "futuro": "I will reveal",
+      "imperfecto": "I was revealing, used to reveal, revealed",
+      "preterito": "I revealed",
+      "condicional": "I would reveal",
+      "presentePerfecto": "I have revealed",
+      "futuroPerfecto": "I will have revealed",
+      "pluscuamperfecto": "I had revealed",
+      "preteritoAnterior": "I had revealed",
+      "condicionalPerfecto": "I would have revealed"
+    },
+    "subjuntivo": {
+      "presente": "I reveal, am revealing",
+      "imperfecto": "I revealed, was revealing",
+      "futuro": "I will reveal",
+      "presentePerfecto": "I have revealed, revealed",
+      "futuroPerfecto": "I will have revealed",
+      "pluscuamperfecto": "I had revealed"
+    },
+    "afirmativo": "Reveal!",
+    "negativo": "Don't reveal!"
+  },
+  "attribution": "Fred Jehle"
+}

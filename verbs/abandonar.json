@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "abandonar",
+  "gerundio": "abandonando",
+  "participioPasado": "abandonado",
+  "indicativo": {
+    "presente": {
+      "yo": "abandono",
+      "tu": "abandonas",
+      "ud": "abandona",
+      "nosotros": "abandonamos",
+      "vosotros": "abandonáis",
+      "uds": "abandonan"
+    },
+    "futuro": {
+      "yo": "abandonaré",
+      "tu": "abandonarás",
+      "ud": "abandonará",
+      "nosotros": "abandonaremos",
+      "vosotros": "abandonaréis",
+      "uds": "abandonarán"
+    },
+    "imperfecto": {
+      "yo": "abandonaba",
+      "tu": "abandonabas",
+      "ud": "abandonaba",
+      "nosotros": "abandonábamos",
+      "vosotros": "abandonabais",
+      "uds": "abandonaban"
+    },
+    "preterito": {
+      "yo": "abandoné",
+      "tu": "abandonaste",
+      "ud": "abandonó",
+      "nosotros": "abandonamos",
+      "vosotros": "abandonasteis",
+      "uds": "abandonaron"
+    },
+    "condicional": {
+      "yo": "abandonaría",
+      "tu": "abandonarías",
+      "ud": "abandonaría",
+      "nosotros": "abandonaríamos",
+      "vosotros": "abandonaríais",
+      "uds": "abandonarían"
+    },
+    "presentePerfecto": {
+      "yo": "he abandonado",
+      "tu": "has abandonado",
+      "ud": "ha abandonado",
+      "nosotros": "hemos abandonado",
+      "vosotros": "habéis abandonado",
+      "uds": "han abandonado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré abandonado",
+      "tu": "habrás abandonado",
+      "ud": "habrá abandonado",
+      "nosotros": "habremos abandonado",
+      "vosotros": "habréis abandonado",
+      "uds": "habrán abandonado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había abandonado",
+      "tu": "habías abandonado",
+      "ud": "había abandonado",
+      "nosotros": "habíamos abandonado",
+      "vosotros": "habíais abandonado",
+      "uds": "habían abandonado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube abandonado",
+      "tu": "hubiste abandonado",
+      "ud": "hubo abandonado",
+      "nosotros": "hubimos abandonado",
+      "vosotros": "hubisteis abandonado",
+      "uds": "hubieron abandonado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría abandonado",
+      "tu": "habrías abandonado",
+      "ud": "habría abandonado",
+      "nosotros": "habríamos abandonado",
+      "vosotros": "habríais abandonado",
+      "uds": "habrían abandonado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "abandone",
+      "tu": "abandones",
+      "ud": "abandone",
+      "nosotros": "abandonemos",
+      "vosotros": "abandonéis",
+      "uds": "abandonen"
+    },
+    "imperfecto": {
+      "yo": "abandonara",
+      "tu": "abandonaras",
+      "ud": "abandonara",
+      "nosotros": "abandonáramos",
+      "vosotros": "abandonarais",
+      "uds": "abandonaran"
+    },
+    "futuro": {
+      "yo": "abandonare",
+      "tu": "abandonares",
+      "ud": "abandonare",
+      "nosotros": "abandonáremos",
+      "vosotros": "abandonareis",
+      "uds": "abandonaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya abandonado",
+      "tu": "hayas abandonado",
+      "ud": "haya abandonado",
+      "nosotros": "hayamos abandonado",
+      "vosotros": "hayáis abandonado",
+      "uds": "hayan abandonado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere abandonado",
+      "tu": "hubieres abandonado",
+      "ud": "hubiere abandonado",
+      "nosotros": "hubiéremos abandonado",
+      "vosotros": "hubiereis abandonado",
+      "uds": "hubieren abandonado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera abandonado",
+      "tu": "hubieras abandonado",
+      "ud": "hubiera abandonado",
+      "nosotros": "hubiéramos abandonado",
+      "vosotros": "hubierais abandonado",
+      "uds": "hubieran abandonado"
+    },
+    "imperfectoAlt": {
+      "yo": "abandonase",
+      "tu": "abandonases",
+      "ud": "abandonase",
+      "nosotros": "abandonásemos",
+      "vosotros": "abandonaseis",
+      "uds": "abandonasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese abandonado",
+      "tu": "hubieses abandonado",
+      "ud": "hubiese abandonado",
+      "nosotros": "hubiésemos abandonado",
+      "vosotros": "hubieseis abandonado",
+      "uds": "hubiesen abandonado"
+    }
+  },
+  "afirmativo": {
+    "tu": "abandona",
+    "vosotros": "abandonad",
+    "ud": "abandone",
+    "uds": "abandonen"
+  },
+  "negativo": {
+    "tu": "no abandones",
+    "vosotros": "no abandonéis",
+    "ud": "no abandone",
+    "uds": "no abandonen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to abandon, leave behind, desert; to quit, give up",
+    "gerundio": "abandoning",
+    "participioPasado": "abandoned",
+    "indicativo": {
+      "presente": "I abandon, am abandoning",
+      "futuro": "I will abandon",
+      "imperfecto": "I was abandoning, used to abandon, abandoned",
+      "preterito": "I abandoned",
+      "condicional": "I would abandon",
+      "presentePerfecto": "I have abandoned",
+      "futuroPerfecto": "I will have abandoned",
+      "pluscuamperfecto": "I had abandoned",
+      "preteritoAnterior": "I had abandoned",
+      "condicionalPerfecto": "I would have abandoned"
+    },
+    "subjuntivo": {
+      "presente": "I abandon, am abandoning",
+      "imperfecto": "I abandoned, was abandoning",
+      "futuro": "I will abandon",
+      "presentePerfecto": "I have abandoned, abandoned",
+      "futuroPerfecto": "I will have abandoned",
+      "pluscuamperfecto": "I had abandoned"
+    },
+    "afirmativo": "Abandon!",
+    "negativo": "Don't abandon!"
+  },
+  "attribution": "Fred Jehle"
+}

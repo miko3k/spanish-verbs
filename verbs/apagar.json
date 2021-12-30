@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "apagar",
+  "gerundio": "apagando",
+  "participioPasado": "apagado",
+  "indicativo": {
+    "presente": {
+      "yo": "apago",
+      "tu": "apagas",
+      "ud": "apaga",
+      "nosotros": "apagamos",
+      "vosotros": "apagáis",
+      "uds": "apagan"
+    },
+    "futuro": {
+      "yo": "apagaré",
+      "tu": "apagarás",
+      "ud": "apagará",
+      "nosotros": "apagaremos",
+      "vosotros": "apagaréis",
+      "uds": "apagarán"
+    },
+    "imperfecto": {
+      "yo": "apagaba",
+      "tu": "apagabas",
+      "ud": "apagaba",
+      "nosotros": "apagábamos",
+      "vosotros": "apagabais",
+      "uds": "apagaban"
+    },
+    "preterito": {
+      "yo": "apagué",
+      "tu": "apagaste",
+      "ud": "apagó",
+      "nosotros": "apagamos",
+      "vosotros": "apagasteis",
+      "uds": "apagaron"
+    },
+    "condicional": {
+      "yo": "apagaría",
+      "tu": "apagarías",
+      "ud": "apagaría",
+      "nosotros": "apagaríamos",
+      "vosotros": "apagaríais",
+      "uds": "apagarían"
+    },
+    "presentePerfecto": {
+      "yo": "he apagado",
+      "tu": "has apagado",
+      "ud": "ha apagado",
+      "nosotros": "hemos apagado",
+      "vosotros": "habéis apagado",
+      "uds": "han apagado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré apagado",
+      "tu": "habrás apagado",
+      "ud": "habrá apagado",
+      "nosotros": "habremos apagado",
+      "vosotros": "habréis apagado",
+      "uds": "habrán apagado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había apagado",
+      "tu": "habías apagado",
+      "ud": "había apagado",
+      "nosotros": "habíamos apagado",
+      "vosotros": "habíais apagado",
+      "uds": "habían apagado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube apagado",
+      "tu": "hubiste apagado",
+      "ud": "hubo apagado",
+      "nosotros": "hubimos apagado",
+      "vosotros": "hubisteis apagado",
+      "uds": "hubieron apagado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría apagado",
+      "tu": "habrías apagado",
+      "ud": "habría apagado",
+      "nosotros": "habríamos apagado",
+      "vosotros": "habríais apagado",
+      "uds": "habrían apagado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "apague",
+      "tu": "apagues",
+      "ud": "apague",
+      "nosotros": "apaguemos",
+      "vosotros": "apaguéis",
+      "uds": "apaguen"
+    },
+    "imperfecto": {
+      "yo": "apagara",
+      "tu": "apagaras",
+      "ud": "apagara",
+      "nosotros": "apagáramos",
+      "vosotros": "apagarais",
+      "uds": "apagaran"
+    },
+    "futuro": {
+      "yo": "apagare",
+      "tu": "apagares",
+      "ud": "apagare",
+      "nosotros": "apagáremos",
+      "vosotros": "apagareis",
+      "uds": "apagaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya apagado",
+      "tu": "hayas apagado",
+      "ud": "haya apagado",
+      "nosotros": "hayamos apagado",
+      "vosotros": "hayáis apagado",
+      "uds": "hayan apagado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere apagado",
+      "tu": "hubieres apagado",
+      "ud": "hubiere apagado",
+      "nosotros": "hubiéremos apagado",
+      "vosotros": "hubiereis apagado",
+      "uds": "hubieren apagado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera apagado",
+      "tu": "hubieras apagado",
+      "ud": "hubiera apagado",
+      "nosotros": "hubiéramos apagado",
+      "vosotros": "hubierais apagado",
+      "uds": "hubieran apagado"
+    },
+    "imperfectoAlt": {
+      "yo": "apagase",
+      "tu": "apagases",
+      "ud": "apagase",
+      "nosotros": "apagásemos",
+      "vosotros": "apagaseis",
+      "uds": "apagasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese apagado",
+      "tu": "hubieses apagado",
+      "ud": "hubiese apagado",
+      "nosotros": "hubiésemos apagado",
+      "vosotros": "hubieseis apagado",
+      "uds": "hubiesen apagado"
+    }
+  },
+  "afirmativo": {
+    "tu": "apaga",
+    "vosotros": "apagad",
+    "ud": "apague",
+    "uds": "apaguen"
+  },
+  "negativo": {
+    "tu": "no apagues",
+    "vosotros": "no apaguéis",
+    "ud": "no apague",
+    "uds": "no apaguen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to extinguish, put out, turn off",
+    "gerundio": "extinguishing",
+    "participioPasado": "extinguished",
+    "indicativo": {
+      "presente": "I extinguish, am extinguishing",
+      "futuro": "I will extinguish",
+      "imperfecto": "I was extinguishing, used to extinguish, extinguished",
+      "preterito": "I extinguished",
+      "condicional": "I would extinguish",
+      "presentePerfecto": "I have extinguished",
+      "futuroPerfecto": "I will have extinguished",
+      "pluscuamperfecto": "I had extinguished",
+      "preteritoAnterior": "I had extinguished",
+      "condicionalPerfecto": "I would have extinguished"
+    },
+    "subjuntivo": {
+      "presente": "I extinguish, am extinguishing",
+      "imperfecto": "I extinguished, was extinguishing",
+      "futuro": "I will extinguish",
+      "presentePerfecto": "I have extinguished, extinguished",
+      "futuroPerfecto": "I will have extinguished",
+      "pluscuamperfecto": "I had extinguished"
+    },
+    "afirmativo": "Extinguish!",
+    "negativo": "Don't extinguish!"
+  },
+  "attribution": "Fred Jehle"
+}

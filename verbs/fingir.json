@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "fingir",
+  "gerundio": "fingiendo",
+  "participioPasado": "fingido",
+  "indicativo": {
+    "presente": {
+      "yo": "finjo",
+      "tu": "finges",
+      "ud": "finge",
+      "nosotros": "fingimos",
+      "vosotros": "fingís",
+      "uds": "fingen"
+    },
+    "futuro": {
+      "yo": "fingiré",
+      "tu": "fingirás",
+      "ud": "fingirá",
+      "nosotros": "fingiremos",
+      "vosotros": "fingiréis",
+      "uds": "fingirán"
+    },
+    "imperfecto": {
+      "yo": "fingía",
+      "tu": "fingías",
+      "ud": "fingía",
+      "nosotros": "fingíamos",
+      "vosotros": "fingíais",
+      "uds": "fingían"
+    },
+    "preterito": {
+      "yo": "fingí",
+      "tu": "fingiste",
+      "ud": "fingió",
+      "nosotros": "fingimos",
+      "vosotros": "fingisteis",
+      "uds": "fingieron"
+    },
+    "condicional": {
+      "yo": "fingiría",
+      "tu": "fingirías",
+      "ud": "fingiría",
+      "nosotros": "fingiríamos",
+      "vosotros": "fingiríais",
+      "uds": "fingirían"
+    },
+    "presentePerfecto": {
+      "yo": "he fingido",
+      "tu": "has fingido",
+      "ud": "ha fingido",
+      "nosotros": "hemos fingido",
+      "vosotros": "habéis fingido",
+      "uds": "han fingido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré fingido",
+      "tu": "habrás fingido",
+      "ud": "habrá fingido",
+      "nosotros": "habremos fingido",
+      "vosotros": "habréis fingido",
+      "uds": "habrán fingido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había fingido",
+      "tu": "habías fingido",
+      "ud": "había fingido",
+      "nosotros": "habíamos fingido",
+      "vosotros": "habíais fingido",
+      "uds": "habían fingido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube fingido",
+      "tu": "hubiste fingido",
+      "ud": "hubo fingido",
+      "nosotros": "hubimos fingido",
+      "vosotros": "hubisteis fingido",
+      "uds": "hubieron fingido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría fingido",
+      "tu": "habrías fingido",
+      "ud": "habría fingido",
+      "nosotros": "habríamos fingido",
+      "vosotros": "habríais fingido",
+      "uds": "habrían fingido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "finja",
+      "tu": "finjas",
+      "ud": "finja",
+      "nosotros": "finjamos",
+      "vosotros": "finjáis",
+      "uds": "finjan"
+    },
+    "imperfecto": {
+      "yo": "fingiera",
+      "tu": "fingieras",
+      "ud": "fingiera",
+      "nosotros": "fingiéramos",
+      "vosotros": "fingierais",
+      "uds": "fingieran"
+    },
+    "futuro": {
+      "yo": "fingiere",
+      "tu": "fingieres",
+      "ud": "fingiere",
+      "nosotros": "fingiéremos",
+      "vosotros": "fingiereis",
+      "uds": "fingieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya fingido",
+      "tu": "hayas fingido",
+      "ud": "haya fingido",
+      "nosotros": "hayamos fingido",
+      "vosotros": "hayáis fingido",
+      "uds": "hayan fingido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere fingido",
+      "tu": "hubieres fingido",
+      "ud": "hubiere fingido",
+      "nosotros": "hubiéremos fingido",
+      "vosotros": "hubiereis fingido",
+      "uds": "hubieren fingido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera fingido",
+      "tu": "hubieras fingido",
+      "ud": "hubiera fingido",
+      "nosotros": "hubiéramos fingido",
+      "vosotros": "hubierais fingido",
+      "uds": "hubieran fingido"
+    },
+    "imperfectoAlt": {
+      "yo": "fingiese",
+      "tu": "fingieses",
+      "ud": "fingiese",
+      "nosotros": "fingiésemos",
+      "vosotros": "fingieseis",
+      "uds": "fingiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese fingido",
+      "tu": "hubieses fingido",
+      "ud": "hubiese fingido",
+      "nosotros": "hubiésemos fingido",
+      "vosotros": "hubieseis fingido",
+      "uds": "hubiesen fingido"
+    }
+  },
+  "afirmativo": {
+    "tu": "finge",
+    "vosotros": "fingid",
+    "ud": "finja",
+    "uds": "finjan"
+  },
+  "negativo": {
+    "tu": "no finjas",
+    "vosotros": "no finjáis",
+    "ud": "no finja",
+    "uds": "no finjan"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > j delante de o y a.",
+    "infinitivo": "to fake, feign, pretend",
+    "gerundio": "faking",
+    "participioPasado": "faked",
+    "indicativo": {
+      "presente": "I fake, am faking",
+      "futuro": "I will fake",
+      "imperfecto": "I was faking, used to fake, faked",
+      "preterito": "I faked",
+      "condicional": "I would fake",
+      "presentePerfecto": "I have faked",
+      "futuroPerfecto": "I will have faked",
+      "pluscuamperfecto": "I had faked",
+      "preteritoAnterior": "I had faked",
+      "condicionalPerfecto": "I would have faked"
+    },
+    "subjuntivo": {
+      "presente": "I fake, am faking",
+      "imperfecto": "I faked, was faking",
+      "futuro": "I will fake",
+      "presentePerfecto": "I have faked, faked",
+      "futuroPerfecto": "I will have faked",
+      "pluscuamperfecto": "I had faked"
+    },
+    "afirmativo": "Fake!",
+    "negativo": "Don't fake!"
+  },
+  "attribution": "Fred Jehle"
+}

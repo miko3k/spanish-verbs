@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "conquistar",
+  "gerundio": "conquistando",
+  "participioPasado": "conquistado",
+  "indicativo": {
+    "presente": {
+      "yo": "conquisto",
+      "tu": "conquistas",
+      "ud": "conquista",
+      "nosotros": "conquistamos",
+      "vosotros": "conquistáis",
+      "uds": "conquistan"
+    },
+    "futuro": {
+      "yo": "conquistaré",
+      "tu": "conquistarás",
+      "ud": "conquistará",
+      "nosotros": "conquistaremos",
+      "vosotros": "conquistaréis",
+      "uds": "conquistarán"
+    },
+    "imperfecto": {
+      "yo": "conquistaba",
+      "tu": "conquistabas",
+      "ud": "conquistaba",
+      "nosotros": "conquistábamos",
+      "vosotros": "conquistabais",
+      "uds": "conquistaban"
+    },
+    "preterito": {
+      "yo": "conquisté",
+      "tu": "conquistaste",
+      "ud": "conquistó",
+      "nosotros": "conquistamos",
+      "vosotros": "conquistasteis",
+      "uds": "conquistaron"
+    },
+    "condicional": {
+      "yo": "conquistaría",
+      "tu": "conquistarías",
+      "ud": "conquistaría",
+      "nosotros": "conquistaríamos",
+      "vosotros": "conquistaríais",
+      "uds": "conquistarían"
+    },
+    "presentePerfecto": {
+      "yo": "he conquistado",
+      "tu": "has conquistado",
+      "ud": "ha conquistado",
+      "nosotros": "hemos conquistado",
+      "vosotros": "habéis conquistado",
+      "uds": "han conquistado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré conquistado",
+      "tu": "habrás conquistado",
+      "ud": "habrá conquistado",
+      "nosotros": "habremos conquistado",
+      "vosotros": "habréis conquistado",
+      "uds": "habrán conquistado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había conquistado",
+      "tu": "habías conquistado",
+      "ud": "había conquistado",
+      "nosotros": "habíamos conquistado",
+      "vosotros": "habíais conquistado",
+      "uds": "habían conquistado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube conquistado",
+      "tu": "hubiste conquistado",
+      "ud": "hubo conquistado",
+      "nosotros": "hubimos conquistado",
+      "vosotros": "hubisteis conquistado",
+      "uds": "hubieron conquistado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría conquistado",
+      "tu": "habrías conquistado",
+      "ud": "habría conquistado",
+      "nosotros": "habríamos conquistado",
+      "vosotros": "habríais conquistado",
+      "uds": "habrían conquistado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "conquiste",
+      "tu": "conquistes",
+      "ud": "conquiste",
+      "nosotros": "conquistemos",
+      "vosotros": "conquistéis",
+      "uds": "conquisten"
+    },
+    "imperfecto": {
+      "yo": "conquistara",
+      "tu": "conquistaras",
+      "ud": "conquistara",
+      "nosotros": "conquistáramos",
+      "vosotros": "conquistarais",
+      "uds": "conquistaran"
+    },
+    "futuro": {
+      "yo": "conquistare",
+      "tu": "conquistares",
+      "ud": "conquistare",
+      "nosotros": "conquistáremos",
+      "vosotros": "conquistareis",
+      "uds": "conquistaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya conquistado",
+      "tu": "hayas conquistado",
+      "ud": "haya conquistado",
+      "nosotros": "hayamos conquistado",
+      "vosotros": "hayáis conquistado",
+      "uds": "hayan conquistado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere conquistado",
+      "tu": "hubieres conquistado",
+      "ud": "hubiere conquistado",
+      "nosotros": "hubiéremos conquistado",
+      "vosotros": "hubiereis conquistado",
+      "uds": "hubieren conquistado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera conquistado",
+      "tu": "hubieras conquistado",
+      "ud": "hubiera conquistado",
+      "nosotros": "hubiéramos conquistado",
+      "vosotros": "hubierais conquistado",
+      "uds": "hubieran conquistado"
+    },
+    "imperfectoAlt": {
+      "yo": "conquistase",
+      "tu": "conquistases",
+      "ud": "conquistase",
+      "nosotros": "conquistásemos",
+      "vosotros": "conquistaseis",
+      "uds": "conquistasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese conquistado",
+      "tu": "hubieses conquistado",
+      "ud": "hubiese conquistado",
+      "nosotros": "hubiésemos conquistado",
+      "vosotros": "hubieseis conquistado",
+      "uds": "hubiesen conquistado"
+    }
+  },
+  "afirmativo": {
+    "tu": "conquista",
+    "vosotros": "conquistad",
+    "ud": "conquiste",
+    "uds": "conquisten"
+  },
+  "negativo": {
+    "tu": "no conquistes",
+    "vosotros": "no conquistéis",
+    "ud": "no conquiste",
+    "uds": "no conquisten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to conquer, overcome, win",
+    "gerundio": "conquering",
+    "participioPasado": "conquered",
+    "indicativo": {
+      "presente": "I conquer, am conquering",
+      "futuro": "I will conquer",
+      "imperfecto": "I was conquering, used to conquer, conquered",
+      "preterito": "I conquered",
+      "condicional": "I would conquer",
+      "presentePerfecto": "I have conquered",
+      "futuroPerfecto": "I will have conquered",
+      "pluscuamperfecto": "I had conquered",
+      "preteritoAnterior": "I had conquered",
+      "condicionalPerfecto": "I would have conquered"
+    },
+    "subjuntivo": {
+      "presente": "I conquer, am conquering",
+      "imperfecto": "I conquered, was conquering",
+      "futuro": "I will conquer",
+      "presentePerfecto": "I have conquered, conquered",
+      "futuroPerfecto": "I will have conquered",
+      "pluscuamperfecto": "I had conquered"
+    },
+    "afirmativo": "Conquer!",
+    "negativo": "Don't conquer!"
+  },
+  "attribution": "Fred Jehle"
+}

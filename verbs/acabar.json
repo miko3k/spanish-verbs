@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "acabar",
+  "gerundio": "acabando",
+  "participioPasado": "acabado",
+  "indicativo": {
+    "presente": {
+      "yo": "acabo",
+      "tu": "acabas",
+      "ud": "acaba",
+      "nosotros": "acabamos",
+      "vosotros": "acabáis",
+      "uds": "acaban"
+    },
+    "futuro": {
+      "yo": "acabaré",
+      "tu": "acabarás",
+      "ud": "acabará",
+      "nosotros": "acabaremos",
+      "vosotros": "acabaréis",
+      "uds": "acabarán"
+    },
+    "imperfecto": {
+      "yo": "acababa",
+      "tu": "acababas",
+      "ud": "acababa",
+      "nosotros": "acabábamos",
+      "vosotros": "acababais",
+      "uds": "acababan"
+    },
+    "preterito": {
+      "yo": "acabé",
+      "tu": "acabaste",
+      "ud": "acabó",
+      "nosotros": "acabamos",
+      "vosotros": "acabasteis",
+      "uds": "acabaron"
+    },
+    "condicional": {
+      "yo": "acabaría",
+      "tu": "acabarías",
+      "ud": "acabaría",
+      "nosotros": "acabaríamos",
+      "vosotros": "acabaríais",
+      "uds": "acabarían"
+    },
+    "presentePerfecto": {
+      "yo": "he acabado",
+      "tu": "has acabado",
+      "ud": "ha acabado",
+      "nosotros": "hemos acabado",
+      "vosotros": "habéis acabado",
+      "uds": "han acabado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré acabado",
+      "tu": "habrás acabado",
+      "ud": "habrá acabado",
+      "nosotros": "habremos acabado",
+      "vosotros": "habréis acabado",
+      "uds": "habrán acabado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había acabado",
+      "tu": "habías acabado",
+      "ud": "había acabado",
+      "nosotros": "habíamos acabado",
+      "vosotros": "habíais acabado",
+      "uds": "habían acabado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube acabado",
+      "tu": "hubiste acabado",
+      "ud": "hubo acabado",
+      "nosotros": "hubimos acabado",
+      "vosotros": "hubisteis acabado",
+      "uds": "hubieron acabado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría acabado",
+      "tu": "habrías acabado",
+      "ud": "habría acabado",
+      "nosotros": "habríamos acabado",
+      "vosotros": "habríais acabado",
+      "uds": "habrían acabado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "acabe",
+      "tu": "acabes",
+      "ud": "acabe",
+      "nosotros": "acabemos",
+      "vosotros": "acabéis",
+      "uds": "acaben"
+    },
+    "imperfecto": {
+      "yo": "acabara",
+      "tu": "acabaras",
+      "ud": "acabara",
+      "nosotros": "acabáramos",
+      "vosotros": "acabarais",
+      "uds": "acabaran"
+    },
+    "futuro": {
+      "yo": "acabare",
+      "tu": "acabares",
+      "ud": "acabare",
+      "nosotros": "acabáremos",
+      "vosotros": "acabareis",
+      "uds": "acabaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya acabado",
+      "tu": "hayas acabado",
+      "ud": "haya acabado",
+      "nosotros": "hayamos acabado",
+      "vosotros": "hayáis acabado",
+      "uds": "hayan acabado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere acabado",
+      "tu": "hubieres acabado",
+      "ud": "hubiere acabado",
+      "nosotros": "hubiéremos acabado",
+      "vosotros": "hubiereis acabado",
+      "uds": "hubieren acabado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera acabado",
+      "tu": "hubieras acabado",
+      "ud": "hubiera acabado",
+      "nosotros": "hubiéramos acabado",
+      "vosotros": "hubierais acabado",
+      "uds": "hubieran acabado"
+    },
+    "imperfectoAlt": {
+      "yo": "acabase",
+      "tu": "acabases",
+      "ud": "acabase",
+      "nosotros": "acabásemos",
+      "vosotros": "acabaseis",
+      "uds": "acabasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese acabado",
+      "tu": "hubieses acabado",
+      "ud": "hubiese acabado",
+      "nosotros": "hubiésemos acabado",
+      "vosotros": "hubieseis acabado",
+      "uds": "hubiesen acabado"
+    }
+  },
+  "afirmativo": {
+    "tu": "acaba",
+    "vosotros": "acabad",
+    "ud": "acabe",
+    "uds": "acaben"
+  },
+  "negativo": {
+    "tu": "no acabes",
+    "vosotros": "no acabéis",
+    "ud": "no acabe",
+    "uds": "no acaben"
+  },
+  "english": {
+    "note": "Note: When used in the present tense, acabar de + infinitive = to (have) just (done something): acaban de llegar = they (have) just arrived; when used in the imperfect in this construction, it means had just: acababan de llegar = they had just arrived.",
+    "infinitivo": "to finish, end",
+    "gerundio": "finishing",
+    "participioPasado": "finished",
+    "indicativo": {
+      "presente": "I finish, am finishing",
+      "futuro": "I will finish",
+      "imperfecto": "I was finishing, used to finish, finished",
+      "preterito": "I finished",
+      "condicional": "I would finish",
+      "presentePerfecto": "I have finished",
+      "futuroPerfecto": "I will have finished",
+      "pluscuamperfecto": "I had finished",
+      "preteritoAnterior": "I had finished",
+      "condicionalPerfecto": "I would have finished"
+    },
+    "subjuntivo": {
+      "presente": "I finish, am finishing",
+      "imperfecto": "I finished, was finishing",
+      "futuro": "I will finish",
+      "presentePerfecto": "I have finished, finished",
+      "futuroPerfecto": "I will have finished",
+      "pluscuamperfecto": "I had finished"
+    },
+    "afirmativo": "Finish!",
+    "negativo": "Don't finish!"
+  },
+  "attribution": "Fred Jehle"
+}

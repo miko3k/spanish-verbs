@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "burlarse (de alguien/algo)",
+  "gerundio": "burlándose",
+  "participioPasado": "burlado",
+  "indicativo": {
+    "presente": {
+      "yo": "me burlo",
+      "tu": "te burlas",
+      "ud": "se burla",
+      "nosotros": "nos burlamos",
+      "vosotros": "os burláis",
+      "uds": "se burlan"
+    },
+    "futuro": {
+      "yo": "me burlaré",
+      "tu": "te burlarás",
+      "ud": "se burlará",
+      "nosotros": "nos burlaremos",
+      "vosotros": "os burlaréis",
+      "uds": "se burlarán"
+    },
+    "imperfecto": {
+      "yo": "me burlaba",
+      "tu": "te burlabas",
+      "ud": "se burlaba",
+      "nosotros": "nos burlábamos",
+      "vosotros": "os burlabais",
+      "uds": "se burlaban"
+    },
+    "preterito": {
+      "yo": "me burlé",
+      "tu": "te burlaste",
+      "ud": "se burló",
+      "nosotros": "nos burlamos",
+      "vosotros": "os burlasteis",
+      "uds": "se burlaron"
+    },
+    "condicional": {
+      "yo": "me burlaría",
+      "tu": "te burlarías",
+      "ud": "se burlaría",
+      "nosotros": "nos burlaríamos",
+      "vosotros": "os burlaríais",
+      "uds": "se burlarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he burlado",
+      "tu": "te has burlado",
+      "ud": "se ha burlado",
+      "nosotros": "nos hemos burlado",
+      "vosotros": "os habéis burlado",
+      "uds": "se han burlado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré burlado",
+      "tu": "te habrás burlado",
+      "ud": "se habrá burlado",
+      "nosotros": "nos habremos burlado",
+      "vosotros": "os habréis burlado",
+      "uds": "se habrán burlado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había burlado",
+      "tu": "te habías burlado",
+      "ud": "se había burlado",
+      "nosotros": "nos habíamos burlado",
+      "vosotros": "os habíais burlado",
+      "uds": "se habían burlado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube burlado",
+      "tu": "te hubiste burlado",
+      "ud": "se hubo burlado",
+      "nosotros": "nos hubimos burlado",
+      "vosotros": "os hubisteis burlado",
+      "uds": "se hubieron burlado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría burlado",
+      "tu": "te habrías burlado",
+      "ud": "se habría burlado",
+      "nosotros": "nos habríamos burlado",
+      "vosotros": "os habríais burlado",
+      "uds": "se habrían burlado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me burle",
+      "tu": "te burles",
+      "ud": "se burle",
+      "nosotros": "nos burlemos",
+      "vosotros": "os burléis",
+      "uds": "se burlen"
+    },
+    "imperfecto": {
+      "yo": "me burlara",
+      "tu": "te burlaras",
+      "ud": "se burlara",
+      "nosotros": "nos burláramos",
+      "vosotros": "os burlarais",
+      "uds": "se burlaran"
+    },
+    "futuro": {
+      "yo": "me burlare",
+      "tu": "te burlares",
+      "ud": "se burlare",
+      "nosotros": "nos burláremos",
+      "vosotros": "os burlareis",
+      "uds": "se burlaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya burlado",
+      "tu": "te hayas burlado",
+      "ud": "se haya burlado",
+      "nosotros": "nos hayamos burlado",
+      "vosotros": "os hayáis burlado",
+      "uds": "se hayan burlado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere burlado",
+      "tu": "te hubieres burlado",
+      "ud": "se hubiere burlado",
+      "nosotros": "nos hubiéremos burlado",
+      "vosotros": "os hubiereis burlado",
+      "uds": "se hubieren burlado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera burlado",
+      "tu": "te hubieras burlado",
+      "ud": "se hubiera burlado",
+      "nosotros": "nos hubiéramos burlado",
+      "vosotros": "os hubierais burlado",
+      "uds": "se hubieran burlado"
+    },
+    "imperfectoAlt": {
+      "yo": "me burlase",
+      "tu": "te burlases",
+      "ud": "se burlase",
+      "nosotros": "nos burlásemos",
+      "vosotros": "os burlaseis",
+      "uds": "se burlasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese burlado",
+      "tu": "te hubieses burlado",
+      "ud": "se hubiese burlado",
+      "nosotros": "nos hubiésemos burlado",
+      "vosotros": "os hubieseis burlado",
+      "uds": "se hubiesen burlado"
+    }
+  },
+  "afirmativo": {
+    "tu": "búrlate",
+    "vosotros": "burlaos",
+    "ud": "búrlese",
+    "uds": "búrlense"
+  },
+  "negativo": {
+    "tu": "no te burles",
+    "vosotros": "no os burléis",
+    "ud": "no se burle",
+    "uds": "no se burlen"
+  },
+  "english": {
+    "note": "Note: For to decieve, trick, seduce, use the nonreflexive form burlar.",
+    "infinitivo": "to mock, ridicule, make fun of (someone/something)",
+    "gerundio": "mocking",
+    "participioPasado": "mocked",
+    "indicativo": {
+      "presente": "I mock, am mocking",
+      "futuro": "I will mock",
+      "imperfecto": "I was mocking, used to mock, mocked",
+      "preterito": "I mocked",
+      "condicional": "I would mock",
+      "presentePerfecto": "I have mocked",
+      "futuroPerfecto": "I will have mocked",
+      "pluscuamperfecto": "I had mocked",
+      "preteritoAnterior": "I had mocked",
+      "condicionalPerfecto": "I would have mocked"
+    },
+    "subjuntivo": {
+      "presente": "I mock, am mocking",
+      "imperfecto": "I mocked, was mocking",
+      "futuro": "I will mock",
+      "presentePerfecto": "I have mocked, mocked",
+      "futuroPerfecto": "I will have mocked",
+      "pluscuamperfecto": "I had mocked"
+    },
+    "afirmativo": "Mock!",
+    "negativo": "Don't mock!"
+  },
+  "attribution": "Fred Jehle"
+}

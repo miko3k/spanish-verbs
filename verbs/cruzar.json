@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "cruzar",
+  "gerundio": "cruzando",
+  "participioPasado": "cruzado",
+  "indicativo": {
+    "presente": {
+      "yo": "cruzo",
+      "tu": "cruzas",
+      "ud": "cruza",
+      "nosotros": "cruzamos",
+      "vosotros": "cruzáis",
+      "uds": "cruzan"
+    },
+    "futuro": {
+      "yo": "cruzaré",
+      "tu": "cruzarás",
+      "ud": "cruzará",
+      "nosotros": "cruzaremos",
+      "vosotros": "cruzaréis",
+      "uds": "cruzarán"
+    },
+    "imperfecto": {
+      "yo": "cruzaba",
+      "tu": "cruzabas",
+      "ud": "cruzaba",
+      "nosotros": "cruzábamos",
+      "vosotros": "cruzabais",
+      "uds": "cruzaban"
+    },
+    "preterito": {
+      "yo": "crucé",
+      "tu": "cruzaste",
+      "ud": "cruzó",
+      "nosotros": "cruzamos",
+      "vosotros": "cruzasteis",
+      "uds": "cruzaron"
+    },
+    "condicional": {
+      "yo": "cruzaría",
+      "tu": "cruzarías",
+      "ud": "cruzaría",
+      "nosotros": "cruzaríamos",
+      "vosotros": "cruzaríais",
+      "uds": "cruzarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cruzado",
+      "tu": "has cruzado",
+      "ud": "ha cruzado",
+      "nosotros": "hemos cruzado",
+      "vosotros": "habéis cruzado",
+      "uds": "han cruzado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cruzado",
+      "tu": "habrás cruzado",
+      "ud": "habrá cruzado",
+      "nosotros": "habremos cruzado",
+      "vosotros": "habréis cruzado",
+      "uds": "habrán cruzado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cruzado",
+      "tu": "habías cruzado",
+      "ud": "había cruzado",
+      "nosotros": "habíamos cruzado",
+      "vosotros": "habíais cruzado",
+      "uds": "habían cruzado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cruzado",
+      "tu": "hubiste cruzado",
+      "ud": "hubo cruzado",
+      "nosotros": "hubimos cruzado",
+      "vosotros": "hubisteis cruzado",
+      "uds": "hubieron cruzado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cruzado",
+      "tu": "habrías cruzado",
+      "ud": "habría cruzado",
+      "nosotros": "habríamos cruzado",
+      "vosotros": "habríais cruzado",
+      "uds": "habrían cruzado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "cruce",
+      "tu": "cruces",
+      "ud": "cruce",
+      "nosotros": "crucemos",
+      "vosotros": "crucéis",
+      "uds": "crucen"
+    },
+    "imperfecto": {
+      "yo": "cruzara",
+      "tu": "cruzaras",
+      "ud": "cruzara",
+      "nosotros": "cruzáramos",
+      "vosotros": "cruzarais",
+      "uds": "cruzaran"
+    },
+    "futuro": {
+      "yo": "cruzare",
+      "tu": "cruzares",
+      "ud": "cruzare",
+      "nosotros": "cruzáremos",
+      "vosotros": "cruzareis",
+      "uds": "cruzaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cruzado",
+      "tu": "hayas cruzado",
+      "ud": "haya cruzado",
+      "nosotros": "hayamos cruzado",
+      "vosotros": "hayáis cruzado",
+      "uds": "hayan cruzado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cruzado",
+      "tu": "hubieres cruzado",
+      "ud": "hubiere cruzado",
+      "nosotros": "hubiéremos cruzado",
+      "vosotros": "hubiereis cruzado",
+      "uds": "hubieren cruzado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cruzado",
+      "tu": "hubieras cruzado",
+      "ud": "hubiera cruzado",
+      "nosotros": "hubiéramos cruzado",
+      "vosotros": "hubierais cruzado",
+      "uds": "hubieran cruzado"
+    },
+    "imperfectoAlt": {
+      "yo": "cruzase",
+      "tu": "cruzases",
+      "ud": "cruzase",
+      "nosotros": "cruzásemos",
+      "vosotros": "cruzaseis",
+      "uds": "cruzasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cruzado",
+      "tu": "hubieses cruzado",
+      "ud": "hubiese cruzado",
+      "nosotros": "hubiésemos cruzado",
+      "vosotros": "hubieseis cruzado",
+      "uds": "hubiesen cruzado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cruza",
+    "vosotros": "cruzad",
+    "ud": "cruce",
+    "uds": "crucen"
+  },
+  "negativo": {
+    "tu": "no cruces",
+    "vosotros": "no crucéis",
+    "ud": "no cruce",
+    "uds": "no crucen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: z > c delante de e.",
+    "infinitivo": "to cross",
+    "gerundio": "crossing",
+    "participioPasado": "crossed",
+    "indicativo": {
+      "presente": "I cross, am crossing",
+      "futuro": "I will cross",
+      "imperfecto": "I was crossing, used to cross, crossed",
+      "preterito": "I crossed",
+      "condicional": "I would cross",
+      "presentePerfecto": "I have crossed",
+      "futuroPerfecto": "I will have crossed",
+      "pluscuamperfecto": "I had crossed",
+      "preteritoAnterior": "I had crossed",
+      "condicionalPerfecto": "I would have crossed"
+    },
+    "subjuntivo": {
+      "presente": "I cross, am crossing",
+      "imperfecto": "I crossed, was crossing",
+      "futuro": "I will cross",
+      "presentePerfecto": "I have crossed, crossed",
+      "futuroPerfecto": "I will have crossed",
+      "pluscuamperfecto": "I had crossed"
+    },
+    "afirmativo": "Cross!",
+    "negativo": "Don't cross!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "mezclar",
+  "gerundio": "mezclando",
+  "participioPasado": "mezclado",
+  "indicativo": {
+    "presente": {
+      "yo": "mezclo",
+      "tu": "mezclas",
+      "ud": "mezcla",
+      "nosotros": "mezclamos",
+      "vosotros": "mezcláis",
+      "uds": "mezclan"
+    },
+    "futuro": {
+      "yo": "mezclaré",
+      "tu": "mezclarás",
+      "ud": "mezclará",
+      "nosotros": "mezclaremos",
+      "vosotros": "mezclaréis",
+      "uds": "mezclarán"
+    },
+    "imperfecto": {
+      "yo": "mezclaba",
+      "tu": "mezclabas",
+      "ud": "mezclaba",
+      "nosotros": "mezclábamos",
+      "vosotros": "mezclabais",
+      "uds": "mezclaban"
+    },
+    "preterito": {
+      "yo": "mezclé",
+      "tu": "mezclaste",
+      "ud": "mezcló",
+      "nosotros": "mezclamos",
+      "vosotros": "mezclasteis",
+      "uds": "mezclaron"
+    },
+    "condicional": {
+      "yo": "mezclaría",
+      "tu": "mezclarías",
+      "ud": "mezclaría",
+      "nosotros": "mezclaríamos",
+      "vosotros": "mezclaríais",
+      "uds": "mezclarían"
+    },
+    "presentePerfecto": {
+      "yo": "he mezclado",
+      "tu": "has mezclado",
+      "ud": "ha mezclado",
+      "nosotros": "hemos mezclado",
+      "vosotros": "habéis mezclado",
+      "uds": "han mezclado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré mezclado",
+      "tu": "habrás mezclado",
+      "ud": "habrá mezclado",
+      "nosotros": "habremos mezclado",
+      "vosotros": "habréis mezclado",
+      "uds": "habrán mezclado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había mezclado",
+      "tu": "habías mezclado",
+      "ud": "había mezclado",
+      "nosotros": "habíamos mezclado",
+      "vosotros": "habíais mezclado",
+      "uds": "habían mezclado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube mezclado",
+      "tu": "hubiste mezclado",
+      "ud": "hubo mezclado",
+      "nosotros": "hubimos mezclado",
+      "vosotros": "hubisteis mezclado",
+      "uds": "hubieron mezclado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría mezclado",
+      "tu": "habrías mezclado",
+      "ud": "habría mezclado",
+      "nosotros": "habríamos mezclado",
+      "vosotros": "habríais mezclado",
+      "uds": "habrían mezclado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "mezcle",
+      "tu": "mezcles",
+      "ud": "mezcle",
+      "nosotros": "mezclemos",
+      "vosotros": "mezcléis",
+      "uds": "mezclen"
+    },
+    "imperfecto": {
+      "yo": "mezclara",
+      "tu": "mezclaras",
+      "ud": "mezclara",
+      "nosotros": "mezcláramos",
+      "vosotros": "mezclarais",
+      "uds": "mezclaran"
+    },
+    "futuro": {
+      "yo": "mezclare",
+      "tu": "mezclares",
+      "ud": "mezclare",
+      "nosotros": "mezcláremos",
+      "vosotros": "mezclareis",
+      "uds": "mezclaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya mezclado",
+      "tu": "hayas mezclado",
+      "ud": "haya mezclado",
+      "nosotros": "hayamos mezclado",
+      "vosotros": "hayáis mezclado",
+      "uds": "hayan mezclado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere mezclado",
+      "tu": "hubieres mezclado",
+      "ud": "hubiere mezclado",
+      "nosotros": "hubiéremos mezclado",
+      "vosotros": "hubiereis mezclado",
+      "uds": "hubieren mezclado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera mezclado",
+      "tu": "hubieras mezclado",
+      "ud": "hubiera mezclado",
+      "nosotros": "hubiéramos mezclado",
+      "vosotros": "hubierais mezclado",
+      "uds": "hubieran mezclado"
+    },
+    "imperfectoAlt": {
+      "yo": "mezclase",
+      "tu": "mezclases",
+      "ud": "mezclase",
+      "nosotros": "mezclásemos",
+      "vosotros": "mezclaseis",
+      "uds": "mezclasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese mezclado",
+      "tu": "hubieses mezclado",
+      "ud": "hubiese mezclado",
+      "nosotros": "hubiésemos mezclado",
+      "vosotros": "hubieseis mezclado",
+      "uds": "hubiesen mezclado"
+    }
+  },
+  "afirmativo": {
+    "tu": "mezcla",
+    "vosotros": "mezclad",
+    "ud": "mezcle",
+    "uds": "mezclen"
+  },
+  "negativo": {
+    "tu": "no mezcles",
+    "vosotros": "no mezcléis",
+    "ud": "no mezcle",
+    "uds": "no mezclen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to mix, mix up, mix together, blend; to combine, merge, shuffle",
+    "gerundio": "mixing",
+    "participioPasado": "mixed",
+    "indicativo": {
+      "presente": "I mix, am mixing",
+      "futuro": "I will mix",
+      "imperfecto": "I was mixing, used to mix, mixed",
+      "preterito": "I mixed",
+      "condicional": "I would mix",
+      "presentePerfecto": "I have mixed",
+      "futuroPerfecto": "I will have mixed",
+      "pluscuamperfecto": "I had mixed",
+      "preteritoAnterior": "I had mixed",
+      "condicionalPerfecto": "I would have mixed"
+    },
+    "subjuntivo": {
+      "presente": "I mix, am mixing",
+      "imperfecto": "I mixed, was mixing",
+      "futuro": "I will mix",
+      "presentePerfecto": "I have mixed, mixed",
+      "futuroPerfecto": "I will have mixed",
+      "pluscuamperfecto": "I had mixed"
+    },
+    "afirmativo": "Mix!",
+    "negativo": "Don't mix!"
+  },
+  "attribution": "Fred Jehle"
+}

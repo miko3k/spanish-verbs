@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "surgir",
+  "gerundio": "surgiendo",
+  "participioPasado": "surgido",
+  "indicativo": {
+    "presente": {
+      "yo": "surjo",
+      "tu": "surges",
+      "ud": "surge",
+      "nosotros": "surgimos",
+      "vosotros": "surgís",
+      "uds": "surgen"
+    },
+    "futuro": {
+      "yo": "surgiré",
+      "tu": "surgirás",
+      "ud": "surgirá",
+      "nosotros": "surgiremos",
+      "vosotros": "surgiréis",
+      "uds": "surgirán"
+    },
+    "imperfecto": {
+      "yo": "surgía",
+      "tu": "surgías",
+      "ud": "surgía",
+      "nosotros": "surgíamos",
+      "vosotros": "surgíais",
+      "uds": "surgían"
+    },
+    "preterito": {
+      "yo": "surgí",
+      "tu": "surgiste",
+      "ud": "surgió",
+      "nosotros": "surgimos",
+      "vosotros": "surgisteis",
+      "uds": "surgieron"
+    },
+    "condicional": {
+      "yo": "surgiría",
+      "tu": "surgirías",
+      "ud": "surgiría",
+      "nosotros": "surgiríamos",
+      "vosotros": "surgiríais",
+      "uds": "surgirían"
+    },
+    "presentePerfecto": {
+      "yo": "he surgido",
+      "tu": "has surgido",
+      "ud": "ha surgido",
+      "nosotros": "hemos surgido",
+      "vosotros": "habéis surgido",
+      "uds": "han surgido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré surgido",
+      "tu": "habrás surgido",
+      "ud": "habrá surgido",
+      "nosotros": "habremos surgido",
+      "vosotros": "habréis surgido",
+      "uds": "habrán surgido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había surgido",
+      "tu": "habías surgido",
+      "ud": "había surgido",
+      "nosotros": "habíamos surgido",
+      "vosotros": "habíais surgido",
+      "uds": "habían surgido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube surgido",
+      "tu": "hubiste surgido",
+      "ud": "hubo surgido",
+      "nosotros": "hubimos surgido",
+      "vosotros": "hubisteis surgido",
+      "uds": "hubieron surgido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría surgido",
+      "tu": "habrías surgido",
+      "ud": "habría surgido",
+      "nosotros": "habríamos surgido",
+      "vosotros": "habríais surgido",
+      "uds": "habrían surgido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "surja",
+      "tu": "surjas",
+      "ud": "surja",
+      "nosotros": "surjamos",
+      "vosotros": "surjáis",
+      "uds": "surjan"
+    },
+    "imperfecto": {
+      "yo": "surgiera",
+      "tu": "surgieras",
+      "ud": "surgiera",
+      "nosotros": "surgiéramos",
+      "vosotros": "surgierais",
+      "uds": "surgieran"
+    },
+    "futuro": {
+      "yo": "surgiere",
+      "tu": "surgieres",
+      "ud": "surgiere",
+      "nosotros": "surgiéremos",
+      "vosotros": "surgiereis",
+      "uds": "surgieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya surgido",
+      "tu": "hayas surgido",
+      "ud": "haya surgido",
+      "nosotros": "hayamos surgido",
+      "vosotros": "hayáis surgido",
+      "uds": "hayan surgido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere surgido",
+      "tu": "hubieres surgido",
+      "ud": "hubiere surgido",
+      "nosotros": "hubiéremos surgido",
+      "vosotros": "hubiereis surgido",
+      "uds": "hubieren surgido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera surgido",
+      "tu": "hubieras surgido",
+      "ud": "hubiera surgido",
+      "nosotros": "hubiéramos surgido",
+      "vosotros": "hubierais surgido",
+      "uds": "hubieran surgido"
+    },
+    "imperfectoAlt": {
+      "yo": "surgiese",
+      "tu": "surgieses",
+      "ud": "surgiese",
+      "nosotros": "surgiésemos",
+      "vosotros": "surgieseis",
+      "uds": "surgiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese surgido",
+      "tu": "hubieses surgido",
+      "ud": "hubiese surgido",
+      "nosotros": "hubiésemos surgido",
+      "vosotros": "hubieseis surgido",
+      "uds": "hubiesen surgido"
+    }
+  },
+  "afirmativo": {
+    "tu": "surge",
+    "vosotros": "surgid",
+    "ud": "surja",
+    "uds": "surjan"
+  },
+  "negativo": {
+    "tu": "no surjas",
+    "vosotros": "no surjáis",
+    "ud": "no surja",
+    "uds": "no surjan"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > j delante de o y a.",
+    "infinitivo": "to arise, emerge, spring up, come out, appear",
+    "gerundio": "arising",
+    "participioPasado": "arisen",
+    "indicativo": {
+      "presente": "I arise, am arising",
+      "futuro": "I will arise",
+      "imperfecto": "I was arising, used to arise, arose",
+      "preterito": "I arose",
+      "condicional": "I would arise",
+      "presentePerfecto": "I have arisen",
+      "futuroPerfecto": "I will have arisen",
+      "pluscuamperfecto": "I had arisen",
+      "preteritoAnterior": "I had arisen",
+      "condicionalPerfecto": "I would have arisen"
+    },
+    "subjuntivo": {
+      "presente": "I arise, am arising",
+      "imperfecto": "I arose, was arising",
+      "futuro": "I will arise",
+      "presentePerfecto": "I have arisen, arose",
+      "futuroPerfecto": "I will have arisen",
+      "pluscuamperfecto": "I had arisen"
+    },
+    "afirmativo": "Arise!",
+    "negativo": "Don't arise!"
+  },
+  "attribution": "Fred Jehle"
+}

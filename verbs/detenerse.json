@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "detenerse",
+  "gerundio": "deteniéndose",
+  "participioPasado": "detenido",
+  "indicativo": {
+    "presente": {
+      "yo": "me detengo",
+      "tu": "te detienes",
+      "ud": "se detiene",
+      "nosotros": "nos detenemos",
+      "vosotros": "os detenéis",
+      "uds": "se detienen"
+    },
+    "futuro": {
+      "yo": "me detendré",
+      "tu": "te detendrás",
+      "ud": "se detendrá",
+      "nosotros": "nos detendremos",
+      "vosotros": "os detendréis",
+      "uds": "se detendrán"
+    },
+    "imperfecto": {
+      "yo": "me detenía",
+      "tu": "te detenías",
+      "ud": "se detenía",
+      "nosotros": "nos deteníamos",
+      "vosotros": "os deteníais",
+      "uds": "se detenían"
+    },
+    "preterito": {
+      "yo": "me detuve",
+      "tu": "te detuviste",
+      "ud": "se detuvo",
+      "nosotros": "nos detuvimos",
+      "vosotros": "os detuvisteis",
+      "uds": "se detuvieron"
+    },
+    "condicional": {
+      "yo": "me detendría",
+      "tu": "te detendrías",
+      "ud": "se detendría",
+      "nosotros": "nos detendríamos",
+      "vosotros": "os detendríais",
+      "uds": "se detendrían"
+    },
+    "presentePerfecto": {
+      "yo": "me he detenido",
+      "tu": "te has detenido",
+      "ud": "se ha detenido",
+      "nosotros": "nos hemos detenido",
+      "vosotros": "os habéis detenido",
+      "uds": "se han detenido"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré detenido",
+      "tu": "te habrás detenido",
+      "ud": "se habrá detenido",
+      "nosotros": "nos habremos detenido",
+      "vosotros": "os habréis detenido",
+      "uds": "se habrán detenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había detenido",
+      "tu": "te habías detenido",
+      "ud": "se había detenido",
+      "nosotros": "nos habíamos detenido",
+      "vosotros": "os habíais detenido",
+      "uds": "se habían detenido"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube detenido",
+      "tu": "te hubiste detenido",
+      "ud": "se hubo detenido",
+      "nosotros": "nos hubimos detenido",
+      "vosotros": "os hubisteis detenido",
+      "uds": "se hubieron detenido"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría detenido",
+      "tu": "te habrías detenido",
+      "ud": "se habría detenido",
+      "nosotros": "nos habríamos detenido",
+      "vosotros": "os habríais detenido",
+      "uds": "se habrían detenido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me detenga",
+      "tu": "te detengas",
+      "ud": "se detenga",
+      "nosotros": "nos detengamos",
+      "vosotros": "os detengáis",
+      "uds": "se detengan"
+    },
+    "imperfecto": {
+      "yo": "me detuviera",
+      "tu": "te detuvieras",
+      "ud": "se detuviera",
+      "nosotros": "nos detuviéramos",
+      "vosotros": "os detuvierais",
+      "uds": "se detuvieran"
+    },
+    "futuro": {
+      "yo": "me detuviere",
+      "tu": "te detuvieres",
+      "ud": "se detuviere",
+      "nosotros": "nos detuviéremos",
+      "vosotros": "os detuviereis",
+      "uds": "se detuvieren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya detenido",
+      "tu": "te hayas detenido",
+      "ud": "se haya detenido",
+      "nosotros": "nos hayamos detenido",
+      "vosotros": "os hayáis detenido",
+      "uds": "se hayan detenido"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere detenido",
+      "tu": "te hubieres detenido",
+      "ud": "se hubiere detenido",
+      "nosotros": "nos hubiéremos detenido",
+      "vosotros": "os hubiereis detenido",
+      "uds": "se hubieren detenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera detenido",
+      "tu": "te hubieras detenido",
+      "ud": "se hubiera detenido",
+      "nosotros": "nos hubiéramos detenido",
+      "vosotros": "os hubierais detenido",
+      "uds": "se hubieran detenido"
+    },
+    "imperfectoAlt": {
+      "yo": "me detuviese",
+      "tu": "te detuvieses",
+      "ud": "se detuviese",
+      "nosotros": "nos detuviésemos",
+      "vosotros": "os detuvieseis",
+      "uds": "se detuviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese detenido",
+      "tu": "te hubieses detenido",
+      "ud": "se hubiese detenido",
+      "nosotros": "nos hubiésemos detenido",
+      "vosotros": "os hubieseis detenido",
+      "uds": "se hubiesen detenido"
+    }
+  },
+  "afirmativo": {
+    "tu": "detente",
+    "vosotros": "deteneos",
+    "ud": "deténgase",
+    "uds": "deténganse"
+  },
+  "negativo": {
+    "tu": "no te detengas",
+    "vosotros": "no os detengáis",
+    "ud": "no se detenga",
+    "uds": "no se detengan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie. Formas irregulares: detengo, detenga, detengas, etc. Radical irregular en el futuro y condicional: detendr-. Radical fuerte en el pretérito: detuv-. Mandato familiar singular irregular: detén. This reflexive form is intransitive; for example, it means to stop in the sense of to come to a stop; use the nonreflexive form detener if a transitive verb is needed, such as detener a alguien, to stop someone.",
+    "infinitivo": "to stop, pause, linger",
+    "gerundio": "stopping",
+    "participioPasado": "stopped",
+    "indicativo": {
+      "presente": "I stop, am stopping",
+      "futuro": "I will stop",
+      "imperfecto": "I was stopping, used to stop, stopped",
+      "preterito": "I stopped",
+      "condicional": "I would stop",
+      "presentePerfecto": "I have stopped",
+      "futuroPerfecto": "I will have stopped",
+      "pluscuamperfecto": "I had stopped",
+      "preteritoAnterior": "I had stopped",
+      "condicionalPerfecto": "I would have stopped"
+    },
+    "subjuntivo": {
+      "presente": "I stop, am stopping",
+      "imperfecto": "I stopped, was stopping",
+      "futuro": "I will stop",
+      "presentePerfecto": "I have stopped, stopped",
+      "futuroPerfecto": "I will have stopped",
+      "pluscuamperfecto": "I had stopped"
+    },
+    "afirmativo": "Stop!",
+    "negativo": "Don't stop!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "criar",
+  "gerundio": "criando",
+  "participioPasado": "criado",
+  "indicativo": {
+    "presente": {
+      "yo": "crío",
+      "tu": "crías",
+      "ud": "cría",
+      "nosotros": "criamos",
+      "vosotros": "criáis",
+      "uds": "crían"
+    },
+    "futuro": {
+      "yo": "criaré",
+      "tu": "criarás",
+      "ud": "criará",
+      "nosotros": "criaremos",
+      "vosotros": "criaréis",
+      "uds": "criarán"
+    },
+    "imperfecto": {
+      "yo": "criaba",
+      "tu": "criabas",
+      "ud": "criaba",
+      "nosotros": "criábamos",
+      "vosotros": "criabais",
+      "uds": "criaban"
+    },
+    "preterito": {
+      "yo": "crié",
+      "tu": "criaste",
+      "ud": "crio",
+      "nosotros": "criamos",
+      "vosotros": "criasteis",
+      "uds": "criaron"
+    },
+    "condicional": {
+      "yo": "criaría",
+      "tu": "criarías",
+      "ud": "criaría",
+      "nosotros": "criaríamos",
+      "vosotros": "criaríais",
+      "uds": "criarían"
+    },
+    "presentePerfecto": {
+      "yo": "he criado",
+      "tu": "has criado",
+      "ud": "ha criado",
+      "nosotros": "hemos criado",
+      "vosotros": "habéis criado",
+      "uds": "han criado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré criado",
+      "tu": "habrás criado",
+      "ud": "habrá criado",
+      "nosotros": "habremos criado",
+      "vosotros": "habréis criado",
+      "uds": "habrán criado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había criado",
+      "tu": "habías criado",
+      "ud": "había criado",
+      "nosotros": "habíamos criado",
+      "vosotros": "habíais criado",
+      "uds": "habían criado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube criado",
+      "tu": "hubiste criado",
+      "ud": "hubo criado",
+      "nosotros": "hubimos criado",
+      "vosotros": "hubisteis criado",
+      "uds": "hubieron criado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría criado",
+      "tu": "habrías criado",
+      "ud": "habría criado",
+      "nosotros": "habríamos criado",
+      "vosotros": "habríais criado",
+      "uds": "habrían criado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "críe",
+      "tu": "críes",
+      "ud": "críe",
+      "nosotros": "criemos",
+      "vosotros": "criéis",
+      "uds": "críen"
+    },
+    "imperfecto": {
+      "yo": "criara",
+      "tu": "criaras",
+      "ud": "criara",
+      "nosotros": "criáramos",
+      "vosotros": "criarais",
+      "uds": "criaran"
+    },
+    "futuro": {
+      "yo": "criare",
+      "tu": "criares",
+      "ud": "criare",
+      "nosotros": "criáremos",
+      "vosotros": "criareis",
+      "uds": "criaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya criado",
+      "tu": "hayas criado",
+      "ud": "haya criado",
+      "nosotros": "hayamos criado",
+      "vosotros": "hayáis criado",
+      "uds": "hayan criado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere criado",
+      "tu": "hubieres criado",
+      "ud": "hubiere criado",
+      "nosotros": "hubiéremos criado",
+      "vosotros": "hubiereis criado",
+      "uds": "hubieren criado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera criado",
+      "tu": "hubieras criado",
+      "ud": "hubiera criado",
+      "nosotros": "hubiéramos criado",
+      "vosotros": "hubierais criado",
+      "uds": "hubieran criado"
+    },
+    "imperfectoAlt": {
+      "yo": "criase",
+      "tu": "criases",
+      "ud": "criase",
+      "nosotros": "criásemos",
+      "vosotros": "criaseis",
+      "uds": "criasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese criado",
+      "tu": "hubieses criado",
+      "ud": "hubiese criado",
+      "nosotros": "hubiésemos criado",
+      "vosotros": "hubieseis criado",
+      "uds": "hubiesen criado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cría",
+    "vosotros": "criad",
+    "ud": "críe",
+    "uds": "críen"
+  },
+  "negativo": {
+    "tu": "no críes",
+    "vosotros": "no criéis",
+    "ud": "no críe",
+    "uds": "no críen"
+  },
+  "english": {
+    "note": "Cambio: i > í cuando la radical tiene el acento tónico.",
+    "infinitivo": "to raise (children, animals, plants); to nurse (babies); to tend, cultivate (plants); to bring up, educate (children)",
+    "gerundio": "raising",
+    "participioPasado": "raised",
+    "indicativo": {
+      "presente": "I raise, am raising",
+      "futuro": "I will raise",
+      "imperfecto": "I was raising, used to raise, raised",
+      "preterito": "I raised",
+      "condicional": "I would raise",
+      "presentePerfecto": "I have raised",
+      "futuroPerfecto": "I will have raised",
+      "pluscuamperfecto": "I had raised",
+      "preteritoAnterior": "I had raised",
+      "condicionalPerfecto": "I would have raised"
+    },
+    "subjuntivo": {
+      "presente": "I raise, am raising",
+      "imperfecto": "I raised, was raising",
+      "futuro": "I will raise",
+      "presentePerfecto": "I have raised, raised",
+      "futuroPerfecto": "I will have raised",
+      "pluscuamperfecto": "I had raised"
+    },
+    "afirmativo": "Raise!",
+    "negativo": "Don't raise!"
+  },
+  "attribution": "Fred Jehle"
+}

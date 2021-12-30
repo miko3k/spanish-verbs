@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "enseñar",
+  "gerundio": "enseñando",
+  "participioPasado": "enseñado",
+  "indicativo": {
+    "presente": {
+      "yo": "enseño",
+      "tu": "enseñas",
+      "ud": "enseña",
+      "nosotros": "enseñamos",
+      "vosotros": "enseñáis",
+      "uds": "enseñan"
+    },
+    "futuro": {
+      "yo": "enseñaré",
+      "tu": "enseñarás",
+      "ud": "enseñará",
+      "nosotros": "enseñaremos",
+      "vosotros": "enseñaréis",
+      "uds": "enseñarán"
+    },
+    "imperfecto": {
+      "yo": "enseñaba",
+      "tu": "enseñabas",
+      "ud": "enseñaba",
+      "nosotros": "enseñábamos",
+      "vosotros": "enseñabais",
+      "uds": "enseñaban"
+    },
+    "preterito": {
+      "yo": "enseñé",
+      "tu": "enseñaste",
+      "ud": "enseñó",
+      "nosotros": "enseñamos",
+      "vosotros": "enseñasteis",
+      "uds": "enseñaron"
+    },
+    "condicional": {
+      "yo": "enseñaría",
+      "tu": "enseñarías",
+      "ud": "enseñaría",
+      "nosotros": "enseñaríamos",
+      "vosotros": "enseñaríais",
+      "uds": "enseñarían"
+    },
+    "presentePerfecto": {
+      "yo": "he enseñado",
+      "tu": "has enseñado",
+      "ud": "ha enseñado",
+      "nosotros": "hemos enseñado",
+      "vosotros": "habéis enseñado",
+      "uds": "han enseñado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré enseñado",
+      "tu": "habrás enseñado",
+      "ud": "habrá enseñado",
+      "nosotros": "habremos enseñado",
+      "vosotros": "habréis enseñado",
+      "uds": "habrán enseñado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había enseñado",
+      "tu": "habías enseñado",
+      "ud": "había enseñado",
+      "nosotros": "habíamos enseñado",
+      "vosotros": "habíais enseñado",
+      "uds": "habían enseñado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube enseñado",
+      "tu": "hubiste enseñado",
+      "ud": "hubo enseñado",
+      "nosotros": "hubimos enseñado",
+      "vosotros": "hubisteis enseñado",
+      "uds": "hubieron enseñado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría enseñado",
+      "tu": "habrías enseñado",
+      "ud": "habría enseñado",
+      "nosotros": "habríamos enseñado",
+      "vosotros": "habríais enseñado",
+      "uds": "habrían enseñado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "enseñe",
+      "tu": "enseñes",
+      "ud": "enseñe",
+      "nosotros": "enseñemos",
+      "vosotros": "enseñéis",
+      "uds": "enseñen"
+    },
+    "imperfecto": {
+      "yo": "enseñara",
+      "tu": "enseñaras",
+      "ud": "enseñara",
+      "nosotros": "enseñáramos",
+      "vosotros": "enseñarais",
+      "uds": "enseñaran"
+    },
+    "futuro": {
+      "yo": "enseñare",
+      "tu": "enseñares",
+      "ud": "enseñare",
+      "nosotros": "enseñáremos",
+      "vosotros": "enseñareis",
+      "uds": "enseñaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya enseñado",
+      "tu": "hayas enseñado",
+      "ud": "haya enseñado",
+      "nosotros": "hayamos enseñado",
+      "vosotros": "hayáis enseñado",
+      "uds": "hayan enseñado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere enseñado",
+      "tu": "hubieres enseñado",
+      "ud": "hubiere enseñado",
+      "nosotros": "hubiéremos enseñado",
+      "vosotros": "hubiereis enseñado",
+      "uds": "hubieren enseñado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera enseñado",
+      "tu": "hubieras enseñado",
+      "ud": "hubiera enseñado",
+      "nosotros": "hubiéramos enseñado",
+      "vosotros": "hubierais enseñado",
+      "uds": "hubieran enseñado"
+    },
+    "imperfectoAlt": {
+      "yo": "enseñase",
+      "tu": "enseñases",
+      "ud": "enseñase",
+      "nosotros": "enseñásemos",
+      "vosotros": "enseñaseis",
+      "uds": "enseñasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese enseñado",
+      "tu": "hubieses enseñado",
+      "ud": "hubiese enseñado",
+      "nosotros": "hubiésemos enseñado",
+      "vosotros": "hubieseis enseñado",
+      "uds": "hubiesen enseñado"
+    }
+  },
+  "afirmativo": {
+    "tu": "enseña",
+    "vosotros": "enseñad",
+    "ud": "enseñe",
+    "uds": "enseñen"
+  },
+  "negativo": {
+    "tu": "no enseñes",
+    "vosotros": "no enseñéis",
+    "ud": "no enseñe",
+    "uds": "no enseñen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to teach, instruct, train, educate",
+    "gerundio": "teaching",
+    "participioPasado": "taught",
+    "indicativo": {
+      "presente": "I teach, am teaching",
+      "futuro": "I will teach",
+      "imperfecto": "I was teaching, used to teach, taught",
+      "preterito": "I taught",
+      "condicional": "I would teach",
+      "presentePerfecto": "I have taught",
+      "futuroPerfecto": "I will have taught",
+      "pluscuamperfecto": "I had taught",
+      "preteritoAnterior": "I had taught",
+      "condicionalPerfecto": "I would have taught"
+    },
+    "subjuntivo": {
+      "presente": "I teach, am teaching",
+      "imperfecto": "I taught, was teaching",
+      "futuro": "I will teach",
+      "presentePerfecto": "I have taught, taught",
+      "futuroPerfecto": "I will have taught",
+      "pluscuamperfecto": "I had taught"
+    },
+    "afirmativo": "Teach!",
+    "negativo": "Don't teach!"
+  },
+  "attribution": "Fred Jehle"
+}

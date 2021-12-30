@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "participar",
+  "gerundio": "participando",
+  "participioPasado": "participado",
+  "indicativo": {
+    "presente": {
+      "yo": "participo",
+      "tu": "participas",
+      "ud": "participa",
+      "nosotros": "participamos",
+      "vosotros": "participáis",
+      "uds": "participan"
+    },
+    "futuro": {
+      "yo": "participaré",
+      "tu": "participarás",
+      "ud": "participará",
+      "nosotros": "participaremos",
+      "vosotros": "participaréis",
+      "uds": "participarán"
+    },
+    "imperfecto": {
+      "yo": "participaba",
+      "tu": "participabas",
+      "ud": "participaba",
+      "nosotros": "participábamos",
+      "vosotros": "participabais",
+      "uds": "participaban"
+    },
+    "preterito": {
+      "yo": "participé",
+      "tu": "participaste",
+      "ud": "participó",
+      "nosotros": "participamos",
+      "vosotros": "participasteis",
+      "uds": "participaron"
+    },
+    "condicional": {
+      "yo": "participaría",
+      "tu": "participarías",
+      "ud": "participaría",
+      "nosotros": "participaríamos",
+      "vosotros": "participaríais",
+      "uds": "participarían"
+    },
+    "presentePerfecto": {
+      "yo": "he participado",
+      "tu": "has participado",
+      "ud": "ha participado",
+      "nosotros": "hemos participado",
+      "vosotros": "habéis participado",
+      "uds": "han participado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré participado",
+      "tu": "habrás participado",
+      "ud": "habrá participado",
+      "nosotros": "habremos participado",
+      "vosotros": "habréis participado",
+      "uds": "habrán participado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había participado",
+      "tu": "habías participado",
+      "ud": "había participado",
+      "nosotros": "habíamos participado",
+      "vosotros": "habíais participado",
+      "uds": "habían participado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube participado",
+      "tu": "hubiste participado",
+      "ud": "hubo participado",
+      "nosotros": "hubimos participado",
+      "vosotros": "hubisteis participado",
+      "uds": "hubieron participado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría participado",
+      "tu": "habrías participado",
+      "ud": "habría participado",
+      "nosotros": "habríamos participado",
+      "vosotros": "habríais participado",
+      "uds": "habrían participado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "participe",
+      "tu": "participes",
+      "ud": "participe",
+      "nosotros": "participemos",
+      "vosotros": "participéis",
+      "uds": "participen"
+    },
+    "imperfecto": {
+      "yo": "participara",
+      "tu": "participaras",
+      "ud": "participara",
+      "nosotros": "participáramos",
+      "vosotros": "participarais",
+      "uds": "participaran"
+    },
+    "futuro": {
+      "yo": "participare",
+      "tu": "participares",
+      "ud": "participare",
+      "nosotros": "participáremos",
+      "vosotros": "participareis",
+      "uds": "participaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya participado",
+      "tu": "hayas participado",
+      "ud": "haya participado",
+      "nosotros": "hayamos participado",
+      "vosotros": "hayáis participado",
+      "uds": "hayan participado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere participado",
+      "tu": "hubieres participado",
+      "ud": "hubiere participado",
+      "nosotros": "hubiéremos participado",
+      "vosotros": "hubiereis participado",
+      "uds": "hubieren participado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera participado",
+      "tu": "hubieras participado",
+      "ud": "hubiera participado",
+      "nosotros": "hubiéramos participado",
+      "vosotros": "hubierais participado",
+      "uds": "hubieran participado"
+    },
+    "imperfectoAlt": {
+      "yo": "participase",
+      "tu": "participases",
+      "ud": "participase",
+      "nosotros": "participásemos",
+      "vosotros": "participaseis",
+      "uds": "participasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese participado",
+      "tu": "hubieses participado",
+      "ud": "hubiese participado",
+      "nosotros": "hubiésemos participado",
+      "vosotros": "hubieseis participado",
+      "uds": "hubiesen participado"
+    }
+  },
+  "afirmativo": {
+    "tu": "participa",
+    "vosotros": "participad",
+    "ud": "participe",
+    "uds": "participen"
+  },
+  "negativo": {
+    "tu": "no participes",
+    "vosotros": "no participéis",
+    "ud": "no participe",
+    "uds": "no participen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to participate, take part in; to share in; to inform, notify",
+    "gerundio": "participating",
+    "participioPasado": "participated",
+    "indicativo": {
+      "presente": "I participate, am participating",
+      "futuro": "I will participate",
+      "imperfecto": "I was participating, used to participate, participated",
+      "preterito": "I participated",
+      "condicional": "I would participate",
+      "presentePerfecto": "I have participated",
+      "futuroPerfecto": "I will have participated",
+      "pluscuamperfecto": "I had participated",
+      "preteritoAnterior": "I had participated",
+      "condicionalPerfecto": "I would have participated"
+    },
+    "subjuntivo": {
+      "presente": "I participate, am participating",
+      "imperfecto": "I participated, was participating",
+      "futuro": "I will participate",
+      "presentePerfecto": "I have participated, participated",
+      "futuroPerfecto": "I will have participated",
+      "pluscuamperfecto": "I had participated"
+    },
+    "afirmativo": "Participate!",
+    "negativo": "Don't participate!"
+  },
+  "attribution": "Fred Jehle"
+}

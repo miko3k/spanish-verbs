@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "situar",
+  "gerundio": "situando",
+  "participioPasado": "situado",
+  "indicativo": {
+    "presente": {
+      "yo": "sitúo",
+      "tu": "sitúas",
+      "ud": "sitúa",
+      "nosotros": "situamos",
+      "vosotros": "situáis",
+      "uds": "sitúan"
+    },
+    "futuro": {
+      "yo": "situaré",
+      "tu": "situarás",
+      "ud": "situará",
+      "nosotros": "situaremos",
+      "vosotros": "situaréis",
+      "uds": "situarán"
+    },
+    "imperfecto": {
+      "yo": "situaba",
+      "tu": "situabas",
+      "ud": "situaba",
+      "nosotros": "situábamos",
+      "vosotros": "situabais",
+      "uds": "situaban"
+    },
+    "preterito": {
+      "yo": "situé",
+      "tu": "situaste",
+      "ud": "situó",
+      "nosotros": "situamos",
+      "vosotros": "situasteis",
+      "uds": "situaron"
+    },
+    "condicional": {
+      "yo": "situaría",
+      "tu": "situarías",
+      "ud": "situaría",
+      "nosotros": "situaríamos",
+      "vosotros": "situaríais",
+      "uds": "situarían"
+    },
+    "presentePerfecto": {
+      "yo": "he situado",
+      "tu": "has situado",
+      "ud": "ha situado",
+      "nosotros": "hemos situado",
+      "vosotros": "habéis situado",
+      "uds": "han situado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré situado",
+      "tu": "habrás situado",
+      "ud": "habrá situado",
+      "nosotros": "habremos situado",
+      "vosotros": "habréis situado",
+      "uds": "habrán situado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había situado",
+      "tu": "habías situado",
+      "ud": "había situado",
+      "nosotros": "habíamos situado",
+      "vosotros": "habíais situado",
+      "uds": "habían situado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube situado",
+      "tu": "hubiste situado",
+      "ud": "hubo situado",
+      "nosotros": "hubimos situado",
+      "vosotros": "hubisteis situado",
+      "uds": "hubieron situado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría situado",
+      "tu": "habrías situado",
+      "ud": "habría situado",
+      "nosotros": "habríamos situado",
+      "vosotros": "habríais situado",
+      "uds": "habrían situado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sitúe",
+      "tu": "sitúes",
+      "ud": "sitúe",
+      "nosotros": "situemos",
+      "vosotros": "situéis",
+      "uds": "sitúen"
+    },
+    "imperfecto": {
+      "yo": "situara",
+      "tu": "situaras",
+      "ud": "situara",
+      "nosotros": "situáramos",
+      "vosotros": "situarais",
+      "uds": "situaran"
+    },
+    "futuro": {
+      "yo": "situare",
+      "tu": "situares",
+      "ud": "situare",
+      "nosotros": "situáremos",
+      "vosotros": "situareis",
+      "uds": "situaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya situado",
+      "tu": "hayas situado",
+      "ud": "haya situado",
+      "nosotros": "hayamos situado",
+      "vosotros": "hayáis situado",
+      "uds": "hayan situado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere situado",
+      "tu": "hubieres situado",
+      "ud": "hubiere situado",
+      "nosotros": "hubiéremos situado",
+      "vosotros": "hubiereis situado",
+      "uds": "hubieren situado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera situado",
+      "tu": "hubieras situado",
+      "ud": "hubiera situado",
+      "nosotros": "hubiéramos situado",
+      "vosotros": "hubierais situado",
+      "uds": "hubieran situado"
+    },
+    "imperfectoAlt": {
+      "yo": "situase",
+      "tu": "situases",
+      "ud": "situase",
+      "nosotros": "situásemos",
+      "vosotros": "situaseis",
+      "uds": "situasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese situado",
+      "tu": "hubieses situado",
+      "ud": "hubiese situado",
+      "nosotros": "hubiésemos situado",
+      "vosotros": "hubieseis situado",
+      "uds": "hubiesen situado"
+    }
+  },
+  "afirmativo": {
+    "tu": "sitúa",
+    "vosotros": "situad",
+    "ud": "sitúe",
+    "uds": "sitúen"
+  },
+  "negativo": {
+    "tu": "no sitúes",
+    "vosotros": "no situéis",
+    "ud": "no sitúe",
+    "uds": "no sitúen"
+  },
+  "english": {
+    "note": "Cambio: u > ú cuando la radical tiene el acento tónico.",
+    "infinitivo": "to place, put, situate",
+    "gerundio": "placing",
+    "participioPasado": "placed",
+    "indicativo": {
+      "presente": "I place, am placing",
+      "futuro": "I will place",
+      "imperfecto": "I was placing, used to place, placed",
+      "preterito": "I placed",
+      "condicional": "I would place",
+      "presentePerfecto": "I have placed",
+      "futuroPerfecto": "I will have placed",
+      "pluscuamperfecto": "I had placed",
+      "preteritoAnterior": "I had placed",
+      "condicionalPerfecto": "I would have placed"
+    },
+    "subjuntivo": {
+      "presente": "I place, am placing",
+      "imperfecto": "I placed, was placing",
+      "futuro": "I will place",
+      "presentePerfecto": "I have placed, placed",
+      "futuroPerfecto": "I will have placed",
+      "pluscuamperfecto": "I had placed"
+    },
+    "afirmativo": "Place!",
+    "negativo": "Don't place!"
+  },
+  "attribution": "Fred Jehle"
+}

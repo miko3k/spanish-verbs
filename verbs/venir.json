@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "venir",
+  "gerundio": "viniendo",
+  "participioPasado": "venido",
+  "indicativo": {
+    "presente": {
+      "yo": "vengo",
+      "tu": "vienes",
+      "ud": "viene",
+      "nosotros": "venimos",
+      "vosotros": "venís",
+      "uds": "vienen"
+    },
+    "futuro": {
+      "yo": "vendré",
+      "tu": "vendrás",
+      "ud": "vendrá",
+      "nosotros": "vendremos",
+      "vosotros": "vendréis",
+      "uds": "vendrán"
+    },
+    "imperfecto": {
+      "yo": "venía",
+      "tu": "venías",
+      "ud": "venía",
+      "nosotros": "veníamos",
+      "vosotros": "veníais",
+      "uds": "venían"
+    },
+    "preterito": {
+      "yo": "vine",
+      "tu": "viniste",
+      "ud": "vino",
+      "nosotros": "vinimos",
+      "vosotros": "vinisteis",
+      "uds": "vinieron"
+    },
+    "condicional": {
+      "yo": "vendría",
+      "tu": "vendrías",
+      "ud": "vendría",
+      "nosotros": "vendríamos",
+      "vosotros": "vendríais",
+      "uds": "vendrían"
+    },
+    "presentePerfecto": {
+      "yo": "he venido",
+      "tu": "has venido",
+      "ud": "ha venido",
+      "nosotros": "hemos venido",
+      "vosotros": "habéis venido",
+      "uds": "han venido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré venido",
+      "tu": "habrás venido",
+      "ud": "habrá venido",
+      "nosotros": "habremos venido",
+      "vosotros": "habréis venido",
+      "uds": "habrán venido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había venido",
+      "tu": "habías venido",
+      "ud": "había venido",
+      "nosotros": "habíamos venido",
+      "vosotros": "habíais venido",
+      "uds": "habían venido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube venido",
+      "tu": "hubiste venido",
+      "ud": "hubo venido",
+      "nosotros": "hubimos venido",
+      "vosotros": "hubisteis venido",
+      "uds": "hubieron venido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría venido",
+      "tu": "habrías venido",
+      "ud": "habría venido",
+      "nosotros": "habríamos venido",
+      "vosotros": "habríais venido",
+      "uds": "habrían venido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "venga",
+      "tu": "vengas",
+      "ud": "venga",
+      "nosotros": "vengamos",
+      "vosotros": "vengáis",
+      "uds": "vengan"
+    },
+    "imperfecto": {
+      "yo": "viniera",
+      "tu": "vinieras",
+      "ud": "viniera",
+      "nosotros": "viniéramos",
+      "vosotros": "vinierais",
+      "uds": "vinieran"
+    },
+    "futuro": {
+      "yo": "viniere",
+      "tu": "vinieres",
+      "ud": "viniere",
+      "nosotros": "viniéremos",
+      "vosotros": "viniereis",
+      "uds": "vinieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya venido",
+      "tu": "hayas venido",
+      "ud": "haya venido",
+      "nosotros": "hayamos venido",
+      "vosotros": "hayáis venido",
+      "uds": "hayan venido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere venido",
+      "tu": "hubieres venido",
+      "ud": "hubiere venido",
+      "nosotros": "hubiéremos venido",
+      "vosotros": "hubiereis venido",
+      "uds": "hubieren venido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera venido",
+      "tu": "hubieras venido",
+      "ud": "hubiera venido",
+      "nosotros": "hubiéramos venido",
+      "vosotros": "hubierais venido",
+      "uds": "hubieran venido"
+    },
+    "imperfectoAlt": {
+      "yo": "viniese",
+      "tu": "vinieses",
+      "ud": "viniese",
+      "nosotros": "viniésemos",
+      "vosotros": "vinieseis",
+      "uds": "viniesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese venido",
+      "tu": "hubieses venido",
+      "ud": "hubiese venido",
+      "nosotros": "hubiésemos venido",
+      "vosotros": "hubieseis venido",
+      "uds": "hubiesen venido"
+    }
+  },
+  "afirmativo": {
+    "tu": "ven",
+    "vosotros": "venid",
+    "ud": "venga",
+    "uds": "vengan"
+  },
+  "negativo": {
+    "tu": "no vengas",
+    "vosotros": "no vengáis",
+    "ud": "no venga",
+    "uds": "no vengan"
+  },
+  "english": {
+    "note": "Formas irregulares: vengo, venga, vengas, etc. Cambio radical: e > ie cuando se acentúa. Radical irregular en el futuro y condicional: vendr-. Radical fuerte en el pretérito: vin-. Mandato familiar singular irregular: ven.",
+    "infinitivo": "to come",
+    "gerundio": "coming",
+    "participioPasado": "come",
+    "indicativo": {
+      "presente": "I come, am coming",
+      "futuro": "I will come",
+      "imperfecto": "I was coming, used to come, came",
+      "preterito": "I came",
+      "condicional": "I would come",
+      "presentePerfecto": "I have come",
+      "futuroPerfecto": "I will have come",
+      "pluscuamperfecto": "I had come",
+      "preteritoAnterior": "I had come",
+      "condicionalPerfecto": "I would have come"
+    },
+    "subjuntivo": {
+      "presente": "I come, am coming",
+      "imperfecto": "I came, was coming",
+      "futuro": "I will come",
+      "presentePerfecto": "I have come, came",
+      "futuroPerfecto": "I will have come",
+      "pluscuamperfecto": "I had come"
+    },
+    "afirmativo": "Come!",
+    "negativo": "Don't come!"
+  },
+  "attribution": "Fred Jehle"
+}

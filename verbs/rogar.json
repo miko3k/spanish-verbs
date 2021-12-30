@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "rogar",
+  "gerundio": "rogando",
+  "participioPasado": "rogado",
+  "indicativo": {
+    "presente": {
+      "yo": "ruego",
+      "tu": "ruegas",
+      "ud": "ruega",
+      "nosotros": "rogamos",
+      "vosotros": "rogáis",
+      "uds": "ruegan"
+    },
+    "futuro": {
+      "yo": "rogaré",
+      "tu": "rogarás",
+      "ud": "rogará",
+      "nosotros": "rogaremos",
+      "vosotros": "rogaréis",
+      "uds": "rogarán"
+    },
+    "imperfecto": {
+      "yo": "rogaba",
+      "tu": "rogabas",
+      "ud": "rogaba",
+      "nosotros": "rogábamos",
+      "vosotros": "rogabais",
+      "uds": "rogaban"
+    },
+    "preterito": {
+      "yo": "rogué",
+      "tu": "rogaste",
+      "ud": "rogó",
+      "nosotros": "rogamos",
+      "vosotros": "rogasteis",
+      "uds": "rogaron"
+    },
+    "condicional": {
+      "yo": "rogaría",
+      "tu": "rogarías",
+      "ud": "rogaría",
+      "nosotros": "rogaríamos",
+      "vosotros": "rogaríais",
+      "uds": "rogarían"
+    },
+    "presentePerfecto": {
+      "yo": "he rogado",
+      "tu": "has rogado",
+      "ud": "ha rogado",
+      "nosotros": "hemos rogado",
+      "vosotros": "habéis rogado",
+      "uds": "han rogado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré rogado",
+      "tu": "habrás rogado",
+      "ud": "habrá rogado",
+      "nosotros": "habremos rogado",
+      "vosotros": "habréis rogado",
+      "uds": "habrán rogado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había rogado",
+      "tu": "habías rogado",
+      "ud": "había rogado",
+      "nosotros": "habíamos rogado",
+      "vosotros": "habíais rogado",
+      "uds": "habían rogado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube rogado",
+      "tu": "hubiste rogado",
+      "ud": "hubo rogado",
+      "nosotros": "hubimos rogado",
+      "vosotros": "hubisteis rogado",
+      "uds": "hubieron rogado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría rogado",
+      "tu": "habrías rogado",
+      "ud": "habría rogado",
+      "nosotros": "habríamos rogado",
+      "vosotros": "habríais rogado",
+      "uds": "habrían rogado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "ruegue",
+      "tu": "ruegues",
+      "ud": "ruegue",
+      "nosotros": "roguemos",
+      "vosotros": "roguéis",
+      "uds": "rueguen"
+    },
+    "imperfecto": {
+      "yo": "rogara",
+      "tu": "rogaras",
+      "ud": "rogara",
+      "nosotros": "rogáramos",
+      "vosotros": "rogarais",
+      "uds": "rogaran"
+    },
+    "futuro": {
+      "yo": "rogare",
+      "tu": "rogares",
+      "ud": "rogare",
+      "nosotros": "rogáremos",
+      "vosotros": "rogareis",
+      "uds": "rogaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya rogado",
+      "tu": "hayas rogado",
+      "ud": "haya rogado",
+      "nosotros": "hayamos rogado",
+      "vosotros": "hayáis rogado",
+      "uds": "hayan rogado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere rogado",
+      "tu": "hubieres rogado",
+      "ud": "hubiere rogado",
+      "nosotros": "hubiéremos rogado",
+      "vosotros": "hubiereis rogado",
+      "uds": "hubieren rogado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera rogado",
+      "tu": "hubieras rogado",
+      "ud": "hubiera rogado",
+      "nosotros": "hubiéramos rogado",
+      "vosotros": "hubierais rogado",
+      "uds": "hubieran rogado"
+    },
+    "imperfectoAlt": {
+      "yo": "rogase",
+      "tu": "rogases",
+      "ud": "rogase",
+      "nosotros": "rogásemos",
+      "vosotros": "rogaseis",
+      "uds": "rogasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese rogado",
+      "tu": "hubieses rogado",
+      "ud": "hubiese rogado",
+      "nosotros": "hubiésemos rogado",
+      "vosotros": "hubieseis rogado",
+      "uds": "hubiesen rogado"
+    }
+  },
+  "afirmativo": {
+    "tu": "ruega",
+    "vosotros": "rogad",
+    "ud": "ruegue",
+    "uds": "rueguen"
+  },
+  "negativo": {
+    "tu": "no ruegues",
+    "vosotros": "no roguéis",
+    "ud": "no ruegue",
+    "uds": "no rueguen"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to plead, beg, ask for",
+    "gerundio": "pleading",
+    "participioPasado": "pleaded",
+    "indicativo": {
+      "presente": "I plead, am pleading",
+      "futuro": "I will plead",
+      "imperfecto": "I was pleading, used to plead, pleaded",
+      "preterito": "I pleaded",
+      "condicional": "I would plead",
+      "presentePerfecto": "I have pleaded",
+      "futuroPerfecto": "I will have pleaded",
+      "pluscuamperfecto": "I had pleaded",
+      "preteritoAnterior": "I had pleaded",
+      "condicionalPerfecto": "I would have pleaded"
+    },
+    "subjuntivo": {
+      "presente": "I plead, am pleading",
+      "imperfecto": "I pleaded, was pleading",
+      "futuro": "I will plead",
+      "presentePerfecto": "I have pleaded, pleaded",
+      "futuroPerfecto": "I will have pleaded",
+      "pluscuamperfecto": "I had pleaded"
+    },
+    "afirmativo": "Plead!",
+    "negativo": "Don't plead!"
+  },
+  "attribution": "Fred Jehle"
+}

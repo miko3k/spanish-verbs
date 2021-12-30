@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "callarse",
+  "gerundio": "callándose",
+  "participioPasado": "callado",
+  "indicativo": {
+    "presente": {
+      "yo": "me callo",
+      "tu": "te callas",
+      "ud": "se calla",
+      "nosotros": "nos callamos",
+      "vosotros": "os calláis",
+      "uds": "se callan"
+    },
+    "futuro": {
+      "yo": "me callaré",
+      "tu": "te callarás",
+      "ud": "se callará",
+      "nosotros": "nos callaremos",
+      "vosotros": "os callaréis",
+      "uds": "se callarán"
+    },
+    "imperfecto": {
+      "yo": "me callaba",
+      "tu": "te callabas",
+      "ud": "se callaba",
+      "nosotros": "nos callábamos",
+      "vosotros": "os callabais",
+      "uds": "se callaban"
+    },
+    "preterito": {
+      "yo": "me callé",
+      "tu": "te callaste",
+      "ud": "se calló",
+      "nosotros": "nos callamos",
+      "vosotros": "os callasteis",
+      "uds": "se callaron"
+    },
+    "condicional": {
+      "yo": "me callaría",
+      "tu": "te callarías",
+      "ud": "se callaría",
+      "nosotros": "nos callaríamos",
+      "vosotros": "os callaríais",
+      "uds": "se callarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he callado",
+      "tu": "te has callado",
+      "ud": "se ha callado",
+      "nosotros": "nos hemos callado",
+      "vosotros": "os habéis callado",
+      "uds": "se han callado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré callado",
+      "tu": "te habrás callado",
+      "ud": "se habrá callado",
+      "nosotros": "nos habremos callado",
+      "vosotros": "os habréis callado",
+      "uds": "se habrán callado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había callado",
+      "tu": "te habías callado",
+      "ud": "se había callado",
+      "nosotros": "nos habíamos callado",
+      "vosotros": "os habíais callado",
+      "uds": "se habían callado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube callado",
+      "tu": "te hubiste callado",
+      "ud": "se hubo callado",
+      "nosotros": "nos hubimos callado",
+      "vosotros": "os hubisteis callado",
+      "uds": "se hubieron callado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría callado",
+      "tu": "te habrías callado",
+      "ud": "se habría callado",
+      "nosotros": "nos habríamos callado",
+      "vosotros": "os habríais callado",
+      "uds": "se habrían callado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me calle",
+      "tu": "te calles",
+      "ud": "se calle",
+      "nosotros": "nos callemos",
+      "vosotros": "os calléis",
+      "uds": "se callen"
+    },
+    "imperfecto": {
+      "yo": "me callara",
+      "tu": "te callaras",
+      "ud": "se callara",
+      "nosotros": "nos calláramos",
+      "vosotros": "os callarais",
+      "uds": "se callaran"
+    },
+    "futuro": {
+      "yo": "me callare",
+      "tu": "te callares",
+      "ud": "se callare",
+      "nosotros": "nos calláremos",
+      "vosotros": "os callareis",
+      "uds": "se callaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya callado",
+      "tu": "te hayas callado",
+      "ud": "se haya callado",
+      "nosotros": "nos hayamos callado",
+      "vosotros": "os hayáis callado",
+      "uds": "se hayan callado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere callado",
+      "tu": "te hubieres callado",
+      "ud": "se hubiere callado",
+      "nosotros": "nos hubiéremos callado",
+      "vosotros": "os hubiereis callado",
+      "uds": "se hubieren callado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera callado",
+      "tu": "te hubieras callado",
+      "ud": "se hubiera callado",
+      "nosotros": "nos hubiéramos callado",
+      "vosotros": "os hubierais callado",
+      "uds": "se hubieran callado"
+    },
+    "imperfectoAlt": {
+      "yo": "me callase",
+      "tu": "te callases",
+      "ud": "se callase",
+      "nosotros": "nos callásemos",
+      "vosotros": "os callaseis",
+      "uds": "se callasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese callado",
+      "tu": "te hubieses callado",
+      "ud": "se hubiese callado",
+      "nosotros": "nos hubiésemos callado",
+      "vosotros": "os hubieseis callado",
+      "uds": "se hubiesen callado"
+    }
+  },
+  "afirmativo": {
+    "tu": "cállate",
+    "vosotros": "callaos",
+    "ud": "cállese",
+    "uds": "cállense"
+  },
+  "negativo": {
+    "tu": "no te calles",
+    "vosotros": "no os calléis",
+    "ud": "no se calle",
+    "uds": "no se callen"
+  },
+  "english": {
+    "note": "Note: For to keep (someone else) quiet, use the nonreflexive form callar.",
+    "infinitivo": "to keep quiet, be quiet, shut up, be silent, remain silent",
+    "gerundio": "keeping quiet",
+    "participioPasado": "quiet",
+    "indicativo": {
+      "presente": "I keep quiet, am keeping quiet",
+      "futuro": "I will keep quiet",
+      "imperfecto": "I was keeping quiet, used to keep quiet, kept quiet",
+      "preterito": "I kept quiet",
+      "condicional": "I would keep quiet",
+      "presentePerfecto": "I have kept quiet",
+      "futuroPerfecto": "I will have kept quiet",
+      "pluscuamperfecto": "I had kept quiet",
+      "preteritoAnterior": "I had kept quiet",
+      "condicionalPerfecto": "I would have kept quiet"
+    },
+    "subjuntivo": {
+      "presente": "I keep quiet, am keeping quiet",
+      "imperfecto": "I kept quiet, was keeping quiet",
+      "futuro": "I will keep quiet",
+      "presentePerfecto": "I have kept quiet, kept quiet",
+      "futuroPerfecto": "I will have kept quiet",
+      "pluscuamperfecto": "I had kept quiet"
+    },
+    "afirmativo": "Keep quiet!",
+    "negativo": "Don't keep quiet!"
+  },
+  "attribution": "Fred Jehle"
+}

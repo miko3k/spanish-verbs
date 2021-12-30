@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "lamentar",
+  "gerundio": "lamentando",
+  "participioPasado": "lamentado",
+  "indicativo": {
+    "presente": {
+      "yo": "lamento",
+      "tu": "lamentas",
+      "ud": "lamenta",
+      "nosotros": "lamentamos",
+      "vosotros": "lamentáis",
+      "uds": "lamentan"
+    },
+    "futuro": {
+      "yo": "lamentaré",
+      "tu": "lamentarás",
+      "ud": "lamentará",
+      "nosotros": "lamentaremos",
+      "vosotros": "lamentaréis",
+      "uds": "lamentarán"
+    },
+    "imperfecto": {
+      "yo": "lamentaba",
+      "tu": "lamentabas",
+      "ud": "lamentaba",
+      "nosotros": "lamentábamos",
+      "vosotros": "lamentabais",
+      "uds": "lamentaban"
+    },
+    "preterito": {
+      "yo": "lamenté",
+      "tu": "lamentaste",
+      "ud": "lamentó",
+      "nosotros": "lamentamos",
+      "vosotros": "lamentasteis",
+      "uds": "lamentaron"
+    },
+    "condicional": {
+      "yo": "lamentaría",
+      "tu": "lamentarías",
+      "ud": "lamentaría",
+      "nosotros": "lamentaríamos",
+      "vosotros": "lamentaríais",
+      "uds": "lamentarían"
+    },
+    "presentePerfecto": {
+      "yo": "he lamentado",
+      "tu": "has lamentado",
+      "ud": "ha lamentado",
+      "nosotros": "hemos lamentado",
+      "vosotros": "habéis lamentado",
+      "uds": "han lamentado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré lamentado",
+      "tu": "habrás lamentado",
+      "ud": "habrá lamentado",
+      "nosotros": "habremos lamentado",
+      "vosotros": "habréis lamentado",
+      "uds": "habrán lamentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había lamentado",
+      "tu": "habías lamentado",
+      "ud": "había lamentado",
+      "nosotros": "habíamos lamentado",
+      "vosotros": "habíais lamentado",
+      "uds": "habían lamentado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube lamentado",
+      "tu": "hubiste lamentado",
+      "ud": "hubo lamentado",
+      "nosotros": "hubimos lamentado",
+      "vosotros": "hubisteis lamentado",
+      "uds": "hubieron lamentado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría lamentado",
+      "tu": "habrías lamentado",
+      "ud": "habría lamentado",
+      "nosotros": "habríamos lamentado",
+      "vosotros": "habríais lamentado",
+      "uds": "habrían lamentado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "lamente",
+      "tu": "lamentes",
+      "ud": "lamente",
+      "nosotros": "lamentemos",
+      "vosotros": "lamentéis",
+      "uds": "lamenten"
+    },
+    "imperfecto": {
+      "yo": "lamentara",
+      "tu": "lamentaras",
+      "ud": "lamentara",
+      "nosotros": "lamentáramos",
+      "vosotros": "lamentarais",
+      "uds": "lamentaran"
+    },
+    "futuro": {
+      "yo": "lamentare",
+      "tu": "lamentares",
+      "ud": "lamentare",
+      "nosotros": "lamentáremos",
+      "vosotros": "lamentareis",
+      "uds": "lamentaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya lamentado",
+      "tu": "hayas lamentado",
+      "ud": "haya lamentado",
+      "nosotros": "hayamos lamentado",
+      "vosotros": "hayáis lamentado",
+      "uds": "hayan lamentado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere lamentado",
+      "tu": "hubieres lamentado",
+      "ud": "hubiere lamentado",
+      "nosotros": "hubiéremos lamentado",
+      "vosotros": "hubiereis lamentado",
+      "uds": "hubieren lamentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera lamentado",
+      "tu": "hubieras lamentado",
+      "ud": "hubiera lamentado",
+      "nosotros": "hubiéramos lamentado",
+      "vosotros": "hubierais lamentado",
+      "uds": "hubieran lamentado"
+    },
+    "imperfectoAlt": {
+      "yo": "lamentase",
+      "tu": "lamentases",
+      "ud": "lamentase",
+      "nosotros": "lamentásemos",
+      "vosotros": "lamentaseis",
+      "uds": "lamentasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese lamentado",
+      "tu": "hubieses lamentado",
+      "ud": "hubiese lamentado",
+      "nosotros": "hubiésemos lamentado",
+      "vosotros": "hubieseis lamentado",
+      "uds": "hubiesen lamentado"
+    }
+  },
+  "afirmativo": {
+    "tu": "lamenta",
+    "vosotros": "lamentad",
+    "ud": "lamente",
+    "uds": "lamenten"
+  },
+  "negativo": {
+    "tu": "no lamentes",
+    "vosotros": "no lamentéis",
+    "ud": "no lamente",
+    "uds": "no lamenten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to lament, regret, feel sorry about",
+    "gerundio": "lamenting",
+    "participioPasado": "lamented",
+    "indicativo": {
+      "presente": "I lament, am lamenting",
+      "futuro": "I will lament",
+      "imperfecto": "I was lamenting, used to lament, lamented",
+      "preterito": "I lamented",
+      "condicional": "I would lament",
+      "presentePerfecto": "I have lamented",
+      "futuroPerfecto": "I will have lamented",
+      "pluscuamperfecto": "I had lamented",
+      "preteritoAnterior": "I had lamented",
+      "condicionalPerfecto": "I would have lamented"
+    },
+    "subjuntivo": {
+      "presente": "I lament, am lamenting",
+      "imperfecto": "I lamented, was lamenting",
+      "futuro": "I will lament",
+      "presentePerfecto": "I have lamented, lamented",
+      "futuroPerfecto": "I will have lamented",
+      "pluscuamperfecto": "I had lamented"
+    },
+    "afirmativo": "Lament!",
+    "negativo": "Don't lament!"
+  },
+  "attribution": "Fred Jehle"
+}

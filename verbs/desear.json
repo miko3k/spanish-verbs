@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "desear",
+  "gerundio": "deseando",
+  "participioPasado": "deseado",
+  "indicativo": {
+    "presente": {
+      "yo": "deseo",
+      "tu": "deseas",
+      "ud": "desea",
+      "nosotros": "deseamos",
+      "vosotros": "deseáis",
+      "uds": "desean"
+    },
+    "futuro": {
+      "yo": "desearé",
+      "tu": "desearás",
+      "ud": "deseará",
+      "nosotros": "desearemos",
+      "vosotros": "desearéis",
+      "uds": "desearán"
+    },
+    "imperfecto": {
+      "yo": "deseaba",
+      "tu": "deseabas",
+      "ud": "deseaba",
+      "nosotros": "deseábamos",
+      "vosotros": "deseabais",
+      "uds": "deseaban"
+    },
+    "preterito": {
+      "yo": "deseé",
+      "tu": "deseaste",
+      "ud": "deseó",
+      "nosotros": "deseamos",
+      "vosotros": "deseasteis",
+      "uds": "desearon"
+    },
+    "condicional": {
+      "yo": "desearía",
+      "tu": "desearías",
+      "ud": "desearía",
+      "nosotros": "desearíamos",
+      "vosotros": "desearíais",
+      "uds": "desearían"
+    },
+    "presentePerfecto": {
+      "yo": "he deseado",
+      "tu": "has deseado",
+      "ud": "ha deseado",
+      "nosotros": "hemos deseado",
+      "vosotros": "habéis deseado",
+      "uds": "han deseado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré deseado",
+      "tu": "habrás deseado",
+      "ud": "habrá deseado",
+      "nosotros": "habremos deseado",
+      "vosotros": "habréis deseado",
+      "uds": "habrán deseado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había deseado",
+      "tu": "habías deseado",
+      "ud": "había deseado",
+      "nosotros": "habíamos deseado",
+      "vosotros": "habíais deseado",
+      "uds": "habían deseado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube deseado",
+      "tu": "hubiste deseado",
+      "ud": "hubo deseado",
+      "nosotros": "hubimos deseado",
+      "vosotros": "hubisteis deseado",
+      "uds": "hubieron deseado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría deseado",
+      "tu": "habrías deseado",
+      "ud": "habría deseado",
+      "nosotros": "habríamos deseado",
+      "vosotros": "habríais deseado",
+      "uds": "habrían deseado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "desee",
+      "tu": "desees",
+      "ud": "desee",
+      "nosotros": "deseemos",
+      "vosotros": "deseéis",
+      "uds": "deseen"
+    },
+    "imperfecto": {
+      "yo": "deseara",
+      "tu": "desearas",
+      "ud": "deseara",
+      "nosotros": "deseáramos",
+      "vosotros": "desearais",
+      "uds": "desearan"
+    },
+    "futuro": {
+      "yo": "deseare",
+      "tu": "deseares",
+      "ud": "deseare",
+      "nosotros": "deseáremos",
+      "vosotros": "deseareis",
+      "uds": "desearen"
+    },
+    "presentePerfecto": {
+      "yo": "haya deseado",
+      "tu": "hayas deseado",
+      "ud": "haya deseado",
+      "nosotros": "hayamos deseado",
+      "vosotros": "hayáis deseado",
+      "uds": "hayan deseado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere deseado",
+      "tu": "hubieres deseado",
+      "ud": "hubiere deseado",
+      "nosotros": "hubiéremos deseado",
+      "vosotros": "hubiereis deseado",
+      "uds": "hubieren deseado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera deseado",
+      "tu": "hubieras deseado",
+      "ud": "hubiera deseado",
+      "nosotros": "hubiéramos deseado",
+      "vosotros": "hubierais deseado",
+      "uds": "hubieran deseado"
+    },
+    "imperfectoAlt": {
+      "yo": "desease",
+      "tu": "deseases",
+      "ud": "desease",
+      "nosotros": "deseásemos",
+      "vosotros": "deseaseis",
+      "uds": "deseasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese deseado",
+      "tu": "hubieses deseado",
+      "ud": "hubiese deseado",
+      "nosotros": "hubiésemos deseado",
+      "vosotros": "hubieseis deseado",
+      "uds": "hubiesen deseado"
+    }
+  },
+  "afirmativo": {
+    "tu": "desea",
+    "vosotros": "desead",
+    "ud": "desee",
+    "uds": "deseen"
+  },
+  "negativo": {
+    "tu": "no desees",
+    "vosotros": "no deseéis",
+    "ud": "no desee",
+    "uds": "no deseen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to desire, want, wish",
+    "gerundio": "desiring",
+    "participioPasado": "desired",
+    "indicativo": {
+      "presente": "I desire, am desiring",
+      "futuro": "I will desire",
+      "imperfecto": "I was desiring, used to desire, desired",
+      "preterito": "I desired",
+      "condicional": "I would desire",
+      "presentePerfecto": "I have desired",
+      "futuroPerfecto": "I will have desired",
+      "pluscuamperfecto": "I had desired",
+      "preteritoAnterior": "I had desired",
+      "condicionalPerfecto": "I would have desired"
+    },
+    "subjuntivo": {
+      "presente": "I desire, am desiring",
+      "imperfecto": "I desired, was desiring",
+      "futuro": "I will desire",
+      "presentePerfecto": "I have desired, desired",
+      "futuroPerfecto": "I will have desired",
+      "pluscuamperfecto": "I had desired"
+    },
+    "afirmativo": "Desire!",
+    "negativo": "Don't desire!"
+  },
+  "attribution": "Fred Jehle"
+}

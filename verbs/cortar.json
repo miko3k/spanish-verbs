@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "cortar",
+  "gerundio": "cortando",
+  "participioPasado": "cortado",
+  "indicativo": {
+    "presente": {
+      "yo": "corto",
+      "tu": "cortas",
+      "ud": "corta",
+      "nosotros": "cortamos",
+      "vosotros": "cortáis",
+      "uds": "cortan"
+    },
+    "futuro": {
+      "yo": "cortaré",
+      "tu": "cortarás",
+      "ud": "cortará",
+      "nosotros": "cortaremos",
+      "vosotros": "cortaréis",
+      "uds": "cortarán"
+    },
+    "imperfecto": {
+      "yo": "cortaba",
+      "tu": "cortabas",
+      "ud": "cortaba",
+      "nosotros": "cortábamos",
+      "vosotros": "cortabais",
+      "uds": "cortaban"
+    },
+    "preterito": {
+      "yo": "corté",
+      "tu": "cortaste",
+      "ud": "cortó",
+      "nosotros": "cortamos",
+      "vosotros": "cortasteis",
+      "uds": "cortaron"
+    },
+    "condicional": {
+      "yo": "cortaría",
+      "tu": "cortarías",
+      "ud": "cortaría",
+      "nosotros": "cortaríamos",
+      "vosotros": "cortaríais",
+      "uds": "cortarían"
+    },
+    "presentePerfecto": {
+      "yo": "he cortado",
+      "tu": "has cortado",
+      "ud": "ha cortado",
+      "nosotros": "hemos cortado",
+      "vosotros": "habéis cortado",
+      "uds": "han cortado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré cortado",
+      "tu": "habrás cortado",
+      "ud": "habrá cortado",
+      "nosotros": "habremos cortado",
+      "vosotros": "habréis cortado",
+      "uds": "habrán cortado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había cortado",
+      "tu": "habías cortado",
+      "ud": "había cortado",
+      "nosotros": "habíamos cortado",
+      "vosotros": "habíais cortado",
+      "uds": "habían cortado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube cortado",
+      "tu": "hubiste cortado",
+      "ud": "hubo cortado",
+      "nosotros": "hubimos cortado",
+      "vosotros": "hubisteis cortado",
+      "uds": "hubieron cortado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría cortado",
+      "tu": "habrías cortado",
+      "ud": "habría cortado",
+      "nosotros": "habríamos cortado",
+      "vosotros": "habríais cortado",
+      "uds": "habrían cortado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "corte",
+      "tu": "cortes",
+      "ud": "corte",
+      "nosotros": "cortemos",
+      "vosotros": "cortéis",
+      "uds": "corten"
+    },
+    "imperfecto": {
+      "yo": "cortara",
+      "tu": "cortaras",
+      "ud": "cortara",
+      "nosotros": "cortáramos",
+      "vosotros": "cortarais",
+      "uds": "cortaran"
+    },
+    "futuro": {
+      "yo": "cortare",
+      "tu": "cortares",
+      "ud": "cortare",
+      "nosotros": "cortáremos",
+      "vosotros": "cortareis",
+      "uds": "cortaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya cortado",
+      "tu": "hayas cortado",
+      "ud": "haya cortado",
+      "nosotros": "hayamos cortado",
+      "vosotros": "hayáis cortado",
+      "uds": "hayan cortado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere cortado",
+      "tu": "hubieres cortado",
+      "ud": "hubiere cortado",
+      "nosotros": "hubiéremos cortado",
+      "vosotros": "hubiereis cortado",
+      "uds": "hubieren cortado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera cortado",
+      "tu": "hubieras cortado",
+      "ud": "hubiera cortado",
+      "nosotros": "hubiéramos cortado",
+      "vosotros": "hubierais cortado",
+      "uds": "hubieran cortado"
+    },
+    "imperfectoAlt": {
+      "yo": "cortase",
+      "tu": "cortases",
+      "ud": "cortase",
+      "nosotros": "cortásemos",
+      "vosotros": "cortaseis",
+      "uds": "cortasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese cortado",
+      "tu": "hubieses cortado",
+      "ud": "hubiese cortado",
+      "nosotros": "hubiésemos cortado",
+      "vosotros": "hubieseis cortado",
+      "uds": "hubiesen cortado"
+    }
+  },
+  "afirmativo": {
+    "tu": "corta",
+    "vosotros": "cortad",
+    "ud": "corte",
+    "uds": "corten"
+  },
+  "negativo": {
+    "tu": "no cortes",
+    "vosotros": "no cortéis",
+    "ud": "no corte",
+    "uds": "no corten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to cut",
+    "gerundio": "cutting",
+    "participioPasado": "cut",
+    "indicativo": {
+      "presente": "I cut, am cutting",
+      "futuro": "I will cut",
+      "imperfecto": "I was cutting, used to cut, cut",
+      "preterito": "I cut",
+      "condicional": "I would cut",
+      "presentePerfecto": "I have cut",
+      "futuroPerfecto": "I will have cut",
+      "pluscuamperfecto": "I had cut",
+      "preteritoAnterior": "I had cut",
+      "condicionalPerfecto": "I would have cut"
+    },
+    "subjuntivo": {
+      "presente": "I cut, am cutting",
+      "imperfecto": "I cut, was cutting",
+      "futuro": "I will cut",
+      "presentePerfecto": "I have cut, cut",
+      "futuroPerfecto": "I will have cut",
+      "pluscuamperfecto": "I had cut"
+    },
+    "afirmativo": "Cut!",
+    "negativo": "Don't cut!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "secar",
+  "gerundio": "secando",
+  "participioPasado": "secado",
+  "indicativo": {
+    "presente": {
+      "yo": "seco",
+      "tu": "secas",
+      "ud": "seca",
+      "nosotros": "secamos",
+      "vosotros": "secáis",
+      "uds": "secan"
+    },
+    "futuro": {
+      "yo": "secaré",
+      "tu": "secarás",
+      "ud": "secará",
+      "nosotros": "secaremos",
+      "vosotros": "secaréis",
+      "uds": "secarán"
+    },
+    "imperfecto": {
+      "yo": "secaba",
+      "tu": "secabas",
+      "ud": "secaba",
+      "nosotros": "secábamos",
+      "vosotros": "secabais",
+      "uds": "secaban"
+    },
+    "preterito": {
+      "yo": "sequé",
+      "tu": "secaste",
+      "ud": "secó",
+      "nosotros": "secamos",
+      "vosotros": "secasteis",
+      "uds": "secaron"
+    },
+    "condicional": {
+      "yo": "secaría",
+      "tu": "secarías",
+      "ud": "secaría",
+      "nosotros": "secaríamos",
+      "vosotros": "secaríais",
+      "uds": "secarían"
+    },
+    "presentePerfecto": {
+      "yo": "he secado",
+      "tu": "has secado",
+      "ud": "ha secado",
+      "nosotros": "hemos secado",
+      "vosotros": "habéis secado",
+      "uds": "han secado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré secado",
+      "tu": "habrás secado",
+      "ud": "habrá secado",
+      "nosotros": "habremos secado",
+      "vosotros": "habréis secado",
+      "uds": "habrán secado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había secado",
+      "tu": "habías secado",
+      "ud": "había secado",
+      "nosotros": "habíamos secado",
+      "vosotros": "habíais secado",
+      "uds": "habían secado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube secado",
+      "tu": "hubiste secado",
+      "ud": "hubo secado",
+      "nosotros": "hubimos secado",
+      "vosotros": "hubisteis secado",
+      "uds": "hubieron secado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría secado",
+      "tu": "habrías secado",
+      "ud": "habría secado",
+      "nosotros": "habríamos secado",
+      "vosotros": "habríais secado",
+      "uds": "habrían secado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "seque",
+      "tu": "seques",
+      "ud": "seque",
+      "nosotros": "sequemos",
+      "vosotros": "sequéis",
+      "uds": "sequen"
+    },
+    "imperfecto": {
+      "yo": "secara",
+      "tu": "secaras",
+      "ud": "secara",
+      "nosotros": "secáramos",
+      "vosotros": "secarais",
+      "uds": "secaran"
+    },
+    "futuro": {
+      "yo": "secare",
+      "tu": "secares",
+      "ud": "secare",
+      "nosotros": "secáremos",
+      "vosotros": "secareis",
+      "uds": "secaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya secado",
+      "tu": "hayas secado",
+      "ud": "haya secado",
+      "nosotros": "hayamos secado",
+      "vosotros": "hayáis secado",
+      "uds": "hayan secado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere secado",
+      "tu": "hubieres secado",
+      "ud": "hubiere secado",
+      "nosotros": "hubiéremos secado",
+      "vosotros": "hubiereis secado",
+      "uds": "hubieren secado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera secado",
+      "tu": "hubieras secado",
+      "ud": "hubiera secado",
+      "nosotros": "hubiéramos secado",
+      "vosotros": "hubierais secado",
+      "uds": "hubieran secado"
+    },
+    "imperfectoAlt": {
+      "yo": "secase",
+      "tu": "secases",
+      "ud": "secase",
+      "nosotros": "secásemos",
+      "vosotros": "secaseis",
+      "uds": "secasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese secado",
+      "tu": "hubieses secado",
+      "ud": "hubiese secado",
+      "nosotros": "hubiésemos secado",
+      "vosotros": "hubieseis secado",
+      "uds": "hubiesen secado"
+    }
+  },
+  "afirmativo": {
+    "tu": "seca",
+    "vosotros": "secad",
+    "ud": "seque",
+    "uds": "sequen"
+  },
+  "negativo": {
+    "tu": "no seques",
+    "vosotros": "no sequéis",
+    "ud": "no seque",
+    "uds": "no sequen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: c > qu delante de e. Note that this is a transitive verb; if there is no direct object. Use the reflexive form secarse.",
+    "infinitivo": "to dry, dry up, dry off, wipe dry",
+    "gerundio": "drying",
+    "participioPasado": "dried",
+    "indicativo": {
+      "presente": "I dry, am drying",
+      "futuro": "I will dry",
+      "imperfecto": "I was drying, used to dry, dried",
+      "preterito": "I dried",
+      "condicional": "I would dry",
+      "presentePerfecto": "I have dried",
+      "futuroPerfecto": "I will have dried",
+      "pluscuamperfecto": "I had dried",
+      "preteritoAnterior": "I had dried",
+      "condicionalPerfecto": "I would have dried"
+    },
+    "subjuntivo": {
+      "presente": "I dry, am drying",
+      "imperfecto": "I dried, was drying",
+      "futuro": "I will dry",
+      "presentePerfecto": "I have dried, dried",
+      "futuroPerfecto": "I will have dried",
+      "pluscuamperfecto": "I had dried"
+    },
+    "afirmativo": "Dry!",
+    "negativo": "Don't dry!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "quejarse",
+  "gerundio": "quejándose",
+  "participioPasado": "quejado",
+  "indicativo": {
+    "presente": {
+      "yo": "me quejo",
+      "tu": "te quejas",
+      "ud": "se queja",
+      "nosotros": "nos quejamos",
+      "vosotros": "os quejáis",
+      "uds": "se quejan"
+    },
+    "futuro": {
+      "yo": "me quejaré",
+      "tu": "te quejarás",
+      "ud": "se quejará",
+      "nosotros": "nos quejaremos",
+      "vosotros": "os quejaréis",
+      "uds": "se quejarán"
+    },
+    "imperfecto": {
+      "yo": "me quejaba",
+      "tu": "te quejabas",
+      "ud": "se quejaba",
+      "nosotros": "nos quejábamos",
+      "vosotros": "os quejabais",
+      "uds": "se quejaban"
+    },
+    "preterito": {
+      "yo": "me quejé",
+      "tu": "te quejaste",
+      "ud": "se quejó",
+      "nosotros": "nos quejamos",
+      "vosotros": "os quejasteis",
+      "uds": "se quejaron"
+    },
+    "condicional": {
+      "yo": "me quejaría",
+      "tu": "te quejarías",
+      "ud": "se quejaría",
+      "nosotros": "nos quejaríamos",
+      "vosotros": "os quejaríais",
+      "uds": "se quejarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he quejado",
+      "tu": "te has quejado",
+      "ud": "se ha quejado",
+      "nosotros": "nos hemos quejado",
+      "vosotros": "os habéis quejado",
+      "uds": "se han quejado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré quejado",
+      "tu": "te habrás quejado",
+      "ud": "se habrá quejado",
+      "nosotros": "nos habremos quejado",
+      "vosotros": "os habréis quejado",
+      "uds": "se habrán quejado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había quejado",
+      "tu": "te habías quejado",
+      "ud": "se había quejado",
+      "nosotros": "nos habíamos quejado",
+      "vosotros": "os habíais quejado",
+      "uds": "se habían quejado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube quejado",
+      "tu": "te hubiste quejado",
+      "ud": "se hubo quejado",
+      "nosotros": "nos hubimos quejado",
+      "vosotros": "os hubisteis quejado",
+      "uds": "se hubieron quejado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría quejado",
+      "tu": "te habrías quejado",
+      "ud": "se habría quejado",
+      "nosotros": "nos habríamos quejado",
+      "vosotros": "os habríais quejado",
+      "uds": "se habrían quejado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me queje",
+      "tu": "te quejes",
+      "ud": "se queje",
+      "nosotros": "nos quejemos",
+      "vosotros": "os quejéis",
+      "uds": "se quejen"
+    },
+    "imperfecto": {
+      "yo": "me quejara",
+      "tu": "te quejaras",
+      "ud": "se quejara",
+      "nosotros": "nos quejáramos",
+      "vosotros": "os quejarais",
+      "uds": "se quejaran"
+    },
+    "futuro": {
+      "yo": "me quejare",
+      "tu": "te quejares",
+      "ud": "se quejare",
+      "nosotros": "nos quejáremos",
+      "vosotros": "os quejareis",
+      "uds": "se quejaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya quejado",
+      "tu": "te hayas quejado",
+      "ud": "se haya quejado",
+      "nosotros": "nos hayamos quejado",
+      "vosotros": "os hayáis quejado",
+      "uds": "se hayan quejado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere quejado",
+      "tu": "te hubieres quejado",
+      "ud": "se hubiere quejado",
+      "nosotros": "nos hubiéremos quejado",
+      "vosotros": "os hubiereis quejado",
+      "uds": "se hubieren quejado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera quejado",
+      "tu": "te hubieras quejado",
+      "ud": "se hubiera quejado",
+      "nosotros": "nos hubiéramos quejado",
+      "vosotros": "os hubierais quejado",
+      "uds": "se hubieran quejado"
+    },
+    "imperfectoAlt": {
+      "yo": "me quejase",
+      "tu": "te quejases",
+      "ud": "se quejase",
+      "nosotros": "nos quejásemos",
+      "vosotros": "os quejaseis",
+      "uds": "se quejasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese quejado",
+      "tu": "te hubieses quejado",
+      "ud": "se hubiese quejado",
+      "nosotros": "nos hubiésemos quejado",
+      "vosotros": "os hubieseis quejado",
+      "uds": "se hubiesen quejado"
+    }
+  },
+  "afirmativo": {
+    "tu": "quéjate",
+    "vosotros": "quejaos",
+    "ud": "quéjese",
+    "uds": "quéjense"
+  },
+  "negativo": {
+    "tu": "no te quejes",
+    "vosotros": "no os quejéis",
+    "ud": "no se queje",
+    "uds": "no se quejen"
+  },
+  "english": {
+    "note": "English",
+    "infinitivo": "to complain",
+    "gerundio": "complaining",
+    "participioPasado": "complained",
+    "indicativo": {
+      "presente": "I complain, am complaining",
+      "futuro": "I will complain",
+      "imperfecto": "I was complaining, used to complain, complained",
+      "preterito": "I complained",
+      "condicional": "I would complain",
+      "presentePerfecto": "I have complained",
+      "futuroPerfecto": "I will have complained",
+      "pluscuamperfecto": "I had complained",
+      "preteritoAnterior": "I had complained",
+      "condicionalPerfecto": "I would have complained"
+    },
+    "subjuntivo": {
+      "presente": "I complain, am complaining",
+      "imperfecto": "I complained, was complaining",
+      "futuro": "I will complain",
+      "presentePerfecto": "I have complained, complained",
+      "futuroPerfecto": "I will have complained",
+      "pluscuamperfecto": "I had complained"
+    },
+    "afirmativo": "Complain!",
+    "negativo": "Don't complain!"
+  },
+  "attribution": "Fred Jehle"
+}

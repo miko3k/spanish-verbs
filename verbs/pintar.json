@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "pintar",
+  "gerundio": "pintando",
+  "participioPasado": "pintado",
+  "indicativo": {
+    "presente": {
+      "yo": "pinto",
+      "tu": "pintas",
+      "ud": "pinta",
+      "nosotros": "pintamos",
+      "vosotros": "pintáis",
+      "uds": "pintan"
+    },
+    "futuro": {
+      "yo": "pintaré",
+      "tu": "pintarás",
+      "ud": "pintará",
+      "nosotros": "pintaremos",
+      "vosotros": "pintaréis",
+      "uds": "pintarán"
+    },
+    "imperfecto": {
+      "yo": "pintaba",
+      "tu": "pintabas",
+      "ud": "pintaba",
+      "nosotros": "pintábamos",
+      "vosotros": "pintabais",
+      "uds": "pintaban"
+    },
+    "preterito": {
+      "yo": "pinté",
+      "tu": "pintaste",
+      "ud": "pintó",
+      "nosotros": "pintamos",
+      "vosotros": "pintasteis",
+      "uds": "pintaron"
+    },
+    "condicional": {
+      "yo": "pintaría",
+      "tu": "pintarías",
+      "ud": "pintaría",
+      "nosotros": "pintaríamos",
+      "vosotros": "pintaríais",
+      "uds": "pintarían"
+    },
+    "presentePerfecto": {
+      "yo": "he pintado",
+      "tu": "has pintado",
+      "ud": "ha pintado",
+      "nosotros": "hemos pintado",
+      "vosotros": "habéis pintado",
+      "uds": "han pintado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré pintado",
+      "tu": "habrás pintado",
+      "ud": "habrá pintado",
+      "nosotros": "habremos pintado",
+      "vosotros": "habréis pintado",
+      "uds": "habrán pintado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había pintado",
+      "tu": "habías pintado",
+      "ud": "había pintado",
+      "nosotros": "habíamos pintado",
+      "vosotros": "habíais pintado",
+      "uds": "habían pintado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube pintado",
+      "tu": "hubiste pintado",
+      "ud": "hubo pintado",
+      "nosotros": "hubimos pintado",
+      "vosotros": "hubisteis pintado",
+      "uds": "hubieron pintado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría pintado",
+      "tu": "habrías pintado",
+      "ud": "habría pintado",
+      "nosotros": "habríamos pintado",
+      "vosotros": "habríais pintado",
+      "uds": "habrían pintado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "pinte",
+      "tu": "pintes",
+      "ud": "pinte",
+      "nosotros": "pintemos",
+      "vosotros": "pintéis",
+      "uds": "pinten"
+    },
+    "imperfecto": {
+      "yo": "pintara",
+      "tu": "pintaras",
+      "ud": "pintara",
+      "nosotros": "pintáramos",
+      "vosotros": "pintarais",
+      "uds": "pintaran"
+    },
+    "futuro": {
+      "yo": "pintare",
+      "tu": "pintares",
+      "ud": "pintare",
+      "nosotros": "pintáremos",
+      "vosotros": "pintareis",
+      "uds": "pintaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya pintado",
+      "tu": "hayas pintado",
+      "ud": "haya pintado",
+      "nosotros": "hayamos pintado",
+      "vosotros": "hayáis pintado",
+      "uds": "hayan pintado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere pintado",
+      "tu": "hubieres pintado",
+      "ud": "hubiere pintado",
+      "nosotros": "hubiéremos pintado",
+      "vosotros": "hubiereis pintado",
+      "uds": "hubieren pintado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera pintado",
+      "tu": "hubieras pintado",
+      "ud": "hubiera pintado",
+      "nosotros": "hubiéramos pintado",
+      "vosotros": "hubierais pintado",
+      "uds": "hubieran pintado"
+    },
+    "imperfectoAlt": {
+      "yo": "pintase",
+      "tu": "pintases",
+      "ud": "pintase",
+      "nosotros": "pintásemos",
+      "vosotros": "pintaseis",
+      "uds": "pintasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese pintado",
+      "tu": "hubieses pintado",
+      "ud": "hubiese pintado",
+      "nosotros": "hubiésemos pintado",
+      "vosotros": "hubieseis pintado",
+      "uds": "hubiesen pintado"
+    }
+  },
+  "afirmativo": {
+    "tu": "pinta",
+    "vosotros": "pintad",
+    "ud": "pinte",
+    "uds": "pinten"
+  },
+  "negativo": {
+    "tu": "no pintes",
+    "vosotros": "no pintéis",
+    "ud": "no pinte",
+    "uds": "no pinten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to paint",
+    "gerundio": "painting",
+    "participioPasado": "painted",
+    "indicativo": {
+      "presente": "I paint, am painting",
+      "futuro": "I will paint",
+      "imperfecto": "I was painting, used to paint, painted",
+      "preterito": "I painted",
+      "condicional": "I would paint",
+      "presentePerfecto": "I have painted",
+      "futuroPerfecto": "I will have painted",
+      "pluscuamperfecto": "I had painted",
+      "preteritoAnterior": "I had painted",
+      "condicionalPerfecto": "I would have painted"
+    },
+    "subjuntivo": {
+      "presente": "I paint, am painting",
+      "imperfecto": "I painted, was painting",
+      "futuro": "I will paint",
+      "presentePerfecto": "I have painted, painted",
+      "futuroPerfecto": "I will have painted",
+      "pluscuamperfecto": "I had painted"
+    },
+    "afirmativo": "Paint!",
+    "negativo": "Don't paint!"
+  },
+  "attribution": "Fred Jehle"
+}

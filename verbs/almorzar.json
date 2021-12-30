@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "almorzar",
+  "gerundio": "almorzando",
+  "participioPasado": "almorzado",
+  "indicativo": {
+    "presente": {
+      "yo": "almuerzo",
+      "tu": "almuerzas",
+      "ud": "almuerza",
+      "nosotros": "almorzamos",
+      "vosotros": "almorzáis",
+      "uds": "almuerzan"
+    },
+    "futuro": {
+      "yo": "almorzaré",
+      "tu": "almorzarás",
+      "ud": "almorzará",
+      "nosotros": "almorzaremos",
+      "vosotros": "almorzaréis",
+      "uds": "almorzarán"
+    },
+    "imperfecto": {
+      "yo": "almorzaba",
+      "tu": "almorzabas",
+      "ud": "almorzaba",
+      "nosotros": "almorzábamos",
+      "vosotros": "almorzabais",
+      "uds": "almorzaban"
+    },
+    "preterito": {
+      "yo": "almorcé",
+      "tu": "almorzaste",
+      "ud": "almorzó",
+      "nosotros": "almorzamos",
+      "vosotros": "almorzasteis",
+      "uds": "almorzaron"
+    },
+    "condicional": {
+      "yo": "almorzaría",
+      "tu": "almorzarías",
+      "ud": "almorzaría",
+      "nosotros": "almorzaríamos",
+      "vosotros": "almorzaríais",
+      "uds": "almorzarían"
+    },
+    "presentePerfecto": {
+      "yo": "he almorzado",
+      "tu": "has almorzado",
+      "ud": "ha almorzado",
+      "nosotros": "hemos almorzado",
+      "vosotros": "habéis almorzado",
+      "uds": "han almorzado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré almorzado",
+      "tu": "habrás almorzado",
+      "ud": "habrá almorzado",
+      "nosotros": "habremos almorzado",
+      "vosotros": "habréis almorzado",
+      "uds": "habrán almorzado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había almorzado",
+      "tu": "habías almorzado",
+      "ud": "había almorzado",
+      "nosotros": "habíamos almorzado",
+      "vosotros": "habíais almorzado",
+      "uds": "habían almorzado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube almorzado",
+      "tu": "hubiste almorzado",
+      "ud": "hubo almorzado",
+      "nosotros": "hubimos almorzado",
+      "vosotros": "hubisteis almorzado",
+      "uds": "hubieron almorzado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría almorzado",
+      "tu": "habrías almorzado",
+      "ud": "habría almorzado",
+      "nosotros": "habríamos almorzado",
+      "vosotros": "habríais almorzado",
+      "uds": "habrían almorzado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "almuerce",
+      "tu": "almuerces",
+      "ud": "almuerce",
+      "nosotros": "almorcemos",
+      "vosotros": "almorcéis",
+      "uds": "almuercen"
+    },
+    "imperfecto": {
+      "yo": "almorzara",
+      "tu": "almorzaras",
+      "ud": "almorzara",
+      "nosotros": "almorzáramos",
+      "vosotros": "almorzarais",
+      "uds": "almorzaran"
+    },
+    "futuro": {
+      "yo": "almorzare",
+      "tu": "almorzares",
+      "ud": "almorzare",
+      "nosotros": "almorzáremos",
+      "vosotros": "almorzareis",
+      "uds": "almorzaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya almorzado",
+      "tu": "hayas almorzado",
+      "ud": "haya almorzado",
+      "nosotros": "hayamos almorzado",
+      "vosotros": "hayáis almorzado",
+      "uds": "hayan almorzado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere almorzado",
+      "tu": "hubieres almorzado",
+      "ud": "hubiere almorzado",
+      "nosotros": "hubiéremos almorzado",
+      "vosotros": "hubiereis almorzado",
+      "uds": "hubieren almorzado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera almorzado",
+      "tu": "hubieras almorzado",
+      "ud": "hubiera almorzado",
+      "nosotros": "hubiéramos almorzado",
+      "vosotros": "hubierais almorzado",
+      "uds": "hubieran almorzado"
+    },
+    "imperfectoAlt": {
+      "yo": "almorzase",
+      "tu": "almorzases",
+      "ud": "almorzase",
+      "nosotros": "almorzásemos",
+      "vosotros": "almorzaseis",
+      "uds": "almorzasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese almorzado",
+      "tu": "hubieses almorzado",
+      "ud": "hubiese almorzado",
+      "nosotros": "hubiésemos almorzado",
+      "vosotros": "hubieseis almorzado",
+      "uds": "hubiesen almorzado"
+    }
+  },
+  "afirmativo": {
+    "tu": "almuerza",
+    "vosotros": "almorzad",
+    "ud": "almuerce",
+    "uds": "almuercen"
+  },
+  "negativo": {
+    "tu": "no almuerces",
+    "vosotros": "no almorcéis",
+    "ud": "no almuerce",
+    "uds": "no almuercen"
+  },
+  "english": {
+    "note": "Cambio radical: o > ue cuando se acentúa. Cambio otográfico: z > c delante de e.",
+    "infinitivo": "to lunch, eat lunch, have lunch",
+    "gerundio": "lunching",
+    "participioPasado": "lunched",
+    "indicativo": {
+      "presente": "I lunch, am lunching",
+      "futuro": "I will lunch",
+      "imperfecto": "I was lunching, used to lunch, lunched",
+      "preterito": "I lunched",
+      "condicional": "I would lunch",
+      "presentePerfecto": "I have lunched",
+      "futuroPerfecto": "I will have lunched",
+      "pluscuamperfecto": "I had lunched",
+      "preteritoAnterior": "I had lunched",
+      "condicionalPerfecto": "I would have lunched"
+    },
+    "subjuntivo": {
+      "presente": "I lunch, am lunching",
+      "imperfecto": "I lunched, was lunching",
+      "futuro": "I will lunch",
+      "presentePerfecto": "I have lunched, lunched",
+      "futuroPerfecto": "I will have lunched",
+      "pluscuamperfecto": "I had lunched"
+    },
+    "afirmativo": "lunch!",
+    "negativo": "Don't lunch!"
+  },
+  "attribution": "Fred Jehle"
+}

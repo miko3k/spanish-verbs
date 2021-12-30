@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "caer",
+  "gerundio": "cayendo",
+  "participioPasado": "caído",
+  "indicativo": {
+    "presente": {
+      "yo": "caigo",
+      "tu": "caes",
+      "ud": "cae",
+      "nosotros": "caemos",
+      "vosotros": "caéis",
+      "uds": "caen"
+    },
+    "futuro": {
+      "yo": "caeré",
+      "tu": "caerás",
+      "ud": "caerá",
+      "nosotros": "caeremos",
+      "vosotros": "caeréis",
+      "uds": "caerán"
+    },
+    "imperfecto": {
+      "yo": "caía",
+      "tu": "caías",
+      "ud": "caía",
+      "nosotros": "caíamos",
+      "vosotros": "caíais",
+      "uds": "caían"
+    },
+    "preterito": {
+      "yo": "caí",
+      "tu": "caíste",
+      "ud": "cayó",
+      "nosotros": "caímos",
+      "vosotros": "caísteis",
+      "uds": "cayeron"
+    },
+    "condicional": {
+      "yo": "caería",
+      "tu": "caerías",
+      "ud": "caería",
+      "nosotros": "caeríamos",
+      "vosotros": "caeríais",
+      "uds": "caerían"
+    },
+    "presentePerfecto": {
+      "yo": "he caído",
+      "tu": "has caído",
+      "ud": "ha caído",
+      "nosotros": "hemos caído",
+      "vosotros": "habéis caído",
+      "uds": "han caído"
+    },
+    "futuroPerfecto": {
+      "yo": "habré caído",
+      "tu": "habrás caído",
+      "ud": "habrá caído",
+      "nosotros": "habremos caído",
+      "vosotros": "habréis caído",
+      "uds": "habrán caído"
+    },
+    "pluscuamperfecto": {
+      "yo": "había caído",
+      "tu": "habías caído",
+      "ud": "había caído",
+      "nosotros": "habíamos caído",
+      "vosotros": "habíais caído",
+      "uds": "habían caído"
+    },
+    "preteritoAnterior": {
+      "yo": "hube caído",
+      "tu": "hubiste caído",
+      "ud": "hubo caído",
+      "nosotros": "hubimos caído",
+      "vosotros": "hubisteis caído",
+      "uds": "hubieron caído"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría caído",
+      "tu": "habrías caído",
+      "ud": "habría caído",
+      "nosotros": "habríamos caído",
+      "vosotros": "habríais caído",
+      "uds": "habrían caído"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "caiga",
+      "tu": "caigas",
+      "ud": "caiga",
+      "nosotros": "caigamos",
+      "vosotros": "caigáis",
+      "uds": "caigan"
+    },
+    "imperfecto": {
+      "yo": "cayera",
+      "tu": "cayeras",
+      "ud": "cayera",
+      "nosotros": "cayéramos",
+      "vosotros": "cayerais",
+      "uds": "cayeran"
+    },
+    "futuro": {
+      "yo": "cayere",
+      "tu": "cayeres",
+      "ud": "cayere",
+      "nosotros": "cayéremos",
+      "vosotros": "cayereis",
+      "uds": "cayeren"
+    },
+    "presentePerfecto": {
+      "yo": "haya caído",
+      "tu": "hayas caído",
+      "ud": "haya caído",
+      "nosotros": "hayamos caído",
+      "vosotros": "hayáis caído",
+      "uds": "hayan caído"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere caído",
+      "tu": "hubieres caído",
+      "ud": "hubiere caído",
+      "nosotros": "hubiéremos caído",
+      "vosotros": "hubiereis caído",
+      "uds": "hubieren caído"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera caído",
+      "tu": "hubieras caído",
+      "ud": "hubiera caído",
+      "nosotros": "hubiéramos caído",
+      "vosotros": "hubierais caído",
+      "uds": "hubieran caído"
+    },
+    "imperfectoAlt": {
+      "yo": "cayese",
+      "tu": "cayeses",
+      "ud": "cayese",
+      "nosotros": "cayésemos",
+      "vosotros": "cayeseis",
+      "uds": "cayesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese caído",
+      "tu": "hubieses caído",
+      "ud": "hubiese caído",
+      "nosotros": "hubiésemos caído",
+      "vosotros": "hubieseis caído",
+      "uds": "hubiesen caído"
+    }
+  },
+  "afirmativo": {
+    "tu": "cae",
+    "vosotros": "caed",
+    "ud": "caiga",
+    "uds": "caigan"
+  },
+  "negativo": {
+    "tu": "no caigas",
+    "vosotros": "no caigáis",
+    "ud": "no caiga",
+    "uds": "no caigan"
+  },
+  "english": {
+    "note": "Forma irregular: caigo. Cambio ortográfico: ai + vocal > ay.",
+    "infinitivo": "to fall",
+    "gerundio": "falling",
+    "participioPasado": "fallen",
+    "indicativo": {
+      "presente": "I fall, am falling",
+      "futuro": "I will fall",
+      "imperfecto": "I was falling, used to fall, fell",
+      "preterito": "I fell",
+      "condicional": "I would fall",
+      "presentePerfecto": "I have fallen",
+      "futuroPerfecto": "I will have fallen",
+      "pluscuamperfecto": "I had fallen",
+      "preteritoAnterior": "I had fallen",
+      "condicionalPerfecto": "I would have fallen"
+    },
+    "subjuntivo": {
+      "presente": "I fall, am falling",
+      "imperfecto": "I fell, was falling",
+      "futuro": "I will fall",
+      "presentePerfecto": "I have fallen, fell",
+      "futuroPerfecto": "I will have fallen",
+      "pluscuamperfecto": "I had fallen"
+    },
+    "afirmativo": "Fall!",
+    "negativo": "Don't fall!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "detener",
+  "gerundio": "deteniendo",
+  "participioPasado": "detenido",
+  "indicativo": {
+    "presente": {
+      "yo": "detengo",
+      "tu": "detienes",
+      "ud": "detiene",
+      "nosotros": "detenemos",
+      "vosotros": "detenéis",
+      "uds": "detienen"
+    },
+    "futuro": {
+      "yo": "detendré",
+      "tu": "detendrás",
+      "ud": "detendrá",
+      "nosotros": "detendremos",
+      "vosotros": "detendréis",
+      "uds": "detendrán"
+    },
+    "imperfecto": {
+      "yo": "detenía",
+      "tu": "detenías",
+      "ud": "detenía",
+      "nosotros": "deteníamos",
+      "vosotros": "deteníais",
+      "uds": "detenían"
+    },
+    "preterito": {
+      "yo": "detuve",
+      "tu": "detuviste",
+      "ud": "detuvo",
+      "nosotros": "detuvimos",
+      "vosotros": "detuvisteis",
+      "uds": "detuvieron"
+    },
+    "condicional": {
+      "yo": "detendría",
+      "tu": "detendrías",
+      "ud": "detendría",
+      "nosotros": "detendríamos",
+      "vosotros": "detendríais",
+      "uds": "detendrían"
+    },
+    "presentePerfecto": {
+      "yo": "he detenido",
+      "tu": "has detenido",
+      "ud": "ha detenido",
+      "nosotros": "hemos detenido",
+      "vosotros": "habéis detenido",
+      "uds": "han detenido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré detenido",
+      "tu": "habrás detenido",
+      "ud": "habrá detenido",
+      "nosotros": "habremos detenido",
+      "vosotros": "habréis detenido",
+      "uds": "habrán detenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había detenido",
+      "tu": "habías detenido",
+      "ud": "había detenido",
+      "nosotros": "habíamos detenido",
+      "vosotros": "habíais detenido",
+      "uds": "habían detenido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube detenido",
+      "tu": "hubiste detenido",
+      "ud": "hubo detenido",
+      "nosotros": "hubimos detenido",
+      "vosotros": "hubisteis detenido",
+      "uds": "hubieron detenido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría detenido",
+      "tu": "habrías detenido",
+      "ud": "habría detenido",
+      "nosotros": "habríamos detenido",
+      "vosotros": "habríais detenido",
+      "uds": "habrían detenido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "detenga",
+      "tu": "detengas",
+      "ud": "detenga",
+      "nosotros": "detengamos",
+      "vosotros": "detengáis",
+      "uds": "detengan"
+    },
+    "imperfecto": {
+      "yo": "detuviera",
+      "tu": "detuvieras",
+      "ud": "detuviera",
+      "nosotros": "detuviéramos",
+      "vosotros": "detuvierais",
+      "uds": "detuvieran"
+    },
+    "futuro": {
+      "yo": "detuviere",
+      "tu": "detuvieres",
+      "ud": "detuviere",
+      "nosotros": "detuviéremos",
+      "vosotros": "detuviereis",
+      "uds": "detuvieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya detenido",
+      "tu": "hayas detenido",
+      "ud": "haya detenido",
+      "nosotros": "hayamos detenido",
+      "vosotros": "hayáis detenido",
+      "uds": "hayan detenido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere detenido",
+      "tu": "hubieres detenido",
+      "ud": "hubiere detenido",
+      "nosotros": "hubiéremos detenido",
+      "vosotros": "hubiereis detenido",
+      "uds": "hubieren detenido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera detenido",
+      "tu": "hubieras detenido",
+      "ud": "hubiera detenido",
+      "nosotros": "hubiéramos detenido",
+      "vosotros": "hubierais detenido",
+      "uds": "hubieran detenido"
+    },
+    "imperfectoAlt": {
+      "yo": "detuviese",
+      "tu": "detuvieses",
+      "ud": "detuviese",
+      "nosotros": "detuviésemos",
+      "vosotros": "detuvieseis",
+      "uds": "detuviesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese detenido",
+      "tu": "hubieses detenido",
+      "ud": "hubiese detenido",
+      "nosotros": "hubiésemos detenido",
+      "vosotros": "hubieseis detenido",
+      "uds": "hubiesen detenido"
+    }
+  },
+  "afirmativo": {
+    "tu": "detén",
+    "vosotros": "detened",
+    "ud": "detenga",
+    "uds": "detengan"
+  },
+  "negativo": {
+    "tu": "no detengas",
+    "vosotros": "no detengáis",
+    "ud": "no detenga",
+    "uds": "no detengan"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie. Formas irregulares: detengo, detenga, detengas, etc. Radical irregular en el futuro y condicional: detendr-. Radical fuerte en el pretérito: detuv-. Mandato familiar singular irregular: detén. This verb is used transitive, for example, detener a alguien, to stop someone; use the reflexive form detenerse to mean to come to a stop.",
+    "infinitivo": "to stop; to hold up, delay; to arrest, detain",
+    "gerundio": "stopping",
+    "participioPasado": "stopped",
+    "indicativo": {
+      "presente": "I stop, am stopping",
+      "futuro": "I will stop",
+      "imperfecto": "I was stopping, used to stop, stopped",
+      "preterito": "I stopped",
+      "condicional": "I would stop",
+      "presentePerfecto": "I have stopped",
+      "futuroPerfecto": "I will have stopped",
+      "pluscuamperfecto": "I had stopped",
+      "preteritoAnterior": "I had stopped",
+      "condicionalPerfecto": "I would have stopped"
+    },
+    "subjuntivo": {
+      "presente": "I stop, am stopping",
+      "imperfecto": "I stopped, was stopping",
+      "futuro": "I will stop",
+      "presentePerfecto": "I have stopped, stopped",
+      "futuroPerfecto": "I will have stopped",
+      "pluscuamperfecto": "I had stopped"
+    },
+    "afirmativo": "Stop!",
+    "negativo": "Don't stop!"
+  },
+  "attribution": "Fred Jehle"
+}

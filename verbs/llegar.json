@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "llegar",
+  "gerundio": "llegando",
+  "participioPasado": "llegado",
+  "indicativo": {
+    "presente": {
+      "yo": "llego",
+      "tu": "llegas",
+      "ud": "llega",
+      "nosotros": "llegamos",
+      "vosotros": "llegáis",
+      "uds": "llegan"
+    },
+    "futuro": {
+      "yo": "llegaré",
+      "tu": "llegarás",
+      "ud": "llegará",
+      "nosotros": "llegaremos",
+      "vosotros": "llegaréis",
+      "uds": "llegarán"
+    },
+    "imperfecto": {
+      "yo": "llegaba",
+      "tu": "llegabas",
+      "ud": "llegaba",
+      "nosotros": "llegábamos",
+      "vosotros": "llegabais",
+      "uds": "llegaban"
+    },
+    "preterito": {
+      "yo": "llegué",
+      "tu": "llegaste",
+      "ud": "llegó",
+      "nosotros": "llegamos",
+      "vosotros": "llegasteis",
+      "uds": "llegaron"
+    },
+    "condicional": {
+      "yo": "llegaría",
+      "tu": "llegarías",
+      "ud": "llegaría",
+      "nosotros": "llegaríamos",
+      "vosotros": "llegaríais",
+      "uds": "llegarían"
+    },
+    "presentePerfecto": {
+      "yo": "he llegado",
+      "tu": "has llegado",
+      "ud": "ha llegado",
+      "nosotros": "hemos llegado",
+      "vosotros": "habéis llegado",
+      "uds": "han llegado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré llegado",
+      "tu": "habrás llegado",
+      "ud": "habrá llegado",
+      "nosotros": "habremos llegado",
+      "vosotros": "habréis llegado",
+      "uds": "habrán llegado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había llegado",
+      "tu": "habías llegado",
+      "ud": "había llegado",
+      "nosotros": "habíamos llegado",
+      "vosotros": "habíais llegado",
+      "uds": "habían llegado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube llegado",
+      "tu": "hubiste llegado",
+      "ud": "hubo llegado",
+      "nosotros": "hubimos llegado",
+      "vosotros": "hubisteis llegado",
+      "uds": "hubieron llegado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría llegado",
+      "tu": "habrías llegado",
+      "ud": "habría llegado",
+      "nosotros": "habríamos llegado",
+      "vosotros": "habríais llegado",
+      "uds": "habrían llegado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "llegue",
+      "tu": "llegues",
+      "ud": "llegue",
+      "nosotros": "lleguemos",
+      "vosotros": "lleguéis",
+      "uds": "lleguen"
+    },
+    "imperfecto": {
+      "yo": "llegara",
+      "tu": "llegaras",
+      "ud": "llegara",
+      "nosotros": "llegáramos",
+      "vosotros": "llegarais",
+      "uds": "llegaran"
+    },
+    "futuro": {
+      "yo": "llegare",
+      "tu": "llegares",
+      "ud": "llegare",
+      "nosotros": "llegáremos",
+      "vosotros": "llegareis",
+      "uds": "llegaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya llegado",
+      "tu": "hayas llegado",
+      "ud": "haya llegado",
+      "nosotros": "hayamos llegado",
+      "vosotros": "hayáis llegado",
+      "uds": "hayan llegado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere llegado",
+      "tu": "hubieres llegado",
+      "ud": "hubiere llegado",
+      "nosotros": "hubiéremos llegado",
+      "vosotros": "hubiereis llegado",
+      "uds": "hubieren llegado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera llegado",
+      "tu": "hubieras llegado",
+      "ud": "hubiera llegado",
+      "nosotros": "hubiéramos llegado",
+      "vosotros": "hubierais llegado",
+      "uds": "hubieran llegado"
+    },
+    "imperfectoAlt": {
+      "yo": "llegase",
+      "tu": "llegases",
+      "ud": "llegase",
+      "nosotros": "llegásemos",
+      "vosotros": "llegaseis",
+      "uds": "llegasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese llegado",
+      "tu": "hubieses llegado",
+      "ud": "hubiese llegado",
+      "nosotros": "hubiésemos llegado",
+      "vosotros": "hubieseis llegado",
+      "uds": "hubiesen llegado"
+    }
+  },
+  "afirmativo": {
+    "tu": "llega",
+    "vosotros": "llegad",
+    "ud": "llegue",
+    "uds": "lleguen"
+  },
+  "negativo": {
+    "tu": "no llegues",
+    "vosotros": "no lleguéis",
+    "ud": "no llegue",
+    "uds": "no lleguen"
+  },
+  "english": {
+    "note": "Cambio ortográfico: g > gu delante de e.",
+    "infinitivo": "to arrive, come, reach; to bring up, bring over; to gather together",
+    "gerundio": "arriving",
+    "participioPasado": "arrived",
+    "indicativo": {
+      "presente": "I arrive, am arriving",
+      "futuro": "I will arrive",
+      "imperfecto": "I was arriving, used to arrive, arrived",
+      "preterito": "I arrived",
+      "condicional": "I would arrive",
+      "presentePerfecto": "I have arrived",
+      "futuroPerfecto": "I will have arrived",
+      "pluscuamperfecto": "I had arrived",
+      "preteritoAnterior": "I had arrived",
+      "condicionalPerfecto": "I would have arrived"
+    },
+    "subjuntivo": {
+      "presente": "I arrive, am arriving",
+      "imperfecto": "I arrived, was arriving",
+      "futuro": "I will arrive",
+      "presentePerfecto": "I have arrived, arrived",
+      "futuroPerfecto": "I will have arrived",
+      "pluscuamperfecto": "I had arrived"
+    },
+    "afirmativo": "Arrive!",
+    "negativo": "Don't arrive!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "recomendar",
+  "gerundio": "recomendando",
+  "participioPasado": "recomendado",
+  "indicativo": {
+    "presente": {
+      "yo": "recomiendo",
+      "tu": "recomiendas",
+      "ud": "recomienda",
+      "nosotros": "recomendamos",
+      "vosotros": "recomendáis",
+      "uds": "recomiendan"
+    },
+    "futuro": {
+      "yo": "recomendaré",
+      "tu": "recomendarás",
+      "ud": "recomendará",
+      "nosotros": "recomendaremos",
+      "vosotros": "recomendaréis",
+      "uds": "recomendarán"
+    },
+    "imperfecto": {
+      "yo": "recomendaba",
+      "tu": "recomendabas",
+      "ud": "recomendaba",
+      "nosotros": "recomendábamos",
+      "vosotros": "recomendabais",
+      "uds": "recomendaban"
+    },
+    "preterito": {
+      "yo": "recomendé",
+      "tu": "recomendaste",
+      "ud": "recomendó",
+      "nosotros": "recomendamos",
+      "vosotros": "recomendasteis",
+      "uds": "recomendaron"
+    },
+    "condicional": {
+      "yo": "recomendaría",
+      "tu": "recomendarías",
+      "ud": "recomendaría",
+      "nosotros": "recomendaríamos",
+      "vosotros": "recomendaríais",
+      "uds": "recomendarían"
+    },
+    "presentePerfecto": {
+      "yo": "he recomendado",
+      "tu": "has recomendado",
+      "ud": "ha recomendado",
+      "nosotros": "hemos recomendado",
+      "vosotros": "habéis recomendado",
+      "uds": "han recomendado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré recomendado",
+      "tu": "habrás recomendado",
+      "ud": "habrá recomendado",
+      "nosotros": "habremos recomendado",
+      "vosotros": "habréis recomendado",
+      "uds": "habrán recomendado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había recomendado",
+      "tu": "habías recomendado",
+      "ud": "había recomendado",
+      "nosotros": "habíamos recomendado",
+      "vosotros": "habíais recomendado",
+      "uds": "habían recomendado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube recomendado",
+      "tu": "hubiste recomendado",
+      "ud": "hubo recomendado",
+      "nosotros": "hubimos recomendado",
+      "vosotros": "hubisteis recomendado",
+      "uds": "hubieron recomendado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría recomendado",
+      "tu": "habrías recomendado",
+      "ud": "habría recomendado",
+      "nosotros": "habríamos recomendado",
+      "vosotros": "habríais recomendado",
+      "uds": "habrían recomendado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "recomiende",
+      "tu": "recomiendes",
+      "ud": "recomiende",
+      "nosotros": "recomendemos",
+      "vosotros": "recomendéis",
+      "uds": "recomienden"
+    },
+    "imperfecto": {
+      "yo": "recomendara",
+      "tu": "recomendaras",
+      "ud": "recomendara",
+      "nosotros": "recomendáramos",
+      "vosotros": "recomendarais",
+      "uds": "recomendaran"
+    },
+    "futuro": {
+      "yo": "recomendare",
+      "tu": "recomendares",
+      "ud": "recomendare",
+      "nosotros": "recomendáremos",
+      "vosotros": "recomendareis",
+      "uds": "recomendaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya recomendado",
+      "tu": "hayas recomendado",
+      "ud": "haya recomendado",
+      "nosotros": "hayamos recomendado",
+      "vosotros": "hayáis recomendado",
+      "uds": "hayan recomendado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere recomendado",
+      "tu": "hubieres recomendado",
+      "ud": "hubiere recomendado",
+      "nosotros": "hubiéremos recomendado",
+      "vosotros": "hubiereis recomendado",
+      "uds": "hubieren recomendado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera recomendado",
+      "tu": "hubieras recomendado",
+      "ud": "hubiera recomendado",
+      "nosotros": "hubiéramos recomendado",
+      "vosotros": "hubierais recomendado",
+      "uds": "hubieran recomendado"
+    },
+    "imperfectoAlt": {
+      "yo": "recomendase",
+      "tu": "recomendases",
+      "ud": "recomendase",
+      "nosotros": "recomendásemos",
+      "vosotros": "recomendaseis",
+      "uds": "recomendasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese recomendado",
+      "tu": "hubieses recomendado",
+      "ud": "hubiese recomendado",
+      "nosotros": "hubiésemos recomendado",
+      "vosotros": "hubieseis recomendado",
+      "uds": "hubiesen recomendado"
+    }
+  },
+  "afirmativo": {
+    "tu": "recomienda",
+    "vosotros": "recomendad",
+    "ud": "recomiende",
+    "uds": "recomienden"
+  },
+  "negativo": {
+    "tu": "no recomiendes",
+    "vosotros": "no recomendéis",
+    "ud": "no recomiende",
+    "uds": "no recomienden"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa.",
+    "infinitivo": "to recommend",
+    "gerundio": "recommending",
+    "participioPasado": "recommended",
+    "indicativo": {
+      "presente": "I recommend, am recommending",
+      "futuro": "I will recommend",
+      "imperfecto": "I was recommending, used to recommend, recommended",
+      "preterito": "I recommended",
+      "condicional": "I would recommend",
+      "presentePerfecto": "I have recommended",
+      "futuroPerfecto": "I will have recommended",
+      "pluscuamperfecto": "I had recommended",
+      "preteritoAnterior": "I had recommended",
+      "condicionalPerfecto": "I would have recommended"
+    },
+    "subjuntivo": {
+      "presente": "I recommend, am recommending",
+      "imperfecto": "I recommended, was recommending",
+      "futuro": "I will recommend",
+      "presentePerfecto": "I have recommended, recommended",
+      "futuroPerfecto": "I will have recommended",
+      "pluscuamperfecto": "I had recommended"
+    },
+    "afirmativo": "Recommend!",
+    "negativo": "Don't recommend!"
+  },
+  "attribution": "Fred Jehle"
+}

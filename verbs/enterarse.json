@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "enterarse (de algo)",
+  "gerundio": "enterándose",
+  "participioPasado": "enterado",
+  "indicativo": {
+    "presente": {
+      "yo": "me entero",
+      "tu": "te enteras",
+      "ud": "se entera",
+      "nosotros": "nos enteramos",
+      "vosotros": "os enteráis",
+      "uds": "se enteran"
+    },
+    "futuro": {
+      "yo": "me enteraré",
+      "tu": "te enterarás",
+      "ud": "se enterará",
+      "nosotros": "nos enteraremos",
+      "vosotros": "os enteraréis",
+      "uds": "se enterarán"
+    },
+    "imperfecto": {
+      "yo": "me enteraba",
+      "tu": "te enterabas",
+      "ud": "se enteraba",
+      "nosotros": "nos enterábamos",
+      "vosotros": "os enterabais",
+      "uds": "se enteraban"
+    },
+    "preterito": {
+      "yo": "me enteré",
+      "tu": "te enteraste",
+      "ud": "se enteró",
+      "nosotros": "nos enteramos",
+      "vosotros": "os enterasteis",
+      "uds": "se enteraron"
+    },
+    "condicional": {
+      "yo": "me enteraría",
+      "tu": "te enterarías",
+      "ud": "se enteraría",
+      "nosotros": "nos enteraríamos",
+      "vosotros": "os enteraríais",
+      "uds": "se enterarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he enterado",
+      "tu": "te has enterado",
+      "ud": "se ha enterado",
+      "nosotros": "nos hemos enterado",
+      "vosotros": "os habéis enterado",
+      "uds": "se han enterado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré enterado",
+      "tu": "te habrás enterado",
+      "ud": "se habrá enterado",
+      "nosotros": "nos habremos enterado",
+      "vosotros": "os habréis enterado",
+      "uds": "se habrán enterado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había enterado",
+      "tu": "te habías enterado",
+      "ud": "se había enterado",
+      "nosotros": "nos habíamos enterado",
+      "vosotros": "os habíais enterado",
+      "uds": "se habían enterado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube enterado",
+      "tu": "te hubiste enterado",
+      "ud": "se hubo enterado",
+      "nosotros": "nos hubimos enterado",
+      "vosotros": "os hubisteis enterado",
+      "uds": "se hubieron enterado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría enterado",
+      "tu": "te habrías enterado",
+      "ud": "se habría enterado",
+      "nosotros": "nos habríamos enterado",
+      "vosotros": "os habríais enterado",
+      "uds": "se habrían enterado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me entere",
+      "tu": "te enteres",
+      "ud": "se entere",
+      "nosotros": "nos enteremos",
+      "vosotros": "os enteréis",
+      "uds": "se enteren"
+    },
+    "imperfecto": {
+      "yo": "me enterara",
+      "tu": "te enteraras",
+      "ud": "se enterara",
+      "nosotros": "nos enteráramos",
+      "vosotros": "os enterarais",
+      "uds": "se enteraran"
+    },
+    "futuro": {
+      "yo": "me enterare",
+      "tu": "te enterares",
+      "ud": "se enterare",
+      "nosotros": "nos enteráremos",
+      "vosotros": "os enterareis",
+      "uds": "se enteraren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya enterado",
+      "tu": "te hayas enterado",
+      "ud": "se haya enterado",
+      "nosotros": "nos hayamos enterado",
+      "vosotros": "os hayáis enterado",
+      "uds": "se hayan enterado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere enterado",
+      "tu": "te hubieres enterado",
+      "ud": "se hubiere enterado",
+      "nosotros": "nos hubiéremos enterado",
+      "vosotros": "os hubiereis enterado",
+      "uds": "se hubieren enterado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera enterado",
+      "tu": "te hubieras enterado",
+      "ud": "se hubiera enterado",
+      "nosotros": "nos hubiéramos enterado",
+      "vosotros": "os hubierais enterado",
+      "uds": "se hubieran enterado"
+    },
+    "imperfectoAlt": {
+      "yo": "me enterase",
+      "tu": "te enterases",
+      "ud": "se enterase",
+      "nosotros": "nos enterásemos",
+      "vosotros": "os enteraseis",
+      "uds": "se enterasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese enterado",
+      "tu": "te hubieses enterado",
+      "ud": "se hubiese enterado",
+      "nosotros": "nos hubiésemos enterado",
+      "vosotros": "os hubieseis enterado",
+      "uds": "se hubiesen enterado"
+    }
+  },
+  "afirmativo": {
+    "tu": "entérate",
+    "vosotros": "enteraos",
+    "ud": "entérese",
+    "uds": "entérense"
+  },
+  "negativo": {
+    "tu": "no te enteres",
+    "vosotros": "no os enteréis",
+    "ud": "no se entere",
+    "uds": "no se enteren"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to find out (about something), to learn (of something)",
+    "gerundio": "finding out",
+    "participioPasado": "found out",
+    "indicativo": {
+      "presente": "I find out, am finding out",
+      "futuro": "I will find out",
+      "imperfecto": "I was finding out, used to find out, found out",
+      "preterito": "I found out",
+      "condicional": "I would find out",
+      "presentePerfecto": "I have found out",
+      "futuroPerfecto": "I will have found out",
+      "pluscuamperfecto": "I had found out",
+      "preteritoAnterior": "I had found out",
+      "condicionalPerfecto": "I would have found out"
+    },
+    "subjuntivo": {
+      "presente": "I find out, am finding out",
+      "imperfecto": "I found out, was finding out",
+      "futuro": "I will find out",
+      "presentePerfecto": "I have found out, found out",
+      "futuroPerfecto": "I will have found out",
+      "pluscuamperfecto": "I had found out"
+    },
+    "afirmativo": "find out!",
+    "negativo": "Don't find out!"
+  },
+  "attribution": "Fred Jehle"
+}

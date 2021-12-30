@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "sentar",
+  "gerundio": "sentando",
+  "participioPasado": "sentado",
+  "indicativo": {
+    "presente": {
+      "yo": "siento",
+      "tu": "sientas",
+      "ud": "sienta",
+      "nosotros": "sentamos",
+      "vosotros": "sentáis",
+      "uds": "sientan"
+    },
+    "futuro": {
+      "yo": "sentaré",
+      "tu": "sentarás",
+      "ud": "sentará",
+      "nosotros": "sentaremos",
+      "vosotros": "sentaréis",
+      "uds": "sentarán"
+    },
+    "imperfecto": {
+      "yo": "sentaba",
+      "tu": "sentabas",
+      "ud": "sentaba",
+      "nosotros": "sentábamos",
+      "vosotros": "sentabais",
+      "uds": "sentaban"
+    },
+    "preterito": {
+      "yo": "senté",
+      "tu": "sentaste",
+      "ud": "sentó",
+      "nosotros": "sentamos",
+      "vosotros": "sentasteis",
+      "uds": "sentaron"
+    },
+    "condicional": {
+      "yo": "sentaría",
+      "tu": "sentarías",
+      "ud": "sentaría",
+      "nosotros": "sentaríamos",
+      "vosotros": "sentaríais",
+      "uds": "sentarían"
+    },
+    "presentePerfecto": {
+      "yo": "he sentado",
+      "tu": "has sentado",
+      "ud": "ha sentado",
+      "nosotros": "hemos sentado",
+      "vosotros": "habéis sentado",
+      "uds": "han sentado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sentado",
+      "tu": "habrás sentado",
+      "ud": "habrá sentado",
+      "nosotros": "habremos sentado",
+      "vosotros": "habréis sentado",
+      "uds": "habrán sentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sentado",
+      "tu": "habías sentado",
+      "ud": "había sentado",
+      "nosotros": "habíamos sentado",
+      "vosotros": "habíais sentado",
+      "uds": "habían sentado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sentado",
+      "tu": "hubiste sentado",
+      "ud": "hubo sentado",
+      "nosotros": "hubimos sentado",
+      "vosotros": "hubisteis sentado",
+      "uds": "hubieron sentado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sentado",
+      "tu": "habrías sentado",
+      "ud": "habría sentado",
+      "nosotros": "habríamos sentado",
+      "vosotros": "habríais sentado",
+      "uds": "habrían sentado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "siente",
+      "tu": "sientes",
+      "ud": "siente",
+      "nosotros": "sentemos",
+      "vosotros": "sentéis",
+      "uds": "sienten"
+    },
+    "imperfecto": {
+      "yo": "sentara",
+      "tu": "sentaras",
+      "ud": "sentara",
+      "nosotros": "sentáramos",
+      "vosotros": "sentarais",
+      "uds": "sentaran"
+    },
+    "futuro": {
+      "yo": "sentare",
+      "tu": "sentares",
+      "ud": "sentare",
+      "nosotros": "sentáremos",
+      "vosotros": "sentareis",
+      "uds": "sentaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sentado",
+      "tu": "hayas sentado",
+      "ud": "haya sentado",
+      "nosotros": "hayamos sentado",
+      "vosotros": "hayáis sentado",
+      "uds": "hayan sentado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sentado",
+      "tu": "hubieres sentado",
+      "ud": "hubiere sentado",
+      "nosotros": "hubiéremos sentado",
+      "vosotros": "hubiereis sentado",
+      "uds": "hubieren sentado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sentado",
+      "tu": "hubieras sentado",
+      "ud": "hubiera sentado",
+      "nosotros": "hubiéramos sentado",
+      "vosotros": "hubierais sentado",
+      "uds": "hubieran sentado"
+    },
+    "imperfectoAlt": {
+      "yo": "sentase",
+      "tu": "sentases",
+      "ud": "sentase",
+      "nosotros": "sentásemos",
+      "vosotros": "sentaseis",
+      "uds": "sentasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sentado",
+      "tu": "hubieses sentado",
+      "ud": "hubiese sentado",
+      "nosotros": "hubiésemos sentado",
+      "vosotros": "hubieseis sentado",
+      "uds": "hubiesen sentado"
+    }
+  },
+  "afirmativo": {
+    "tu": "sienta",
+    "vosotros": "sentad",
+    "ud": "siente",
+    "uds": "sienten"
+  },
+  "negativo": {
+    "tu": "no sientes",
+    "vosotros": "no sentéis",
+    "ud": "no siente",
+    "uds": "no sienten"
+  },
+  "english": {
+    "note": "Cambio radical: i > ie cuando se acentúa. Note: The reflexive form sentarse is used for to go to bed, to lie down.",
+    "infinitivo": "to seat, sit (someone down)",
+    "gerundio": "seating",
+    "participioPasado": "seated",
+    "indicativo": {
+      "presente": "I seat, am seating",
+      "futuro": "I will seat",
+      "imperfecto": "I was seating, used to seat, seat",
+      "preterito": "I seat",
+      "condicional": "I would seat",
+      "presentePerfecto": "I have seated",
+      "futuroPerfecto": "I will have seated",
+      "pluscuamperfecto": "I had seated",
+      "preteritoAnterior": "I had seated",
+      "condicionalPerfecto": "I would have seated"
+    },
+    "subjuntivo": {
+      "presente": "I seat, am seating",
+      "imperfecto": "I seat, was seating",
+      "futuro": "I will seat",
+      "presentePerfecto": "I have seated, seated",
+      "futuroPerfecto": "I will have seated",
+      "pluscuamperfecto": "I had seated"
+    },
+    "afirmativo": "Seat!",
+    "negativo": "Don't seat!"
+  },
+  "attribution": "Fred Jehle"
+}

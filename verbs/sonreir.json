@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "sonreír",
+  "gerundio": "sonriendo",
+  "participioPasado": "sonreído",
+  "indicativo": {
+    "presente": {
+      "yo": "sonrío",
+      "tu": "sonríes",
+      "ud": "sonríe",
+      "nosotros": "sonreímos",
+      "vosotros": "sonreís",
+      "uds": "sonríen"
+    },
+    "futuro": {
+      "yo": "sonreiré",
+      "tu": "sonreirás",
+      "ud": "sonreirá",
+      "nosotros": "sonreiremos",
+      "vosotros": "sonreiréis",
+      "uds": "sonreirán"
+    },
+    "imperfecto": {
+      "yo": "sonreía",
+      "tu": "sonreías",
+      "ud": "sonreía",
+      "nosotros": "sonreíamos",
+      "vosotros": "sonreíais",
+      "uds": "sonreían"
+    },
+    "preterito": {
+      "yo": "sonreí",
+      "tu": "sonreíste",
+      "ud": "sonrió",
+      "nosotros": "sonreímos",
+      "vosotros": "sonreísteis",
+      "uds": "sonrieron"
+    },
+    "condicional": {
+      "yo": "sonreiría",
+      "tu": "sonreirías",
+      "ud": "sonreiría",
+      "nosotros": "sonreiríamos",
+      "vosotros": "sonreiríais",
+      "uds": "sonreirían"
+    },
+    "presentePerfecto": {
+      "yo": "he sonreído",
+      "tu": "has sonreído",
+      "ud": "ha sonreído",
+      "nosotros": "hemos sonreído",
+      "vosotros": "habéis sonreído",
+      "uds": "han sonreído"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sonreído",
+      "tu": "habrás sonreído",
+      "ud": "habrá sonreído",
+      "nosotros": "habremos sonreído",
+      "vosotros": "habréis sonreído",
+      "uds": "habrán sonreído"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sonreído",
+      "tu": "habías sonreído",
+      "ud": "había sonreído",
+      "nosotros": "habíamos sonreído",
+      "vosotros": "habíais sonreído",
+      "uds": "habían sonreído"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sonreído",
+      "tu": "hubiste sonreído",
+      "ud": "hubo sonreído",
+      "nosotros": "hubimos sonreído",
+      "vosotros": "hubisteis sonreído",
+      "uds": "hubieron sonreído"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sonreído",
+      "tu": "habrías sonreído",
+      "ud": "habría sonreído",
+      "nosotros": "habríamos sonreído",
+      "vosotros": "habríais sonreído",
+      "uds": "habrían sonreído"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sonría",
+      "tu": "sonrías",
+      "ud": "sonría",
+      "nosotros": "sonriamos",
+      "vosotros": "sonriáis",
+      "uds": "sonrían"
+    },
+    "imperfecto": {
+      "yo": "sonriera",
+      "tu": "sonrieras",
+      "ud": "sonriera",
+      "nosotros": "sonriéramos",
+      "vosotros": "sonrierais",
+      "uds": "sonrieran"
+    },
+    "futuro": {
+      "yo": "sonriere",
+      "tu": "sonrieres",
+      "ud": "sonriere",
+      "nosotros": "sonriéremos",
+      "vosotros": "sonriereis",
+      "uds": "sonrieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sonreído",
+      "tu": "hayas sonreído",
+      "ud": "haya sonreído",
+      "nosotros": "hayamos sonreído",
+      "vosotros": "hayáis sonreído",
+      "uds": "hayan sonreído"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sonreído",
+      "tu": "hubieres sonreído",
+      "ud": "hubiere sonreído",
+      "nosotros": "hubiéremos sonreído",
+      "vosotros": "hubiereis sonreído",
+      "uds": "hubieren sonreído"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sonreído",
+      "tu": "hubieras sonreído",
+      "ud": "hubiera sonreído",
+      "nosotros": "hubiéramos sonreído",
+      "vosotros": "hubierais sonreído",
+      "uds": "hubieran sonreído"
+    },
+    "imperfectoAlt": {
+      "yo": "riese",
+      "tu": "rieses",
+      "ud": "riese",
+      "nosotros": "riésemos",
+      "vosotros": "rieseis",
+      "uds": "riesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sonreído",
+      "tu": "hubieses sonreído",
+      "ud": "hubiese sonreído",
+      "nosotros": "hubiésemos sonreído",
+      "vosotros": "hubieseis sonreído",
+      "uds": "hubiesen sonreído"
+    }
+  },
+  "afirmativo": {
+    "tu": "sonríe",
+    "vosotros": "sonreíd",
+    "ud": "sonría",
+    "uds": "sonrían"
+  },
+  "negativo": {
+    "tu": "no sonrías",
+    "vosotros": "no sonriáis",
+    "ud": "no sonría",
+    "uds": "no sonrían"
+  },
+  "english": {
+    "note": "Cambio radical: e > i > i. Con la radical sonri-: 1) la i radical lleva acento escrito cuando se acentúa la radical (sonrío, sonríes, sonría, etc.); 2) cuando se junta con una i no acuentuada, se pierde una i (e.g., sonri + ió = sonrió). Participio pasado: sonreído. Mandato familiar plural: sonreíd.",
+    "infinitivo": "to smile",
+    "gerundio": "smiling",
+    "participioPasado": "smiled",
+    "indicativo": {
+      "presente": "I smile, am smiling",
+      "futuro": "I will smile",
+      "imperfecto": "I was smiling, used to smile, smiled",
+      "preterito": "I smiled",
+      "condicional": "I would smile",
+      "presentePerfecto": "I have smiled",
+      "futuroPerfecto": "I will have smiled",
+      "pluscuamperfecto": "I had smiled",
+      "preteritoAnterior": "I had smiled",
+      "condicionalPerfecto": "I would have smiled"
+    },
+    "subjuntivo": {
+      "presente": "I smile, am smiling",
+      "imperfecto": "I smiled, was smiling",
+      "futuro": "I will smile",
+      "presentePerfecto": "I have smiled, smiled",
+      "futuroPerfecto": "I will have smiled",
+      "pluscuamperfecto": "I had smiled"
+    },
+    "afirmativo": "Smile!",
+    "negativo": "Don't smile!"
+  },
+  "attribution": "Fred Jehle"
+}

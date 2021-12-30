@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "nadar",
+  "gerundio": "nadando",
+  "participioPasado": "nadado",
+  "indicativo": {
+    "presente": {
+      "yo": "nado",
+      "tu": "nadas",
+      "ud": "nada",
+      "nosotros": "nadamos",
+      "vosotros": "nadáis",
+      "uds": "nadan"
+    },
+    "futuro": {
+      "yo": "nadaré",
+      "tu": "nadarás",
+      "ud": "nadará",
+      "nosotros": "nadaremos",
+      "vosotros": "nadaréis",
+      "uds": "nadarán"
+    },
+    "imperfecto": {
+      "yo": "nadaba",
+      "tu": "nadabas",
+      "ud": "nadaba",
+      "nosotros": "nadábamos",
+      "vosotros": "nadabais",
+      "uds": "nadaban"
+    },
+    "preterito": {
+      "yo": "nadé",
+      "tu": "nadaste",
+      "ud": "nadó",
+      "nosotros": "nadamos",
+      "vosotros": "nadasteis",
+      "uds": "nadaron"
+    },
+    "condicional": {
+      "yo": "nadaría",
+      "tu": "nadarías",
+      "ud": "nadaría",
+      "nosotros": "nadaríamos",
+      "vosotros": "nadaríais",
+      "uds": "nadarían"
+    },
+    "presentePerfecto": {
+      "yo": "he nadado",
+      "tu": "has nadado",
+      "ud": "ha nadado",
+      "nosotros": "hemos nadado",
+      "vosotros": "habéis nadado",
+      "uds": "han nadado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré nadado",
+      "tu": "habrás nadado",
+      "ud": "habrá nadado",
+      "nosotros": "habremos nadado",
+      "vosotros": "habréis nadado",
+      "uds": "habrán nadado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había nadado",
+      "tu": "habías nadado",
+      "ud": "había nadado",
+      "nosotros": "habíamos nadado",
+      "vosotros": "habíais nadado",
+      "uds": "habían nadado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube nadado",
+      "tu": "hubiste nadado",
+      "ud": "hubo nadado",
+      "nosotros": "hubimos nadado",
+      "vosotros": "hubisteis nadado",
+      "uds": "hubieron nadado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría nadado",
+      "tu": "habrías nadado",
+      "ud": "habría nadado",
+      "nosotros": "habríamos nadado",
+      "vosotros": "habríais nadado",
+      "uds": "habrían nadado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "nade",
+      "tu": "nades",
+      "ud": "nade",
+      "nosotros": "nademos",
+      "vosotros": "nadéis",
+      "uds": "naden"
+    },
+    "imperfecto": {
+      "yo": "nadara",
+      "tu": "nadaras",
+      "ud": "nadara",
+      "nosotros": "nadáramos",
+      "vosotros": "nadarais",
+      "uds": "nadaran"
+    },
+    "futuro": {
+      "yo": "nadare",
+      "tu": "nadares",
+      "ud": "nadare",
+      "nosotros": "nadáremos",
+      "vosotros": "nadareis",
+      "uds": "nadaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya nadado",
+      "tu": "hayas nadado",
+      "ud": "haya nadado",
+      "nosotros": "hayamos nadado",
+      "vosotros": "hayáis nadado",
+      "uds": "hayan nadado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere nadado",
+      "tu": "hubieres nadado",
+      "ud": "hubiere nadado",
+      "nosotros": "hubiéremos nadado",
+      "vosotros": "hubiereis nadado",
+      "uds": "hubieren nadado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera nadado",
+      "tu": "hubieras nadado",
+      "ud": "hubiera nadado",
+      "nosotros": "hubiéramos nadado",
+      "vosotros": "hubierais nadado",
+      "uds": "hubieran nadado"
+    },
+    "imperfectoAlt": {
+      "yo": "nadase",
+      "tu": "nadases",
+      "ud": "nadase",
+      "nosotros": "nadásemos",
+      "vosotros": "nadaseis",
+      "uds": "nadasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese nadado",
+      "tu": "hubieses nadado",
+      "ud": "hubiese nadado",
+      "nosotros": "hubiésemos nadado",
+      "vosotros": "hubieseis nadado",
+      "uds": "hubiesen nadado"
+    }
+  },
+  "afirmativo": {
+    "tu": "nada",
+    "vosotros": "nadad",
+    "ud": "nade",
+    "uds": "naden"
+  },
+  "negativo": {
+    "tu": "no nades",
+    "vosotros": "no nadéis",
+    "ud": "no nade",
+    "uds": "no naden"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to swim",
+    "gerundio": "swimming",
+    "participioPasado": "swum",
+    "indicativo": {
+      "presente": "I swim, am swimming",
+      "futuro": "I will swim",
+      "imperfecto": "I was swimming, used to swim, swam",
+      "preterito": "I swam",
+      "condicional": "I would swim",
+      "presentePerfecto": "I have swum",
+      "futuroPerfecto": "I will have swum",
+      "pluscuamperfecto": "I had swum",
+      "preteritoAnterior": "I had swum",
+      "condicionalPerfecto": "I would have swum"
+    },
+    "subjuntivo": {
+      "presente": "I swim, am swimming",
+      "imperfecto": "I swam, was swimming",
+      "futuro": "I will swim",
+      "presentePerfecto": "I have swum, swam",
+      "futuroPerfecto": "I will have swum",
+      "pluscuamperfecto": "I had swum"
+    },
+    "afirmativo": "Swim!",
+    "negativo": "Don't swim!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "reinar",
+  "gerundio": "reinando",
+  "participioPasado": "reinado",
+  "indicativo": {
+    "presente": {
+      "yo": "reino",
+      "tu": "reinas",
+      "ud": "reina",
+      "nosotros": "reinamos",
+      "vosotros": "reináis",
+      "uds": "reinan"
+    },
+    "futuro": {
+      "yo": "reinaré",
+      "tu": "reinarás",
+      "ud": "reinará",
+      "nosotros": "reinaremos",
+      "vosotros": "reinaréis",
+      "uds": "reinarán"
+    },
+    "imperfecto": {
+      "yo": "reinaba",
+      "tu": "reinabas",
+      "ud": "reinaba",
+      "nosotros": "reinábamos",
+      "vosotros": "reinabais",
+      "uds": "reinaban"
+    },
+    "preterito": {
+      "yo": "reiné",
+      "tu": "reinaste",
+      "ud": "reinó",
+      "nosotros": "reinamos",
+      "vosotros": "reinasteis",
+      "uds": "reinaron"
+    },
+    "condicional": {
+      "yo": "reinaría",
+      "tu": "reinarías",
+      "ud": "reinaría",
+      "nosotros": "reinaríamos",
+      "vosotros": "reinaríais",
+      "uds": "reinarían"
+    },
+    "presentePerfecto": {
+      "yo": "he reinado",
+      "tu": "has reinado",
+      "ud": "ha reinado",
+      "nosotros": "hemos reinado",
+      "vosotros": "habéis reinado",
+      "uds": "han reinado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré reinado",
+      "tu": "habrás reinado",
+      "ud": "habrá reinado",
+      "nosotros": "habremos reinado",
+      "vosotros": "habréis reinado",
+      "uds": "habrán reinado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había reinado",
+      "tu": "habías reinado",
+      "ud": "había reinado",
+      "nosotros": "habíamos reinado",
+      "vosotros": "habíais reinado",
+      "uds": "habían reinado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube reinado",
+      "tu": "hubiste reinado",
+      "ud": "hubo reinado",
+      "nosotros": "hubimos reinado",
+      "vosotros": "hubisteis reinado",
+      "uds": "hubieron reinado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría reinado",
+      "tu": "habrías reinado",
+      "ud": "habría reinado",
+      "nosotros": "habríamos reinado",
+      "vosotros": "habríais reinado",
+      "uds": "habrían reinado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "reine",
+      "tu": "reines",
+      "ud": "reine",
+      "nosotros": "reinemos",
+      "vosotros": "reinéis",
+      "uds": "reinen"
+    },
+    "imperfecto": {
+      "yo": "reinara",
+      "tu": "reinaras",
+      "ud": "reinara",
+      "nosotros": "reináramos",
+      "vosotros": "reinarais",
+      "uds": "reinaran"
+    },
+    "futuro": {
+      "yo": "reinare",
+      "tu": "reinares",
+      "ud": "reinare",
+      "nosotros": "reináremos",
+      "vosotros": "reinareis",
+      "uds": "reinaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya reinado",
+      "tu": "hayas reinado",
+      "ud": "haya reinado",
+      "nosotros": "hayamos reinado",
+      "vosotros": "hayáis reinado",
+      "uds": "hayan reinado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere reinado",
+      "tu": "hubieres reinado",
+      "ud": "hubiere reinado",
+      "nosotros": "hubiéremos reinado",
+      "vosotros": "hubiereis reinado",
+      "uds": "hubieren reinado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera reinado",
+      "tu": "hubieras reinado",
+      "ud": "hubiera reinado",
+      "nosotros": "hubiéramos reinado",
+      "vosotros": "hubierais reinado",
+      "uds": "hubieran reinado"
+    },
+    "imperfectoAlt": {
+      "yo": "reinase",
+      "tu": "reinases",
+      "ud": "reinase",
+      "nosotros": "reinásemos",
+      "vosotros": "reinaseis",
+      "uds": "reinasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese reinado",
+      "tu": "hubieses reinado",
+      "ud": "hubiese reinado",
+      "nosotros": "hubiésemos reinado",
+      "vosotros": "hubieseis reinado",
+      "uds": "hubiesen reinado"
+    }
+  },
+  "afirmativo": {
+    "tu": "reina",
+    "vosotros": "reinad",
+    "ud": "reine",
+    "uds": "reinen"
+  },
+  "negativo": {
+    "tu": "no reines",
+    "vosotros": "no reinéis",
+    "ud": "no reine",
+    "uds": "no reinen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to reign, rule",
+    "gerundio": "reigning",
+    "participioPasado": "reigned",
+    "indicativo": {
+      "presente": "I reign, am reigning",
+      "futuro": "I will reign",
+      "imperfecto": "I was reigning, used to reign, reigned",
+      "preterito": "I reigned",
+      "condicional": "I would reign",
+      "presentePerfecto": "I have reigned",
+      "futuroPerfecto": "I will have reigned",
+      "pluscuamperfecto": "I had reigned",
+      "preteritoAnterior": "I had reigned",
+      "condicionalPerfecto": "I would have reigned"
+    },
+    "subjuntivo": {
+      "presente": "I reign, am reigning",
+      "imperfecto": "I reigned, was reigning",
+      "futuro": "I will reign",
+      "presentePerfecto": "I have reigned, reigned",
+      "futuroPerfecto": "I will have reigned",
+      "pluscuamperfecto": "I had reigned"
+    },
+    "afirmativo": "Reign!",
+    "negativo": "Don't reign!"
+  },
+  "attribution": "Fred Jehle"
+}

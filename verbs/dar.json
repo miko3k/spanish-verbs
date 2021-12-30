@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "dar",
+  "gerundio": "dando",
+  "participioPasado": "dado",
+  "indicativo": {
+    "presente": {
+      "yo": "doy",
+      "tu": "das",
+      "ud": "da",
+      "nosotros": "damos",
+      "vosotros": "dais",
+      "uds": "dan"
+    },
+    "futuro": {
+      "yo": "daré",
+      "tu": "darás",
+      "ud": "dará",
+      "nosotros": "daremos",
+      "vosotros": "daréis",
+      "uds": "darán"
+    },
+    "imperfecto": {
+      "yo": "daba",
+      "tu": "dabas",
+      "ud": "daba",
+      "nosotros": "dábamos",
+      "vosotros": "dabais",
+      "uds": "daban"
+    },
+    "preterito": {
+      "yo": "di",
+      "tu": "diste",
+      "ud": "dio",
+      "nosotros": "dimos",
+      "vosotros": "disteis",
+      "uds": "dieron"
+    },
+    "condicional": {
+      "yo": "daría",
+      "tu": "darías",
+      "ud": "daría",
+      "nosotros": "daríamos",
+      "vosotros": "daríais",
+      "uds": "darían"
+    },
+    "presentePerfecto": {
+      "yo": "he dado",
+      "tu": "has dado",
+      "ud": "ha dado",
+      "nosotros": "hemos dado",
+      "vosotros": "habéis dado",
+      "uds": "han dado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré dado",
+      "tu": "habrás dado",
+      "ud": "habrá dado",
+      "nosotros": "habremos dado",
+      "vosotros": "habréis dado",
+      "uds": "habrán dado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había dado",
+      "tu": "habías dado",
+      "ud": "había dado",
+      "nosotros": "habíamos dado",
+      "vosotros": "habíais dado",
+      "uds": "habían dado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube dado",
+      "tu": "hubiste dado",
+      "ud": "hubo dado",
+      "nosotros": "hubimos dado",
+      "vosotros": "hubisteis dado",
+      "uds": "hubieron dado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría dado",
+      "tu": "habrías dado",
+      "ud": "habría dado",
+      "nosotros": "habríamos dado",
+      "vosotros": "habríais dado",
+      "uds": "habrían dado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "dé",
+      "tu": "des",
+      "ud": "dé",
+      "nosotros": "demos",
+      "vosotros": "deis",
+      "uds": "den"
+    },
+    "imperfecto": {
+      "yo": "diera",
+      "tu": "dieras",
+      "ud": "diera",
+      "nosotros": "diéramos",
+      "vosotros": "dierais",
+      "uds": "dieran"
+    },
+    "futuro": {
+      "yo": "diere",
+      "tu": "dieres",
+      "ud": "diere",
+      "nosotros": "diéremos",
+      "vosotros": "diereis",
+      "uds": "dieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya dado",
+      "tu": "hayas dado",
+      "ud": "haya dado",
+      "nosotros": "hayamos dado",
+      "vosotros": "hayáis dado",
+      "uds": "hayan dado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere dado",
+      "tu": "hubieres dado",
+      "ud": "hubiere dado",
+      "nosotros": "hubiéremos dado",
+      "vosotros": "hubiereis dado",
+      "uds": "hubieren dado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera dado",
+      "tu": "hubieras dado",
+      "ud": "hubiera dado",
+      "nosotros": "hubiéramos dado",
+      "vosotros": "hubierais dado",
+      "uds": "hubieran dado"
+    },
+    "imperfectoAlt": {
+      "yo": "diese",
+      "tu": "dieses",
+      "ud": "diese",
+      "nosotros": "diésemos",
+      "vosotros": "dieseis",
+      "uds": "diesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese dado",
+      "tu": "hubieses dado",
+      "ud": "hubiese dado",
+      "nosotros": "hubiésemos dado",
+      "vosotros": "hubieseis dado",
+      "uds": "hubiesen dado"
+    }
+  },
+  "afirmativo": {
+    "tu": "da",
+    "vosotros": "dad",
+    "ud": "dé",
+    "uds": "den"
+  },
+  "negativo": {
+    "tu": "no des",
+    "vosotros": "no deis",
+    "ud": "no dé",
+    "uds": "no den"
+  },
+  "english": {
+    "note": "Formas irreglares: doy, dé (subjuntivo), y todas las formas del pretérito (di, diste, etc.).",
+    "infinitivo": "to give",
+    "gerundio": "giving",
+    "participioPasado": "given",
+    "indicativo": {
+      "presente": "I give, am giving",
+      "futuro": "I will give",
+      "imperfecto": "I was giving, used to give, gave",
+      "preterito": "I gave",
+      "condicional": "I would give",
+      "presentePerfecto": "I have given",
+      "futuroPerfecto": "I will have given",
+      "pluscuamperfecto": "I had given",
+      "preteritoAnterior": "I had given",
+      "condicionalPerfecto": "I would have given"
+    },
+    "subjuntivo": {
+      "presente": "I give, am giving",
+      "imperfecto": "I gave, was giving",
+      "futuro": "I will give",
+      "presentePerfecto": "I have given, gave",
+      "futuroPerfecto": "I will have given",
+      "pluscuamperfecto": "I had given"
+    },
+    "afirmativo": "Give!",
+    "negativo": "Don't give!"
+  },
+  "attribution": "Fred Jehle"
+}

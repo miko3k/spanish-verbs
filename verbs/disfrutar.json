@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "disfrutar",
+  "gerundio": "disfrutando",
+  "participioPasado": "disfrutado",
+  "indicativo": {
+    "presente": {
+      "yo": "disfruto",
+      "tu": "disfrutas",
+      "ud": "disfruta",
+      "nosotros": "disfrutamos",
+      "vosotros": "disfrutáis",
+      "uds": "disfrutan"
+    },
+    "futuro": {
+      "yo": "disfrutaré",
+      "tu": "disfrutarás",
+      "ud": "disfrutará",
+      "nosotros": "disfrutaremos",
+      "vosotros": "disfrutaréis",
+      "uds": "disfrutarán"
+    },
+    "imperfecto": {
+      "yo": "disfrutaba",
+      "tu": "disfrutabas",
+      "ud": "disfrutaba",
+      "nosotros": "disfrutábamos",
+      "vosotros": "disfrutabais",
+      "uds": "disfrutaban"
+    },
+    "preterito": {
+      "yo": "disfruté",
+      "tu": "disfrutaste",
+      "ud": "disfrutó",
+      "nosotros": "disfrutamos",
+      "vosotros": "disfrutasteis",
+      "uds": "disfrutaron"
+    },
+    "condicional": {
+      "yo": "disfrutaría",
+      "tu": "disfrutarías",
+      "ud": "disfrutaría",
+      "nosotros": "disfrutaríamos",
+      "vosotros": "disfrutaríais",
+      "uds": "disfrutarían"
+    },
+    "presentePerfecto": {
+      "yo": "he disfrutado",
+      "tu": "has disfrutado",
+      "ud": "ha disfrutado",
+      "nosotros": "hemos disfrutado",
+      "vosotros": "habéis disfrutado",
+      "uds": "han disfrutado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré disfrutado",
+      "tu": "habrás disfrutado",
+      "ud": "habrá disfrutado",
+      "nosotros": "habremos disfrutado",
+      "vosotros": "habréis disfrutado",
+      "uds": "habrán disfrutado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había disfrutado",
+      "tu": "habías disfrutado",
+      "ud": "había disfrutado",
+      "nosotros": "habíamos disfrutado",
+      "vosotros": "habíais disfrutado",
+      "uds": "habían disfrutado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube disfrutado",
+      "tu": "hubiste disfrutado",
+      "ud": "hubo disfrutado",
+      "nosotros": "hubimos disfrutado",
+      "vosotros": "hubisteis disfrutado",
+      "uds": "hubieron disfrutado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría disfrutado",
+      "tu": "habrías disfrutado",
+      "ud": "habría disfrutado",
+      "nosotros": "habríamos disfrutado",
+      "vosotros": "habríais disfrutado",
+      "uds": "habrían disfrutado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "disfrute",
+      "tu": "disfrutes",
+      "ud": "disfrute",
+      "nosotros": "disfrutemos",
+      "vosotros": "disfrutéis",
+      "uds": "disfruten"
+    },
+    "imperfecto": {
+      "yo": "disfrutara",
+      "tu": "disfrutaras",
+      "ud": "disfrutara",
+      "nosotros": "disfrutáramos",
+      "vosotros": "disfrutarais",
+      "uds": "disfrutaran"
+    },
+    "futuro": {
+      "yo": "disfrutare",
+      "tu": "disfrutares",
+      "ud": "disfrutare",
+      "nosotros": "disfrutáremos",
+      "vosotros": "disfrutareis",
+      "uds": "disfrutaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya disfrutado",
+      "tu": "hayas disfrutado",
+      "ud": "haya disfrutado",
+      "nosotros": "hayamos disfrutado",
+      "vosotros": "hayáis disfrutado",
+      "uds": "hayan disfrutado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere disfrutado",
+      "tu": "hubieres disfrutado",
+      "ud": "hubiere disfrutado",
+      "nosotros": "hubiéremos disfrutado",
+      "vosotros": "hubiereis disfrutado",
+      "uds": "hubieren disfrutado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera disfrutado",
+      "tu": "hubieras disfrutado",
+      "ud": "hubiera disfrutado",
+      "nosotros": "hubiéramos disfrutado",
+      "vosotros": "hubierais disfrutado",
+      "uds": "hubieran disfrutado"
+    },
+    "imperfectoAlt": {
+      "yo": "disfrutase",
+      "tu": "disfrutases",
+      "ud": "disfrutase",
+      "nosotros": "disfrutásemos",
+      "vosotros": "disfrutaseis",
+      "uds": "disfrutasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese disfrutado",
+      "tu": "hubieses disfrutado",
+      "ud": "hubiese disfrutado",
+      "nosotros": "hubiésemos disfrutado",
+      "vosotros": "hubieseis disfrutado",
+      "uds": "hubiesen disfrutado"
+    }
+  },
+  "afirmativo": {
+    "tu": "disfruta",
+    "vosotros": "disfrutad",
+    "ud": "disfrute",
+    "uds": "disfruten"
+  },
+  "negativo": {
+    "tu": "no disfrutes",
+    "vosotros": "no disfrutéis",
+    "ud": "no disfrute",
+    "uds": "no disfruten"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to enjoy (oneself), to have a good time; to enjoy (something); to make use of; to have the benefit of",
+    "gerundio": "enjoying",
+    "participioPasado": "enjoyed",
+    "indicativo": {
+      "presente": "I enjoy, am enjoying",
+      "futuro": "I will enjoy",
+      "imperfecto": "I was enjoying, used to enjoy, enjoyed",
+      "preterito": "I enjoyed",
+      "condicional": "I would enjoy",
+      "presentePerfecto": "I have enjoyed",
+      "futuroPerfecto": "I will have enjoyed",
+      "pluscuamperfecto": "I had enjoyed",
+      "preteritoAnterior": "I had enjoyed",
+      "condicionalPerfecto": "I would have enjoyed"
+    },
+    "subjuntivo": {
+      "presente": "I enjoy, am enjoying",
+      "imperfecto": "I enjoyed, was enjoying",
+      "futuro": "I will enjoy",
+      "presentePerfecto": "I have enjoyed, enjoyed",
+      "futuroPerfecto": "I will have enjoyed",
+      "pluscuamperfecto": "I had enjoyed"
+    },
+    "afirmativo": "enjoy!",
+    "negativo": "Don't enjoy!"
+  },
+  "attribution": "Fred Jehle"
+}

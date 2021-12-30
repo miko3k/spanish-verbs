@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "inventar",
+  "gerundio": "inventando",
+  "participioPasado": "inventado",
+  "indicativo": {
+    "presente": {
+      "yo": "invento",
+      "tu": "inventas",
+      "ud": "inventa",
+      "nosotros": "inventamos",
+      "vosotros": "inventáis",
+      "uds": "inventan"
+    },
+    "futuro": {
+      "yo": "inventaré",
+      "tu": "inventarás",
+      "ud": "inventará",
+      "nosotros": "inventaremos",
+      "vosotros": "inventaréis",
+      "uds": "inventarán"
+    },
+    "imperfecto": {
+      "yo": "inventaba",
+      "tu": "inventabas",
+      "ud": "inventaba",
+      "nosotros": "inventábamos",
+      "vosotros": "inventabais",
+      "uds": "inventaban"
+    },
+    "preterito": {
+      "yo": "inventé",
+      "tu": "inventaste",
+      "ud": "inventó",
+      "nosotros": "inventamos",
+      "vosotros": "inventasteis",
+      "uds": "inventaron"
+    },
+    "condicional": {
+      "yo": "inventaría",
+      "tu": "inventarías",
+      "ud": "inventaría",
+      "nosotros": "inventaríamos",
+      "vosotros": "inventaríais",
+      "uds": "inventarían"
+    },
+    "presentePerfecto": {
+      "yo": "he inventado",
+      "tu": "has inventado",
+      "ud": "ha inventado",
+      "nosotros": "hemos inventado",
+      "vosotros": "habéis inventado",
+      "uds": "han inventado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré inventado",
+      "tu": "habrás inventado",
+      "ud": "habrá inventado",
+      "nosotros": "habremos inventado",
+      "vosotros": "habréis inventado",
+      "uds": "habrán inventado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había inventado",
+      "tu": "habías inventado",
+      "ud": "había inventado",
+      "nosotros": "habíamos inventado",
+      "vosotros": "habíais inventado",
+      "uds": "habían inventado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube inventado",
+      "tu": "hubiste inventado",
+      "ud": "hubo inventado",
+      "nosotros": "hubimos inventado",
+      "vosotros": "hubisteis inventado",
+      "uds": "hubieron inventado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría inventado",
+      "tu": "habrías inventado",
+      "ud": "habría inventado",
+      "nosotros": "habríamos inventado",
+      "vosotros": "habríais inventado",
+      "uds": "habrían inventado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "invente",
+      "tu": "inventes",
+      "ud": "invente",
+      "nosotros": "inventemos",
+      "vosotros": "inventéis",
+      "uds": "inventen"
+    },
+    "imperfecto": {
+      "yo": "inventara",
+      "tu": "inventaras",
+      "ud": "inventara",
+      "nosotros": "inventáramos",
+      "vosotros": "inventarais",
+      "uds": "inventaran"
+    },
+    "futuro": {
+      "yo": "inventare",
+      "tu": "inventares",
+      "ud": "inventare",
+      "nosotros": "inventáremos",
+      "vosotros": "inventareis",
+      "uds": "inventaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya inventado",
+      "tu": "hayas inventado",
+      "ud": "haya inventado",
+      "nosotros": "hayamos inventado",
+      "vosotros": "hayáis inventado",
+      "uds": "hayan inventado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere inventado",
+      "tu": "hubieres inventado",
+      "ud": "hubiere inventado",
+      "nosotros": "hubiéremos inventado",
+      "vosotros": "hubiereis inventado",
+      "uds": "hubieren inventado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera inventado",
+      "tu": "hubieras inventado",
+      "ud": "hubiera inventado",
+      "nosotros": "hubiéramos inventado",
+      "vosotros": "hubierais inventado",
+      "uds": "hubieran inventado"
+    },
+    "imperfectoAlt": {
+      "yo": "inventase",
+      "tu": "inventases",
+      "ud": "inventase",
+      "nosotros": "inventásemos",
+      "vosotros": "inventaseis",
+      "uds": "inventasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese inventado",
+      "tu": "hubieses inventado",
+      "ud": "hubiese inventado",
+      "nosotros": "hubiésemos inventado",
+      "vosotros": "hubieseis inventado",
+      "uds": "hubiesen inventado"
+    }
+  },
+  "afirmativo": {
+    "tu": "inventa",
+    "vosotros": "inventad",
+    "ud": "invente",
+    "uds": "inventen"
+  },
+  "negativo": {
+    "tu": "no inventes",
+    "vosotros": "no inventéis",
+    "ud": "no invente",
+    "uds": "no inventen"
+  },
+  "english": {
+    "note": "",
+    "infinitivo": "to invent",
+    "gerundio": "inventing",
+    "participioPasado": "invented",
+    "indicativo": {
+      "presente": "I invent, am inventing",
+      "futuro": "I will invent",
+      "imperfecto": "I was inventing, used to invent, invented",
+      "preterito": "I invented",
+      "condicional": "I would invent",
+      "presentePerfecto": "I have invented",
+      "futuroPerfecto": "I will have invented",
+      "pluscuamperfecto": "I had invented",
+      "preteritoAnterior": "I had invented",
+      "condicionalPerfecto": "I would have invented"
+    },
+    "subjuntivo": {
+      "presente": "I invent, am inventing",
+      "imperfecto": "I invented, was inventing",
+      "futuro": "I will invent",
+      "presentePerfecto": "I have invented, invented",
+      "futuroPerfecto": "I will have invented",
+      "pluscuamperfecto": "I had invented"
+    },
+    "afirmativo": "Invent!",
+    "negativo": "Don't invent!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "apretar",
+  "gerundio": "apretando",
+  "participioPasado": "apretado",
+  "indicativo": {
+    "presente": {
+      "yo": "aprieto",
+      "tu": "aprietas",
+      "ud": "aprieta",
+      "nosotros": "apretamos",
+      "vosotros": "apretáis",
+      "uds": "aprietan"
+    },
+    "futuro": {
+      "yo": "apretaré",
+      "tu": "apretarás",
+      "ud": "apretará",
+      "nosotros": "apretaremos",
+      "vosotros": "apretaréis",
+      "uds": "apretarán"
+    },
+    "imperfecto": {
+      "yo": "apretaba",
+      "tu": "apretabas",
+      "ud": "apretaba",
+      "nosotros": "apretábamos",
+      "vosotros": "apretabais",
+      "uds": "apretaban"
+    },
+    "preterito": {
+      "yo": "apreté",
+      "tu": "apretaste",
+      "ud": "apretó",
+      "nosotros": "apretamos",
+      "vosotros": "apretasteis",
+      "uds": "apretaron"
+    },
+    "condicional": {
+      "yo": "apretaría",
+      "tu": "apretarías",
+      "ud": "apretaría",
+      "nosotros": "apretaríamos",
+      "vosotros": "apretaríais",
+      "uds": "apretarían"
+    },
+    "presentePerfecto": {
+      "yo": "he apretado",
+      "tu": "has apretado",
+      "ud": "ha apretado",
+      "nosotros": "hemos apretado",
+      "vosotros": "habéis apretado",
+      "uds": "han apretado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré apretado",
+      "tu": "habrás apretado",
+      "ud": "habrá apretado",
+      "nosotros": "habremos apretado",
+      "vosotros": "habréis apretado",
+      "uds": "habrán apretado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había apretado",
+      "tu": "habías apretado",
+      "ud": "había apretado",
+      "nosotros": "habíamos apretado",
+      "vosotros": "habíais apretado",
+      "uds": "habían apretado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube apretado",
+      "tu": "hubiste apretado",
+      "ud": "hubo apretado",
+      "nosotros": "hubimos apretado",
+      "vosotros": "hubisteis apretado",
+      "uds": "hubieron apretado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría apretado",
+      "tu": "habrías apretado",
+      "ud": "habría apretado",
+      "nosotros": "habríamos apretado",
+      "vosotros": "habríais apretado",
+      "uds": "habrían apretado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "apriete",
+      "tu": "aprietes",
+      "ud": "apriete",
+      "nosotros": "apretemos",
+      "vosotros": "apretéis",
+      "uds": "aprieten"
+    },
+    "imperfecto": {
+      "yo": "apretara",
+      "tu": "apretaras",
+      "ud": "apretara",
+      "nosotros": "apretáramos",
+      "vosotros": "apretarais",
+      "uds": "apretaran"
+    },
+    "futuro": {
+      "yo": "apretare",
+      "tu": "apretares",
+      "ud": "apretare",
+      "nosotros": "apretáremos",
+      "vosotros": "apretareis",
+      "uds": "apretaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya apretado",
+      "tu": "hayas apretado",
+      "ud": "haya apretado",
+      "nosotros": "hayamos apretado",
+      "vosotros": "hayáis apretado",
+      "uds": "hayan apretado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere apretado",
+      "tu": "hubieres apretado",
+      "ud": "hubiere apretado",
+      "nosotros": "hubiéremos apretado",
+      "vosotros": "hubiereis apretado",
+      "uds": "hubieren apretado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera apretado",
+      "tu": "hubieras apretado",
+      "ud": "hubiera apretado",
+      "nosotros": "hubiéramos apretado",
+      "vosotros": "hubierais apretado",
+      "uds": "hubieran apretado"
+    },
+    "imperfectoAlt": {
+      "yo": "apretase",
+      "tu": "apretases",
+      "ud": "apretase",
+      "nosotros": "apretásemos",
+      "vosotros": "apretaseis",
+      "uds": "apretasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese apretado",
+      "tu": "hubieses apretado",
+      "ud": "hubiese apretado",
+      "nosotros": "hubiésemos apretado",
+      "vosotros": "hubieseis apretado",
+      "uds": "hubiesen apretado"
+    }
+  },
+  "afirmativo": {
+    "tu": "aprieta",
+    "vosotros": "apretad",
+    "ud": "apriete",
+    "uds": "aprieten"
+  },
+  "negativo": {
+    "tu": "no aprietes",
+    "vosotros": "no apretéis",
+    "ud": "no apriete",
+    "uds": "no aprieten"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie cuando se acentúa.",
+    "infinitivo": "to be too tight; to squeeze; to tighten (up); to press (down/against)",
+    "gerundio": "being too tight",
+    "participioPasado": "was too tight",
+    "indicativo": {
+      "presente": "I am too tight, am being too tight",
+      "futuro": "I will be too tight",
+      "imperfecto": "I was being too tight, used to be too tight, was too tight",
+      "preterito": "I was too tight",
+      "condicional": "I would be too tight",
+      "presentePerfecto": "I have been too tight",
+      "futuroPerfecto": "I will have been too tight",
+      "pluscuamperfecto": "I had been too tight",
+      "preteritoAnterior": "I had been too tight",
+      "condicionalPerfecto": "I would have been too tight"
+    },
+    "subjuntivo": {
+      "presente": "I am too tight, am being too tight",
+      "imperfecto": "I was too tight, was being too tight",
+      "futuro": "I will be too tight",
+      "presentePerfecto": "I have been too tight, was too tight",
+      "futuroPerfecto": "I will have been too tight",
+      "pluscuamperfecto": "I had been too tight"
+    },
+    "afirmativo": "Be too tight!",
+    "negativo": "Don't be too tight!"
+  },
+  "attribution": "Fred Jehle"
+}

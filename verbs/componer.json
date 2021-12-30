@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "componer",
+  "gerundio": "componiendo",
+  "participioPasado": "compuesto",
+  "indicativo": {
+    "presente": {
+      "yo": "compongo",
+      "tu": "compones",
+      "ud": "compone",
+      "nosotros": "componemos",
+      "vosotros": "componéis",
+      "uds": "componen"
+    },
+    "futuro": {
+      "yo": "compondré",
+      "tu": "compondrás",
+      "ud": "compondrá",
+      "nosotros": "compondremos",
+      "vosotros": "compondréis",
+      "uds": "compondrán"
+    },
+    "imperfecto": {
+      "yo": "componía",
+      "tu": "componías",
+      "ud": "componía",
+      "nosotros": "componíamos",
+      "vosotros": "componíais",
+      "uds": "componían"
+    },
+    "preterito": {
+      "yo": "compuse",
+      "tu": "compusiste",
+      "ud": "compuso",
+      "nosotros": "compusimos",
+      "vosotros": "compusisteis",
+      "uds": "compusieron"
+    },
+    "condicional": {
+      "yo": "compondría",
+      "tu": "compondrías",
+      "ud": "compondría",
+      "nosotros": "compondríamos",
+      "vosotros": "compondríais",
+      "uds": "compondrían"
+    },
+    "presentePerfecto": {
+      "yo": "he compuesto",
+      "tu": "has compuesto",
+      "ud": "ha compuesto",
+      "nosotros": "hemos compuesto",
+      "vosotros": "habéis compuesto",
+      "uds": "han compuesto"
+    },
+    "futuroPerfecto": {
+      "yo": "habré compuesto",
+      "tu": "habrás compuesto",
+      "ud": "habrá compuesto",
+      "nosotros": "habremos compuesto",
+      "vosotros": "habréis compuesto",
+      "uds": "habrán compuesto"
+    },
+    "pluscuamperfecto": {
+      "yo": "había compuesto",
+      "tu": "habías compuesto",
+      "ud": "había compuesto",
+      "nosotros": "habíamos compuesto",
+      "vosotros": "habíais compuesto",
+      "uds": "habían compuesto"
+    },
+    "preteritoAnterior": {
+      "yo": "hube compuesto",
+      "tu": "hubiste compuesto",
+      "ud": "hubo compuesto",
+      "nosotros": "hubimos compuesto",
+      "vosotros": "hubisteis compuesto",
+      "uds": "hubieron compuesto"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría compuesto",
+      "tu": "habrías compuesto",
+      "ud": "habría compuesto",
+      "nosotros": "habríamos compuesto",
+      "vosotros": "habríais compuesto",
+      "uds": "habrían compuesto"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "componga",
+      "tu": "compongas",
+      "ud": "componga",
+      "nosotros": "compongamos",
+      "vosotros": "compongáis",
+      "uds": "compongan"
+    },
+    "imperfecto": {
+      "yo": "compusiera",
+      "tu": "compusieras",
+      "ud": "compusiera",
+      "nosotros": "compusiéramos",
+      "vosotros": "compusierais",
+      "uds": "compusieran"
+    },
+    "futuro": {
+      "yo": "compusiere",
+      "tu": "compusieres",
+      "ud": "compusiere",
+      "nosotros": "compusiéremos",
+      "vosotros": "compusiereis",
+      "uds": "compusieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya compuesto",
+      "tu": "hayas compuesto",
+      "ud": "haya compuesto",
+      "nosotros": "hayamos compuesto",
+      "vosotros": "hayáis compuesto",
+      "uds": "hayan compuesto"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere compuesto",
+      "tu": "hubieres compuesto",
+      "ud": "hubiere compuesto",
+      "nosotros": "hubiéremos compuesto",
+      "vosotros": "hubiereis compuesto",
+      "uds": "hubieren compuesto"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera compuesto",
+      "tu": "hubieras compuesto",
+      "ud": "hubiera compuesto",
+      "nosotros": "hubiéramos compuesto",
+      "vosotros": "hubierais compuesto",
+      "uds": "hubieran compuesto"
+    },
+    "imperfectoAlt": {
+      "yo": "compusiese",
+      "tu": "compusieses",
+      "ud": "compusiese",
+      "nosotros": "compusiésemos",
+      "vosotros": "compusieseis",
+      "uds": "compusiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese compuesto",
+      "tu": "hubieses compuesto",
+      "ud": "hubiese compuesto",
+      "nosotros": "hubiésemos compuesto",
+      "vosotros": "hubieseis compuesto",
+      "uds": "hubiesen compuesto"
+    }
+  },
+  "afirmativo": {
+    "tu": "compón",
+    "vosotros": "componed",
+    "ud": "componga",
+    "uds": "compongan"
+  },
+  "negativo": {
+    "tu": "no compongas",
+    "vosotros": "no compongáis",
+    "ud": "no componga",
+    "uds": "no compongan"
+  },
+  "english": {
+    "note": "Formas irregulares: compongo, compongas, componga, etc. Radical irregular en el futuro y condicional: compondr-. Radical fuerte en el pretérito: compus-. Participio pasado irregular: compuesto. Mandato familiar singular irregular: compón.",
+    "infinitivo": "to compose, make up, put together",
+    "gerundio": "composing",
+    "participioPasado": "composed",
+    "indicativo": {
+      "presente": "I compose, am composing",
+      "futuro": "I will compose",
+      "imperfecto": "I was composing, used to compose, composed",
+      "preterito": "I composed",
+      "condicional": "I would compose",
+      "presentePerfecto": "I have composed",
+      "futuroPerfecto": "I will have composed",
+      "pluscuamperfecto": "I had composed",
+      "preteritoAnterior": "I had composed",
+      "condicionalPerfecto": "I would have composed"
+    },
+    "subjuntivo": {
+      "presente": "I compose, am composing",
+      "imperfecto": "I composed, was composing",
+      "futuro": "I will compose",
+      "presentePerfecto": "I have composed, composed",
+      "futuroPerfecto": "I will have composed",
+      "pluscuamperfecto": "I had composed"
+    },
+    "afirmativo": "Compose!",
+    "negativo": "Don't compose!"
+  },
+  "attribution": "Fred Jehle"
+}

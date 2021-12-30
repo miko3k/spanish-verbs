@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "acostumbrar",
+  "gerundio": "acostumbrando",
+  "participioPasado": "acostumbrado",
+  "indicativo": {
+    "presente": {
+      "yo": "acostumbro",
+      "tu": "acostumbras",
+      "ud": "acostumbra",
+      "nosotros": "acostumbramos",
+      "vosotros": "acostumbráis",
+      "uds": "acostumbran"
+    },
+    "futuro": {
+      "yo": "acostumbraré",
+      "tu": "acostumbrarás",
+      "ud": "acostumbrará",
+      "nosotros": "acostumbraremos",
+      "vosotros": "acostumbraréis",
+      "uds": "acostumbrarán"
+    },
+    "imperfecto": {
+      "yo": "acostumbraba",
+      "tu": "acostumbrabas",
+      "ud": "acostumbraba",
+      "nosotros": "acostumbrábamos",
+      "vosotros": "acostumbrabais",
+      "uds": "acostumbraban"
+    },
+    "preterito": {
+      "yo": "acostumbré",
+      "tu": "acostumbraste",
+      "ud": "acostumbró",
+      "nosotros": "acostumbramos",
+      "vosotros": "acostumbrasteis",
+      "uds": "acostumbraron"
+    },
+    "condicional": {
+      "yo": "acostumbraría",
+      "tu": "acostumbrarías",
+      "ud": "acostumbraría",
+      "nosotros": "acostumbraríamos",
+      "vosotros": "acostumbraríais",
+      "uds": "acostumbrarían"
+    },
+    "presentePerfecto": {
+      "yo": "he acostumbrado",
+      "tu": "has acostumbrado",
+      "ud": "ha acostumbrado",
+      "nosotros": "hemos acostumbrado",
+      "vosotros": "habéis acostumbrado",
+      "uds": "han acostumbrado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré acostumbrado",
+      "tu": "habrás acostumbrado",
+      "ud": "habrá acostumbrado",
+      "nosotros": "habremos acostumbrado",
+      "vosotros": "habréis acostumbrado",
+      "uds": "habrán acostumbrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había acostumbrado",
+      "tu": "habías acostumbrado",
+      "ud": "había acostumbrado",
+      "nosotros": "habíamos acostumbrado",
+      "vosotros": "habíais acostumbrado",
+      "uds": "habían acostumbrado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube acostumbrado",
+      "tu": "hubiste acostumbrado",
+      "ud": "hubo acostumbrado",
+      "nosotros": "hubimos acostumbrado",
+      "vosotros": "hubisteis acostumbrado",
+      "uds": "hubieron acostumbrado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría acostumbrado",
+      "tu": "habrías acostumbrado",
+      "ud": "habría acostumbrado",
+      "nosotros": "habríamos acostumbrado",
+      "vosotros": "habríais acostumbrado",
+      "uds": "habrían acostumbrado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "acostumbre",
+      "tu": "acostumbres",
+      "ud": "acostumbre",
+      "nosotros": "acostumbremos",
+      "vosotros": "acostumbréis",
+      "uds": "acostumbren"
+    },
+    "imperfecto": {
+      "yo": "acostumbrara",
+      "tu": "acostumbraras",
+      "ud": "acostumbrara",
+      "nosotros": "acostumbráramos",
+      "vosotros": "acostumbrarais",
+      "uds": "acostumbraran"
+    },
+    "futuro": {
+      "yo": "acostumbrare",
+      "tu": "acostumbrares",
+      "ud": "acostumbrare",
+      "nosotros": "acostumbráremos",
+      "vosotros": "acostumbrareis",
+      "uds": "acostumbraren"
+    },
+    "presentePerfecto": {
+      "yo": "haya acostumbrado",
+      "tu": "hayas acostumbrado",
+      "ud": "haya acostumbrado",
+      "nosotros": "hayamos acostumbrado",
+      "vosotros": "hayáis acostumbrado",
+      "uds": "hayan acostumbrado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere acostumbrado",
+      "tu": "hubieres acostumbrado",
+      "ud": "hubiere acostumbrado",
+      "nosotros": "hubiéremos acostumbrado",
+      "vosotros": "hubiereis acostumbrado",
+      "uds": "hubieren acostumbrado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera acostumbrado",
+      "tu": "hubieras acostumbrado",
+      "ud": "hubiera acostumbrado",
+      "nosotros": "hubiéramos acostumbrado",
+      "vosotros": "hubierais acostumbrado",
+      "uds": "hubieran acostumbrado"
+    },
+    "imperfectoAlt": {
+      "yo": "acostumbrase",
+      "tu": "acostumbrases",
+      "ud": "acostumbrase",
+      "nosotros": "acostumbrásemos",
+      "vosotros": "acostumbraseis",
+      "uds": "acostumbrasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese acostumbrado",
+      "tu": "hubieses acostumbrado",
+      "ud": "hubiese acostumbrado",
+      "nosotros": "hubiésemos acostumbrado",
+      "vosotros": "hubieseis acostumbrado",
+      "uds": "hubiesen acostumbrado"
+    }
+  },
+  "afirmativo": {
+    "tu": "acostumbra",
+    "vosotros": "acostumbrad",
+    "ud": "acostumbre",
+    "uds": "acostumbren"
+  },
+  "negativo": {
+    "tu": "no acostumbres",
+    "vosotros": "no acostumbréis",
+    "ud": "no acostumbre",
+    "uds": "no acostumbren"
+  },
+  "english": {
+    "note": "Note: Use the reflexive form acostumbrarse for to get used to.",
+    "infinitivo": "to be accustomed to, be in the habit of; to get (someone) used to",
+    "gerundio": "being accustomed to",
+    "participioPasado": "been accustomed to",
+    "indicativo": {
+      "presente": "I am accustomed to",
+      "futuro": "I will speak",
+      "imperfecto": "I was accustomed to, used to be accustomed to, was accustomed to",
+      "preterito": "I was accustomed to",
+      "condicional": "I would be accustomed to",
+      "presentePerfecto": "I have been accustomed to",
+      "futuroPerfecto": "I will have been accustomed to",
+      "pluscuamperfecto": "I had been accustomed to",
+      "preteritoAnterior": "I had been accustomed to",
+      "condicionalPerfecto": "I would have been accustomed to"
+    },
+    "subjuntivo": {
+      "presente": "I am accustomed to",
+      "imperfecto": "I was accustomed to, was accustomed to",
+      "futuro": "I will be accustomed to",
+      "presentePerfecto": "I have been accustomed to, was accustomed to",
+      "futuroPerfecto": "I will have been accustomed to",
+      "pluscuamperfecto": "I had been accustomed to"
+    },
+    "afirmativo": "Be accustomed to!",
+    "negativo": "Don't be accustomed to!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "jactarse",
+  "gerundio": "jactándose",
+  "participioPasado": "jactado",
+  "indicativo": {
+    "presente": {
+      "yo": "me jacto",
+      "tu": "te jactas",
+      "ud": "se jacta",
+      "nosotros": "nos jactamos",
+      "vosotros": "os jactáis",
+      "uds": "se jactan"
+    },
+    "futuro": {
+      "yo": "me jactaré",
+      "tu": "te jactarás",
+      "ud": "se jactará",
+      "nosotros": "nos jactaremos",
+      "vosotros": "os jactaréis",
+      "uds": "se jactarán"
+    },
+    "imperfecto": {
+      "yo": "me jactaba",
+      "tu": "te jactabas",
+      "ud": "se jactaba",
+      "nosotros": "nos jactábamos",
+      "vosotros": "os jactabais",
+      "uds": "se jactaban"
+    },
+    "preterito": {
+      "yo": "me jacté",
+      "tu": "te jactaste",
+      "ud": "se jactó",
+      "nosotros": "nos jactamos",
+      "vosotros": "os jactasteis",
+      "uds": "se jactaron"
+    },
+    "condicional": {
+      "yo": "me jactaría",
+      "tu": "te jactarías",
+      "ud": "se jactaría",
+      "nosotros": "nos jactaríamos",
+      "vosotros": "os jactaríais",
+      "uds": "se jactarían"
+    },
+    "presentePerfecto": {
+      "yo": "me he jactado",
+      "tu": "te has jactado",
+      "ud": "se ha jactado",
+      "nosotros": "nos hemos jactado",
+      "vosotros": "os habéis jactado",
+      "uds": "se han jactado"
+    },
+    "futuroPerfecto": {
+      "yo": "me habré jactado",
+      "tu": "te habrás jactado",
+      "ud": "se habrá jactado",
+      "nosotros": "nos habremos jactado",
+      "vosotros": "os habréis jactado",
+      "uds": "se habrán jactado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me había jactado",
+      "tu": "te habías jactado",
+      "ud": "se había jactado",
+      "nosotros": "nos habíamos jactado",
+      "vosotros": "os habíais jactado",
+      "uds": "se habían jactado"
+    },
+    "preteritoAnterior": {
+      "yo": "me hube jactado",
+      "tu": "te hubiste jactado",
+      "ud": "se hubo jactado",
+      "nosotros": "nos hubimos jactado",
+      "vosotros": "os hubisteis jactado",
+      "uds": "se hubieron jactado"
+    },
+    "condicionalPerfecto": {
+      "yo": "me habría jactado",
+      "tu": "te habrías jactado",
+      "ud": "se habría jactado",
+      "nosotros": "nos habríamos jactado",
+      "vosotros": "os habríais jactado",
+      "uds": "se habrían jactado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "me jacte",
+      "tu": "te jactes",
+      "ud": "se jacte",
+      "nosotros": "nos jactemos",
+      "vosotros": "os jactéis",
+      "uds": "se jacten"
+    },
+    "imperfecto": {
+      "yo": "me jactara",
+      "tu": "te jactaras",
+      "ud": "se jactara",
+      "nosotros": "nos jactáramos",
+      "vosotros": "os jactarais",
+      "uds": "se jactaran"
+    },
+    "futuro": {
+      "yo": "me jactare",
+      "tu": "te jactares",
+      "ud": "se jactare",
+      "nosotros": "nos jactáremos",
+      "vosotros": "os jactareis",
+      "uds": "se jactaren"
+    },
+    "presentePerfecto": {
+      "yo": "me haya jactado",
+      "tu": "te hayas jactado",
+      "ud": "se haya jactado",
+      "nosotros": "nos hayamos jactado",
+      "vosotros": "os hayáis jactado",
+      "uds": "se hayan jactado"
+    },
+    "futuroPerfecto": {
+      "yo": "me hubiere jactado",
+      "tu": "te hubieres jactado",
+      "ud": "se hubiere jactado",
+      "nosotros": "nos hubiéremos jactado",
+      "vosotros": "os hubiereis jactado",
+      "uds": "se hubieren jactado"
+    },
+    "pluscuamperfecto": {
+      "yo": "me hubiera jactado",
+      "tu": "te hubieras jactado",
+      "ud": "se hubiera jactado",
+      "nosotros": "nos hubiéramos jactado",
+      "vosotros": "os hubierais jactado",
+      "uds": "se hubieran jactado"
+    },
+    "imperfectoAlt": {
+      "yo": "me jactase",
+      "tu": "te jactases",
+      "ud": "se jactase",
+      "nosotros": "nos jactásemos",
+      "vosotros": "os jactaseis",
+      "uds": "se jactasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "me hubiese jactado",
+      "tu": "te hubieses jactado",
+      "ud": "se hubiese jactado",
+      "nosotros": "nos hubiésemos jactado",
+      "vosotros": "os hubieseis jactado",
+      "uds": "se hubiesen jactado"
+    }
+  },
+  "afirmativo": {
+    "tu": "jáctate",
+    "vosotros": "jactaos",
+    "ud": "jáctese",
+    "uds": "jáctense"
+  },
+  "negativo": {
+    "tu": "no te jactes",
+    "vosotros": "no os jactéis",
+    "ud": "no se jacte",
+    "uds": "no se jacten"
+  },
+  "english": {
+    "note": "Note: To boast of/about = jactarse de.",
+    "infinitivo": "to boast, brag",
+    "gerundio": "boasting",
+    "participioPasado": "boasted",
+    "indicativo": {
+      "presente": "I boast, am boasting",
+      "futuro": "I will boast",
+      "imperfecto": "I was boasting, used to boast, boasted",
+      "preterito": "I boasted",
+      "condicional": "I would boast",
+      "presentePerfecto": "I have boasted",
+      "futuroPerfecto": "I will have boasted",
+      "pluscuamperfecto": "I had boasted",
+      "preteritoAnterior": "I had boasted",
+      "condicionalPerfecto": "I would have boasted"
+    },
+    "subjuntivo": {
+      "presente": "I boast, am boasting",
+      "imperfecto": "I boasted, was boasting",
+      "futuro": "I will boast",
+      "presentePerfecto": "I have boasted, boasted",
+      "futuroPerfecto": "I will have boasted",
+      "pluscuamperfecto": "I had boasted"
+    },
+    "afirmativo": "Boast!",
+    "negativo": "Don't boast!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "gobernar",
+  "gerundio": "gobernando",
+  "participioPasado": "gobernado",
+  "indicativo": {
+    "presente": {
+      "yo": "gobierno",
+      "tu": "gobiernas",
+      "ud": "gobierna",
+      "nosotros": "gobernamos",
+      "vosotros": "gobernáis",
+      "uds": "gobiernan"
+    },
+    "futuro": {
+      "yo": "gobernaré",
+      "tu": "gobernarás",
+      "ud": "gobernará",
+      "nosotros": "gobernaremos",
+      "vosotros": "gobernaréis",
+      "uds": "gobernarán"
+    },
+    "imperfecto": {
+      "yo": "gobernaba",
+      "tu": "gobernabas",
+      "ud": "gobernaba",
+      "nosotros": "gobernábamos",
+      "vosotros": "gobernabais",
+      "uds": "gobernaban"
+    },
+    "preterito": {
+      "yo": "goberné",
+      "tu": "gobernaste",
+      "ud": "gobernó",
+      "nosotros": "gobernamos",
+      "vosotros": "gobernasteis",
+      "uds": "gobernaron"
+    },
+    "condicional": {
+      "yo": "gobernaría",
+      "tu": "gobernarías",
+      "ud": "gobernaría",
+      "nosotros": "gobernaríamos",
+      "vosotros": "gobernaríais",
+      "uds": "gobernarían"
+    },
+    "presentePerfecto": {
+      "yo": "he gobernado",
+      "tu": "has gobernado",
+      "ud": "ha gobernado",
+      "nosotros": "hemos gobernado",
+      "vosotros": "habéis gobernado",
+      "uds": "han gobernado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré gobernado",
+      "tu": "habrás gobernado",
+      "ud": "habrá gobernado",
+      "nosotros": "habremos gobernado",
+      "vosotros": "habréis gobernado",
+      "uds": "habrán gobernado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había gobernado",
+      "tu": "habías gobernado",
+      "ud": "había gobernado",
+      "nosotros": "habíamos gobernado",
+      "vosotros": "habíais gobernado",
+      "uds": "habían gobernado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube gobernado",
+      "tu": "hubiste gobernado",
+      "ud": "hubo gobernado",
+      "nosotros": "hubimos gobernado",
+      "vosotros": "hubisteis gobernado",
+      "uds": "hubieron gobernado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría gobernado",
+      "tu": "habrías gobernado",
+      "ud": "habría gobernado",
+      "nosotros": "habríamos gobernado",
+      "vosotros": "habríais gobernado",
+      "uds": "habrían gobernado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "gobierne",
+      "tu": "gobiernes",
+      "ud": "gobierne",
+      "nosotros": "gobernemos",
+      "vosotros": "gobernéis",
+      "uds": "gobiernen"
+    },
+    "imperfecto": {
+      "yo": "gobernara",
+      "tu": "gobernaras",
+      "ud": "gobernara",
+      "nosotros": "gobernáramos",
+      "vosotros": "gobernarais",
+      "uds": "gobernaran"
+    },
+    "futuro": {
+      "yo": "gobernare",
+      "tu": "gobernares",
+      "ud": "gobernare",
+      "nosotros": "gobernáremos",
+      "vosotros": "gobernareis",
+      "uds": "gobernaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya gobernado",
+      "tu": "hayas gobernado",
+      "ud": "haya gobernado",
+      "nosotros": "hayamos gobernado",
+      "vosotros": "hayáis gobernado",
+      "uds": "hayan gobernado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere gobernado",
+      "tu": "hubieres gobernado",
+      "ud": "hubiere gobernado",
+      "nosotros": "hubiéremos gobernado",
+      "vosotros": "hubiereis gobernado",
+      "uds": "hubieren gobernado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera gobernado",
+      "tu": "hubieras gobernado",
+      "ud": "hubiera gobernado",
+      "nosotros": "hubiéramos gobernado",
+      "vosotros": "hubierais gobernado",
+      "uds": "hubieran gobernado"
+    },
+    "imperfectoAlt": {
+      "yo": "gobernase",
+      "tu": "gobernases",
+      "ud": "gobernase",
+      "nosotros": "gobernásemos",
+      "vosotros": "gobernaseis",
+      "uds": "gobernasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese gobernado",
+      "tu": "hubieses gobernado",
+      "ud": "hubiese gobernado",
+      "nosotros": "hubiésemos gobernado",
+      "vosotros": "hubieseis gobernado",
+      "uds": "hubiesen gobernado"
+    }
+  },
+  "afirmativo": {
+    "tu": "gobierna",
+    "vosotros": "gobernad",
+    "ud": "gobierne",
+    "uds": "gobiernen"
+  },
+  "negativo": {
+    "tu": "no gobiernes",
+    "vosotros": "no gobernéis",
+    "ud": "no gobierne",
+    "uds": "no gobiernen"
+  },
+  "english": {
+    "note": "Cambio radical: e > ie.",
+    "infinitivo": "to govern",
+    "gerundio": "governing",
+    "participioPasado": "governed",
+    "indicativo": {
+      "presente": "I govern, am governing",
+      "futuro": "I will govern",
+      "imperfecto": "I was governing, used to govern, governed",
+      "preterito": "I governed",
+      "condicional": "I would govern",
+      "presentePerfecto": "I have governed",
+      "futuroPerfecto": "I will have governed",
+      "pluscuamperfecto": "I had governed",
+      "preteritoAnterior": "I had governed",
+      "condicionalPerfecto": "I would have governed"
+    },
+    "subjuntivo": {
+      "presente": "I govern, am governing",
+      "imperfecto": "I governed, was governing",
+      "futuro": "I will govern",
+      "presentePerfecto": "I have governed, governed",
+      "futuroPerfecto": "I will have governed",
+      "pluscuamperfecto": "I had governed"
+    },
+    "afirmativo": "Govern!",
+    "negativo": "Don't govern!"
+  },
+  "attribution": "Fred Jehle"
+}

@@ -1,0 +1,195 @@
+{
+  "regular": true,
+  "infinitivo": "hallar",
+  "gerundio": "hallando",
+  "participioPasado": "hallado",
+  "indicativo": {
+    "presente": {
+      "yo": "hallo",
+      "tu": "hallas",
+      "ud": "halla",
+      "nosotros": "hallamos",
+      "vosotros": "halláis",
+      "uds": "hallan"
+    },
+    "futuro": {
+      "yo": "hallaré",
+      "tu": "hallarás",
+      "ud": "hallará",
+      "nosotros": "hallaremos",
+      "vosotros": "hallaréis",
+      "uds": "hallarán"
+    },
+    "imperfecto": {
+      "yo": "hallaba",
+      "tu": "hallabas",
+      "ud": "hallaba",
+      "nosotros": "hallábamos",
+      "vosotros": "hallabais",
+      "uds": "hallaban"
+    },
+    "preterito": {
+      "yo": "hallé",
+      "tu": "hallaste",
+      "ud": "halló",
+      "nosotros": "hallamos",
+      "vosotros": "hallasteis",
+      "uds": "hallaron"
+    },
+    "condicional": {
+      "yo": "hallaría",
+      "tu": "hallarías",
+      "ud": "hallaría",
+      "nosotros": "hallaríamos",
+      "vosotros": "hallaríais",
+      "uds": "hallarían"
+    },
+    "presentePerfecto": {
+      "yo": "he hallado",
+      "tu": "has hallado",
+      "ud": "ha hallado",
+      "nosotros": "hemos hallado",
+      "vosotros": "habéis hallado",
+      "uds": "han hallado"
+    },
+    "futuroPerfecto": {
+      "yo": "habré hallado",
+      "tu": "habrás hallado",
+      "ud": "habrá hallado",
+      "nosotros": "habremos hallado",
+      "vosotros": "habréis hallado",
+      "uds": "habrán hallado"
+    },
+    "pluscuamperfecto": {
+      "yo": "había hallado",
+      "tu": "habías hallado",
+      "ud": "había hallado",
+      "nosotros": "habíamos hallado",
+      "vosotros": "habíais hallado",
+      "uds": "habían hallado"
+    },
+    "preteritoAnterior": {
+      "yo": "hube hallado",
+      "tu": "hubiste hallado",
+      "ud": "hubo hallado",
+      "nosotros": "hubimos hallado",
+      "vosotros": "hubisteis hallado",
+      "uds": "hubieron hallado"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría hallado",
+      "tu": "habrías hallado",
+      "ud": "habría hallado",
+      "nosotros": "habríamos hallado",
+      "vosotros": "habríais hallado",
+      "uds": "habrían hallado"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "halle",
+      "tu": "halles",
+      "ud": "halle",
+      "nosotros": "hallemos",
+      "vosotros": "halléis",
+      "uds": "hallen"
+    },
+    "imperfecto": {
+      "yo": "hallara",
+      "tu": "hallaras",
+      "ud": "hallara",
+      "nosotros": "halláramos",
+      "vosotros": "hallarais",
+      "uds": "hallaran"
+    },
+    "futuro": {
+      "yo": "hallare",
+      "tu": "hallares",
+      "ud": "hallare",
+      "nosotros": "halláremos",
+      "vosotros": "hallareis",
+      "uds": "hallaren"
+    },
+    "presentePerfecto": {
+      "yo": "haya hallado",
+      "tu": "hayas hallado",
+      "ud": "haya hallado",
+      "nosotros": "hayamos hallado",
+      "vosotros": "hayáis hallado",
+      "uds": "hayan hallado"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere hallado",
+      "tu": "hubieres hallado",
+      "ud": "hubiere hallado",
+      "nosotros": "hubiéremos hallado",
+      "vosotros": "hubiereis hallado",
+      "uds": "hubieren hallado"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera hallado",
+      "tu": "hubieras hallado",
+      "ud": "hubiera hallado",
+      "nosotros": "hubiéramos hallado",
+      "vosotros": "hubierais hallado",
+      "uds": "hubieran hallado"
+    },
+    "imperfectoAlt": {
+      "yo": "hallase",
+      "tu": "hallases",
+      "ud": "hallase",
+      "nosotros": "hallásemos",
+      "vosotros": "hallaseis",
+      "uds": "hallasen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese hallado",
+      "tu": "hubieses hallado",
+      "ud": "hubiese hallado",
+      "nosotros": "hubiésemos hallado",
+      "vosotros": "hubieseis hallado",
+      "uds": "hubiesen hallado"
+    }
+  },
+  "afirmativo": {
+    "tu": "halla",
+    "vosotros": "hallad",
+    "ud": "halle",
+    "uds": "hallen"
+  },
+  "negativo": {
+    "tu": "no halles",
+    "vosotros": "no halléis",
+    "ud": "no halle",
+    "uds": "no hallen"
+  },
+  "english": {
+    "note": "Note: The reflexive form, hallarse, is used to mean to be, to be found/located.",
+    "infinitivo": "to find; to discover; to locate; to find out",
+    "gerundio": "finding",
+    "participioPasado": "found",
+    "indicativo": {
+      "presente": "I find, am finding",
+      "futuro": "I will find",
+      "imperfecto": "I was finding, used to find, found",
+      "preterito": "I found",
+      "condicional": "I would find",
+      "presentePerfecto": "I have found",
+      "futuroPerfecto": "I will have found",
+      "pluscuamperfecto": "I had found",
+      "preteritoAnterior": "I had found",
+      "condicionalPerfecto": "I would have found"
+    },
+    "subjuntivo": {
+      "presente": "I find, am finding",
+      "imperfecto": "I found, was finding",
+      "futuro": "I will find",
+      "presentePerfecto": "I have found, found",
+      "futuroPerfecto": "I will have found",
+      "pluscuamperfecto": "I had found"
+    },
+    "afirmativo": "Find!",
+    "negativo": "Don't find!"
+  },
+  "attribution": "Fred Jehle"
+}

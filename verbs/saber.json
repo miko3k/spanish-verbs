@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "saber",
+  "gerundio": "sabiendo",
+  "participioPasado": "sabido",
+  "indicativo": {
+    "presente": {
+      "yo": "sé",
+      "tu": "sabes",
+      "ud": "sabe",
+      "nosotros": "sabemos",
+      "vosotros": "sabéis",
+      "uds": "saben"
+    },
+    "futuro": {
+      "yo": "sabré",
+      "tu": "sabrás",
+      "ud": "sabrá",
+      "nosotros": "sabremos",
+      "vosotros": "sabréis",
+      "uds": "sabrán"
+    },
+    "imperfecto": {
+      "yo": "sabía",
+      "tu": "sabías",
+      "ud": "sabía",
+      "nosotros": "sabíamos",
+      "vosotros": "sabíais",
+      "uds": "sabían"
+    },
+    "preterito": {
+      "yo": "supe",
+      "tu": "supiste",
+      "ud": "supo",
+      "nosotros": "supimos",
+      "vosotros": "supisteis",
+      "uds": "supieron"
+    },
+    "condicional": {
+      "yo": "sabría",
+      "tu": "sabrías",
+      "ud": "sabría",
+      "nosotros": "sabríamos",
+      "vosotros": "sabríais",
+      "uds": "sabrían"
+    },
+    "presentePerfecto": {
+      "yo": "he sabido",
+      "tu": "has sabido",
+      "ud": "ha sabido",
+      "nosotros": "hemos sabido",
+      "vosotros": "habéis sabido",
+      "uds": "han sabido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré sabido",
+      "tu": "habrás sabido",
+      "ud": "habrá sabido",
+      "nosotros": "habremos sabido",
+      "vosotros": "habréis sabido",
+      "uds": "habrán sabido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había sabido",
+      "tu": "habías sabido",
+      "ud": "había sabido",
+      "nosotros": "habíamos sabido",
+      "vosotros": "habíais sabido",
+      "uds": "habían sabido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube sabido",
+      "tu": "hubiste sabido",
+      "ud": "hubo sabido",
+      "nosotros": "hubimos sabido",
+      "vosotros": "hubisteis sabido",
+      "uds": "hubieron sabido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría sabido",
+      "tu": "habrías sabido",
+      "ud": "habría sabido",
+      "nosotros": "habríamos sabido",
+      "vosotros": "habríais sabido",
+      "uds": "habrían sabido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "sepa",
+      "tu": "sepas",
+      "ud": "sepa",
+      "nosotros": "sepamos",
+      "vosotros": "sepáis",
+      "uds": "sepan"
+    },
+    "imperfecto": {
+      "yo": "supiera",
+      "tu": "supieras",
+      "ud": "supiera",
+      "nosotros": "supiéramos",
+      "vosotros": "supierais",
+      "uds": "supieran"
+    },
+    "futuro": {
+      "yo": "supiere",
+      "tu": "supieres",
+      "ud": "supiere",
+      "nosotros": "supiéremos",
+      "vosotros": "supiereis",
+      "uds": "supieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya sabido",
+      "tu": "hayas sabido",
+      "ud": "haya sabido",
+      "nosotros": "hayamos sabido",
+      "vosotros": "hayáis sabido",
+      "uds": "hayan sabido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere sabido",
+      "tu": "hubieres sabido",
+      "ud": "hubiere sabido",
+      "nosotros": "hubiéremos sabido",
+      "vosotros": "hubiereis sabido",
+      "uds": "hubieren sabido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera sabido",
+      "tu": "hubieras sabido",
+      "ud": "hubiera sabido",
+      "nosotros": "hubiéramos sabido",
+      "vosotros": "hubierais sabido",
+      "uds": "hubieran sabido"
+    },
+    "imperfectoAlt": {
+      "yo": "supiese",
+      "tu": "supieses",
+      "ud": "supiese",
+      "nosotros": "supiésemos",
+      "vosotros": "supieseis",
+      "uds": "supiesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese sabido",
+      "tu": "hubieses sabido",
+      "ud": "hubiese sabido",
+      "nosotros": "hubiésemos sabido",
+      "vosotros": "hubieseis sabido",
+      "uds": "hubiesen sabido"
+    }
+  },
+  "afirmativo": {
+    "tu": "sabe",
+    "vosotros": "sabed",
+    "ud": "sepa",
+    "uds": "sepan"
+  },
+  "negativo": {
+    "tu": "no sepas",
+    "vosotros": "no sepáis",
+    "ud": "no sepa",
+    "uds": "no sepan"
+  },
+  "english": {
+    "note": "Forma irregular: (yo) sé. Radical irregular en el presente de subjuntivo: sep-. Radical irregular para el futuro y condicional: sabr-. Radical fuerte en el pretérito: sup-.",
+    "infinitivo": "to know (information)",
+    "gerundio": "knowing",
+    "participioPasado": "known",
+    "indicativo": {
+      "presente": "I know",
+      "futuro": "I will know",
+      "imperfecto": "I used to know, knew",
+      "preterito": "I knew",
+      "condicional": "I would know",
+      "presentePerfecto": "I have known",
+      "futuroPerfecto": "I will have known",
+      "pluscuamperfecto": "I had known",
+      "preteritoAnterior": "I had known",
+      "condicionalPerfecto": "I would have known"
+    },
+    "subjuntivo": {
+      "presente": "I know",
+      "imperfecto": "I knew",
+      "futuro": "I will know",
+      "presentePerfecto": "I have known, knew",
+      "futuroPerfecto": "I will have known",
+      "pluscuamperfecto": "I had known"
+    },
+    "afirmativo": "Know!",
+    "negativo": "Don't know!"
+  },
+  "attribution": "Fred Jehle"
+}

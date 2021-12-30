@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "obedecer",
+  "gerundio": "obedeciendo",
+  "participioPasado": "obedecido",
+  "indicativo": {
+    "presente": {
+      "yo": "obedezco",
+      "tu": "obedeces",
+      "ud": "obedece",
+      "nosotros": "obedecemos",
+      "vosotros": "obedecéis",
+      "uds": "obedecen"
+    },
+    "futuro": {
+      "yo": "obedeceré",
+      "tu": "obedecerás",
+      "ud": "obedecerá",
+      "nosotros": "obedeceremos",
+      "vosotros": "obedeceréis",
+      "uds": "obedecerán"
+    },
+    "imperfecto": {
+      "yo": "obedecía",
+      "tu": "obedecías",
+      "ud": "obedecía",
+      "nosotros": "obedecíamos",
+      "vosotros": "obedecíais",
+      "uds": "obedecían"
+    },
+    "preterito": {
+      "yo": "obedecí",
+      "tu": "obedeciste",
+      "ud": "obedeció",
+      "nosotros": "obedecimos",
+      "vosotros": "obedecisteis",
+      "uds": "obedecieron"
+    },
+    "condicional": {
+      "yo": "obedecería",
+      "tu": "obedecerías",
+      "ud": "obedecería",
+      "nosotros": "obedeceríamos",
+      "vosotros": "obedeceríais",
+      "uds": "obedecerían"
+    },
+    "presentePerfecto": {
+      "yo": "he obedecido",
+      "tu": "has obedecido",
+      "ud": "ha obedecido",
+      "nosotros": "hemos obedecido",
+      "vosotros": "habéis obedecido",
+      "uds": "han obedecido"
+    },
+    "futuroPerfecto": {
+      "yo": "habré obedecido",
+      "tu": "habrás obedecido",
+      "ud": "habrá obedecido",
+      "nosotros": "habremos obedecido",
+      "vosotros": "habréis obedecido",
+      "uds": "habrán obedecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "había obedecido",
+      "tu": "habías obedecido",
+      "ud": "había obedecido",
+      "nosotros": "habíamos obedecido",
+      "vosotros": "habíais obedecido",
+      "uds": "habían obedecido"
+    },
+    "preteritoAnterior": {
+      "yo": "hube obedecido",
+      "tu": "hubiste obedecido",
+      "ud": "hubo obedecido",
+      "nosotros": "hubimos obedecido",
+      "vosotros": "hubisteis obedecido",
+      "uds": "hubieron obedecido"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría obedecido",
+      "tu": "habrías obedecido",
+      "ud": "habría obedecido",
+      "nosotros": "habríamos obedecido",
+      "vosotros": "habríais obedecido",
+      "uds": "habrían obedecido"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "obedezca",
+      "tu": "obedezcas",
+      "ud": "obedezca",
+      "nosotros": "obedezcamos",
+      "vosotros": "obedezcáis",
+      "uds": "obedezcan"
+    },
+    "imperfecto": {
+      "yo": "obedeciera",
+      "tu": "obedecieras",
+      "ud": "obedeciera",
+      "nosotros": "obedeciéramos",
+      "vosotros": "obedecierais",
+      "uds": "obedecieran"
+    },
+    "futuro": {
+      "yo": "obedeciere",
+      "tu": "obedecieres",
+      "ud": "obedeciere",
+      "nosotros": "obedeciéremos",
+      "vosotros": "obedeciereis",
+      "uds": "obedecieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya obedecido",
+      "tu": "hayas obedecido",
+      "ud": "haya obedecido",
+      "nosotros": "hayamos obedecido",
+      "vosotros": "hayáis obedecido",
+      "uds": "hayan obedecido"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere obedecido",
+      "tu": "hubieres obedecido",
+      "ud": "hubiere obedecido",
+      "nosotros": "hubiéremos obedecido",
+      "vosotros": "hubiereis obedecido",
+      "uds": "hubieren obedecido"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera obedecido",
+      "tu": "hubieras obedecido",
+      "ud": "hubiera obedecido",
+      "nosotros": "hubiéramos obedecido",
+      "vosotros": "hubierais obedecido",
+      "uds": "hubieran obedecido"
+    },
+    "imperfectoAlt": {
+      "yo": "obedeciese",
+      "tu": "obedecieses",
+      "ud": "obedeciese",
+      "nosotros": "obedeciésemos",
+      "vosotros": "obedecieseis",
+      "uds": "obedeciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese obedecido",
+      "tu": "hubieses obedecido",
+      "ud": "hubiese obedecido",
+      "nosotros": "hubiésemos obedecido",
+      "vosotros": "hubieseis obedecido",
+      "uds": "hubiesen obedecido"
+    }
+  },
+  "afirmativo": {
+    "tu": "obedece",
+    "vosotros": "obedeced",
+    "ud": "obedezca",
+    "uds": "obedezcan"
+  },
+  "negativo": {
+    "tu": "no obedezcas",
+    "vosotros": "no obedezcáis",
+    "ud": "no obedezca",
+    "uds": "no obedezcan"
+  },
+  "english": {
+    "note": "Formas irregulares: obedezco, obedezca, obedezcas, etc.",
+    "infinitivo": "to obey",
+    "gerundio": "obeying",
+    "participioPasado": "obeyed",
+    "indicativo": {
+      "presente": "I obey, am obeying",
+      "futuro": "I will obey",
+      "imperfecto": "I was obeying, used to obey, obeyed",
+      "preterito": "I obeyed",
+      "condicional": "I would obey",
+      "presentePerfecto": "I have obeyed",
+      "futuroPerfecto": "I will have obeyed",
+      "pluscuamperfecto": "I had obeyed",
+      "preteritoAnterior": "I had obeyed",
+      "condicionalPerfecto": "I would have obeyed"
+    },
+    "subjuntivo": {
+      "presente": "I obey, am obeying",
+      "imperfecto": "I obeyed, was obeying",
+      "futuro": "I will obey",
+      "presentePerfecto": "I have obeyed, obeyed",
+      "futuroPerfecto": "I will have obeyed",
+      "pluscuamperfecto": "I had obeyed"
+    },
+    "afirmativo": "Obey!",
+    "negativo": "Don't obey!"
+  },
+  "attribution": "Fred Jehle"
+}

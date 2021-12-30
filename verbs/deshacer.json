@@ -1,0 +1,195 @@
+{
+  "regular": false,
+  "infinitivo": "deshacer",
+  "gerundio": "deshaciendo",
+  "participioPasado": "deshecho",
+  "indicativo": {
+    "presente": {
+      "yo": "deshago",
+      "tu": "deshaces",
+      "ud": "deshace",
+      "nosotros": "deshacemos",
+      "vosotros": "deshacéis",
+      "uds": "deshacen"
+    },
+    "futuro": {
+      "yo": "desharé",
+      "tu": "desharás",
+      "ud": "deshará",
+      "nosotros": "desharemos",
+      "vosotros": "desharéis",
+      "uds": "desharán"
+    },
+    "imperfecto": {
+      "yo": "deshacía",
+      "tu": "deshacías",
+      "ud": "deshacía",
+      "nosotros": "deshacíamos",
+      "vosotros": "deshacíais",
+      "uds": "deshacían"
+    },
+    "preterito": {
+      "yo": "deshice",
+      "tu": "deshiciste",
+      "ud": "deshizo",
+      "nosotros": "deshicimos",
+      "vosotros": "deshicisteis",
+      "uds": "deshicieron"
+    },
+    "condicional": {
+      "yo": "desharía",
+      "tu": "desharías",
+      "ud": "desharía",
+      "nosotros": "desharíamos",
+      "vosotros": "desharíais",
+      "uds": "desharían"
+    },
+    "presentePerfecto": {
+      "yo": "he deshecho",
+      "tu": "has deshecho",
+      "ud": "ha deshecho",
+      "nosotros": "hemos deshecho",
+      "vosotros": "habéis deshecho",
+      "uds": "han deshecho"
+    },
+    "futuroPerfecto": {
+      "yo": "habré deshecho",
+      "tu": "habrás deshecho",
+      "ud": "habrá deshecho",
+      "nosotros": "habremos deshecho",
+      "vosotros": "habréis deshecho",
+      "uds": "habrán deshecho"
+    },
+    "pluscuamperfecto": {
+      "yo": "había deshecho",
+      "tu": "habías deshecho",
+      "ud": "había deshecho",
+      "nosotros": "habíamos deshecho",
+      "vosotros": "habíais deshecho",
+      "uds": "habían deshecho"
+    },
+    "preteritoAnterior": {
+      "yo": "hube deshecho",
+      "tu": "hubiste deshecho",
+      "ud": "hubo deshecho",
+      "nosotros": "hubimos deshecho",
+      "vosotros": "hubisteis deshecho",
+      "uds": "hubieron deshecho"
+    },
+    "condicionalPerfecto": {
+      "yo": "habría deshecho",
+      "tu": "habrías deshecho",
+      "ud": "habría deshecho",
+      "nosotros": "habríamos deshecho",
+      "vosotros": "habríais deshecho",
+      "uds": "habrían deshecho"
+    }
+  },
+  "subjuntivo": {
+    "presente": {
+      "yo": "deshaga",
+      "tu": "deshagas",
+      "ud": "deshaga",
+      "nosotros": "deshagamos",
+      "vosotros": "deshagáis",
+      "uds": "deshagan"
+    },
+    "imperfecto": {
+      "yo": "deshiciera",
+      "tu": "deshicieras",
+      "ud": "deshiciera",
+      "nosotros": "deshiciéramos",
+      "vosotros": "deshicierais",
+      "uds": "deshicieran"
+    },
+    "futuro": {
+      "yo": "deshiciere",
+      "tu": "deshicieres",
+      "ud": "deshiciere",
+      "nosotros": "deshiciéremos",
+      "vosotros": "deshiciereis",
+      "uds": "deshicieren"
+    },
+    "presentePerfecto": {
+      "yo": "haya deshecho",
+      "tu": "hayas deshecho",
+      "ud": "haya deshecho",
+      "nosotros": "hayamos deshecho",
+      "vosotros": "hayáis deshecho",
+      "uds": "hayan deshecho"
+    },
+    "futuroPerfecto": {
+      "yo": "hubiere deshecho",
+      "tu": "hubieres deshecho",
+      "ud": "hubiere deshecho",
+      "nosotros": "hubiéremos deshecho",
+      "vosotros": "hubiereis deshecho",
+      "uds": "hubieren deshecho"
+    },
+    "pluscuamperfecto": {
+      "yo": "hubiera deshecho",
+      "tu": "hubieras deshecho",
+      "ud": "hubiera deshecho",
+      "nosotros": "hubiéramos deshecho",
+      "vosotros": "hubierais deshecho",
+      "uds": "hubieran deshecho"
+    },
+    "imperfectoAlt": {
+      "yo": "deshiciese",
+      "tu": "deshicieses",
+      "ud": "deshiciese",
+      "nosotros": "deshiciésemos",
+      "vosotros": "deshicieseis",
+      "uds": "deshiciesen"
+    },
+    "pluscuamperfectoAlt": {
+      "yo": "hubiese deshecho",
+      "tu": "hubieses deshecho",
+      "ud": "hubiese deshecho",
+      "nosotros": "hubiésemos deshecho",
+      "vosotros": "hubieseis deshecho",
+      "uds": "hubiesen deshecho"
+    }
+  },
+  "afirmativo": {
+    "tu": "deshaz",
+    "vosotros": "deshaced",
+    "ud": "deshaga",
+    "uds": "deshagan"
+  },
+  "negativo": {
+    "tu": "no deshagas",
+    "vosotros": "no deshagáis",
+    "ud": "no deshaga",
+    "uds": "no deshagan"
+  },
+  "english": {
+    "note": "Formas irregulares: deshago, deshaga, deshagas, etc. Radical irregular en el futuro y condicional: deshar-. Radical fuerte en el pretérito, con cambio ortográfico: deshic-/deshiz-. Participio pasado irregular: deshecho. Mandato familiar singular irregular: deshaz.",
+    "infinitivo": "to undo, unmake, ruin, spoil, take apart",
+    "gerundio": "undoing",
+    "participioPasado": "undone",
+    "indicativo": {
+      "presente": "I undo, am undoing",
+      "futuro": "I will undo",
+      "imperfecto": "I was undoing, used to undo, undid",
+      "preterito": "I undid",
+      "condicional": "I would undo",
+      "presentePerfecto": "I have undone",
+      "futuroPerfecto": "I will have undone",
+      "pluscuamperfecto": "I had undone",
+      "preteritoAnterior": "I had undone",
+      "condicionalPerfecto": "I would have undone"
+    },
+    "subjuntivo": {
+      "presente": "I undo, am undoing",
+      "imperfecto": "I undid, was undoing",
+      "futuro": "I will undo",
+      "presentePerfecto": "I have undone, undid",
+      "futuroPerfecto": "I will have undone",
+      "pluscuamperfecto": "I had undone"
+    },
+    "afirmativo": "Undo!",
+    "negativo": "Don't undo!"
+  },
+  "attribution": "Fred Jehle"
+}
