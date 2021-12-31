@@ -1,0 +1,11 @@
+// this is the config just for the generator
+{
+    "compilerOptions": {
+      "lib": [ "ESNext" ],
+      "target": "ES2020",
+      "module": "ES2015",
+      "outDir": "../../.work/generate-package",
+      "allowSyntheticDefaultImports": true,
+      "moduleResolution": "Node"
+    },
+  }
