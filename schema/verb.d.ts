@@ -53,7 +53,7 @@ export type English = {
 }
 
 
-export type Verb = {
+export interface SpanishVerb {
     regular: boolean
     indicativo: Indicativo<Forms>
     subjuntivo: Subjuntivo<Forms> & SubjuntivoAlt<Forms>
