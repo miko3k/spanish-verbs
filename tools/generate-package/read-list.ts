@@ -1,9 +1,9 @@
 import { readdir, readFile } from "fs/promises";
 import { join } from "path";
-import { SpanishVerb } from "./schema/verb.js";
-import { SpanishVerbWithId } from "./schema/verb-with-id.js";
+import { Verbo, Schema } from "./schema/verbo.js";
 
-export async function* readList(dir: string): AsyncGenerator<SpanishVerbWithId> {
+
+export async function* readList(dir: string): AsyncGenerator<Verbo> {
     const suffix = '.json';
 
     const files = await readdir(dir)
@@ -12,7 +12,7 @@ export async function* readList(dir: string): AsyncGenerator<SpanishVerbWithId> 
             continue;
         }
         const body = await readFile(join(dir, f), "utf8")
-        const data: SpanishVerb = JSON.parse(body)
+        const data: Schema = JSON.parse(body)
         yield {
             id: f.substring(0, f.length-suffix.length),
             ...data

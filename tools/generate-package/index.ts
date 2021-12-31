@@ -1,47 +1,51 @@
 // we must always use ".js"-extension
 // https://stackoverflow.com/a/62626938/1623826
-// https://github.com/microsoft/TypeScript/issues/46452
+// https://github.com/microsoft/TypeScript/issues/16577#issuecomment-754941937
+// https://github.com/microsoft/TypeScript/issues/16577#issuecomment-703190339
+
 import { writeFile } from "fs/promises";
 import mkdirp from "mkdirp";
 import { join } from "path";
-import { SpanishVerbWithId } from "./schema/verb-with-id.js";
 import { freqTableNameGen, freqTable, cachedFreqTable } from "./freq-table.js";
 import { Get, withCache } from "./get.js";
 import { readList } from "./read-list.js";
+import { Verbo } from "./schema/verbo.js";
 
-const IMPORT = 'import { SpanishVerbWithId } from "./verb-with-id"'
-
+const SCHEMA_FILE = '"./verbo"'
+const IMPORT = `import { Verbo } from ${SCHEMA_FILE}`
+const TYPE = "Verbo"
 
 interface Arguments {
     get: Get
     dataDir: string;
     outDir: string;
-    //schemaDir: string;
 }
 
-const singleFile = (data: SpanishVerbWithId) => 
+const singleFile = (data: Verbo) => 
 `
 // generated source, do not edit
 ${IMPORT}
 
 /** Spanish verb "${data.infinitivo}" */
-export const ${data.id}: SpanishVerbWithId = ${JSON.stringify(data, undefined, 2)};
+export const ${data.id}: ${TYPE} = ${JSON.stringify(data, undefined, 2)};
 `
 
-const makeImport = (value: SpanishVerbWithId) => `import { ${value.id} } from "./${value.id}"`
-const makeReexport = (value: SpanishVerbWithId) => `export { ${value.id} } from "./${value.id}"`
-const makeRef = (value: SpanishVerbWithId) => `        ${value.id},`
-const byAlphabet = (data: SpanishVerbWithId[]) => [...data].sort((a, b)=>a.id.localeCompare(b.id, "en"))
+const makeImport = (value: Verbo) => `import { ${value.id} } from "./${value.id}.js"`
+const makeReexport = (value: Verbo) => `export { ${value.id} } from "./${value.id}.js"`
+const makeRef = (value: Verbo) => `        ${value.id},`
+const byAlphabet = (data: Verbo[]) => [...data].sort((a, b)=>a.id.localeCompare(b.id, "en"))
 
-const multiFile = (data: SpanishVerbWithId[]) => 
+const multiFile = (data: Verbo[]) => 
 `
 // generated source, do not edit
-${IMPORT}
-${byAlphabet(data).map(makeImport).join('\n')}
+export type { Forms, ImperativoForms, Indicativo, Subjuntivo, SubjuntivoAlt, English, Schema, Verbo  } from ${SCHEMA_FILE}
 ${byAlphabet(data).map(makeReexport).join('\n')}
 
+${IMPORT}
+${byAlphabet(data).map(makeImport).join('\n')}
+
 /** Returns the list of spanish verbs, ordererd by importance */
-export default function verbos(): SpanishVerbWithId[] {
+export function verbos(): ${TYPE}[] {
     return [
         ${data.map(makeRef).join('\n')}
     ]
@@ -56,7 +60,7 @@ async function copySchema(args: Arguments, file: string) {
 async function main(args: Arguments) {
     try {
         const freq = cachedFreqTable(await freqTable(args.get));
-        const list: SpanishVerbWithId[] = []
+        const list: Verbo[] = []
         await mkdirp(args.outDir);
 
         for await (let value of readList(args.dataDir)) {
@@ -78,7 +82,7 @@ async function main(args: Arguments) {
 }
 
 main({
-    get: withCache('.work/freq_table', freqTableNameGen),
+    get: withCache('.cache/freq_table', freqTableNameGen),
     dataDir: 'verbs',
     outDir: '.work/typescript'
 })

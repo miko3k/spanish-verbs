@@ -52,8 +52,10 @@ export type English = {
     participioPasado: string;
 }
 
-
-export interface SpanishVerb {
+/**
+ * This corresponds to the JSON data
+ */
+export interface Schema {
     regular: boolean
     indicativo: Indicativo<Forms>
     subjuntivo: Subjuntivo<Forms> & SubjuntivoAlt<Forms>
@@ -62,6 +64,10 @@ export interface SpanishVerb {
     negativo: ImperativoForms;
     gerundio: string;
     participioPasado: string;
-    english?: English;
+    english: English;
     attribution: string;
+}
+
+export interface Verbo extends Schema {
+    id: string;
 }

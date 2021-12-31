@@ -1,6 +1,6 @@
 {
     "name": "verbos",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "Conjugated Spanish Verb Database",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -9,9 +9,10 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "generate": "del-cli .work/generate-package && tsc --project tools/generate-package && node .work/generate-package/index.js && copyfiles -f tools/generate-package/schema/*.d.ts .work/typescript",
-        "build": "tsc && copyfiles -f tools/generate-package/schema/*.d.ts dist",
-        "clean-package": "del-cli .work/typescript dist",
-        "clean": "del-cli .work dist"
+        "compile": "tsc && copyfiles -f tools/generate-package/schema/*.d.ts dist",
+        "wipe": "del-cli .work dist",
+        "clean": "del-cli .work dist .cache",
+        "prepare": "npm run wipe && npm run generate && npm run compile"
     },
     "repository": {
         "type": "git",
