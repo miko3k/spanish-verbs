@@ -30,9 +30,9 @@ export type Indicativo<T> = {
 export type Subjuntivo<T> = {
     presente: T;
     imperfecto: T;
-    futuro?: T;
+    futuro: T;
     presentePerfecto: T;
-    futuroPerfecto?: T;
+    futuroPerfecto: T;
     pluscuamperfecto: T;
 }
 
