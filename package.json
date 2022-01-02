@@ -1,6 +1,6 @@
 {
     "name": "verbos",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Conjugated Spanish Verb Database",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
