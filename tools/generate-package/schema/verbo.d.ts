@@ -23,7 +23,7 @@ export type Indicativo<T> = {
     presentePerfecto: T;	
     futuroPerfecto: T;
     pluscuamperfecto: T;
-    preteritoAnterior?: T;
+    preteritoAnterior: T;
     condicionalPerfecto: T;
 }
 
