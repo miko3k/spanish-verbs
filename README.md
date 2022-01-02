@@ -19,25 +19,28 @@ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unporte
 
 ## the JSON
 
-[See yourself](https://github.com/miko3k/verbos/blob/master/verbs/compartir.json), the format is self-explanatory.
+[See yourself](verbs/compartir.json), the format is self-explanatory.
 
 ## The npm package
 
-First step is to grab the package
+First install the package
 ```
 npm i verbos
 ```
 
-Second step involves usign the pacakge
 
+Using the package is quite straightforward
 ```
-import { Verbo, verbos, compartir } from "verbos";
+// you can import individual words
+import { compartir } from "verbos";
 
-// get list
-console.log(verbos())
-
-// get one verb
 console.log(compartir.infinitivo)
+
+// There's also a function which returns the list of all words
+// orderd by importance
+import { verbos } from "verbos";
+
+console.log(verbos())
 ```
 
-The list will be ordered by [importance](https://en.wiktionary.org/w/index.php?title=User:Matthias_Buchmeier). The package also includes proper typing for Typescript. Note that all javascript for the package is generated from the JSON files as well.
+The list will be ordered by [importance](https://en.wiktionary.org/w/index.php?title=User:Matthias_Buchmeier#Spanish_frequency_list). The package also includes proper typing for Typescript. Note that all javascript for the package is generated from the JSON files. They are also bundled in the package should you need them.
