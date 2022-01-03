@@ -4,7 +4,7 @@ JSON databases of 600+ conjugated Spanish verbs forming 11,000+ combinations of 
 
 This repository is a convertsion into the JSON format. It also fixes plenty of issues and adds some additional information from the original source.
 
-You are free to use the [JSON data](verbs/compartir.json) directly or grab our [npm package](https://www.npmjs.com/package/verbos).
+You are free to use the [JSON data](verbs) directly or grab the [npm package](https://www.npmjs.com/package/verbos).
 
 The original database has been incorporated into a number of tools including:
 
