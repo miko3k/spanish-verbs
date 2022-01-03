@@ -18,7 +18,7 @@ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unporte
 ## The npm package
 
 Using the [package](https://www.npmjs.com/package/verbos) is quite straightforward
-```
+```javascript
 // you can import individual words
 import { compartir } from "verbos";
 
@@ -34,6 +34,7 @@ console.log(verbos())
 Some highlights:
 * The list will be ordered by [importance](https://en.wiktionary.org/w/index.php?title=User:Matthias_Buchmeier#Spanish_frequency_list)
 * Typescript typings are included
-* Note that all javascript is generated from the the JSON files
+* Note that all javascript code is generated from the the JSON sources
 * The JSON files are also bundled in the package should you need them
-* If you are interested only in a few verbs, be careful not to call the function `verbos()` as it effectively prohibits the [tree shaking](https://webpack.js.org/guides/tree-shaking/)
+* If you are interested only in a few verbs, be please avoid calling `verbos()` as it effectively prohibits the [tree shaking](https://webpack.js.org/guides/tree-shaking/)
+* [Typescript schema](tools/generate-package/schema/verbo.d.ts) is same as JSON sources, with one addtional field `id`, which contains the filename without `.json` extension
