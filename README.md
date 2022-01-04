@@ -38,3 +38,4 @@ Some highlights:
 * The JSON files are also bundled in the package should you need them
 * If you are interested only in a few verbs, be please avoid calling `verbos()` as it effectively prohibits the [tree shaking](https://webpack.js.org/guides/tree-shaking/)
 * [Typescript schema](tools/generate-package/schema/verbo.d.ts) is same as JSON sources, with one addtional field `id`, which contains the filename without `.json` extension
+* No dependencies!
