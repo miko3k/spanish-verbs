@@ -36,6 +36,6 @@ Keep in mind that:
 * Typescript typings are included
 * Note that all javascript code is generated from the the JSON sources, the JSON is the single source of truth
 * The JSON files are also bundled in the package should you need them
-* If you are interested only in a few verbs, be please avoid calling `verbos()` as it effectively prohibits the [tree shaking](https://webpack.js.org/guides/tree-shaking/)
+* If you are interested only in a few verbs, be careful to avoid calling `verbos()` as it effectively prohibits the [tree shaking](https://webpack.js.org/guides/tree-shaking/)
 * The [Typescript schema](tools/generate-package/schema/verbo.d.ts) is same as JSON one, with one addtional field `id`, which contains the filename without `.json` extension
 * No dependencies!
